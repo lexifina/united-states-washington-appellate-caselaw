@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "18362-9-III"
+decided: "2000-04-18"
+citations: ["101 Wash. App. 56", "100 Wash. App. 1034"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Kathy Kay Balcom, Respondent, and Timothy Gene Fritchle, Appellant."]
+source_url: "https://static.case.law/wash-app/101/cases/0056-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1170544
+cites_cases: ["101 Wn. App. 56", "137 Wash. 448", "137 Wn.2d 979", "242 P. 969", "32 Gonz. L. Rev. 1", "976 P.2d 1240"]
+---
+
+# In re the Marriage of Balcom
+
+## Majority (Kurtz, C.J.)
+
+Kurtz, C.J.
+Kathy Balcom sought modification of a support order to obtain postsecondary support for her daughter. When the superior court commissioner denied this request, Ms. Balcom filed a motion for revision along with an affidavit containing additional evidence. The trial court revised the commissioner’s ruling and ordered the father to pay one-half of the daughter’s postsecondary tuition costs, with payment not to exceed $2,500 annually. He appeals contending the trial court erred by: (1) conducting a de novo review of the commissioner’s ruling, (2) considering additional evidence, and (3) failing to consider all of the factors listed in RCW 26.19.090(2). We reverse and remand, and deny Ms. Balcom’s request for fees.
+FACTS
+Kathy Balcom and Timothy Fritchle are the divorced parents of three children, Chelsey, Cory and Chase. On December 8,1997, Ms. Balcom filed a petition to modify the child support order. She requested additional support for Cory and Chase who were in high school, and postsecondary support for Chelsey. Ms. Balcom also filed her 1995 and 1996 federal income tax returns and proposed child support schedules. Ms. Balcom later filed her 1997 income tax return and a current wage statement. In January 1998, Mr. Fritchle filed his financial declaration and proposed child support worksheets.
+In October 1998, Chelsey Fritchle filed a declaration stating that she was enrolled in Big Bend Community College taking 15 credit hours. She indicated that after payment of her first quarter tuition with scholarship funds, there remained only $200 in available scholarship funds. She also stated that her expenses for room and board for one quarter were $1,350 and that her prospects of obtaining a loan were not good in view of the combined income of her mother and stepfather. Chelsey provided receipts for her room and board payment, damage deposit, and book fees for the first quarter. Chelsey stated that she hoped to take 18 credit hours the next semester and that she had been unable to find a part-time job. Chelsey further stated that she had been an honor student all through high school and that her goal was to obtain an undergraduate degree and attend medical school.
+In an order dated February 3, 1999, the commissioner denied Ms. Balcom’s request for postsecondary support for Chelsey. Ms. Balcom filed a motion for revision of this ruling and also filed a supporting affidavit including a copy of Chelsey’s high school transcript and a progress report from Big Bend Community College. The court revised the commissioner’s ruling and ordered Mr. Fritchle to pay one-half of Chelsey’s postsecondary tuition costs that were not covered by scholarships or grants which did not have to be repaid, but that the amount paid by Mr. Fritchle must not exceed $2,500 annually. On appeal, Mr. Fritchle challenges the court’s decision to revise the commissioner’s ruling.
+ANALYSIS
+Mr. Fritchle contends the court erred in conducting a de novo review of the commissioner’s ruling. Relying on a law review article, Richard D. Hicks, The Power, Removal, and Revision of Superior Court Commissioners, 32 Gonz. L. Rev. 1 (1996/97), Mr. Fritchle asserts that superior courts have been mistakenly applying a de novo standard of review when the correct standard is the “substantial evidence” test.
+Revision of a commissioner’s ruling is governed by Washington Constitution article IV, section 23 and RCW 2.24.050. Washington Constitution article IV, section 23 reads as follows:
+There may be appointed in each county, by the judge of the superior court having jurisdiction therein, one or more court commissioners, not exceeding three in number, who shall have authority to perform like duties as a judge of the superior court at chambers, subject to revision by such judge, to take depositions and to perform such other business connected with the administration of justice as may be prescribed by law.
+RCW 2.24.050 provides:
+All of the acts and proceedings of court commissioners hereunder shall be subject to revision by the superior court. Any party in interest may have such revision upon demand made by written motion, filed with the clerk of the superior court, within ten days after the entry of any order or judgment of the court commissioner. Such revision shall be upon the records of the case, and the findings of fact and conclusions of law entered by the court commissioner, and unless a demand for revision is made within ten days from the entry of the order or judgment of the court commissioner, the orders and judgments shall be and become the orders and judgments of the superior court, and appellate review thereof may be sought in the same fashion as review of like orders and judgments entered by the judge.
+(Emphasis added.)
+The extent of a trial court’s review of a commissioner’s ruling was addressed in State ex rel. Biddinger v. Griffiths, 137 Wash. 448, 242 P. 969 (1926). The Biddinger court “required the trial court judge to ‘undertake an appellate court review of the certified record.’ ” In re Marriage of Moody, 137 Wn.2d 979, 992, 976 P.2d 1240 (1999) (quoting Hicks, supra, at 23). This means that the superior court’s review of the record is de novo where the evidence before the commissioner does not include live testimony. Moody, 137 Wn.2d at 993. It follows then that the superior court here did not err by conducting a de novo review.
+Mr. Fritchle next contends the superior court’s scope of review was limited to the evidence before the commissioner. Mr. Fritchle maintains the superior court erred by considering the additional evidence included with Ms. Balcom’s affidavit. Ms. Balcom contends the high school transcript and the college progress report constitute new evidence that was not previously available.
+“Generally, a superior court judge’s review of a court commissioner’s ruling, pursuant to a motion for revision, is limited to the evidence and issues presented to the commissioner.” Id. The superior court has the authority to review the records of the case, and the findings of fact and conclusions of law entered by the court commissioner. RCW 2.24.050. “In an appropriate case, the superior court judge may determine that remand to the commissioner for further proceedings is necessary.” Moody, 137 Wn.2d at 992.
+The superior court erred by considering additional evidence. We reverse and remand to permit the superior court to conduct a review limited to the evidence before the commissioner. The superior court has the authority to issue a decision based on the evidence before the commissioner or, if appropriate, may remand this matter to the commissioner for further proceedings. We deny Ms. Balcom’s request for attorney fees.
+Brown and Kato, JJ. concur.
