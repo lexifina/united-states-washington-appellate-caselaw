@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52434-8-I"
 decided: "2004-09-20"
-citations: ["124 Wash. App. 263", "123 Wash. App. 1021"]
+citations: ["124 Wash. App. 263"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Arlene A. Wright, Appellant, v. Safeco Insurance Company of America, 
 source_url: "https://static.case.law/wash-app/124/cases/0263-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684093
-cites_cases: ["105 Wn.2d 778", "108 Wn. App. 133", "111 Wn. App. 477", "118 Wn. App. 12", "119 Wn.2d 724", "121 Wn.2d 810", "124 Wn. App. 263", "134 Wn.2d 491", "134 Wn.2d 558", "142 Wn.2d 766", "146 Wn.2d 370", "15 P.3d 640", "150 Wn.2d 462", "150 Wn.2d 478", "151 Wn.2d 1010", "204 Ariz. 140", "29 P.3d 777", "35 Wn. App. 99", "45 P.3d 610", "46 P.3d 789", "57 Wn. App. 831", "64 Wn. App. 553", "656 P.2d 1077", "666 P.2d 899", "69 Wn. App. 703", "719 P.2d 531", "74 P.3d 648", "78 P.3d 1266", "78 P.3d 1274", "790 P.2d 659", "825 P.2d 714", "837 P.2d 1000", "850 P.2d 533", "854 P.2d 1072", "951 P.2d 1124", "951 P.2d 761", "98 Wn. App. 7", "98 Wn.2d 533", "99 Wn. App. 41", "990 P.2d 414", "991 P.2d 734"]
+cites_cases: ["105 Wn.2d 778", "108 Wn. App. 133", "111 Wn. App. 477", "118 Wn. App. 12", "119 Wn.2d 724", "121 Wn.2d 810", "134 Wn.2d 491", "134 Wn.2d 558", "142 Wn.2d 766", "146 Wn.2d 370", "15 P.3d 640", "150 Wn.2d 462", "150 Wn.2d 478", "151 Wn.2d 1010", "204 Ariz. 140", "29 P.3d 777", "35 Wn. App. 99", "45 P.3d 610", "46 P.3d 789", "57 Wn. App. 831", "64 Wn. App. 553", "656 P.2d 1077", "666 P.2d 899", "69 Wn. App. 703", "719 P.2d 531", "74 P.3d 648", "78 P.3d 1266", "78 P.3d 1274", "790 P.2d 659", "825 P.2d 714", "837 P.2d 1000", "850 P.2d 533", "854 P.2d 1072", "951 P.2d 1124", "951 P.2d 761", "98 Wn. App. 7", "98 Wn.2d 533", "99 Wn. App. 41", "990 P.2d 414", "991 P.2d 734"]
 ---
 
 # Wright v. Safeco Insurance Co. of America
