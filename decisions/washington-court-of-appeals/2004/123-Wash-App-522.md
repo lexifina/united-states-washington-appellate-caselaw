@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22039-7-III"
 decided: "2004-07-08"
-citations: ["123 Wash. App. 522", "122 Wash. App. 1022"]
+citations: ["123 Wash. App. 522"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James V. Woodard, as Personal Representative, Respondent, v. Jacqueli
 source_url: "https://static.case.law/wash-app/123/cases/0522-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1118107
-cites_cases: ["103 Wn.2d 431", "12 Wn. App. 756", "123 Wn.2d 522", "146 Wn.2d 420", "153 Wn.2d 1029", "294 P.2d 412", "47 P.3d 563", "48 Wn.2d 389", "531 P.2d 1283", "55 Wn. App. 193", "693 P.2d 703", "73 Wn. App. 745", "776 P.2d 1003", "871 P.2d 1079"]
+cites_cases: ["103 Wn.2d 431", "12 Wn. App. 756", "146 Wn.2d 420", "153 Wn.2d 1029", "294 P.2d 412", "47 P.3d 563", "48 Wn.2d 389", "531 P.2d 1283", "55 Wn. App. 193", "693 P.2d 703", "73 Wn. App. 745", "776 P.2d 1003", "871 P.2d 1079"]
 ---
 
 # Woodard v. Gramlow
