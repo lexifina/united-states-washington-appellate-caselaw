@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "10655-4-I"
+decided: "1984-05-09"
+citations: ["37 Wash. App. 526"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Callow and Ringold, JJ., concur."]
+parties: ["Bernice Engel, Appellant, v. Fred Breske, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/37/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1784881
+cites_cases: ["260 P.2d 905", "30 Wn. App. 119", "43 Wn.2d 192", "430 P.2d 965", "489 P.2d 928", "499 P.2d 37", "5 Wn. App. 609", "633 P.2d 92", "7 Wn. App. 139", "71 Wn.2d 820"]
+---
+
+# Engel v. Breske
+
+## Majority (Durham, C.J.)
+
+Durham, C.J.
+Bernice Engel appeals from a judgment denying her request for the imposition of a resulting trust on real property. Engel sought to establish a resulting trust in a house in which her daughter and son-in-law, Judith and Fred Breske, held record title.
+In February of 1973 Engel's daughter, Jean Magnett, urgently needed a place to live. Magnett turned to Engel for help. Engel went to a realtor, who showed her a house. On February 14, Engel executed an earnest money agreement for purchase of the house and gave the realtor $1,000. However, Engel was unable to obtain financing. She asked her son if he would try to purchase the house, but he also was unable to obtain financing. She then asked the Breskes if they would apply for the necessary mortgage papers. The Breskes agreed, and executed a new earnest money agreement on February 28. The $1,000 paid earlier by Engel was credited toward the new agreement, and was used by the realtor to cover the closing costs of the transaction. The Breskes qualified for a loan, and they executed a note for $17,500, secured by a deed of trust. Engel did not cosign the note.
+After title passed to the Breskes, Magnett moved into the house and remained in possession through the time of the trial. Magnett's rent payments to the Breskes were supplemented by rental assistance money from the Seattle Housing Authority. The rent payments reimbursed the Breskes for all of their expenditures on the house, including mortgage payments, real estate taxes, insurance premiums, and the cost of maintenance materials.
+In 1980, Engel brought suit to impose a resulting trust on the house in her favor. She claimed there had been an understanding that the Breskes would deed the property to her after they had title. She also claimed that the $1,000 consideration she furnished created a presumption of a resulting trust in her favor. The trial court found that there was no understanding or agreement to deed the house back to Engel, although there had been some discussion of the matter at the time of the sale closing. The trial court also ruled that Engel had failed to prove intent to establish a resulting trust, and that she had failed to prove she had either furnished the consideration for the house or incurred an absolute obligation to pay the consideration for the house. Engel appeals.
+Engel first assigns error to the trial court's conclusion that she failed to prove she furnished the consideration for the property. She argues that the findings of fact do not support this conclusion. In particular, she argues that because she was the only party who advanced any money toward the purchase of the property, a presumption arose that the Breskes held legal title subject to her equitable ownership.
+A resulting trust is defined as follows:
+A resulting trust arises where a person makes or causes to be made a disposition of property under circumstances which raise an inference that he does not intend that the person taking or holding the property should have the beneficial interest in the property.
+5 A. Scott, Trusts § 404.1, at 3213 (3d ed. 1967). An essential element of a resulting trust is that there be an intent that the beneficial interest in property not go with the legal title. By definition, this intent is not express but may be inferred from the terms of the disposition or from the accompanying facts and circumstances. See Lalley v. Lalley, 43 Wn.2d 192, 196, 260 P.2d 905 (1953). When the person asserting the trust has paid the consideration for the property, a presumption arises that a trust exists in that person's favor, absent evidence of a contrary intent. Richards v. Richards, 5 Wn. App. 609, 611, 489 P.2d 928 (1971). Engel argues that it was error not to give her the benefit of this presumption. This argument is without merit. Where, as here, the purported beneficiary does not furnish all of the consideration for the property, no presumption of intent to create a trust arises. In such cases, the person asserting the trust has the burden of proving its existence by clear, cogent and convincing evidence. In re Estate of Spadoni, 71 Wn.2d 820, 823, 430 P.2d 965 (1967).
+In this case, the trial court did not err in ruling that Engel had failed to prove she furnished the consideration for the property. Assuming that Engel did pay some consideration for the property, the court's ruling simply reflects the fact that she did not pay all of it, and thus could not claim to be the presumptive beneficiary of a resulting trust.
+Engel next claims that the trial court erred in concluding that she failed to meet her burden of proving the existence of the trust. She argues that the trial court erroneously believed that it was necessary that there be mutual intent or agreement between the parties in order to create a trust. Again, we conclude the argument is without merit.
+At trial Engel testified that, when the house was purchased, there was an understanding among the parties that the Breskes would eventually deed the house back to her. She now challenges the portions of the trial court's oral opinion and findings of fact which refer to the alleged understanding, and claims that the court thereby misconstrued the law of resulting trusts. In its findings of fact, the court stated:
+Considering all the testimony and exhibits, this Court finds that there was not an understanding or agreement by defendants to deed the house at 5060 Renton Avenue South to plaintiff.
+Finding of fact 20. However, having reviewed the findings as a whole, it is clear that finding of fact 20 is addressed solely to Engel's claim that an express agreement had existed. From its oral opinion, it is clear that the court was aware of the proper standard concerning the intent required to establish a resulting trust:
+"An express trust is created only if the settlor manifests an intention to create it, although the manifestation may be made by conduct as well as by words. A resulting trust arises where a person makes or causes to be made a disposition of property under circumstances which raise an inference that he does not intend that the person taking or holding the property should have the beneficial interest in the property. In other words, an. express trust is created if it appears that there was an affirmative intention to create it; whereas in the case of a resulting trust the circumstances indicate the absence of an intention to give the beneficial interest to the person in whom the legal title to the property is vested."
+The trial court correctly stated the law concerning resulting trusts, and there is no indication that the court misapplied the law in denying Engel's claim. See Diel v. Beekman, 7 Wn. App. 139, 148, 499 P.2d 37 (1972). Engel had the burden of proving the existence of a trust by clear, cogent and convincing evidence. Spadoni, at 823. This burden is not met if the evidence points to some other hypothesis or does not unmistakably point to the existence of the claimed trust. Furthermore, the trust must be found to have arisen at the time title was transferred to the trustee. Diel, at 147. Here, the trial court found that the evidence did not clearly indicate an intent to create a trust at the time the property was purchased:
+At most we have some understanding, although it may have been subjective on the plaintiff's part, some intent which was very loose, very indefinite, and very uncertain in some respects, some essential respects, as testified to by her daughter, Jean, and the plaintiff's son.
+Accordingly, the court did not err in concluding that Engel had failed to prove the existence of a resulting trust.
+The judgment is affirmed.
+Callow and Ringold, JJ., concur.
+Reconsideration denied July 27, 1984.
+Review denied by Supreme Court November 2, 1984.
+Breske contends that, because Engel's earnest money went only toward closing costs, she did not furnish any of the consideration for the property itself.
+A trial court's oral decision may be considered in interpreting findings of fact and conclusions of law, so long as there is no inconsistency. State v. Eppens, 30 Wn. App. 119, 126, 633 P.2d 92 (1981).
