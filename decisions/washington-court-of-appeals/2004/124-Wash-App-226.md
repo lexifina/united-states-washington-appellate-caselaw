@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52543-3-I"
 decided: "2004-08-23"
-citations: ["124 Wash. App. 226", "123 Wash. App. 1002"]
+citations: ["124 Wash. App. 226"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Terri L. Rusch, Respondent, and Robe
 source_url: "https://static.case.law/wash-app/124/cases/0226-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684151
-cites_cases: ["100 Wn. App. 208", "112 Wn. App. 370", "122 Wn.2d 299", "124 Wn. App. 226", "403 P.2d 664", "48 P.3d 1032", "60 Wn. App. 51", "62 Wn. App. 515", "66 Wn.2d 503", "72 Wn. App. 21", "78 Wn. App. 696", "802 P.2d 817", "814 P.2d 1208", "858 P.2d 1054", "863 P.2d 585", "89 Wn. App. 118", "899 P.2d 1", "90 Wn. App. 796", "948 P.2d 851", "954 P.2d 330", "997 P.2d 399"]
+cites_cases: ["100 Wn. App. 208", "112 Wn. App. 370", "122 Wn.2d 299", "403 P.2d 664", "48 P.3d 1032", "60 Wn. App. 51", "62 Wn. App. 515", "66 Wn.2d 503", "72 Wn. App. 21", "78 Wn. App. 696", "802 P.2d 817", "814 P.2d 1208", "858 P.2d 1054", "863 P.2d 585", "89 Wn. App. 118", "899 P.2d 1", "90 Wn. App. 796", "948 P.2d 851", "954 P.2d 330", "997 P.2d 399"]
 ---
 
 # In re the Marriage of Rusch
