@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34984-8-I"
 decided: "1996-01-16"
-citations: ["80 Wash. App. 565", "80 Wash. App. 1025"]
+citations: ["80 Wash. App. 565"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Allstate Insurance Company, Respondent, v. James Robert Peasley, et a
 source_url: "https://static.case.law/wash-app/80/cases/0565-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 420896
-cites_cases: ["1 Wn.2d 635", "102 Wn.2d 477", "122 Wn.2d 180", "124 Wn.2d 865", "125 A.L.R. 1100", "129 Wn.2d 1013", "16 F.3d 222", "177 A.D.2d 871", "571 N.Y.S.2d 429", "571 So. 2d 1001", "574 N.E.2d 1035", "576 N.Y.S.2d 639", "658 So. 2d 750", "662 So. 2d 1", "687 P.2d 1139", "78 N.Y.2d 41", "795 F. Supp. 272", "80 Wn. App. 565", "840 F. Supp. 679", "859 P.2d 586", "881 P.2d 1001", "96 P.2d 588"]
+cites_cases: ["1 Wn.2d 635", "102 Wn.2d 477", "122 Wn.2d 180", "124 Wn.2d 865", "125 A.L.R. 1100", "129 Wn.2d 1013", "16 F.3d 222", "177 A.D.2d 871", "571 N.Y.S.2d 429", "571 So. 2d 1001", "574 N.E.2d 1035", "576 N.Y.S.2d 639", "658 So. 2d 750", "662 So. 2d 1", "687 P.2d 1139", "78 N.Y.2d 41", "795 F. Supp. 272", "840 F. Supp. 679", "859 P.2d 586", "881 P.2d 1001", "96 P.2d 588"]
 ---
 
 # Allstate Insurance v. Peasley
