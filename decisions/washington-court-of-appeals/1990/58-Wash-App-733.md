@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12554-4-II"
 decided: "1990-06-21"
-citations: ["58 Wash. App. 733", "58 Wash. App. 1020"]
+citations: ["58 Wash. App. 733"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Keith Daniel Morgavi, Appella
 source_url: "https://static.case.law/wash-app/58/cases/0733-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754129
-cites_cases: ["100 Wn.2d 686", "105 Wn.2d 632", "106 Wn.2d 144", "107 Wn.2d 1033", "15 Wn. App. 98", "20 Wn. App. 462", "20 Wn. App. 717", "37 Wn. App. 628", "435 F.2d 385", "44 Wn. App. 830", "506 P.2d 892", "53 Wn. App. 543", "54 Wn. App. 18", "547 P.2d 295", "572 P.2d 1102", "58 Wn. App. 733", "581 P.2d 1371", "582 P.2d 558", "647 P.2d 489", "674 P.2d 1240", "683 P.2d 1110", "716 P.2d 295", "720 P.2d 436", "723 P.2d 534", "768 P.2d 502", "771 P.2d 770", "8 Wn. App. 306", "89 Wn.2d 467", "91 Wn.2d 1008", "97 Wn.2d 562"]
+cites_cases: ["100 Wn.2d 686", "105 Wn.2d 632", "106 Wn.2d 144", "107 Wn.2d 1033", "15 Wn. App. 98", "20 Wn. App. 462", "20 Wn. App. 717", "37 Wn. App. 628", "435 F.2d 385", "44 Wn. App. 830", "506 P.2d 892", "53 Wn. App. 543", "54 Wn. App. 18", "547 P.2d 295", "572 P.2d 1102", "581 P.2d 1371", "582 P.2d 558", "647 P.2d 489", "674 P.2d 1240", "683 P.2d 1110", "716 P.2d 295", "720 P.2d 436", "723 P.2d 534", "768 P.2d 502", "771 P.2d 770", "8 Wn. App. 306", "89 Wn.2d 467", "91 Wn.2d 1008", "97 Wn.2d 562"]
 ---
 
 # State v. Morgavi
