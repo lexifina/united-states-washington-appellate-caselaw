@@ -1,0 +1,41 @@
+---
+court: "Washington Court of Appeals"
+docket: "38044-3-I"
+decided: "1997-04-28"
+citations: ["86 Wash. App. 69"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Everett Police Department, Appellant, v. Real Property Known as 4827 268th Street N.W, Stanwood, Snohomish County, Washington, Respondent."]
+source_url: "https://static.case.law/wash-app/86/cases/0069-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1279061
+cites_cases: ["120 Wn.2d 68", "133 Wn.2d 1014", "838 P.2d 111", "845 P.2d 1325"]
+---
+
+# City of Everett Police Department v. Real Property Known as 4827 268th Street N.W, Stanwood
+
+## Majority (Coleman, J.)
+
+Coleman, J.
+Under Washington law, real property presently being used with the owner’s knowledge as a marijuana grow operation is subject to forfeiture. RCW 69.50.505(a)(8). If, however, the operation ceased due to "law enforcement intervention,” the "present” requirement is nevertheless satisfied. Tellevik v. Real Property, 120 Wn.2d 68, 76, 838 P.2d 111 (1992), 845 P.2d 1325 (1993). The Everett Police Department filed a forfeiture action under this statute for the property at 4827 268th St. N.W. in Stanwood. The trial court dismissed the action because no grow operation existed at the time the warrant was executed. The City appeals, arguing that a grow operation had existed recently and only ceased because law enforcement activity had made the grow operator suspicious. We hold that the police involvement in this case does not constitute "law enforcement intervention” and thus affirm.
+According to Detective Fred Heifers’ affidavit, Heifers received information that Ray Canell might be involved in a grow operation. In late July 1995, Heifers contacted the Public Utilities District (PUD) to check the property for possible power diversion. On August 8, 1995, PUD employee Dave Clark told Heifers that he had confronted Canell at the Stanwood property, who acted suspicious and nervous.
+On August 9, 1995, Heifers drove to the address and saw a large rental truck backed up to the front doors of one of the buildings on the property. Fearing that the suspects may be moving a marijuana grow operation, Heifers arranged with two other detectives to conduct a "knock and talk.” Canell refused consent. Heifers then received a search warrant for the truck and the building located on the property.
+That same day, the Everett Police Department served the search warrant. At the time of its execution, there was no existing marijuana grow operation, nor were there significant amounts of marijuana present. Circumstantial evidence, however, indicated that a marijuana grow operation was conducted on. the property as recently as twenty-four to forty-eight hours before the execution of the search warrant.
+The property owner brought a motion to dismiss the forfeiture action. The trial court granted that motion, finding that RCW 69.50.505 required an existing prohibited use at the time of law enforcement intervention to support a real property forfeiture action.
+The sole issue on appeal is whether the trial court erred in finding that the grow operation did not cease due to law enforcement intervention. The City argues that law enforcement intervention includes the police investigation that caused Canell to move the grow operation, and, therefore, the forfeiture statute’s present requirement is met.
+The forfeiture statute provides in relevant part:
+(a) The following are subject to seizure and forfeiture and no property right exists in them:
+(8) All real property, including any right, title, and interest in the whole of any lot or tract of land, and any appurtenances or improvements which are being used with the knowledge of the owner for the manufacturing, compounding, processing, delivery, importing, or exporting of any controlled substance .... However:
+(iii) The possession of marijuana shall not result in the forfeiture of real property unless the marijuana is possessed for commercial purposes, the amount possessed is five or more plants or one pound or more of marijuana, and a substantial nexus exists between the possession of marijuana and the real property.
+RCW 69.50.505(a)(8) (emphasis added).
+The Washington State Supreme Court interpreted this statute in Tellevik, where the police, in two consolidated cases, discovered marijuana grow operations upon the execution of search warrants. Months later, when the police brought complaints for forfeiture, the defendants argued that the property was not subject to forfeiture because the property was not "being used” as a grow operation when seized. Tellevik, 120 Wn.2d at 72-74.
+The Tellevik court determined that under a plain reading of the statute, the "being used” language meant that the forfeiture statute applied only when the property was presently being used as a grow operation when seized. Tellevik, 120 Wn.2d at 76. The court, however, created an exception to the rule, holding that this present status was not lost "when illegal conduct ceases due to law enforcement intervention.” Tellevik, 120 Wn.2d at 76. Otherwise, the court reasoned, the legislative purpose of removing the profit incentive from drug trafficking would be thwarted because law enforcement would rarely be able to establish the requisite probable cause for the property’s seizure before searching the property and arresting its occupants. Tellevik, 120 Wn.2d at 77.
+The City argues that here, a grow operation was also presently taking place that ceased "due to law enforcement intervention.” The City claims that the intervention was the police investigation, which included the PUD employee installing the meter under police instruction and the "knock and talk.” The City reasons that those acts caused Canell to move the grow operation based on fears that the police knew of his activities.
+We reject this broad interpretation of "law enforcement intervention.” The Tellevik court created a narrow exception to the forfeiture statute’s plain and unambiguous "present” requirement to read meaning into the statute: After the police execute a search warrant, discover an ongoing grow operation, and arrest the people running the operation, it is axiomatic that no "present” grow operation will exist when the police later attempt to seize the property. Those circumstances do not exist here when a present grow operation was never discovered and when the police did not shut down the operation. Thus, we hold that the PUD employee’s activities coupled with the "knock and talk” that purportedly caused Canell to move the grow operation does not constitute law enforcement intervention.
+This conclusion is reinforced by the plain language of the forfeiture statute. For instance, the statute’s provision on real property contains the language, "being used.” RCW 69.50.505(8). In contrast, the same forfeiture statute’s provisions for other types of property contain broader language, including things that "are used or intended for use.” Cf. RCW 69.50.505(2)-(7). Thus, the Legislature explicitly narrowed the circumstances under which real property was subject to seizure and forfeiture. In the absence of a legislative mandate, we will not expand these circumstances beyond the narrow exception created in Tellevik.
+Moreover, the City’s broad interpretation of "law enforcement intervention” creates a vague standard. This is because the police could claim that the most minimal law enforcement inquiries that ostensibly lead grow operators to move their operations constitute "law enforcement intervention,” such as patrolling an area or, as in this case, conducting a "knock and talk.” Indeed, the City conceded at oral argument that the "knock and talk” alone would not constitute law enforcement intervention. We therefore do not see how the "knock and talk”, coupled with the activities of the PUD employee who was not a law enforcement officer, could possibly constitute law enforcement intervention.
+Consequently, the trial court properly dismissed the City’s case because the property is not subject to forfeiture.
+Affirmed.
+Agid and Cox, JJ., concur.
+Review denied at 133 Wn.2d 1014 (1997).
