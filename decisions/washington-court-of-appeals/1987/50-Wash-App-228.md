@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20973-6-I"
 decided: "1987-12-08"
-citations: ["50 Wash. App. 228", "49 Wash. App. 1078"]
+citations: ["50 Wash. App. 228"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Robert Curwood, Appellant."]
 source_url: "https://static.case.law/wash-app/50/cases/0228-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1706290
-cites_cases: ["102 Wn.2d 348", "109 Wn.2d 1", "109 Wn.2d 29", "14 Gonz. L. Rev. 369", "34 Wn. App. 82", "38 Wn. App. 809", "41 Wn. App. 275", "46 Wn. App. 52", "50 Wn. App. 228", "582 P.2d 863", "640 P.2d 7", "659 P.2d 1124", "684 P.2d 1293", "690 P.2d 601", "703 P.2d 1075", "728 P.2d 1102", "742 P.2d 1244", "743 P.2d 240", "90 Wn.2d 370", "96 Wn.2d 950"]
+cites_cases: ["102 Wn.2d 348", "109 Wn.2d 1", "109 Wn.2d 29", "14 Gonz. L. Rev. 369", "34 Wn. App. 82", "38 Wn. App. 809", "41 Wn. App. 275", "46 Wn. App. 52", "582 P.2d 863", "640 P.2d 7", "659 P.2d 1124", "684 P.2d 1293", "690 P.2d 601", "703 P.2d 1075", "728 P.2d 1102", "742 P.2d 1244", "743 P.2d 240", "90 Wn.2d 370", "96 Wn.2d 950"]
 ---
 
 # State v. Curwood
