@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21723-0-III; 21724-8-III; 21725-6-III"
 decided: "2004-03-04"
-citations: ["120 Wash. App. 681", "120 Wash. App. 1036"]
+citations: ["120 Wash. App. 681"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Roger Michael Hotrum, Appella
 source_url: "https://static.case.law/wash-app/120/cases/0681-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422748
-cites_cases: ["111 Wn.2d 385", "116 Wn. App. 833", "120 Wn. App. 681", "123 Wn.2d 138", "138 Wn.2d 638", "150 Wn.2d 1020", "152 Wn.2d 1036", "294 U.S. 103", "304 U.S. 333", "342 U.S. 165", "408 U.S. 471", "416 U.S. 600", "424 U.S. 319", "431 U.S. 783", "68 P.3d 1099", "68 Wn. App. 112", "758 P.2d 1", "77 Wn. App. 651", "80 Wn. App. 130", "839 P.2d 332", "866 P.2d 8", "894 P.2d 569", "906 P.2d 995", "96 L. Ed. 183", "980 P.2d 1265"]
+cites_cases: ["111 Wn.2d 385", "116 Wn. App. 833", "123 Wn.2d 138", "138 Wn.2d 638", "150 Wn.2d 1020", "152 Wn.2d 1036", "294 U.S. 103", "304 U.S. 333", "342 U.S. 165", "408 U.S. 471", "416 U.S. 600", "424 U.S. 319", "431 U.S. 783", "68 P.3d 1099", "68 Wn. App. 112", "758 P.2d 1", "77 Wn. App. 651", "80 Wn. App. 130", "839 P.2d 332", "866 P.2d 8", "894 P.2d 569", "906 P.2d 995", "96 L. Ed. 183", "980 P.2d 1265"]
 ---
 
 # State v. Hotrum
