@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21746-9-III"
 decided: "2003-10-30"
-citations: ["120 Wash. App. 319", "118 Wash. App. 1083"]
+citations: ["120 Wash. App. 319"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Larry D. Briggs, et al., Appellants, v. Pacificorp, Respondent."]
 source_url: "https://static.case.law/wash-app/120/cases/0319-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422917
-cites_cases: ["100 Ky. 173", "107 Cal. 120", "120 Wn. App. 319", "13 P.3d 622", "134 Wn.2d 468", "135 Wn.2d 658", "138 Wn.2d 265", "14 A.L.R. 1024", "142 Wn.2d 431", "152 Wn.2d 1018", "178 Wash. 647", "34 Wn. App. 274", "35 P.2d 749", "37 S.W. 851", "39 Ariz. 491", "40 P. 108", "46 S.E. 217", "507 P.2d 1201", "532 U.S. 1002", "54 W. Va. 395", "653 P.2d 280", "661 P.2d 146", "8 Wn. App. 555", "951 P.2d 749", "958 P.2d 301", "97 Wn.2d 929", "979 P.2d 400"]
+cites_cases: ["100 Ky. 173", "107 Cal. 120", "13 P.3d 622", "134 Wn.2d 468", "135 Wn.2d 658", "138 Wn.2d 265", "14 A.L.R. 1024", "142 Wn.2d 431", "152 Wn.2d 1018", "178 Wash. 647", "34 Wn. App. 274", "35 P.2d 749", "37 S.W. 851", "39 Ariz. 491", "40 P. 108", "46 S.E. 217", "507 P.2d 1201", "532 U.S. 1002", "54 W. Va. 395", "653 P.2d 280", "661 P.2d 146", "8 Wn. App. 555", "951 P.2d 749", "958 P.2d 301", "97 Wn.2d 929", "979 P.2d 400"]
 ---
 
 # Briggs v. Pacificorp
