@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17205-8-III; 17206-6-III"
 decided: "2000-01-25"
-citations: ["99 Wash. App. 566", "99 Wash. App. 1009"]
+citations: ["99 Wash. App. 566"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Daniel William Coyne, Responde
 source_url: "https://static.case.law/wash-app/99/cases/0566-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 180948
-cites_cases: ["10 A.L.R.3d 974", "102 Wn.2d 733", "114 Wn.2d 304", "123 Wn.2d 641", "129 Wn.2d 347", "133 Wn.2d 140", "135 Wn.2d 498", "136 Wn.2d 1030", "384 U.S. 436", "42 Wn. App. 452", "446 U.S. 544", "52 Wn. App. 70", "52 Wn. App. 832", "59 Wn. App. 509", "68 Wn. App. 20", "689 P.2d 1065", "711 P.2d 1096", "757 P.2d 547", "764 P.2d 1012", "787 P.2d 1347", "798 P.2d 1180", "841 P.2d 1271", "870 P.2d 313", "91 Wn. App. 195", "91 Wn. App. 244", "917 P.2d 108", "943 P.2d 266", "95 Wn. App. 686", "955 P.2d 420", "955 P.2d 860", "957 P.2d 681", "96 Wn. App. 217", "977 P.2d 39", "978 P.2d 1131", "99 Wn. App. 566"]
+cites_cases: ["10 A.L.R.3d 974", "102 Wn.2d 733", "114 Wn.2d 304", "123 Wn.2d 641", "129 Wn.2d 347", "133 Wn.2d 140", "135 Wn.2d 498", "136 Wn.2d 1030", "384 U.S. 436", "42 Wn. App. 452", "446 U.S. 544", "52 Wn. App. 70", "52 Wn. App. 832", "59 Wn. App. 509", "68 Wn. App. 20", "689 P.2d 1065", "711 P.2d 1096", "757 P.2d 547", "764 P.2d 1012", "787 P.2d 1347", "798 P.2d 1180", "841 P.2d 1271", "870 P.2d 313", "91 Wn. App. 195", "91 Wn. App. 244", "917 P.2d 108", "943 P.2d 266", "95 Wn. App. 686", "955 P.2d 420", "955 P.2d 860", "957 P.2d 681", "96 Wn. App. 217", "977 P.2d 39", "978 P.2d 1131"]
 ---
 
 # State v. Coyne
