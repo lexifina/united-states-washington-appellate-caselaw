@@ -1,0 +1,34 @@
+---
+court: "Washington Court of Appeals"
+docket: "21365-6-II"
+decided: "1998-04-17"
+citations: ["90 Wash. App. 830"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Andrew Robert Kazeck, Appellant."]
+source_url: "https://static.case.law/wash-app/90/cases/0830-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 428919
+cites_cases: ["1 Wn.2d 102", "100 Wn.2d 748", "101 Wn.2d 481", "105 S. Ct. 2017", "11 Wn.2d 636", "111 Wn.2d 524", "120 P.2d 466", "123 Wn.2d 151", "130 Wn.2d 1", "14 Utah 155", "226 P.2d 889", "352 P.2d 193", "37 Wn.2d 831", "39 A.L.R.4th 975", "394 P.2d 804", "430 P.2d 586", "459 P.2d 633", "46 P. 824", "471 U.S. 1015", "49 Wn. App. 273", "56 Wn.2d 251", "573 P.2d 10", "64 Wn.2d 845", "675 P.2d 592", "681 P.2d 227", "71 Wn.2d 705", "742 P.2d 193", "760 P.2d 932", "77 Wn.2d 94", "78 Wn. App. 764", "85 L. Ed. 2d 299", "86 Wn. App. 716", "868 P.2d 116", "88 Wn. App. 977", "89 Wn.2d 394", "899 P.2d 21", "921 P.2d 1035", "937 P.2d 1325", "947 P.2d 1235", "95 P.2d 1007"]
+---
+
+# State v. Kazeck
+
+## Majority (Bridgewater, A.C.J.)
+
+Bridgewater, A.C.J.
+We are asked to decide whether marijuana must be dried before it is weighed. Andrew Kazeck was charged with unlawful possession of marijuana in excess of 40 grams. The marijuana was damp at the time of his arrest, having recently been cut from a growing marijuana plant. Because the weight of the damp marijuana exceeded 40 grams, Kazeck was charged with felony possession under RCW 69.50.401(d). By trial, evaporation of the water caused the dry marijuana to weigh less than 40 grams, a misdemeanor under RCW 69.50.401(e). Kazeck stipulated that the difference in the weight was solely from the evaporation of water. He was found guilty of felony possession of marijuana and appeals his conviction. We affirm.
+Kazeck invites us to take the water out of marijuana and add it to the exclusions in the definition of marijuana. The statute defining marijuana, RCW 69.50.101(q), lists exceptions that the term does not include, e.g., mature stalks, fiber produced from the stalks, and oil or cake made from the seeds. Kazeck would have us add to that list “water from the plant material.”
+If a statute is ambiguous, the rule of lenity requires the statute to be interpreted most favorably to the defendant. State v. Lively, 130 Wn.2d 1, 14, 921 P.2d 1035 (1996); State v. Gore, 101 Wn.2d 481, 486, 681 P.2d 227, 39 A.L.R.4th 975 (1984); State v. Bernard, 78 Wn. App. 764, 768, 899 P.2d 21 (1995). A statute is ambiguous only if it is susceptible to more than one reasonable interpretation. Bernard, 78 Wn. App. at 768. Where a statute is ambiguous, the court may look to the legislative history for insight into legislative intent. See Bellevue Fire Fighters Local 1604 v. City of Bellevue, 100 Wn.2d 748, 751, 675 P.2d 592 (1984), cert. denied, 471 U.S. 1015, 105 S. Ct. 2017, 85 L. Ed. 2d 299 (1985). But under principles of statutory construction, a statute is not subject to judicial interpretation where its language is plain, unambiguous, and well understood according to its natural and ordinary sense and meaning. State v. Lewis, 86 Wn. App. 716, 717-18, 937 P.2d 1325 (1997).
+State v. McCollum, 88 Wn. App. 977, 988, 947 P.2d 1235 (1997). Water is not listed as an exception. RCW 69.50.101(q) is not ambiguous.
+We thus turn to other rules of statutory construction to see if Kazeck’s construction is warranted.
+It is a basic rule of statutory construction that where there is an express exception in a statute, the statute applies to all other cases not excepted and no other exceptions can be read into it. Sandona v. Cle Elum, 37 Wn.2d 831, 226 P.2d 889 [1951]; Insurance Co. of North America Companies v. Sullivan, 56 Wn.2d 251, 352 P.2d 193 [1960]. As we said in Monroe Calculating Machine Co. v. Department of Labor & Industries, 11 Wn.2d 636, 120 P.2d 466 [1941], express exceptions in a statute exclude all other exceptions, and cannot be extended by implication.
+In re Monks Club, Inc., 64 Wn.2d 845, 849, 394 P.2d 804 (1964). This may also be expressed in the maxim of statutory construction, “expressio unius est exclusio alterius.” That is to say, “the mention of one thing implies the exclusion of another thing.” State ex rel. Port of Seattle v. Department of Pub. Serv., 1 Wn.2d 102, 112, 95 P.2d 1007 (1939). “Where a statute specifically designates the things or classes of things upon which it operates, an inference arises in law that all things or classes of things omitted from it were intentionally omitted by the legislature under the maxim expressio unius est exclusio alterius—specific inclusions exclude implication.” Washington Natural Gas Co. v. Public Util. Dist. No. 1, 77 Wn.2d 94, 98, 459 P.2d 633 (1969) (citing State v. Roadhs, 71 Wn.2d 705, 707, 430 P.2d 586 (1967)). See also Snohomish County v. Anderson, 123 Wn.2d 151, 157, 868 P.2d 116 (1994); Port of Seattle, 1 Wn.2d at 113 (citing North Point Consol. Irrigation Co. v. Utah & Salt Lake Canal Co., 14 Utah 155, 46 P. 824 (1896)). “Where a statute provides for a stated exception, no other exceptions will be assumed by implication.” Jepson v. Department of Labor & Indus., 89 Wn.2d 394, 404, 573 P.2d 10 (1977); Sulkosky v. Brisebois, 49 Wn. App. 273, 277, 742 P.2d 193 (1987). The exceptions become exclusive. State v. Sommerville, 111 Wn.2d 524, 535, 760 P.2d 932 (1988).
+Had the Legislature intended to exclude water from the definition of marijuana, it would have listed water as an exception. The Legislature did not; ergo, we will not.
+Affirmed.
+Morgan and Armstrong, JJ., concur.
+RCW 69.50.401(d) states, in relevant part: “It is unlawful for any person to possess a controlled substance unless the substance was obtained directly from, or pursuant to, a valid prescription or order of a practitioner while acting in the course of his or her professional practice, or except as otherwise authorized by this chapter.”
+RCW 69.50.401(e) states: “Except as provided for in subsection (a)(l)(iii) of this section any person found guilty of possession of forty grams or less of marihuana shall be guilty of a misdemeanor.”
+“Marijuana” or “marihuana” means all parts of the plant Cannabis, whether growing or not; the seeds thereof; the resin extracted from any part of the Plant; and every compound, manufacture, salt, derivative, mixture, or preparation of the plant, its seeds or resin. The term does not include the mature stalks of the plant, fiber produced from the stalks, oil or cake made from the seeds of the plant, any other compound, manufacture, salt, derivative, mixture, or preparation of the mature stalks (except the resin extracted therefrom), fiber, oil, or cake, or the sterilized seed of the plant which is incapable of germination.
+RCW 69.50.101(q).
