@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29705-8-I"
 decided: "1994-07-11"
-citations: ["75 Wash. App. 571", "74 Wash. App. 1067"]
+citations: ["75 Wash. App. 571"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of P.S., Seth Cohen, et al, Petitioner
 source_url: "https://static.case.law/wash-app/75/cases/0571-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11977374
-cites_cases: ["107 Wn.2d 196", "122 Wn.2d 1018", "125 Wn.2d 1015", "249 Mont. 82", "368 F.2d 941", "387 U.S. 1", "396 U.S. 960", "419 F.2d 520", "473 F.2d 612", "499 U.S. 963", "68 Wn. App. 687", "728 P.2d 138", "75 Wn. App. 571", "845 P.2d 1034", "917 F.2d 1197"]
+cites_cases: ["107 Wn.2d 196", "122 Wn.2d 1018", "125 Wn.2d 1015", "249 Mont. 82", "368 F.2d 941", "387 U.S. 1", "396 U.S. 960", "419 F.2d 520", "473 F.2d 612", "499 U.S. 963", "68 Wn. App. 687", "728 P.2d 138", "845 P.2d 1034", "917 F.2d 1197"]
 ---
 
 # In re the Detention of P.S.
