@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "33263-5-I"
+decided: "1995-01-09"
+citations: ["76 Wash. App. 502"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Webster and Agid, JJ., concur."]
+parties: ["The Luxembourg Group, Inc., Appellant, v. Snohomish County, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/76/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 489929
+cites_cases: ["111 Wn.2d 1008", "127 Wn.2d 1005", "162 N.E. 99", "248 N.Y. 339", "41 Wn. App. 183", "483 U.S. 825", "50 Wn. App. 723", "512 U.S. 374", "59 A.L.R. 1253", "702 P.2d 1244", "750 P.2d 651"]
+---
+
+# Luxembourg Group, Inc. v. Snohomish County
+
+## Majority (Becker, J.)
+
+Becker, J.
+The Luxembourg Group, Inc. (Luxembourg) appeals from an order on summary judgment upholding Snohomish County’s denial of a subdivision application. The County required Luxembourg to dedicate a stub road access to a landlocked neighboring property as a condition for approval of the application. Luxembourg argues that the condition amounts to a taking of property without compensation. We agree, and reverse.
+I
+Luxembourg owns a 151/2-acre parcel of real property in Snohomish County. The property resembles Oklahoma in shape, only turned around so the panhandle points east. The western portion of the property, consisting of approximately 9 acres, is relatively flat and buildable. A steep-sided ravine occupies the remaining land to the east. Although the eastern edge of the property fronts on a county road, the flat portion of the property is not readily accessible from this direction because of the ravine.
+Respondents Al and Beverly Lyons own property directly to the south of the Luxembourg property. Approximately 2 acres in the northwest corner of their parcel are buildable. The ravine similarly blocks eastern access to the buildable portion of the Lyons property.
+Luxembourg filed an application with Snohomish County to rezone and subdivide a plat to be known as "Greenridge Estates II”. The preliminary plat map contemplated the development of 18 lots on 20.4 acres, including 5 acres which were to be acquired from the Lyons. Luxembourg proposed to provide access from the west by way of a stub road extending from a residential street into the subdivision. Three lots on the Lyons property were to be accessed by a cul-de-sac connecting with the stub road.
+The anticipated land transaction between Luxembourg and the Lyons did not close. Luxembourg then submitted a revised application for 15 lots on its own property only. The revised plat map did not provide access to the Lyons property.
+The Department of Public Works reviewed the application and recommended that Luxembourg be required to dedicate a 60-foot right of way from the subdivision road to the Lyons property. The Department noted that unless Luxembourg provided this access, the buildable acreage on the Lyons property would be left landlocked. The Snohomish County Planning Department made a similar recommendation. Luxembourg resisted the dedication requirement, arguing that the County did not have authority to take property in this manner without providing compensation.
+Following a public hearing on the application, the hearing examiner denied the application without prejudice because it did not provide access to the Lyons parcel. The Snohomish County Council affirmed the decision of the hearing examiner. Luxembourg filed a certiorari action in superior court and moved for summary judgment, asking the court to find the dedication requirement unlawful. The court denied the motion. This appeal followed.
+II
+The purposes of Washington’s subdivision law include the following:
+to promote safe and convenient travel by the public on streets and highways;... to provide for proper ingress and egress;. . . to adequately provide for the housing and commercial needs of the citizens of the state[.]
+RCW 58.17.010. Pursuant to these purposes, "Dedication of land to any public body . . . may be required as a condition of subdivision approval.” However, "No dedication . . . shall be allowed that constitutes an unconstitutional taking of private property.” RCW 58.17.110(2). A decision disapproving of a plat is reviewable for unlawful action. RCW 58.17.180.
+When a government body requires exaction of a property interest as a condition for approval of a development, the exaction will be considered a taking unless it substantially advances a legitimate state interest. Nollan v. California Coastal Comm’n, 483 U.S. 825, 834, 97 L. Ed. 2d 677, 107 S. Ct. 3141 (1987). As with negligence, a legitimate state interest "in the air, so to speak, will not do”. Palsgraf v. Long Island R.R., 248 N.Y. 339, 341, 162 N.E. 99, 59 A.L.R. 1253 (1928). To meet Nollan’s "essential nexus” requirement, the state interest advanced by the exaction must be the same one that would be served by outright denial of the development. Nollan, at 834-37. In the present case, the County must first determine if the subdivision creates a problem (as defined by the public interest) which would justify denying approval. If so, permission for the subdivision may be conditioned on a dedication designed to mitigate the problem. Thus, another way of stating the "essential nexus” requirement is that the exaction of property must address some problem arising from the development under consideration. Unlimited v. Kitsap Cy., 50 Wn. App. 723, 728, 750 P.2d 651, review denied, 111 Wn.2d 1008 (1988).
+Because the buildable portion of the Lyons property has always been isolated from the county roads, their need for access is not a result of the proposed subdivision. Since the dedication requirement would not remedy any problem caused by the Luxembourg subdivision, the County does not satisfy Nollan’s "essential nexus” requirement merely by invoking the legitimate purposes of the subdivision statute. See Nollan, at 837. Requiring Luxembourg to dedicate property for a stub road extension amounts to an unconstitutional taking in this situation. See Unlimited, 50 Wn. App. at 727.
+The County relies on Beeson v. Phillips, 41 Wn. App. 183, 702 P.2d 1244 (1985) in support of its contention that the dedication requirement was proper. The plaintiffs in Beeson faced a problem similar to the Lyons problem; they could not access the buildable portion of their property from any existing road. The Beesons therefore sought a private way of necessity across the neighboring Phillips property under RCW 8.24.010, which provides:
+An owner ... of land which is so situate with respect to the land of another that it is necessary for its proper use and enjoyment to have and maintain a private way of necessity . . . may condemn and take lands of such other sufficient in area for the construction and maintenance of such private way of necessity . . ..
+Affirming a decree of appropriation, the court found the private condemnation was necessary because there was no other practical way of accessing the property. Beeson, at 188.
+Analysis of whether a way of access is "necessary” for the purposes of a private condemnation action has no bearing on whether a dedication of a way of access is made necessary as the result of the prospective subdivision. Beeson merely recognizes that a private condemnation action is available to property owners like the Lyons who are otherwise unable to access a portion of their property. Such an action would of course require the condemnor to provide compensation to the condemnee. RCW 8.24.030. The bottom line of the present dispute is that the County’s action would enable the Lyons to take a way of access over Luxembourg’s property without providing compensation.
+At one point, Luxembourg offered to leave undeveloped a potential way of access to the Lyons property. This proposal would serve the County’s concern for a safe and convenient road network while placing on the Lyons the expense of purchasing the access. We do not decide whether or to what extent the County may impose such a requirement, since these issues are not before us. We hold only that the County may not condition approval of a subdivision on the dedication of property unless a need for the dedication arises from the development under review.
+The superior court order denying Appellant’s motion for summary judgment is reversed. The Superior Court is directed to enter an order granting Luxembourg’s motion for summary judgment.
+Webster and Agid, JJ., concur.
+Reconsideration denied March 1, 1995.
+Review denied 127 Wn.2d 1005 (1995).
+Once it is apparent that such a relationship exists, the Supreme Court describes the next step in the analysis as determining whether there is "rough proportionality” between the impact of the proposed development and the required dedication. Dolan v. Tigard, 512 U.S. 374, 129 L. Ed. 2d 304, 114 S. Ct. 2309, 2319 (1994). As in Nollan, we do not reach the second step in this case.
