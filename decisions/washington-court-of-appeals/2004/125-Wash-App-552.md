@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30393-1-II"
 decided: "2004-12-21"
-citations: ["125 Wash. App. 552", "124 Wash. App. 1042"]
+citations: ["125 Wash. App. 552"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ryan Alan Jackman, Appellant.
 source_url: "https://static.case.law/wash-app/125/cases/0552-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270378
-cites_cases: ["125 Wn. App. 552", "125 Wn.2d 769", "132 Wn.2d 54", "139 Wn.2d 107", "149 Wn.2d 906", "150 Wn.2d 448", "155 Wn.2d 1007", "27 Wn. App. 708", "32 Wn. App. 1", "499 U.S. 279", "507 U.S. 619", "527 U.S. 1", "589 P.2d 789", "620 P.2d 1001", "645 P.2d 714", "73 P.3d 1000", "78 P.3d 1005", "888 P.2d 155", "91 Wn.2d 466", "935 P.2d 1321", "95 Wn.2d 1008", "985 P.2d 365"]
+cites_cases: ["125 Wn.2d 769", "132 Wn.2d 54", "139 Wn.2d 107", "149 Wn.2d 906", "150 Wn.2d 448", "155 Wn.2d 1007", "27 Wn. App. 708", "32 Wn. App. 1", "499 U.S. 279", "507 U.S. 619", "527 U.S. 1", "589 P.2d 789", "620 P.2d 1001", "645 P.2d 714", "73 P.3d 1000", "78 P.3d 1005", "888 P.2d 155", "91 Wn.2d 466", "935 P.2d 1321", "95 Wn.2d 1008", "985 P.2d 365"]
 ---
 
 # State v. Jackman
