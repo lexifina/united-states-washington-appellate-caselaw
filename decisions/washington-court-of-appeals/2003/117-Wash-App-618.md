@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50391-0-I"
 decided: "2003-06-16"
-citations: ["117 Wash. App. 618", "117 Wash. App. 1026"]
+citations: ["117 Wash. App. 618"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Terry Iverson, Appellant, v. Snohomish County, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/117/cases/0618-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 652799
-cites_cases: ["1 P.3d 1124", "104 Wn. App. 226", "105 Wn. App. 974", "117 Wn. App. 618", "141 Wn.2d 29", "146 Wn.2d 841", "15 P.3d 688", "21 P.3d 723", "50 P.3d 256", "58 Wn. App. 261", "792 P.2d 545"]
+cites_cases: ["1 P.3d 1124", "104 Wn. App. 226", "105 Wn. App. 974", "141 Wn.2d 29", "146 Wn.2d 841", "15 P.3d 688", "21 P.3d 723", "50 P.3d 256", "58 Wn. App. 261", "792 P.2d 545"]
 ---
 
 # Iverson v. Snohomish County
