@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29230-1-II"
 decided: "2003-09-09"
-citations: ["119 Wash. App. 122", "118 Wash. App. 1034"]
+citations: ["119 Wash. App. 122"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mutual of Enumclaw Insurance Company, Respondent, v. Kalin Huddleston
 source_url: "https://static.case.law/wash-app/119/cases/0122-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350214
-cites_cases: ["105 Wn. App. 41", "117 Wn.2d 37", "119 Wn. App. 122", "134 Wn.2d 413", "142 Wn.2d 654", "15 P.3d 115", "17 P.3d 1266", "811 P.2d 673", "951 P.2d 250"]
+cites_cases: ["105 Wn. App. 41", "117 Wn.2d 37", "134 Wn.2d 413", "142 Wn.2d 654", "15 P.3d 115", "17 P.3d 1266", "811 P.2d 673", "951 P.2d 250"]
 ---
 
 # Mutual of Enumclaw Insurance v. Huddleston
