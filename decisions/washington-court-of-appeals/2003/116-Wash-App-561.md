@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20804-4-III"
 decided: "2003-03-06"
-citations: ["116 Wash. App. 561", "116 Wash. App. 1007"]
+citations: ["116 Wash. App. 561"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Johnie Edward Gladden, Appell
 source_url: "https://static.case.law/wash-app/116/cases/0561-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 266114
-cites_cases: ["116 Wn. App. 561", "117 Wn.2d 829", "120 Wn.2d 925", "126 Wn.2d 244", "129 Wn.2d 61", "132 Wn.2d 668", "134 Wn.2d 1003", "24 Wn. App. 495", "466 U.S. 668", "48 Wn. App. 7", "519 U.S. 172", "594 P.2d 442", "601 P.2d 982", "737 P.2d 726", "822 P.2d 177", "846 P.2d 1358", "86 Wn. App. 40", "893 P.2d 615", "90 Wn. App. 54", "917 P.2d 563", "92 Wn.2d 95", "935 P.2d 679", "940 P.2d 1239", "950 P.2d 981"]
+cites_cases: ["117 Wn.2d 829", "120 Wn.2d 925", "126 Wn.2d 244", "129 Wn.2d 61", "132 Wn.2d 668", "134 Wn.2d 1003", "24 Wn. App. 495", "466 U.S. 668", "48 Wn. App. 7", "519 U.S. 172", "594 P.2d 442", "601 P.2d 982", "737 P.2d 726", "822 P.2d 177", "846 P.2d 1358", "86 Wn. App. 40", "893 P.2d 615", "90 Wn. App. 54", "917 P.2d 563", "92 Wn.2d 95", "935 P.2d 679", "940 P.2d 1239", "950 P.2d 981"]
 ---
 
 # State v. Gladden
