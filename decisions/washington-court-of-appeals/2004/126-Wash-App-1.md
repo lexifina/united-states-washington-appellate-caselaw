@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53206-5-I"
 decided: "2004-12-27"
-citations: ["126 Wash. App. 1", "124 Wash. App. 1049"]
+citations: ["126 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Cindy L. Mansour, Appellant, and Gha
 source_url: "https://static.case.law/wash-app/126/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016082
-cites_cases: ["105 Wn. App. 545", "114 Wn.2d 772", "115 Wn. App. 351", "121 Wn.2d 795", "126 Wn. App. 1", "138 Wn.2d 213", "150 Wn.2d 1006", "20 P.3d 481", "37 Wn. App. 329", "58 Wn. App. 935", "60 Wn. App. 51", "62 P.3d 525", "679 P.2d 961", "72 Wn. App. 800", "78 Wn. App. 482", "79 Wn. App. 786", "791 P.2d 519", "795 P.2d 1170", "802 P.2d 817", "84 Wn. App. 763", "854 P.2d 629", "866 P.2d 635", "899 P.2d 803", "905 P.2d 922", "932 P.2d 652", "978 P.2d 498", "98 Wn. App. 85", "988 P,2d 496"]
+cites_cases: ["105 Wn. App. 545", "114 Wn.2d 772", "115 Wn. App. 351", "121 Wn.2d 795", "138 Wn.2d 213", "150 Wn.2d 1006", "20 P.3d 481", "37 Wn. App. 329", "58 Wn. App. 935", "60 Wn. App. 51", "62 P.3d 525", "679 P.2d 961", "72 Wn. App. 800", "78 Wn. App. 482", "79 Wn. App. 786", "791 P.2d 519", "795 P.2d 1170", "802 P.2d 817", "84 Wn. App. 763", "854 P.2d 629", "866 P.2d 635", "899 P.2d 803", "905 P.2d 922", "932 P.2d 652", "978 P.2d 498", "98 Wn. App. 85", "988 P,2d 496"]
 ---
 
 # In re the Marriage of Mansour
