@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24602-3-II"
 decided: "2001-01-05"
-citations: ["104 Wash. App. 617", "104 Wash. App. 1005"]
+citations: ["104 Wash. App. 617"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Virgil W. McDonald, Appellant, v. The Department of Labor and Industr
 source_url: "https://static.case.law/wash-app/104/cases/0617-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 699920
-cites_cases: ["104 Wn. App. 617", "108 Wn.2d 143", "127 Wn.2d 67", "138 Wn.2d 1", "189 Wash. 631", "45 Wn. App. 393", "55 Wn. App. 439", "646 P.2d 113", "65 Wn. App. 255", "65 Wn. App. 386", "659 P.2d 1097", "66 P.2d 318", "70 Wn. App. 482", "725 P.2d 1008", "736 P.2d 265", "777 P.2d 1084", "78 Wn. App. 554", "81 Wn. App. 123", "828 P.2d 1138", "828 P.2d 597", "854 P.2d 46", "896 P.2d 682", "897 P.2d 431", "913 P.2d 402", "97 Wn.2d 317", "977 P.2d 570", "99 Wn.2d 95"]
+cites_cases: ["108 Wn.2d 143", "127 Wn.2d 67", "138 Wn.2d 1", "189 Wash. 631", "45 Wn. App. 393", "55 Wn. App. 439", "646 P.2d 113", "65 Wn. App. 255", "65 Wn. App. 386", "659 P.2d 1097", "66 P.2d 318", "70 Wn. App. 482", "725 P.2d 1008", "736 P.2d 265", "777 P.2d 1084", "78 Wn. App. 554", "81 Wn. App. 123", "828 P.2d 1138", "828 P.2d 597", "854 P.2d 46", "896 P.2d 682", "897 P.2d 431", "913 P.2d 402", "97 Wn.2d 317", "977 P.2d 570", "99 Wn.2d 95"]
 ---
 
 # McDonald v. Department of Labor & Industries
