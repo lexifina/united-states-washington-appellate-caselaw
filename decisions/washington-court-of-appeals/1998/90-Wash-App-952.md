@@ -1,0 +1,39 @@
+---
+court: "Washington Court of Appeals"
+docket: "16154-4-III"
+decided: "1998-04-28"
+citations: ["90 Wash. App. 952"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Jeremy Paul Fast, Appellant."]
+source_url: "https://static.case.law/wash-app/90/cases/0952-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 428809
+cites_cases: ["119 Wn.2d 167", "124 Wn.2d 741", "129 Wn.2d 512", "129 Wn.2d 736", "136 Wn.2d 1023", "829 P.2d 1082", "86 Wn. App. 716", "880 P.2d 1000", "89 Wn. App. 136", "919 P.2d 580", "921 P.2d 514", "937 P.2d 1325", "947 P.2d 1281"]
+---
+
+# State v. Fast
+
+## Majority (Sweeney, J.)
+
+Sweeney, J.
+Jeremy Paul Fast was convicted as an accomplice in a series of convenience store robberies. He was sentenced to concurrent sentences for the substantive crimes, three of which carried firearm enhancements. The enhancements were made consecutive, both to the substantive sentences and to each other. Without the enhancements, the concurrent substantive sentences would have resulted in a 57-month sentence. The consecutive enhancements increased that sentence to 213 months. The question presented is whether the sentencing court had discretion to make the enhancements concurrent instead of consecutive in order to mitigate the severity of the sentence. We conclude the sentence conforms to RCW 9.94A.310(3) and the unequivocal mandate of the Legislature and affirm.
+FACTS
+Jeremy Fast was convicted as an accomplice in robbing four Walla Walla convenience stores at gunpoint. The principal offender received 147 months of confinement. Mr. Fast was offered a plea bargain that would have resulted in 101 months, but turned it down. He was convicted of two counts of first degree robbery, one count of attempted first degree robbery, and one count of rendering criminal assistance. The first three offenses carry a mandatory sentence enhancement when committed with a firearm. The two robberies carried 60-month enhancements and the attempt 36 months. Added to the 57-month substantive sentence and the associated concurrent sentences, the total confinement for Mr. Fast is 213 months.
+DISCUSSION
+On appeal, Mr. Fast contends that the language of the statute is ambiguous. And the rule of lenity requires an interpretation that preserves the court’s discretion to run multiple current firearm enhancements concurrently with each other to achieve a sentence appropriate to the particular circumstances.
+RCW 9.94A.310(3) provides for additional time to be added to the presumptive sentence for felony crimes in which the offender or an accomplice was armed with a firearm. RCW 9.94A.310(3)(a) adds five years to a class A felony such as first degree robbery. RCW 9.94A.310(3)(b) adds three years for a class B felony such as attempted first degree robbery. This section continues:
+Notwithstanding any other provision of law, any and all firearm enhancements under this section are mandatory, shall be served in total confinement, and shall not run concurrently with any other sentencing provisions.
+RCW 9.94A.310(3)(e). Mr. Fast contends that the Legislature intended RCW 9.94A.310(3)(e) to be consistent with other sections of the Sentencing Reform Act of 1981 (SRA) that require current offenses be sentenced concurrently. He argues his weapon violations were additional current offenses and should thus have been sentenced concurrently.
+Mr. Fast argues the language of the statute logically supports his position. RCW 9.94A.310(3)(e) specifically says that firearm enhancements shall not run concurrently with any other sentencing provisions. It does not say they shall not run concurrently with this sentencing provision, namely RCW 9.94A.3HK3) itself. The statute must therefore mean notwithstanding provisions other than those of RCW 9.94A.3HK3). This interpretation would mandate sentence enhancements to run consecutively with other substantive sentences. It would not require that they run consecutively with each other. Mr. Fast further argues the rule of lenity requires a reading of ambiguous language in favor of his interpretation.
+It is clear that in passing the “hard time for armed crime” provisions of the SRA, the Legislature anticipated and intended harsh penalties. The whole point was to deter the use of firearms by imposing “greatly increased penalties for gun predators . . . .” Laws of 1995, ch. 129, § l(2)(c). Moreover, the statute expressly calls for the same punishment for accomplice and principal. RCW 9.94A.125.
+Judicial interpretation of a statute is allowed only if the statute is ambiguous. State v. Hennings, 129 Wn.2d 512, 522, 919 P.2d 580 (1996). A statute is ambiguous if it is susceptible to more than one meaning. State v. Johnson, 119 Wn.2d 167, 172, 829 P.2d 1082 (1992). If a statute is ambiguous, the court should interpret it to give effect to the intent and purpose of the Legislature. Hennings, 129 Wn.2d at 522. A statute should be read as a whole, viewing all provisions in relation to the others. State v. Thorne, 129 Wn.2d 736, 761, 921 P.2d 514 (1996). A court should avoid construing a statute in a manner which renders a provision meaningless. State v. Contreras, 124 Wn.2d 741, 747, 880 P.2d 1000 (1994). A construction that results in unlikely, strange, or absurd consequences should also be avoided. Id.
+This court has recently interpreted the language at issue here as contained in RCW 9.94A.310(4)(e) pertaining to enhanced sentences for crimes involving deadly weapons other than firearms. State v. Fuller, 89 Wn. App. 136, 141, 947 P.2d 1281 (1997). In reviewing that section’s mandate of total confinement, we concluded the language is not subject to judicial interpretation. Id. at 140. We determined that by the words “notwithstanding any other provision of law” the Legislature intended the deadly weapon enhancement statute to supersede RCW 9.94A.400 as it pertains to the rules regarding consecutive sentences. Fuller at 142. We concluded that the clear intent of the Legislature and the statute’s unambiguous mandatory language leave the court without discretion to fashion a remedy. Id.
+Division Two has also considered the “not concurrent” language and found it unambiguous and impervious to judicial interpretation. State v. Lewis, 86 Wn. App. 716, 718-19, 937 P.2d 1325 (1997). The requirement that “any and all” weapon enhancements shall not run concurrently with any other sentencing provision means that any and all enhancements shall run consecutively with any other sentencing provision. “Any other sentencing provision” includes the firearm enhancement. Id. at 718. The statute therefore unambiguously mandates that each firearm enhancement must run consecutively to both substantive sentences and other firearm enhancements. RCW 9.94A.310(3)(e); Lewis, 86 Wn. App. at 718.
+Having determined that “other sentencing provisions” includes the concurrent sentencing for current offenses provisions of RCW 9.94A.400, we are without discretion to thwart the clear intent of the Legislature by ameliorating the effect of the statute.
+The sentencing court had no discretion over the firearm enhancements. It imposed the required consecutive sentences of 60 months each for the two class A felonies and 36 months for the class B felony in addition to the total 57 months of substantive sentences.
+The sentence of the trial court is affirmed.
+A majority of the panel having determined that only the foregoing portion of this opinion will be printed in the Washington Appellate Reports and that the remainder, having no precedential value, shall be filed for public record pursuant to RCW 2.06.040, it is so ordered.
+Kurtz, A.C.J., and Brown, J., concur.
+Review denied at 136 Wn.2d 1023 (1998).
