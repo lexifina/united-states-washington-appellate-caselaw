@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44546-4-I"
 decided: "2000-07-17"
-citations: ["103 Wash. App. 312", "101 Wash. App. 1042"]
+citations: ["103 Wash. App. 312"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Betty M. Berry, et al., Appellants, v. Crown Cork & Seal Company, Inc
 source_url: "https://static.case.law/wash-app/103/cases/0312-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102478
-cites_cases: ["103 Wn. App. 312", "109 Wn.2d 235", "137 Wn.2d 1030", "138 Wn.2d 1002", "143 Wn.2d 1015", "16 F.3d 174", "381 P.2d 237", "56 Wn. App. 181", "62 Wn. App. 408", "62 Wn.2d 123", "63 Wn. App. 170", "736 F.2d 656", "74 Wn. App. 212", "744 P.2d 605", "782 P.2d 1107", "814 P.2d 243", "817 P.2d 861", "84 Wn. App. 608", "872 P.2d 1102", "92 Wn. App. 799", "929 P.2d 494", "95 Wn. App. 1", "964 P.2d 1219", "969 F.2d 1424", "988 P.2d 967", "99 Wn. App. 107", "992 P.2d 511"]
+cites_cases: ["109 Wn.2d 235", "137 Wn.2d 1030", "138 Wn.2d 1002", "143 Wn.2d 1015", "16 F.3d 174", "381 P.2d 237", "56 Wn. App. 181", "62 Wn. App. 408", "62 Wn.2d 123", "63 Wn. App. 170", "736 F.2d 656", "74 Wn. App. 212", "744 P.2d 605", "782 P.2d 1107", "814 P.2d 243", "817 P.2d 861", "84 Wn. App. 608", "872 P.2d 1102", "92 Wn. App. 799", "929 P.2d 494", "95 Wn. App. 1", "964 P.2d 1219", "969 F.2d 1424", "988 P.2d 967", "99 Wn. App. 107", "992 P.2d 511"]
 ---
 
 # Berry v. Crown Cork & Seal Co.
