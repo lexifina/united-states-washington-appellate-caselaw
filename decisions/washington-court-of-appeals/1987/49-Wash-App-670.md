@@ -1,0 +1,54 @@
+---
+court: "Washington Court of Appeals"
+docket: "10215-3-II"
+decided: "1987-10-27"
+citations: ["49 Wash. App. 670", "49 Wash. App. 1054"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Petrich and Worswick, JJ., concur."]
+parties: ["In the Matter of the Welfare of J.K."]
+source_url: "https://static.case.law/wash-app/49/cases/0670-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1739088
+cites_cases: ["104 Wn.2d 460", "104 Wn.2d 643", "105 Wn.2d 99", "25 U.S.C. § 1912", "419 P.2d 809", "455 U.S. 745", "46 Wn. App. 530", "463 P.2d 159", "49 Wn. App. 670", "576 P.2d 397", "635 P.2d 108", "69 Wn.2d 641", "706 P.2d 625", "709 P.2d 1185", "713 P.2d 79", "731 P.2d 537", "77 Wn.2d 396", "89 Wn.2d 874", "96 Wn.2d 230"]
+---
+
+# In re J.K.
+
+## Majority (Alexander, A.C.J.)
+
+Alexander, A.C.J.
+Patrick and Laura K seek reversal of an order of the Superior Court finding that their child, J.K., is a dependent child. We affirm.
+On March 25, 1986, the Attorney General of Washington filed a petition in Pierce County Superior Court alleging that J.K., then age 2, was being abused or neglected by her parents, Laura and Patrick. The petition also contained allegations that the parents were not capable of adequately caring for the child.
+At the dependency hearing, Dr. Mark Mengel testified that he examined J.K. in the emergency room at St. Joseph Hospital in Tacoma at the request of J.K.'s maternal grandmother. According to Dr. Mengel, the grandmother reported to him that while J.K. was having a bowel movement, she stated to her grandmother, "Daddy hurts . . ." Dr. Mengel testified that when he asked J.K. if her father had "played with her or hurt her," she nodded and said "Yes." The doctor's physical examination of J.K. revealed no physical evidence of sexual abuse.
+Anne Patterson, a medical social worker at St. Joseph, testified that she also interviewed J.K. In response to a question from Patterson, "where did Daddy hurt you," J.K. pointed to her vaginal area and said "Daddy hurts, daddy hurts J.K." Subsequently and without any urging from Patterson or anyone, J.K. proceeded to take off her pants in the presence of Patterson, and again pointed to her vaginal area saying "Daddy hurts J.K."
+Patterson said that she then showed J.K. anatomically correct dolls, naming the male doll "Daddy," and the female doll "J.K." According to Patterson, when J.K. saw the dolls she grabbed the girl doll, pulled off its pants, pointed to the vaginal area and again said "J.K. hurts." She then proceeded to pull the clothes off the male doll, put the two dolls together, and exclaimed, "Daddy hurts J.K." Patterson was permitted to render an opinion that Patrick K had abused J.K.
+Marie Kiefert, J.K.'s foster parent, testified that J.K. did not like to visit her parents, and that the child would have nightmares around the time of visitation, and would scream "No daddy, no" in her sleep. Arlene White, a Children's Protective Services worker, testified that J.K. seemed to be afraid of her father during visitations.
+In an apparent effort to rebut the testimony of Kiefert and White, Laura and Patrick subpoenaed J.K. in order to demonstrate in court how J.K. interacted with her father. The State moved to quash the subpoena and the motion was granted.
+Five of Patrick's relatives testified that Patrick had a good relationship with his child, and that the child was not afraid of him. Patrick testified that he had not abused J.K.
+Based partly on the above evidence, the trial court found that a manifest danger existed that J.K. would suffer abuse or neglect if she was not removed from the home of her parents. It concluded that she was, therefore, a dependent child. The K's thereafter filed a petition for discretionary review with this court. The petition was granted.
+Due Process
+The K's first contention is that the dependency statute, RCW 13.34.130, violates the due process clauses of the United States and Washington Constitutions. U.S. Const, amend. 14, § 1; Const, art. 1, § 3. They reason that dependencies must be proven by clear and convincing evidence and that the provision in RCW 13.34.130 that a dependency may be established by a preponderance of the evidence does not afford due process.
+The K's cite Santosky v. Kramer, 455 U.S. 745, 71 L. Ed. 2d 599, 102 S. Ct. 1388 (1982) in support of the proposition that the preponderance standard does not measure up to constitutional requirements. While we agree that in Santosky the Supreme Court of the United States clearly held that due process requires the State to prove facts supporting termination of parental rights by clear and convincing evidence, it does not follow that such an evidence standard must be observed in dependency proceedings.
+In the case of In re Chubb, 46 Wn. App. 530, 731 P.2d 537 (1987), Division One of this court concluded that parents' due process rights are adequately protected by requiring the State to prove dependency status by only a preponderance of the evidence. We share that court's view that a dependency determination, unlike a termination order, "is not an irreversible decision nor does it sever all contacts between a parent and child." Chubb, 46 Wn. App. at 536. In light of the less intrusive nature of a dependency determination and the governmental interests favoring a preponderance standard, we conclude that the quantum of proof described in RCW 13.34.130 is not constitutionally defective.
+Equal Protection
+The K's, citing U.S. Const, amend. 14 and Const, art. 1, § 12, argue that RCW 13.34.130 violates their right to equal protection under the law. They assert that this statute, relating to dependency determinations, unconstitutionally distinguishes between American Indians and non-Indians by providing a lesser burden of proof for dependency proceedings involving non-Indians than that which applies in cases where the alleged dependent child is a native American. This is simply not the case.
+A thorough reading of RCW 13.34.130 reveals that the statute makes no reference to the racial or cultural heritage of dependent children. The statute is completely neutral in that it defines one burden of proof, a preponderance of the evidence, which applies in any dependency case. In short, there is no state action that is violative of equal protection. See Alderwood Assocs. v. Washington Envtl. Coun., 96 Wn.2d 230, 635 P.2d 108 (1981); Lehmann v. Board of Trustees of Whitman College, 89 Wn.2d 874, 576 P.2d 397 (1978).
+Admissibility of J.K.'s Out-of-Court Statements
+The K's next argue that the trial court erred in admitting into evidence J.K.'s statements to Dr. Mengel and Anne Patterson. They claim that the statements are inadmissible hearsay. We disagree.
+J.K.'s statements to Dr. Mengel are clearly admissible pursuant to ER 803(a)(4), which provides that statements made for the purpose of medical diagnosis or treatment are exceptions to the hearsay rule. In re Penelope B., 104 Wn.2d 643, 709 P.2d 1185 (1985). The rule is not limited to physicians. We believe that statements made to hospital employees also fall within the provisions of ER 803(a)(4), thus supporting admission of J.K.'s statements to Anne Patterson. See 5A K. Tegland, Wash. Prac., Evidence § 367, at 224 (2d ed. 1982).
+Trial Court's Refusal To Allow J.K. Into the Courtroom for Demonstration
+The K's contention that the trial court erred in refusing to allow them to bring J.K. into the courtroom for a demonstration is without merit. A trial judge has wide discretion in determining whether to admit demonstrative evidence. Jenkins v. Snohomish Cy. PUD 1, 105 Wn.2d 99, 713 P.2d 79 (1986). Reversal of a trial court's discretionary decision is proper only when the decision is manifestly unreasonable, arbitrary or untenable. General Tel. Co. of the Northwest, Inc. v. Utilities & Transp. Comm'n, 104 Wn.2d 460, 706 P.2d 625 (1985). We cannot say that the trial court abused its discretion here. As the State points out, a better procedure would have been for Patrick to have had his interaction with J.K. evaluated by a professional prior to trial. This was not done. Neither did Patrick seek such an evaluation.
+To conduct a demonstration of this sort in court under the strained circumstances attending a trial would have been most unwise and of little probative value. Furthermore, the evidence would have been cumulative in that five of Patrick's relatives testified that J.K. had a good relationship with her father. See Moss v. Vadman, 77 Wn.2d 396, 404, 463 P.2d 159 (1969). The trial court did not err in refusing to permit such a demonstration.
+Findings of Fact
+Finally, the K's assign error to what they claim are the trial court's findings "that Patrick [K] sexually abused his daughter [J.K.]," and "that Laura K was not capable of adequately caring for [J.K.]." We decline to consider these assignments of error because the K's have not set the findings out verbatim in their brief as required by RAP 10.3. See Caffrey v. Chem-ionics Corp., 69 Wn.2d 641, 644, 419 P.2d 809 (1966). Our decision not to consider these assignments of error is largely due to the fact that we can find no factual findings of the trial court in the language of the assignments of error. Therefore, even if we were inclined to entertain the issue, we are unable to do so because we cannot ascertain which finding or findings of the trial court are being assailed.
+We affirm.
+Petrich and Worswick, JJ., concur.
+Review denied by Supreme Court March 1, 1988.
+We have used first names and initial for the appellants and initials for their child throughout the opinion.
+The trial court also heard evidence that J.K. made other similar spontaneous statements about her father to a receiving home parent. In addition, the trial court heard the testimony of a detective who investigated a fire at the K home. The detective was permitted to discuss the evidence that he found after investigating the fire. In addition, he opined that the fire was set by Laura in a suicide attempt.
+Federal law, 25 U.S.C. § 1912, does provide that foster care placement (dependency) of Indian children cannot be ordered unless supported by clear and convincing evidence. However, the K's have not challenged this statute under the fifth amendment to the United States Constitution.
+ER 803(a)(4) states:
+"(a) Specific Exceptions. The following are not excluded by the hearsay rule, even though the declarant is available as a witness:
+" (4) Statements for Purposes of Medical Diagnosis or Treatment. Statements made for purposes of medical diagnosis or treatment and describing medical history, or past or present symptoms, pain, or sensations, or the inception or general character of the cause or external source thereof insofar as reasonably pertinent to diagnosis or treatment."
