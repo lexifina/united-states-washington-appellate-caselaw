@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28029-9-II"
 decided: "2003-06-10"
-citations: ["118 Wash. App. 178", "117 Wash. App. 1021"]
+citations: ["118 Wash. App. 178"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Bryant O’Keith Williams, Ap
 source_url: "https://static.case.law/wash-app/118/cases/0178-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352535
-cites_cases: ["112 Wn.2d 1026", "118 Wn. App. 178", "127 Wn.2d 322", "136 Wn.2d 629", "18 Wn. App. 862", "384 U.S. 436", "466 U.S. 668", "53 Wn. App. 709", "573 P.2d 30", "770 P.2d 646", "899 P.2d 1251", "965 P.2d 1072"]
+cites_cases: ["112 Wn.2d 1026", "127 Wn.2d 322", "136 Wn.2d 629", "18 Wn. App. 862", "384 U.S. 436", "466 U.S. 668", "53 Wn. App. 709", "573 P.2d 30", "770 P.2d 646", "899 P.2d 1251", "965 P.2d 1072"]
 ---
 
 # State v. Williams
