@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16033-5-III"
 decided: "1997-07-29"
-citations: ["88 Wash. App. 10", "87 Wash. App. 220"]
+citations: ["88 Wash. App. 10"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jim C. Hollis, et al., Respondents, v. Garwall, Inc., et al., Appella
 source_url: "https://static.case.law/wash-app/88/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592528
-cites_cases: ["115 Wn.2d 657", "121 Wn.2d 810", "125 Wn.2d 337", "125 Wn.2d 445", "135 Wn.2d 1016", "216 P.2d 196", "22 Wn. App. 136", "36 Wn.2d 41", "445 P.2d 648", "508 P.2d 628", "56 Wn. App. 85", "589 P.2d 279", "665 P.2d 1337", "69 Wn. App. 590", "74 Wn.2d 575", "782 P.2d 1072", "8 Wn. App. 600", "801 P.2d 222", "849 P.2d 669", "854 P.2d 1072", "88 Wn. App. 10", "883 P.2d 1383", "886 P.2d 154", "99 Wn.2d 878"]
+cites_cases: ["115 Wn.2d 657", "121 Wn.2d 810", "125 Wn.2d 337", "125 Wn.2d 445", "135 Wn.2d 1016", "216 P.2d 196", "22 Wn. App. 136", "36 Wn.2d 41", "445 P.2d 648", "508 P.2d 628", "56 Wn. App. 85", "589 P.2d 279", "665 P.2d 1337", "69 Wn. App. 590", "74 Wn.2d 575", "782 P.2d 1072", "8 Wn. App. 600", "801 P.2d 222", "849 P.2d 669", "854 P.2d 1072", "883 P.2d 1383", "886 P.2d 154", "99 Wn.2d 878"]
 ---
 
 # Hollis v. Garwall, Inc.
