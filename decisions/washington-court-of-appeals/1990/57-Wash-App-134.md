@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22016-1-I"
 decided: "1990-01-08"
-citations: ["57 Wash. App. 134", "56 Wash. App. 1043"]
+citations: ["57 Wash. App. 134"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Wade Mitchell Allen, Appellan
 source_url: "https://static.case.law/wash-app/57/cases/0134-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1757207
-cites_cases: ["100 Wn.2d 1003", "100 Wn.2d 421", "101 Wn.2d 566", "102 Wn.2d 140", "104 P.2d 756", "105 Wn.2d 1002", "107 Wn.2d 59", "110 Wn.2d 403", "12 Wn. App. 522", "147 Cal. App. 3d 458", "164 Wash. 441", "195 Cal. Rptr. 233", "2 P.2d 738", "24 Wn. App. 517", "298 P.2d 500", "34 Wn. App. 397", "385 P.2d 859", "390 U.S. 912", "40 Wn. App. 340", "41 Wn. App. 820", "426 P.2d 502", "430 P.2d 522", "431 P.2d 201", "45 Wn. App. 824", "452 U.S. 938", "456 P.2d 340", "459 U.S. 842", "466 U.S. 668", "466 U.S. 952", "49 Wn.2d 66", "5 Wn.2d 73", "50 Wn. App. 702", "530 P.2d 340", "57 Wn. App. 134", "573 P.2d 1292", "585 P.2d 142", "599 P.2d 1255", "601 P.2d 995", "621 P.2d 121", "63 Wn.2d 176", "639 P.2d 737", "662 P.2d 59", "671 P.2d 230", "683 P.2d 173", "684 P.2d 699", "698 P.2d 598", "706 P.2d 1091", "71 Wn.2d 583", "71 Wn.2d 83", "71 Wn.2d 838", "726 P.2d 981", "727 P.2d 988", "750 P.2d 643", "756 P.2d 105", "76 Wn.2d 259", "85 Wn.2d 1006", "89 Wn.2d 488", "90 Wn.2d 657", "92 Wn.2d 480", "94 Wn.2d 839", "96 Wn.2d 902"]
+cites_cases: ["100 Wn.2d 1003", "100 Wn.2d 421", "101 Wn.2d 566", "102 Wn.2d 140", "104 P.2d 756", "105 Wn.2d 1002", "107 Wn.2d 59", "110 Wn.2d 403", "12 Wn. App. 522", "147 Cal. App. 3d 458", "164 Wash. 441", "195 Cal. Rptr. 233", "2 P.2d 738", "24 Wn. App. 517", "298 P.2d 500", "34 Wn. App. 397", "385 P.2d 859", "390 U.S. 912", "40 Wn. App. 340", "41 Wn. App. 820", "426 P.2d 502", "430 P.2d 522", "431 P.2d 201", "45 Wn. App. 824", "452 U.S. 938", "456 P.2d 340", "459 U.S. 842", "466 U.S. 668", "466 U.S. 952", "49 Wn.2d 66", "5 Wn.2d 73", "50 Wn. App. 702", "530 P.2d 340", "573 P.2d 1292", "585 P.2d 142", "599 P.2d 1255", "601 P.2d 995", "621 P.2d 121", "63 Wn.2d 176", "639 P.2d 737", "662 P.2d 59", "671 P.2d 230", "683 P.2d 173", "684 P.2d 699", "698 P.2d 598", "706 P.2d 1091", "71 Wn.2d 583", "71 Wn.2d 83", "71 Wn.2d 838", "726 P.2d 981", "727 P.2d 988", "750 P.2d 643", "756 P.2d 105", "76 Wn.2d 259", "85 Wn.2d 1006", "89 Wn.2d 488", "90 Wn.2d 657", "92 Wn.2d 480", "94 Wn.2d 839", "96 Wn.2d 902"]
 ---
 
 # State v. Allen
