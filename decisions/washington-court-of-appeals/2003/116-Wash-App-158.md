@@ -1,0 +1,64 @@
+---
+court: "Washington Court of Appeals"
+docket: "27391-8-II"
+decided: "2003-03-11"
+citations: ["116 Wash. App. 158"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Appellant, v. A.L.H., Respondent."]
+source_url: "https://static.case.law/wash-app/116/cases/0158-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 265867
+cites_cases: ["101 Wn. App. 309", "101 Wn. App. 425", "102 Wn. App. 196", "102 Wn. App. 537", "109 Wn. App. 791", "111 Wn. App. 430", "112 Wn. App. 486", "130 Wn.2d 553", "138 Wn.2d 898", "140 Wn.2d 138", "142 Wn.2d 1027", "142 Wn.2d 801", "146 Wn.2d 1019", "16 P.3d 583", "2 P.3d 501", "3 P.3d 780", "37 P.3d 1236", "45 P.3d 221", "49 P.3d 154", "6 P.3d 1187", "7 P.3d 878", "87 Wn. App. 574", "88 Wn. App. 21", "925 P.2d 964", "942 P.2d 1052", "943 P.2d 689", "982 P.2d 1156", "995 P.2d 31"]
+---
+
+# State v. A.L.H.
+
+## Majority (Houghton, J.)
+
+Houghton, J.
+The State appeals from a superior court order dismissing a contempt charge brought against A.L.H. (ALA), juvenile, under RCW 7.21.040(2). We affirm.
+FACTS
+On June 5, 2000, the juvenile court adjudicated ALH, an “at-risk youth” (ARY), under chapter 13.32A RCW. The court ordered ALH to abstain from alcohol and illegal drugs, to attend school, and to comply with several other conditions imposed by the ARY order.
+Despite the order, ALH continued to engage in prohibited behavior. After entry of the initial ARY order, ALH was brought before the court nine times, was put in juvenile detention several times, repeatedly skipped school, and continued to run away from home and use illegal drugs. On April 11, 2001, ALH’s parents reported to the State that ALH had not attended school since March 15, 2001, and that her urine had recently tested positive for drugs.
+The State charged ALH with one count of criminal contempt under RCW 7.21.010(l)(b) and RCW 7.21.040(2) to (5). Before her bench trial, ALH moved to dismiss the contempt charge. She argued that the State brought the contempt proceedings under the wrong statutes because the legislature amended both the general contempt, chapter 7.21 RCW, and the ARY statutes, chapter 13.32ARCW, in 1998 to require any such violation to be charged as civil rather than criminal contempt. The State responded that it had the option under the contempt statutes to seek either remedial (civil), penal (criminal), or summary contempt sanctions.
+The trial court found that it was “improper to proceed under criminal contempt guidelines in this case” and dismissed the contempt charge. Clerk’s Papers (CP) at 10. In its order, the trial court ruled “the Youth at Risk Statute limits contempt under RCW 7.21 to civil remedies.” CP at 12. The State appeals the dismissal.
+ANALYSIS
+Standard of Review
+We review issues of statutory construction de novo. State v. Teitzel, 109 Wn. App. 791, 793, 37 P.3d 1236 (citing State v. Azpitarte, 140 Wn.2d 138, 140-41, 995 P.2d 31 (2000)), review denied, 146 Wn.2d 1019 (2002). We interpret a statute to ascertain and give effect to the legislature’s intent. In re Det. of A.S., 138 Wn.2d 898, 911, 982 P.2d 1156 (1999) . Where the statute is plain and unambiguous, we derive its meaning and the legislature’s intent from its language. In re Parentage of J.H., 112 Wn. App. 486, 498, 49 P.3d 154 (2002) (citing Cockle v. Dep’t of Labor & Indus., 142 Wn.2d 801, 807, 16 P.3d 583 (2001)); McFreeze Corp. v. Dep’t of Revenue, 102 Wn. App. 196, 200, 6 P.3d 1187 (2000).
+Contempt Charge Dismissal
+The State argues that the trial court’s conclusion that the State was limited to civil remedies under these facts and its later dismissal of the contempt charges were error. The State contends that the 1998 amendments to the ARY statutes did not abrogate the State’s ability to bring criminal contempt charges against an at-risk youth under chapter 7.21 RCW; therefore, it argues, an ARY violation may be brought before the court as either civil contempt under the ARY statutes or as criminal contempt under the general contempt statutes, RCW 7.21.010 and .040.
+Contempt of Court
+Chapter 7.21 RCW is the “general contempt statute.” See, e.g., In re Interest of N.M., 102 Wn. App. 537, 540, 7 P.3d 878 (2000) ; In re Interest of M.B., 101 Wn. App. 425, 437, 3 P.3d 780 (2000), review denied, 142 Wn.2d 1027 (2001); In re Interest of Rebecca K., 101 Wn. App. 309, 317, 2 P.3d 501 (2000). It defines the acts generally constituting contempt: “ ‘Contempt of court’ means intentional. . . [d]isobedience of any lawful judgment, decree, order, or process of the court.” RCW 7.21.010(l)(b). RCW 7.21.030 through 7.21.050 provide guidelines for civil (remedial), criminal (punitive), and summary contempt of court, respectively.
+At-Risk Youth Contemnor
+RCW 13.32A.250(2) provides specific guidelines for an at-risk youth in contempt of court: “Failure by a party to comply with an [ARY] order entered under this chapter is a civil contempt of court as provided in RCW 7.21.030(2)(e), subject to the limitations of subsection (3)[] of this section.”
+In 1998, the legislature amended the general contempt statutes, mandating how courts proceed when a juvenile status offender violates an ARY order:
+(e) In cases under chapter[ ]13.32A . . . RCW, commitment to juvenile detention for a period of time not to exceed seven days. This sanction may be imposed in addition to, or as an alternative to, any other remedial sanction authorized by this chapter. This remedy is specifically determined to be a remedial sanction.
+Laws of 1998, ch. 296, § 36 (emphasis added).
+Divisions One and Three of this court have similarly addressed the effect of the 1998 amendments on contempt proceedings brought against juvenile status offenders. Division Three observed that the 1998 amendments to the ARY statutes do not foreclose bringing criminal contempt against an at-risk youth. Rebecca K., 101 Wn. App. at 317. But it first reiterated the principles that (1) “Criminal contempt proceedings must be initiated by a criminal information filed by the State in order to comply with due process,” and (2) an order of civil contempt must contain a purge clause under which the contemnor has the ability to avoid a finding of contempt and/or incarceration for noncompliance. Rebecca K., 101 Wn. App. at 317.
+Likewise in another post-1998 amendment case, Division One further observed, “The amendments and the legislative findings indicate the legislature intended detention, standing alone, to be a remedial sanction for status offense contempts. . . . But detention is still incarceration and still a place of punishment. The character of a sanction does not change simply because the legislature changes its label.” M.B., 101 Wn. App. at 443-45.
+Division Three further notes:
+The State argues that the Legislature’s intent in enacting the 1998 amendments nonetheless permits a court to hold minors in civil contempt and to impose determinate sentences. We disagree. The 1998 amendments to RCW 13.32A.250(2) and (3) were merely cosmetic. The Legislature inserted the word “civil” before contempt and “remedial” before sanction. But the statute specifically refers to RCW 7.21, the general contempt statute, so the rules and case law interpreting it are applicable. The trial court here imposed a determinate sentence, without a purge clause .... This is a punitive sanction. The fact that the Legislature termed it remedial does not change the nature of the sanction itself, no matter what it is called.
+Rebecca K., 101 Wn. App. at 317.
+Even in light of M.B. and Rebecca K., the State misperceives the effect of the 1998 amendments. We agree with Division One’s and Division Three’s interpretations of the 1998 amendments as they pertain to a juvenile in violation of an at-risk order. But we clarify one additional point.
+The 1998 amendments have two basic effects: (1) If contempt charges are brought against a juvenile in violation of an ARY order, the State must seek civil contempt remedies, RCW 7.21.030(2)(e); and (2) any juvenile offender in contempt of court on some other basis may be subject to criminal, civil, or summary contempt under the general contempt statutes. Therefore, we agree with Divisions One and Three that after the 1998 amendments, both the general contempt and ARY statutes may apply to juvenile contemnors.
+In sum, a juvenile may be charged with criminal contempt, but he or she must be afforded all of the due process safeguards extended to any criminal defendant. M.B., 101 Wn. App. at 453; Rebecca K., 101 Wn. App. at 317. Moreover, the State must initiate any criminal contempt proceeding by filing a criminal information. RCW 7.21-.040(2)(a); M.B., 101 Wn. App. at 439-40; Rebecca K., 101 Wn. App. at 317.
+But when a juvenile subject to an ARY order violates a condition of that order, the State is expressly limited by statute to seek remedial sanctions under RCW 7.21.030-(2)(e). See also RCW 13.32A.250(2); M.B., 101 Wn. App. at 443-44. Because such remedies are intended to coerce compliance with the ARY order, they do not require criminal due process protections, but, by statute, must include a purge clause. M.B., 101 Wn. App. at 446; Rebecca K., 101 Wn. App. at 317.
+Here, ALH was subject to an ARY order, which she repeatedly violated. The State’s only recourse was to seek a finding of civil contempt. The State was therefore required to include a purge clause to enable ALH to avoid a finding of contempt and/or incarceration for noncompliance. Rebecca K., 101 Wn. App. at 317. The State failed to do so here, and the trial court did not err in dismissing the contempt charge.
+Affirmed.
+Armstrong, J., concurs.
+ALH was born on October 11, 1984.
+Chapter 13.32A RCW is commonly referred to as the Family Reconciliation Act.
+Presumably acting under its inherent contempt powers, the trial court ordered ALH to complete the drug rehabilitation program in which she was already enrolled. Her counsel did not object. This order is not before us.
+RCW 13.32A.250C3) provides: “The court may impose remedial sanctions including a fine of up to one hundred dollars and confinement for up to seven days, or both for contempt of court under this section.”
+We use the phrase juvenile “status offender” with caution. Juvenile status offenders are juveniles who are before the court because their behavior endangers their welfare. M.B., 101 Wn. App. at 434; see also RCW 13.32A.010. Importantly, they include, but are not limited to, at-risk youths. M.B., 101 Wn. App. at 434.
+The State also argues that the 1998 amendments to chapter 13.32A RCW do not preclude the State’s ability to bring criminal contempt charges against a youth who violates an ARY order. The State cites cases that “explicitly recognizeO the State’s authority to file criminal contempt charges,” Appellant’s Br. at 5 (citing In re Interest of A.D.F., 88 Wn. App. 21, 943 P.2d 689 (1997); In re Welfare of K.L., 87 Wn. App. 574, 942 P.2d 1052 (1997)). We disagree. Neither of these cases applies here because they predate the 1998 amendments to the ARY statutes; thus, we will not address them further and the State’s argument fails.
+
+## Concurrence (Quinn-Brintnall, A.C. J.)
+
+Quinn-Brintnall, A.C. J.
+(concurring) — I concur with the
+majority’s ruling that RCW 13.32A.250 created an exclusive remedy to enforce violations of at-risk youth (ARY) petitions and, thus, precludes the State from filing criminal contempt charges for ARY violations.
+I write separately to point out that RCW 7.21.030’s stated penalty for ARY violations is a criminal penalty that can be imposed only after granting a juvenile full constitutional protections following the State’s filing of a criminal contempt charge under RCW 7.21.040. Thus, as things now stand, the legislature has created an exclusive remedy for violations of ARY orders that is unenforceable because it allows for the deprivation of a juvenile’s liberty in violation of the due process protections in the state and federal constitution. In re Boot, 130 Wn.2d 553, 570, 925 P.2d 964 (1996) (“|j]uveniles charged with crimes have a right to procedural due process”); U.S. Const, amend. XTV § 1 (no state shall “deprive any person of life, liberty, or property without due process of law”); Wash. Const, art. I, § 3 (“[n]o person shall be deprived of life, liberty, or property, without due process of law”). And the State is precluded by the exclusive remedy provisions of RCW 13.32A.250 from curing this constitutional defect by filing a separate criminal contempt charge under RCW 7.21.040. Because we cannot read into a statute what the legislature has omitted, State v. King, 111 Wn. App. 430, 435, 45 P.3d 221 (2002), I concur with the majority that this case must be affirmed.
+Commitment to “juvenile detention for a period of time not to exceed seven days.” RCW 7.21.030(4).
