@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20407-3-III"
 decided: "2002-08-15"
-citations: ["113 Wash. App. 472", "113 Wash. App. 1012"]
+citations: ["113 Wash. App. 472"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mount Adams School District, Respondent, v. William D. Cook, et al., 
 source_url: "https://static.case.law/wash-app/113/cases/0472-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764492
-cites_cases: ["113 Wn. App. 472", "121 Wn.2d 810", "122 Wn.2d 738", "125 Wn.2d 337", "130 Wn.2d 401", "149 Wn.2d 1009", "22 Cal. Rptr. 657", "28 Wn. App. 319", "372 P.2d 649", "40 Wn. App. 61", "47 Wn. App. 681", "530 P.2d 298", "58 Cal. 2d 23", "623 P.2d 702", "645 P.2d 1088", "69 Wn. App. 709", "696 P.2d 1264", "736 P.2d 1100", "85 Wn.2d 78", "850 P.2d 517", "854 P.2d 1072", "863 P.2d 535", "883 P.2d 1383", "898 P.2d 929", "924 P.2d 13", "97 Wn.2d 419", "99 Wn. App. 107", "99 Wn. App. 673", "992 P.2d 511", "995 P.2d 83"]
+cites_cases: ["121 Wn.2d 810", "122 Wn.2d 738", "125 Wn.2d 337", "130 Wn.2d 401", "149 Wn.2d 1009", "22 Cal. Rptr. 657", "28 Wn. App. 319", "372 P.2d 649", "40 Wn. App. 61", "47 Wn. App. 681", "530 P.2d 298", "58 Cal. 2d 23", "623 P.2d 702", "645 P.2d 1088", "69 Wn. App. 709", "696 P.2d 1264", "736 P.2d 1100", "85 Wn.2d 78", "850 P.2d 517", "854 P.2d 1072", "863 P.2d 535", "883 P.2d 1383", "898 P.2d 929", "924 P.2d 13", "97 Wn.2d 419", "99 Wn. App. 107", "99 Wn. App. 673", "992 P.2d 511", "995 P.2d 83"]
 ---
 
 # Mount Adams School District v. Cook
