@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49932-7-I"
 decided: "2003-01-13"
-citations: ["116 Wash. App. 9", "115 Wash. App. 1005"]
+citations: ["116 Wash. App. 9"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["George Schwendeman, Appellant, v. USAA Casualty Insurance Company, Re
 source_url: "https://static.case.law/wash-app/116/cases/0009-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 266015
-cites_cases: ["105 Wn. App. 532", "110 Wn. App. 290", "111 Wn. App. 79", "113 Wn. App. 306", "116 Wn. App. 9", "125 Wn.2d 500", "128 Wn.2d 40", "145 Wn.2d 178", "147 Wn.2d 1016", "147 Wn.2d 1018", "179 F.3d 103", "20 P.3d 465", "201 Ill. 2d 560", "204 F.R.D. 662", "254 Ill. Dec. 194", "280 F.3d 124", "321 Ill. App. 3d 269", "35 P.3d 351", "38 P.3d 1024", "417 U.S. 156", "44 P.3d 8", "445 U.S. 388", "457 U.S. 147", "492 P.2d 581", "521 U.S. 591", "529 P.2d 438", "536 U.S. 917", "536 U.S. 941", "54 P.3d 665", "6 Wn. App. 249", "733 F.2d 1562", "746 N.E.2d 1242", "75 F.3d 1069", "84 F.3d 734", "84 Wn.2d 617", "886 P.2d 160", "905 P.2d 338"]
+cites_cases: ["105 Wn. App. 532", "110 Wn. App. 290", "111 Wn. App. 79", "113 Wn. App. 306", "125 Wn.2d 500", "128 Wn.2d 40", "145 Wn.2d 178", "147 Wn.2d 1016", "147 Wn.2d 1018", "179 F.3d 103", "20 P.3d 465", "201 Ill. 2d 560", "204 F.R.D. 662", "254 Ill. Dec. 194", "280 F.3d 124", "321 Ill. App. 3d 269", "35 P.3d 351", "38 P.3d 1024", "417 U.S. 156", "44 P.3d 8", "445 U.S. 388", "457 U.S. 147", "492 P.2d 581", "521 U.S. 591", "529 P.2d 438", "536 U.S. 917", "536 U.S. 941", "54 P.3d 665", "6 Wn. App. 249", "733 F.2d 1562", "746 N.E.2d 1242", "75 F.3d 1069", "84 F.3d 734", "84 Wn.2d 617", "886 P.2d 160", "905 P.2d 338"]
 ---
 
 # Schwendeman v. USAA Casualty Insurance
