@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28394-8-II"
 decided: "2003-08-05"
-citations: ["118 Wash. App. 485", "117 Wash. App. 1094"]
+citations: ["118 Wash. App. 485"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Carl J. Hatley, et al., Petitioners, v. Saberhagen Holdings, Inc., as
 source_url: "https://static.case.law/wash-app/118/cases/0485-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352529
-cites_cases: ["115 Wn.2d 123", "118 Wn. App. 485", "136 Wn.2d 1013", "28 U.S.C. § 1407", "330 U.S. 501", "380 P.2d 744", "395 P.2d 486", "482 P.2d 775", "61 Wn.2d 761", "64 Wn.2d 964", "79 Wn.2d 12", "794 P.2d 1272", "90 Wn. App. 711", "953 P.2d 822"]
+cites_cases: ["115 Wn.2d 123", "136 Wn.2d 1013", "28 U.S.C. § 1407", "330 U.S. 501", "380 P.2d 744", "395 P.2d 486", "482 P.2d 775", "61 Wn.2d 761", "64 Wn.2d 964", "79 Wn.2d 12", "794 P.2d 1272", "90 Wn. App. 711", "953 P.2d 822"]
 ---
 
 # Hatley v. Saberhagen Holdings, Inc.
