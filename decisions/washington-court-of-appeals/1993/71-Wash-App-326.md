@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14838-2-II"
 decided: "1993-07-14"
-citations: ["71 Wash. App. 326", "70 Wash. App. 1048"]
+citations: ["71 Wash. App. 326"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jerry N. Johnson, Appellant, v. The Department of Licensing, Responde
 source_url: "https://static.case.law/wash-app/71/cases/0326-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787134
-cites_cases: ["10 A.L.R.3d 974", "100 Wn.2d 824", "102 Wn.2d 305", "105 Wn.2d 1015", "107 Wn.2d 196", "109 Wn.2d 392", "111 Wn.2d 1016", "112 Wn.2d 890", "113 Wn.2d 701", "113 Wn.2d 833", "114 Wn.2d 353", "119 Wn.2d 1020", "119 Wn.2d 1023", "120 Wn.2d 1002", "27 Wn. App. 214", "30 Wn. App. 834", "384 U.S. 436", "43 Wn. App. 32", "44 Wn. App. 83", "51 Wn. App. 942", "515 P.2d 844", "53 Wn. App. 854", "558 P.2d 769", "574 P.2d 1167", "616 P.2d 688", "63 Wn. App. 50", "638 P.2d 584", "64 Wn. App. 902", "65 Wn. App. 501", "65 Wn. App. 739", "652 P.2d 1347", "66 Wn. App. 253", "675 P.2d 599", "685 P.2d 591", "71 Wn. App. 326", "714 P.2d 681", "721 P.2d 524", "728 P.2d 138", "745 P.2d 496", "756 P.2d 153", "771 P.2d 359", "774 P.2d 1187", "782 P.2d 1045", "784 P.2d 485", "788 P.2d 1066", "816 P.2d 1229", "826 P.2d 1101", "828 P.2d 1150", "829 P.2d 1109", "832 P.2d 1321", "88 Wn.2d 183", "89 Wn.2d 664", "9 Wn. App. 878", "97 Wn.2d 899"]
+cites_cases: ["10 A.L.R.3d 974", "100 Wn.2d 824", "102 Wn.2d 305", "105 Wn.2d 1015", "107 Wn.2d 196", "109 Wn.2d 392", "111 Wn.2d 1016", "112 Wn.2d 890", "113 Wn.2d 701", "113 Wn.2d 833", "114 Wn.2d 353", "119 Wn.2d 1020", "119 Wn.2d 1023", "120 Wn.2d 1002", "27 Wn. App. 214", "30 Wn. App. 834", "384 U.S. 436", "43 Wn. App. 32", "44 Wn. App. 83", "51 Wn. App. 942", "515 P.2d 844", "53 Wn. App. 854", "558 P.2d 769", "574 P.2d 1167", "616 P.2d 688", "63 Wn. App. 50", "638 P.2d 584", "64 Wn. App. 902", "65 Wn. App. 501", "65 Wn. App. 739", "652 P.2d 1347", "66 Wn. App. 253", "675 P.2d 599", "685 P.2d 591", "714 P.2d 681", "721 P.2d 524", "728 P.2d 138", "745 P.2d 496", "756 P.2d 153", "771 P.2d 359", "774 P.2d 1187", "782 P.2d 1045", "784 P.2d 485", "788 P.2d 1066", "816 P.2d 1229", "826 P.2d 1101", "828 P.2d 1150", "829 P.2d 1109", "832 P.2d 1321", "88 Wn.2d 183", "89 Wn.2d 664", "9 Wn. App. 878", "97 Wn.2d 899"]
 ---
 
 # Johnson v. Department of Licensing
