@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "8069-2-III"
+decided: "1987-12-15"
+citations: ["49 Wash. App. 906"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McInturff, C.J., and Thompson, J., concur."]
+parties: ["Skip Wiese, Respondent, v. Mutual of Enumclaw, Appellant."]
+source_url: "https://static.case.law/wash-app/49/cases/0906-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1739130
+cites_cases: ["105 Wn.2d 381", "3 Wn. App. 167", "473 P.2d 193", "523 P.2d 193", "715 P.2d 1133", "83 Wn.2d 787"]
+---
+
+# Wiese v. Mutual of Enumclaw
+
+## Majority (Munson, J.)
+
+Munson, J.
+Mutual of Enumclaw Insurance Company appeals the trial court's finding of coverage under a liability insurance policy. Skip Wiese cross-appeals, contending the trial court erred in refusing to allow him to recover his settlement costs from Mutual in excess of the actual trial judgment. We reverse as to Mutual; we affirm as to Mr. Wiese.
+The facts are undisputed. Charles and Ann Thomas have a cabin at Priest Lake and own a boat. Sometime between 10 p.m. and midnight on August 20, 1983, after stopping their boat at several drinking establishments along the perimeter of the lake, Mr. and Mrs. Thomas, along with Renae Faulkner, Skip Wiese, Donald Deno, and Don Reynolds, decided to go "skinny-dipping." Mrs. Thomas, the driver, stopped the boat; most of the people disrobed and entered the water. Mr. Thomas remained aboard. Mr. Wiese climbed back into the boat and pushed Mr. Thomas into the water; he landed on Ms. Faulkner. She suffered a herniated disc resulting in medical expenses, pain, suffering, and lost wages.
+Ms. Faulkner sued Mr. and Mrs. Thomas, Mr. Wiese, and Mr. Deno. The Thomases had a $300,000 homeowners policy issued by Mutual which included a boat owners supplement. Mr. Wiese was insured by Allstate Insurance Company for $25,000. His tender of defense to Mutual was declined on the basis he was not an insured under the policy. He brought this action against Mutual seeking a declaration that he was an insured; that Mutual had a duty to defend him; that he was entitled to full indemnification in the event of an adverse judgment in the underlying tort action; and that Mutual had exercised bad faith in refusing the tender of defense. The superior court granted his motion for partial summary judgment holding Mutual had a duty to defend, but declined to determine whether he was an insured.
+Mr. Wiese's counsel wrote Mutual three times asking for some assurance that Mutual would protect Mr. Wiese in the event of an adverse judgment. Mutual did not respond to these requests. Mr. Wiese and Ms. Faulkner settled for the $25,000 Allstate policy limits; she kept him in her action only to access the greater limits of the Mutual policy. Thereafter, Mutual made an offer of $7,500 to Ms. Faulkner, which she declined. Ultimately, Mutual agreed to defend Mr. Wiese subject to a reservation of rights based on the intentional act exclusion in the policy. Mutual provided him a defense by retaining the same attorney Allstate had retained and who is his attorney in this appeal. At trial, Mr. Thomas, Mr. Wiese and Ms. Faulkner were all found to be one-third negligent; Ms. Faulkner received a total net recovery of $10,900.
+Mr. Wiese subsequently sought recovery of his attorney fees and costs above the Allstate settlement. The court found him to be an "insured" under Mutual's policy. Although the court found he intentionally pushed Mr. Thomas into the water, it concluded the result was "unforeseen, involuntary, unexpected and unusual and accordingly constituted an 'accident.'" The court ordered Mutual to reimburse him for eleven-twelfths of the net recovery and the costs of defense. This fractional amount resulted from both companies' "other insurance" clauses. The court, however, held Mr. Wiese was not entitled to recover any sums paid in settlement to Ms. Faulkner which exceeded the judgment of $10,900. Both parties appeal.
+Mutual and Mr. Wiese do not agree which insurance policy was issued to the Thomases and was in effect at the time of the accident. Mutual contends it issued a boat owners supplement to the Thomases' homeowners policy; Mr. Wiese contends a separate boat owners policy was issued. The separate boat owners policy is not a part of the record. There is no showing this policy was ever issued to the Thomases. Thus, we determine whether the boat owners supplement provides coverage to Mr. Wiese.
+The homeowners policy defines an insured as follows:
+a. "Insured" means
+(1) the Named Insured stated in the Declarations of this policy;
+(2) if residents of the Named Insured's household, his spouse, the relatives of either, and any other person under the age of twenty-one in the care of any Insured; and
+(3) under Coverage E—Personal Liability and Coverage F—Medical Payments to Others:
+(a) with respect to . . . watercraft to which this insurance applies, owned by any Insured, any person or organization legally responsible therefor,. . .
+Mutual contends Mr. Wiese does not fall within the definition of "insured." He contends he is an "insured" because he was "legally responsible" for his conduct while using the boat. The provision, however, defines an "insured" as a person legally responsible for the boat itself and not just for his conduct while on the boat. He was not "legally responsible" for the Thomases' boat; he was merely a passenger and, therefore, not an insured.
+The boat owners supplement provides:
+In consideration of an additional premium shown in the Declarations, Personal Liability Coverage and Medical Payments to others, Section II of the policy to which this Supplement is attached, is extended to apply to Bodily Injury or Property Damage arising out of the ownership, maintenance, use, loading or unloading of the watercraft
+Mr. Wiese contends, and apparently the court so found, coverage existed because his action in pushing Mr. Thomas into the water arose out of the "use" of the boat. We disagree. In order for liability coverage for injury arising out of the use of the boat to exist, the person allegedly liable must be an insured in the first instance. Mr. Wiese is not an insured under this policy and, therefore, whether Ms. Faulkner's injury arose out of the "use" of the boat is irrelevant. Mutual's policy does not provide coverage to Mr. Wiese for this accident.
+Mr. Wiese cross-appeals contending the trial court erred by refusing to allow him to recover his settlement costs in excess of the actual judgment. The trial court held Mutual responsible for eleven-twelfths of the $10,900 judgment awarded to Ms. Faulkner. He maintains Mutual should be responsible for the entire settlement amount of $25,000 because it refused to negotiate a possible settlement after being asked to do so three times by his counsel, citing Tyler v. Grange Ins. Ass'n, 3 Wn. App. 167, 473 P.2d 193 (1970).
+In Tyler, Gordon Tyler was injured as a passenger in a car accident. The driver's insurer made no effort to settle the case; Mr. Tyler received a $50,000 judgment against the driver. The trial court then awarded the driver the difference between the policy limits and the judgment rendered against him, plus interest, holding that the insurer's failure to explore a settlement and failure to make a meaningful offer prior to the conclusion of the appeal constituted bad faith and negligence. Tyler, at 168, 171-72.
+The Court of Appeals affirmed, explaining that the insurer has a duty to thoroughly investigate and determine the facts upon which a good faith decision as to settlement can be made:
+The flat refusal to negotiate, under circumstances of substantial exposure to liability, a demonstrated receptive climate for settlement, and limited insurance coverage may show lack of good faith as well.
+Tyler, at 179; see also Hamilton v. State Farm Ins. Co., 83 Wn.2d 787, 794, 523 P.2d 193 (1974).
+Tyler is distinguishable. Although there is no evidence as to what steps Mutual took in investigating and evaluating Ms. Faulkner's claim, Mutual made an offer to her which was rejected.
+Nonetheless, Mr. Wiese contends Mutual had an obligation to assure him it would protect him in the event of an adverse judgment. He cites no authority for this position. Recently, in Tank v. State Farm Fire & Cas. Co., 105 Wn.2d 381, 383, 715 P.2d 1133 (1986), the court held an insurer who defends an insured under a reservation of rights has an enhanced obligation of fairness to its insured. This enhanced obligation requires the insurer to (1) thoroughly investigate the cause of the insured's accident and the nature and severity of the plaintiff's injuries; (2) retain competent counsel for the insured with the understanding that only the insured is the client; (3) undertake the responsibility to inform the insured not only of the reservation of rights defense, but of all developments relevant to the policy and the progress of the lawsuit; and (4) refrain from engaging in action which demonstrates a greater concern for the insurer's monetary interest than the insured's financial risk. Tank, at 388.
+Mr. Wiese does not allege Mutual did not fulfill any of these obligations. He simply asserts Mutual exercised bad faith by not assuring him it would protect his financial interests in the event of an adverse judgment if he refrained from settling with Ms. Faulkner for $25,000. We are not persuaded Mutual's failure to so assure Mr. Wiese constitutes bad faith.
+The judgment against Mutual is reversed; the judgment denying Mr. Wiese's settlement costs is affirmed.
+McInturff, C.J., and Thompson, J., concur.
+Reconsideration denied January 12, 1988.
+It was disputed at trial whether Mr. Wiese intentionally pushed Mr. Thomas into the water. The trial court found it was intentional, but the result was accidental. Neither party assigns error to that finding.
+Ms. Faulkner's attorney indicated to Mr. Wiese's attorney that he had been offered $10,000 by Mutual. However, in its brief, Mutual claims it offered $7,500 to Ms. Faulkner.
