@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22201-5-I"
 decided: "1990-01-08"
-citations: ["56 Wash. App. 859", "56 Wash. App. 1042"]
+citations: ["56 Wash. App. 859"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Respondent, v. William Bernard Lea, Petitioner."
 source_url: "https://static.case.law/wash-app/56/cases/0859-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1759968
-cites_cases: ["103 Wn.2d 224", "103 Wn.2d 760", "27 Wn. App. 387", "28 Wn. App. 435", "408 U.S. 471", "411 U.S. 778", "56 Wn. App. 859", "569 P.2d 1129", "618 P.2d 531", "624 P.2d 201", "691 P.2d 964", "697 P.2d 579", "89 Wn.2d 38"]
+cites_cases: ["103 Wn.2d 224", "103 Wn.2d 760", "27 Wn. App. 387", "28 Wn. App. 435", "408 U.S. 471", "411 U.S. 778", "569 P.2d 1129", "618 P.2d 531", "624 P.2d 201", "691 P.2d 964", "697 P.2d 579", "89 Wn.2d 38"]
 ---
 
 # City of Seattle v. Lea
