@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52982-0-I"
 decided: "2004-09-07"
-citations: ["124 Wash. App. 71", "123 Wash. App. 1011"]
+citations: ["124 Wash. App. 71"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Leticia Domingo, Appellant, v. Boeing Employees’ Credit Union, Resp
 source_url: "https://static.case.law/wash-app/124/cases/0071-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684040
-cites_cases: ["103 Wn.2d 1005", "103 Wn.2d 401", "106 Wn.2d 1", "110 Wn.2d 355", "111 Wn. App. 36", "113 F.3d 912", "113 Wn.2d 612", "115 Wn.2d 34", "116 Wn. App. 127", "118 Wn.2d 1001", "124 Wn. App. 71", "124 Wn.2d 656", "128 Wn.2d 931", "129 Wn.2d 1011", "130 Wn.2d 1024", "130 Wn.2d 97", "131 F.3d 672", "133 Wn.2d 1020", "144 Wn.2d 172", "148 Wn.2d 35", "149 F.3d 1125", "149 Wn.2d 1023", "150 Wn.2d 1016", "23 P.3d 440", "231 F.3d 1039", "32 F.3d 376", "38 Wn. App. 645", "411 U.S. 792", "43 P.3d 23", "431 U.S. 324", "512 U.S. 1228", "513 U.S. 1112", "522 U.S. 950", "53 Wn. App. 95", "530 U.S. 133", "59 P.3d 611", "62 Wn. App. 178", "64 P.3d 691", "65 Wn. App. 93", "656 P.2d 1030", "689 P.2d 87", "693 P.2d 708", "721 P.2d 1", "753 P.2d 517", "765 P.2d 1312", "782 P.2d 1002", "79 Wn. App. 732", "793 P.2d 952", "80 Wn. App. 212", "813 P.2d 180", "82 Wn. App. 736", "827 P.2d 1070", "86 Wn. App. 183", "880 P.2d 988", "904 P.2d 793", "907 P.2d 1223", "913 P.2d 377", "919 P.2d 620", "922 P.2d 43", "937 P.2d 612", "972 F.2d 845", "98 Wn.2d 434", "998 F.2d 1480"]
+cites_cases: ["103 Wn.2d 1005", "103 Wn.2d 401", "106 Wn.2d 1", "110 Wn.2d 355", "111 Wn. App. 36", "113 F.3d 912", "113 Wn.2d 612", "115 Wn.2d 34", "116 Wn. App. 127", "118 Wn.2d 1001", "124 Wn.2d 656", "128 Wn.2d 931", "129 Wn.2d 1011", "130 Wn.2d 1024", "130 Wn.2d 97", "131 F.3d 672", "133 Wn.2d 1020", "144 Wn.2d 172", "148 Wn.2d 35", "149 F.3d 1125", "149 Wn.2d 1023", "150 Wn.2d 1016", "23 P.3d 440", "231 F.3d 1039", "32 F.3d 376", "38 Wn. App. 645", "411 U.S. 792", "43 P.3d 23", "431 U.S. 324", "512 U.S. 1228", "513 U.S. 1112", "522 U.S. 950", "53 Wn. App. 95", "530 U.S. 133", "59 P.3d 611", "62 Wn. App. 178", "64 P.3d 691", "65 Wn. App. 93", "656 P.2d 1030", "689 P.2d 87", "693 P.2d 708", "721 P.2d 1", "753 P.2d 517", "765 P.2d 1312", "782 P.2d 1002", "79 Wn. App. 732", "793 P.2d 952", "80 Wn. App. 212", "813 P.2d 180", "82 Wn. App. 736", "827 P.2d 1070", "86 Wn. App. 183", "880 P.2d 988", "904 P.2d 793", "907 P.2d 1223", "913 P.2d 377", "919 P.2d 620", "922 P.2d 43", "937 P.2d 612", "972 F.2d 845", "98 Wn.2d 434", "998 F.2d 1480"]
 ---
 
 # Domingo v. Boeing Employees' Credit Union
