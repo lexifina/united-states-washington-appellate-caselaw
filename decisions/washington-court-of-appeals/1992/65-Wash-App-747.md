@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29454-7-I"
 decided: "1992-04-06"
-citations: ["65 Wash. App. 747", "64 Wash. App. 1044"]
+citations: ["65 Wash. App. 747"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Petitioner, v. David Sandholm, Respondent."]
 source_url: "https://static.case.law/wash-app/65/cases/0747-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1735933
-cites_cases: ["10 A.L.R.3d 974", "101 S. Ct. 390", "112 Wn.2d 1022", "116 Wn.2d 135", "18 A.L.R.4th 690", "384 U.S. 436", "449 U.S. 977", "45 Wn. App. 87", "53 Wn. App. 352", "610 P.2d 893", "620 P.2d 999", "65 Wn. App. 747", "66 L. Ed. 2d 240", "724 P.2d 407", "767 P.2d 143", "803 P.2d 305", "93 Wn.2d 436", "94 Wn.2d 858"]
+cites_cases: ["10 A.L.R.3d 974", "101 S. Ct. 390", "112 Wn.2d 1022", "116 Wn.2d 135", "18 A.L.R.4th 690", "384 U.S. 436", "449 U.S. 977", "45 Wn. App. 87", "53 Wn. App. 352", "610 P.2d 893", "620 P.2d 999", "66 L. Ed. 2d 240", "724 P.2d 407", "767 P.2d 143", "803 P.2d 305", "93 Wn.2d 436", "94 Wn.2d 858"]
 ---
 
 # City of Seattle v. Sandholm
