@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43804-2-I"
 decided: "2000-04-10"
-citations: ["104 Wash. App. 735", "100 Wash. App. 1024"]
+citations: ["104 Wash. App. 735"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
