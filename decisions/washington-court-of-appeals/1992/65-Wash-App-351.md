@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "25539-8-I"
+decided: "1992-04-27"
+citations: ["65 Wash. App. 351"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Bryan Daniel Hartz, Appellant."]
+source_url: "https://static.case.law/wash-app/65/cases/0351-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1736034
+cites_cases: ["10 Wn.2d 167", "109 Wn.2d 1027", "113 Wn.2d 679", "114 Wn.2d 6", "116 P.2d 346", "116 Wn.2d 831", "117 Wn.2d 93", "118 Wn.2d 1022", "118 Wn.2d 151", "118 Wn.2d 911", "129 Wash. 134", "192 Wash. 160", "224 P. 559", "49 Wn. App. 155", "498 U.S. 838", "51 Wash. 223", "51 Wn. App. 192", "514 P.2d 151", "56 Wn. App. 451", "61 Wn. App. 703", "62 Wn. App. 640", "62 Wn. App. 676", "63 Wn. App. 592", "63 Wn. App. 630", "721 F.2d 1229", "73 P.2d 735", "741 P.2d 589", "752 P.2d 402", "782 P.2d 552", "783 P.2d 1130", "785 P.2d 440", "809 P.2d 190", "810 P.2d 55", "812 P.2d 119", "812 P.2d 86", "814 P.2d 1252", "817 P.2d 867", "82 Wn.2d 777", "821 P.2d 492", "821 P.2d 528", "822 P.2d 775", "98 P. 659"]
+---
+
+# State v. Hartz
+
+## Majority (Pekelis, J.)
+
+Pekelis, J.
+Bryan D. Hartz appeals from his conviction on one count of first degree felony murder. Hartz challenges the constitutional sufficiency of the information, claiming that it failed to allege the essential elements of the charged crime. He also contends that the trial court erred in imposing court costs and victim penalty assessment (VPA). We affirm.
+I
+On August 21, 1989, Hartz was charged by information with aggravated first degree murder and the alternative offense of first degree felony murder. With respect to the felony murder charge, the information stated in part:
+That the defendant Bryan Daniel Hartz, together with another, in Ring Comity, Washington, on or about August 14, 1989 while committing and attempting to commit the crime of robbery in the first degree and in the course of and in furtherance of said crime and in immediate flight therefrom, did cause the death on or about August 14, 1989 of Marji K. Recheygl, a human being who was not a participant in the crime*
+Contrary to RCW 9A.32.030(l)(c), and against the peace and dignity of the state of Washington.
+At trial, several eyewitnesses testified that on the morning of August 14, 1989, Hartz, disguised in a helmet and motorcycle garb, entered the Sammamish Highlands Branch of SeaFirst Bank and brandished a gun. Hartz approached one of the tellers, Maiji Recheygl, and demanded that she give him money. When Recheygl did not respond fast enough, Hartz cocked the gun, climbed onto the counter and began seizing the money himself. He then aimed the gun at Rechcygl's chest and shot her. She died within minutes. Hartz then left the bank and fled from the area on the back of a motorcycle driven by Kent Williams. The robbery netted just over $1,000 in cash, including several marked bills.
+Hartz and Williams were apprehended within 2 days. At the time of his arrest, Hartz had about $600 on him including the stolen marked bills. Hartz admitted that he and Williams had planned the robbery for several weeks. He also admitted taking the money from Rechcygl at gunpoint, but claimed that the gun discharged accidentally.
+At the close of testimony, the jury returned a guilty verdict on the felony murder count. At Hartz' sentencing hearing, the trial court imposed $668.27 in court costs and $100 VPA. The court waived recoupment of defense attorney fees and community placement fees.
+II
+Hartz contends that the information charging him with first degree felony murder was constitutionally insufficient because it failed to allege (1) the essential statutory and common law elements of robbery, the underlying felony, and (2) the specific means of committing robbery which the State was asserting applied in this case. He relies principally on the case of Kreck v. Spalding, 721 F.2d 1229 (9th Cir. 1983).
+Under Const. art. 1, § 22 (amend. 10), CrR 2.1(b), and the Sixth Amendment, a charging document must include every essential statutory and court-imposed element of the charged crime in order to meet constitutional due process requirements. State v. Hopper, 118 Wn.2d 151,155, 822 P.2d 775 (1992); State v. Kjorsvik, 117 Wn.2d 93, 102, 812 P.2d 86 (1991). The purpose of the "essential elements" rule is to apprise a defendant of the charged crime so that he or she may prepare a defense. Kjorsvik, 117 Wn.2d at 101.
+Here, the State agrees that the specific felony underlying a charge of felony murder is an essential element of the crime of felony murder. The State argues, however, that it was not required to fist the elements of the underlying felony or identify the specific means in which the felony could be committed.
+The State is correct. While the underlying crime is an element of felony murder, the defendant is not actually charged with the underlying crime. State v. Whitfield, 129 Wash. 134, 139, 224 P. 559 (1924). Rather, the underlying crime functions as a substitute for the mental state the State would otherwise be required to prove. State v. Craig, 82 Wn.2d 777, 781-82, 514 P.2d 151 (1973). Hence, Washington courts have long held that the elements of the underlying felony are not elements of the crime of felony murder. State v. Anderson, 10 Wn.2d 167, 180, 116 P.2d 346 (1941); State v. Ryan, 192 Wash. 160, 164-65, 73 P.2d 735 (1937); State v. Fillpot, 51 Wash. 223, 228, 98 P. 659 (1908). Our Supreme Court has recently revisited the requirements of an information. See, e.g., Hopper; Kjorsvik’, State v. Leach, 113 Wn.2d 679, 782 P.2d 552 (1989). Although these cases do not address the precise issue here, they in no way indicate any departure from this rule.
+Since the elements of the underlying felony need not be pleaded in the information, it follows that the information need not state the alternative means of committing the underlying felony on which the State will rely. This conclusion is supported by the Supreme Court's recent holding in State v. Noltie, 116 Wn.2d 831, 842, 809 P.2d 190 (1991) (citing State v. Elliott, 114 Wn.2d 6, 13, 785 P.2d 440, cert. denied, 498 U.S. 838 (1990)), that the prosecution need not elect between alternative means of committing an offense in an information. If this is true in the case of a primary crime, ipso facto, the prosecutor should not have to make such an election with regard to the underlying crime in a felony murder charge. The holding in Kreck v. Spalding, supra, that an information that fails to elect an alternative means is constitutionally deficient, is unpersuasive. Kreck was decided prior to and conflicts with Noltie. Hence, it does not control our analysis here.
+Accordingly, we hold that in charging Hartz with felony murder, the State was not required to include the elements of the underlying felony or state the specific means of committing the felony on which it was relying. In short, neither constitutes an "essential element" of the crime under the due process analysis.
+Ill
+Hartz next challenges the trial court's imposition of court costs and VPA. Citing State v. Hayes, 56 Wn. App. 451, 783 P.2d 1130 (1989) and State v. Earls, 51 Wn. App. 192, 752 P.2d 402 (1988), Hartz contends that the court erred in failing to specifically find that he had the present or future ability to pay.
+In light of several recent cases, however, Hayes and Earls can no longer be viewed as requiring findings of fact in every case imposing financial obligations. With respect to the VPA and court costs, we adhere to our analysis in State v. Curry, 62 Wn. App. 676, 814 P.2d 1252 (1991), discretionary review granted by order dated Feb. 6, 1992. There we held that imposition of the VPA is mandatory and does not require a finding regarding the defendant's ability to pay. Curry, 62 Wn. App. at 680; cf. State v. Allyn, 63 Wn. App. 592, 821 P.2d 528 (1991) (no finding required to pay $100 VPA); State v. Suttle, 61 Wn. App. 703, 812 P.2d 119 (1991) (no finding required to pay $100 VPA). Accordingly, the trial court here was not required to make a finding as to Hartz' ability to pay the VPA.
+We also held in Curry that the trial court is not required to enter formal written findings on the defendant's ability to pay court costs. Curry, 62 Wn. App. at 680-81; cf. State v. Eisenman, 62 Wn. App. 640, 810 P.2d 55, 817 P.2d 867 (1991) (no formal finding required to impose $170 in court costs). By finding Hartz indigent for purposes of recoupment of defense attorney fees and community placement fees, we conclude that the court adequately determined that Hartz had at least the future ability to pay the remaining obligations imposed.
+Affirmed.
+Scholfield and Agid, JJ., concur.
+Under RCW 9A.56.200, first degree robbery may be committed in one of three ways. The statute provides:
+"(1) A person is guilty of robbery in the first degree if in the commission of a robbery or of [sic] immediate flight therefrom, he:
+"(a) Is armed with a deadly weapon; or
+"(b) Displays what appears to be a firearm or other deadly weapon; or "(c) Inflicts bodily injury.
+"(2) Robbery in the first degree is a class A felony."
+Hartz also contends that the information failed to sufficiently define the term "attempt". However, this claim fails in light of our recent holding in State v. Rhode, 63 Wn. App. 630, 821 P.2d 492 (1991), review denied, 118 Wn.2d 1022 (1992) that an attempted murder information containing the term "attempt" sufficiently apprised the defendant of the charge against him.
+Reporter's Note: The Supreme Court affirmed the decision of the Court of Appeals at 118 Wn.2d 911 (1992).
+At trial, the State must prove the elements of the underlying felony beyond a reasonable doubt. State v. Quillin, 49 Wn. App. 155, 164, 741 P.2d 589 (1987), review denied, 109 Wn.2d 1027 (1988).
