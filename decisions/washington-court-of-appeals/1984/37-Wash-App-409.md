@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "5393-8-III"
 decided: "1984-04-03"
-citations: ["37 Wash. App. 409", "37 Wash. App. 1017"]
+citations: ["37 Wash. App. 409"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Carolyn J. Samuels, Appellant, v. The Department of Employment Securi
 source_url: "https://static.case.law/wash-app/37/cases/0409-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1784696
-cites_cases: ["34 Wn. App. 592", "37 Wn. App. 409", "518 P.2d 1237", "646 P.2d 113", "663 P.2d 849", "83 Wn.2d 446", "97 Wn.2d 317"]
+cites_cases: ["34 Wn. App. 592", "518 P.2d 1237", "646 P.2d 113", "663 P.2d 849", "83 Wn.2d 446", "97 Wn.2d 317"]
 ---
 
 # Samuels v. Department of Employment Security
