@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "7766-7-III"
+decided: "1987-02-19"
+citations: ["46 Wash. App. 828"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Thompson, A.C.J., and Munson, J., concur."]
+parties: ["Troy Riley, Appellant, v. Viking Insurance Company of Wisconsin, Respondent."]
+source_url: "https://static.case.law/wash-app/46/cases/0828-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1812350
+cites_cases: ["100 N.H. 177", "102 Wn.2d 477", "104 Wn.2d 1003", "106 Wn.2d 901", "110 N.H. 335", "121 N.H. 524", "123 A.2d 267", "213 Cal. App. 2d 29", "216 Pa. Super. 162", "221 So. 2d 5", "264 A.2d 197", "266 A.2d 860", "27 Ohio St. 2d 62", "271 N.E.2d 866", "28 Cal. Rptr. 328", "29 Wn. App. 32", "297 So. 2d 268", "333 So. 2d 497", "34 Wn. App. 151", "34 Wn. App. 708", "40 Wn. App. 395", "412 N.E.2d 84", "431 A.2d 137", "45 Wn. App. 54", "568 P.2d 1185", "58 Hawaii 284", "627 P.2d 152", "660 P.2d 307", "664 P.2d 1262", "687 P.2d 1139", "699 P.2d 230", "723 P.2d 554", "726 P.2d 439"]
+---
+
+# Riley v. Viking Insurance
+
+## Majority (Green, J.)
+
+Green, J.
+Troy Riley brought this action to declare coverage under a policy of insurance issued by Viking Insurance Company of Wisconsin. The trial court found no coverage and dismissed the action. Mr. Riley appeals. We reverse.
+The parties agree Mr. Riley is an insured under the Viking policy and stipulate to the following facts. On September 29, 1983, Mr. Riley was a passenger on a motorcycle which collided with a pickup truck driven by John Felch. The motorcycle was owned and operated by Vincent Norman at the time of the collision. Mr. Felch, the pickup driver who caused the accident, was uninsured. Seriously injured, Mr. Riley filed a claim with Viking pursuant to the underinsured motorist clause of the Viking policy issued to his mother, Beverly J. Riley, with whom he resided. Viking denied coverage, and Mr. Riley brought this action. Both parties moved for summary judgment. The court granted Viking's motion resulting in this appeal.
+Mr. Riley contends the policy language is ambiguous and that the average person reading the underinsured motorist clause would believe he was entitled to coverage for the damages he is legally entitled to recover from the owner and/or operator of an underinsured motor vehicle. We agree.
+Interpretation or construction of insurance policy language is a question of law. State Farm Gen. Ins. Co. v. Emerson, 102 Wn.2d 477, 480, 687 P.2d 1139 (1984); Ryan v. Harrison, 40 Wn. App. 395, 396-97, 699 P.2d 230, review denied, 104 Wn.2d 1003 (1985). In construing the language of an insurance policy, the court will examine the contract as a whole. E-Z Loader Boat Trailers, Inc. v. Travelers Indem. Co., 106 Wn.2d 901, 907, 726 P.2d 439 (1986); State Farm Gen. Ins. Co. v. Emerson, supra. The policy should be given a fair, reasonable and sensible construction consonant with the apparent object and intent of the parties, i.e., a construction such as would be given to the contract by an average person purchasing insurance. E-Z Loader, at 907; Thompson v. Grange Ins. Ass'n, 34 Wn. App. 151, 660 P.2d 307 (1983). Any ambiguity should be resolved so the doubtful provision in the contract will not unfairly devour the whole policy or relieve the insurer from liability fairly within the spirit of the policy. E-Z Loader, at 907; United Pac. Ins. Co. v. Van's Westlake Union, Inc., 34 Wn. App. 708, 664 P.2d 1262 (1983). An inclusionary clause in insurance contracts should be liberally construed to provide coverage whenever possible. Pierce v. Aetna Cas. & Sur. Co., 29 Wn. App. 32, 627 P.2d 152 (1981). Also, when an ambiguity in the policy exists, the meaning and construction most favorable to the insured must be applied, even though the insurer may have intended another meaning. E-Z Loader, at 907.
+A majority of jurisdictions have defined a "motor vehicle" to include a motorcycle. 1C J. Appleman, Insurance § 573, at 37-41 (1981); Midwest Mut. Ins. Co. v. Indiana Ins. Co., 412 N.E.2d 84 (Ind. Ct. App. 1980); Chateau v. Smith, 297 So. 2d 268 (La. Ct. App. 1974); Jirousek v. Prudential Ins. Co. of Am., 27 Ohio St. 2d 62, 271 N.E.2d 866 (1971); Bankes v. State Farm Mut. Auto. Ins. Co., 216 Pa. Super. 162, 264 A.2d 197 (1970). Other decisions have reached the same conclusion holding coverage exists under a policy's uninsured motorist provisions based on definitions contained in a statute, the insurance policy, or ambiguities in the policy. Voris v. Pacific Indem. Co., 213 Cal. App. 2d 29, 28 Cal. Rptr. 328, 330 (1963); Standard Marine Ins. Co. v. Allyn, 333 So. 2d 497 (Fla. Dist. Ct. App. 1976); Dorrell v. State Fire & Cas. Co., 221 So. 2d 5 (Fla. Dist. Ct. App. 1969); State Farm Mut. Auto. Ins. Co. v. Bailey, 58 Hawaii 284, 568 P.2d 1185 (1977); Boucher v. Employers Mut. Cas. Co., 121 N.H. 524, 431 A.2d 137 (1981); Fireman's Fund Ins. Co. v. LaCroix, 110 N.H. 335, 266 A.2d 860 (1970); Hartford Accident & Indem. Co. v. Come, 100 N.H. 177, 123 A.2d 267 (1956); see also 12 G. Couch, Insurance § 45:170, at 437-38 (2d ed. 1981), and cases cited therein.
+The policy here contains the following provisions:
+Definitions
+A car is a 4-wheel motor vehicle licensed for use on public roads. It includes any motor home that isn't used for business purposes and any utility trailer.
+A motor vehicle is a land motor vehicle designed for use on public roads. It includes cars and trailers. It also includes any other land motor vehicle while used on public roads.
+Underinsured Motorist Insurance
+We promise to pay the damages you are legally entitled to receive from the owner and/or operator of an underinsured motor vehicle because of bodily injury or property damage.
+We'll pay these damages for bodily injury you suffer in a car accident while occupying a car or, as a pedestrian.
+Those Not Protected
+Anyone occupying a motorcycle or motor vehicle owned by you or furnished for your regular use and not insured under the Liability Insurance of the policy, isn't protected by this insurance.
+A motorcycle or motor vehicle owned by you or furnished for your regular use and not insured for Underinsured Motorists coverage under this policy isn't an underinsured motor vehicle, unless you are hit by such motorcycle or motor vehicle.
+(Some italics ours; some italics omitted.)
+We hold the Viking policy provides coverage for Mr. Riley's injuries for the following reasons. First, RCW 48.22-.030 requires insurance companies to offer underinsured motorist coverage but permits a motorcycle exception. Eurick v. Pemco Ins. Co., 45 Wn. App. 54, 56, 723 P.2d 554 (1986). The Viking policy does not contain a blanket provision excluding coverage to all motorcycles. Instead, it only excludes coverage for anyone injured by a motorcycle owned by or furnished for the regular use of the insured and which is not insured under the policy, unless the insured is hit by such motorcycle. The policy is silent as to whether coverage is excluded if the insured is injured in an accident or while occupying a motorcycle which he does not own or have furnished for his/her regular use. Thus, in the absence of an exclusion, there was coverage for Mr. Riley's injuries sustained while occupying a motorcycle not owned or furnished for his regular use pursuant to RCW 48.22-.030(3).
+Second, pursuant to the definitional section of the policy, the term "motor vehicle" includes a "motorcycle". The first sentence of the underinsured motorist section provides coverage to the insured for damages received from an underinsured "motor vehicle". Thus, a motorcycle is covered. However, the second sentence of that section limits recovery to damages for bodily injury an insured suffers in a car accident or as a pedestrian. As a result, the coverage given in the first sentence is taken away by the second sentence. Reading the policy as a whole, a conflict or inconsistency exists within the "underinsured motorist insurance" provision. An ambiguity is created by these inconsistent sentences. Therefore, applying the meaning and construction most favorable to the insured, we hold the policy provided coverage to Mr. Riley for the damages he sustained in the motorcycle accident.
+Reversed.
+Thompson, A.C.J., and Munson, J., concur.
+Review denied by Supreme Court May 5, 1987.
