@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30724-3-II"
 decided: "2004-06-22"
-citations: ["123 Wash. App. 257", "122 Wash. App. 1007"]
+citations: ["123 Wash. App. 257"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Gloria Broschart, Respondent, v. The Employment Security Department, 
 source_url: "https://static.case.law/wash-app/123/cases/0257-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1117906
-cites_cases: ["102 Wn.2d 385", "116 Wn.2d 794", "117 Wn.2d 382", "122 Wn.2d 397", "123 Wn. App. 257", "125 Wn.2d 456", "131 Wn.2d 1005", "136 Wn.2d 1028", "153 Wn.2d 1024", "47 Wn. App. 296", "503 U.S. 986", "62 Wn. App. 227", "658 P.2d 1240", "687 P.2d 195", "734 P.2d 939", "808 P.2d 746", "813 P.2d 1262", "816 P.2d 18", "82 Wn. App. 753", "858 P.2d 494", "886 P.2d 556", "90 Wn. App. 617", "919 P.2d 106", "93 Wn. App. 21", "953 P.2d 827", "966 P.2d 399", "98 Wn.2d 846"]
+cites_cases: ["102 Wn.2d 385", "116 Wn.2d 794", "117 Wn.2d 382", "122 Wn.2d 397", "125 Wn.2d 456", "131 Wn.2d 1005", "136 Wn.2d 1028", "153 Wn.2d 1024", "47 Wn. App. 296", "503 U.S. 986", "62 Wn. App. 227", "658 P.2d 1240", "687 P.2d 195", "734 P.2d 939", "808 P.2d 746", "813 P.2d 1262", "816 P.2d 18", "82 Wn. App. 753", "858 P.2d 494", "886 P.2d 556", "90 Wn. App. 617", "919 P.2d 106", "93 Wn. App. 21", "953 P.2d 827", "966 P.2d 399", "98 Wn.2d 846"]
 ---
 
 # Broschart v. Employment Security Department
