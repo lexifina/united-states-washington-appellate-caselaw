@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46747-6-I"
 decided: "2001-08-13"
-citations: ["108 Wash. App. 500", "107 Wash. App. 1047"]
+citations: ["108 Wash. App. 500"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Alberta L. Koch, Appellant, v. Mutual of Enumclaw Insurance Company, 
 source_url: "https://static.case.law/wash-app/108/cases/0500-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 321045
-cites_cases: ["103 Wn.2d 768", "108 Wn. App. 500", "119 Wn.2d 129", "131 Wn.2d 133", "134 Wn.2d 1027", "138 Wn.2d 1022", "145 Wn.2d 1028", "275 Ill. App. 3d 439", "47 Wn. App. 114", "656 N.E.2d 97", "698 P.2d 77", "733 P.2d 1000", "830 P.2d 350", "87 Wn. App. 834", "88 Wn. App. 514", "930 P.2d 288", "942 P.2d 1072", "945 P.2d 221", "95 Wn. App. 405", "974 P.2d 872"]
+cites_cases: ["103 Wn.2d 768", "119 Wn.2d 129", "131 Wn.2d 133", "134 Wn.2d 1027", "138 Wn.2d 1022", "145 Wn.2d 1028", "275 Ill. App. 3d 439", "47 Wn. App. 114", "656 N.E.2d 97", "698 P.2d 77", "733 P.2d 1000", "830 P.2d 350", "87 Wn. App. 834", "88 Wn. App. 514", "930 P.2d 288", "942 P.2d 1072", "945 P.2d 221", "95 Wn. App. 405", "974 P.2d 872"]
 ---
 
 # Koch v. Mutual of Enumclaw Insurance
