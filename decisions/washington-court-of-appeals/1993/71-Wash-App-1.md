@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12216-6-III"
 decided: "1993-06-29"
-citations: ["71 Wash. App. 1", "70 Wash. App. 1034"]
+citations: ["71 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Rodney Contreras, Appellant."
 source_url: "https://static.case.law/wash-app/71/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787376
-cites_cases: ["101 Wn.2d 1018", "101 Wn.2d 490", "102 Wn.2d 300", "108 Wn.2d 1024", "123 Wn.2d 1001", "28 Wn. App. 128", "36 Wn. App. 699", "42 Wn. App. 420", "47 Wn. App. 729", "622 P.2d 402", "664 P.2d 466", "676 P.2d 1040", "681 P.2d 223", "684 P.2d 1290", "69 Wn. App. 465", "71 Wn. App. 1", "711 P.2d 382", "737 P.2d 288", "850 P.2d 541", "96 Wn.2d 1011", "99 Wn.2d 501"]
+cites_cases: ["101 Wn.2d 1018", "101 Wn.2d 490", "102 Wn.2d 300", "108 Wn.2d 1024", "123 Wn.2d 1001", "28 Wn. App. 128", "36 Wn. App. 699", "42 Wn. App. 420", "47 Wn. App. 729", "622 P.2d 402", "664 P.2d 466", "676 P.2d 1040", "681 P.2d 223", "684 P.2d 1290", "69 Wn. App. 465", "711 P.2d 382", "737 P.2d 288", "850 P.2d 541", "96 Wn.2d 1011", "99 Wn.2d 501"]
 ---
 
 # State v. Contreras
