@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "10864-6-I"
+decided: "1983-01-17"
+citations: ["33 Wash. App. 1068"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Steven A. Irons, Appellant."]
+source_url: "https://static.case.law/wash-app/33/cases/1068-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1819226
+---
+
+# State v. Irons
+
+## Majority
+
+Appeal from a judgment of the Superior Court for Snohomish County, No. 81-1-00325-1, Stuart C. French, J., entered September 4, 1981. Affirmed by unpublished opinion per Williams, J., concurred in by Swanson and Corbett, JJ.
