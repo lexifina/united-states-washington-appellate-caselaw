@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7898-1-III"
 decided: "1987-08-06"
-citations: ["49 Wash. App. 171", "48 Wash. App. 1088"]
+citations: ["49 Wash. App. 171"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Don Crites, Respondent, v. William J. Koch, et al, Appellants."]
 source_url: "https://static.case.law/wash-app/49/cases/0171-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1738925
-cites_cases: ["100 Wn.2d 853", "108 Wn.2d 1018", "11 N.W.2d 706", "11 Wn. App. 59", "123 P.2d 771", "13 Wn.2d 75", "147 Tex. 267", "175 Mont. 321", "175 P.2d 669", "2 Wn. App. 994", "21 Wn. App. 213", "214 S.W.2d 925", "221 Neb. 511", "234 Iowa 1", "246 Ga. 171", "255 P.2d 377", "26 Wn.2d 690", "269 S.E.2d 443", "285 Or. 63", "288 P.2d 252", "309 P.2d 754", "35 Wash. L. Rev. 53", "358 P.2d 958", "42 Wn.2d 366", "428 S.W.2d 470", "46 Wn. App. 409", "47 Wn.2d 490", "471 P.2d 704", "49 Wn. App. 171", "50 Wn.2d 105", "511 P.2d 1387", "521 P.2d 746", "57 Wn.2d 624", "584 P.2d 463", "613 P.2d 1128", "618 P.2d 67", "622 P.2d 812", "676 P.2d 431", "731 P.2d 526", "78 Wn.2d 995", "84 Wn.2d 1010", "9 Wn. App. 169", "93 Wn.2d 766", "94 Wn.2d 479", "95 Wn.2d 20"]
+cites_cases: ["100 Wn.2d 853", "108 Wn.2d 1018", "11 N.W.2d 706", "11 Wn. App. 59", "123 P.2d 771", "13 Wn.2d 75", "147 Tex. 267", "175 Mont. 321", "175 P.2d 669", "2 Wn. App. 994", "21 Wn. App. 213", "214 S.W.2d 925", "221 Neb. 511", "234 Iowa 1", "246 Ga. 171", "255 P.2d 377", "26 Wn.2d 690", "269 S.E.2d 443", "285 Or. 63", "288 P.2d 252", "309 P.2d 754", "35 Wash. L. Rev. 53", "358 P.2d 958", "42 Wn.2d 366", "428 S.W.2d 470", "46 Wn. App. 409", "47 Wn.2d 490", "471 P.2d 704", "50 Wn.2d 105", "511 P.2d 1387", "521 P.2d 746", "57 Wn.2d 624", "584 P.2d 463", "613 P.2d 1128", "618 P.2d 67", "622 P.2d 812", "676 P.2d 431", "731 P.2d 526", "78 Wn.2d 995", "84 Wn.2d 1010", "9 Wn. App. 169", "93 Wn.2d 766", "94 Wn.2d 479", "95 Wn.2d 20"]
 ---
 
 # Crites v. Koch
