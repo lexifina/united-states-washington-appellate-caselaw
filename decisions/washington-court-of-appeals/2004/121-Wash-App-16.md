@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29947-0-II; 29966-6-II"
 decided: "2004-03-02"
-citations: ["121 Wash. App. 16", "120 Wash. App. 1034"]
+citations: ["121 Wash. App. 16"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Michael David Collins, Appell
 source_url: "https://static.case.law/wash-app/121/cases/0016-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 863952
-cites_cases: ["107 Wn.2d 512", "121 Wn. App. 16", "133 Wn.2d 1018", "137 Wn.2d 736", "397 U.S. 436", "466 U.S. 668", "518 P.2d 721", "609 P.2d 961", "730 P.2d 1321", "83 Wn.2d 405", "86 Wn. App. 573", "93 Wn.2d 268", "937 P.2d 636", "975 P.2d 512"]
+cites_cases: ["107 Wn.2d 512", "133 Wn.2d 1018", "137 Wn.2d 736", "397 U.S. 436", "466 U.S. 668", "518 P.2d 721", "609 P.2d 961", "730 P.2d 1321", "83 Wn.2d 405", "86 Wn. App. 573", "93 Wn.2d 268", "937 P.2d 636", "975 P.2d 512"]
 ---
 
 # State v. Collins
