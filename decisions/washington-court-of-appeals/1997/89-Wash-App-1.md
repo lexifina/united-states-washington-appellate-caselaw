@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37826-1-I"
 decided: "1997-08-25"
-citations: ["89 Wash. App. 1", "87 Wash. App. 1035"]
+citations: ["89 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["D.J. Hopkins, Inc., Appellant, v. GTE Northwest, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/89/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 394975
-cites_cases: ["100 Wn.2d 1005", "110 Wn.2d 415", "117 Wn.2d 541", "128 Wn.2d 656", "14 Wn. App. 427", "34 Wn. App. 448", "426 U.S. 290", "542 P.2d 467", "58 Chi.-Kent L. Rev. 215", "622 P.2d 1185", "662 P.2d 38", "662 P.2d 398", "718 F.2d 1558", "755 P.2d 781", "817 P.2d 1364", "86 Wn.2d 1013", "89 Wn. App. 1", "911 P.2d 1301", "95 Wn.2d 297", "99 Wn.2d 232"]
+cites_cases: ["100 Wn.2d 1005", "110 Wn.2d 415", "117 Wn.2d 541", "128 Wn.2d 656", "14 Wn. App. 427", "34 Wn. App. 448", "426 U.S. 290", "542 P.2d 467", "58 Chi.-Kent L. Rev. 215", "622 P.2d 1185", "662 P.2d 38", "662 P.2d 398", "718 F.2d 1558", "755 P.2d 781", "817 P.2d 1364", "86 Wn.2d 1013", "911 P.2d 1301", "95 Wn.2d 297", "99 Wn.2d 232"]
 ---
 
 # D.J. Hopkins, Inc. v. GTE Northwest, Inc.
