@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13538-8-II"
 decided: "1992-05-06"
-citations: ["66 Wash. App. 415", "65 Wash. App. 1030"]
+citations: ["66 Wash. App. 415"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Patricia Allan, Appellant, v. The Department of Labor and Industries,
 source_url: "https://static.case.law/wash-app/66/cases/0415-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1703201
-cites_cases: ["101 Wn.2d 106", "102 Wn.2d 271", "20 C.F.R. § 404.408", "228 P.2d 478", "33 Wn. App. 777", "38 Wn.2d 142", "42 U.S.C. § 424", "464 U.S. 982", "563 P.2d 1257", "580 P.2d 246", "635 P.2d 426", "658 P.2d 27", "66 Wn. App. 415", "665 P.2d 1328", "676 P.2d 466", "684 P.2d 709", "88 Wn.2d 541", "90 Wn.2d 123", "96 Wn.2d 274", "99 Wn.2d 861"]
+cites_cases: ["101 Wn.2d 106", "102 Wn.2d 271", "20 C.F.R. § 404.408", "228 P.2d 478", "33 Wn. App. 777", "38 Wn.2d 142", "42 U.S.C. § 424", "464 U.S. 982", "563 P.2d 1257", "580 P.2d 246", "635 P.2d 426", "658 P.2d 27", "665 P.2d 1328", "676 P.2d 466", "684 P.2d 709", "88 Wn.2d 541", "90 Wn.2d 123", "96 Wn.2d 274", "99 Wn.2d 861"]
 ---
 
 # Allan v. Department of Labor & Industries
