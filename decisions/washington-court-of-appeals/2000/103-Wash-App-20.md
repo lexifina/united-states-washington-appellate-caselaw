@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41651-1-I"
 decided: "2000-09-05"
-citations: ["103 Wash. App. 20", "102 Wash. App. 1022"]
+citations: ["103 Wash. App. 20"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Holofa Crowder, Appellant."]
 source_url: "https://static.case.law/wash-app/103/cases/0020-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102620
-cites_cases: ["103 Wn. App. 20", "119 Wn.2d 192", "133 Wn.2d 389", "142 Wn.2d 1024", "443 U.S. 307", "482 P.2d 775", "616 P.2d 628", "76 Wn. App. 496", "79 Wn.2d 12", "829 P.2d 1068", "886 P.2d 243", "94 Wn.2d 216", "945 P.2d 1120"]
+cites_cases: ["119 Wn.2d 192", "133 Wn.2d 389", "142 Wn.2d 1024", "443 U.S. 307", "482 P.2d 775", "616 P.2d 628", "76 Wn. App. 496", "79 Wn.2d 12", "829 P.2d 1068", "886 P.2d 243", "94 Wn.2d 216", "945 P.2d 1120"]
 ---
 
 # State v. Crowder
