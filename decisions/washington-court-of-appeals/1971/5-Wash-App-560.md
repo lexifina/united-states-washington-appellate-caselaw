@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "554-2"
+decided: "1971-10-08"
+citations: ["5 Wash. App. 560"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Petrie, C. J., and Armstrong, J., concur."]
+parties: ["City Loan Company, Respondent, v. State Credit Association, Inc., Appellant."]
+source_url: "https://static.case.law/wash-app/5/cases/0560-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1867107
+cites_cases: ["100 P.2d 42", "109 Wash. 324", "12 Wn.2d 58", "120 P.2d 548", "123 P.2d 759", "145 Wash. 81", "163 P.2d 816", "177 Wash. 263", "181 Wash. 245", "187 P. 333", "2 Wn. App. 115", "24 Wn.2d 230", "259 P. 13", "3 Wn.2d 229", "31 P.2d 546", "42 P.2d 434", "450 S.W.2d 217", "467 P.2d 330"]
+---
+
+# City Loan Co. v. State Credit Ass'n
+
+## Majority (Pearson, J.)
+
+Pearson, J.
+Defendant, State Credit Association, appeals from a judgment of $737 for the conversion of an automobile. Pursuant to a loan from plaintiff, City Loan Company, to Eldon Howell, a chattel mortgage was secured on Howell’s 1961 Pontiac automobile. The mortgage was properly recorded, and plaintiff’s name was placed on the certificate of title as the “legal owner,” while Howell remained the “registered owner.” In contemplation of a move to Spokane, Howell agreed to extinguish his remaining indebtedness to plaintiff of $737.89 by allowing Doug Cook, a Seattle used car dealer, to sell the vehicle and pay to plaintiff the amount remaining on the loan from the proceeds. On September 12, 1967, in plaintiff’s Renton office, Howell signed the certificate of title, so that he would not have to do so later when the automobile was sold, and the vehicle was then turned over to Cook.
+On November 24, 1967, the automobile was attached while on Cook’s lot by a deputy of the King County Sheriff, at defendant’s request, ancillary to a lawsuit by defendant against Cook. It is conceded that the attachment was improper, due to plaintiff’s security interest. Upon learning of the wrongful attachment, plaintiff contacted defendant by telephone. Defendant offered to return the automobile, but plaintiff refused and demanded the $737 owed to it by Howell. Defendant did not pay, but instead returned the vehicle to Cook’s lot on February 1, 1968, which lot had been taken over by another dealer. The vehicle was later impounded by the Seattle Police Department, after it was found on the street, and sold for an undetermined amount.
+On March 27, 1968, plaintiff filed a complaint against defendant, alleging conversion of the automobile and a trial was held on October 27, 1969. Shortly after the trial, plaintiff moved to reopen the case and amend the complaint to show an assignment by Howell to plaintiff of the cause of action for conversion. The amendment was allowed and the trial court entered judgment for plaintiff in the amount of $737, representing the fair market value of the vehicle at the time of the conversion.
+It is clear that plaintiff had standing to sue defendant for conversion. Although legal title to property subject to a chattel mortgage usually remains in the mortgagor, Loudon v. Cooper, 3 Wn.2d 229, 100 P.2d 42 (1940), this is not the case with automobiles. When a security interest in the nature of a chattel mortgage is secured on an automobile, the mortgagee becomes legal owner, while the mortgagor continues to be the registered owner. RCW 46.04.270 provides: “ ‘Legal owner’ means a mortgagee or owner of the legal title to a vehicle.” The certificate of title for the automobile in issue indicated that plaintiff was “legal owner.” Consequently, he had sufficient interest to sue for conversion when the trial commenced, and we do not reach the issue of whether the post-trial amendment of the complaint was proper.
+The main issue in this case is whether there was a completed conversion when the sheriff attached the vehicle on November 24, 1967. In Western Bond & Mortgage Co. v. Chester, 145 Wash. 81, 259 P. 13 (1927) the Supreme Court stated, at page 86:
+[T]he “rule is well settled that the wrongful seizure of the property of one person under legal process directed against another amounts to a conversion, for which an action of trover may be maintained against the officer who makes the seizure, or against the person who directed the officer to act.” 26 R. C. L. p. 1120.[]
+That the seizure was wrongful cannot be doubted. Cook was only in possession of the vehicle. Legal title was held by plaintiff. By examining the certificate of title or by requesting ownership information from the Department of Motor Vehicles, defendant would have noted the automobile was not owned by Cook and could not be attached ancillary to a lawsuit against him. Although attachment was wrongful, defendant contends that the conversion was not complete until plaintiff demanded the vehicle be returned and was refused. Plaintiff made no such demand, but one is not necessary for the type of conversion in this case. A demand and refusal is merely evidential and need not be shown to make out a case of conversion where some other independent act of conversion is in evidence. Glass v. Allied Van Lines, Inc., 450 S.W.2d 217 (Mo. App. 1970). As the taking was wrongful and defendant never had a right to possess the vehicle, the conversion was complete upon the attachment, and no demand was necessary as a condition precedent to the right to maintain an action for conversion. Richardson v. Great Western Motors, Inc., 109 Wash. 324, 187 P. 333 (1920).
+It is well established that when a conversion has occurred, the owner of the property is entitled to damages measured by its fair market value at the time of conversion. Dennis v. Southworth, 2 Wn. App. 115, 467 P.2d 330 (1970); Anstine v. McWilliams, 24 Wn.2d 230, 163 P.2d 816 (1945); Junkin v. Anderson, 12 Wn.2d 58, 120 P.2d 548, 123 P.2d 759 (1941). If the converted property had been returned to and accepted by the City Loan Company, it would be entitled only to whatever damages accrued during the period of conversion. See Dunn v. Guaranty Inv. Co., 181 Wash. 245, 42 P.2d 434 (1935). However, where there has been a conversion, the owner is under no obligation to receive back the property and plaintiff could refuse to do so here. Contractors Mach. & Storage Co. v. Stewart, 177 Wash. 263, 31 P.2d 546 (1934).
+The judgment of $737, representing the fair market value of the vehicle at the time of conversion, is affirmed.
+Petrie, C. J., and Armstrong, J., concur.
+Howell had paid all installments due on the loan until the agreement was made.
+The complaint was amended to include the additional defendants Noble. The judgment dismissed with prejudice the cause of action against the additional defendants, and no appeal is taken from that dismissal.
+R.C.L. refers to Ruling Case Law, published in 1920.
+Defendant’s counsel admitted at trial that the attachment was wrongful and foolish, but maintained there had been no damage.
