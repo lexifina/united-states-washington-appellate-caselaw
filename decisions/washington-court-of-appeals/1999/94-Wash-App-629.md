@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42109-3-I"
 decided: "1999-03-01"
-citations: ["94 Wash. App. 629", "94 Wash. App. 1023"]
+citations: ["94 Wash. App. 629"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Grant Allen Boursaw, Appellan
 source_url: "https://static.case.law/wash-app/94/cases/0629-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83474
-cites_cases: ["106 Wn.2d 144", "119 Wn.2d 675", "123 Wn.2d 641", "128 Wn.2d 431", "134 Wn.2d 1024", "395 U.S. 752", "433 U.S. 1", "453 U.S. 454", "52 Wn. App. 274", "720 P.2d 436", "758 P.2d 1017", "80 Wn. App. 184", "834 P.2d 782", "835 P.2d 1025", "870 P.2d 313", "88 Wn. App. 273", "907 P.2d 328", "909 P.2d 293", "94 Wn. App. 629", "944 P.2d 1081", "958 P.2d 315"]
+cites_cases: ["106 Wn.2d 144", "119 Wn.2d 675", "123 Wn.2d 641", "128 Wn.2d 431", "134 Wn.2d 1024", "395 U.S. 752", "433 U.S. 1", "453 U.S. 454", "52 Wn. App. 274", "720 P.2d 436", "758 P.2d 1017", "80 Wn. App. 184", "834 P.2d 782", "835 P.2d 1025", "870 P.2d 313", "88 Wn. App. 273", "907 P.2d 328", "909 P.2d 293", "944 P.2d 1081", "958 P.2d 315"]
 ---
 
 # State v. Boursaw
