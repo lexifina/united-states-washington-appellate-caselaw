@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29098-3-I"
 decided: "1993-05-17"
-citations: ["70 Wash. App. 646", "70 Wash. App. 1002"]
+citations: ["70 Wash. App. 646"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Candice and David Bralley. Beatrice 
 source_url: "https://static.case.law/wash-app/70/cases/0646-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1745136
-cites_cases: ["103 Wn.2d 517", "104 Wn.2d 44", "107 Wn.2d 403", "110 Wn.2d 793", "114 Wn.2d 1018", "121 Wash. 413", "136 P. 132", "146 P. 613", "198 Wash. 317", "209 P. 847", "236 N.W. 20", "40 S.W. 574", "401 P.2d 991", "56 Wn. App. 169", "66 Wn.2d 255", "694 P.2d 1051", "70 Wn. App. 646", "700 P.2d 1152", "728 P.2d 1049", "756 P.2d 1303", "76 Wash. 253", "782 P.2d 1100", "84 Wash. 269", "88 P.2d 427"]
+cites_cases: ["103 Wn.2d 517", "104 Wn.2d 44", "107 Wn.2d 403", "110 Wn.2d 793", "114 Wn.2d 1018", "121 Wash. 413", "136 P. 132", "146 P. 613", "198 Wash. 317", "209 P. 847", "236 N.W. 20", "40 S.W. 574", "401 P.2d 991", "56 Wn. App. 169", "66 Wn.2d 255", "694 P.2d 1051", "700 P.2d 1152", "728 P.2d 1049", "756 P.2d 1303", "76 Wash. 253", "782 P.2d 1100", "84 Wash. 269", "88 P.2d 427"]
 ---
 
 # Gibson v. County of Snohomish
