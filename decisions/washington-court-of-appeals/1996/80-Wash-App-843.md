@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17889-3-II"
 decided: "1996-02-02"
-citations: ["80 Wash. App. 843", "80 Wash. App. 1039"]
+citations: ["80 Wash. App. 843"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Emma Sneed, Appellant, v. Lillian Barna, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/80/cases/0843-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 420991
-cites_cases: ["107 Wn.2d 1010", "113 Wn.2d 254", "121 Wn.2d 52", "129 Wn.2d 1023", "26 Wn. App. 430", "44 Wn. App. 636", "502 U.S. 815", "54 Wn. App. 274", "573 P.2d 1308", "613 P.2d 187", "686 F.2d 806", "69 Wn. App. 1", "722 P.2d 1369", "774 P.2d 22", "778 P.2d 1031", "80 Wn. App. 843", "828 F. Supp. 801", "847 P.2d 440", "847 P.2d 501", "89 Wn.2d 558", "915 F.2d 424", "94 Wn.2d 1014"]
+cites_cases: ["107 Wn.2d 1010", "113 Wn.2d 254", "121 Wn.2d 52", "129 Wn.2d 1023", "26 Wn. App. 430", "44 Wn. App. 636", "502 U.S. 815", "54 Wn. App. 274", "573 P.2d 1308", "613 P.2d 187", "686 F.2d 806", "69 Wn. App. 1", "722 P.2d 1369", "774 P.2d 22", "778 P.2d 1031", "828 F. Supp. 801", "847 P.2d 440", "847 P.2d 501", "89 Wn.2d 558", "915 F.2d 424", "94 Wn.2d 1014"]
 ---
 
 # Sneed v. Barna
