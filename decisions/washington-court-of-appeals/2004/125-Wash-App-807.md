@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53916-7-I"
 decided: "2004-11-15"
-citations: ["125 Wash. App. 807", "124 Wash. App. 1014"]
+citations: ["125 Wash. App. 807"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Glendi Garcia, Respondent, v. CRICO of James Street Crossing Limited 
 source_url: "https://static.case.law/wash-app/125/cases/0807-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270290
-cites_cases: ["109 Wn. App. 448", "111 Wn. App. 764", "120 Wn. App. 93", "125 Wn. App. 807", "36 P.3d 553", "47 P.3d 145", "84 P.3d 278", "97 Wn. App. 977", "988 P.2d 1009"]
+cites_cases: ["109 Wn. App. 448", "111 Wn. App. 764", "120 Wn. App. 93", "36 P.3d 553", "47 P.3d 145", "84 P.3d 278", "97 Wn. App. 977", "988 P.2d 1009"]
 ---
 
 # Garcia v. CRICO of James Street Crossing Ltd. Partnership
