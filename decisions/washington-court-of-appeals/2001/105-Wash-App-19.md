@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45622-9-I"
 decided: "2001-02-05"
-citations: ["105 Wash. App. 19", "104 Wash. App. 1038"]
+citations: ["105 Wash. App. 19"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Herbert Wayne Richardson, App
 source_url: "https://static.case.law/wash-app/105/cases/0019-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358702
-cites_cases: ["105 Wn. App. 19", "65 Wn. App. 351", "65 Wn. App. 456", "79 Wn. App. 178", "828 P.2d 1158", "828 P.2d 618", "840 P.2d 902", "900 P.2d 1132"]
+cites_cases: ["65 Wn. App. 351", "65 Wn. App. 456", "79 Wn. App. 178", "828 P.2d 1158", "828 P.2d 618", "840 P.2d 902", "900 P.2d 1132"]
 ---
 
 # State v. Richardson
