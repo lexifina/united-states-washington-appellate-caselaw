@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13597-0-I"
 decided: "1984-09-24"
-citations: ["38 Wash. App. 793", "38 Wash. App. 1050"]
+citations: ["38 Wash. App. 793"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Sean R. Johnston, Appellant."
 source_url: "https://static.case.law/wash-app/38/cases/0793-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791705
-cites_cases: ["10 A.L.R.3d 974", "100 Wn.2d 1008", "100 Wn.2d 889", "102 Wn.2d 188", "28 Wn. App. 721", "31 Wn. App. 304", "34 Wn. App. 662", "362 U.S. 257", "371 U.S. 471", "38 Wn. App. 793", "384 U.S. 436", "392 U.S. 1", "422 U.S. 590", "439 U.S. 128", "442 U.S. 200", "457 U.S. 687", "460 U.S. 491", "622 P.2d 1199", "626 P.2d 56", "628 P.2d 806", "641 P.2d 1185", "663 P.2d 1368", "664 P.2d 508", "676 P.2d 456", "685 P.2d 564", "78 A.L.R.2d 233", "80 S. Ct. 725", "95 Wn.2d 1027", "95 Wn.2d 170", "95 Wn.2d 655", "99 Wn.2d 663"]
+cites_cases: ["10 A.L.R.3d 974", "100 Wn.2d 1008", "100 Wn.2d 889", "102 Wn.2d 188", "28 Wn. App. 721", "31 Wn. App. 304", "34 Wn. App. 662", "362 U.S. 257", "371 U.S. 471", "384 U.S. 436", "392 U.S. 1", "422 U.S. 590", "439 U.S. 128", "442 U.S. 200", "457 U.S. 687", "460 U.S. 491", "622 P.2d 1199", "626 P.2d 56", "628 P.2d 806", "641 P.2d 1185", "663 P.2d 1368", "664 P.2d 508", "676 P.2d 456", "685 P.2d 564", "78 A.L.R.2d 233", "80 S. Ct. 725", "95 Wn.2d 1027", "95 Wn.2d 170", "95 Wn.2d 655", "99 Wn.2d 663"]
 ---
 
 # State v. Johnston
