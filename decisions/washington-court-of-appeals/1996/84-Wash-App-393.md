@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14197-7-III"
 decided: "1996-11-26"
-citations: ["84 Wash. App. 393", "84 Wash. App. 1018"]
+citations: ["84 Wash. App. 393"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John R. Molsness, Appellant, v. The City of Walla Walla, Respondent."
 source_url: "https://static.case.law/wash-app/84/cases/0393-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121602
-cites_cases: ["107 Wn.2d 1010", "110 Wn.2d 355", "115 Wn.2d 506", "123 Wn.2d 160", "129 Wn.2d 1023", "40 Wn. App. 630", "44 Wn. App. 636", "45 Wn. App. 192", "518 F.2d 584", "54 Wn. App. 688", "56 Wn. App. 499", "700 P.2d 338", "722 P.2d 1369", "724 P.2d 425", "753 P.2d 517", "775 P.2d 474", "784 P.2d 554", "799 P.2d 250", "80 Wn. App. 843", "84 Wn. App. 393", "866 P.2d 31", "912 P.2d 1035"]
+cites_cases: ["107 Wn.2d 1010", "110 Wn.2d 355", "115 Wn.2d 506", "123 Wn.2d 160", "129 Wn.2d 1023", "40 Wn. App. 630", "44 Wn. App. 636", "45 Wn. App. 192", "518 F.2d 584", "54 Wn. App. 688", "56 Wn. App. 499", "700 P.2d 338", "722 P.2d 1369", "724 P.2d 425", "753 P.2d 517", "775 P.2d 474", "784 P.2d 554", "799 P.2d 250", "80 Wn. App. 843", "866 P.2d 31", "912 P.2d 1035"]
 ---
 
 # Molsness v. City of Walla Walla
