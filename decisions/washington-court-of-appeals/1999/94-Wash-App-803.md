@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41305-8-I"
 decided: "1999-01-19"
-citations: ["94 Wash. App. 803", "93 Wash. App. 1059"]
+citations: ["94 Wash. App. 803"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Matt Tornetta, Appellant, v. Allstate Insurance Company, Respondent."
 source_url: "https://static.case.law/wash-app/94/cases/0803-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 82891
-cites_cases: ["103 Wn.2d 800", "110 Wn.2d 643", "117 Wn.2d 37", "118 Wn.2d 801", "133 Wn.2d 250", "135 Wn.2d 799", "136 Wn.2d 214", "136 Wn.2d 269", "138 Wn.2d 1012", "525 P.2d 238", "569 P.2d 1152", "57 Wn. App. 424", "59 Wn. App. 737", "656 P.2d 1030", "699 P.2d 217", "757 P.2d 499", "78 Wn. App. 958", "788 P.2d 1096", "801 P.2d 259", "811 P.2d 673", "828 P.2d 549", "84 Wn.2d 203", "89 Wn.2d 104", "904 P.2d 767", "94 Wn. App. 803", "944 P.2d 1005", "959 P.2d 657", "961 P.2d 358", "961 P.2d 933", "98 Wn.2d 434"]
+cites_cases: ["103 Wn.2d 800", "110 Wn.2d 643", "117 Wn.2d 37", "118 Wn.2d 801", "133 Wn.2d 250", "135 Wn.2d 799", "136 Wn.2d 214", "136 Wn.2d 269", "138 Wn.2d 1012", "525 P.2d 238", "569 P.2d 1152", "57 Wn. App. 424", "59 Wn. App. 737", "656 P.2d 1030", "699 P.2d 217", "757 P.2d 499", "78 Wn. App. 958", "788 P.2d 1096", "801 P.2d 259", "811 P.2d 673", "828 P.2d 549", "84 Wn.2d 203", "89 Wn.2d 104", "904 P.2d 767", "944 P.2d 1005", "959 P.2d 657", "961 P.2d 358", "961 P.2d 933", "98 Wn.2d 434"]
 ---
 
 # Tornetta v. Allstate Insurance
