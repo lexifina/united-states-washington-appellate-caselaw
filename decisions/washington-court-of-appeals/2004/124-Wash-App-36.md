@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53363-1-I"
 decided: "2004-08-02"
-citations: ["124 Wash. App. 36", "122 Wash. App. 1049"]
+citations: ["124 Wash. App. 36"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of M.J.L. Jena Lamas, Appellant, v. T
 source_url: "https://static.case.law/wash-app/124/cases/0036-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684280
-cites_cases: ["119 Wn.2d 600", "12 Wn.2d 329", "121 P.2d 394", "121 Wn. App. 460", "124 Wn. App. 36", "137 Wn.2d 1", "137 Wn.2d 296", "142 Wn.2d 801", "16 P.3d 583", "243 P.2d 632", "249 Neb. 133", "391 P.2d 191", "40 Wn.2d 342", "442 U.S. 584", "530 U.S. 57", "542 N.W. 407", "64 Wn.2d 273", "660 P.2d 738", "836 P.2d 200", "89 P.3d 271", "969 P.2d 21", "971 P.2d 32", "99 Wn.2d 114", "Neb. Rev. Stat. § 43-247"]
+cites_cases: ["119 Wn.2d 600", "12 Wn.2d 329", "121 P.2d 394", "121 Wn. App. 460", "137 Wn.2d 1", "137 Wn.2d 296", "142 Wn.2d 801", "16 P.3d 583", "243 P.2d 632", "249 Neb. 133", "391 P.2d 191", "40 Wn.2d 342", "442 U.S. 584", "530 U.S. 57", "542 N.W. 407", "64 Wn.2d 273", "660 P.2d 738", "836 P.2d 200", "89 P.3d 271", "969 P.2d 21", "971 P.2d 32", "99 Wn.2d 114", "Neb. Rev. Stat. § 43-247"]
 ---
 
 # Lamas v. Department of Social & Health Services
