@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51244-7-I"
 decided: "2003-09-08"
-citations: ["118 Wash. App. 635", "118 Wash. App. 1032"]
+citations: ["118 Wash. App. 635"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert C. Messer, Appellant, v. The Department of Labor and Industrie
 source_url: "https://static.case.law/wash-app/118/cases/0635-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352616
-cites_cases: ["104 Wn.2d 323", "108 Wn.2d 143", "109 Wn.2d 467", "110 Wn.2d 917", "118 Wn. App. 635", "129 Wn.2d 289", "151 Wn.2d 1021", "705 P.2d 249", "736 P.2d 265", "745 P.2d 1295", "756 P.2d 1311", "79 Wn. App. 537", "903 P.2d 518", "916 P.2d 399"]
+cites_cases: ["104 Wn.2d 323", "108 Wn.2d 143", "109 Wn.2d 467", "110 Wn.2d 917", "129 Wn.2d 289", "151 Wn.2d 1021", "705 P.2d 249", "736 P.2d 265", "745 P.2d 1295", "756 P.2d 1311", "79 Wn. App. 537", "903 P.2d 518", "916 P.2d 399"]
 ---
 
 # Messer v. Department of Labor & Industries
