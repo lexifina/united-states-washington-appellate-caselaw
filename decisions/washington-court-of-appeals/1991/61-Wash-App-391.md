@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10594-6-III"
 decided: "1991-05-21"
-citations: ["61 Wash. App. 391", "61 Wash. App. 1019"]
+citations: ["61 Wash. App. 391"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Rey Diaz Rodriquez, Appellant
 source_url: "https://static.case.law/wash-app/61/cases/0391-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1729439
-cites_cases: ["26 Wn. App. 1", "424 P.2d 632", "449 U.S. 1087", "61 Wn. App. 391", "612 P.2d 404", "621 F.2d 350", "641 P.2d 708", "70 Wn.2d 555", "94 Wn.2d 1013", "97 Wn.2d 159"]
+cites_cases: ["26 Wn. App. 1", "424 P.2d 632", "449 U.S. 1087", "612 P.2d 404", "621 F.2d 350", "641 P.2d 708", "70 Wn.2d 555", "94 Wn.2d 1013", "97 Wn.2d 159"]
 ---
 
 # State v. Rodriquez
