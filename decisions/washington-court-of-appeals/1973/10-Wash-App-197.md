@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "972-2"
+decided: "1973-12-17"
+citations: ["10 Wash. App. 197"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Tacoma Goodwill Industries Rehabilitation Center, Inc., Respondent, v. The County of Pierce et al., Appellants."]
+source_url: "https://static.case.law/wash-app/10/cases/0197-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1857615
+cites_cases: ["104 P.2d 752", "418 P.2d 466", "469 P.2d 893", "488 P.2d 776", "5 Wn. App. 515", "5 Wn.2d 63", "69 Wn.2d 352", "78 Wn.2d 81"]
+---
+
+# Tacoma Goodwill Industries Rehabilitation Center, Inc. v. County of Pierce
+
+## Majority (Pearson, C.J.)
+
+Pearson, C.J.
+Pierce County appeals from a judgment in the amount of $56,616.52 plus interest awarded to the plaintiff, Tacoma Goodwill Industries, Inc. This sum represents real and personal property taxes for 1968 and 1969, paid under protest by the plaintiff in 1970. This appeal presents a single issue: Is property which has continuously been listed and valued on the assessor’s roll books but improperly granted exemption in prior years “omitted property” within the meaning of RCW 84.40.080? We answer in the negative.
+The plaintiff is a nonprofit corporation doing business in Tacoma as a “sheltered workshop” for the employment, training, and rehabilitation of handicapped persons. In assessment years 1967 and 1968, and for many years prior thereto, plaintiff’s workshop properties were listed, valued, and stated to be exempt on the roll books of the Pierce County Assessor.
+In November of 1968 the assessor notified plaintiff that its nonprofit “sheltered workshop” status did not qualify it for an exemption under the then existing statutes, and that accordingly its renewed claim for exemption was being denied. Plaintiff’s property was thus listed, valued, and shown to be taxable in the assessor’s roll book for assessment year 1969. Based upon that assessment, plaintiff paid property taxes in 1970.
+In May of 1970 the Pierce County Assessor notified the plaintiff that its 1967 and 1968 assessed valuations of real and personal property were being entered upon the supplemental tax rolls and forwarded to the treasurer for the collection of tax due in 1968 and 1969. Plaintiff paid these taxes under protest in June of 1970. Pierce County appeals from the judgment of the trial court requiring refund of these taxes.
+Plaintiff concedes that its claim for exemption was properly denied in 1969, and therefore does not contest the imposition of the 1970 tax based upon the 1969 assessment. Plaintiff further concedes that its exemption was improperly granted in 1967 and 1968. The county seeks to sustain the imposition in 1970 of the 1968 and 1969 taxes on the authority of RCW 84.40.080, the omitted property statute.
+RCW 84.40.080 provides, in part:
+The assessor, upon his own motion, or upon the application of any taxpayer, shall enter in the detail and assessment list of the current year any property shown to have been omitted from the assessment list of any preceding year, at the valuation of that year, or if not then valued, at such valuation as the assessor shall determine from the preceding year, and such valuation shall be stated in a separate line from the valuation of the current year. Where improvements have not been valued and assessed as a part of the real estate upon which the same may be located, as evidenced by the assessment rolls, they may be separately valued and assessed as omitted property under this section . . .
+(Italics ours.)
+It has been consistently held that this statute does not authorize the assessor to recover omitted value, where property has been listed but erroneously undervalued on the tax rolls of prior years. See Star Iron & Steel Co. v. Pierce County, 5 Wn. App. 515, 488 P.2d 776 (1971); Tradewell Stores, Inc. v. Snohomish County, 69 Wn.2d 352, 418 P.2d 466 (1966); E.K. Wood Lumber Co. v. Whatcom County, 5 Wn.2d 63, 104 P.2d 752 (1940).
+We expressed the policy behind this rule in Star Iron & Steel Co. v. Pierce County, supra at 520, as follows:
+As the court noted in Tradewell, the assessor is at liberty to demand greater detail in the listing of property. He may challenge the value submitted and may audit the accounts of the taxpayer, as was ultimately done here. If this result places a burden upon the assessor, he thus has means to lessen this burden. Because he did not do so, we think that the desirable finality of assessments and the established law preclude the assessor’s reassessing omitted value, once the taxing process has come to a close for the year in question. To hold otherwise would be to introduce but another uncertainty into an already uncertain area.
+(Italics ours.)
+In our opinion, this rationale applies equally to the pres1-ent case. Once specific properties are brought to the attention of the assessor, it is desirable that his determinations of valuation or exemption should be final when the assessment deadline passes.
+This conclusion is reinforced by the case of P.B. Inv. Co. v. King County, 78 Wn.2d 81, 469 P.2d 893 (1970). The principal issue in that case was whether, with respect to real property previously treated as exempt, the county assessor had authority to deny in May of the assessment year the exempt status of the property for purposes of the following year’s levy. While upholding the right of the assessor to make valuation and exemption determinations for a given assessment year at any time prior to the May 31st assessment deadline, the Supreme Court specifically rejected the contention that the omitted property statute applied to exempt property continuously listed on the assessor’s rolls:
+King County argues that the omitted property section, RCW 84.40.080, provides authority for placing the property back on the tax roll. However, since the property in controversy has remained continuously on the assessment 'list, the omitted property section does not apply here.
+(Italics ours.) P.B. Inv. Co. v. King County, supra at 84.
+The court noted in this connection that RCW 84.40.175 requires the assessor to value and list exempt property in the same manner and subject to the same rule as all other property.
+Pierce County’s entire argument in contravention of these authorities is premised upon what we consider an erroneous construction of the term “assessment list” as used in RCW 84.40.080. Nowhere in the statutes is “assessment list” defined. In Pierce. County, the assessor’s principal record, which lists, values, and reflects the status of all property, both taxable and exempt, is called the “assessor’s roll book.” The county contends that this is not the “assessment list,” but rather that the annual certificate to the board of equalization, required by RCW 84.40.320, which reflects the total value of all taxable property in the county (and which seldom exceeds a page in length) is the “assessment list” of RCW 84.40.080. Essentially, the county argues that any property determined to be not taxable is by definition “omitted property.” This position, in light of RCW 84.40.175 and P.B. Inv. Co. v. King County, supra, is untenable and spurious. We are of the view that the assessor’s principal record — be it called “assessor’s roll book,” “detail and assessment list,” or by some other appellation — is the “assessment list” of which RCW 84.40.080 speaks. Plaintiff’s property, having been included in this list at all relevant times, is thus not “omitted property” within the contemplation of RCW 84.40.080, and the assessor is foreclosed from correcting the error made.
+Judgment affirmed.
+Petrie and Armstrong, JJ., concur.
+In 1970 the legislature enacted RCW 84.36.350 and 84.36.353 exempting “sheltered workshops” from taxation.
+Likewise, we do not believe the assessor may accomplish a reimposition of the tax by relying upon RCW 84.56.430. The purpose of that statute is clearly to furnish a means for collecting a tax which was not collected in the proper year because of an “erroneous proceeding.” In our view, the error in granting an exemption to nonexempt but properly listed property is not an “erroneous proceeding” but rather is an erroneous interpretation of the tax laws.
+RCW 84.40.175 provides:
+“At the time of making the assessment of real property, the assessor shall enter each description of property exempt under the provisions of RCW 84.36.005 through 84.36.060, and value and list the same in the manner and subject to the same rule as he is required to assess all other property, designating in each case to whom such property belongs, and for what purpose used, to entitle it to exemption, and he shall require from every person claiming such exemption proof of the right to such exemption.”
