@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50417-7-I"
 decided: "2003-07-28"
-citations: ["118 Wash. App. 480", "117 Wash. App. 1088"]
+citations: ["118 Wash. App. 480"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James Andrew Smith, Appellant
 source_url: "https://static.case.law/wash-app/118/cases/0480-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352437
-cites_cases: ["118 Wn. App. 480", "143 Wn.2d 267", "151 Wn.2d 1014", "19 P.3d 1030", "21 Wn. App. 855", "322 P.2d 842", "35 Wn. App. 96", "51 Wn.2d 871", "534 U.S. 1130", "57 Wn. App. 915", "587 P.2d 179", "665 P.2d 1375", "73 Wn. App. 738", "790 P.2d 1263", "871 P.2d 1075", "92 Wn.2d 1006"]
+cites_cases: ["143 Wn.2d 267", "151 Wn.2d 1014", "19 P.3d 1030", "21 Wn. App. 855", "322 P.2d 842", "35 Wn. App. 96", "51 Wn.2d 871", "534 U.S. 1130", "57 Wn. App. 915", "587 P.2d 179", "665 P.2d 1375", "73 Wn. App. 738", "790 P.2d 1263", "871 P.2d 1075", "92 Wn.2d 1006"]
 ---
 
 # State v. Smith
