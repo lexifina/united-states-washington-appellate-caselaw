@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36909-1-I"
 decided: "1996-04-22"
-citations: ["82 Wash. App. 275", "81 Wash. App. 1024"]
+citations: ["82 Wash. App. 275"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. L.A., Appellant."]
 source_url: "https://static.case.law/wash-app/82/cases/0275-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043550
-cites_cases: ["114 Wn.2d 1016", "33 Wn. App. 788", "430 P.2d 974", "56 Wn. App. 490", "658 P.2d 36", "71 Wn.2d 773", "784 P.2d 533", "82 Wn. App. 275"]
+cites_cases: ["114 Wn.2d 1016", "33 Wn. App. 788", "430 P.2d 974", "56 Wn. App. 490", "658 P.2d 36", "71 Wn.2d 773", "784 P.2d 533"]
 ---
 
 # State v. L.A.
