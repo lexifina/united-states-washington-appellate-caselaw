@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16373-6-I"
 decided: "1987-03-16"
-citations: ["48 Wash. App. 45", "47 Wash. App. 1013"]
+citations: ["48 Wash. App. 45"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Albert A. Bajocich, Appellant, v. The Department of Employment Securi
 source_url: "https://static.case.law/wash-app/48/cases/0045-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1838457
-cites_cases: ["106 Wn.2d 754", "157 P.2d 298", "22 Wn.2d 647", "48 Wn. App. 45", "725 P.2d 619"]
+cites_cases: ["106 Wn.2d 754", "157 P.2d 298", "22 Wn.2d 647", "725 P.2d 619"]
 ---
 
 # Bajocich v. Department of Employment Security
