@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46694-1-I"
 decided: "2001-04-30"
-citations: ["107 Wash. App. 524", "106 Wash. App. 1006"]
+citations: ["107 Wash. App. 524"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Barry Syrett, et al., Appellants, v. Reisner McEwin & Associates, Res
 source_url: "https://static.case.law/wash-app/107/cases/0524-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543054
-cites_cases: ["103 Wn. App. 945", "105 Wn.2d 1016", "107 P. 1024", "107 Wn. App. 524", "107 Wn.2d 1029", "112 Wn.2d 193", "15 P.3d 172", "180 U.S. 49", "311 P.2d 420", "42 Wn. App. 692", "45 Wn. App. 663", "50 Wn.2d 299", "58 Wash. 29", "6 A.L.R.3d 1197", "612 N.W.2d 785", "708 F.2d 1483", "713 P.2d 742", "726 P.2d 1021", "77 Wn. App. 137", "770 P.2d 1027", "890 P.2d 1071", "90 Wn. App. 880", "960 P.2d 432"]
+cites_cases: ["103 Wn. App. 945", "105 Wn.2d 1016", "107 P. 1024", "107 Wn.2d 1029", "112 Wn.2d 193", "15 P.3d 172", "180 U.S. 49", "311 P.2d 420", "42 Wn. App. 692", "45 Wn. App. 663", "50 Wn.2d 299", "58 Wash. 29", "6 A.L.R.3d 1197", "612 N.W.2d 785", "708 F.2d 1483", "713 P.2d 742", "726 P.2d 1021", "77 Wn. App. 137", "770 P.2d 1027", "890 P.2d 1071", "90 Wn. App. 880", "960 P.2d 432"]
 ---
 
 # Syrett v. Reisner McEwin & Associates
