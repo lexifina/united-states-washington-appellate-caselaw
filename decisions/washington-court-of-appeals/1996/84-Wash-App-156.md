@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19184-9-II"
 decided: "1996-10-25"
-citations: ["84 Wash. App. 156", "83 Wash. App. 1052"]
+citations: ["84 Wash. App. 156"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Magdalena E. Holmes, as Guardian, Respondent, v. Larry Dale Wallace, 
 source_url: "https://static.case.law/wash-app/84/cases/0156-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121544
-cites_cases: ["106 Wn.2d 1007", "113 Wn.2d 479", "114 Wn.2d 907", "115 S. Ct. 905", "118 Wn.2d 1029", "119 Wn.2d 251", "124 Wn.2d 1028", "124 Wn.2d 158", "124 Wn.2d 343", "124 Wn.2d 656", "129 Wn.2d 1006", "16 Wn. App. 748", "43 Wn. App. 640", "449 P.2d 409", "559 P.2d 1006", "586 P.2d 845", "63 Wn. App. 272", "7 A.L.R.5th 1014", "719 P.2d 562", "72 Wn. App. 531", "75 Wn.2d 195", "77 Wn. App. 268", "780 P.2d 1307", "79 Wn. App. 623", "792 P.2d 520", "818 P.2d 622", "830 P.2d 646", "84 Wn. App. 156", "864 P.2d 983", "876 P.2d 435", "878 P.2d 1198", "880 P.2d 988", "890 P.2d 535", "90 Wn.2d 846", "901 P.2d 325"]
+cites_cases: ["106 Wn.2d 1007", "113 Wn.2d 479", "114 Wn.2d 907", "115 S. Ct. 905", "118 Wn.2d 1029", "119 Wn.2d 251", "124 Wn.2d 1028", "124 Wn.2d 158", "124 Wn.2d 343", "124 Wn.2d 656", "129 Wn.2d 1006", "16 Wn. App. 748", "43 Wn. App. 640", "449 P.2d 409", "559 P.2d 1006", "586 P.2d 845", "63 Wn. App. 272", "7 A.L.R.5th 1014", "719 P.2d 562", "72 Wn. App. 531", "75 Wn.2d 195", "77 Wn. App. 268", "780 P.2d 1307", "79 Wn. App. 623", "792 P.2d 520", "818 P.2d 622", "830 P.2d 646", "864 P.2d 983", "876 P.2d 435", "878 P.2d 1198", "880 P.2d 988", "890 P.2d 535", "90 Wn.2d 846", "901 P.2d 325"]
 ---
 
 # Holmes v. Wallace
