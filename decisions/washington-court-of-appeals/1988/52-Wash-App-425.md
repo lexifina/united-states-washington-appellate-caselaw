@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8415-9-III"
 decided: "1988-06-28"
-citations: ["52 Wash. App. 425", "51 Wash. App. 1075"]
+citations: ["52 Wash. App. 425"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["East Lake Water Association, Respondent, v. Alan Rogers, Appellant."]
 source_url: "https://static.case.law/wash-app/52/cases/0425-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1708809
-cites_cases: ["100 Wn.2d 26", "102 Wn.2d 395", "106 Wn.2d 391", "108 Wn.2d 299", "109 Wn.2d 107", "265 P.2d 821", "377 U.S. 533", "379 U.S. 870", "410 U.S. 719", "44 Wn.2d 80", "451 U.S. 355", "497 P.2d 166", "52 Wn. App. 425", "660 P.2d 738", "666 P.2d 351", "687 P.2d 841", "722 P.2d 787", "738 P.2d 254", "744 P.2d 1032", "750 P.2d 254", "80 Wn.2d 633", "99 Wn.2d 114"]
+cites_cases: ["100 Wn.2d 26", "102 Wn.2d 395", "106 Wn.2d 391", "108 Wn.2d 299", "109 Wn.2d 107", "265 P.2d 821", "377 U.S. 533", "379 U.S. 870", "410 U.S. 719", "44 Wn.2d 80", "451 U.S. 355", "497 P.2d 166", "660 P.2d 738", "666 P.2d 351", "687 P.2d 841", "722 P.2d 787", "738 P.2d 254", "744 P.2d 1032", "750 P.2d 254", "80 Wn.2d 633", "99 Wn.2d 114"]
 ---
 
 # East Lake Water Ass'n v. Rogers
