@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11904-4-I"
 decided: "1983-12-05"
-citations: ["36 Wash. App. 446", "36 Wash. App. 1016"]
+citations: ["36 Wash. App. 446"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Scott Aaron Jacobson, Appella
 source_url: "https://static.case.law/wash-app/36/cases/0446-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1782033
-cites_cases: ["32 Wn. App. 499", "33 Wn. App. 529", "33 Wn. App. 833", "33 Wn. App. 881", "36 Wn. App. 446", "361 P.2d 168", "474 P.2d 254", "544 P.2d 1", "550 P.2d 507", "58 Wn.2d 92", "610 P.2d 357", "637 P.2d 956", "648 P.2d 456", "656 P.2d 1103", "658 P.2d 1267", "658 P.2d 50", "78 Wn.2d 327", "86 Wn.2d 200", "87 Wn.2d 175", "93 Wn.2d 454", "96 Wn.2d 578", "99 Wn.2d 1010", "99 Wn.2d 1012", "99 Wn.2d 1016"]
+cites_cases: ["32 Wn. App. 499", "33 Wn. App. 529", "33 Wn. App. 833", "33 Wn. App. 881", "361 P.2d 168", "474 P.2d 254", "544 P.2d 1", "550 P.2d 507", "58 Wn.2d 92", "610 P.2d 357", "637 P.2d 956", "648 P.2d 456", "656 P.2d 1103", "658 P.2d 1267", "658 P.2d 50", "78 Wn.2d 327", "86 Wn.2d 200", "87 Wn.2d 175", "93 Wn.2d 454", "96 Wn.2d 578", "99 Wn.2d 1010", "99 Wn.2d 1012", "99 Wn.2d 1016"]
 ---
 
 # State v. Jacobson
