@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18241-2-I"
 decided: "1987-09-08"
-citations: ["49 Wash. App. 623", "49 Wash. App. 1019"]
+citations: ["49 Wash. App. 623"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Washington Insurance Guaranty Association, Respondent, v. Calvin Ross
 source_url: "https://static.case.law/wash-app/49/cases/0623-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1738869
-cites_cases: ["101 Mich. App. 537", "106 Idaho 792", "107 Idaho 899", "164 Ga. App. 215", "296 S.E.2d 126", "300 N.W.2d 627", "353 N.W.2d 130", "37 Wn. App. 683", "38 Wn. App. 376", "41 Wn. App. 212", "436 S.W.2d 753", "49 Wn. App. 623", "618 P.2d 96", "656 P.2d 1030", "683 P.2d 600", "685 P.2d 635", "702 P.2d 1247", "805 F.2d 1363", "94 Wn.2d 640", "98 Wn.2d 434"]
+cites_cases: ["101 Mich. App. 537", "106 Idaho 792", "107 Idaho 899", "164 Ga. App. 215", "296 S.E.2d 126", "300 N.W.2d 627", "353 N.W.2d 130", "37 Wn. App. 683", "38 Wn. App. 376", "41 Wn. App. 212", "436 S.W.2d 753", "618 P.2d 96", "656 P.2d 1030", "683 P.2d 600", "685 P.2d 635", "702 P.2d 1247", "805 F.2d 1363", "94 Wn.2d 640", "98 Wn.2d 434"]
 ---
 
 # Washington Insurance Guaranty v. Hicks
