@@ -1,0 +1,73 @@
+---
+court: "Washington Court of Appeals"
+docket: "27577-5-II"
+decided: "2002-12-31"
+citations: ["114 Wash. App. 791"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Seabed Harvesting, Inc., Respondent, v. The Department of Natural Resources, et al., Petitioners."]
+source_url: "https://static.case.law/wash-app/114/cases/0791-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 163394
+cites_cases: ["10 P.2d 557", "101 Wn.2d 161", "104 Wn. App. 823", "104 Wn.2d 152", "107 Wn. App. 833", "113 Wn. App. 306", "143 Wn.2d 546", "145 Wn.2d 1025", "16 P.3d 1278", "168 Wash. 5", "23 P.3d 455", "276 P.2d 576", "28 P.3d 802", "30 Wn. App. 750", "32 Wn. App. 173", "45 Wn.2d 533", "496 P.2d 548", "54 P.3d 665", "6 Wn. App. 880", "637 P.2d 998", "646 P.2d 771", "65 Wn. App. 399", "702 P.2d 1192", "78 Wn. App. 707", "781 P.2d 192", "828 P.2d 621", "845 P.2d 1316", "853 P.2d 897", "899 P.2d 6", "97 Wn.2d 1013"]
+---
+
+# Seabed Harvesting, Inc. v. Department of Natural Resources
+
+## Majority (Morgan, J.)
+
+Morgan, J.
+Seabed Harvesting, Inc., (Seabed) sued the Washington State Department of Natural Resources (DNR) for negligence that caused property damage to Seabed’s boat. The questions on appeal are (1) whether Seabed was obligated to indemnify DNR and (2) whether Seabed breached a promise to procure liability insurance for DNR’s benefit. Answering no to the first but yes to the second, we direct that the complaint be dismissed.
+On November 8,1996, the Washington State Department of Natural Resources and Seabed Harvesting, Inc., formed a contract titled “Geoduck Harvesting Agreement.” Under the terms of that contract, DNR granted Seabed a nonexclusive right to harvest 110,000 pounds of geoduck from Kitsap County waters.
+The contract required Seabed to weigh its harvest each day. It also permitted DNR to check Seabed’s harvest each day. It stated in Paragraph 12(b):
+Unless DNR requires otherwise, [Seabed] shall weigh the geoducks in DNR’s presence, before the vessel leaves the water surface above the Property. [Seabed’s] harvest vessel shall not leave the water surface above the Property without DNR’s permission, unless [Seabed] has made reasonable efforts to contact DNR and has been unable to establish contact.[]
+The contract required Seabed to indemnify DNR “from all claims for injuries or death.” It stated in Paragraph 20(a):
+[Seabed] shall indemnify, defend, and save harmless the state of Washington, agencies of the State, including the DNR, and all officers and employees of the State, from all claims for injuries or death, including claims by [Seabed’s] employees or for damages arising out of or incident to [Seabed’s] performance or failure to perform the contract. [Seabed’s] obligation to indemnify defend, and save harmless shall not be eliminated or reduced by an alleged concurrent or sole negligence of the state of Washington or its agencies, employees or officers. . . ,[]
+The contract required Seabed to procure and maintain insurance for DNR’s benefit. It stated in Paragraph 22:
+22. INSURANCE. [Seabed] shall procure and maintain the insurance described in this clause for the entire term of this contract.
+a. General Requirements for Insurance.. . . Before commencing harvest, [Seabed] shall provide to DNR certificates of insurance that:
+1. Name the DNR as additional insured;
+4. Expressly waive any right of subrogation by the insurance company against DNR and DNR’s agents, employees, and officers;
+b. Comprehensive General Liability Insurance. [Seabed] shall procure and maintain comprehensive general liability insurance covering all claims with respect to injuries or damages to persons or property sustained in, on, or about the Property, and its appurtenances, with limits of liability no less than: $1,000,000.00 for bodily injury including death to any one person, not less than $2,000,000.00 for each occurrence; and not less than $1,000,000.00 for property damages in any one occurrence. . . .[]
+On January 31, 1997, Seabed was using a fishing boat called Laurie Ann to harvest geoducks. DNR was using a boat called Dawnbreaker to check the geoduck harvest. As the Dawnbreaker approached the Laurie Ann so the day’s harvest could be weighed in the presence of DNR employees, the Dawnbreaker collided with and damaged the Laurie Ann.
+At the time of the collision, Seabed had comprehensive general liability insurance through Safeco. When a claim was made for damage to the Laurie Ann, Safeco took the position that the claim was not covered. Neither Seabed nor DNR disputes Safeco’s position for purposes of this appeal.
+On November 12,1998, Seabed sued DNR. It alleged that the Dawnbreaker’s captain had been negligent in approaching the Laurie Ann as he did; that his negligence had proximately caused damage to the Laurie Ann; and that DNR was vicariously liable. On May 5, 2001, DNR moved for summary judgment, which the trial court denied. DNR then sought discretionary review, which a commissioner of this court granted.
+For purposes of this appeal, DNR does not deny that Seabed can prove each element alleged in Seabed’s complaint for negligence. DNR asserts, however, that it is indisputably entitled to two different offsets, each equivalent to whatever amount of damages Seabed might otherwise recover. Citing Paragraph 20 of the Geoduck Harvesting Agreement, DNR argues that Seabed must indemnify DNR for whatever amount Seabed recovers, and thus that DNR is entitled to an offset equal to whatever amount Seabed recovers. Citing Paragraph 22 of the Geoduck Harvesting Agreement, DNR argues that Seabed was obligated to obtain liability insurance; that Seabed breached its obligation; that an insurer would have borne the loss to the Laurie Ann but for the breach; and thus that DNR has been damaged in (and may offset) an amount equal to that loss. DNR also argues for reasonable attorney fees.
+I
+The question raised by DNR’s first argument is whether Seabed has a duty to indemnify DNR with respect to Seabed’s claim for property damage to the Laurie Ann. Seabed concedes that it must indemnify DNR “from all claims for injuries or death,” even if such claims are based on DNR’s own negligence. Seabed argues, however, that it is making a claim for property damage, not a claim for injury or death, and thus that it need not indemnify DNR in this case.
+As already seen, Paragraph 20 has two pertinent sentences. The first provides:
+[Seabed] shall indemnify, defend, and save harmless the state of Washington, agencies of the State, including the DNR, and all officers and employees of the State, from all claims for injuries or death, including claims by [Seabed’s] employees or for damages arising out of or incident to [Seabed’s] performance or failure to perform the contract.5 []
+The second sentence provides:
+[Seabed’s] obligation to indemnify, defend, and save harmless shall not be eliminated or reduced by an alleged concurrent or sole negligence of the state of Washington or its agencies, employees, and officers. .. ,[]
+The first sentence does not obligate Seabed to indemnify against a claim for property damage. The italicized portion obligates Seabed to “indemnify, defend, and save harmless” the State, its agencies, officers and employees “from all claims for injuries or death.” The non-italicized portion merely insures that the phrase “from all claims for injuries or death” will at least include (1) claims by Seabed’s employees and (2) claims for damages arising out of or incident to Seabed’s performance of the contract. The first sentence says nothing about claims for property damage.
+Likewise, the second sentence does not obligate Seabed to indemnify against a claim for property damage. As the italicized words show, it merely insures that the obligation created in the first sentence is not reduced or eliminated.
+The claim in issue here is for property damage, not injury or death. Accordingly, Seabed has no duty to indemnify under Paragraph 20.
+II
+DNR’s second argument is really one for offset based on breach of a contract to obtain insurance. The party making such a claim must show that the contract imposed a duty, that the duty was breached, and that the breach proximately caused damage. Here then, we must address several questions.
+The first question is whether Seabed had a contractual obligation to procure and maintain insurance for DNR’s benefit. Paragraph 22(b) of the Geoduck Harvesting Agreement stated that Seabed “shall procure and maintain comprehensive general liability insurance covering all claims with respect to injuries or damages to persons or property.” Paragraph 22(a)(1) required that the policy name DNR as an additional insured. Thus, the answer to the first question is yes.
+The second question is whether Seabed breached its obligation to procure and maintain insurance for DNR’s benefit. For purposes of this appeal, it is undisputed that Seabed’s policy through Safeco did not cover the watercraft involved here. Thus, the answer to the second question is yes.
+The third question is whether Seabed’s breach caused damage to DNR in an amount equal to Seabed’s claim for damage to the Laurie Ann. Paragraph 22 required not only that the policy name DNR as an additional insured, but also that the policy contain an express waiver of the insurer’s right to subrogate against DNR. If Seabed had obtained such a policy, the insurer would have paid Seabed’s negligence claim against DNR, without recourse against DNR. Thus, Seabed’s breach in not procuring and maintaining the liability insurance required by Paragraph 22 damaged DNR in an amount equal to Seabed’s claim for damage to the Laurie Ann
+Seabed argues that even if DNR would otherwise be entitled to an offset, DNR may not take such offset because it failed to mitigate its damages. More specifically, Seabed argues that DNR failed “to protect itself by purchasing insurance and charging Seabed for the premium . . . .”
+To support this argument, Seabed relies on Paragraph 22(d) of the Geoduck Harvesting Agreement. Paragraph 22(d) provided:
+d. Failure to Have Insurance. If [Seabed] at any time during the term of this contract fails to procure or maintain the insurance required by this clause, DNR may procure substitute insurance. Upon demand, [Seabed] shall reimburse DNR for any premiums DNR has paid under this subclause, together with interest at the rate stated in Subclause 4(c).[]
+Although this provision permitted DNR to procure substitute insurance and charge Seabed for the premium, it did not require that DNR do so. Nor did the law, which generally does not require a defendant to mitigate if the plaintiff has an equal opportunity to do so. We conclude that DNR was entitled to rely on Seabed’s promise to procure insurance; that Seabed’s breach of that promise damaged DNR in an amount equal to Seabed’s present claim; and that DNR is entitled to summary judgment in this case.
+Ill
+DNR claims reasonable attorney fees. Paragraph 24 of the Geoduck Harvesting Agreement states, “Should either party take any legal action to enforce the terms of this contract, each party shall bear its own costs and attorney fees.” DNR has successfully enforced Paragraph 22 of the contract, and it shall bear its own costs and fees as provided in Paragraph 24.
+Reversed and remanded with directions to dismiss the complaint. Neither side shall receive costs or attorney fees from the other.
+Quinn-Brintnall, A.C.J., and Houghton, J., concur.
+The original parties to the contract were DNR and a predecessor in interest of Seabed. For purposes of this case, however, it is convenient to refer only to DNR and Seabed.
+Clerk’s Papers (CP) at 46.
+CP at 49-50.
+CP at 50.
+In other words, Seabed concedes that Paragraph 20 is legally enforceable according to its terms. See N.W. Airlines v. Hughes Air Corp., 104 Wn.2d 152, 154, 702 P.2d 1192 (1985) (indemnity agreements in commercial leases whereby one party contractually agrees to indemnify the other part/s negligence are valid and not against public policy); Gabl v. Alaska Loan & Inv. Co., 6 Wn. App. 880, 496 P.2d 548 (1972).
+CP at 49 (emphasis added).
+CP at 49-50 (emphasis added).
+N.W. Indep. Forest Mfrs. v. Dep’t of Labor & Indus., 78 Wn. App. 707, 712, 899 P.2d 6 (1995) (citing Larson v. Union Inv. & Loan Co., 168 Wash. 5, 10 P.2d 557 (1932); Alpine Indus., Inc. v. Gohl, 30 Wn. App. 750, 637 P.2d 998 (1981), review denied, 97 Wn.2d 1013 (1982)).
+Both our reasoning and result are consistent with Division One’s recent decision in U.S. Oil & Ref. Co. v. Lee & Eastes Tank Lines, 104 Wn. App. 823, 16 P.3d 1278 (2001) (refinery entitled to recover damages caused by trucking company’s breach of promise to obtain liability insurance with refinery as additional insured). See also Christiansen v. Holiday Rent-A-Car, 845 P.2d 1316, 1321 (Utah Ct. App. 1992) (quoting Richmond v. Grabowski, 781 P.2d 192, 194 (Colo. Ct. App. 1989) (“ ‘party who agrees to procure the insurance and fails to do so assumes the position of the insurer and, thus, the risk of loss.’ ”), cert. denied, 853 P.2d 897 (Utah 1993).
+Br. of Resp’t at 14.
+CP at 50.
+See Ward v. Painters’ Local Union No. 300, 45 Wn.2d 533, 542, 276 P.2d 576 (1954) (if one person commits tort, breach of contract or other legal wrong against another, latter must use reasonable means to minimize damages). An argument similar to Seabed’s was made and rejected in U.S. Oil & Ref. Co., 104 Wn. App. at 830-32. The party advancing it, however, called it a “waiver” argument instead of a “mitigation of damages” argument.
+Walker v. Transamerica Title Ins. Co., 65 Wn. App. 399, 405-06, 828 P.2d 621 (1992). As DNR correctly points out in its reply brief, nothing in this record suggests that DNR knew or should have known that Seabed had failed to procure adequate insurance. Seabed, of course, knew or should have known. Seabed’s opportunity to correct the problem was at least equal to DNR’s, and probably superior to DNR’s.
+In making this claim, DNR cites one case, McRae v. Bolstad, 32 Wn. App. 173, 179, 646 P.2d 771 (1982), aff’d, 101 Wn.2d 161 (1984). There, the trial court awarded reasonable attorney fees pursuant to the Consumer Protection Act (RCW 19.86.090), and the appellate court did likewise. See also Svendsen v. Stock, 143 Wn.2d 546, 560, 23 P.3d 455 (2001); Smith v. Behr Process Corp., 113 Wn. App. 306, 54 P.3d 665 (2002); Bishop v. Jefferson Title Co., 107 Wn. App. 833, 854, 28 P.3d 802 (2001), review denied, 145 Wn.2d 1025 (2002). Here, there is no statute, and the trial court made no award. McRae is not even arguably on point.
+CP at 50.
