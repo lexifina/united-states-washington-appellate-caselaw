@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "23245-2-I"
+decided: "1990-01-16"
+citations: ["56 Wash. App. 641"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jennifer L. Campbell, et al, Appellants, v. Lockheed Shipbuilding and Construction Company, Respondent."]
+source_url: "https://static.case.law/wash-app/56/cases/0641-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1759752
+cites_cases: ["21 Wn. App. 776", "29 U.S.C. § 157", "29 U.S.C. § 158", "29 U.S.C. § 185", "359 U.S. 236", "436 U.S. 180", "461 F.2d 952", "476 U.S. 380", "486 U.S. 399", "51 Wn. App. 676", "539 F.2d 1335", "591 P.2d 1210", "592 F.2d 595", "754 P.2d 1277"]
+---
+
+# Campbell v. Lockheed Shipbuilding & Construction Co.
+
+## Majority (Forrest, J.)
+
+Forrest, J.
+Jennifer L. Campbell and 10 other ex-apprentices of Lockheed Shipbuilding and Construction Company (Lockheed) appeal from the trial court judgment in Lockheed's favor. We affirm.
+The 11 appellants were employed at Lockheed's Seattle shipyard as boilermaker apprentices until their termination on August 6, 1984, or within several days thereafter. These apprentices were hired between January 1982 and February 1983. When hired, each apprentice signed an "Apprenticeship Agreement". Each agreement was signed by the apprentice, the employer (Lockheed) and by a state official. The parties to the agreement promised to perform their duties "in accordance with the terms and conditions of the Apprenticeship Standards", which were incorporated by reference.
+Each apprentice was screened and selected by the Joint Apprenticeship and Training Committee (JATC). The JATC was composed of representatives from both labor and management. The labor representatives were primarily from Boilermakers Local Union 104. Management representatives were from four different metal trade employers. After being selected by the JATC but before being hired by Lockheed, the apprentices received all information about the program from the Apprenticeship Coordinator, who was not a Lockheed employee.
+In January 1984, Lockheed conducted meetings with a labor organization to attempt to negotiate lower wage rates. Lockheed was formally notified in August 1984 that no wage rate concessions would be made. On August 6, 1984, most of the apprentices were laid off. Several more were laid off on August 9, 1984. Lockheed explained that using journeymen to complete its work was more efficient and cost-effective since the shipyard reportedly had no additional work. When the apprentices were terminated, however, Lockheed had work the apprentices could have completed. Hence, appellants and the union allegedly believed the dismissals were in retaliation for the refusal to grant wage rate concessions. After a bench trial, the trial court issued a memorandum opinion and findings and conclusions finding for Lockheed.
+Federal Preemption
+Lockheed claims that the trial court erred in concluding that this action was not preempted by federal law giving the National Labor Relations Board (NLRB) jurisdiction over certain labor disputes.
+Section 7 of the National Labor Relations Act (Act), 29 U.S.C. § 157, gives employees the right "to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing," or to refrain from such activities. Section 8(a) of the Act, 29 U.S.C. § 158(a), identifies as unfair labor practices an employer's interference with, restraint or coercion of employees exercising rights guaranteed in § 157. It also prohibits discrimination in hiring or continued employment in an attempt to encourage or discourage membership in any labor organization.
+In San Diego Bldg. Trades Coun. v. Garmon, the Supreme Court held that "[w]hen an activity is arguably subject to § 7 or § 8 of the Act, the States as well as the federal courts must defer to the exclusive competence of the National Labor Relations Board if the danger of state interference with national policy is to be averted." Garmon, at 245. The Garmon Court reasoned that permitting the states to control activities which are potentially subject to the complex federal scheme regulating national labor policy would frustrate national policy.
+The Court, however, recognized instances when state power to regulate labor disputes would not be preempted. Hence, where the activity regulated is merely a peripheral concern of the Act, exercise of state power will not interfere with national labor relations policy. Similarly, the states may act where the regulated conduct touches interests which are deeply rooted in local feeling and responsibility.
+Subsequent Supreme Court cases have refined the analysis used to determine whether state jurisdiction over a controversy has been preempted. In Sears, Roebuck & Co. v. San Diego Cy. Dist. Coun. of Carpenters, the Court considered whether Garmon prohibited a state court the power to entertain an action by an employer to enforce state trespass laws against picketing which was arguably protected by federal law. The Court condemned an inflexible application of the Garmon doctrine, then stated:
+The critical inquiry, therefore, is not whether the State is enforcing a law relating specifically to labor relations or one of general application but whether the controversy presented to the state court is identical to ... or different from . . . that which could have been, but was not, presented to the Labor Board. For it is only in the former situation that a state court's exercise of jurisdiction necessarily involves a risk of interference with the unfair labor practice jurisdiction of the Board which the arguably prohibited branch of the Garmon doctrine was designed to avoid.
+Sears, at 197.
+We agree with appellants' contention that the controversy presented to the state court was different from that which could have been presented to the NLRB. If the appellants had filed an unfair labor practice charge against Lockheed, the NLRB would have considered only whether the apprentices were terminated to "discourage membership in any labor organization". 29 U.S.C. § 158(a)(3). A state court, however, would consider only whether Lockheed had breached the apprenticeship contract with the appellants. Adjudicating such a controversy in state court does not unduly interfere with federal labor policy.
+Lockheed officials testified that economic realities necessitated the discharges and denied any retaliatory motive. The trial court so found. Although not technically estopped, Lockheed cannot persuasively urge this court to conclude that the NLRB would arguably have found appellants' discharges retaliatory after asserting in trial court testimony that the motivation for its actions was economic.
+Lockheed argues this case is preempted because the apprentices' discharge followed closely upon the union's rejection of Lockheed's request for a wage reduction. This allegedly demonstrates Lockheed's retaliatory motive for terminating the appellants. The timing of the discharges alone, however, is insufficient evidence of improper motive, particularly since Lockheed concededly acted for business reasons. Thus, exercise of state jurisdiction over appellants' contract claims did not interfere with the primary jurisdiction of the NLRB and is in harmony with the Supreme Court's analysis in Sears. The trial court did not err in concluding that appellants' state claim was not preempted by federal law.
+The remainder of this opinion has no precedential value and, hence, will not be published but filed for public record.
+The judgment is affirmed.
+Scholfield, J., and Thibodeau, J. Pro Tern., concur.
+Reconsideration denied September 10, 1990.
+Review by Supreme Court pending October 10, 1990.
+29 U.S.C. § 158(a)(1), (3).
+359 U.S. 236, 3 L. Ed. 2d 775, 79 S. Ct. 773 (1959); Kraack v. International Bhd. of Electrical Workers, Local 77, 21 Wn. App. 776, 591 P.2d 1210 (1978).
+Garmon, at 243-44.
+436 U.S. 180, 56 L. Ed. 2d 209, 98 S. Ct. 1745 (1978).
+See also Hotel Employees, Local 8 v. Jensen, 51 Wn. App. 676, 679, 754 P.2d 1277 (1988).
+Conclusion of law 8 reads: "Assuming arguendo, the apprenticeship agreements and Standards of Apprenticeship constitute a binding contract, the Defendant did not breach that agreement when it laid off the apprentices. Under the totality of the circumstances, the Defendant made a good faith business judgment when it laid off the Plaintiffs."
+As the Supreme Court stated in International Longshoremen's Ass'n, AFL-CIO v. Davis, 476 U.S. 380, 395, 90 L. Ed. 2d 389, 106 S. Ct. 1904 (1986): "If the word 'arguably' is to mean anything, it must mean that the party claiming preemption is required to demonstrate that his case is one that the Board could legally decide in his favor. . . . The party must. . . put forth enough evidence to enable the court to find that the Board reasonably could uphold a claim based on such an interpretation."
+See Firestone Tire & Rubber Co. v. NLRB, 539 F.2d 1335 (4th Cir. 1976); General Mercantile & Hardware Co. v. NLRB, 461 F.2d 952 (8th Cir. 1972); Liberty Mut. Ins. Co. v. NLRB, 592 F.2d 595 (1st Cir. 1979); 1 C. Morris, The Developing Labor Law 214-15 (2d ed. 1983).
+The trial court reached this conclusion on different grounds after considering arguments now abandoned by Lockheed on appeal. This court may, of course, affirm the trial court on any proper legal theory. Lockheed previously argued that section 301 of the Labor Management Relations Act, 29 U.S.C. § 185, preempted any state claim alleging violation of a labor contract. The trial court concluded that Lingle v. Norge Div. of Magic Chef, Inc., 486 U.S. 399, 100 L. Ed. 2d 410, 108 S. Ct. 1877 (1988) disposed of Lockheed's argument. We note that our reasoning in rejecting Lockheed's preemption argument is analogous to the reasoning in Lingle, which permits state court jurisdiction over claims that can be resolved without interpreting the collective bargaining agreement itself.
+See RCW 2.06.040; CAR 14.
