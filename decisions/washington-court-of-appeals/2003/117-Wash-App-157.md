@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50132-1-I"
 decided: "2003-04-14"
-citations: ["117 Wash. App. 157", "116 Wash. App. 1039"]
+citations: ["117 Wash. App. 157"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Diamond “B” Constructors, Inc., Appellant, v. Granite Falls Schoo
 source_url: "https://static.case.law/wash-app/117/cases/0157-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 653078
-cites_cases: ["115 Wn.2d 657", "117 Wn. App. 157", "123 Wn.2d 621", "123 Wn.2d 678", "136 Wn.2d 693", "140 Wn.2d 88", "146 Wn.2d 428", "34 Wn. App. 801", "47 P.3d 940", "510 P.2d 221", "560 P.2d 353", "663 P.2d 1384", "801 P.2d 222", "82 Wn.2d 250", "869 P.2d 1034", "87 Wn. App. 1", "871 P.2d 146", "88 Wn.2d 331", "937 P.2d 1143", "965 P.2d 619", "993 P.2d 259"]
+cites_cases: ["115 Wn.2d 657", "123 Wn.2d 621", "123 Wn.2d 678", "136 Wn.2d 693", "140 Wn.2d 88", "146 Wn.2d 428", "34 Wn. App. 801", "47 P.3d 940", "510 P.2d 221", "560 P.2d 353", "663 P.2d 1384", "801 P.2d 222", "82 Wn.2d 250", "869 P.2d 1034", "87 Wn. App. 1", "871 P.2d 146", "88 Wn.2d 331", "937 P.2d 1143", "965 P.2d 619", "993 P.2d 259"]
 ---
 
 # Diamond "B" Constructors, Inc. v. Granite Falls School District
