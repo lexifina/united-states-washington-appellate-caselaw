@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51279-0-I"
 decided: "2004-05-24"
-citations: ["122 Wash. App. 365", "121 Wash. App. 1049"]
+citations: ["122 Wash. App. 365"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Petitioner, v. Armond Haydel, Respondent."]
 source_url: "https://static.case.law/wash-app/122/cases/0365-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 499750
-cites_cases: ["102 Wn.2d 87", "109 Wn.2d 270", "121 Wn.2d 220", "122 Wn. App. 365", "127 Wn.2d 322", "129 Wn.2d 279", "129 Wn.2d 303", "129 Wn.2d 635", "153 Wn.2d 1015", "30 Wn. App. 229", "32 Wn. App. 22", "400 U.S. 25", "426 U.S. 637", "552 P.2d 682", "622 P.2d 360", "633 P.2d 901", "645 P.2d 727", "684 P.2d 683", "72 Wn. App. 759", "738 F.2d 196", "744 P.2d 340", "850 P.2d 495", "868 P.2d 149", "87 Wn.2d 363", "899 P.2d 1251", "90 Wn. App. 433", "915 P.2d 1080", "916 P.2d 405", "919 P.2d 1228", "95 Wn.2d 203", "952 P.2d 1097", "97 Wn.2d 1036"]
+cites_cases: ["102 Wn.2d 87", "109 Wn.2d 270", "121 Wn.2d 220", "127 Wn.2d 322", "129 Wn.2d 279", "129 Wn.2d 303", "129 Wn.2d 635", "153 Wn.2d 1015", "30 Wn. App. 229", "32 Wn. App. 22", "400 U.S. 25", "426 U.S. 637", "552 P.2d 682", "622 P.2d 360", "633 P.2d 901", "645 P.2d 727", "684 P.2d 683", "72 Wn. App. 759", "738 F.2d 196", "744 P.2d 340", "850 P.2d 495", "868 P.2d 149", "87 Wn.2d 363", "899 P.2d 1251", "90 Wn. App. 433", "915 P.2d 1080", "916 P.2d 405", "919 P.2d 1228", "95 Wn.2d 203", "952 P.2d 1097", "97 Wn.2d 1036"]
 ---
 
 # State v. Haydel
