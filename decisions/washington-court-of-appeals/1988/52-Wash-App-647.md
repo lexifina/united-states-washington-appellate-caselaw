@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "8812-0-III"
+decided: "1988-11-01"
+citations: ["52 Wash. App. 647"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Munson, A.C.J., and Green, J., concur."]
+parties: ["In the Matter of the Marriage of Rosada L. Wakefield, Appellant, and Don J. Wakefield, Respondent."]
+source_url: "https://static.case.law/wash-app/52/cases/0647-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1708435
+cites_cases: ["101 Wn.2d 137", "101 Wn.2d 299", "107 Wn.2d 479", "110 P.2d 172", "115 P. 731", "133 A.L.R. 1089", "19 Gonz. L. Rev. 519", "234 P.2d 857", "272 P.2d 125", "335 P.2d 43", "37 Wn. App. 881", "39 Wn.2d 102", "44 Wn.2d 851", "486 P.2d 314", "498 P.2d 315", "5 Wn. App. 17", "50 Wn. App. 728", "51 Wn. App. 882", "53 Wn.2d 496", "61 Wash. L. Rev. 13", "63 Wash. 340", "650 P.2d 213", "675 P.2d 1229", "678 P.2d 328", "683 P.2d 1131", "7 Wn.2d 355", "730 P.2d 668", "750 P.2d 654", "756 P.2d 161", "79 Wn.2d 1007", "80 Wn.2d 736", "97 Wn.2d 811"]
+---
+
+# In re the Marriage of Wakefield
+
+## Majority (McInturff, J.)
+
+McInturff, J.
+Rosada Houk Wakefield and Donald Wakefield were married in Spokane, May 10, 1981, and separated May 30, 1986. Two days before they married, they signed an antenuptial agreement which declared the separate property and earnings therefrom would remain separate.
+At the dissolution hearing, Mrs. Wakefield presented evidence the community had made contributions of $18,237.98 to Mr. Wakefield's separate rental account. The court denied any recovery.
+The dispositive issue is whether Mrs. Wakefield was entitled to a lien or offset for community contributions made to the separate property of her former husband.
+The pertinent portions of the antenuptial agreement state:
+3. Status of Property. All property hereafter acquired in the name of Rosada shall be the separate property of Rosada. All property hereafter acquired in the name of Don shall be the separate property of Don. The only property which shall be designated as community property of the parties and have that status attributed to it by the laws of the State of Washington is that property which is acquired during the marriage of the parties in the joint name of Rosada and Don. In no other instance will any property be considered to be the community property of the parties.
+7. Dissolution of Marriage. The parties hereto agree that in the event the marriage which they contemplate to one another is dissolved, that neither will seek any of the separate assets of the other. Further, in the event of dissolution of marriage proceedings, neither will ask of the other attorney fees, court costs, or support of any nature.
+Where an antenuptial agreement is obtained without abuse and overreaching on the part of the spouse initiating the agreement, it will be held valid. In re Marriage of Matson, 107 Wn.2d 479, 485, 730 P.2d 668 (1986); RCW 26.09-.070(3). Once property has been declared separate, it remains separate pending evidence to the contrary. Hamlin v. Merlino, 44 Wn.2d 851, 857-58, 272 P.2d 125 (1954) (citing Guye v. Guye, 63 Wash. 340, 349, 115 P. 731 (1911)). Mrs. Wakefield does not contend the agreement was unfair nor does she dispute the separate nature of her husband's property. She only argues she is entitled to reimbursement for one-half of the community contributions to her husband's separate rental account.
+Where the community has contributed to the benefit of the separate property owner, courts have generally excused the separate property owner from the necessity of reimbursement on three theories: (1) the community contributions were a gift, (2) the community has derived a compensating benefit from use of the property, and (3) the contribution by the community was de minimus. Comment, Serving Two Masters: Expenditure of Community Labor and Assets on Separate Property in Washington, 19 Gonz. L. Rev. 519, 537-38 (1983-1984). Because there is no evidence of the second and third theories, only the first is analyzed. We review the trial court's decision under an abuse of discretion standard. In re Marriage of Miracle, 101 Wn.2d 137, 139, 675 P.2d 1229 (1984); Baker v. Baker, 80 Wn.2d 736, 747, 498 P.2d 315 (1972).
+Cross, The Community Property Law in Washington, 61 Wash. L. Rev. 13, 68-69 (1986) states:
+When the managing spouse uses community funds to improve the other spouse's separate property, the possibility of a gift exists so that the right to reimbursement may never arise. The circumstances surrounding such use of the community property by the manager must be examined to determine the intention of the contributing spouse. . . . On the other hand, if the contribution can reasonably be viewed as a business investment or as supporting the operation of a business, it is unlikely that a gift of the community property funds will be found. The community property preference and the difficulty of overcoming the basic community property presumption in cases involving a direct gift of an asset to a spouse also suggest that a community property "interest" is likely to remain in such contributions. While the traditional problem has been the husband's use of community funds to improve the wife's separate property, the use of community funds by the wife to improve the separate real property of the husband should pose identical problems under the equal managing power she now has by reason of the 1972 amendments.
+(Footnotes omitted. Italics ours.)
+Here, conclusion of law 3-A states:
+The community composed of the petitioner and respondent herein did not secure an equitable lien on the separate property of Don J. Wakefield because of any contributions or payments made by the community in connection with said property. Further, the antenuptial agreement signed by the parties specifically precludes the securing of an equitable lien under the circumstances present.
+The court made no finding of whether the community contributions were to be treated as a gift, nor does the oral opinion directly address the issue. However, the court did reimburse Mrs. Wakefield for her contributions to his rental account from her separate property. Thus the court concluded the antenuptial agreement did not affect the right of reimbursement, at least for contributions from Mrs. Wakefield's separate property.
+After analyzing the court's oral opinion, we conclude the court felt restricted by the terms of the antenuptial agreement as to contributions made from community funds. The court notes it is unable to determine where that money went. Yet, Mrs. Wakefield has set out in exhibit 3 a list of contributions made from the community account to Mr. Wakefield's rental account. The total of those contributions is $18,237.98 of which she claims one-half ($9,118.99). A comparison of the amounts listed as paid on page 11 of the exhibit with the deposits to the community account listed on pages 5 through 8 indicate almost $4,000 had previously been reimbursed from Mr. Wakefield's apartment account to the community account.
+This pattern of loan and reimbursement between the community account and each party's separate rental account indicates the parties' intent to repay the community for loans to the separate property. Because the issue was not reached, the trial court made no finding on the nature of the contributions. However, they appear to be a business investment to forestall loss of the property rather than money loaned for improvements. Under these circumstances, reimbursement will lie. In re Estate of Trierweiler, 5 Wn. App. 17, 23, 486 P.2d 314, review denied, 79 Wn.2d 1007 (1971). Whether the community is entitled to reimbursement from Mr. Wakefield's separate account is not affected by the antenuptial agreement because there is no change in the character of the separate property. Baker v. Baker, supra; Conley v. Moe, 7 Wn.2d 355, 360, 110 P.2d 172, 174, 133 A.L.R. 1089 (1941); Washington State Bar Ass'n, Community Property Deskbook § 19.4 (1977).
+If the money was used to pay mortgage expenses that were not met by rental income, i.e., debt reduction as opposed to improvements, it is suggested in Community Property Deskbook § 19.8, the measure of recovery is dollar for dollar, rather than a portion of the increase in value. Fritch v. Fritch, 53 Wn.2d 496, 506, 335 P.2d 43 (1959); Merkel v. Merkel, 39 Wn.2d 102, 234 P.2d 857 (1951); In re Estate of Trierweiler, supra. This measure of damages is to be compared with In re Marriage of Elam, 97 Wn.2d 811, 816, 650 P.2d 213 (1982) which held the community was entitled to share in the enhanced value of the property after making improvements. See also In re Marriage of Brady, 50 Wn. App. 728, 730, 750 P.2d 654 (1988); In re Marriage of Bepple, 37 Wn. App. 881, 884, 683 P.2d 1131 (1984).
+A trial court's discretion in dividing property will not be disturbed on appeal absent a manifest abuse of discretion. In re Marriage of Brooks, 51 Wn. App. 882, 892, 756 P.2d 161 (1988) (citing In re Marriage of Lindsey, 101 Wn.2d 299, 307, 678 P.2d 328 (1984)). Because we have determined the right to reimbursement is unaffected by the antenuptial agreement, the matter is remanded to determine whether the contributions were in the nature of a debt reduction or property improvements. Recognizing the results of this ruling may change the end result of the property distribution, the trial court is authorized to make whatever adjustments it deems necessary in the final distribution of the property.
+The judgment of the Superior Court is vacated; this case is remanded for hearing in accordance with this opinion.
+Munson, A.C.J., and Green, J., concur.
+Judge James Ben McInturff is serving as a Judge Pro Tempore of the Court of Appeals pursuant to RCW 2.06.150.
+The contributions listed on exhibit 3 are as follows:
+7- 24-84 $275.00
+8- 10-84 500.00
+8-20-84 100.00
+6-05-85 345.00
+6-17-85 234.12
+10-04-85 2,535.00
+Total $3,989.12
