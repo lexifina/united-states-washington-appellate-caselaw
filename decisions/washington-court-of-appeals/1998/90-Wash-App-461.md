@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16268-1-III"
 decided: "1998-02-19"
-citations: ["90 Wash. App. 461", "89 Wash. App. 1030"]
+citations: ["90 Wash. App. 461"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Devera B. Saucier, Appellant, v. The Employment Security Department, 
 source_url: "https://static.case.law/wash-app/90/cases/0461-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428905
-cites_cases: ["102 Wn.2d 624", "103 Wn.2d 610", "106 Wn.2d 54", "120 Wn.2d 203", "127 F.3d 184", "131 Wn.2d 779", "403 U.S. 602", "409 U.S. 896", "460 F.2d 553", "474 U.S. 481", "534 P.2d 114", "689 P.2d 53", "694 P.2d 27", "720 P.2d 808", "840 P.2d 174", "85 Wn.2d 266", "87 Wn. App. 647", "90 Wn. App. 461", "935 P.2d 1272", "943 P.2d 347"]
+cites_cases: ["102 Wn.2d 624", "103 Wn.2d 610", "106 Wn.2d 54", "120 Wn.2d 203", "127 F.3d 184", "131 Wn.2d 779", "403 U.S. 602", "409 U.S. 896", "460 F.2d 553", "474 U.S. 481", "534 P.2d 114", "689 P.2d 53", "694 P.2d 27", "720 P.2d 808", "840 P.2d 174", "85 Wn.2d 266", "87 Wn. App. 647", "935 P.2d 1272", "943 P.2d 347"]
 ---
 
 # Saucier v. Employment Security Department
