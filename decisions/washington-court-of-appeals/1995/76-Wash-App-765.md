@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14214-1-III"
 decided: "1995-01-03"
-citations: ["76 Wash. App. 765", "76 Wash. App. 1061"]
+citations: ["76 Wash. App. 765"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The County of Spokane, et al, Defendants, Donald C. Brockett, Appella
 source_url: "https://static.case.law/wash-app/76/cases/0765-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490412
-cites_cases: ["108 Wn.2d 38", "117 Wash. 415", "119 Wn.2d 1009", "124 Wn.2d 402", "128 P.2d 332", "14 Wn.2d 340", "141 A.L.R. 1257", "198 Wash. 133", "20 Wash. L. Rev. 81", "201 P. 778", "239 P.2d 856", "24 Wash. 540", "324 P.2d 1099", "35 P. 599", "39 Wash. 65", "39 Wn.2d 956", "497 P.2d 166", "52 Wn.2d 317", "600 P.2d 1282", "64 P. 780", "64 Wn. App. 38", "738 P.2d 665", "76 Wn. App. 765", "8 Wash. 138", "80 P. 1001", "80 Wn.2d 633", "822 P.2d 797", "87 P.2d 294", "879 P.2d 920", "92 Wn.2d 762"]
+cites_cases: ["108 Wn.2d 38", "117 Wash. 415", "119 Wn.2d 1009", "124 Wn.2d 402", "128 P.2d 332", "14 Wn.2d 340", "141 A.L.R. 1257", "198 Wash. 133", "20 Wash. L. Rev. 81", "201 P. 778", "239 P.2d 856", "24 Wash. 540", "324 P.2d 1099", "35 P. 599", "39 Wash. 65", "39 Wn.2d 956", "497 P.2d 166", "52 Wn.2d 317", "600 P.2d 1282", "64 P. 780", "64 Wn. App. 38", "738 P.2d 665", "8 Wash. 138", "80 P. 1001", "80 Wn.2d 633", "822 P.2d 797", "87 P.2d 294", "879 P.2d 920", "92 Wn.2d 762"]
 ---
 
 # County of Spokane v. Local # 1553, American Federation of State, County & Municipal Employees
