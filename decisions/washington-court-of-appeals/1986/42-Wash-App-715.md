@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14277-1-I"
 decided: "1986-01-06"
-citations: ["42 Wash. App. 715", "42 Wash. App. 1048"]
+citations: ["42 Wash. App. 715"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Gary Gene Langdon, Appellant.
 source_url: "https://static.case.law/wash-app/42/cases/0715-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1804029
-cites_cases: ["100 Wn.2d 757", "24 Wn. App. 783", "25 Wn. App. 933", "40 Wn. App. 483", "42 Wn. App. 715", "604 P.2d 980", "611 P.2d 1320", "664 P.2d 466", "675 P.2d 1213", "698 P.2d 1123", "99 Wn.2d 501"]
+cites_cases: ["100 Wn.2d 757", "24 Wn. App. 783", "25 Wn. App. 933", "40 Wn. App. 483", "604 P.2d 980", "611 P.2d 1320", "664 P.2d 466", "675 P.2d 1213", "698 P.2d 1123", "99 Wn.2d 501"]
 ---
 
 # State v. Langdon
