@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45882-5-I"
 decided: "2001-04-16"
-citations: ["106 Wash. App. 681", "105 Wash. App. 1053"]
+citations: ["106 Wash. App. 681"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["United Development Corporation, Appellant, v. The City of Mill Creek,
 source_url: "https://static.case.law/wash-app/106/cases/0681-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240395
-cites_cases: ["103 Wn. App. 721", "106 Wn. App. 681", "114 Wn.2d 320", "121 Wn.2d 586", "124 Wn.2d 240", "124 Wn.2d 261", "126 Wn.2d 22", "127 Wn.2d 901", "135 Wn.2d 833", "14 P.3d 172", "141 Wn.2d 1011", "141 Wn.2d 1015", "145 Wn.2d 1002", "513 P.2d 36", "69 Wn. App. 655", "787 P.2d 907", "82 Wn.2d 475", "83 Wn. App. 605", "850 P.2d 546", "854 P.2d 1", "877 P.2d 176", "877 P.2d 187", "891 P.2d 29", "90 Wn. App. 816", "904 P.2d 738", "922 P.2d 828", "960 P.2d 434", "98 Wn. App. 947", "99 Wn. App. 127", "990 P.2d 429", "991 P.2d 634"]
+cites_cases: ["103 Wn. App. 721", "114 Wn.2d 320", "121 Wn.2d 586", "124 Wn.2d 240", "124 Wn.2d 261", "126 Wn.2d 22", "127 Wn.2d 901", "135 Wn.2d 833", "14 P.3d 172", "141 Wn.2d 1011", "141 Wn.2d 1015", "145 Wn.2d 1002", "513 P.2d 36", "69 Wn. App. 655", "787 P.2d 907", "82 Wn.2d 475", "83 Wn. App. 605", "850 P.2d 546", "854 P.2d 1", "877 P.2d 176", "877 P.2d 187", "891 P.2d 29", "90 Wn. App. 816", "904 P.2d 738", "922 P.2d 828", "960 P.2d 434", "98 Wn. App. 947", "99 Wn. App. 127", "990 P.2d 429", "991 P.2d 634"]
 ---
 
 # United Development Corp. v. City of Mill Creek
