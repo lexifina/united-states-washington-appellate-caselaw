@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13115-7-III"
 decided: "1994-09-27"
-citations: ["76 Wash. App. 165", "75 Wash. App. 1049"]
+citations: ["76 Wash. App. 165"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Ronald Theodore Weller, Appel
 source_url: "https://static.case.law/wash-app/76/cases/0165-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 489993
-cites_cases: ["117 Wn.2d 332", "117 Wn.2d 595", "119 Wn.2d 1005", "119 Wn.2d 229", "121 Wn.2d 1034", "35 Wn. App. 125", "64 Wn. App. 505", "665 P.2d 443", "68 Wn. App. 621", "76 Wn. App. 165", "815 P.2d 761", "817 P.2d 850", "827 P.2d 282", "830 P.2d 658", "846 P.2d 539"]
+cites_cases: ["117 Wn.2d 332", "117 Wn.2d 595", "119 Wn.2d 1005", "119 Wn.2d 229", "121 Wn.2d 1034", "35 Wn. App. 125", "64 Wn. App. 505", "665 P.2d 443", "68 Wn. App. 621", "815 P.2d 761", "817 P.2d 850", "827 P.2d 282", "830 P.2d 658", "846 P.2d 539"]
 ---
 
 # State v. Weller
