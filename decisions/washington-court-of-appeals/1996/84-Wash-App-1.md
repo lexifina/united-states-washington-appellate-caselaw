@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18679-9-II"
 decided: "1996-10-11"
-citations: ["84 Wash. App. 1", "83 Wash. App. 1041"]
+citations: ["84 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Robert S. Russell, Appellant.
 source_url: "https://static.case.law/wash-app/84/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121729
-cites_cases: ["117 Wn.2d 292", "120 Wn.2d 1017", "191 P.2d 858", "247 P.2d 787", "30 Wn.2d 390", "41 Wn.2d 133", "508 P.2d 1398", "66 Wn. App. 745", "8 Wn. App. 670", "815 P.2d 257", "83 Wn.2d 383", "833 P.2d 424", "84 Wn. App. 1"]
+cites_cases: ["117 Wn.2d 292", "120 Wn.2d 1017", "191 P.2d 858", "247 P.2d 787", "30 Wn.2d 390", "41 Wn.2d 133", "508 P.2d 1398", "66 Wn. App. 745", "8 Wn. App. 670", "815 P.2d 257", "83 Wn.2d 383", "833 P.2d 424"]
 ---
 
 # State v. Russell
