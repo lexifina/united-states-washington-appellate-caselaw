@@ -1,0 +1,32 @@
+---
+court: "Washington Court of Appeals"
+docket: "4485-8-III"
+decided: "1982-06-10"
+citations: ["32 Wash. App. 211"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Frank M. Buxton, et al, Appellants, v. Richard A. Perry, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/32/cases/0211-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1814736
+cites_cases: ["17 Wn. App. 693", "18 Wn. App. 640", "21 Wn. App. 484", "453 P.2d 631", "543 P.2d 338", "552 P.2d 1053", "565 P.2d 435", "571 P.2d 212", "585 P.2d 812", "598 P.2d 1358", "75 Wn.2d 660", "86 Wn.2d 215", "87 Wn.2d 400", "92 Wn.2d 507"]
+---
+
+# Buxton v. Perry
+
+## Majority (Roe, J.)
+
+Roe, J.
+Plaintiff Buxton appeals from a summary judgment against him in an action in which he sued defendant attorney for malpractice.
+Buxton owned some real estate which he wished to sell through a realtor. After a contract of sale was signed by him apart from the purchasers, he discovered that certain changes had been made. In an action against the realtor, Buxton discovered for the first time on February 4, 1974, that the defendant attorney had made the changes in the contract of sale, since the defendant stated in open court that he had made the changes in his office and in Buxton's presence and at his request. This was corroborated by the realtor. On that date plaintiff knew that he may have a cause of action against the defendant. He commenced it after 3 years, on December 22, 1978, so it was dismissed as being time barred. His reason for not bringing it within the statutory time was that he was unable to discover a critical witness, that is, the defendant's secretary, to testify that he had not been in the defendant's office and had not authorized the changes.
+The statute of limitation requires the action here be brought within 3 years of the injury or discovery of it. RCW 4.16.080; Peters v. Simmons, 87 Wn.2d 400, 552 P.2d 1053 (1976); Gazija v. Nicholas Jerns Co., 86 Wn.2d 215, 543 P.2d 338 (1975). Plaintiff argues that the statute runs from the time he discovers the witness to support or prove his case. This is not the law. The trial court must be affirmed. Otherwise, there would be no effective limitation of actions.
+Plaintiff relies principally on Kittinger v. Boeing Co., 21 Wn. App. 484, 585 P.2d 812 (1978), which is inapplicable here. In Kittinger, the plaintiff, a former Boeing employee, sued Boeing and Darrell Cole, another employee, for libel after plaintiff learned Cole had circulated a memorandum accusing plaintiff of offering a bribe to a foreign sales agent. The court held the 2-year statute of limitation did not bar the action, thus extending the discovery rule to libel actions. This rule provides that a cause of action accrues only when the victim learns of or in the exercise of reasonable diligence should have learned of the facts which gave rise to the cause of action. There, the court specifically found that plaintiff was not able to discover the existence of the libelous statements until he discovered the memorandum which provided the facts necessary to support a cause of action. Kittinger, supra at 488, expressly limits itself to
+libel cases which arise out of confidential business mem-oranda when the plaintiff has no means, in the exercise of reasonable diligence, of discovering the existence of the cause of action. Because the memorandum remains with the libelor, the discovery rule is appropriate in this case just as in the case where a foreign substance is left in the body. In either case the injured party cannot be expected to discover the tort until something else happens to arouse his suspicions. Ruth v. Dight, [75 Wn.2d 660, 453 P.2d 631 (1969)].
+(Italics ours.) Here, the facts supporting the plaintiff's claim of misrepresentation were not within the exclusive possession of the defendant. Plaintiff received a copy of the real estate contract in January 1972, several days after he signed it, and thereupon noticed the changes and additions to the contract. Assuming the cause of action arose in January 1972, or even that plaintiff did not discover it until Perry testified on February 4, 1974, as of that later date, plaintiff certainly had within his knowledge the facts supporting his claim of misrepresentation, whether he located defendant's secretary or not. The statute of limitation is not tolled because there may be missing witnesses.
+Plaintiff also cites Ohler v. Tacoma Gen. Hosp., 92 Wn.2d 507, 598 P.2d 1358 (1979). Ohler involved a woman who, born prematurely and placed in an incubator, was blinded because of excess use of oxygen. Although she knew of the effect, that is, the blindness, it was held that summary judgment barring her claim was inappropriate because she did not discover the causation until shortly after her 22nd birthday. Here, Buxton knew the causation because it was admitted.
+Several cases recognize that a summary judgment may be granted where there is no genuine issue of material fact as to when plaintiff discovered the facts giving rise to a cause of action. Hunter v. Knight, Vale & Gregory, 18 Wn. App. 640, 571 P.2d 212 (1977); Duffy v. King Chiropractic Clinic, 17 Wn. App. 693, 565 P.2d 435 (1977). On February 4, 1974, Buxton was aware of all the essential elements of the action — the responsible party, causation and damages. Contrary to his argument, it was not necessary for him to know before suit was brought who else was present when the changes were made, who actually made the alterations (e.g., a secretary or another staff member), how it was done and whether the contract was signed or unsigned at the time the changes were made. Buxton could have discovered this information by pretrial procedures and during examination of Perry at the trial. The supporting information provided by Perry's secretary does not change the existence of the essential elements as of February 4, 1974, or toll the statute of limitation. There being no remaining issue of material fact, we affirm the trial court's granting of defendant's motion for summary judgment.
+McInturff, C.J., and Green, J., concur.
+Reconsideration denied July 8, 1982.
+Review denied by Supreme Court October 22, 1982.
+ht should be noted that Buxton's awareness of the cause of action was evidenced by his filing a complaint against the defendant with the Washington State Bar Association on July 16, 1974.
