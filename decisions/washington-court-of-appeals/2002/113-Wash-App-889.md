@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47267-4-I"
 decided: "2002-09-16"
-citations: ["113 Wash. App. 889", "113 Wash. App. 1035"]
+citations: ["113 Wash. App. 889"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Michael E. Greathouse, Appell
 source_url: "https://static.case.law/wash-app/113/cases/0889-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764608
-cites_cases: ["101 Wn.2d 566", "102 Wn.2d 188", "103 Wn. App. 800", "104 N.E. 331", "104 Wn.2d 315", "105 Wn. App. 738", "105 Wn.2d 692", "110 Wn.2d 403", "112 Wn.2d 58", "113 Wn. App. 889", "113 Wn.2d 679", "116 Wn.2d 315", "117 Wn.2d 93", "119 Wn.2d 192", "12 Wash. 673", "120 Wn.2d 196", "121 Wn.2d 333", "128 Wn.2d 151", "128 Wn.2d 85", "129 Wn.2d 535", "134 Wn.2d 570", "14 P.3d 854", "143 Wn.2d 1022", "149 Wn.2d 1014", "162 P. 356", "18 U.S.C. § 641", "20 P.3d 1044", "32 F.3d 682", "324 P.2d 793", "35 Wn. App. 688", "36 Wn. App. 755", "409 A.2d 1153", "42 P. 127", "422 P.2d 7", "52 Wn.2d 195", "616 P.2d 628", "64 F. Supp. 55", "64 Wn. App. 948", "669 P.2d 483", "677 P.2d 768", "683 P.2d 173", "685 P.2d 564", "69 Wn.2d 965", "704 P.2d 1189", "718 P.2d 407", "756 P.2d 105", "761 F.2d 1026", "768 P.2d 470", "775 P.2d 448", "782 P.2d 552", "804 P.2d 10", "81 N.J. 451", "81 Wn. App. 470", "812 P.2d 86", "829 P.2d 1068", "831 P.2d 139", "840 P.2d 172", "851 P.2d 654", "89 Ohio St. 269", "904 P.2d 1143", "904 P.2d 715", "91 Wn. App. 635", "915 P.2d 535", "919 P.2d 69", "94 Wash. 313", "94 Wn.2d 216", "951 P.2d 1131", "959 P.2d 1128"]
+cites_cases: ["101 Wn.2d 566", "102 Wn.2d 188", "103 Wn. App. 800", "104 N.E. 331", "104 Wn.2d 315", "105 Wn. App. 738", "105 Wn.2d 692", "110 Wn.2d 403", "112 Wn.2d 58", "113 Wn.2d 679", "116 Wn.2d 315", "117 Wn.2d 93", "119 Wn.2d 192", "12 Wash. 673", "120 Wn.2d 196", "121 Wn.2d 333", "128 Wn.2d 151", "128 Wn.2d 85", "129 Wn.2d 535", "134 Wn.2d 570", "14 P.3d 854", "143 Wn.2d 1022", "149 Wn.2d 1014", "162 P. 356", "18 U.S.C. § 641", "20 P.3d 1044", "32 F.3d 682", "324 P.2d 793", "35 Wn. App. 688", "36 Wn. App. 755", "409 A.2d 1153", "42 P. 127", "422 P.2d 7", "52 Wn.2d 195", "616 P.2d 628", "64 F. Supp. 55", "64 Wn. App. 948", "669 P.2d 483", "677 P.2d 768", "683 P.2d 173", "685 P.2d 564", "69 Wn.2d 965", "704 P.2d 1189", "718 P.2d 407", "756 P.2d 105", "761 F.2d 1026", "768 P.2d 470", "775 P.2d 448", "782 P.2d 552", "804 P.2d 10", "81 N.J. 451", "81 Wn. App. 470", "812 P.2d 86", "829 P.2d 1068", "831 P.2d 139", "840 P.2d 172", "851 P.2d 654", "89 Ohio St. 269", "904 P.2d 1143", "904 P.2d 715", "91 Wn. App. 635", "915 P.2d 535", "919 P.2d 69", "94 Wash. 313", "94 Wn.2d 216", "951 P.2d 1131", "959 P.2d 1128"]
 ---
 
 # State v. Greathouse
