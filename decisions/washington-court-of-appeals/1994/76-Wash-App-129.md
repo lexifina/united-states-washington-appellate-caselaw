@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13645-1-III"
 decided: "1994-10-11"
-citations: ["76 Wash. App. 129", "76 Wash. App. 1004"]
+citations: ["76 Wash. App. 129"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Tamara Marie Amo, Respondent."
 source_url: "https://static.case.law/wash-app/76/cases/0129-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490118
-cites_cases: ["115 Wn.2d 350", "117 Wn.2d 156", "118 Wn.2d 1017", "120 Wn.2d 913", "122 Wn.2d 502", "124 Wn.2d 1013", "328 N.W.2d 159", "62 Wn. App. 69", "65 Wn. App. 790", "70 Wn. App. 621", "76 Wn. App. 129", "798 P.2d 289", "813 P.2d 593", "815 P.2d 752", "830 P.2d 367", "845 P.2d 1325", "855 P.2d 291", "859 P.2d 36"]
+cites_cases: ["115 Wn.2d 350", "117 Wn.2d 156", "118 Wn.2d 1017", "120 Wn.2d 913", "122 Wn.2d 502", "124 Wn.2d 1013", "328 N.W.2d 159", "62 Wn. App. 69", "65 Wn. App. 790", "70 Wn. App. 621", "798 P.2d 289", "813 P.2d 593", "815 P.2d 752", "830 P.2d 367", "845 P.2d 1325", "855 P.2d 291", "859 P.2d 36"]
 ---
 
 # State v. Amo
