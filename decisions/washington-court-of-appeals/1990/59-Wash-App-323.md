@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24018-8-I"
 decided: "1990-06-25"
-citations: ["59 Wash. App. 323", "58 Wash. App. 1023"]
+citations: ["59 Wash. App. 323"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Peter Eugene Spearman, Appell
 source_url: "https://static.case.law/wash-app/59/cases/0323-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1751077
-cites_cases: ["101 Wn.2d 664", "110 Wn.2d 682", "113 Wn.2d 1027", "115 Wn.2d 1032", "54 Wn. App. 479", "59 Wn. App. 323", "628 P.2d 472", "653 P.2d 284", "683 P.2d 571", "757 P.2d 492", "774 P.2d 522", "95 Wn.2d 616", "98 Wn.2d 30"]
+cites_cases: ["101 Wn.2d 664", "110 Wn.2d 682", "113 Wn.2d 1027", "115 Wn.2d 1032", "54 Wn. App. 479", "628 P.2d 472", "653 P.2d 284", "683 P.2d 571", "757 P.2d 492", "774 P.2d 522", "95 Wn.2d 616", "98 Wn.2d 30"]
 ---
 
 # State v. Spearman
