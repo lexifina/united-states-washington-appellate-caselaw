@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31323-1-I"
 decided: "1993-07-26"
-citations: ["71 Wash. App. 261", "70 Wash. App. 1062"]
+citations: ["71 Wash. App. 261"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["SAS America, Inc., Appellant, v. Ernest Y. Inada, et al, Respondents.
 source_url: "https://static.case.law/wash-app/71/cases/0261-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787057
-cites_cases: ["115 Wn.2d 657", "116 Wn.2d 725", "118 Wn.2d 383", "120 Wn.2d 1007", "120 Wn.2d 573", "121 Wn.2d 1023", "135 P. 224", "147 P.2d 310", "20 Wn.2d 337", "35 Colo. App. 434", "535 P.2d 1132", "60 Wn. App. 556", "66 Wn. App. 178", "68 Wn. App. 528", "71 Wn. App. 261", "75 Wash. 513", "801 P.2d 222", "805 P.2d 245", "807 P.2d 863", "823 P.2d 499", "831 P.2d 1085", "843 P.2d 1128", "844 P.2d 428"]
+cites_cases: ["115 Wn.2d 657", "116 Wn.2d 725", "118 Wn.2d 383", "120 Wn.2d 1007", "120 Wn.2d 573", "121 Wn.2d 1023", "135 P. 224", "147 P.2d 310", "20 Wn.2d 337", "35 Colo. App. 434", "535 P.2d 1132", "60 Wn. App. 556", "66 Wn. App. 178", "68 Wn. App. 528", "75 Wash. 513", "801 P.2d 222", "805 P.2d 245", "807 P.2d 863", "823 P.2d 499", "831 P.2d 1085", "843 P.2d 1128", "844 P.2d 428"]
 ---
 
 # Sas America, Inc. v. Inada
