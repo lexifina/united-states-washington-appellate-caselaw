@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30108-0-I; 30444-5-I"
 decided: "1993-07-26"
-citations: ["71 Wash. App. 382", "70 Wash. App. 1063"]
+citations: ["71 Wash. App. 382"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bernard D. Molloy, Appellant, v. The City of Bellevue, Respondent."]
 source_url: "https://static.case.law/wash-app/71/cases/0382-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787295
-cites_cases: ["104 Wn.2d 627", "106 Wn.2d 102", "120 Wn.2d 57", "123 Wn.2d 1024", "306 Or. 527", "368 P.2d 897", "583 P.2d 621", "59 Wn.2d 545", "61 Wn. App. 163", "656 P.2d 1030", "708 P.2d 393", "71 Wn. App. 382", "720 P.2d 793", "795 P.2d 1364", "810 P.2d 4", "837 P.2d 618", "90 Wn.2d 384", "91 Or. App. 510", "98 Wn.2d 434"]
+cites_cases: ["104 Wn.2d 627", "106 Wn.2d 102", "120 Wn.2d 57", "123 Wn.2d 1024", "306 Or. 527", "368 P.2d 897", "583 P.2d 621", "59 Wn.2d 545", "61 Wn. App. 163", "656 P.2d 1030", "708 P.2d 393", "720 P.2d 793", "795 P.2d 1364", "810 P.2d 4", "837 P.2d 618", "90 Wn.2d 384", "91 Or. App. 510", "98 Wn.2d 434"]
 ---
 
 # Molloy v. City of Bellevue
