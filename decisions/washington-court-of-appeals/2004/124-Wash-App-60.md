@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53004-6-I"
 decided: "2004-08-16"
-citations: ["124 Wash. App. 60", "122 Wash. App. 1073"]
+citations: ["124 Wash. App. 60"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael White, et al., Respondents, v. Allstate Insurance Company, Ap
 source_url: "https://static.case.law/wash-app/124/cases/0060-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684029
-cites_cases: ["102 Wn.2d 477", "112 Wn.2d 1", "113 Wn.2d 91", "124 Wn. App. 60", "126 Wn.2d 50", "150 Wn.2d 478", "154 Wn.2d 1009", "687 P.2d 1139", "771 P.2d 701", "776 P.2d 123", "78 P.3d 1274", "882 P.2d 703", "891 P.2d 718"]
+cites_cases: ["102 Wn.2d 477", "112 Wn.2d 1", "113 Wn.2d 91", "126 Wn.2d 50", "150 Wn.2d 478", "154 Wn.2d 1009", "687 P.2d 1139", "771 P.2d 701", "776 P.2d 123", "78 P.3d 1274", "882 P.2d 703", "891 P.2d 718"]
 ---
 
 # White v. Allstate Insurance
