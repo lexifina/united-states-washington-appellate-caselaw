@@ -1,0 +1,41 @@
+---
+court: "Washington Court of Appeals"
+docket: "4112-II"
+decided: "1981-06-12"
+citations: ["29 Wash. App. 536"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Kathleen Cavell, Appellant, v. John W. Hughes, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/29/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1824089
+cites_cases: ["391 P.2d 526", "4 Wn. App. 922", "4 Wn. App. 963", "410 P.2d 33", "486 P.2d 300", "486 P.2d 304", "576 P.2d 392", "64 Wn.2d 231", "67 Wn.2d 842", "89 Wn.2d 839"]
+---
+
+# Cavell v. Hughes
+
+## Majority (Petrich, J.)
+
+Petrich, J.
+Kathleen Cavell appeals from a judgment dismissing her action for specific performance on an earnest money agreement for the sale of defendant's house. The issue on appeal is whether the condition precedent to defendant John Hughes' obligation under the agreement was either excused or waived, thus requiring that he complete the sale. We hold that defendant's actions did excuse the condition, and accordingly reverse.
+Mr. Hughes (now deceased) owned a house located in Lakeside Country Club in Pierce County. The club, a nonprofit corporation, owns all the land located within its boundaries and leases to defendant and the other 18 club members the land underlying their respective homes. In addition to the leasehold interest, each house owner is given a membership certificate representing a one-nineteenth ownership of the club's stock.
+Under the club's bylaws, no person can become the owner of a member certificate or a leasehold interest without first being elected to membership. On April 10, 1978, Clover Sheean (a club member), acting as agent for her daughter, the plaintiff, executed an earnest money agreement for the purchase of defendant's home. This agreement contained the written condition that:
+This offer is subject to the. Lakeside Country Club Inc. board of director's approval of Clover V. Sheean's nominee for membership within 45 days of owner's acceptance.
+That same day Mrs. Sheean assigned her interest in the earnest money agreement to plaintiff, and nominated plaintiff for membership in the club by submitting an application which she signed on her daughter's behalf.
+Defendant approved and signed the earnest money agreement on April 10, 1978. After speaking with other club members, he subsequently became convinced that his asking price for the. house had been too low. He consulted an attorney and expressed his desire to terminate the agreement. As a result of this consultation, the attorney returned plaintiff's $500 earnest money check, stating in his letter that defendant was not going to proceed with the sale. The attorney explained that because the club bylaws only permitted one membership per. person, Clover Sheean was ineligible to purchase another one and consequently the earnest money agreement that she signed was null and void.
+In an attempt to dispel the apparent confusion over who was to be the true purchaser, plaintiff submitted a second membership application, which she personally signed. In addition, her attorney mailed a letter to defendant's attorney explaining that plaintiff was indeed the true purchaser. The letter also contained a statement attempting to waive the condition in the earnest money agreement.
+Apparently having not received the second application, the membership committee voted to recommend rejection of the first application because it had not been personally submitted and signed by plaintiff. The club's board of directors accepted this recommendation and voted not to act on plaintiff's potential membership until there was a "legitimate" application to consider. Defendant, a member of the board of directors, voted with the majority. Because plaintiff's membership was not approved within the 45-day deadline, defendant asserts that his obligation to tender performance under the earnest money agreement never arose.
+Plaintiff initiated this action for specific performance and/or damages. The trial court dismissed the action, holding that the express condition precedent (membership approval within 45 days) to defendant's duty to complete the sale had not been excused or fulfilled.
+The earnest money agreement required that plaintiff, as Mrs. Sheean's nominee, be approved for membership within 45 days of April 10, 1978, the date that defendant signed the agreement. Plaintiff argues that defendant's interference with her membership approval worked to excuse the express condition precedent (see Ross v. Harding, 64 Wn.2d 231, 391 P.2d 526 (1964)) in the agreement and obligated him to complete the sale of his residence. We agree.
+In every contract there is an implied covenant of good faith and fair dealing which obligates the parties to cooperate with one another so that each may obtain the full benefit of performance. Miller v. Othello Packers, Inc., 67 Wn.2d 842, 410 P.2d 33 (1966); Long v. T-H Trucking Co., 4 Wn. App. 922, 486 P.2d 300 (1971). It follows axiomatically that the failure or nonoccurrence of a condition will not excuse the promisor's performance if the condition's failure was the fault of the promisor. Refrigeration Eng'r Co. v. McKay, 4 Wn. App. 963, 486 P.2d 304 (1971); Restatement of Contracts § 295 (1932).
+It is as effective an excuse of performance of a condition that the promisor has hindered performance as that he has actually prevented it.
+(Footnote omitted.) 5 S. Williston, Contracts § 677A (3d ed. 1961).
+The record shows clearly that defendant did not proceed in good faith after signing the earnest money agreement. He sought the advice of counsel for the specific purpose of frustrating the sale, and testified at trial that he wanted out of the agreement because he felt he had made a bad bargain by fixing a price that was too low. The overriding reason the membership committee and board of directors voted to suspend action on plaintiff's membership application was their confusion over precisely who was trying to purchase defendant's house, plaintiff or her mother. The trial court, however, made the unchallenged findings that defendant was aware from the beginning that plaintiff was the true intended purchaser, and that he was mentally competent to conduct his business affairs throughout the transaction. Despite his knowledge, defendant (acting through his attorney) attempted to revoke the agreement on the pretense that the membership application Mrs. Sheean submitted was on her own behalf, rather than her daughter's. He permitted the confusion to persist at the board meeting, and voted with the majority knowing that despite its form, the effect of the board's vote was to reject plaintiff for membership.
+These actions were not taken in good faith and hindered the performance of the condition that plaintiff be approved for membership within 45 days. Consequently, we hold that the condition was excused. Defendant is obligated to complete the sale of his house under the terms of the earnest money agreement.
+We note that our decision will not interfere with the rights of the club to determine its own membership. Our requirement that defendant convey his house pursuant to the earnest money agreement does not compel the club to either accept plaintiff's membership or grant her a leasehold interest in the property underlying the house. As owner of the house, plaintiff would have a number of options, among them, seeking membership herself or selling the house to someone who could qualify for membership. Whatever the ultimate outcome, plaintiff is entitled to the benefit of her bargain.
+We reverse and remand for an entry of a judgment of specific performance in accordance with this opinion.
+Petrie, A.C.J., and Pearson, J., concur.
+The membership committee is responsible for investigating and making recommendations to the board of directors on new applications to the club.
+These unchallenged findings became established facts on appeal. Lakeside Pump & Equip., Inc. v. Austin Constr. Co., 89 Wn.2d 839, 576 P.2d 392 (1978); RAP 10.3(g).
+Because of our disposition, we need not address plaintiffs alternative argument that the letter from her attorney to defendant's attorney constituted an express waiver of the condition.
