@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41569-7-I"
 decided: "1999-02-08"
-citations: ["96 Wash. App. 1", "93 Wash. App. 1085"]
+citations: ["96 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Petitioner, v. Travis Perry, Respondent."]
 source_url: "https://static.case.law/wash-app/96/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128396
-cites_cases: ["127 Wn.2d 270", "133 Wn.2d 523", "137 Wn.2d 1001", "402 U.S. 535", "49 Wn. App. 778", "56 Wn. App. 603", "745 P.2d 1335", "784 P.2d 1280", "898 P.2d 294", "91 Wn. App. 187", "946 P.2d 783", "957 P.2d 243", "96 Wn. App. 1"]
+cites_cases: ["127 Wn.2d 270", "133 Wn.2d 523", "137 Wn.2d 1001", "402 U.S. 535", "49 Wn. App. 778", "56 Wn. App. 603", "745 P.2d 1335", "784 P.2d 1280", "898 P.2d 294", "91 Wn. App. 187", "946 P.2d 783", "957 P.2d 243"]
 ---
 
 # State v. Perry
