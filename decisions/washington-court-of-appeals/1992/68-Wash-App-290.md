@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11778-2-III"
 decided: "1992-06-09"
-citations: ["68 Wash. App. 290", "65 Wash. App. 1051"]
+citations: ["68 Wash. App. 290"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Cristobal Marquez, Appellant.
 source_url: "https://static.case.law/wash-app/68/cases/0290-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725434
-cites_cases: ["116 Wn.2d 189", "118 Wn.2d 151", "295 P.2d 324", "442 U.S. 114", "475 P.2d 109", "48 Wn.2d 545", "58 Wn. App. 210", "68 Wn. App. 290", "78 Wn.2d 9", "792 P.2d 171", "802 P.2d 1371", "822 P.2d 775"]
+cites_cases: ["116 Wn.2d 189", "118 Wn.2d 151", "295 P.2d 324", "442 U.S. 114", "475 P.2d 109", "48 Wn.2d 545", "58 Wn. App. 210", "78 Wn.2d 9", "792 P.2d 171", "802 P.2d 1371", "822 P.2d 775"]
 ---
 
 # State v. Marquez
