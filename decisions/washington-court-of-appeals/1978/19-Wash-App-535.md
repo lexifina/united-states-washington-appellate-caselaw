@@ -1,0 +1,60 @@
+---
+court: "Washington Court of Appeals"
+docket: "4720-1; 5402-1"
+decided: "1978-03-20"
+citations: ["19 Wash. App. 535"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Williams and Ringold, JJ., concur."]
+parties: ["Simpson Timber Company, Inc., Appellant, v. The Aetna Casualty & Surety Company, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/19/cases/0535-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 473832
+cites_cases: ["177 Cal. App. 2d 583", "18 Wn. App. 180", "18 Wn. App. 262", "2 Cal. Rptr. 329", "2 Wn. App. 888", "346 P.2d 444", "356 P.2d 606", "402 U.S. 313", "471 P.2d 103", "566 P.2d 1294", "566 P.2d 966", "57 Wn.2d 208", "572 P.2d 723", "89 Wn.2d 425"]
+---
+
+# Simpson Timber Co. v. Aetna Casualty & Surety Co.
+
+## Majority (Farris, C.J.)
+
+Farris, C.J.
+Simpson Timber Company, Inc., appeals (1) from a summary judgment in favor of Travelers Indemnity Company, Aetna Casualty and Surety Company, and other companies subscribing to a joint policy of insurance, and (2) from a partial summary judgment in favor of Aetna Casualty and Surety Company which, as the sole underwriter, insured Simpson against certain risks under a separate policy.
+Simpson manufactured and supervised the installation of a wood stave flume for a potash processing plant in Utah which was being built by Great Salt Lake Minerals and Chemicals Corporation. Travelers Indemnity Company, Aetna Casualty and Surety Company and other companies insured Great Salt Lake and unnamed contractors and subcontractors against all risks of physical loss or damage in connection with the construction of the plant. A separate policy with Aetna Casualty and Surety Company insured Simpson against all sums which it might become legally obligated to pay for property damage. On February 11, 1968, shortly after the flume was erected, it collapsed. Great Salt Lake filed suit in Utah against its own insurers and against Simpson to recover for damage to the flume. The jury returned a special verdict finding that Simpson designed the flume, that it did so negligently, and that the negligent design was the proximate cause of the flume's collapse. On March 29, 1974, judgment was entered in favor of Great Salt Lake against Simpson, and there was found to be no cause of action against the insurance companies.
+On November 18, 1974, Simpson filed this action in King County Superior Court seeking indemnification for the amount it paid on the Utah judgment. In part 2 of the amended complaint for indemnity, it was alleged that Travelers, Aetna, et al, under the policy insuring Great Salt Lake and unnamed contractors and subcontractors, were liable for all sums which were paid by Simpson to Great Salt Lake. That policy, however, specifically excluded from coverage
+A. Loss or damage caused by or resulting from improper materials or errors in design, but not excluding resultant physical loss or damage to other property covered hereunder.
+On May 5, 1976, part 2 of the complaint was dismissed with prejudice because
+1. Plaintiff's action [was] time-barred.
+2. That the collapse of the flume was due to Simpson Timber Company's "error in design" was fully litigated and decided by prior judgment of the Third Judicial District Court of Salt Lake County, State of Utah in Cause No. 203079 and therefore plaintiff [was] precluded by the doctrine of res judicata and/or collateral estoppel from relitigating the right to recover against defendant insurers for any damage to the flume, including cradle and other component parts.
+In part 1 of the complaint, it was alleged that Aetna was under an obligation to defend Simpson in the Utah lawsuit and to pay the amount of any judgment or settlement. Aetna denied that it owed a duty to Simpson as the Aetna/Simpson insurance did not apply
+(k) to bodily injury or property damage resulting from the failure of the named insured's products or work completed by or for the named insured to perform the function or serve the purpose intended by the named insured, if such failure is due to a mistake or deficiency in any design, . . . but this exclusion does not apply to bodily injury or property damage resulting from the active malfunctioning of such products or work;
+(l) to property damage to the named insured's products arising out of such products or any part of such products; [or]
+(m) to property damage to work performed by or on behalf of the named insured arising out of the work or any portion thereof, or out of materials, parts or equipment furnished in connection therewith.
+On February 8, 1977, Aetna was granted summary judgment as to Simpson's assertions that Aetna was liable for
+(1) the cost of labor involved in rebuilding the flume,
+(2) the cost of replacing broken flume components, [and]
+(3) the cost of repairs to the earthwork constituting the flume bed,. . .
+Summary judgment was denied as to
+(4) defense costs incurred in defending the Utah lawsuit, there being material issues of fact as to the existence. of a duty to defend.
+Simpson appeals from both judgments.
+The first issue presented is whether Simpson is precluded by the doctrine of collateral estoppel from relitigating the cause of the collapse of the flume. Neither of the policies upon which the present action is based cover property damage resulting from an error in design. Briefly stated, the requirements for the application of the doctrine of collateral estoppel are: (1) that the issue was decided in the prior adjudication; (2) that a final judgment on the merits was rendered; (3) that the party against whom the doctrine is asserted was a party or in privity with a party to the prior adjudication; and (4) that the application of the doctrine will not work an injustice. Lucas v. Velikanje, 2 Wn. App. 888, 471 P.2d 103 (1970).
+In the Utah lawsuit, as to the issues between Great Salt Lake and Simpson, the jury answered the following interrogatories in the affirmative:
+Interrogatory No. 1: Was the original design of the flume which collapsed done by Simpson Timber Company?
+Interrogatory No. 3: Was the original design of the flume which collapsed negligently designed?
+Interrogatory No. 4: If your answer to Interrogatory No. 3 was "Yes," did said negligent design proximately cause the collapse of the flume?
+As to the issues between Great Salt Lake and Travelers, Aetna, et al, the jury answered affirmatively:
+Interrogatory No. 9: Was the loss or damage caused by or did it result from errors in design?
+Thus, the issue of negligent design was expressly adjudged in the special verdict rendered by the Utah jury. The exclusionary clauses of the insurance policies with which we are here concerned make a determination of that issue essential to the rendition of a judgment in the present action. We find that the first requirement of the application of collateral estoppel, identity of issues, is satisfied.
+Judgment was entered on the verdict on March 29, 1974. Simpson was ordered to pay the sum of $84,325.53 plus interest from February 11, 1968, to Great Salt Lake, and Great Salt Lake was adjudged to have no cause of action against the insurance companies.
+Simpson argues strenuously that collateral estoppel cannot be applied because the insurance group and it were codefendants in the prior adjudication, and not adverse parties—Travelers, Aetna, et al, were in effect strangers to the issues between Great Salt Lake and Simpson, and Simpson had no interest in the resolution of the issues between Great Salt Lake and the insurers. The argument relies on the doctrine of mutuality, which no longer applies in Washington and in many jurisdictions in the United States. Lucas v. Velikanje, supra; Kyreacos v. Smith, 89 Wn.2d 425, 572 P.2d 723 (1977); Blonder-Tongue Laboratories, Inc. v. University of Ill. Foundation, 402 U.S. 313, 28 L. Ed. 2d 788, 91 S. Ct. 1434 (1971). It is sufficient that the party against whom the plea of collateral estoppel is asserted, in this case, Simpson, is a party or in privity with a party to the prior litigation.
+The party urging collateral estoppel as a defense may be a stranger to the prior adjudication so long as the application of the doctrine does not work an injustice. Lucas v. Velikanje, supra. The question then is whether Simpson had the motivation and the opportunity to fully and fairly present its case in the Utah lawsuit. Our review of the record convinces us the trial court could properly find that it did. Simpson suffers no deprivation of due process in the instant case by the bar of further litigation on the cause of the collapse of the flume.
+The fact that it has already been decided that the flume collapsed because of Simpson's negligent design does not resolve the question of whether exclusion (A) of the Travelers/Great Salt Lake policy and exclusion (k) of the Aetna/Simpson policy prevent recovery. Simpson argues that both of the clauses contain exceptions which raise triable issues which should not be dismissed by summary judgment. We must therefore determine whether the exceptions are inapplicable as a matter of law.
+Exclusion (A) does not apply to "damage to other property covered [under the Travelers/Great Salt Lake policy]." Simpson contends that the meaning of "other property" is not clear. We disagree.. The words refer to property other than that which was negligently designed. Since the Utah complaint alleges damage only to the flume itself and recovery was only for damage to the flume, Simpson cannot recover damages for other property in an action for indemnification.
+Exclusion (k) in the Aetna/Simpson policy does not exclude "property damage resulting from the active malfunctioning of [negligently designed] products . . ." Simpson contends that the collapse of the flume was an active malfunctioning recoverable under the policy. We recently construed an identical clause:
+[I]f the insured becomes liable to replace or repair any "goods or products" or "premises alienated" or "work completed" after the same has caused an accident because of a defective condition, the cost of such replacement or repair is not recoverable under the policy. However, if the accident also caused damage to some other property or caused personal injury, the insured's liability for such damage or injury becomes a liability of the insurer under the policy, and is not excluded. For example, if a contractor builds a house and as a result of an improper mixture of the stucco, water is absorbed into the walls and the stucco cracks and falls off and a child is injured by the falling stucco, the injury to the child would not be excluded under Exclusion (f) but the replacement cost of the stucco would be excluded. Also, if the water absorbed into the walls should reach the interior walls and injure a valuable painting hanging there, the damage to the painting would be recoverable under the policy while the damage to the walls would not.
+General Ins. Co. of America v. International Sales Corp., 18 Wn. App. 180, 188, 566 P.2d 966 (1977), quoting Liberty Bldg. Co. v. Royal Indem. Co., 177 Cal. App. 2d 583, 587, 346 P.2d 444, 446-47, 2 Cal. Rptr. 329, 331-32 (1960). Since Simpson was not held liable for damage to any property other than the flume itself, exclusion (k) is fully applicable in this indemnification action. Our holding makes it unnecessary to consider the applicability of exclusions (1) and (m).
+Aetna seeks affirmative relief from the denial of summary judgment on Simpson's claim for attorney's fees incurred in defending the Utah lawsuit brought by Great Salt Lake. Having failed to file a cross appeal, however, Aetna is in no position to claim error in this respect. RAP 2.4(a); DeBlasio v. Kittitas, 57 Wn.2d 208, 356 P.2d 606 (1960); Nord v. Phipps, 18 Wn. App. 262, 566 P.2d 1294 (1977).
+Affirmed.
+Williams and Ringold, JJ., concur.
+Reconsideration denied May 31, 1978.
+Review by Supreme Court pending January 5, 1979.
