@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14538-0-I; 14620-3-I"
 decided: "1985-05-20"
-citations: ["41 Wash. App. 1", "40 Wash. App. 1049"]
+citations: ["41 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Welfare of Caterina Ferguson, et al. Eugene Ferg
 source_url: "https://static.case.law/wash-app/41/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1798437
-cites_cases: ["23 Wn. App. 126", "26 Wn. App. 832", "37 Wn. App. 234", "39 Wn. App. 887", "41 Wn. App. 1", "513 P.2d 831", "595 P.2d 552", "611 P.2d 1245", "611 P.2d 1343", "621 P.2d 108", "659 P.2d 1097", "664 P.2d 1245", "679 P.2d 372", "696 P.2d 1241", "82 Wn.2d 736", "93 Wn.2d 689", "94 Wn.2d 757", "99 Wn.2d 842", "99 Wn.2d 95"]
+cites_cases: ["23 Wn. App. 126", "26 Wn. App. 832", "37 Wn. App. 234", "39 Wn. App. 887", "513 P.2d 831", "595 P.2d 552", "611 P.2d 1245", "611 P.2d 1343", "621 P.2d 108", "659 P.2d 1097", "664 P.2d 1245", "679 P.2d 372", "696 P.2d 1241", "82 Wn.2d 736", "93 Wn.2d 689", "94 Wn.2d 757", "99 Wn.2d 842", "99 Wn.2d 95"]
 ---
 
 # Ferguson v. Department of Social & Health Services
