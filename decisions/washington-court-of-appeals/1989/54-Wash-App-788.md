@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9261-5-III"
 decided: "1989-05-09"
-citations: ["54 Wash. App. 788", "54 Wash. App. 1024"]
+citations: ["54 Wash. App. 788"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Max A. Dobbins, Appellant, v. Commonwealth Aluminum Corporation, Resp
 source_url: "https://static.case.law/wash-app/54/cases/0788-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1762138
-cites_cases: ["104 Wn.2d 55", "109 Wn.2d 467", "154 So. 2d 788", "156 So. 2d 603", "200 Wash. 674", "245 La. 61", "40 Wn. App. 566", "52 Wn. App. 778", "54 Wn. App. 788", "600 P.2d 1015", "627 P.2d 104", "656 P.2d 1030", "699 P.2d 256", "700 P.2d 1139", "745 P.2d 1295", "764 P.2d 647", "787 F.2d 1309", "92 Wn.2d 631", "94 P.2d 764", "95 Wn.2d 531", "98 Wn.2d 434"]
+cites_cases: ["104 Wn.2d 55", "109 Wn.2d 467", "154 So. 2d 788", "156 So. 2d 603", "200 Wash. 674", "245 La. 61", "40 Wn. App. 566", "52 Wn. App. 778", "600 P.2d 1015", "627 P.2d 104", "656 P.2d 1030", "699 P.2d 256", "700 P.2d 1139", "745 P.2d 1295", "764 P.2d 647", "787 F.2d 1309", "92 Wn.2d 631", "94 P.2d 764", "95 Wn.2d 531", "98 Wn.2d 434"]
 ---
 
 # Dobbins v. Commonwealth Aluminum Corp.
