@@ -1,0 +1,56 @@
+---
+court: "Washington Court of Appeals"
+docket: "27255-5-II"
+decided: "2002-06-14"
+citations: ["112 Wash. App. 164"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. William Scott Hall, Appellant."]
+source_url: "https://static.case.law/wash-app/112/cases/0164-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 719277
+cites_cases: ["103 Wn. App. 152", "126 Wn.2d 1006", "132 Wn.2d 529", "132 Wn.2d 94", "137 Wn.2d 774", "143 Wn.2d 412", "21 P.3d 281", "384 U.S. 436", "482 P.2d 775", "5 P.3d 1280", "523 U.S. 1007", "546 N.E.2d 1214", "571 So. 2d 94", "75 Wn. App. 747", "79 Wn.2d 12", "879 P.2d 1003", "935 P.2d 1353", "940 P.2d 546", "975 P.2d 1020"]
+---
+
+# State v. Hall
+
+## Majority (Quinn-Brintnall, J.)
+
+Quinn-Brintnall, J.
+A jury convicted William Hall of second degree incest for molesting his 16-year-old daughter. On appeal, Hall claims that because he had relinquished his parental rights when his daughter was five years old, she was not a descendant for purposes of the incest statute, RCW 9A.64.020. He also argues that his knowledge of his daughter’s adoption negates the mens rea necessary to prove incest.
+In this case of first impression, we hold that the biological relationship survives relinquishment of parental rights and that adoption is not a defense to a charge of incest between a biological parent and the child he knows to be his offspring. The trial court properly instructed the jury on the applicable law and we affirm.
+FACTS
+D.M.G. was born on October 1,1983, to Tracy L. and Hall. Hall relinquished his parental rights on December 15, 1988, so that Tracy L. and her new husband could adopt the child. D.M.G. was raised by her mother and stepfather.
+As a teenager, D.M.G. became curious about her biological father. Tracy L. contacted Hall’s mother and arranged the first meeting. Hall and the girl saw one another about 10 times over the course of the following year and one-half.
+On July 9, 2000, D.M.G. was visiting her grandmother when Hall came to the house. He took the girl to dinner and to run errands. After dinner he picked up some alcohol and took her to his storage unit. At the storage unit, Hall kissed D.M.G. on her neck and face and fondled her breasts. When he attempted to slide his hand into her pants she resisted. Hall returned the girl to her grandmother’s home at about 4:00 a.m.
+D.M.G. told her parents what happened the next day. They contacted the police. Police arrested Hall on July 12, 2000, at his storage unit. He was given Miranda rights. The statement he gave was consistent with D.M.G.’s.
+The State charged Hall with second degree incest on July 12, 2000. A CrR 3.5 suppression hearing was held on March 13, 2001, regarding Hall’s statements to the police. The judge ruled that Hall was appropriately advised of his rights and that the statements were admissible. On March 15, 2001, a jury found Hall guilty of second degree incest. On April 20, 2001, he was sentenced to serve 17 months.
+On appeal, Hall argues that as a matter of law D.M.G. is not his descendant for purposes of the incest statute. He also claims that the trial court abused its discretion by refusing to admit evidence regarding how D.M.G.’s adoption affected his understanding of his relationship to the girl and negated the mens rea necessary to prove incest. Lastly, he argues that the trial court abused its discretion when it instructed the jury that the adoption of D.M.G. was not relevant to whether she was Hall’s descendant. We address each claim in turn.
+ANALYSIS
+A BIOLOGICAL CHILD IS A DESCENDANT
+We review questions of law de novo. State v. Martin, 137 Wn.2d 774, 788, 975 P.2d 1020 (1999). Where the meaning of a statute is clear on its face, this court assumes that the Legislature “means exactly what it says” and we give effect to the plain language without regard to rules of statutory construction. State v. Warfield, 103 Wn. App. 152, 156, 5 P.3d 1280 (2000).
+Washington’s incest statute states,
+(2) A person is guilty of incest in the second degree if he engages in sexual contact with a person whom he knows to be related to him, either legitimately or illegitimately, as an ancestor, descendant, brother, or sister of either the whole or the half blood.
+(3) As used in this section, “descendant” includes stepchildren and adopted children under eighteen years of age.
+RCW 9A.64.020.
+A “descendant” is defined as “[tjhose persons who are in the blood stream of the ancestor. . . [i.e.J persons who proceed from a body of another such as a child or grandchild . . . .” Black’s Law Dictionary 445 (6th ed. 1990). Webster’s New College Dictionary lists “child, offspring, scion” as synonyms for “descendant” and then gives the core meaning as “one descended directly from the same parents or ancestors.” Webster’s New College Dictionary 306 (1999). See also State v. Arseneau, 75 Wn. App. 747, 754, 879 P.2d 1003 (1994), review denied, 126 Wn.2d 1006 (1995) (descendant usually means descended from “a common stock” or “lineal or collateral blood relative”) (quoting Webster’s Third New International Dictionary 609 (1976)).
+Hall argues that he cannot be charged with incest because he surrendered all of his parental rights to D.M.G. In support of his claim he relies on a probate case, In re Estate of Fleming, 143 Wn.2d 412, 420, 21 P.3d 281 (2001), which held that the parent could not inherit from her child after the parent had relinquished parental rights.
+The State asserts that the use of the term “descendant” in the incest statute is clear on its face and does not change regardless of whether Hall surrendered parental rights. We agree with the State.
+The State cites us to an Indiana case, Bohall v. State, 546 N.E.2d 1214 (Ind. 1989), for support because its facts are squarely on point. In Bohall, a biological father was charged with incest for impregnating his daughter who had been adopted by her foster parents. In holding that the incest charge was valid, the Indiana court considered the incest claim in light of the adoption stating:
+While it is true that the adoption law of this state provides that an adoption severs the relationship between the child and the natural parents and considers the adoptive parents to be the parents of that child thenceforth, it is obvious that this is intended to prevent the natural parents from interfering with the family life in the adoptive home .... It of course is impossible to nullify by legislative declaration the fact that the biological parents continue to be blood relatives of the child; the link of consanguinity cannot be erased by enactment.
+Bohall, 546 N.E.2d at 1215. We agree that adoption cannot alter biology. “[A]n adoption statute cannot erase lineal consanguinity.” Hendry v. State, 571 So. 2d 94, 95 (Fla. Dist. Ct. App. 1990).
+RCW 9A.64.020(3) does not limit “descendant” to those persons expressly named. Rather, the statute’s use of the term “includes,” denotes a nonexclusive exemplary listing. See 2A Norman J. Singer, Statutes and Statutory Construction § 47.07, at 231 (6th ed. 2000) (“includes” is usually a term of enlargement, not limitation). Moreover, we note the Legislature’s inclusion of the phrase “either legitimately or illegitimately.” This phrase expresses the legislative intent that the biological, not the legal, relationship controls.
+The statute is clear and unambiguous, and requires this court to give effect to the plain meaning of the term “descendant.” One’s biological child is a descendant, regardless of legal enactment. D.M.G. is Hall’s biological daughter and, thus, his descendant for purposes of the incest statutes.
+Mistake of law does not negate mens rea
+Hall claims that because he believed D.M.G. was no longer his daughter, he lacked the mens rea necessary to support a conviction of incest. Thus, he argues that the trial court erred by excluding evidence of D.M.G.’s adoption and instructing the jury that adoption is irrelevant to a charge of incest.
+Admissibility of evidence is within the trial court’s sound discretion and will not be reversed on appeal absent a showing of abuse of that discretion. State v. Brown, 132 Wn.2d 529, 578, 940 P.2d 546 (1997), cert. denied, 523 U.S. 1007 (1998). An abuse of discretion occurs only when no reasonable person would take the view adopted by the trial court. State v. Castellanos, 132 Wn.2d 94, 97, 935 P.2d 1353 (1997). Discretion is abused if it is based on untenable grounds or for untenable reasons. State ex rel. Carroll v. Junker, 79 Wn.2d 12, 26, 482 P.2d 775 (1971). Evidence which is not relevant is not admissible. ER 402.
+Hall asserts that the trial court erred when it refused to allow him to argue the facts of the adoption to the jury as evidence of the absence of his “knowing” that D.M.G. was his daughter. But the requisite “knowledge” that supports a claim of incest is factual not legal. D.M.G.’s undisputed testimony is that she contacted Hall because she was his biological daughter. More importantly, Hall does not dispute that he knew that D.M.G. was his biological daughter. Thus, he knew the facts required to establish incest.
+Whether the relinquishment of his parental rights altered Hall’s understanding of his legal relationship with D.M.G. is no more than an assertion of a claim of ignorance of the law and is immaterial to the case. See, e.g., Warfield, 103 Wn. App. at 159 (the general rule is that ignorance of the law is no excuse). Thus, the trial court properly excluded documents establishing that Hall surrendered his parental rights as irrelevant when offered to prove that he did not “know” that D.M.G. was his daughter.
+Adoption not relevant to charge of incest
+Hall claims that the trial court erred by instructing the jury that D.M.G.’s adoption was irrelevant to the charge of incest. This claim is an extension of his first two assignments of error and is likewise meritless. If D.M.G. was Hall’s biological daughter, if Hall knew that she was his biological daughter, and if Hall committed the acts as she alleged, he committed second degree incest. Adoption does not and cannot alter a biological relationship. Hendry, 571 So. 2d at 95. Thus, while evidence that the defendant knows or does not know that the incest victim is his biological daughter is relevant, evidence that the defendant knows or does not know that the incest victim is his legal daughter is irrelevant to a charge of incest. The trial court properly instructed the jury that D.M.G.’s adoption was irrelevant.
+Because Hall’s biological relationship was not altered by the relinquishment of his parental rights to D.M.G., we affirm.
+Hunt, C.J., and Armstrong, J., concur.
+Miranda v. Arizona, 384 U.S. 436, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966).
+For example, a married woman who has a child by a man not her husband gives birth to a legitimate child who is, nonetheless, the biological descendant of another man.
+We note that because the requisite knowledge to sustain an incest charge is knowledge of the biological relationship, the documents evincing the surrender of his parental rights conclusively establish that Hall knew he was D.M.G.’s father.
