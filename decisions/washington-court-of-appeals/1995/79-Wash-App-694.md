@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34272-0-I"
 decided: "1995-07-31"
-citations: ["79 Wash. App. 694", "78 Wash. App. 1061"]
+citations: ["79 Wash. App. 694"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sharon K. Arment, Appellant, v. Kmart Corporation, Respondent."]
 source_url: "https://static.case.law/wash-app/79/cases/0694-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 424088
-cites_cases: ["100 Wn.2d 39", "116 Wn.2d 452", "118 Wn.2d 1013", "123 Wn.2d 649", "124 Wn.2d 205", "13 Wn. App. 815", "537 P.2d 850", "62 Wn. App. 712", "666 P.2d 888", "78 Wn. App. 272", "79 Wn. App. 694", "805 P.2d 793", "815 P.2d 293", "840 P.2d 463", "85 A.L.R.3d 991", "86 Wn.2d 1002", "869 P.2d 1014", "875 P.2d 1213", "896 P.2d 750"]
+cites_cases: ["100 Wn.2d 39", "116 Wn.2d 452", "118 Wn.2d 1013", "123 Wn.2d 649", "124 Wn.2d 205", "13 Wn. App. 815", "537 P.2d 850", "62 Wn. App. 712", "666 P.2d 888", "78 Wn. App. 272", "805 P.2d 793", "815 P.2d 293", "840 P.2d 463", "85 A.L.R.3d 991", "86 Wn.2d 1002", "869 P.2d 1014", "875 P.2d 1213", "896 P.2d 750"]
 ---
 
 # Arment v. Kmart Corp.
