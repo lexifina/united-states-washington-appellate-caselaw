@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45423-4-I"
 decided: "2000-08-07"
-citations: ["102 Wash. App. 414", "101 Wash. App. 1074"]
+citations: ["102 Wash. App. 414"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Boeing Company, Appellant, v. James J. Rooney, et al., Respondent
 source_url: "https://static.case.law/wash-app/102/cases/0414-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301190
-cites_cases: ["102 Wn. App. 414", "116 Wn.2d 352", "117 Wn.2d 263", "121 Wn.2d 304", "128 Wn.2d 1", "139 Wn.2d 1023", "33 Wn. App. 609", "41 Wn. App. 745", "462 P.2d 917", "656 P.2d 1109", "707 P.2d 689", "74 Wn. App. 420", "77 Wn.2d 355", "804 P.2d 621", "814 P.2d 652", "849 P.2d 1209", "87 Wn. App. 158", "873 P.2d 583", "904 P.2d 754", "940 P.2d 685", "95 Wn. App. 218", "974 P.2d 909"]
+cites_cases: ["116 Wn.2d 352", "117 Wn.2d 263", "121 Wn.2d 304", "128 Wn.2d 1", "139 Wn.2d 1023", "33 Wn. App. 609", "41 Wn. App. 745", "462 P.2d 917", "656 P.2d 1109", "707 P.2d 689", "74 Wn. App. 420", "77 Wn.2d 355", "804 P.2d 621", "814 P.2d 652", "849 P.2d 1209", "87 Wn. App. 158", "873 P.2d 583", "904 P.2d 754", "940 P.2d 685", "95 Wn. App. 218", "974 P.2d 909"]
 ---
 
 # Boeing Co. v. Rooney
