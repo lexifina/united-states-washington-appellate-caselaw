@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39044-9-I"
 decided: "1997-07-28"
-citations: ["87 Wash. App. 787", "86 Wash. App. 1117"]
+citations: ["87 Wash. App. 787"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. J.F., Appellant."]
 source_url: "https://static.case.law/wash-app/87/cases/0787-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 566220
-cites_cases: ["10 A.L.R.3d 974", "102 Wn.2d 19", "110 Wn.2d 886", "135 Wn.2d 1009", "384 U.S. 436", "49 Wn. App. 45", "659 P.2d 488", "67 Wn. App. 721", "685 P.2d 557", "746 P.2d 813", "75 Wn. App. 404", "756 P.2d 1315", "840 P.2d 210", "85 Wn. App. 601", "87 Wn. App. 787", "880 P.2d 550", "934 P.2d 704", "98 Wn.2d 789"]
+cites_cases: ["10 A.L.R.3d 974", "102 Wn.2d 19", "110 Wn.2d 886", "135 Wn.2d 1009", "384 U.S. 436", "49 Wn. App. 45", "659 P.2d 488", "67 Wn. App. 721", "685 P.2d 557", "746 P.2d 813", "75 Wn. App. 404", "756 P.2d 1315", "840 P.2d 210", "85 Wn. App. 601", "880 P.2d 550", "934 P.2d 704", "98 Wn.2d 789"]
 ---
 
 # State v. J.F.
