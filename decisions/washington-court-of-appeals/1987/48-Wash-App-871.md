@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7603-2-III"
 decided: "1987-06-23"
-citations: ["48 Wash. App. 871", "48 Wash. App. 1028"]
+citations: ["48 Wash. App. 871"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Daniel Cuevas, et al, Appellants, v. Richard Montoya, Respondent."]
 source_url: "https://static.case.law/wash-app/48/cases/0871-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1838656
-cites_cases: ["105 Wn.2d 778", "141 Wash. 392", "251 P. 770", "38 Wn. App. 921", "384 P.2d 644", "44 Wn. App. 204", "44 Wn. App. 719", "442 P.2d 950", "48 Wn. App. 871", "613 P.2d 1170", "62 Wn.2d 771", "623 P.2d 1147", "637 P.2d 235", "691 P.2d 581", "719 P.2d 531", "721 P.2d 990", "723 P.2d 32", "74 Wn.2d 50", "93 Wn.2d 881", "95 Wn.2d 661"]
+cites_cases: ["105 Wn.2d 778", "141 Wash. 392", "251 P. 770", "38 Wn. App. 921", "384 P.2d 644", "44 Wn. App. 204", "44 Wn. App. 719", "442 P.2d 950", "613 P.2d 1170", "62 Wn.2d 771", "623 P.2d 1147", "637 P.2d 235", "691 P.2d 581", "719 P.2d 531", "721 P.2d 990", "723 P.2d 32", "74 Wn.2d 50", "93 Wn.2d 881", "95 Wn.2d 661"]
 ---
 
 # Cuevas v. Montoya
