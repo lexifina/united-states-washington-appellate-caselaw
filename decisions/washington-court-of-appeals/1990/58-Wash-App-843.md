@@ -1,0 +1,65 @@
+---
+court: "Washington Court of Appeals"
+docket: "24377-2-I"
+decided: "1990-08-20"
+citations: ["58 Wash. App. 843"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charlotte Dougherty, Respondent, v. Nationwide Insurance Company, Defendant, Allstate Insurance Company, Appellant."]
+source_url: "https://static.case.law/wash-app/58/cases/0843-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1754542
+cites_cases: ["116 Wn.2d 1009", "22 Wash. L. Rev. 117", "742 F.2d 1225"]
+---
+
+# Dougherty v. Nationwide Insurance
+
+## Majority (Scholfield, J.)
+
+Scholfield, J.
+— Allstate Insurance Company appeals the entry of a judgment against it in favor of Charlotte Dough-erty. We reverse.
+Facts
+On January 29, 1984, Dougherty sustained injuries in a car accident while a passenger in an automobile driven by Erwin DeNune. DeNune was at fault. The car was insured by Nationwide Insurance Company, which paid Dougherty $19,245.63 under the policy's $20,000 personal injury protection (PIP) coverage. Dougherty was insured by Allstate, and in addition to basic coverage, her policy provided for underinsured motorist (UIM) coverage in the amount of $25,000.
+Allstate initially refused to make any payment to Dougherty under the UIM coverage. It claimed that it was not required to do so until Nationwide also paid its policy limits of $25,000 in liability coverage. Dougherty brought a declaratory judgment action to determine her rights under both policies.
+On August 14, 1987, following a bench trial, an order was entered dismissing Dougherty's claim against Nationwide for liability coverage, and determining that Allstate's liability to Dougherty was offset by the amount of Nationwide's PIP coverage payments, i.e., $19,245.63. The trial court's letter opinion also stated that the limits available to the plaintiff under Allstate's policy were $25,000.
+On September 25, 1987, Allstate offered Dougherty $5,754.37 in full settlement of her claim. This amount was the difference between the UIM policy limits and the offset for the Nationwide PIP payments. Dougherty refused the offer. She then requested arbitration under the terms of the Allstate policy.
+The arbitration took place on January 30, 1988. According to the affidavit of arbitrator Bruce Meyers, the following occurred at the arbitration:
+[D]uring opening statement by plaintiff's counsel, Mr. Lemb-hard Howell . . . stated that there was $50,000 coverage under the Allstate policy. The Defendant's attorney, John Hackett, in his opening statement corrected Mr. Howell on the Allstate Insurance coverage, advising that the Allstate policy had $25,000 per person, and $50,000 per accident under the UIM coverage. . . .
+... At this point the three arbitrators recessed momentarily and determined that we would not decide any coverage or set off figures and we reassembled with counsel and the plaintiff and so advised them that the only issue before the panel was the total amount of damages, which after receiving testimony of the plaintiff and review of all medical records and other
+[data] presented, determined the plaintiff's damages to be a total of $80,000.
+A letter from the three arbitrators dated January 30, 1988, was sent to both counsel and the text read as follows:
+It is the unanimous opinion of the undersigned arbitrators that Mrs. Dougherty's damages as a result of the accident of January 29, 1984 were $80,000.00.
+On February 5, 1988, Hackett sent a letter to Howell in which he stated that the trial court's written decision in the declaratory judgment action regarding the offset for Nationwide's PIP payments was ambiguous, but to avoid the necessity for future litigation, Allstate was willing to waive its right to assert the offset against UIM coverage limits. Therefore, the letter was accompanied by a check for $25,000, in settlement of all claims.
+On March 30, 1988, Howell responded by letter, stating that he was returning the check because he could not accept it for a release of all claims. Howell's letter went on to set forth costs incurred for the arbitration of $16,494.30. These costs included filing fees, arbitrators' fees, and attorney's fees. The letter demanded payment of these costs in addition to the $25,000. According to Allstate's brief, there was additional correspondence between counsel, but this is not included in the record. On April 27, 1988, Allstate paid the $25,000 to Dougherty via transmittal letter, apparently without requiring a release of all claims.
+Approximately 1 year later, on April 12, 1989, Dougherty moved for entry of judgment against Allstate in the amount of $80,000 less the $25,000 already paid. Despite Allstate's vigorous objections, the commissioner entered a judgment in favor of Dougherty and against Allstate in the amount of $35,754.37. This amount represented a judgment of $80,000, less the $25,000 already paid by Allstate, and less the $19,245.63 paid by Nationwide.
+Allstate moved for reconsideration in a motion dated May 5, 1989. When the motion for reconsideration was denied, Allstate moved for revision of the commissioner's ruling on May 5, 1989. On June 20, 1989, the trial court issued a letter decision denying Allstate's motion for revision of the entry of judgment.
+The trial court based its decision to deny the motion for revision on RCW 7.04.180, which requires a party to challenge an arbitration award within 3 months of its delivery. According to the trial court's letter, Allstate failed to exercise its rights under the statute, and thus, Dougherty was entitled to the full amount of the award.
+Allstate then moved for reconsideration based on CR 59(a)(6), (7) and (9). Allstate's arguments were that the insurance contract did not permit recovery in an amount in excess of the policy limits; that RCW 7.04.180 limits the time for contesting an award, but not for contesting the entry of a judgment; and that entry of such a judgment unjustifiably enriched Dougherty. The motion for reconsideration was denied.
+This appeal timely followed.
+Arbitration Decision
+Allstate contends that the arbitrators merely determined the amount of Dougherty's total damages, but did not determine that Allstate was liable for any amount over the policy limits of $25,000. The award letter from the arbitrators states only that Dougherty's damages were $80,000. According to the affidavit from one of the arbitrators, the arbitrators determined that they would not deal with any coverage or setoff issues, and that the only issue before the panel was the total amount of damages.
+In addition, a short time after the arbitration Howell refused to release all claims in return for payment of $25,000, contending that Dougherty was entitled to attorney's fees and costs of the arbitration. There was no suggestion in Howell's letter that the $25,000 was being refused because the arbitrators' award was $80,000.
+Thus, the evidence contained in the arbitrators' letter, the arbitrator's affidavit, and Howell's letter strongly supports Allstate's position that the arbitrators' decision merely settled the question of total damages, and did not deal with Allstate's liability to reimburse Dougherty for those damages.
+It follows that the arbitrators did not award Dougherty $80,000 to be paid by Allstate.
+3-Month Statute of Limitations
+Dougherty argues that Allstate failed to comply with the limitations period, and that by failing to do so it waived its right to contest the amount of the award. RCW 7.04.180 states in pertinent part as follows:
+Notice of motion to vacate, modify, or correct award — Stay. Notice of a motion to vacate, modify or correct an award shall be served upon the adverse party, or his attorney, within three months after a copy of the award is delivered to the party or his attorney. Such motion shall be made in the manner prescribed by law for the service of notice of a motion in an action. . . .
+In Scoggins v. Boeing Co., 742 F.2d 1225 (9th Cir. 1984), an employee sued his employer for breach of a collective bargaining agreement and sued his union for failing to provide him with adequate representation. The Ninth Circuit Court of Appeals held that Scoggins' action, filed 16 months after he received notice that the union would not pursue his grievance, was barred by RCW 7.04.180, and described that statute as a "statute of limitations". Scoggins, at 1230.
+Analogizing the holding in Scoggins to the facts before us, it would appear that legal action to change an arbitral award must be brought within the 3-month period set forth in RCW 7.04.180.
+Once a valid award is made it is the only basis for determining rights as to any demands embraced in the submission; the claims are merged in the award. The award is regarded as the judgment of a court of last resort. All reasonable presumptions will be entertained in its favor, and none to overthrow it, and it will be given full effect in any appropriate proceeding.
+(Footnotes omitted.) 5 Am. Jur. 2d Arbitration and Award § 151 (1962).
+The award of the arbitrators acting within the scope of their authority determines the rights of the parties as effectually as a judgment secured by regular legal procedure, and is as binding as a judgment until set aside or its validity questioned in a proper manner.
+(Footnote omitted.) 5 Am. Jur. 2d Arbitration and Award § 147 (1962).
+While the word "award" is not defined in our arbitration statutes, it is apparent from the manner in which it is used that the Legislature was treating it as a final, complete, and binding decision resolving the dispute. Consistent with the authorities cited above, in its completeness and finality, it is the equivalent of a final judgment entered by a court.
+The purpose of RCW 7.04.180 is to expedite finality of the arbitration process and, in this respect, is consistent with the overall objective of speedy resolution of disputes. Comment, The 1943 Washington Arbitration Act, 22 Wash. L. Rev. 117 (1947).
+The decision rendered by the arbitrators in this case, which was limited to establishing the total damages suffered by Dougherty, does not fit the requirement for an "award" as that term is used in our arbitration statutes. The arbitrators' decision said nothing about the extent of the liability of Allstate to Dougherty under the Allstate policy. A decision deciding nothing more than the total damages sustained by Dougherty is obviously not a complete decision and leaves undecided the key issue — the ultimate liability of Allstate.
+Thus, the arbitrators' decision here does not qualify as an award because it falls far short of being a final and complete decision. For these reasons, it would be improper to apply the statute of limitations requirement of RCW 7.04.180 to the arbitrators' decision in this case. Allstate would have no motivation or reason to move to modify or vacate the decision. The total amount of damages suffered by Dougherty was not a matter of primary concern to Allstate. Its primary concern was a determination of its ultimate, enforceable liability to Dougherty under the provisions of its UIM policy.
+It follows that the trial court erred in treating the arbitrators' decision as a final award, subject to the provisions of RCW 7.04.180. Entering a final judgment on the arbitrators' decision in this case was erroneous because the arbitrators did not decide the ultimate liability of Allstate to Dougherty. In fact, the ultimate liability of Allstate to Dougherty has not been decided on its merits to this day.
+Because we decide that the arbitration panel merely determined damages, we do not address Allstate's claims that arbitrators may not make an award in excess of policy limits, or that Dougherty would be unjustly enriched by receiving an award greater than the Allstate policy limits.
+With respect to the policy limits, the record before this court shows that Dougherty's policy provided for $25,000 per person for underinsured motorist coverage. Because Allstate has already paid this amount to Dougherty, the effect of this court's decision that the arbitration panel's decision was not an award and that the 3-month statute of limitations does not apply is that the judgment should be reversed and Dougherty's case against Allstate dismissed with prejudice. This case is reversed and remanded for the entry of such an order of dismissal.
+Webster and Winsor, JJ., concur.
+Reconsideration denied September 27, 1990.
+Review denied at 116 Wn.2d 1009 (1991).
+Although DeNune had the owner's permission to drive the car, through an oversight the insurance coverage for the vehicle still belonged to the owner's former spouse, who had not given DeNune permission to drive the vehicle. Since DeNune was driving the vehicle without the named insured's permission, Nationwide declined to provide liability coverage for the accident.
+The copy of the motion included in the record does not contain a file stamp. Presumably, this was the same motion that was filed with the court.
