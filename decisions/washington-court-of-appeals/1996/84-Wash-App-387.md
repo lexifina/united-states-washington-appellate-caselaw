@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18631-4-II"
 decided: "1996-11-15"
-citations: ["84 Wash. App. 387", "84 Wash. App. 1008"]
+citations: ["84 Wash. App. 387"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Albert Woldrich, Appellant, v. Vancouver Police Pension Board, et al.
 source_url: "https://static.case.law/wash-app/84/cases/0387-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121552
-cites_cases: ["109 Wn.2d 467", "113 Wn.2d 1014", "131 P.2d 436", "15 Wn.2d 536", "159 P. 816", "53 Wn. App. 809", "68 Wn. App. 1", "745 P.2d 1295", "770 P.2d 1071", "82 Wn. App. 168", "84 Wn. App. 387", "841 P.2d 1265", "916 P.2d 956", "92 Wash. 568"]
+cites_cases: ["109 Wn.2d 467", "113 Wn.2d 1014", "131 P.2d 436", "15 Wn.2d 536", "159 P. 816", "53 Wn. App. 809", "68 Wn. App. 1", "745 P.2d 1295", "770 P.2d 1071", "82 Wn. App. 168", "841 P.2d 1265", "916 P.2d 956", "92 Wash. 568"]
 ---
 
 # Woldrich v. Vancouver Police Pension Board
