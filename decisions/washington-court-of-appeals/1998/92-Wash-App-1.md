@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40744-9-I"
 decided: "1998-07-06"
-citations: ["92 Wash. App. 1", "91 Wash. App. 1044"]
+citations: ["92 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Robert Derek Perez, Appellant
 source_url: "https://static.case.law/wash-app/92/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853369
-cites_cases: ["107 Wn.2d 1020", "116 Wn.2d 1027", "119 Wn.2d 538", "120 Wn.2d 1031", "124 Wn.2d 1029", "125 Wn.2d 1016", "137 Wn.2d 1035", "26 Wn. App. 457", "44 Wn. App. 215", "60 Wn. App. 298", "613 P.2d 1192", "62 Wn. App. 895", "66 Wn. App. 541", "720 P.2d 873", "73 Wn. App. 348", "74 Wn. App. 820", "802 P.2d 829", "803 P.2d 813", "817 P.2d 412", "832 P.2d 529", "834 P.2d 611", "869 P.2d 110", "879 P.2d 950", "92 Wn. App. 1"]
+cites_cases: ["107 Wn.2d 1020", "116 Wn.2d 1027", "119 Wn.2d 538", "120 Wn.2d 1031", "124 Wn.2d 1029", "125 Wn.2d 1016", "137 Wn.2d 1035", "26 Wn. App. 457", "44 Wn. App. 215", "60 Wn. App. 298", "613 P.2d 1192", "62 Wn. App. 895", "66 Wn. App. 541", "720 P.2d 873", "73 Wn. App. 348", "74 Wn. App. 820", "802 P.2d 829", "803 P.2d 813", "817 P.2d 412", "832 P.2d 529", "834 P.2d 611", "869 P.2d 110", "879 P.2d 950"]
 ---
 
 # State v. Perez
