@@ -1,0 +1,82 @@
+---
+court: "Washington Court of Appeals"
+docket: "37310-2-I"
+decided: "1997-01-13"
+citations: ["84 Wash. App. 577"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Thomas Downie, Appellant, v. State Farm Fire and Casualty Company, Respondent."]
+source_url: "https://static.case.law/wash-app/84/cases/0577-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 121892
+cites_cases: ["101 Wash. 46", "118 Wn.2d 801", "132 Wn.2d 1003", "145 A.D.2d 465", "151 P.2d 598", "171 P. 1030", "21 Wn.2d 470", "25 Wn. App. 168", "382 N.W.2d 100", "468 N.W.2d 448", "498 U.S. 899", "535 N.Y.S.2d 425", "605 P.2d 802", "656 P.2d 1030", "660 So.2d 300", "670 So.2d 938", "828 P.2d 549", "901 F.2d 944", "964 F.2d 487", "98 Wn.2d 434"]
+---
+
+# Downie v. State Farm Fire & Casualty Co.
+
+## Majority (Baker, C.J.)
+
+Baker, C.J.
+Thomas Downie’s insurance policy against loss of personal property required him to give an examination under oath (EUO) upon request before suing his insurance carrier. He submitted a claim and gave two recorded interviews to different adjustors, but refused to submit to the requested EUO.
+Because a recorded statement given to an adjustor is not equivalent to an EUO, we hold that such a statement does not constitute substantial compliance with the policy. Moreover, we hold that an insurance policy requiring an EUO as a condition precedent to filing suit is not against public policy and is a valid, enforceable contract provision. Downie did not meet a valid condition precedent to filing this action; therefore, the trial court did not err in granting State Farm summary judgment as a matter of law. We affirm.
+FACTS
+Downie obtained a personal articles protection policy from State Farm. While the policy was in force, Downie claimed that he lost a Rolex watch and a diamond ring when he left the articles in a bag in an airplane’s overhead storage compartment. The policy insured these items.
+The policy specifically addressed the procedures after a loss as follows:
+7. Your Duties After Loss. In case a covered loss occurs, you
+must:
+b. report as soon as practicable in writing to us or our agent any loss . . . which may become a claim under this policy . . .; and
+c. file with us or our agent, within 90 days after discovery of the loss, a signed sworn proof of loss. This will state the facts and amount of the loss to the best of your knowledge.
+8. Examination Under Oath. You agree:
+a. to be examined under oath and subscribe to the same as often as we reasonably require; [and]
+d. to produce such records as we may need to verify the claim and its amount, and to permit copies of such records to be made if needed.
+9. Suit Against Us. No action will be brought unless:
+a. there has been compliance with the policy provisions; and
+b. the loss has become payable as specified in the CONDITIONS entitled "Loss Payment”.
+Any action must be started within one year after the occurrence causing loss or damage.
+10. Loss Payment. We will adjust all losses with you. . . . Loss will be payable 60 days after we receive your Proof of Loss and:
+a. we reach agreement with you;
+b. there is an entry of a final judgment; or
+c. there is a filing of an appraisal award with us.[]
+After the loss, Downie notified his State Farm agent. Later, he gave recorded statements to two different claims representatives. The second adjustor asked him to sign a general authorization that would have allowed State Farm access to his confidential records, but he refused to sign such a document.
+Downie then filed a formal proof of loss, which was rejected by State Farm. After Downie filed a sworn statement and another proof of loss, State Farm informed him that it would neither accept nor reject his claim because it had not completed its investigation. By letter, State Farm advised Downie that it wanted to schedule an EUO per the policy. State Farm made similar requests in two subsequent letters, but Downie did not respond. Downie never submitted to an EUO.
+Less than two months after State Farm first requested an EUO, Downie filed suit alleging that State Farm breached the insurance contract, engaged in unfair claims practices, acted in bad faith, and violated the Consumer Protection Act (CPA). Downie argued that without any explanation State Farm would neither accept nor reject his proof of loss and did not complete its investigation within 30 days.
+State Farm moved for summary judgment, arguing that Downie failed to comply with two contractual conditions precedent to filing suit: an EUO and document production. The trial court agreed that an EUO was a condition precedent to filing suit under the policy. The court observed that Downie had made inconsistent assertions: that his recorded statements could be treated as though given under oath, but that he would not admit the authenticity of the transcriptions before the trial court. As a result, the trial court ordered Downie to provide an affidavit regarding whether his earlier recorded statements were under oath and whether those statements could be used for any purpose in the proceedings.
+State Farm urged the trial court to view the EUO as an absolute condition precedent to suit because of the EUO’s importance as a tool to combat insurance fraud. Downie filed an affidavit attesting that his recorded statements were made under oath and could be used at trial, but again qualified the statement by refusing to verify the accuracy of the recordings because he had not heard them.
+The trial court granted summary judgment dismissing Downie’s claim against State Farm without prejudice. The court found that Downie failed to submit to an EUO, which was a contractual condition precedent to filing suit, and concluded that dismissal of Downie’s claims was proper.
+ANALYSIS
+On appeal Downie argues that factual issues exist regarding whether (1) State Farm was reasonable in demanding an EUO, (2) he had substantially complied with the EUO requirement by providing an appraisal, a sworn proof of loss, two recorded statements, and an affidavit swearing to the truth of those statements, and (3) an EUO would have been a useless act. Downie also argues that his remaining claims should not have been dismissed because they were independent of the contract dispute.
+We review a summary judgment de novo, engaging in the same inquiry as the trial court and viewing all facts and reasonable inferences in the light most favorable to the nonmoving party. Summary judgment is appropriate when the pleadings, affidavits, depositions, and admissions indicate that no genuine issue of material fact is at issue and reasonable minds could reach only one conclusion from the record.
+Downie first argues that an EUO is a condition precedent to filing suit only if it is reasonably required by State Farm. He maintains that reasonableness is a fact question for the jury. State Farm asserts that an EUO is a condition precedent to filing suit regardless of reasonableness, and that it must be reasonable only in the number of EUOs it seeks. We agree with State Farm.
+Although no Washington cases directly address this issue, other jurisdictions have held that a policy provision requiring an EUO can establish a valid condition precedent to filing suit. Refusal to submit to such a provision is a breach of the policy.* ** Downie failed to meet the policy’s valid condition precedent to filing suit; therefore, dismissal was proper.
+The only case Downie cites holding that reasonableness is a fact question is distinguishable because that insured gave the insurer unrestricted access to the property and submitted to an EUO, limiting access only to certain documents the insurer requested. The factual issue in the case was whether the insured complied with the reasonableness standard for document production under a policy’s cooperation clause. While the reasonableness of an insurer’s requests may be relevant to a question of compliance with a general cooperation clause, no court has imposed such a reasonableness requirement when reviewing a policy provision requiring an EUO as a condition precedent to filing suit.
+In his reasonableness argument, Downie asserts that State Farm’s request for an EUO was unreasonable because he substantially complied with the EUO requirement when he cooperated with State Farm’s investigation by submitting a sworn proof of loss and an appraisal and submitting to two recorded statements, each noting that they were true and correct to the best of Downie’s knowledge. We disagree.
+No Washington court has addressed this issue. We agree, however, with the other courts that have. Other courts have held that a recorded interview is not equivalent to an EUO because (1) a recorded statement is unsworn when it is made, (2) insurers in practice do not intend that recorded statements substitute for EUOs, and (3) the policy language allows insurers to conduct multiple interviews
+Downie’s assertion that his actions constituted substantial compliance with the EUO requirement also fails because in each of the cases he relies upon, the insured submitted to at least one EUO In addition, our Supreme Court has stated that while substantial compliance with the provisions of an insurance policy could be sufficient, no substantial compliance existed when an insured did not submit to an EUO or produce documents upon reasonable request The court held:
+While it may be admitted that the examination required of an assured, and the demand for the production of the books and records, should be reasonable as to time and place, it would not seem that the provisions of the policies were substantially complied with on the part of [the] assured by submitting to such an examination (not under oath) and inspection as conducted by [the insurance investigator][]
+Downie also argues that he was excused from the EUO requirement because it would have been a useless act; i.e., it would not reveal any new information. The case Downie relies upon is inapposite. It holds that the performance of a condition precedent may be excused only when the other party is unable to fulfill its obligation under the contract. No evidence suggests that State Farm was unable to fulfill its obligations under the policy.
+Under the plain language of this policy, an EUO is a condition precedent to filing suit. Downie’s refusal to submit to the EUO was a breach of the policy. Moreover, because an EUO is fundamentally different from a recorded statement, the EUO requirement was reasonable and such recorded statements do not constitute substantial compliance with the policy. The trial court did not err in determining that Downie breached a valid condition precedent to filing suit and in granting summary judgment.
+Finally, Downie argues that his CPA claim was separate and should not have been dismissed. He maintains that State Farm violated WAC 284-30-380 by failing to explain why it needed more than 15 days to complete its investigation, and that violation constituted bad faith and an unfair trade practice.
+Downie fails to cite the full text of WAC 284-30-380, which states:
+(3) If the insurer needs more time to determine whether a first party claim should be accepted or denied, it shall so notify the first party claimant within fifteen working days after receipt of the proofs of loss giving the reasons more time is needed. If the investigation remains incomplete, the insurer shall, within [45] days from the date of the initial notification and no later than every [30] days thereafter, send to such claimant a letter setting forth the reasons additional time is needed for investigation.
+The day after Downie filed the proof of loss, State Farm informed him that it could not accept or deny his claim because it had not completed its investigation. The need for additional investigation was a reason for State Farm’s inability to accept or deny within 15 days. Within a month of that letter, State Farm informed Downie that it needed an EUO to complete its investigation. The need for the EUO explained State Farm’s reasons for its ongoing investigation within 45 days. State Farm did not violate the regulation.
+Moreover, while an unreasonable investigation is an unfair trade practice, State Farm’s investigation was not unreasonable. State Farm kept Downie apprised of its investigation through letters and attempted to schedule the EUO at Downie’s convenience. Instead of complying with the policy provisions and submitting to the EUO, Downie immediately filed suit. State Farm’s conduct did not violate the CPA. The trial court did not err in dismissing this claim.
+Affirmed.
+Webster and Agid, JJ., concur.
+Review denied at 132 Wn.2d 1003 (1997).
+Clerk’s Papers at 72.
+State Farm counterclaimed, alleging misrepresentation and seeking recision of the contract; however, those issues are not relevant to this appeal.
+Alternatively, State Farm sought summary judgment for Downie’s failure to comply with the trial court’s earlier discovery order compelling document production or sought an order compelling production. This alternative argument is not at issue on appeal.
+While the summary judgment was without prejudice, the policy’s one-year limitations period precludes Downie from refiling his claim.
+Wilson v. Steinbach, 98 Wn.2d 434, 437, 656 P.2d 1030 (1982).
+Wilson, 98 Wn.2d at 437; CR 56(c).
+See, e.g., United States Fidelity & Guar. Co. v. Wigginton, 964 F.2d 487, 490 (5th Cir. 1992) (EUO was condition precedent even though it incriminated insured in related criminal suit; insured’s violation of EUO condition precedent precludes prejudice requirement); Archie v. State Farm Fire & Cas. Co., 813 P. Supp. 1208, 1212-13 (S.D. Miss. 1992) (agreement to submit to EUO nine months after loss and after filing suit violates spirit and intent of having EUO as condition precedent in policy). We note that some cases require that the insurance company prove that it was prejudiced by the policy violation before it can insist on strict compliance with the policy provisions. Downie improperly raises this issue for the first time in his supplemental authority. We do not consider arguments raised for the first time in a reply brief or in supplemental authority. Cowiche Canyon Conservancy v. Bosley, 118 Wn.2d 801, 809, 828 P.2d 549 (1992). We therefore do not address the prejudice issue.
+Wigginton, 964 F.2d at 490; Archie, 813 F. Supp. at 1212-13.
+Hoekstra v. Farm Bureau Mut. Ins. Co., 382 N.W.2d 100, 104-05 (Iowa 1986).
+Hoekstra, 382 N.W.2d at 105-06.
+Watson v. National Sur. Corp. of Chicago, 468 N.W.2d 448, 450-52, 16 A.L.R.5th11047 (Iowa 1991) (two unsworn interviews with contemporaneous and subsequent verifications that statements were true did not substantially comply with policy and were not equivalent to EUO; refusal of EUO was material breach of policy terms); see also Pervis v. State Farm Fire & Cas. Co., 901 F.2d 944, 946 n.3 (11th Cir. 1990) (delay to avoid incrimination; held that several recorded statements to insurer were not equivalent to EUO expressly required in policy), cert. denied, 498 U.S. 899 (1990); Goldman v. State Farm Fire Gen. Ins. Co., 660 So.2d 300, 301-05 (1995) (insured filed sworn proof of loss, but did not appear for EUO and instead filed suit; held that EUO was a condition precedent to suit so no prejudice to insurer required and recorded statement did not substantially comply with EUO requirement), review denied, 670 So.2d 938 (Fla. 1996).
+Barbour v. St. Paul Fire & Marine Ins. Co., 101 Wash. 46, 47-48, 171 P. 1030 (1918) (court found substantial compliance when insured submitted to EUO, but failed to sign it until after suit filed); High Fashions Hair Cutters v. Commercial Union Ins. Co., 145 A.D.2d 465, 466, 535 N.Y.S.2d 425, 426 (1988) (insured submitted to one EUO, but question existed whether he agreed to another or to produce documents; held substantial performance of EUO provision is sufficient).
+Georgian House of Interiors v. Glens Falls Ins. Co., 21 Wn.2d 470, 482-83, 151 P.2d 598 (1944).
+Georgian House, 21 Wn.2d at 483.
+Dullanty v. Comstock Dev. Corp., 25 Wn. App. 168, 173, 605 P.2d 802 (1980).
+In 1995, after the events at issue in this case, the Legislature amended ROW 48.18.460 to provide that an "insurer may require that the person be examined under an oath administered by a person authorized by state or federal law to administer oaths.”
