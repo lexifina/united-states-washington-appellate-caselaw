@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22715-1-II"
 decided: "1999-01-11"
-citations: ["94 Wash. App. 236", "93 Wash. App. 1051"]
+citations: ["94 Wash. App. 236"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Department of Ecology, Respondent, v. Gary Lundgren, et al., Appe
 source_url: "https://static.case.law/wash-app/94/cases/0236-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83102
-cites_cases: ["118 Wn.2d 761", "122 Wn.2d 397", "130 Wn.2d 1023", "133 Wn.2d 647", "138 Wn.2d 1005", "320 U.S. 277", "33 U.S.C. § 1311", "35 Wn. App. 533", "421 U.S. 658", "553 P.2d 423", "599 P.2d 1271", "667 P.2d 1133", "67 Wn. App. 436", "759 F.2d 1032", "763 F.2d 133", "82 Wn. App. 284", "82 Wn. App. 495", "827 P.2d 275", "836 P.2d 235", "858 P.2d 494", "87 Wn.2d 298", "917 P.2d 1093", "919 P.2d 602", "92 Wn.2d 548", "94 Wn. App. 236", "972 F. Supp. 1056"]
+cites_cases: ["118 Wn.2d 761", "122 Wn.2d 397", "130 Wn.2d 1023", "133 Wn.2d 647", "138 Wn.2d 1005", "320 U.S. 277", "33 U.S.C. § 1311", "35 Wn. App. 533", "421 U.S. 658", "553 P.2d 423", "599 P.2d 1271", "667 P.2d 1133", "67 Wn. App. 436", "759 F.2d 1032", "763 F.2d 133", "82 Wn. App. 284", "82 Wn. App. 495", "827 P.2d 275", "836 P.2d 235", "858 P.2d 494", "87 Wn.2d 298", "917 P.2d 1093", "919 P.2d 602", "92 Wn.2d 548", "972 F. Supp. 1056"]
 ---
 
 # Department of Ecology v. Lundgren
