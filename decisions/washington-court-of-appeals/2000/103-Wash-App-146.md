@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17955-9-III"
 decided: "2000-08-15"
-citations: ["103 Wash. App. 146", "101 Wash. App. 1082"]
+citations: ["103 Wash. App. 146"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James N. Kadmiri, Appellant, v. Darlene L. Claassen, et al., Responde
 source_url: "https://static.case.law/wash-app/103/cases/0146-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102590
-cites_cases: ["103 Wn. App. 146", "120 Wn.2d 246", "122 Wn.2d 299", "132 Wn.2d 193", "142 Wn.2d 1029", "304 P.2d 953", "49 Wn.2d 562", "638 P.2d 566", "72 Wn. App. 632", "840 P.2d 860", "858 P.2d 1054", "865 P.2d 527", "937 P.2d 597", "96 Wn.2d 659"]
+cites_cases: ["120 Wn.2d 246", "122 Wn.2d 299", "132 Wn.2d 193", "142 Wn.2d 1029", "304 P.2d 953", "49 Wn.2d 562", "638 P.2d 566", "72 Wn. App. 632", "840 P.2d 860", "858 P.2d 1054", "865 P.2d 527", "937 P.2d 597", "96 Wn.2d 659"]
 ---
 
 # Kadmiri v. Claassen
