@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10574-4-I; 10575-2-I"
 decided: "1984-02-06"
-citations: ["37 Wash. App. 234", "36 Wash. App. 1065"]
+citations: ["37 Wash. App. 234"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Welfare of Shilow Ott, et al. Willard Ott, Appel
 source_url: "https://static.case.law/wash-app/37/cases/0234-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1785080
-cites_cases: ["100 Wn.2d 1001", "160 Wash. 651", "21 Wn. App. 836", "295 P. 933", "296 P.2d 996", "34 Wn. App. 378", "37 Wn. App. 234", "438 P.2d 205", "48 Wn.2d 802", "513 P.2d 831", "587 P.2d 592", "661 P.2d 996", "664 P.2d 1245", "73 Wn.2d 263", "82 Wn.2d 736", "99 Wn.2d 842"]
+cites_cases: ["100 Wn.2d 1001", "160 Wash. 651", "21 Wn. App. 836", "295 P. 933", "296 P.2d 996", "34 Wn. App. 378", "438 P.2d 205", "48 Wn.2d 802", "513 P.2d 831", "587 P.2d 592", "661 P.2d 996", "664 P.2d 1245", "73 Wn.2d 263", "82 Wn.2d 736", "99 Wn.2d 842"]
 ---
 
 # Ott v. State
