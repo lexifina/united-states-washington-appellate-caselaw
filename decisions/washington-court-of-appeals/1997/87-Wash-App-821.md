@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "36232-1-I"
+decided: "1997-09-08"
+citations: ["87 Wash. App. 821"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Tausha Rene Wooten, Appellant."]
+source_url: "https://static.case.law/wash-app/87/cases/0821-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 565891
+cites_cases: ["101 Wn.2d 591", "108 Wn.2d 1014", "113 Wn.2d 1024", "120 Wn.2d 631", "130 Wn.2d 553", "134 Wn.2d 1021", "47 Wn. App. 1", "510 U.S. 944", "55 Wn. App. 204", "682 P.2d 312", "733 P.2d 584", "777 P.2d 27", "81 Wn. App. 738", "845 P.2d 289", "916 P.2d 445", "925 P.2d 964"]
+---
+
+# State v. Wooten
+
+## Majority (Baker, C.J.)
+
+Baker, C.J.
+Sixteen-year-old Tausha Rene Wooten shot a gun into Shaylee Hansen’s car after Hansen threatened to kill Wooten during a fight. The bullet killed Shawnte Stringer, who was Hansen’s cousin and a passenger in the car. Wooten was charged as an adult without a declination hearing under RCW 13.04.030(1)(e)(iv) with one count of first degree murder and one count of second degree felony murder for Stringer’s death. A jury found Wooten guilty of second degree murder and second degree felony murder.
+Wooten challenges the constitutionality of RCW 13.04.030(1)(e)(iv), and argues that the trial court erred in denying her request for a declination hearing. The supreme court recently upheld the constitutionality of that statute, and further held that a declination hearing is not mandatory when a person over 16 is charged with a serious violent offense. Because Boot is dispositive of this part of Wooten’s appeal, we do not address the issue further.
+Wooten also argues that the trial court erred by (1) ruling that the evidence did not support her requested "no duty to retreat” instruction, (2) excluding expert testimony on gang behavior, and (3) allowing cross-examination about her prior fights. She further argues that the prosecutor committed misconduct in closing argument. Because we hold that the trial court erred by refusing to give Wooten’s "no duty to retreat” instruction, and that the error was not harmless, we reverse and remand for a new trial.
+FACTS
+Hansen drove Stringer to Wooten’s house to look for Robert Stark, a man that both Stringer and Wooten had been dating. Wooten and Hansen engaged in a fight outside of the house. At some point during the fight, Hansen threatened to kill Wooten, telling Wooten that she was going to "smoke” her. Wooten went inside, and Hansen and Stringer returned to Hansen’s car. Wooten came back outside with a gun, approached the car, pointed the gun through the driver’s side window, and fired it. The bullet hit Stringer. Hansen did not believe that Wooten was actually trying to shoot anyone.
+Wooten claimed that the gun belonged to Stark, and that she was not familiar with guns. She explained that the threat to kill her was of great concern because Hansen was involved with gangs and was known to carry guns. She went back outside to try to cool things down so she would not have to fear retaliation. She brought Stark’s gun with her in case she needed to defend herself. Wooten claimed that she saw Hansen reach for what she thought was a gun, so she fired what she intended to be a warning shot.
+ANALYSIS
+"No Duty to Retreat” Instruction
+At trial Wooten argued self-defense. The jury was instructed that self-defense justifies a homicide when "the slayer employed such force and means as a reasonably prudent person would use under the same or similar conditions as they reasonably appeared to the slayer ... at the time of . . . the incident.” Force was defined as necessary when "no reasonably effective alternative . . . appeared to exist and . . . the amount of force used was reasonable to effect the lawful purpose intended, under the circumstances as they reasonably appeared to the actor at the time.” The jury was also instructed that the State had the burden of proving that homicide was not justifiable beyond a reasonable doubt.
+Wooten requested a "no duty to retreat” instruction, stating that a person has no duty to retreat from a place the person has a right to be and that a person may stand bis or her ground and use lawful force to defend against an attack when the person has a reasonable belief that he or she is being attacked. The trial court declined to give the instruction, ruling that such an instruction was not supported by the evidence.
+Wooten argues that the trial court’s refusal to give that instruction prevented her from fully arguing her theory of self-defense and relieved the State of its burden of disproving her defense. She argues that without the instruction, the jury could infer from the other instructions that self-defense was inapplicable because it could conclude that leaving the area where the vehicle was parked would have been more reasonable than her use of force. We agree.
+A defendant is entitled to a "no duty to retreat” instruction when the evidence shows that the defendant was assaulted in a place where he or she had a right to be. A "no duty to retreat” instruction need not be given, however, when it is unnecessary to the defendant’s case theory and when it would be superfluous because the issue of retreat was not raised or the facts show that the defendant was in retreat.
+Although the State’s theory focused on identifying Wooten as the initial aggressor throughout this altercation, Wooten’s theory was self-defense. As in Williams, a "no duty to retreat” instruction was necessary for Wooten to argue that theory. A reasonable jury could have believed Wooten’s testimony that (1) Hansen’s threat meant that she would have been shot in the near future, (2) she thought that it was necessary to return outside to diffuse the situation, and armed herself to do so out of fear of Hansen, and (3) based upon Hansen’s actions at her car, Wooten reasonably believed that Hansen was about to shoot her. But without a "no duty to retreat” instruction, the jury could have concluded that self-defense was nevertheless not applicable because flight was a reasonably effective alternative to Wooten’s use of force. Because such a conclusion was possible, the failure to give this instruction was error.
+Such an error may be harmless if the court is convinced beyond a reasonable doubt that the jury would have reached the same result absent an instructional error, which was trivial, formal or merely academic. As in Williams, because a reasonable juror could have concluded that flight was a reasonable alternative to Wooten’s use of force precluding a finding of self-defense, we hold that the failure to give this instruction was not harmless error. Accordingly, we reverse Wooten’s conviction.
+Because the remainder of this opinion has no precedential value, it will not be published.
+Kennedy and Cox, JJ., concur.
+Reconsideration denied October 14, 1997.
+Review denied at 134 Wn.2d 1021 (1998).
+In re Boot, 130 Wn.2d 553, 557-58, 560-75, 925 P.2d 964 (1996). First and second degree murder are serious violent offenses. RCW 9.94A.030(31)(a).
+See State v. Allery, 101 Wn.2d 591, 598, 682 P.2d 312 (1984) (holding that trial court erred by not giving "no duty to retreat” instruction that was relevant to battered woman’s syndrome claim when defendant testified that she thought she was in danger when she found her husband in her home and he threatened to kill her); State v. Williams, 81 Wn. App. 738, 742-44, 916 P.2d 445 (1996) (holding that trial court erred by not giving "no duty to retreat” instruction because such instruction was necessary when the jury could conclude that flight was reasonably effective alternative to use of force in self-defense).
+State v. Frazier, 55 Wn. App. 204, 207-09, 777 P.2d 27 (holding that trial court did not err by not giving "no duty to retreat” instruction when primary issue was identity of initial aggressor, no evidence was presented that raised retreat issue, self-defense instruction adequately implied lack of such duty, and no argument was made that other instructions were inadequate), review denied, 113 Wn.2d 1024 (1989); State v. Thompson, 47 Wn. App. 1, 5-6, 733 P.2d 584 (holding that "no duty to retreat” instruction unnecessary because defendant; testified that he was retreating), review denied, 108 Wn.2d 1014 (1987); see also State v. Benn, 120 Wn.2d 631, 659, 845 P.2d 289 (holding that trial court did not err by denying "no duty to retreat” instruction that was unsupported by evidence), cert. denied, 510 U.S. 944 (1993).
+We disagree with the State’s contention that the only issue in this case was the identity of the initial aggressor. While the State argued that Wooten’s altercation with Hansen had three distinct phases in which Wooten was always the initial aggressor, Wooten argued that Hansen was the initial aggressor and that she responded to Hansen’s threats in self-defense.
+Williams, 81 Wn. App. at 744.
+Id.
+See RCW 2.06.040; CAR 14.
