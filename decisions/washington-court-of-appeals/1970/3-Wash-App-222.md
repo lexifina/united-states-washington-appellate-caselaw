@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "250-41279-1"
+decided: "1970-08-17"
+citations: ["3 Wash. App. 222"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Croy Construction Co. et al., Appellants, v. Whatcom-Skagit Crane Service, Inc., et al., Respondents."]
+source_url: "https://static.case.law/wash-app/3/cases/0222-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1840892
+cites_cases: ["1 Wn. App. 540", "1 Wn. App. 565", "2 Wn. App. 248", "357 P.2d 725", "373 P.2d 493", "462 P.2d 952", "463 P.2d 207", "463 P.2d 617", "467 P.2d 219", "57 Wn.2d 393", "60 Wn.2d 283", "77 Wn.2d 542"]
+---
+
+# Croy Construction Co. v. Whatcom-Skagit Crane Service, Inc.
+
+## Majority (Swanson, J.)
+
+Swanson, J.
+Croy Construction Co., a corporation, and Wallace W. Croy appeal from that portion of the judgment awarding the respondent John Y. Ryan $5,614.98 on a cross claim for additional salary and a bonus.
+John Ryan, Wallace Croy, and Russell Mehus were the sole shareholders, directors, and officers of Croy Construction Co., a Washington corporation formed in 1957. Each owned one-third of the capital stock. Since the corporation was organized each drew the same salary, and at the end of each year if the condition of the business warranted, the shareholders would vote themselves a bonus and an additional salary. At the corporation meeting on December 31, 1965, the directors set the salaries for the three working shareholders, Croy, Mehus, and Ryan, at $10,400 each, “together with such reasonable bonus as may be determined or adopted by the Board of Directors.” Ryan, the corporation’s president, whose duties included that of being a field construction superintendent, was ill with emphysema much of the time during 1966. His actual time spent on corporation business amounted to only about one-third of the time based on a 40-hour week.
+On December 9, 1966, the board of directors terminated Ryan’s employment as of November 25, 1966. At the annual meeting on February 21, 1967, the salaries of Mehus and Croy were retroactively increased by the board of directors for the prior year (1966) from $10,400 to $13,520. Croy and Mehus were also awarded a bonus of $2,375 each. These increases totaled $10,990, only $10 less than the $11,000 net profit realized by the corporation for 1966. Ryan’s proposal to the board of directors that he be given a like increase in salary and bonus was rejected.
+Ryan complained that he was entitled to be paid for his services in an amount equal to that paid Wallace Croy and Russell Mehus, the other two shareholders in Croy Construction Co. The trial court agreed and determined that John Ryan was entitled to the same salary and bonus paid to Croy and Mehus for 1966, prorated as of December 9, 1966, the date Ryan’s employment was legally terminated by the board of directors.
+Appellants contend the trial court erred in concluding that the corporation owed Ryan a bonus and salary increase equal to that received by Mehus and Croy. They claim any obligation to pay Ryan a bonus should be valued on quantum meruit. Appellants say the court erred in rejecting their proposed finding of fact 7 which would support the result they urge. Finally, appellants assign error to the court’s failure to award attorney’s fees based on the partial recovery in the suit against Whatcom-Skagit Crane Service, Inc. and Margarette Ryan.
+Appellants correctly point out that a corporation’s directors are its executive representatives charged with its management and that the courts will not interfere with the reasonable and honest exercise of the directors’ judgment. Appellants argue that the trial court made no finding of an implied agreement which would bind the corporation to pay Ryan the same sum that it paid to Mehus and Croy.
+Error is not assigned to the court’s findings, and, thus, our review treats them as verities. In re Estate of Rynning, 1 Wn. App. 565, 462 P.2d 952 (1969); York v. Cooper, 60 Wn.2d 283, 373 P.2d 493 (1962); CAROA 43. Moreover, we are unable to review appellants’ proposed finding. A proposed finding will not be reviewed unless error is assigned to the court’s contradictory findings. Sanborn v. Brunswick Corp., 2 Wn. App. 248, 467 P.2d 219 (1970); State ex rel. Bain v. Clallam County Bd. of Comm’rs, 77 Wn.2d 542, 463 P.2d 617 (1970). In short, we are bound by the court’s finding 3, which reads in part as follows:
+That because of the course of dealing between the three stockholders over a period of many years, a pattern was established that each stockholder draw equally as to bonus and salary with the others. That John V. Ryan’s employment was terminated by the Corporation as of the 9th day of December, 1966, and that he is entitled to payment of his salary to that date and a prorata share of the profits to that date, based upon equal annual salaries and bonus for the three stockholders, John V. Ryan, Wallace W. Croy and Russell Mehus.
+This finding adequately supports the court’s legal conclusion of an implied agreement to pay Ryan compensation during the period of his employment. See Johnson v. Whitman, 1 Wn. App. 540, 463 P.2d 207 (1969). We find no error in the court’s conclusion. Nor do we find error in the failure to award appellants attorney’s fees.' The award of such fees rests within the trial court’s discretion. Leppaluoto v. Eggleston, 57 Wn.2d 393, 357 P.2d 725(1960). In rendering its memorandum opinion, the court stated, “[t]he plaintiffs in this action will be denied their request for a reasonable attorney’s fee.” Finding no abuse in this exercise of discretion, we affirm it.
+The judgment is affirmed in all respects.
+James, C. J., and Farris, J:, concur.
+Though the portion of the judgment appealed from awarded Ryan $5,614.98, the appeal involves only $5,214.98, the $400 having been conceded as being due the respondent Ryan by appellants.
+The suit arose by a complaint filed by appellants herein, Croy Construction Co. and Wallace W. Croy, against Whatcom-Skagit Crane Service, Inc., John V. Ryan, Margarette Ryan and Donald Ryan—Croy Construction Co. and Wallace W. Croy being substantial stockholders in Whatcom-Skagit Crane .Service, Inc.—to prevent Whatcom-Skagit Crane Service, Inc. from paying Margarette Ryan $100 per month for her services as president of said corporation, and $300 per month to Donald Ryan (respondent’s son) for his services as manager. The trial court upheld the $300 per month payment to Donald Ryan for managerial services but disallowed and prevented Whatcom-Skagit Crane Service, Inc. from paying $100 per month to Margarette Ryan. No appeal was taken from that portion of the judgment.
+The board of directors actually ordered his termination retroactive to November 25, 1966. However, the retroactive portion of the dismissal was ruled ineffective by- the court, and no error is assigned to such ruling.
+John V. Ryan will be referred to as the sole respondent unless otherwise specifically indicated.
