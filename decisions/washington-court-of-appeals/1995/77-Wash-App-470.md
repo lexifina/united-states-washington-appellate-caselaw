@@ -1,0 +1,36 @@
+---
+court: "Washington Court of Appeals"
+docket: "33297-0-I"
+decided: "1995-04-10"
+citations: ["77 Wash. App. 470"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Lopez Bible, Appellant."]
+source_url: "https://static.case.law/wash-app/77/cases/0470-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 416064
+cites_cases: ["111 Wn.2d 574", "120 Wn.2d 1004", "120 Wn.2d 822", "122 Wn.2d 1008", "127 Wn.2d 1011", "616 P.2d 620", "65 Wn. App. 654", "68 Wn. App. 906", "761 P.2d 621", "829 P.2d 232", "845 P.2d 1017", "847 P.2d 936", "94 Wn.2d 208"]
+---
+
+# State v. Bible
+
+## Majority (Baker, A.C. J.)
+
+Baker, A.C. J.
+Lopez Bible appeals the trial court’s dismissal of his prosecution without prejudice. He argues that the charges against him should have been dismissed with prejudice because the State sought the dismissal to avoid the speedy trial rule and had mismanaged the case. We affirm, because the trial court justifiably based its ruling upon unavailability of necessary witnesses for the prosecution.
+Bible was arrested June 23, 1993, on charges of third degree rape of a child and patronizing a juvenile prostitute. Bible remained in custody after his arrest. Trial was set for August 25. Time would have expired under the speedy trial rule on August 27. On August 12 the State moved to dismiss the charges under CrR 8.3(a), because the State’s principal witnesses had not been located and were believed to have moved out of state. The State acknowledged that the witnesses had moved without being notified of the charges against Bible. The court granted the motion over defense objection, after noting how many days remained within the speedy trial period, as well as the complexity of the case. The trial court also noted "there’s certainly some mismanagement of this case. And I think all of that should be considered should this case be refiled.”
+As both parties acknowledge, an order dismissing a criminal proceeding without prejudice is a final and appeal-able order. State v. Rock, 65 Wn. App. 654, 657-58, 829 P.2d 232, review denied, 120 Wn.2d 1004 (1992). CrR 8.3(a) gives the trial court discretion to dismiss "upon written motion of the prosecuting attorney setting forth the reasons therefor”. A trial court abuses its discretion when its decision is manifestly unreasonable, or is exercised on untenable grounds or for untenable reasons. Cf. State v. Blackwell, 120 Wn.2d 822, 830, 845 P.2d 1017 (1993) (applying CrR 8.3(b)).
+Bible asserts that the court’s dismissal without prejudice was error because the State made its motion for the purpose of avoiding the application of the speedy trial rule. However, all dismissals have the effect of tolling the speedy trial period. CrR 3.3(g)(4). The dismissal cannot be improper merely because of its effect of delaying expiration of the speedy trial period. Otherwise, CrR 8.3(a) would be ineffective.
+At the hearing, the prosecutor stated: "It’s not anticipated that they will be found and be able to be brought back before expiration so the State is at this time moving to dismiss this case without prejudice.” Therefore, it is apparent the State moved for dismissal for two reasons: the unavailability of its principal witnesses and to prevent the running of the speedy trial period.
+Whether the trial court may grant the State’s motion for dismissal without prejudice under CrR 8.3(a) when the reason for the State’s motion is at least in part to avoid application of CrR 3.3 is an issue of first impression in Washington. Rock, 65 Wn. App. at 657. The State argues the court’s power to dismiss without prejudice is contemplated by CrR 3.3(g)(4). That rule provides "[t]he time between the dismissal of a charge and the defendant’s arraignment or rear-raignment in superior court following the refiling of the same charge” is excluded from the speedy trial period. (Italics ours.) CrR 3.3(g)(4). However, as the Supreme Court noted in State v. Edwards, 94 Wn.2d 208, 616 P.2d 620 (1980), avoidance of the speedy trial rule is an inappropriate reason for dismissal without prejudice. See Edwards, 94 Wn.2d at 214. Running of the speedy trial period should not be avoidable by obtaining a dismissal without prejudice before its expiration when that is the sole reason for the dismissal. If interpreted broadly, however, Edwards could void CrR 8.3(a) in its entirety, because a dismissal without prejudice would always have the consequence of interrupting the speedy trial period.
+We hold that a sufficient reason must exist apart from the running of the speedy trial period to justify a dismissal without prejudice under CrR 8.3(a). Our holding gives meaning to both CrR 8.3(a) and CrR 3.3(g)(4). In addition, the trial court must evaluate possible prejudice to the defendant. In this case, the trial court appears to have evaluated possible prejudice by noting the complexity of the case and the time remaining before expiration of the speedy trial period. Because the State gave a legitimate reason for dismissal, the trial court properly exercised its discretion.
+Bible also asserts that dismissal without prejudice was not appropriate in this case because the State could not have obtained a continuance under CrR 3.3(h) because it had not subpoenaed the State’s witnesses, citing State v. Adamski, 111 Wn.2d 574, 761 P.2d 621 (1988). The Adamski court held that a continuance was not warranted where the State failed to exercise due diligence in procuring a witness. Adamski, 111 Wn.2d at 580. However, Adamski is not applicable to this case. The Adamski court was interpreting a juvenile criminal rule which required that the State exercise "due diligence” before a continuance can be granted. CrR 3.3(h)(2), which describes the circumstances under which a continuance may be granted in an adult proceeding, only requires findings that a continuance is necessary for the administration of justice and will not substantially prejudice the defense. CrR 3.3(h)(2). But see State v. Nguyen, 68 Wn. App. 906, 915, 847 P.2d 936 (noting that Adamski requires the State make " 'timely use of the legal mechanisms available to compel the witness’ presence in court’ ” to obtain a continuance under rule 3.3(h)(2) (quoting Adamski, 112 Wn.2d at 579)), review denied, 122 Wn.2d 1008 (1993).
+Affirmed.
+Grosse and Cox, JJ., concur.
+Review denied at 127 Wn.2d 1011 (1995).
+The witnesses referred to are the alleged victim and her mother.
+The State had been trying to contact them since the arraignment.
+Rock argued that a dismissal without prejudice was not available to avoid the expiration of the speedy trial period, and the State’s only avenue should be a continuance under CrR 3.3. However, this court did not decide that issue because Rock had lost his right to appeal. Rock, 65 Wn. App. at 657.
+We note also that Rock does not prevent consideration of due process issues if and when charges are refiled.
+Bible’s contention that "[w]hen a defendant cannot be tried within the speedy trial period, the charges must be dismissed with prejudice” is similarly without merit. The rule requires dismissal only when a charge is not tried within the speedy trial period, not when it "cannot be”. CrR 3.3(i).
