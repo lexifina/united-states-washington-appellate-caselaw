@@ -1,0 +1,47 @@
+---
+court: "Washington Court of Appeals"
+docket: "805-3"
+decided: "1974-06-07"
+citations: ["11 Wash. App. 405"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joe B. Wise et al., Appellants, v. Truck Insurance Exchange et al., Respondents."]
+source_url: "https://static.case.law/wash-app/11/cases/0405-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853775
+cites_cases: ["1 Mich. App. 395", "111 P.2d 983", "136 N.W.2d 704", "142 N.E. 671", "151 N.W.2d 806", "167 P. 73", "170 P.2d 301", "173 Wash. 86", "21 P.2d 1036", "236 Ore. 414", "237 N.Y. 305", "25 Wn.2d 171", "31 A.L.R. 995", "379 Mich. 348", "7 A.L.R. 104", "8 Wn.2d 295", "82 S.D. 522", "98 Wash. 67"]
+---
+
+# Wise v. Truck Insurance Exchange
+
+## Majority (Green, C.J.)
+
+Green, C.J.
+— Plaintiffs, Joe B. and Geraldine Wise, appeal from an order granting a motion for summary judgment dismissing the defendants, Truck Insurance Exchange and Richard and Ardith Jarvis. The propriety of the summary judgment presents the sole issue on appeal. The determination of this issue hinges upon the legal effect of a minor’s disaffirmance of an automobile purchase subsequent to an accident involving the vehicle.
+Viewing the record most favorably to plaintiffs, we note the following essential facts. In mid-May 1969, plaintiffs’ 14-year-old son, Alvin, with his father’s consent, traded his Stingray bicycle to the defendant, Richard Jarvis, for a 1957 Ford station wagon. After the trade, Alvin towed the vehicle with a tractor from the Jarvis farm to the Wise farm where it was parked in a machine shed. Thereafter, Alvin began to “strip it down” for conversion to a dune buggy.
+On May 31, 1969, Alvin and his brother, Keith Wise, were in the machine shed working on the dune buggy. Ricky Jarvis, age 15, the son of defendants Jarvis, was present. Keith Wise asked Ricky to get into the dune buggy and back it up. He got into the dune buggy, turned on the switch and as the vehicle started it simultaneously lurched backwards striking plaintiff, Geraldine Wise. She sustained a broken leg and other injuries.
+Plaintiffs notified their insurer, Truck Insurance Exchange, of the loss and received medical compensation totaling $1,000 under the medical coverage provisions of their policy. On October 15, 1969, Truck Insurance notified plaintiffs that the limits of their coverage had been exhausted and that no further payments could be made for this injury claim. On October 18, 1971, plaintiffs’ attorney wrote Truck Insurance claiming coverage under the uninsured motorist portion of their policy. On October 25, 1971, Truck Insurance denied coverage and stated that because the vehicle belonged to a member of the plaintiffs’ household at the time of the accident, the uninsured motorist provision did not apply.
+On March 7, 1972, plaintiffs commenced this action against defendants Truck Insurance, Richard and Ardith Jarvis, and Richard Jarvis as guardian ad litem for Ricky Jarvis, a minor. On December 21,1972, Truck Insurance and Richard and Ardith Jarvis moved for summary judgment. About 3 days later, plaintiffs’ son, Alvin, tendered $20, the proceeds from his September 1989 sale of the dune buggy, to the defendants Jarvis in disaffirmance of the original trade that occurred in mid-May 1969. The tender was rejected. On the foregoing facts, the trial court granted summary judgment dismissing the movant defendants.
+Plaintiffs contend that when Alvin tendered $20 to the Jarvises in December 1972 and announced his disaffirmance, the trade became void ab initio, i.e., the rights of the parties are to be determined as though the purchase had never taken place. As a result, plaintiffs argue the Jarvises remained at all times the owner of the 1957 Ford station wagon. In that circumstance, plaintiffs assert that (1) Truck Insurance is liable to them under the uninsured motorist provision of its policy; and (2) the Jarvises are liable for the alleged negligence of their son, Ricky, under the family car doctrine. We are unable to agree with plaintiffs’ basic premise.
+RCW 26.28.030 provides:
+A minor is bound, not only by contracts for necessaries, but also by his other contracts, unless he disaffirms them within a reasonable time after he attains his majority, and restores to the other party all money and property received by him by virtue of the contract, and remaining within his control at any time after his attaining his majority.
+(Italics ours.) Construing the predecessor of this provision in Paulson v. McMillan, 8 Wn.2d 295, 111 P.2d 983 (1941), the court said:
+A minor is, therefore, capable of making contracts. They are voidable, but, until avoided by disaffirmance, they are contracts nevertheless. Professor Williston says, in § 231 (p. 687) of his treatise on the law of Contracts (Rev. ed. 1936):
+“Most of the disputed questions in the law of infancy turn upon the legal meaning of the word ‘voidable’ as applied to an infant’s acts. The natural meaning of the word imports a valid act which may be avoided, rather than an invalid act which may be confirmed, and the weight of authority as well as reason point in the same direction.” (Italics ours.)
+[Plainly, our statute so imports, for it says: “A minor is bound . . . by his . . . contracts, . . .”]
+The right to disaffirm is personal to the minor and should not be stretched beyond what his needs, require. 2 Williston on Contracts § 232 (3d ed. 1959). In Snodderly v. Brotherton, 173 Wash. 86, 90, 21 P.2d 1036 (1933), the court observed:
+[Tjhe first consideration of the law, and its, policy is to protect the infant against improvidence and folly, because his mind and judgment are immature.
+Again, the court in Lubin v. Cowell, 25 Wn.2d 171, 185, 170 P.2d 301 (1946), in discussing the effect of a disaffirmance, said:
+[T]he law intends the privilege of infancy simply as a shield to protect the infant from injustice and wrong, and not as a sword to be used to the injury of others.
+This State has not ruled specifically on whether a minor, by disaffirming an automobile purchase can thereby alter the rights of third parties, not in privity to the purchase, arising from an intervening accident. Other jurisdictions have ruled that the legal status of parties involved in an accident is to be determined as of the time of the accident and is unaffected by a subsequent disaffirmance of a minor’s contract, i.e., the status of the parties at the time of the accident exists apart from the enforceability of the minor’s contract. Steenson v. Robinson, 236 Ore. 414, 389 P.2d 27 (1964); Semmens v. Floyd Rice Ford, Inc., 1 Mich. App. 395, 136 N.W.2d 704, 707 (1965); Friedhoff v. Engberg, 82 S.D. 522, 149 N.W.2d 759 (1967); Pokriefka v. Mazur, 379 Mich. 348, 151 N.W.2d 806 (1967).
+Accordingly, we conclude that plaintiffs’ rights under their policy with Truck Insurance were fixed by the status of the vehicle’s ownership on the date of the accident, May 31, 1969, and is unaffected by the minor’s subsequent disaffirmance. On that date plaintiffs’ son, Alvin, a member of their household, was the owner of the vehicle and coverage under the terms of the uninsured motorist provision is expressly excluded. Further, we conclude that the family car doctrine cannot be invoked to create an issue of fact as to the liability of the defendants Jarvis because they neither owned nor controlled the use of the vehicle at the time of the accident. The record is clear that defendants’ son, Ricky, was driving the car at the request of Keith Wise and for no family purpose pertinent to the Jarvises.
+While plaintiffs’ counsel has made a vigorous and valiant effort to persuade this court to hold otherwise, to do so would convert the privilege of infancy from a shield to a sword to be used to the injury of others.
+In view of our holding, it is unnecessary to consider the remaining assignment of error.
+The order granting summary judgment is affirmed.
+Munson and McInturff, JJ., concur.
+Petition for rehearing denied June 28, 1974.
+Review denied by Supreme Court September 25, 1974.
+An “uninsured motor vehicle” does not include “a motor vehicle . . . owned by the named insured or any resident of the same household . . .”
+Plaintiffs rely upon Plummer v. Northern Pac. Ry., 98 Wash. 67, 70, 167 P. 73, 7 A.L.R. 104 (1917), to the effect that a minor’s disaffirmance renders the contract void ab initio. Generally this is true as between the parties to the contract; but, the rule is not strictly applicable in every case. 42 Am. Jur. 2d Infants §§ 94, 95 (1969). Further, Plummer is distinguishable because third-party rights are not involved. As the court in Semmens v. Floyd Rice Ford, Inc., 1 Mich. App. 395, 136 N.W.2d 704, 707 (1965), said in quoting from Justice Pound’s decision in Casey v. Kastel, 237 N.Y. 305, 142 N.E. 671, 673, 31 A.L.R. 995 (1924):
+The fiction of relation whereby, to prevent injustice, an act done at one time is considered to have been done at some antecedent period, should not be utilized to make those who deal with an infant’s property tort-feasors as of a time when they did no wrong. The disaffirmance is retroactive only to the extent that thereafter the parties who have taken or intermeddled the infant’s property are placed in the same position as if the transaction had not been authorized.
