@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36933-4-I"
 decided: "1996-05-13"
-citations: ["82 Wash. App. 640", "81 Wash. App. 1039"]
+citations: ["82 Wash. App. 640"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["National Homeowners Association, Appellant, v. The City of Seattle, e
 source_url: "https://static.case.law/wash-app/82/cases/0640-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043798
-cites_cases: ["101 Wn.2d 68", "119 Wn.2d 1024", "120 Wn.2d 1014", "122 Wn.2d 1014", "127 Wn.2d 1018", "382 P.2d 628", "507 P.2d 898", "62 Wn. App. 530", "62 Wn.2d 324", "634 P.2d 853", "65 Wn. App. 1", "65 Wn. App. 71", "677 P.2d 114", "69 Wn. App. 209", "77 Wn. App. 384", "8 Wn. App. 502", "815 P.2d 790", "82 Wn. App. 640", "828 P.2d 12", "828 P.2d 7", "838 P.2d 690", "847 P.2d 963", "895 P.2d 405", "96 Wn.2d 201"]
+cites_cases: ["101 Wn.2d 68", "119 Wn.2d 1024", "120 Wn.2d 1014", "122 Wn.2d 1014", "127 Wn.2d 1018", "382 P.2d 628", "507 P.2d 898", "62 Wn. App. 530", "62 Wn.2d 324", "634 P.2d 853", "65 Wn. App. 1", "65 Wn. App. 71", "677 P.2d 114", "69 Wn. App. 209", "77 Wn. App. 384", "8 Wn. App. 502", "815 P.2d 790", "828 P.2d 12", "828 P.2d 7", "838 P.2d 690", "847 P.2d 963", "895 P.2d 405", "96 Wn.2d 201"]
 ---
 
 # National Homeowners Ass'n v. City of Seattle
