@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46467-1-I"
 decided: "2001-11-05"
-citations: ["109 Wash. App. 817", "109 Wash. App. 1004"]
+citations: ["109 Wash. App. 817"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Douglas Alan Gohl, Appellant.
 source_url: "https://static.case.law/wash-app/109/cases/0817-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1013892
-cites_cases: ["100 Wn. App. 776", "108 Wn. App. 24", "109 Wn. App. 817", "110 Wn.2d 253", "119 Wn.2d 192", "12 P.3d 603", "125 Wn.2d 769", "142 Wn.2d 165", "146 Wn.2d 1012", "29 P.3d 42", "470 U.S. 856", "616 P.2d 628", "751 P.2d 837", "829 P.2d 1068", "888 P.2d 155", "92 Wn. App. 973", "94 Wn.2d 216", "966 P.2d 394", "998 P.2d 897"]
+cites_cases: ["100 Wn. App. 776", "108 Wn. App. 24", "110 Wn.2d 253", "119 Wn.2d 192", "12 P.3d 603", "125 Wn.2d 769", "142 Wn.2d 165", "146 Wn.2d 1012", "29 P.3d 42", "470 U.S. 856", "616 P.2d 628", "751 P.2d 837", "829 P.2d 1068", "888 P.2d 155", "92 Wn. App. 973", "94 Wn.2d 216", "966 P.2d 394", "998 P.2d 897"]
 ---
 
 # State v. Gohl
