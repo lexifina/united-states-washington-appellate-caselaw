@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31209-0-I"
 decided: "1993-06-21"
-citations: ["70 Wash. App. 659", "70 Wash. App. 1025"]
+citations: ["70 Wash. App. 659"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. J.S., Appellant."]
 source_url: "https://static.case.law/wash-app/70/cases/0659-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1745159
-cites_cases: ["108 Wn.2d 419", "117 Wn.2d 211", "119 Wn.2d 390", "120 Wn.2d 1021", "120 Wn.2d 1030", "600 P.2d 1264", "64 Wn. App. 440", "655 P.2d 1145", "66 Wn. App. 332", "67 Wn. App. 292", "67 Wn. App. 773", "69 Wn. App. 131", "70 Wn. App. 659", "739 P.2d 683", "813 P.2d 1238", "825 P.2d 729", "832 P.2d 481", "832 P.2d 95", "834 P.2d 1051", "841 P.2d 49", "848 P.2d 198", "92 Wn.2d 755", "98 Wn.2d 384"]
+cites_cases: ["108 Wn.2d 419", "117 Wn.2d 211", "119 Wn.2d 390", "120 Wn.2d 1021", "120 Wn.2d 1030", "600 P.2d 1264", "64 Wn. App. 440", "655 P.2d 1145", "66 Wn. App. 332", "67 Wn. App. 292", "67 Wn. App. 773", "69 Wn. App. 131", "739 P.2d 683", "813 P.2d 1238", "825 P.2d 729", "832 P.2d 481", "832 P.2d 95", "834 P.2d 1051", "841 P.2d 49", "848 P.2d 198", "92 Wn.2d 755", "98 Wn.2d 384"]
 ---
 
 # State v. J.S.
