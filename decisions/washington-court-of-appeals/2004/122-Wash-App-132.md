@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29994-1-II"
 decided: "2004-04-27"
-citations: ["122 Wash. App. 132", "121 Wash. App. 1022"]
+citations: ["122 Wash. App. 132"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Raymond Marshall, Appellant."]
 source_url: "https://static.case.law/wash-app/122/cases/0132-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 500033
-cites_cases: ["102 Wn. App. 341", "105 Wn. App. 532", "109 Wn. App. 734", "110 Wn. App. 651", "115 Wn. App. 252", "119 Wn.2d 294", "122 Wn. App. 132", "122 Wn.2d 1", "124 Wn.2d 288", "138 Wn.2d 561", "140 Wn.2d 686", "147 Wn.2d 1", "147 Wn.2d 476", "148 Wn.2d 1001", "149 Wn.2d 724", "150 Wn.2d 1002", "150 Wn.2d 1010", "153 Wn.2d 1001", "2 P.3d 473", "20 P.3d 465", "30 Wn. App. 313", "37 P.3d 325", "41 P.3d 1204", "51 P.3d 73", "55 P.3d 597", "62 P.3d 514", "633 P.2d 933", "7 P.3d 847", "72 P.3d 708", "831 P.2d 1060", "857 P.2d 989", "877 P.2d 680", "980 P.2d 1234"]
+cites_cases: ["102 Wn. App. 341", "105 Wn. App. 532", "109 Wn. App. 734", "110 Wn. App. 651", "115 Wn. App. 252", "119 Wn.2d 294", "122 Wn.2d 1", "124 Wn.2d 288", "138 Wn.2d 561", "140 Wn.2d 686", "147 Wn.2d 1", "147 Wn.2d 476", "148 Wn.2d 1001", "149 Wn.2d 724", "150 Wn.2d 1002", "150 Wn.2d 1010", "153 Wn.2d 1001", "2 P.3d 473", "20 P.3d 465", "30 Wn. App. 313", "37 P.3d 325", "41 P.3d 1204", "51 P.3d 73", "55 P.3d 597", "62 P.3d 514", "633 P.2d 933", "7 P.3d 847", "72 P.3d 708", "831 P.2d 1060", "857 P.2d 989", "877 P.2d 680", "980 P.2d 1234"]
 ---
 
 # In re the Detention of Marshall
