@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12167-7-I"
 decided: "1984-12-17"
-citations: ["39 Wash. App. 895", "39 Wash. App. 1021"]
+citations: ["39 Wash. App. 895"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Golf Landscaping, Inc., Respondent, v. Century Construction Company, 
 source_url: "https://static.case.law/wash-app/39/cases/0895-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1794429
-cites_cases: ["13 Mass. App. Ct. 950", "17 Ga. L. Rev. 761", "25 Cont. Cas. Fed. (CCH) ¶ 82,755", "30 Wn. App. 750", "343 P.2d 183", "369 F.2d 701", "385 N.E.2d 281", "39 Wn. App. 895", "390 P.2d 677", "396 P.2d 879", "412 N.Y.S.2d 589", "431 N.E.2d 594", "436 N.Y.S.2d 724", "45 N.Y.2d 683", "54 Wn.2d 570", "588 F.2d 259", "637 P.2d 998", "644 F.2d 525", "645 P.2d 737", "65 Wn.2d 1", "729 F.2d 743", "79 A.D.2d 383"]
+cites_cases: ["13 Mass. App. Ct. 950", "17 Ga. L. Rev. 761", "25 Cont. Cas. Fed. (CCH) ¶ 82,755", "30 Wn. App. 750", "343 P.2d 183", "369 F.2d 701", "385 N.E.2d 281", "390 P.2d 677", "396 P.2d 879", "412 N.Y.S.2d 589", "431 N.E.2d 594", "436 N.Y.S.2d 724", "45 N.Y.2d 683", "54 Wn.2d 570", "588 F.2d 259", "637 P.2d 998", "644 F.2d 525", "645 P.2d 737", "65 Wn.2d 1", "729 F.2d 743", "79 A.D.2d 383"]
 ---
 
 # Golf Landscaping, Inc. v. Century Construction Co.
