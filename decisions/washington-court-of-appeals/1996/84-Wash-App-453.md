@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "36482-1-I"
+decided: "1996-12-30"
+citations: ["84 Wash. App. 453"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Bellevue, Petitioner, v. Thomas Hard, Respondent."]
+source_url: "https://static.case.law/wash-app/84/cases/0453-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 121622
+cites_cases: ["19 Wn. App. 450", "54 Wn. App. 638", "576 P.2d 408", "73 Wn. App. 666", "774 P.2d 1265", "78 Wn. App. 764", "870 P.2d 1030", "899 P.2d 21"]
+---
+
+# City of Bellevue v. Hard
+
+## Majority (Ellington, J.)
+
+Ellington, J.
+Thomas Hard was found guilty of driving while intoxicated. The district court deferred sentencing upon condition that Hard serve five days in jail and pay a fine. When Hard violated the conditions of his probation, his deferred sentence was revoked, and he was ordered to serve 365 days in jail, with 335 days suspended. Hard argues, and the superior court agreed, that a statute prohibited the district court from ordering him to serve more than the five days in jail the court had initially ordered. The statute Hard relies upon appears to prohibit courts from imposing a sentence greater than the sentence originally imposed if either a deferred or suspended sentence is revoked. But that prohibition necessarily applies only to the revocation of a suspended sentence because, by definition, a deferred sentence is one in which no sentence has been imposed. We therefore reverse the superior court’s decision and reinstate Hard’s sentence.
+FACTS
+Hard was arrested in 1990 for driving while intoxicated. The court deferred prosecution under RCW 10.05, but Hard violated the conditions imposed, so the deferred prosecution was revoked.
+The court found Hard guilty, but deferred sentencing for 12 months upon condition that he serve five days in jail, pay a $624 fine, abstain from alcohol and drugs, report to probation, and submit to urinalysis upon demand. But Hard violated those conditions, too, so in December 1993, the court revoked his deferred sentence and ordered him to serve 365 days in jail. The court suspended 335 days and gave him credit for the five days he had already served, so Hard was to go to jail for 30 days. The court also ordered him to pay a $1,000 fine, suspending $500. Hard’s suspended sentence was conditioned upon his not violating the law, drinking alcohol, taking nonprescribed drugs, or driving without a valid license and insurance. He also was ordered to attend Alcoholics Anonymous meetings twice a week for twelve months, and was to report to jail within ten days of the hearing.
+Hard failed to report to jail and violated other conditions of his suspended sentence, so he was arrested and brought back into court in May 1994. With a new lawyer, he argued that the judge who sentenced him in December 1993 had no authority to sentence him to more than five days in jail, which he claimed was the original sentence imposed. The court, however, explained that no sentence was originally imposed:
+That [the five days in jail] was a term of the grant of probation. That was not the sentence imposed. The sentence that was imposed was actually deferred pursuant to State law. That was deferred for a period of 12 months.
+The judge ordered that Hard be taken into custody.
+Hard appealed the district court’s decision to the superior court. The superior court reversed the decision and held that, by statute, Hard could be sentenced to no more than five days in jail, which Hard had already served, and ordered to pay a fine of no more than $624, $600 of which he had already paid. The City of Bellevue appeals.
+DISCUSSION
+Hard claims the record is clear that when the district court ordered him to serve five days in jail, the judge sentenced him. The City claims the court ordered a deferred sentence, which means that Hard was not sentenced, but rather was adjudged guilty, placed on probation, and ordered to serve five days in jail as a condition of his probation. Therefore, the City argues that when Hard’s deferred sentence was revoked, he could be ordered to serve more than five days in jail and pay a greater fine. We agree.
+RCW 3.66.067 gives district courts the authority to defer sentencing after a defendant has been convicted of a misdemeanor:
+After a conviction, the court may defer sentencing the defendant and place the defendant on probation and prescribe the conditions thereof, but in no case shall it extend for more than two years from the date of conviction. During the time of the deferral, the court may, for good cause shown, permit a defendant to withdraw the plea of guilty and to enter a plea of not guilty, and the court may dismiss the charges.
+RCW 3.66.067. District courts may also impose a sentence, but suspend its execution:
+For a period not to exceed two years after imposition of sentence, the court has continuing jurisdiction and authority to suspend the execution of all or any part of its sentence upon stated terms, including installment payment of fines.
+RCW 3.66.068. Deferred sentences thus are distinguishable from suspended sentences:
+When a sentence has been "suspended,” the court has adjudged the accused guilty of the crime and has passed sentence upon him but has arrested execution or operation of the sentence upon specified conditions. A sentence is "deferred” when the court adjudges the defendant guilty but stays or defers imposition of the sentence and places the person on probation.
+State v. Carlyle, 19 Wn. App. 450, 454, 576 P.2d 408 (1978); see also State v. Parsley, 73 Wn. App. 666, 668 n.1, 870 P.2d 1030 (1994) ("What is commonly called a 'deferred sentence’ is . . . suspension of the imposition of a sentence. . . . The colloquial term 'suspended sentence’ means suspension of the execution of the sentence that has already been imposed.”).
+In this case, sentencing was deferred. The judge specifically stated "I’m going to defer sentence for a period of twelve months[.]” Using a preprinted form, the court ordered that "[sjentence be deferred for a period of 12 months ... on the following conditions,” which included five days in jail and a $624 fine. The court skipped the line of the preprinted form, which stated "[t]he Court sentences the defendant to . . ._days jail and suspends] _days[J”
+But Hard argues that the five days in jail he was ordered to serve was the sentence and, therefore, under RCW 3.66.069, when his deferred sentence was revoked, the court could not order him to serve more time in jail, because he had already served his five days. RCW 3.66.069 allows courts to revoke deferred or suspended sentences, but prohibits them from imposing sentences greater than those originally imposed:
+Deferral of sentence and suspension of execution of sentence may be revoked if the defendant violates or fails to carry out any of the conditions of the deferral or suspension. Upon the revocation of the deferral or suspension, the court may impose the sentence previously suspended or any unexecuted portion thereof. In no case shall the court impose a sentence greater than the original sentence, with credit given for time served and money paid on fine and costs.
+The statute at first appears to be ambiguous because it seems to say that when either a deferred or suspended sentence is revoked, the court may not impose a sentence "greater than the original sentence.” If a statute is ambiguous, the rule of lenity requires the statute to be interpreted most favorably to the defendant. State v. Bernard, 78 Wn. App. 764, 768, 899 P.2d 21 (1995). A statute is ambiguous, though, only if it is susceptible of more than one reasonable interpretation. Bernard, 78 Wn. App. at 768.
+The clear meaning of "deferred sentence” evident from RCW 3.66.067 and case law is that the defendant has been found guilty, but no sentence has been imposed. Thus, with a deferred sentence, there is no "original sentence.” There is only one reasonable way to interpret RCW 3.66.069: the portion that prevents courts from imposing a sentence greater than the "original sentence” must be held to apply only to situations in which a suspended sentence is revoked. The statute, therefore, is not ambiguous and the rule of lenity does not apply. See Bernard, 78 Wn. App. at 768.
+The district court had the authority to make jail time a condition of Hard’s probation, which was what the court did. Therefore, upon revocation of his deferred sentence, Hard could be ordered to serve as much time, when added to the amount of time he had already served, as would equal the maximum term allowed for driving while intoxicated. See Parsley, 73 Wn. App. at 669. The superior court, therefore, erred when it reversed the district court’s judgment and sentence on this basis.
+The decision of the superior court is reversed in relevant part, and the matter is remanded to Bellevue District Court for further proceedings upon the unchallenged remainder of the superior court’s order.
+Baker, C.J., and Armstrong, J. Pro Tem., concur.
+After modification, further reconsideration denied February 4, 1997.
+RCW 10.05.010 allows courts to order defendants to complete alcohol or drug treatment programs, rather than being tried and punished for their offenses, upon certain conditions. See RCW 10.05.010-.170; see also State v. Wright, 54 Wn. App. 638, 640, 774 P.2d 1265 (1989).
+RCW 9.95.210 states that "[i]n the order granting probation and as a condition thereof, the superior court may in its discretion imprison the defendant in the county jail for a period not exceeding one year and may fine the defendant any sum not exceeding the statutory limit for the offense committed, and court costs.”
+The superior court found that Hard did not waive his right to counsel on revocation. The State did not seek review of this finding.
