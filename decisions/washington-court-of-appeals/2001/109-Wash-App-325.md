@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46983-5-I; 46984-3-I"
 decided: "2001-10-29"
-citations: ["109 Wash. App. 325", "108 Wash. App. 1053"]
+citations: ["109 Wash. App. 325"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. A.M., Respondent."]
 source_url: "https://static.case.law/wash-app/109/cases/0325-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1014013
-cites_cases: ["102 Wn.2d 19", "108 Wn. App. 9", "109 Wn. App. 325", "123 Wn.2d 621", "140 Wn.2d 436", "27 P.3d 678", "685 P.2d 557", "869 P.2d 1034", "998 P.2d 282"]
+cites_cases: ["102 Wn.2d 19", "108 Wn. App. 9", "123 Wn.2d 621", "140 Wn.2d 436", "27 P.3d 678", "685 P.2d 557", "869 P.2d 1034", "998 P.2d 282"]
 ---
 
 # State v. A.M.
