@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47315-8-I"
 decided: "2001-10-15"
-citations: ["109 Wash. App. 140", "108 Wash. App. 1038"]
+citations: ["109 Wash. App. 140"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Patricia Miller, Individually and as Guardian, Appellant, v. Ralph A.
 source_url: "https://static.case.law/wash-app/109/cases/0140-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1013847
-cites_cases: ["1 P.3d 1167", "103 Wn.2d 768", "104 Wn. App. 545", "106 Wn.2d 1009", "109 P.2d 307", "109 Wn. App. 140", "112 Wn.2d 216", "118 Wn.2d 1010", "119 Wn.2d 484", "121 Wn.2d 715", "125 Wn.2d 1", "125 Wn.2d 697", "138 Wn.2d 265", "141 Wn.2d 55", "144 Wn.2d 1001", "17 P.3d 661", "17 Wn. App. 214", "25 Wn. App. 324", "26 Wn. App. 477", "299 P.2d 560", "43 Wn. App. 569", "477 U.S. 317", "49 Wn.2d 187", "50 Wn. App. 849", "531 P.2d 299", "562 P.2d 1276", "606 P.2d 283", "614 P.2d 198", "625 P.2d 179", "63 Wn. App. 170", "698 P.2d 77", "7 Wn.2d 111", "719 P.2d 569", "751 P.2d 854", "770 P.2d 182", "817 P.2d 861", "834 P.2d 6", "85 Wn.2d 154", "853 P.2d 1373", "882 P.2d 157", "883 F.2d 269", "887 P.2d 886", "89 Wn.2d 1010", "94 Wn.2d 1014", "979 P.2d 400"]
+cites_cases: ["1 P.3d 1167", "103 Wn.2d 768", "104 Wn. App. 545", "106 Wn.2d 1009", "109 P.2d 307", "112 Wn.2d 216", "118 Wn.2d 1010", "119 Wn.2d 484", "121 Wn.2d 715", "125 Wn.2d 1", "125 Wn.2d 697", "138 Wn.2d 265", "141 Wn.2d 55", "144 Wn.2d 1001", "17 P.3d 661", "17 Wn. App. 214", "25 Wn. App. 324", "26 Wn. App. 477", "299 P.2d 560", "43 Wn. App. 569", "477 U.S. 317", "49 Wn.2d 187", "50 Wn. App. 849", "531 P.2d 299", "562 P.2d 1276", "606 P.2d 283", "614 P.2d 198", "625 P.2d 179", "63 Wn. App. 170", "698 P.2d 77", "7 Wn.2d 111", "719 P.2d 569", "751 P.2d 854", "770 P.2d 182", "817 P.2d 861", "834 P.2d 6", "85 Wn.2d 154", "853 P.2d 1373", "882 P.2d 157", "883 F.2d 269", "887 P.2d 886", "89 Wn.2d 1010", "94 Wn.2d 1014", "979 P.2d 400"]
 ---
 
 # Miller v. Likins
