@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30206-3-II"
 decided: "2004-06-08"
-citations: ["123 Wash. App. 515", "121 Wash. App. 1075"]
+citations: ["123 Wash. App. 515"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Rodney David Clark, Jr., Appe
 source_url: "https://static.case.law/wash-app/123/cases/0515-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1118003
-cites_cases: ["112 Wn.2d 341", "118 Wn.2d 649", "123 Wn. App. 515", "129 Wn.2d 303", "137 Wn.2d 897", "143 Wn.2d 288", "21 P.3d 262", "77 Wn. App. 166", "771 P.2d 332", "78 Wn. App. 593", "827 P.2d 263", "88 Wn. App. 977", "889 P.2d 948", "89 Wn. App. 198", "897 P.2d 1282", "915 P.2d 1080", "947 P.2d 1235", "948 P.2d 394", "976 P.2d 616"]
+cites_cases: ["112 Wn.2d 341", "118 Wn.2d 649", "129 Wn.2d 303", "137 Wn.2d 897", "143 Wn.2d 288", "21 P.3d 262", "77 Wn. App. 166", "771 P.2d 332", "78 Wn. App. 593", "827 P.2d 263", "88 Wn. App. 977", "889 P.2d 948", "89 Wn. App. 198", "897 P.2d 1282", "915 P.2d 1080", "947 P.2d 1235", "948 P.2d 394", "976 P.2d 616"]
 ---
 
 # State v. Clark
