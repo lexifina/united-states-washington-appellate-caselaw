@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26095-2-I"
 decided: "1992-01-27"
-citations: ["64 Wash. App. 755", "63 Wash. App. 1054"]
+citations: ["64 Wash. App. 755"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Joseph Kelley, Appellant."]
 source_url: "https://static.case.law/wash-app/64/cases/0755-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722498
-cites_cases: ["102 Wn.2d 68", "103 Wn.2d 1041", "108 Wn.2d 1023", "112 Wn.2d 193", "116 Wn.2d 1009", "38 Wn. App. 160", "40 Wn. App. 91", "47 Wn. App. 530", "49 Wn. App. 49", "493 U.S. 814", "58 Wn. App. 588", "60 Wn. App. 433", "64 Wn. App. 755", "684 P.2d 692", "684 P.2d 787", "697 P.2d 583", "736 P.2d 680", "742 P.2d 152", "770 P.2d 1027", "794 P.2d 526", "804 P.2d 1271", "805 P.2d 813"]
+cites_cases: ["102 Wn.2d 68", "103 Wn.2d 1041", "108 Wn.2d 1023", "112 Wn.2d 193", "116 Wn.2d 1009", "38 Wn. App. 160", "40 Wn. App. 91", "47 Wn. App. 530", "49 Wn. App. 49", "493 U.S. 814", "58 Wn. App. 588", "60 Wn. App. 433", "684 P.2d 692", "684 P.2d 787", "697 P.2d 583", "736 P.2d 680", "742 P.2d 152", "770 P.2d 1027", "794 P.2d 526", "804 P.2d 1271", "805 P.2d 813"]
 ---
 
 # State v. Kelley
