@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12162-3-III; 11499-6-III"
 decided: "1995-04-20"
-citations: ["77 Wash. App. 882", "77 Wash. App. 1052"]
+citations: ["77 Wash. App. 882"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Stephen J. Twining, Appellant. In t
 source_url: "https://static.case.law/wash-app/77/cases/0882-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 416098
-cites_cases: ["10 Wn. App. 874", "100 Wn.2d 188", "100 Wn.2d 224", "101 Wn.2d 355", "102 Wn.2d 466", "107 Wn.2d 524", "110 Wn.2d 1", "114 Wn.2d 613", "114 Wn.2d 907", "117 Wn.2d 595", "119 Wn.2d 1020", "120 Wn.2d 196", "120 Wn.2d 879", "122 Wn.2d 1", "127 Wn.2d 1018", "14 Wn. App. 74", "364 P.2d 1102", "383 U.S. 107", "45 Wn. App. 706", "470 U.S. 68", "484 U.S. 815", "498 U.S. 1046", "520 P.2d 1397", "538 P.2d 873", "564 P.2d 1154", "58 Wn.2d 846", "64 Wn. App. 948", "65 Wn. App. 255", "664 P.2d 1216", "668 P.2d 571", "668 P.2d 581", "678 P.2d 798", "687 P.2d 1145", "7 A.L.R.5th 1014", "726 P.2d 1036", "730 P.2d 1299", "750 P.2d 245", "77 Wn. App. 882", "790 P.2d 610", "792 P.2d 520", "817 P.2d 850", "828 P.2d 597", "831 P.2d 139", "840 P.2d 172", "846 P.2d 502", "857 P.2d 989", "86 Wn.2d 1009", "88 Wn.2d 639", "99 Wn.2d 735"]
+cites_cases: ["10 Wn. App. 874", "100 Wn.2d 188", "100 Wn.2d 224", "101 Wn.2d 355", "102 Wn.2d 466", "107 Wn.2d 524", "110 Wn.2d 1", "114 Wn.2d 613", "114 Wn.2d 907", "117 Wn.2d 595", "119 Wn.2d 1020", "120 Wn.2d 196", "120 Wn.2d 879", "122 Wn.2d 1", "127 Wn.2d 1018", "14 Wn. App. 74", "364 P.2d 1102", "383 U.S. 107", "45 Wn. App. 706", "470 U.S. 68", "484 U.S. 815", "498 U.S. 1046", "520 P.2d 1397", "538 P.2d 873", "564 P.2d 1154", "58 Wn.2d 846", "64 Wn. App. 948", "65 Wn. App. 255", "664 P.2d 1216", "668 P.2d 571", "668 P.2d 581", "678 P.2d 798", "687 P.2d 1145", "7 A.L.R.5th 1014", "726 P.2d 1036", "730 P.2d 1299", "750 P.2d 245", "790 P.2d 610", "792 P.2d 520", "817 P.2d 850", "828 P.2d 597", "831 P.2d 139", "840 P.2d 172", "846 P.2d 502", "857 P.2d 989", "86 Wn.2d 1009", "88 Wn.2d 639", "99 Wn.2d 735"]
 ---
 
 # In re the Detention of Twining
