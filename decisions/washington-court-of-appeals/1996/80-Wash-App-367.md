@@ -1,0 +1,47 @@
+---
+court: "Washington Court of Appeals"
+docket: "33441-7-I"
+decided: "1996-01-16"
+citations: ["80 Wash. App. 367"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Danny Joseph Johnson, Appellant."]
+source_url: "https://static.case.law/wash-app/80/cases/0337-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 420936
+cites_cases: ["101 Wn.2d 664", "104 Wn.2d 412", "106 Wn.2d 1007", "115 S. Ct. 2004", "115 Wn.2d 1014", "124 Wn.2d 1018", "125 Wn.2d 24", "129 Wn.2d 1016", "397 U.S. 337", "418 A.2d 127", "43 Wn. App. 99", "475 U.S. 1020", "57 Wn. App. 471", "59 Wn. App. 418", "68 Wn. App. 891", "683 P.2d 571", "705 P.2d 1182", "71 Wn. App. 798", "715 P.2d 1148", "78 Wn. App. 717", "788 P.2d 1114", "797 P.2d 514", "798 P.2d 314", "846 P.2d 587", "863 P.2d 85", "881 P.2d 254", "882 P.2d 747", "899 P.2d 1294"]
+---
+
+# State v. Johnson
+
+## Majority (Webster, J.)
+
+Webster, J.
+Danny Johnson appeals his conviction for residential burglary, arguing that the prosecutor’s rebuttal argument invited the jury to draw a negative inference from his exercise of his constitutional right to be present at trial. He also argues that the trial court’s response to a jury inquiry was an erroneous statement of the law, misled the jury, precluded him from arguing his theory of the case, was an improper comment on the evidence, and unduly emphasized the State’s case. We affirm.
+Facts
+On the evening of May 26, 1993, Sharleen Nelson saw the defendant, Johnson, sitting on the steps of her neighbor, David Low. She saw the defendant alternately ram Low’s door and then walk away. He eventually broke down the door, entered Low’s home and came out carrying what Nelson thought might be a cardboard box. When Nelson’s husband drove up, he saw the defendant drop the box and leave. Another neighbor heard banging and swearing and saw someone carry something like a TV out of Low’s house, but lost sight of the perpetrator. He subsequently heard screaming and swearing, similar to what he had heard earlier coming from bushes close to his own home.
+A K-9 officer and his dog tracked the scent from the item that defendant dropped (a microwave) to a nearby blackberry patch, where they found him crouched in the bushes. An officer arrested defendant, who then offered information about a marijuana grow operation if he "could be let off on the burglary.”
+The defendant attended the entire trial and testified as a defense witness, giving the following explanation. He was in Low’s neighborhood looking for drugs, but short of money. An acquaintance, "Sanchez,” told him that a microwave was on a sidewalk near Low’s home and that he would give the defendant drugs if he retrieved it. When he saw Mr. Nelson’s headlights, he became scared, dropped the microwave, and hid in the bushes. When he was apprehended, he offered information about the marijuana operation because he did not want to go to jail for something he did not do. The defendant also testified that he had four prior felony convictions.
+A jury convicted the defendant of residential burglary.
+Discussion
+Prosecutorial Misconduct
+Defendant contends that the prosecutor, in rebuttal argument, impermissibly commented on his exercise of his constitutional right to be present at trial.
+A prosecutor may comment on a witness’s credibility so long as the remarks are based on the evidence and are not a personal opinion. State v. Graham, 59 Wn. App. 418, 427, 798 P.2d 314 (1990). A prosecutor may argue that the evidence does not support the defense theory, id. at 429, and may respond to defense counsel’s arguments. State v. Russell, 125 Wn.2d 24, 87, 882 P.2d 747 (1994), cert. denied, 115 S. Ct. 2004 (1995). A prosecutor is prohibited, however, from arguing unfavorable inferences from the exercise of a constitutional right and may not argue a case in a manner which would chill a defendant’s exercise of such a right. State v. Rupe, 101 Wn.2d 664, 705, 683 P.2d 571 (1984) (comment on possession of legal weapons); State v. Fiallo-Lopez, 78 Wn. App. 717, 728, 899 P.2d 1294 (1995) (comment on the defendant’s failure to testify).
+In State v. Jones, 71 Wn. App. 798, 810, 863 P.2d 85 (1993), review denied, 124 Wn.2d 1018, 881 P.2d 254 (1994), the defendant brought to the trial court’s attention the fact that the prosecutor inadvertently blocked his view of the witness. The prosecutor, in closing argument, contrasted the defendant’s professed love of the child with his demand to see her face during her testimony. Id. at 806. We held that the prosecutor impermissibly invited the jury to draw a negative inference from Jones’s exercise of his constitutional right to confrontation. Id. at 811-12; see also Dyson v. United States, 418 A.2d 127 (D.C. 1980) (prosecutor’s argument that the jury must remember that defendant heard all the testimony and then got up and told his story was an improper attempt to have the jury draw an adverse inference from defendant’s exercise of his constitutional right to confront witnesses).
+Here, the prosecutor began his rebuttal argument with these comments:
+Members of the jury, I would like to submit to you that the one and only witness who had a bird’s eye view of everything that happened, the only one witness that could watch the entire proceeding take place, to fit his testimony to suit the evidence that was entered earlier, and that’s the defendant.
+Before the defendant took the stand, he heard testimony on Wednesday and on Thursday. We retired on Thursday at 3:30. He had all the time from Thursday from 3:30 to Monday, today, at 1:30 to decide what his testimony would be.
+Defendant’s counsel objected and the court sustained the objection. The judge instructed the jury to disregard the comments regarding the sequence of the testimony. The prosecutor continued:
+I would suggest the defendant had fit his testimony, to tailor his testimony to what came before —.
+Defendant’s attorney again objected and the court sustained the objection. The prosecutor again continued:
+Now before the defendant took the stand, it was established that the defendant set down the microwave and then went into the sticker bushes where he was found.
+Before he took the stand, he knew those things — keep in mind those things to account for.
+The trial court found that the statements were an improper personal opinion on defendant’s credibility, but not constitutional error. The court then determined that there was not a substantial likelihood that the comments affected the jury’s verdict.
+The prosecutor’s comments about the defendant’s unique opportunity to be present at trial and hear all the testimony against him impermissibly infringed his exercise of his Sixth Amendment rights to be present at trial and confront witnesses. He did not merely argue inferences from the defendant’s testimony, but improperly focused on the exercise of the constitutional right itself.
+Typically, we examine whether prosecutorial misconduct denied the defendant a fair trial and reverse if there is a substantial likelihood that the comments affected the verdict. State v. Contreras, 57 Wn. App. 471, 473, 788 P.2d 1114 (quoting State v. Traweek, 43 Wn. App. 99, 107-08, 715 P.2d 1148, review denied, 106 Wn.2d 1007 (1986)), review denied, 115 Wn.2d 1014, 797 P.2d 514 (1990). When a prosecutor’s comments also affect a separate constitutional right, they are subject to the stricter standard of constitutional harmless error. Id. Constitutional error is harmless only if the untainted evidence is so overwhelming that it necessarily leads to a finding of guilt. Jones, 71 Wn. App. at 812; State v. Guloy, 104 Wn.2d 412, 426, 705 P.2d 1182 (1985), cert. denied, 475 U.S. 1020 (1986). In determining whether the evidence is overwhelming, we examine whether the defendant’s credibility was at issue because he testified and whether his exculpatory story was plausible. State v. Bagwell, 68 Wn. App. 891, 893, 846 P.2d 587 (1993).
+Here, the evidence against defendant is overwhelming. Ms. Nelson saw him break down Low’s door, enter Low’s home, and exit the house carrying a box-like object. Her husband saw him drop it. Another neighbor saw him inside Low’s home and, soon after that, heard screams from the bushes. The police K-9 unit tracked directly from the microwave to the bushes where defendant was hiding. Defendant offered to make a deal with the police if he could "be let off on the burglary.” Defendant’s credibility was at issue because he testified. However, his exculpatory story is implausible given the sequence and timing of the events described by the eyewitnesses. The prosecutor’s remarks, although improper, constitute harmless error.
+The remainder of this opinion has no precedential value. Therefore, it will be filed for public record in accordance with the rules governing unpublished opinions.
+Becker and Ellington, JJ., concur.
+Review denied at 129 Wn.2d 1016 (1996).
+The Sixth Amendment to the United States Constitution provides in part that "[i]n all criminal prosecutions, the accused shall enjoy the right ... to be confronted with the witnesses against him . . . .” The confrontation clause includes the right to be present at trial. Illinois v. Allen, 397 U.S. 337, 338, 90 S. Ct. 1057, 25 L. Ed. 2d 353 (1970). Defendant does not raise any distinct state constitutional issues.
