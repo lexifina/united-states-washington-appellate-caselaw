@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40593-4-I"
 decided: "1998-11-30"
-citations: ["93 Wash. App. 154", "93 Wash. App. 1016"]
+citations: ["93 Wash. App. 154"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
