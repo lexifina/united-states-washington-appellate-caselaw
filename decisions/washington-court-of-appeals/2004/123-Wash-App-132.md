@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "22813-4-III"
+decided: "2004-09-02"
+citations: ["123 Wash. App. 132"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carl J. Sperr, Appellant, v. The City of Spokane, Respondent."]
+source_url: "https://static.case.law/wash-app/123/cases/0132-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1117940
+cites_cases: ["100 Wn. App. 7", "114 Wn. App. 325", "125 Wn.2d 243", "136 Wn.2d 595", "49 Wn. App. 842", "57 P.3d 307", "746 P.2d 320", "884 P.2d 592", "963 P.2d 869", "994 P.2d 857"]
+---
+
+# Sperr v. City of Spokane
+
+## Majority (Schultheis, J.)
+
+Schultheis, J.
+An agency has a duty to disclose public records upon request under the public records act, RCW 42.17.250-.348, absent a specific exemption. Limstrom v. Ladenhurg, 136 Wn.2d 595, 604, 963 P.2d 869 (1998). Carl Sperr seeks access to the Spokane police department computer files so he can personally search for any information regarding his alleged patronage of prostitutes. In an order on a motion for summary judgment, the superior court dismissed his suit alleging violation of the public records act (the Act). He now appeals, contending the Act authorizes direct inspection of his police records via the police department computer. We find that the City of Spokane did not deny Mr. Sperr the right to inspect a public document, because the public document in question does not exist. Consequently, we affirm.
+Facts
+Mr. Sperr first contacted the Spokane police department records unit in late 1998 and asked to view his criminal history records. Michael Busby, the manager of the records unit, told Mr. Sperr there were no notations of arrests in the records. In April 1999, after further requests from Mr. Sperr, Mr. Busby gave him several reports associated with his name. None of these reports involved investigations of Mr. Sperr’s criminal activities. Most were complaints filed by Mr. Sperr and one was a request for release of his police records to the Big Brother and Sister organization.
+In a letter Mr. Sperr wrote to the records unit in May 1999, he claimed that he unknowingly picked up a police officer’s son at a known site for prostitution in the early 1990s. The son allegedly warned that his father would “make it rough” on Mr. Sperr. Clerk’s Papers (CP) at 78. In Mr. Sperr’s opinion, the Spokane police were now harassing him due to that earlier contact with the officer’s son.
+Mr. Sperr was fired from his job at U.S. West Communications in August 1999. Although he admitted he was terminated due to performance problems, he filed a complaint against U.S. West and the city in May 1999. The complaint refers to his allegations of police harassment:
+Plaintiff alleges: The Spokane Police Department approached my employer, US West Communications and requested I be fired because of alleged prostitution. US West agreed to do so, but being union they would have to find the right reason in order to do so. This involved an officer’s son. Because I was never arrested or charged with this, I feel I cannot be held accountable for this. In addition, this occurred in the neighborhood of 8 to 9 years ago, no money changed hands and there was no sexual contact between us of any kind. Therefore, I charge invasion of privacy by both the Spokane Police Department and US West Communications in addition to defamation of character because I was never charged or arrested.
+CP at 82. This first complaint was dismissed on summary judgment.
+Mr. Sperr later obtained a handwritten note from the U.S. West security file dated May 5, 1999 that stated:
+Talked to an unnamed officer at the Spokane Police dept.
+—He ran Carl’s name and found he had been picked up for prostitution at the Greyhound bus station in 97. He has been handled several times for being in areas where “male prostitutes” frequent.
+—Nothing current on file in their computer.
+CP at 87. Mr. Sperr then filed suit in federal court requesting the court to order Spokane County to allow him to personally inspect his criminal history files. Noting that the handwritten note from the U.S. West security file did not even identify Mr. Sperr conclusively, the district court judge found insufficient facts to support the suit and granted the city’s motion for summary judgment dismissal in January 2002. Mr. Sperr’s motion to inspect the police files was also denied.
+In May 2003, Mr. Sperr filed a complaint in Spokane County Superior Court against the city and the county alleging he was denied his right to inspect or copy his police file. He filed an amended complaint in September 2003 requesting $500 in damages. In October 2003, the trial court granted the city’s motion for summary judgment dismissal with prejudice. Mr. Sperr’s notice for direct review to the Washington Supreme Court was transferred to this court in March 2004.
+Public Access to the Police Department Computer
+In an appellant’s brief devoid of citation to authority beyond reference to the Act, Mr. Sperr contends he is entitled to access the police department computer to run his own search for police records. He argues that the Act unambiguously provides the right to “access” public records, which includes the right to search files for those records. RCW 42.17.010(11). We review all agency actions challenged under the Act de novo. RCW 42.17.340(3); Progressive Animal Welfare Soc’y v. Univ. of Wash., 125 Wn.2d 243, 252, 884 P.2d 592 (1994). Because this case was decided on summary judgment, we examine whether disputed issues of material fact exist and whether the city was entitled to judgment as a matter of law. Smith v. Okanogan County, 100 Wn. App. 7, 11, 994 P.2d 857 (2000).
+The purpose of the Act is to provide “full access to information concerning the conduct of government on every level... as a fundamental and necessary precondition to the sound governance of a free society.” RCW 42.17.010(11). “The public records portion of the act, RCW 42.17.250 -.348, requires all state and local agencies to disclose any public record upon request, unless it falls within certain specific enumerated exemptions.” King County v. Sheehan, 114 Wn. App. 325, 335, 57 P.3d 307 (2002); RCW 42.17.260(1). The requested record must be made available “for public inspection and copying.” RCW 42.17.260(1). A police department is an “agency” subject to the provisions of the Act. RCW 42.17.020(1).
+Public records subject to inspection under the Act include (1) any writings (2) that contain information related to the “conduct of government or the performance of any governmental or proprietary function” and (3) that are “prepared, owned, used, or retained by any state or local agency regardless of physical form or characteristics.” RCW 42.17.020(36). Police computer files on citizens are public records subject to inspection except to the extent that they are exempted under the Act. Hudgens v. City of Renton, 49 Wn. App. 842, 845-46, 746 P.2d 320 (1987); RCW 42.17.020(36).
+The problem with Mr. Sperr’s argument is that he has no right to inspect or copy records that do not exist. An agency has no duty to create or produce a record that is nonexistent. Smith, 100 Wn. App. at 13-14. Just as the Act does not provide “a right to citizens to indiscriminately sift through an agency’s files in search of records or information which cannot be reasonably identified or described to the agency,” Limstrom, 136 Wn.2d at 605 n.3, the Act does not authorize indiscriminate sifting through an agency’s files by citizens searching for records that have been demonstrated not to exist. Mr. Busby, the manager of the city’s police records unit, sent Mr. Sperr every file that included his name and the results of all computer searches of various databases that might contain other police records. Neither interstate nor intrastate criminal information databases contained references to Mr. Sperr.
+Strictly speaking, the city did not deny Mr. Sperr an opportunity to inspect or copy a public record, RCW 42.17.340(1), because the public record he sought did not exist. Consequently, this court has no agency action to review under the Act. Because there is no remaining issue of material fact and the city was entitled to judgment as a matter of law, the trial court did not err in granting summary judgment dismissal of Mr. Sperr’s suit. Smith, 100 Wn. App. at 11.
+Affirmed.
+Kato, C.J., and Brown, J., concur.
+Reconsideration denied September 17, 2004.
+Although the record does not explain why Mr. Sperr filed the complaint three months before he was terminated, we assume U.S. West gave him notice in either April or May 1999.
+The county was not a named party in the lawsuit, but Mr. Sperr asserted it should be treated as a party because the county maintains the police records for the city.
