@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18747-7-II"
 decided: "1996-05-17"
-citations: ["82 Wash. App. 355", "81 Wash. App. 1044"]
+citations: ["82 Wash. App. 355"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ronald C. Foss, et al., Respondents, v. The Department of Corrections
 source_url: "https://static.case.law/wash-app/82/cases/0355-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043765
-cites_cases: ["103 Wn.2d 249", "103 Wn.2d 663", "104 Wn.2d 181", "109 Wn.2d 107", "113 Wn.2d 612", "125 Wn.2d 745", "130 Wn.2d 1023", "23 Wn. App. 366", "26 Wn. App. 224", "28 Wn. App. 884", "359 P.2d 151", "384 P.2d 608", "400 P.2d 72", "426 U.S. 341", "441 U.S. 520", "519 P.2d 985", "529 P.2d 1058", "57 Wn.2d 651", "585 P.2d 71", "597 P.2d 914", "609 P.2d 1348", "612 P.2d 436", "62 Wn.2d 790", "626 P.2d 1017", "635 F. Supp. 543", "643 P.2d 426", "65 Wn.2d 827", "658 P.2d 648", "692 P.2d 793", "694 P.2d 641", "704 P.2d 140", "744 P.2d 1032", "750 P.2d 254", "782 P.2d 1002", "82 Wn. App. 355", "83 Wn.2d 498", "84 Wn.2d 858", "888 P.2d 147", "90 Wn.2d 476", "92 Wn.2d 1026", "93 Wn.2d 277", "94 Wn .2d 1014", "97 Wn.2d 215", "98 Wn.2d 690"]
+cites_cases: ["103 Wn.2d 249", "103 Wn.2d 663", "104 Wn.2d 181", "109 Wn.2d 107", "113 Wn.2d 612", "125 Wn.2d 745", "130 Wn.2d 1023", "23 Wn. App. 366", "26 Wn. App. 224", "28 Wn. App. 884", "359 P.2d 151", "384 P.2d 608", "400 P.2d 72", "426 U.S. 341", "441 U.S. 520", "519 P.2d 985", "529 P.2d 1058", "57 Wn.2d 651", "585 P.2d 71", "597 P.2d 914", "609 P.2d 1348", "612 P.2d 436", "62 Wn.2d 790", "626 P.2d 1017", "635 F. Supp. 543", "643 P.2d 426", "65 Wn.2d 827", "658 P.2d 648", "692 P.2d 793", "694 P.2d 641", "704 P.2d 140", "744 P.2d 1032", "750 P.2d 254", "782 P.2d 1002", "83 Wn.2d 498", "84 Wn.2d 858", "888 P.2d 147", "90 Wn.2d 476", "92 Wn.2d 1026", "93 Wn.2d 277", "94 Wn .2d 1014", "97 Wn.2d 215", "98 Wn.2d 690"]
 ---
 
 # Foss v. Department of Corrections
