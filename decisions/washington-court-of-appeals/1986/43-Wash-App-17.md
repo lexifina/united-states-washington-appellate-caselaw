@@ -1,0 +1,33 @@
+---
+court: "Washington Court of Appeals"
+docket: "7155-0-II"
+decided: "1986-02-21"
+citations: ["43 Wash. App. 17"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Lawrence A. Bishop, Appellant."]
+source_url: "https://static.case.law/wash-app/43/cases/0017-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1806188
+cites_cases: ["32 Wn. App. 764", "466 U.S. 109", "650 P.2d 228"]
+---
+
+# State v. Bishop
+
+## Majority (Petrich, J.)
+
+Petrich, J.
+Lawrence Bishop appeals his conviction for unlawful possession of a controlled substance, contending the trial court erred in denying the motion to suppress heroin seized from inside the mouthpiece of a telephone in his hospital room. He raises two issues on appeal: (1) whether the reopening of folded packets and the chemical analysis of their contents by the police impermissibly expanded the search and seizure of these items by the hospital's security personnel, and thus required suppression under the Fourth Amendment; and (2) whether Bishop has standing to challenge the search based on a legitimate expectation of privacy in the telephone in his hospital room.
+We conclude that Bishop's Fourth Amendment rights were not violated because the police did not intrude into any protected area and were lawfully in possession of the packets; they did not exceed the scope of the private search in reopening the packets that the security personnel had previously opened; chemical analysis of the heroin did not invade any legitimate expectation of privacy; and destruction of a small portion of the substance in the process of chemical analysis was reasonable. This conclusion precludes the necessity of determining whether Bishop had any legitimate expectation of privacy in the telephone instrument in his hospital room, and we affirm.
+Lawrence Bishop was seriously injured at work in a fall from a building on June 3, 1981. As part of his inpatient treatment at St. Joseph's Hospital in Tacoma, he was receiving medication, including morphine, valium, and methadone.
+On June 9, 1981, the charge nurse on Bishop's unit detected a heavy odor of alcohol in his room. She noticed that Bishop appeared to be hiding the telephone underneath his bedcovers. She became concerned that Bishop might be ingesting alcohol along with the medication he was receiving. One of the staff members called hospital security personnel, who came to Bishop's room. They searched the room and found four small paper packets inside the mouthpiece of the telephone. One of them opened the folded papers and saw a powdery substance.
+The security personnel called the Tacoma Police Department and gave the packets to an officer when he arrived at the hospital. Without first obtaining a search warrant, the police officer opened the packets and then sent them on to a laboratory for analysis. The packets contained 3.7 grams of heroin.
+Bishop was charged with unlawful possession of a controlled substance. The court denied the motion to suppress the heroin evidence, concluding that the security guard was a private individual, not acting at the behest of the Tacoma Police Department, and that Bishop had no reasonable expectation of privacy in the hospital's telephone or its contents. Bishop was convicted and given a 5-year deferred sentence.
+Our decision is controlled by United States v. Jacobsen, 466 U.S. 109, 80 L. Ed. 2d 85, 104 S. Ct. 1652 (1984). There, employees of a private freight carrier had opened a package which had been damaged by a forklift. Upon finding a powdery substance in four plastic bags concealed in a tube inside the package, the employees placed the bags and the tube back into the box and notified agents of the Drug Enforcement Administration (DEA). Without first obtaining a warrant, DEA agents reopened the package and sent the substance to a laboratory for analysis. Justice Stevens concluded for the majority that, although defendants had a Fourth Amendment interest in the contents of the shipped package, the search and seizure were proper. The DEA agents were lawfully in possession of the bags because the private parties who had turned over the bags to them were not acting as agents of the government or with participation or knowledge of a government official. Further, the search did not extend the scope of the prior private search because removal of the contents would not enable the police to learn more than had the private parties in their initial search. Although the agents did expand the scope of the private search when they sent the powder for analysis, the Court concluded that no Fourth Amendment privacy interest was invaded by mere testing to determine the identity of the substance. Finally, the Court concluded that the destruction of a small amount of the powder during the chemical analysis had only a minimal impact on any property interest; the seizure was reasonable.
+We are unable to distinguish the facts before us from those of United States v. Jacobsen, supra. Here, police were in lawful possession of the four packets which had been turned over to them by the private security guards. Bishop does not contest the court's finding that the security guards were not acting at the behest of the police. Because the security guards had opened the packets and had seen the white powder before refolding and turning the packets over to the police officer, the officer did not extend the scope of the private search by reopening them and himself observing the powder. No legitimate expectation of privacy was compromised when the officer sent the powder to a laboratory for analysis. Finally, the destruction of part of the substance during the chemical test was a reasonable, minimal intrusion on possessory interests.
+In State v. Morgan, 32 Wn. App. 764, 650 P.2d 228 (1982), cited in Bishop's brief on appeal, we concluded that the police had violated defendants' Fourth Amendment rights by failing to obtain a warrant before reopening a package that had been opened and examined by a private courier. We here reach a contrary decision based on United States v. Jacobsen, supra.
+To the extent that State v. Morgan, supra, is inconsistent with our decision in this case, it is overruled.
+Judgment affirmed.
+Worswick, C.J., and Alexander, J., concur.
+In his brief, Bishop did not challenge the search and seizure on the basis of the Washington Constitution. He relied on State v. Morgan, 32 Wn. App. 764, 650 P.2d 228 (1982), a case based on the Fourth Amendment. We therefore do not consider the propriety of this search under the Washington Constitution.
