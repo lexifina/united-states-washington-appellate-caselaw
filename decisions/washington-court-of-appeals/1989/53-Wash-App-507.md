@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20918-3-I; 20968-0-I"
 decided: "1989-01-17"
-citations: ["53 Wash. App. 507", "53 Wash. App. 1030"]
+citations: ["53 Wash. App. 507"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lorelei P. Stevens, Appellant, v. Security Pacific Mortgage Corporati
 source_url: "https://static.case.law/wash-app/53/cases/0507-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764220
-cites_cases: ["10 Wn. App. 765", "102 Wn.2d 30", "103 Wn.2d 1019", "105 Wn.2d 1015", "111 Wn.2d 76", "112 Wn.2d 1023", "19 Wn. App. 89", "34 Wn. App. 192", "343 P.2d 183", "35 Wn. App. 99", "38 Wn. App. 921", "407 P.2d 434", "42 Wn. App. 269", "42 Wn. App. 491", "424 P.2d 901", "48 Wn. App. 172", "49 Wn. App. 564", "52 Wn. App. 75", "520 P.2d 173", "53 Wn. App. 507", "54 Wn.2d 570", "545 P.2d 1193", "573 P.2d 1355", "638 P.2d 1245", "645 P.2d 693", "649 P.2d 828", "656 P.2d 473", "660 P.2d 274", "664 P.2d 1250", "666 P.2d 899", "67 Wn.2d 268", "686 P.2d 465", "691 P.2d 581", "70 Wn.2d 578", "711 P.2d 361", "713 P.2d 116", "738 P.2d 312", "744 P.2d 1085", "757 P.2d 523", "757 P.2d 997", "86 Wn.2d 432", "90 Wn.2d 1017", "96 Wn.2d 722", "97 Wn.2d 412", "97 Wn.2d 753", "98 Wn.2d 410", "99 Wn.2d 828"]
+cites_cases: ["10 Wn. App. 765", "102 Wn.2d 30", "103 Wn.2d 1019", "105 Wn.2d 1015", "111 Wn.2d 76", "112 Wn.2d 1023", "19 Wn. App. 89", "34 Wn. App. 192", "343 P.2d 183", "35 Wn. App. 99", "38 Wn. App. 921", "407 P.2d 434", "42 Wn. App. 269", "42 Wn. App. 491", "424 P.2d 901", "48 Wn. App. 172", "49 Wn. App. 564", "52 Wn. App. 75", "520 P.2d 173", "54 Wn.2d 570", "545 P.2d 1193", "573 P.2d 1355", "638 P.2d 1245", "645 P.2d 693", "649 P.2d 828", "656 P.2d 473", "660 P.2d 274", "664 P.2d 1250", "666 P.2d 899", "67 Wn.2d 268", "686 P.2d 465", "691 P.2d 581", "70 Wn.2d 578", "711 P.2d 361", "713 P.2d 116", "738 P.2d 312", "744 P.2d 1085", "757 P.2d 523", "757 P.2d 997", "86 Wn.2d 432", "90 Wn.2d 1017", "96 Wn.2d 722", "97 Wn.2d 412", "97 Wn.2d 753", "98 Wn.2d 410", "99 Wn.2d 828"]
 ---
 
 # Stevens v. Security Pacific Mortgage Corp.
