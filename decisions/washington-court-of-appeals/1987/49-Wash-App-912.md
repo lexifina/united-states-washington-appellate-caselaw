@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10449-7-I"
 decided: "1987-10-12"
-citations: ["49 Wash. App. 912", "49 Wash. App. 1043"]
+citations: ["49 Wash. App. 912"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Clarence A. Rigsby, Appellant
 source_url: "https://static.case.law/wash-app/49/cases/0912-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739067
-cites_cases: ["107 S. Ct. 80", "108 Wn.2d 579", "24 Wn. App. 426", "27 Wn. App. 498", "31 Wn. App. 254", "31 Wn. App. 330", "31 Wn. App. 589", "36 Wn. App. 42", "39 Wn. App. 723", "395 U.S. 238", "397 U.S. 358", "404 U.S. 257", "426 U.S. 637", "459 U.S. 852", "49 Wn. App. 912", "554 P.2d 1032", "564 P.2d 799", "601 P.2d 969", "607 P.2d 845", "618 P.2d 1034", "622 P.2d 360", "640 P.2d 737", "641 P.2d 722", "643 P.2d 914", "662 P.2d 836", "671 P.2d 793", "695 P.2d 596", "741 P.2d 983", "742 F.2d 173", "781 F.2d 1380", "87 Wn.2d 501", "88 Wn.2d 579", "93 L. Ed. 2d 35", "93 Wn.2d 148", "95 Wn.2d 203", "99 Wn.2d 309"]
+cites_cases: ["107 S. Ct. 80", "108 Wn.2d 579", "24 Wn. App. 426", "27 Wn. App. 498", "31 Wn. App. 254", "31 Wn. App. 330", "31 Wn. App. 589", "36 Wn. App. 42", "39 Wn. App. 723", "395 U.S. 238", "397 U.S. 358", "404 U.S. 257", "426 U.S. 637", "459 U.S. 852", "554 P.2d 1032", "564 P.2d 799", "601 P.2d 969", "607 P.2d 845", "618 P.2d 1034", "622 P.2d 360", "640 P.2d 737", "641 P.2d 722", "643 P.2d 914", "662 P.2d 836", "671 P.2d 793", "695 P.2d 596", "741 P.2d 983", "742 F.2d 173", "781 F.2d 1380", "87 Wn.2d 501", "88 Wn.2d 579", "93 L. Ed. 2d 35", "93 Wn.2d 148", "95 Wn.2d 203", "99 Wn.2d 309"]
 ---
 
 # State v. Rigsby
