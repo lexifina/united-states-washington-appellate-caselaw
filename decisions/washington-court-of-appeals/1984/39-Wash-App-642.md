@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13449-3-I"
 decided: "1984-12-31"
-citations: ["39 Wash. App. 642", "39 Wash. App. 1037"]
+citations: ["39 Wash. App. 642"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jerrold W. Smith, Appellant."
 source_url: "https://static.case.law/wash-app/39/cases/0642-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1794208
-cites_cases: ["102 Wn.2d 432", "17 Wn. App. 153", "18 Wn. App. 740", "267 U.S. 498", "378 U.S. 108", "39 Wn. App. 642", "393 U.S. 410", "438 U.S. 154", "457 U.S. 1137", "462 U.S. 213", "501 P.2d 603", "561 P.2d 701", "567 P.2d 1136", "572 P.2d 1102", "573 P.2d 1325", "639 P.2d 743", "688 P.2d 136", "7 Wn. App. 631", "88 Wn.2d 899", "89 Wn.2d 1001", "89 Wn.2d 467", "96 Wn.2d 962"]
+cites_cases: ["102 Wn.2d 432", "17 Wn. App. 153", "18 Wn. App. 740", "267 U.S. 498", "378 U.S. 108", "393 U.S. 410", "438 U.S. 154", "457 U.S. 1137", "462 U.S. 213", "501 P.2d 603", "561 P.2d 701", "567 P.2d 1136", "572 P.2d 1102", "573 P.2d 1325", "639 P.2d 743", "688 P.2d 136", "7 Wn. App. 631", "88 Wn.2d 899", "89 Wn.2d 1001", "89 Wn.2d 467", "96 Wn.2d 962"]
 ---
 
 # State v. Smith
