@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34116-2-I"
 decided: "1995-05-01"
-citations: ["78 Wash. App. 115", "77 Wash. App. 1067"]
+citations: ["78 Wash. App. 115"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Calvin Kuhlman, Appellant, v. Harry Thomas, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/78/cases/0115-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 426131
-cites_cases: ["100 Wn.2d 643", "100 Wn.2d 660", "103 S. Ct. 570", "106 Wn.2d 290", "106 Wn.2d 855", "113 S. Ct. 186", "114 Wn.2d 271", "121 Wn.2d 1003", "402 U.S. 313", "502 P.2d 1252", "548 P.2d 1085", "656 P.2d 1030", "67 Wn. App. 328", "673 P.2d 610", "674 P.2d 165", "681 F.2d 1199", "7 Wn. App. 801", "721 P.2d 511", "726 P.2d 1", "78 Wn. App. 115", "787 P.2d 562", "81 Wn.2d 1011", "835 P.2d 239", "87 Wn.2d 6", "871 F.2d 1279", "896 F.2d 979", "98 Wn.2d 434"]
+cites_cases: ["100 Wn.2d 643", "100 Wn.2d 660", "103 S. Ct. 570", "106 Wn.2d 290", "106 Wn.2d 855", "113 S. Ct. 186", "114 Wn.2d 271", "121 Wn.2d 1003", "402 U.S. 313", "502 P.2d 1252", "548 P.2d 1085", "656 P.2d 1030", "67 Wn. App. 328", "673 P.2d 610", "674 P.2d 165", "681 F.2d 1199", "7 Wn. App. 801", "721 P.2d 511", "726 P.2d 1", "787 P.2d 562", "81 Wn.2d 1011", "835 P.2d 239", "87 Wn.2d 6", "871 F.2d 1279", "896 F.2d 979", "98 Wn.2d 434"]
 ---
 
 # Kuhlman v. Thomas
