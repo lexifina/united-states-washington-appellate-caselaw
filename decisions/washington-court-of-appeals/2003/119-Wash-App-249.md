@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20488-0-III"
 decided: "2003-08-05"
-citations: ["119 Wash. App. 249", "117 Wash. App. 1092"]
+citations: ["119 Wash. App. 249"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Anderson Hay & Grain Company, Inc., Appellant, v. United Dominion Ind
 source_url: "https://static.case.law/wash-app/119/cases/0249-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350081
-cites_cases: ["100 Wn. App. 467", "108 Wn. App. 91", "114 Wn. App. 395", "114 Wn. App. 639", "115 Wn.2d 657", "119 Wn. App. 249", "119 Wn.2d 334", "124 Wn.2d 816", "145 Wn.2d 1029", "148 Wn.2d 788", "151 Wn.2d 1016", "22 Wn. App. 520", "249 A.D.2d 650", "26 Cal. App. 4th 1194", "29 P.3d 758", "32 Cal. Rptr. 2d 144", "4 P.3d 862", "48 Wn. App. 792", "48 Wn. App. 795", "49 Wn. App. 130", "510 P.2d 221", "57 P.3d 1191", "59 P.3d 112", "591 P.2d 821", "64 P.3d 22", "656 S.W.2d 766", "671 N.Y.S.2d 191", "740 P.2d 913", "741 P.2d 584", "79 Wn. App. 368", "801 P.2d 222", "803 S.W.2d 731", "82 Wn.2d 250", "831 P.2d 724", "881 P.2d 986", "901 P.2d 1079", "91 Wn. App. 253", "92 Wn. App. 119", "957 P.2d 781", "960 P.2d 486", "997 P.2d 455"]
+cites_cases: ["100 Wn. App. 467", "108 Wn. App. 91", "114 Wn. App. 395", "114 Wn. App. 639", "115 Wn.2d 657", "119 Wn.2d 334", "124 Wn.2d 816", "145 Wn.2d 1029", "148 Wn.2d 788", "151 Wn.2d 1016", "22 Wn. App. 520", "249 A.D.2d 650", "26 Cal. App. 4th 1194", "29 P.3d 758", "32 Cal. Rptr. 2d 144", "4 P.3d 862", "48 Wn. App. 792", "48 Wn. App. 795", "49 Wn. App. 130", "510 P.2d 221", "57 P.3d 1191", "59 P.3d 112", "591 P.2d 821", "64 P.3d 22", "656 S.W.2d 766", "671 N.Y.S.2d 191", "740 P.2d 913", "741 P.2d 584", "79 Wn. App. 368", "801 P.2d 222", "803 S.W.2d 731", "82 Wn.2d 250", "831 P.2d 724", "881 P.2d 986", "901 P.2d 1079", "91 Wn. App. 253", "92 Wn. App. 119", "957 P.2d 781", "960 P.2d 486", "997 P.2d 455"]
 ---
 
 # Anderson Hay & Grain Co. v. United Dominion Industries, Inc.
