@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28320-4-II"
 decided: "2003-04-09"
-citations: ["117 Wash. App. 22", "116 Wash. App. 1037"]
+citations: ["117 Wash. App. 22"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Scott Wood, et al., Appellants, v. Thurston County, et al., Responden
 source_url: "https://static.case.law/wash-app/117/cases/0022-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 652494
-cites_cases: ["109 Wn.2d 712", "117 Wn. App. 22", "125 Wn.2d 243", "133 Wn.2d 729", "26 Wn. App. 430", "44 Wn. App. 882", "44 Wn. App. 886", "513 P.2d 285", "537 U.S. 129", "613 P.2d 187", "724 P.2d 379", "748 P.2d 597", "884 P.2d 592", "9 Wn. App. 500", "948 P.2d 805", "96 Wn. App. 862", "982 P.2d 123"]
+cites_cases: ["109 Wn.2d 712", "125 Wn.2d 243", "133 Wn.2d 729", "26 Wn. App. 430", "44 Wn. App. 882", "44 Wn. App. 886", "513 P.2d 285", "537 U.S. 129", "613 P.2d 187", "724 P.2d 379", "748 P.2d 597", "884 P.2d 592", "9 Wn. App. 500", "948 P.2d 805", "96 Wn. App. 862", "982 P.2d 123"]
 ---
 
 # Wood v. Thurston County
