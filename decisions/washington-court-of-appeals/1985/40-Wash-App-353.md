@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13573-2-I; 13581-3-I"
 decided: "1985-01-21"
-citations: ["40 Wash. App. 353", "39 Wash. App. 1052"]
+citations: ["40 Wash. App. 353"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Charles Joe Newman, Appellant
 source_url: "https://static.case.law/wash-app/40/cases/0353-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1796135
-cites_cases: ["101 Wn.2d 481", "101 Wn.2d 576", "20 Wn. App. 755", "26 Wn. App. 629", "306 P.2d 205", "40 Wn. App. 353", "46 Wash. 327", "49 Wn.2d 664", "583 P.2d 638", "613 P.2d 197", "614 P.2d 179", "643 P.2d 882", "681 P.2d 227", "681 P.2d 237", "89 Pac. 931", "94 Wn.2d 1018", "94 Wn.2d 31", "97 Wn.2d 255"]
+cites_cases: ["101 Wn.2d 481", "101 Wn.2d 576", "20 Wn. App. 755", "26 Wn. App. 629", "306 P.2d 205", "46 Wash. 327", "49 Wn.2d 664", "583 P.2d 638", "613 P.2d 197", "614 P.2d 179", "643 P.2d 882", "681 P.2d 227", "681 P.2d 237", "89 Pac. 931", "94 Wn.2d 1018", "94 Wn.2d 31", "97 Wn.2d 255"]
 ---
 
 # State v. Newman
