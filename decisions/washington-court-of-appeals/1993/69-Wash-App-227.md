@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29266-8-I"
 decided: "1993-02-22"
-citations: ["69 Wash. App. 227", "68 Wash. App. 1066"]
+citations: ["69 Wash. App. 227"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mid-Town Limited Partnership, Respondent, v. Michael R. Preston, et a
 source_url: "https://static.case.law/wash-app/69/cases/0227-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1700554
-cites_cases: ["100 Wn.2d 1029", "103 Wn.2d 501", "113 Wn.2d 330", "115 Wn.2d 1013", "116 Wn.2d 659", "122 Wn.2d 1006", "140 Wash. 613", "250 P. 49", "30 Wn. App. 139", "35 Wn. App. 512", "440 P.2d 164", "542 P.2d 1252", "57 Wn. App. 707", "62 Wn. App. 386", "632 P.2d 911", "667 P.2d 1127", "69 Wn. App. 227", "694 P.2d 7", "73 Wn.2d 608", "779 P.2d 249", "789 P.2d 807", "807 P.2d 830", "814 P.2d 255", "86 Wn.2d 156", "96 Wn.2d 1017"]
+cites_cases: ["100 Wn.2d 1029", "103 Wn.2d 501", "113 Wn.2d 330", "115 Wn.2d 1013", "116 Wn.2d 659", "122 Wn.2d 1006", "140 Wash. 613", "250 P. 49", "30 Wn. App. 139", "35 Wn. App. 512", "440 P.2d 164", "542 P.2d 1252", "57 Wn. App. 707", "62 Wn. App. 386", "632 P.2d 911", "667 P.2d 1127", "694 P.2d 7", "73 Wn.2d 608", "779 P.2d 249", "789 P.2d 807", "807 P.2d 830", "814 P.2d 255", "86 Wn.2d 156", "96 Wn.2d 1017"]
 ---
 
 # Mid-Town Ltd. Partnership v. Preston
