@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53967-1-I"
 decided: "2005-02-28"
-citations: ["126 Wash. App. 920", "126 Wash. App. 1007"]
+citations: ["126 Wash. App. 920"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert A. Funk et al., Appellants, v. The City of Duvall et al., Resp
 source_url: "https://static.case.law/wash-app/126/cases/0920-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016099
-cites_cases: ["123 Wn.2d 391", "126 Wn. App. 920", "141 Wn.2d 1006", "146 Wn.2d 370", "196 P.2d 81", "339 Ill. App. 565", "46 P.3d 789", "86 Cal. App. 2d 530", "869 P.2d 28", "90 N.E.2d 653", "98 Wn. App. 541", "989 P.2d 1238"]
+cites_cases: ["123 Wn.2d 391", "141 Wn.2d 1006", "146 Wn.2d 370", "196 P.2d 81", "339 Ill. App. 565", "46 P.3d 789", "86 Cal. App. 2d 530", "869 P.2d 28", "90 N.E.2d 653", "98 Wn. App. 541", "989 P.2d 1238"]
 ---
 
 # Funk v. City of Duvall
