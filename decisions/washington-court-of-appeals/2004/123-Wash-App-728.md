@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52943-9-I"
 decided: "2004-08-16"
-citations: ["123 Wash. App. 728", "122 Wash. App. 1073"]
+citations: ["123 Wash. App. 728"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mutual of Enumclaw Insurance Company, Respondent, v. Patrick Archer C
 source_url: "https://static.case.law/wash-app/123/cases/0728-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1117997
-cites_cases: ["100 Wn. App. 631", "103 Wn.2d 441", "104 Wn. App. 606", "106 Wn.2d 806", "107 Wn.2d 836", "110 Wn.2d 1036", "115 Wn.2d 657", "115 Wn.2d 679", "119 Wn.2d 724", "120 Wn.2d 68", "123 Wn. App. 728", "123 Wn.2d 1017", "123 Wn.2d 678", "123 Wn.2d 891", "125 Wn.2d 337", "129 Wn.2d 464", "129 Wn.2d 565", "130 Wn.2d 1003", "132 Wn.2d 318", "136 Wn.2d 1002", "139 Wn.2d 1019", "140 Wn.2d 1013", "144 Wn.2d 1016", "15 P.3d 210", "15 Wn. App. 757", "17 Cal. App. 4th 1112", "21 Cal. Rptr. 2d 871", "41 Wn. App. 425", "44 Wn. App. 110", "46 Wn. App. 784", "486 U.S. 1022", "503 S.W.2d 846", "51 Wn. App. 72", "53 Wn. App. 730", "54 Wn. App. 400", "551 P.2d 1038", "6 P.3d 1", "651 F.2d 1266", "656 P.2d 1077", "693 P.2d 1369", "700 P.2d 1188", "71 Wn. App. 226", "720 P.2d 867", "725 P.2d 957", "732 P.2d 1008", "734 P.2d 17", "751 P.2d 1242", "770 P.2d 654", "773 P.2d 906", "801 P.2d 207", "801 P.2d 222", "81 Wn. App. 293", "837 P.2d 1000", "838 P.2d 111", "857 P.2d 1064", "871 P.2d 146", "874 P.2d 142", "883 P.2d 1383", "90 Wn. App. 186", "90 Wn. App. 41", "914 P.2d 119", "918 P.2d 923", "919 P.2d 594", "937 P.2d 1062", "950 P.2d 977", "951 P.2d 280", "96 Wn. App. 698", "97 Wn. App. 335", "98 Wn.2d 533", "981 P.2d 872", "983 P.2d 707", "99 Wn. App. 41", "991 P.2d 734"]
+cites_cases: ["100 Wn. App. 631", "103 Wn.2d 441", "104 Wn. App. 606", "106 Wn.2d 806", "107 Wn.2d 836", "110 Wn.2d 1036", "115 Wn.2d 657", "115 Wn.2d 679", "119 Wn.2d 724", "120 Wn.2d 68", "123 Wn.2d 1017", "123 Wn.2d 678", "123 Wn.2d 891", "125 Wn.2d 337", "129 Wn.2d 464", "129 Wn.2d 565", "130 Wn.2d 1003", "132 Wn.2d 318", "136 Wn.2d 1002", "139 Wn.2d 1019", "140 Wn.2d 1013", "144 Wn.2d 1016", "15 P.3d 210", "15 Wn. App. 757", "17 Cal. App. 4th 1112", "21 Cal. Rptr. 2d 871", "41 Wn. App. 425", "44 Wn. App. 110", "46 Wn. App. 784", "486 U.S. 1022", "503 S.W.2d 846", "51 Wn. App. 72", "53 Wn. App. 730", "54 Wn. App. 400", "551 P.2d 1038", "6 P.3d 1", "651 F.2d 1266", "656 P.2d 1077", "693 P.2d 1369", "700 P.2d 1188", "71 Wn. App. 226", "720 P.2d 867", "725 P.2d 957", "732 P.2d 1008", "734 P.2d 17", "751 P.2d 1242", "770 P.2d 654", "773 P.2d 906", "801 P.2d 207", "801 P.2d 222", "81 Wn. App. 293", "837 P.2d 1000", "838 P.2d 111", "857 P.2d 1064", "871 P.2d 146", "874 P.2d 142", "883 P.2d 1383", "90 Wn. App. 186", "90 Wn. App. 41", "914 P.2d 119", "918 P.2d 923", "919 P.2d 594", "937 P.2d 1062", "950 P.2d 977", "951 P.2d 280", "96 Wn. App. 698", "97 Wn. App. 335", "98 Wn.2d 533", "981 P.2d 872", "983 P.2d 707", "99 Wn. App. 41", "991 P.2d 734"]
 ---
 
 # Mutual of Enumclaw Insurance v. Patrick Archer Construction, Inc.
