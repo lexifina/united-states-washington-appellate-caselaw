@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29988-3-I; 30028-8-I; 30312-1-I"
 decided: "1993-08-30"
-citations: ["71 Wash. App. 360", "71 Wash. App. 1015"]
+citations: ["71 Wash. App. 360"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David Davis, Appellant, v. The Department of Labor and Industries, Re
 source_url: "https://static.case.law/wash-app/71/cases/0360-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787305
-cites_cases: ["108 Wn.2d 143", "111 Wn.2d 121", "114 Wn.2d 1030", "119 Wn.2d 640", "123 Wn.2d 1016", "54 Wn. App. 140", "58 Wn. App. 751", "71 Wn. App. 360", "736 P.2d 265", "757 P.2d 531", "775 P.2d 461", "795 P.2d 699", "835 P.2d 1030"]
+cites_cases: ["108 Wn.2d 143", "111 Wn.2d 121", "114 Wn.2d 1030", "119 Wn.2d 640", "123 Wn.2d 1016", "54 Wn. App. 140", "58 Wn. App. 751", "736 P.2d 265", "757 P.2d 531", "775 P.2d 461", "795 P.2d 699", "835 P.2d 1030"]
 ---
 
 # Davis v. Department of Labor & Industries
