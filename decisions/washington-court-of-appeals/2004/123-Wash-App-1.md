@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21915-1-III"
 decided: "2004-04-29"
-citations: ["123 Wash. App. 1", "121 Wash. App. 1026"]
+citations: ["123 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. John Martin Sandoval, Appella
 source_url: "https://static.case.law/wash-app/123/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1118056
-cites_cases: ["105 Wn.2d 1", "123 Wn. App. 1", "123 Wn.2d 704", "128 Wn.2d 693", "128 Wn.2d 98", "133 Wn.2d 67", "137 Wn.2d 703", "149 Wn.2d 906", "442 U.S. 140", "711 P.2d 1000", "73 P.3d 1000", "76 Wn. App. 24", "871 P.2d 135", "877 P.2d 1289", "905 P.2d 346", "911 P.2d 996", "93 Wn. App. 453", "941 P.2d 661", "970 P.2d 313", "974 P.2d 832"]
+cites_cases: ["105 Wn.2d 1", "123 Wn.2d 704", "128 Wn.2d 693", "128 Wn.2d 98", "133 Wn.2d 67", "137 Wn.2d 703", "149 Wn.2d 906", "442 U.S. 140", "711 P.2d 1000", "73 P.3d 1000", "76 Wn. App. 24", "871 P.2d 135", "877 P.2d 1289", "905 P.2d 346", "911 P.2d 996", "93 Wn. App. 453", "941 P.2d 661", "970 P.2d 313", "974 P.2d 832"]
 ---
 
 # State v. Sandoval
