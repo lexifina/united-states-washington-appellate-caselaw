@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50248-4-I"
 decided: "2004-01-20"
-citations: ["120 Wash. App. 351", "119 Wash. App. 1079"]
+citations: ["120 Wash. App. 351"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Raymond Breda, et al., Appellants, v. B.P.O. Elks Lake City 1800 SO-6
 source_url: "https://static.case.law/wash-app/120/cases/0351-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422755
-cites_cases: ["104 Wn. App. 38", "108 Wn.2d 679", "114 Wn.2d 153", "120 Wn. App. 351", "122 Wn.2d 299", "14 P.3d 879", "210 P.2d 690", "34 Wn.2d 851", "47 Wn. App. 315", "734 P.2d 541", "743 P.2d 793", "786 P.2d 781", "858 P.2d 1054", "91 Wn. App. 127", "955 P.2d 826"]
+cites_cases: ["104 Wn. App. 38", "108 Wn.2d 679", "114 Wn.2d 153", "122 Wn.2d 299", "14 P.3d 879", "210 P.2d 690", "34 Wn.2d 851", "47 Wn. App. 315", "734 P.2d 541", "743 P.2d 793", "786 P.2d 781", "858 P.2d 1054", "91 Wn. App. 127", "955 P.2d 826"]
 ---
 
 # Breda v. B.P.O. Elks Lake City 1800 SO-620
