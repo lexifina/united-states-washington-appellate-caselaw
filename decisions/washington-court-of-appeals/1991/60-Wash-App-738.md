@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10611-0-III"
 decided: "1991-02-26"
-citations: ["60 Wash. App. 738", "60 Wash. App. 1044"]
+citations: ["60 Wash. App. 738"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Zebulen Pike, Appellant."]
 source_url: "https://static.case.law/wash-app/60/cases/0738-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1719280
-cites_cases: ["103 Wn.2d 1010", "105 Wn.2d 1008", "117 Wn.2d 1001", "32 Wn. App. 4", "35 Wn. App. 862", "36 Wash. 126", "38 Wn. App. 675", "42 Wn. App. 195", "60 Wn. App. 738", "645 P.2d 716", "670 P.2d 689", "688 P.2d 534", "710 P.2d 804", "78 P. 790", "97 Wn.2d 1033"]
+cites_cases: ["103 Wn.2d 1010", "105 Wn.2d 1008", "117 Wn.2d 1001", "32 Wn. App. 4", "35 Wn. App. 862", "36 Wash. 126", "38 Wn. App. 675", "42 Wn. App. 195", "645 P.2d 716", "670 P.2d 689", "688 P.2d 534", "710 P.2d 804", "78 P. 790", "97 Wn.2d 1033"]
 ---
 
 # State v. Pike
