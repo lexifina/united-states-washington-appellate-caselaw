@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50241-7-I"
 decided: "2003-11-24"
-citations: ["119 Wash. App. 855", "119 Wash. App. 1026"]
+citations: ["119 Wash. App. 855"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Dereck Anthony Nicholson II, 
 source_url: "https://static.case.law/wash-app/119/cases/0855-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350147
-cites_cases: ["110 Wn.2d 403", "113 Wn. App. 779", "119 Wn. App. 855", "119 Wn.2d 192", "123 Wn.2d 573", "397 U.S. 358", "50 Wn. App. 277", "51 Wn. App. 582", "54 P.3d 1255", "71 Wn. App. 345", "72 Wn. App. 774", "748 P.2d 263", "754 P.2d 1050", "756 P.2d 105", "829 P.2d 1068", "860 P.2d 1046", "868 P.2d 158", "870 P.2d 299", "97 Wn. App. 349", "984 P.2d 432"]
+cites_cases: ["110 Wn.2d 403", "113 Wn. App. 779", "119 Wn.2d 192", "123 Wn.2d 573", "397 U.S. 358", "50 Wn. App. 277", "51 Wn. App. 582", "54 P.3d 1255", "71 Wn. App. 345", "72 Wn. App. 774", "748 P.2d 263", "754 P.2d 1050", "756 P.2d 105", "829 P.2d 1068", "860 P.2d 1046", "868 P.2d 158", "870 P.2d 299", "97 Wn. App. 349", "984 P.2d 432"]
 ---
 
 # State v. Nicholson
