@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41940-4-I"
 decided: "1999-03-01"
-citations: ["94 Wash. App. 844", "94 Wash. App. 1023"]
+citations: ["94 Wash. App. 844"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. R.H.S., Appellant."]
 source_url: "https://static.case.law/wash-app/94/cases/0844-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 82888
-cites_cases: ["104 Wn.2d 412", "119 Wn.2d 167", "119 Wn.2d 192", "128 Wn.2d 918", "567 P.2d 1136", "610 P.2d 1322", "67 Wn. App. 157", "705 P.2d 1182", "829 P.2d 1068", "829 P.2d 1082", "834 P.2d 651", "88 Wn.2d 899", "913 P.2d 808", "93 Wn.2d 510", "94 Wn. App. 844"]
+cites_cases: ["104 Wn.2d 412", "119 Wn.2d 167", "119 Wn.2d 192", "128 Wn.2d 918", "567 P.2d 1136", "610 P.2d 1322", "67 Wn. App. 157", "705 P.2d 1182", "829 P.2d 1068", "829 P.2d 1082", "834 P.2d 651", "88 Wn.2d 899", "913 P.2d 808", "93 Wn.2d 510"]
 ---
 
 # State v. R.H.S.
