@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12401-3-I"
 decided: "1984-06-18"
-citations: ["38 Wash. App. 180", "37 Wash. App. 1069"]
+citations: ["38 Wash. App. 180"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Edward Lee Mathews, Appellant
 source_url: "https://static.case.law/wash-app/38/cases/0180-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791742
-cites_cases: ["14 Wn. App. 268", "26 Wn. App. 1", "28 Wn. App. 98", "355 U.S. 184", "38 Wn. App. 180", "424 P.2d 632", "482 P.2d 775", "540 P.2d 455", "603 P.2d 1258", "61 A.L.R.2d 1119", "612 P.2d 404", "621 P.2d 1310", "70 Wn.2d 555", "79 Wn.2d 12", "92 Wn.2d 967", "95 Wn.2d 1019"]
+cites_cases: ["14 Wn. App. 268", "26 Wn. App. 1", "28 Wn. App. 98", "355 U.S. 184", "424 P.2d 632", "482 P.2d 775", "540 P.2d 455", "603 P.2d 1258", "61 A.L.R.2d 1119", "612 P.2d 404", "621 P.2d 1310", "70 Wn.2d 555", "79 Wn.2d 12", "92 Wn.2d 967", "95 Wn.2d 1019"]
 ---
 
 # State v. Mathews
