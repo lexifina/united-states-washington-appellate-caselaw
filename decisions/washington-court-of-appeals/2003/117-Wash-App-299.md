@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21107-0-III"
 decided: "2003-05-06"
-citations: ["117 Wash. App. 299", "116 Wash. App. 1062"]
+citations: ["117 Wash. App. 299"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Soonthon Thongchoom, et al., Individually and as Guardians, Appellant
 source_url: "https://static.case.law/wash-app/117/cases/0299-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 652906
-cites_cases: ["101 Wn. App. 750", "103 Wn. App. 916", "107 Wn. App. 861", "107 Wn.2d 127", "109 Wn. App. 140", "110 Wn. App. 332", "110 Wn. App. 394", "117 Wn. App. 299", "119 Wn.2d 334", "126 Wn.2d 1025", "127 Wn.2d 67", "137 Wn.2d 319", "139 Wn.2d 1025", "14 P.3d 773", "144 Wn.2d 1004", "147 Wn.2d 1024", "15 P.3d 188", "151 Wn.2d 1002", "28 P.3d 813", "34 P.3d 835", "41 P.3d 488", "41 P.3d 495", "727 P.2d 655", "77 Wn. App. 201", "79 Wn. App. 829", "831 P.2d 724", "84 Wn. App. 393", "890 P.2d 469", "896 P.2d 682", "906 P.2d 336", "928 P.2d 1108", "94 Wn. App. 949", "971 P.2d 500", "973 P.2d 1110", "99 Wn. App. 28", "991 P.2d 728"]
+cites_cases: ["101 Wn. App. 750", "103 Wn. App. 916", "107 Wn. App. 861", "107 Wn.2d 127", "109 Wn. App. 140", "110 Wn. App. 332", "110 Wn. App. 394", "119 Wn.2d 334", "126 Wn.2d 1025", "127 Wn.2d 67", "137 Wn.2d 319", "139 Wn.2d 1025", "14 P.3d 773", "144 Wn.2d 1004", "147 Wn.2d 1024", "15 P.3d 188", "151 Wn.2d 1002", "28 P.3d 813", "34 P.3d 835", "41 P.3d 488", "41 P.3d 495", "727 P.2d 655", "77 Wn. App. 201", "79 Wn. App. 829", "831 P.2d 724", "84 Wn. App. 393", "890 P.2d 469", "896 P.2d 682", "906 P.2d 336", "928 P.2d 1108", "94 Wn. App. 949", "971 P.2d 500", "973 P.2d 1110", "99 Wn. App. 28", "991 P.2d 728"]
 ---
 
 # Thongchoom v. Graco Children's Products, Inc.
