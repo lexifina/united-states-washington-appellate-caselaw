@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11395-0-I"
 decided: "1984-02-27"
-citations: ["37 Wash. App. 644", "36 Wash. App. 1073"]
+citations: ["37 Wash. App. 644"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Patricia Theonnes, Individually and as Guardian ad Litem, Appellant, 
 source_url: "https://static.case.law/wash-app/37/cases/0644-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1784742
-cites_cases: ["1 Wn. App. 742", "104 Wis. 307", "106 P.2d 314", "113 Wash. 182", "119 N.W. 1061", "120 N.W. 518", "139 Wis. 597", "159 Pac. 115", "178 Wash. 421", "187 Wash. 516", "193 Pac. 684", "280 P.2d 670", "34 P. (2d) 1105", "37 Wn. App. 644", "385 P.2d 722", "46 Wn.2d 260", "463 P.2d 265", "5 Wn.2d 144", "60 P. (2d) 679", "63 Wn.2d 159", "80 N.W. 644", "92 Wash. 305"]
+cites_cases: ["1 Wn. App. 742", "104 Wis. 307", "106 P.2d 314", "113 Wash. 182", "119 N.W. 1061", "120 N.W. 518", "139 Wis. 597", "159 Pac. 115", "178 Wash. 421", "187 Wash. 516", "193 Pac. 684", "280 P.2d 670", "34 P. (2d) 1105", "385 P.2d 722", "46 Wn.2d 260", "463 P.2d 265", "5 Wn.2d 144", "60 P. (2d) 679", "63 Wn.2d 159", "80 N.W. 644", "92 Wash. 305"]
 ---
 
 # Theonnes v. Hazen
