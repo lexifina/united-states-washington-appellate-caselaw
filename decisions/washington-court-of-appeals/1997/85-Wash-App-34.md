@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36824-9-I"
 decided: "1997-01-21"
-citations: ["85 Wash. App. 34", "84 Wash. App. 1076"]
+citations: ["85 Wash. App. 34"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Betty M. Kohfeld, Appellant, v. United Pacific Insurance Company, Res
 source_url: "https://static.case.law/wash-app/85/cases/0034-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 277810
-cites_cases: ["106 Wn.2d 391", "108 Wn.2d 314", "109 Wn.2d 235", "113 Wn.2d 309", "114 Wn.2d 907", "116 Wn.2d 1014", "119 Wn.2d 251", "123 Wn.2d 93", "128 Wn.2d 1010", "128 Wn.2d 114", "130 Wn.2d 486", "396 P.2d 782", "44 Wn. App. 330", "440 P.2d 834", "453 P.2d 654", "588 P.2d 191", "59 Wn. App. 266", "62 Wn. App. 544", "63 Wn. App. 278", "65 Wn.2d 290", "66 Wn. App. 510", "7 A.L.R.5th 1014", "722 P.2d 787", "722 P.2d 826", "73 Wn.2d 804", "738 P.2d 270", "744 P.2d 605", "75 Wn.2d 676", "76 Wn. App. 542", "779 P.2d 257", "78 Wn. App. 665", "79 Wn. App. 184", "792 P.2d 520", "796 P.2d 737", "815 P.2d 798", "818 P.2d 608", "82 Wn. App. 20", "830 P.2d 646", "832 P.2d 537", "85 Wn. App. 34", "864 P.2d 937", "887 P.2d 468", "898 P.2d 353", "901 P.2d 349", "91 Wn.2d 215", "91 Wn.2d 219", "916 P.2d 949", "925 P.2d 194"]
+cites_cases: ["106 Wn.2d 391", "108 Wn.2d 314", "109 Wn.2d 235", "113 Wn.2d 309", "114 Wn.2d 907", "116 Wn.2d 1014", "119 Wn.2d 251", "123 Wn.2d 93", "128 Wn.2d 1010", "128 Wn.2d 114", "130 Wn.2d 486", "396 P.2d 782", "44 Wn. App. 330", "440 P.2d 834", "453 P.2d 654", "588 P.2d 191", "59 Wn. App. 266", "62 Wn. App. 544", "63 Wn. App. 278", "65 Wn.2d 290", "66 Wn. App. 510", "7 A.L.R.5th 1014", "722 P.2d 787", "722 P.2d 826", "73 Wn.2d 804", "738 P.2d 270", "744 P.2d 605", "75 Wn.2d 676", "76 Wn. App. 542", "779 P.2d 257", "78 Wn. App. 665", "79 Wn. App. 184", "792 P.2d 520", "796 P.2d 737", "815 P.2d 798", "818 P.2d 608", "82 Wn. App. 20", "830 P.2d 646", "832 P.2d 537", "864 P.2d 937", "887 P.2d 468", "898 P.2d 353", "901 P.2d 349", "91 Wn.2d 215", "91 Wn.2d 219", "916 P.2d 949", "925 P.2d 194"]
 ---
 
 # Kohfeld v. United Pacific Insurance
