@@ -1,0 +1,63 @@
+---
+court: "Washington Court of Appeals"
+docket: "9689-1-III"
+decided: "1989-03-28"
+citations: ["53 Wash. App. 723"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allan V. Hanson, Appellant, v. Spokane County, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/53/cases/0723-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1764461
+cites_cases: ["113 Wn.2d 1004", "82 Wis. 2d 529"]
+---
+
+# Hanson v. Spokane County
+
+## Majority (Thompson, C.J.)
+
+Thompson, C.J.
+—Allan Hanson brought this action against Spokane County and the Washington State Boundary Review Board of Spokane County (BRB) seeking (1) an injunction barring the BRB from further consideration of the petition for incorporation of the City of Spokane Valley, and (2) an order requiring the County to place the issue of incorporation on the ballot. He appeals from a summary judgment dismissing his action. We affirm.
+Mr. Hanson's primary contention is that the Board did not validly act on the petition within the statutory 120-day time limit, and, thus, the petition is deemed approved by the Board and must be submitted for a public vote. RCW 36.93.100; RCW 36.93.150.
+On June 11, 1985, a petition for incorporation of a non-charter code city to be named the City of Spokane Valley was filed in accordance with former RCW 35A.03.020 and thereafter certified as sufficient by the Spokane County Auditor. The original proposal concerned the area east of the city of Spokane to the state line. It was modified by the BRB to exclude the area east of Barker Road. The BRB approved the modified proposal on November 9, 1985. Citizens for the Facts on Incorporation and others, but not Mr. Hanson, appealed that decision to superior court.
+The Superior Court remanded the decision to the BRB for consideration of, inter alia, the effect of incorporation on finances, debt structure and contractual obligations. The court's memorandum opinion in that appeal noted that under the provisions of RCW 36.93.090, the initiators of a petition for incorporation must file a "notice of intention" with the BRB. The committee for incorporation of the Spokane Valley (initiators) filed its notice of intention on July 3, 1985, immediately following a special meeting with the BRB on that date. The court held that the July 3 meeting, although intended as a preliminary meeting, actually turned into a hearing on the initiators' proposal. Therefore, under RCW 36.93.160, the BRB should have given at least 30 days' notice of the hearing. The court also held that several subsequent meetings of the BRB on the petition for incorporation violated the statutory notice provisions.
+The judgment of remand for further proceedings was entered on November 26, 1986, and specified that "[a]ny party may apply for an order of direction as to time after 120 days". No party applied for such an order, and the BRB did not file its second written decision, this time disapproving incorporation, until December 17, 1987.
+Mr. Hanson filed this action in November 1987, alleging that the BRB had failed to take timely action on the original petition for incorporation. The BRB successfully moved for summary judgment and Mr. Hanson appeals.
+Under former RCW 36.93.100,
+[t]he board shall review and approve, disapprove, or modify . . . [the petition for incorporation] when any of the following shall occur within sixty days of the filing of a notice of intention:
+(1) The chairman or any three members of the boundary review board files a request for review;
+(3) A petition requesting review is filed and is signed by
+(a) five percent of the registered voters residing within the area which is being considered for the proposed action . . .
+If a period of sixty days shall elapse without the board's jurisdiction having been invoked as set forth in this section, the proposed action shall be deemed approved.
+If a review of a proposal is requested, the board shall make a finding as prescribed in RCW 36.93.150 within one hundred twenty days after the filing of such a request for review. If this period of one hundred twenty days shall elapse without the board making a finding . . ., the proposal shall be deemed approved unless the board and the person who submitted the proposal agree to an extension of the one hundred twenty day period.
+(Italics ours.) Laws of 1983, ch. 76, § 1.
+Both Mr. Hanson and the BRB agree that the Board "formally" invoked jurisdiction on July 12, 1985. However, Mr. Hanson's position is that the 120-day time period began to run no later than the July 3 meeting. That is, the July 3 meeting, which was held before the notice of intention was filed with the Board, amounted to a request for review by either the BRB or the signators of the petition for incorporation. See former RCW 36.93.100(1), (3)(a). Thus, Mr. Hanson contends the 120-day time period of RCW 36.93.100 expired on October 31, 1985. Since the Board made no finding on the petition until November 9, 1985, he claims the proposal is "deemed approved" under RCW 36.93.100 and should be placed on the ballot. In his view, the Board had no jurisdiction over the proposal after October 31, 1985, and all subsequent actions by the Board and appeals therefrom are null and void. Alternatively, he argues that the failure of the Board to comply with the notice requirements for hearings denied him procedural due process as well as his right to petition the government for redress of grievances. Finally, he contends that the 120-day time period was applicable to the proceedings on remand. The Board did not enter a finding within 120 days of the order of remand, but, instead, took a year to enter its finding disapproving the petition. On these bases, he contends the court erred in summarily dismissing this action.
+We agree with the Superior Court's summary dismissal of Mr. Hanson's action for the following reasons:
+First, the 120-day time period in RCW 36.93.100 begins when a request for review is "filed" with the BRB. The term "file” "carries the idea of permanent preservation as a public record". Black's Law Dictionary 755 (4th rev. ed. 1968). The parties agree that the formal request for review by the Board was made July 12. The earlier meeting on July 3 occurred before the initiators of the petition had filed their "notice of intention" with the Board as required by RCW 36.93.090. Consequently, we hold as a matter of law that the 120-day period commenced when the request for review was filed on July 12, and, therefore, the BRB acted within the statutory time period when it made its finding on November 9, 1985.
+Second, Mr. Hanson's failure to file a timely notice of appeal from the BRB's first finding, as prescribed in RCW 36.93.160(5), precludes this court from considering his claim the Board did not give adequate notice of its 1985 hearings. Moreover, the statutory right of appeal from the BRB's decision was sufficient to protect any of Mr. Hanson's constitutional rights which may have been affected by inadequate notice. Since he chose not to appeal the first decision, he cannot now be heard to complain.
+In State ex rel. First Nat'l Bank v. M&I Peoples Bank, 82 Wis. 2d 529, 263 N.W.2d 196, 202-03 (1978), the court held the statutorily prescribed method for review of administrative action is exclusive, even in circumstances in which the agency's action is challenged on constitutional or jurisdictional grounds, so long as the method is "plain, speedy, and adequate". Here, RCW 36.93.160(6)(b) and (c) plainly state that the superior court may reverse the decision of the Board if that decision is made '' [i]n excess of the statutory authority or jurisdiction" or "upon unlawful procedure". Review under the statute is speedy; indeed, the present action was initiated long after the time for statutory review had expired. The statutory method of review is also adequate. Mr. Hanson argues that he did not appeal the 1985 Board decision because he did not want to do anything that would recognize what he regarded as a void decision. However, we know of no rule which would have prevented him from attacking the validity of the decision while exercising his statutory right of appeal.
+Third, the trial court's memorandum opinion adequately addresses the issue of whether the 120-day provision of RCW 36.93.100 is applicable upon remand:
+RCW 36.93.100 allows 120 days in which the Board must reach its initial decision. Presumably a decision by the Board on the 120th day (or on any day . . . within the 120-day period) is a valid decision insofar as the time limit is concerned.
+Therefore, a decision on the 120th day is valid. However, RCW 36.93.160 provides for an appeal of that decision.
+RCW 36.93.160(5) provides:
+"... Decisions shall be final and conclusive unless within ten days from the date of said action a governmental unit affected by the decision or any person owning real property or residing in the area affected by the decision files in the superior court a notice of appeal.
+"The filing of such notice of appeal within such time limit shall stay the effective date of the decision of the board until such time as the appeal shall have been adjudicated or withdrawn. On appeal the superior court shall not take any evidence other than that contained in the record of the hearing before the board." RCW 36.93.160(6) provides:
+"The superior court may affirm the decision of the board or remand the case for further proceedings. . . ." (Emphasis mine.)
+Although the statute requires a decision within 120 days, the same statute authorizes an appeal and specifically authorizes superior court to remand the case for further proceedings. If indeed a decision on the 120th day is made and appealed, and the appeal does not authorize any extension of the 120 days, then the superior court would be without authority to remand for further proceedings; yet RCW 36.93.160(6) specifically authorizes the remand. It seems necessarily implied that the 120 days is extended by remand in order to give meaning to the statute authorizing remand for further proceedings.
+(Some italics ours.)
+We agree with the trial court that the statutory 120-day time limit does not apply to the proceedings on remand. Affirmed.
+Green and Munson, JJ., concur.
+Reconsideration denied April 17, 1989.
+Review denied at 113 Wn.2d 1004 (1989).
+RCW 36.93.100 provides:
+"If a review of a proposal is requested, the board shall make a finding as prescribed in RCW 36.93.150 within one hundred twenty days after the filing of such a request for review. If this period of one hundred twenty days shall elapse without the board making a finding . . ., the proposal shall be deemed approved ..."
+RCW 36.93.150 provides in part:
+"Unless the board shall disapprove a proposal, it shall be presented under the appropriate statute for approval of a public body and, if required, a vote of the people."
+These two statutes were amended in Laws of 1987, ch. 477, §§ 3, 7, but the portions quoted were not changed.
+In 1985, RCW 35A.03.020 stated:
+"A petition for incorporation must be signed by qualified voters resident within the limits of the proposed noncharter code city equal in number to ten percent of the votes cast in the proposed area at the last general state election and must be presented to the auditor of the county." Laws of 1967, 1st Ex. Sess., ch. 119, § 35A.03.020.
+The order appealed from here lists that memorandum opinion as one of the documents considered by the court in entering the summary judgment of dismissal.
+RCW 36.93.160 provides:
+" (1) When the jurisdiction of the boundary review board has been invoked, the board shall set the date, time and place for a public hearing on the proposal. The board shall give at least thirty days' advance written notice of the date, time and place of the hearing to the governing body of each governmental unit having jurisdiction within the boundaries of the territory proposed to be . . . incorporated . . ., and to the governing body of each city within three miles of the exterior boundaries of such area and to the proponent of such change. Notice shall also be given by publication in any newspaper of general circulation in the area of the proposed boundary change at least three times, the last publication of which shall be not less than five days prior to the date set for the public hearing. Notice shall also be posted in ten public places in the area affected for five days when the area is ten acres or more."
+This statute was amended by Laws of 1987, ch. 477, § 8, but the portion quoted was not changed.
