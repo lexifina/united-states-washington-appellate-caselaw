@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28313-1-II"
 decided: "2003-09-09"
-citations: ["119 Wash. App. 110", "118 Wash. App. 1033"]
+citations: ["119 Wash. App. 110"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Low Income Housing Institute, et al., Appellants, v. The City of Lake
 source_url: "https://static.case.law/wash-app/119/cases/0110-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350222
-cites_cases: ["119 Wn. App. 110", "125 Wn.2d 196", "136 Wn.2d 38", "14 P.3d 133", "142 Wn.2d 543", "884 P.2d 910", "94 Wn. App. 645", "959 P.2d 1091", "972 P.2d 543"]
+cites_cases: ["125 Wn.2d 196", "136 Wn.2d 38", "14 P.3d 133", "142 Wn.2d 543", "884 P.2d 910", "94 Wn. App. 645", "959 P.2d 1091", "972 P.2d 543"]
 ---
 
 # Low Income Housing Institute v. City of Lakewood
