@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19429-1-I; 19430-5-I"
 decided: "1989-04-17"
-citations: ["55 Wash. App. 494", "54 Wash. App. 1004"]
+citations: ["55 Wash. App. 494"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Michael Lee Hagen, Appellant.
 source_url: "https://static.case.law/wash-app/55/cases/0494-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8848125
-cites_cases: ["10 Wn. App. 777", "102 Wn.2d 120", "102 Wn.2d 182", "106 Wn.2d 391", "108 Wn.2d 1021", "16 Wn. App. 657", "35 Wn. App. 13", "36 Wn. App. 42", "412 U.S. 218", "45 Wn. App. 571", "459 P.2d 400", "46 Wn. App. 211", "464 U.S. 993", "49 Wn. App. 78", "519 P.2d 1001", "55 Wn. App. 494", "558 P.2d 263", "559 P.2d 548", "567 P.2d 1136", "618 P.2d 73", "664 P.2d 1259", "671 P.2d 793", "683 P.2d 186", "683 P.2d 199", "709 F.2d 863", "722 P.2d 787", "726 P.2d 60", "729 P.2d 651", "741 P.2d 1024", "77 Wn.2d 27", "88 Wn.2d 221", "88 Wn.2d 899", "94 Wn.2d 520"]
+cites_cases: ["10 Wn. App. 777", "102 Wn.2d 120", "102 Wn.2d 182", "106 Wn.2d 391", "108 Wn.2d 1021", "16 Wn. App. 657", "35 Wn. App. 13", "36 Wn. App. 42", "412 U.S. 218", "45 Wn. App. 571", "459 P.2d 400", "46 Wn. App. 211", "464 U.S. 993", "49 Wn. App. 78", "519 P.2d 1001", "558 P.2d 263", "559 P.2d 548", "567 P.2d 1136", "618 P.2d 73", "664 P.2d 1259", "671 P.2d 793", "683 P.2d 186", "683 P.2d 199", "709 F.2d 863", "722 P.2d 787", "726 P.2d 60", "729 P.2d 651", "741 P.2d 1024", "77 Wn.2d 27", "88 Wn.2d 221", "88 Wn.2d 899", "94 Wn.2d 520"]
 ---
 
 # State v. Hagen
