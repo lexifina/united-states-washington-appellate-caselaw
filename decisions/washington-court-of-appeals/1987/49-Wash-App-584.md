@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7519-2-III; 8722-1-III"
 decided: "1987-10-08"
-citations: ["49 Wash. App. 584", "49 Wash. App. 1042"]
+citations: ["49 Wash. App. 584"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Anthony Gerard Fleck, Appella
 source_url: "https://static.case.law/wash-app/49/cases/0584-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1738870
-cites_cases: ["12 Wn. App. 522", "426 P.2d 502", "431 P.2d 201", "466 U.S. 668", "475 U.S. 157", "48 Wn. App. 353", "49 Wn. App. 584", "530 P.2d 340", "586 P.2d 1168", "71 Wn.2d 83", "71 Wn.2d 838", "739 P.2d 1161", "91 Wn.2d 86"]
+cites_cases: ["12 Wn. App. 522", "426 P.2d 502", "431 P.2d 201", "466 U.S. 668", "475 U.S. 157", "48 Wn. App. 353", "530 P.2d 340", "586 P.2d 1168", "71 Wn.2d 83", "71 Wn.2d 838", "739 P.2d 1161", "91 Wn.2d 86"]
 ---
 
 # State v. Fleck
