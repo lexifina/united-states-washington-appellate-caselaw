@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43646-5-I"
 decided: "1999-11-08"
-citations: ["109 Wash. App. 436", "97 Wash. App. 1083"]
+citations: ["109 Wash. App. 436"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Simburg, Ketter, Sheppard & Purdy, L.L.P., Respondent, v. Morton E. O
 source_url: "https://static.case.law/wash-app/109/cases/0436-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1014092
-cites_cases: ["1 Cal. Rptr. 2d 531", "110 Wn.2d 355", "124 Wn.2d 318", "141 Wn.2d 1001", "15 Wn. App. 481", "235 Cal. App. 3d 1569", "26 Wn. App. 951", "51 Wn. App. 423", "551 P.2d 147", "552 P.2d 1053", "59 Wn. App. 92", "614 P.2d 701", "62 Wn. App. 150", "63 Wn. App. 733", "647 P.2d 1004", "656 P.2d 1030", "657 P.2d 315", "659 P.2d 475", "753 P.2d 517", "754 P.2d 120", "77 Wn. App. 752", "795 P.2d 1192", "813 P.2d 598", "821 P.2d 1256", "87 Wn.2d 400", "879 P.2d 912", "893 P.2d 692", "97 Wn. App. 901", "97 Wn.2d 598", "98 Wn.2d 434", "98 Wn.2d 569", "98 Wn.2d 835"]
+cites_cases: ["1 Cal. Rptr. 2d 531", "110 Wn.2d 355", "124 Wn.2d 318", "141 Wn.2d 1001", "15 Wn. App. 481", "235 Cal. App. 3d 1569", "26 Wn. App. 951", "51 Wn. App. 423", "551 P.2d 147", "552 P.2d 1053", "59 Wn. App. 92", "614 P.2d 701", "62 Wn. App. 150", "63 Wn. App. 733", "647 P.2d 1004", "656 P.2d 1030", "657 P.2d 315", "659 P.2d 475", "753 P.2d 517", "754 P.2d 120", "77 Wn. App. 752", "795 P.2d 1192", "813 P.2d 598", "821 P.2d 1256", "87 Wn.2d 400", "879 P.2d 912", "893 P.2d 692", "97 Wn.2d 598", "98 Wn.2d 434", "98 Wn.2d 569", "98 Wn.2d 835"]
 ---
 
 # Simburg, Ketter, Sheppard & Purdy, L.L.P. v. Olshan
