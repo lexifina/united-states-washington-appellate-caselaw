@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27313-6-II"
 decided: "2002-10-10"
-citations: ["114 Wash. App. 189", "113 Wash. App. 1058"]
+citations: ["114 Wash. App. 189"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Albert Reuben Walther, Appell
 source_url: "https://static.case.law/wash-app/114/cases/0189-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 163295
-cites_cases: ["114 Wn. App. 189", "114 Wn.2d 1015", "12 Wn. App. 178", "141 Wn.2d 448", "529 P.2d 463", "56 Wn. App. 646", "6 P.3d 1150", "616 P.2d 628", "784 P.2d 579", "85 Wn.2d 1004", "94 Wn.2d 216"]
+cites_cases: ["114 Wn.2d 1015", "12 Wn. App. 178", "141 Wn.2d 448", "529 P.2d 463", "56 Wn. App. 646", "6 P.3d 1150", "616 P.2d 628", "784 P.2d 579", "85 Wn.2d 1004", "94 Wn.2d 216"]
 ---
 
 # State v. Walther
