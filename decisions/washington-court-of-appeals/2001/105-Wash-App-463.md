@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16669-4-III"
 decided: "2001-02-27"
-citations: ["105 Wash. App. 463", "105 Wash. App. 1008"]
+citations: ["105 Wash. App. 463"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert E. Besel, Petitioner, v. Viking Insurance Company of Wisconsin
 source_url: "https://static.case.law/wash-app/105/cases/0463-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358541
-cites_cases: ["1 P.3d 1138", "10 Wn.2d 624", "105 Wn. App. 463", "105 Wn.2d 381", "105 Wn.2d 778", "107 Wn.2d 468", "109 Wn.2d 191", "112 Wn.2d 216", "114 Wn.2d 842", "114 Wn.2d 907", "115 Wn.2d 148", "117 P.2d 644", "118 Wn.2d 383", "120 Wn.2d 490", "122 Wn.2d 299", "125 Wn.2d 697", "134 Wn.2d 558", "136 Wn.2d 214", "136 Wn.2d 269", "141 Wn.2d 1", "144 Wn.2d 1016", "3 Wn. App. 167", "305 P.2d 800", "31 Wn. App. 286", "355 P.2d 985", "360 Pa. Super. 334", "37 Wn. App. 1", "38 Wn. App. 580", "40 Wn. App. 194", "425 F. Supp. 200", "43 Wn. App. 880", "455 F.2d 1209", "459 P.2d 389", "473 P.2d 193", "49 Wn. App. 223", "49 Wn.2d 633", "523 P.2d 193", "56 Wn.2d 909", "579 P.2d 1341", "59 Wn. App. 782", "62 Wn. App. 408", "640 P.2d 1077", "659 P.2d 509", "680 P.2d 409", "686 P.2d 1086", "698 P.2d 90", "715 P.2d 1133", "719 P.2d 531", "719 P.2d 966", "73 Wn. App. 359", "730 P.2d 662", "741 P.2d 1054", "743 P.2d 1244", "77 Wn.2d 1", "770 P.2d 182", "79 Wn. App. 497", "792 P.2d 142", "792 P.2d 520", "795 P.2d 1143", "801 P.2d 284", "81 Wn. App. 624", "814 P.2d 243", "823 P.2d 499", "83 Wn.2d 787", "844 P.2d 403", "858 P.2d 1054", "869 P.2d 116", "887 P.2d 886", "90 Wn.2d 195", "903 P.2d 496", "915 P.2d 1140", "95 Wn. App. 254", "951 P.2d 1124", "961 P.2d 358", "961 P.2d 933", "976 P.2d 632", "99 Wn.2d 65"]
+cites_cases: ["1 P.3d 1138", "10 Wn.2d 624", "105 Wn.2d 381", "105 Wn.2d 778", "107 Wn.2d 468", "109 Wn.2d 191", "112 Wn.2d 216", "114 Wn.2d 842", "114 Wn.2d 907", "115 Wn.2d 148", "117 P.2d 644", "118 Wn.2d 383", "120 Wn.2d 490", "122 Wn.2d 299", "125 Wn.2d 697", "134 Wn.2d 558", "136 Wn.2d 214", "136 Wn.2d 269", "141 Wn.2d 1", "144 Wn.2d 1016", "3 Wn. App. 167", "305 P.2d 800", "31 Wn. App. 286", "355 P.2d 985", "360 Pa. Super. 334", "37 Wn. App. 1", "38 Wn. App. 580", "40 Wn. App. 194", "425 F. Supp. 200", "43 Wn. App. 880", "455 F.2d 1209", "459 P.2d 389", "473 P.2d 193", "49 Wn. App. 223", "49 Wn.2d 633", "523 P.2d 193", "56 Wn.2d 909", "579 P.2d 1341", "59 Wn. App. 782", "62 Wn. App. 408", "640 P.2d 1077", "659 P.2d 509", "680 P.2d 409", "686 P.2d 1086", "698 P.2d 90", "715 P.2d 1133", "719 P.2d 531", "719 P.2d 966", "73 Wn. App. 359", "730 P.2d 662", "741 P.2d 1054", "743 P.2d 1244", "77 Wn.2d 1", "770 P.2d 182", "79 Wn. App. 497", "792 P.2d 142", "792 P.2d 520", "795 P.2d 1143", "801 P.2d 284", "81 Wn. App. 624", "814 P.2d 243", "823 P.2d 499", "83 Wn.2d 787", "844 P.2d 403", "858 P.2d 1054", "869 P.2d 116", "887 P.2d 886", "90 Wn.2d 195", "903 P.2d 496", "915 P.2d 1140", "95 Wn. App. 254", "951 P.2d 1124", "961 P.2d 358", "961 P.2d 933", "976 P.2d 632", "99 Wn.2d 65"]
 ---
 
 # Besel v. Viking Insurance
