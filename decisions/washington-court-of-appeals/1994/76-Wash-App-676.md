@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13328-1-III"
 decided: "1994-12-20"
-citations: ["76 Wash. App. 676", "76 Wash. App. 1048"]
+citations: ["76 Wash. App. 676"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Boise Cascade Corporation, Appellant, v. Richard L. Huizar, et al, Re
 source_url: "https://static.case.law/wash-app/76/cases/0676-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 489942
-cites_cases: ["108 Wn.2d 369", "120 Wn.2d 461", "121 Wn.2d 810", "350 P.2d 645", "55 Wn.2d 830", "581 P.2d 152", "598 P.2d 395", "613 P.2d 1148", "739 P.2d 668", "76 Wn. App. 676", "843 P.2d 1056", "854 P.2d 1072", "90 Wn.2d 271", "92 Wn.2d 474", "93 Wn.2d 843"]
+cites_cases: ["108 Wn.2d 369", "120 Wn.2d 461", "121 Wn.2d 810", "350 P.2d 645", "55 Wn.2d 830", "581 P.2d 152", "598 P.2d 395", "613 P.2d 1148", "739 P.2d 668", "843 P.2d 1056", "854 P.2d 1072", "90 Wn.2d 271", "92 Wn.2d 474", "93 Wn.2d 843"]
 ---
 
 # Boise Cascade Corp. v. Huizar
