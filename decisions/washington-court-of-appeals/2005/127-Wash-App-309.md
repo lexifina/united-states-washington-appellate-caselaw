@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53394-1-I"
 decided: "2005-04-04"
-citations: ["127 Wash. App. 309", "126 Wash. App. 1047"]
+citations: ["127 Wash. App. 309"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["VersusLaw, Inc., Appellant, v. Stoel Rives, L.L.P., et al., Responden
 source_url: "https://static.case.law/wash-app/127/cases/0309-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2462630
-cites_cases: ["100 Wn. App. 584", "109 Wn.2d 923", "114 Cal. App. 2d 503", "118 Wn.2d 801", "119 Wn.2d 251", "121 Wn.2d 715", "124 Wn.2d 881", "127 Wn. App. 309", "130 F.R.D. 560", "131 Wn.2d 835", "134 Wn.2d 243", "136 Wn.2d 87", "140 Wn.2d 348", "143 Wn.2d 190", "144 Wn.2d 118", "15 P.3d 1283", "150 Wn.2d 478", "156 Wn.2d 1008", "1975 OK CIV APP 67", "1991 U.S. Dist. LEXIS 7987", "1991 WL 115052", "212 F.R.D. 283", "220 F. Supp. 2d 283", "220 F.3d 954", "250 P.2d 283", "269 P.2d 815", "29 Wn. App. 433", "30 P.3d 446", "317 S.W.2d 607", "385 S.W.2d 354", "44 Wn.2d 631", "441 P2d 532", "455 U.S. 345", "499 P.2d 85", "519 P.2d 7", "545 P.2d 827", "618 P.2d 96", "62 Wn. App. 150", "628 P.2d 1336", "63 Wn. App. 601", "659 P.2d 475", "7 Wn. App. 232", "73 Wn.2d 880", "750 P.2d 231", "78 P.3d 1274", "79 Wn. App. 732", "813 P.2d 598", "82 Wn. App. 209", "821 P.2d 63", "828 P.2d 549", "83 Wn.2d 491", "830 P.2d 646", "85 Wn. App. 354", "850 F. Supp. 255", "853 P.2d 1373", "881 P.2d 1010", "904 P.2d 793", "917 P.2d 590", "919 F.2d 475", "933 P.2d 417", "935 P.2d 611", "94 Wn.2d 640", "947 P.2d 223", "96 F.3d 1294", "96 Wn. App. 369", "960 P.2d 912", "979 P.2d 898", "98 Wn.2d 835", "997 P.2d 353", "999 P.2d 42"]
+cites_cases: ["100 Wn. App. 584", "109 Wn.2d 923", "114 Cal. App. 2d 503", "118 Wn.2d 801", "119 Wn.2d 251", "121 Wn.2d 715", "124 Wn.2d 881", "130 F.R.D. 560", "131 Wn.2d 835", "134 Wn.2d 243", "136 Wn.2d 87", "140 Wn.2d 348", "143 Wn.2d 190", "144 Wn.2d 118", "15 P.3d 1283", "150 Wn.2d 478", "156 Wn.2d 1008", "1975 OK CIV APP 67", "1991 U.S. Dist. LEXIS 7987", "1991 WL 115052", "212 F.R.D. 283", "220 F. Supp. 2d 283", "220 F.3d 954", "250 P.2d 283", "269 P.2d 815", "29 Wn. App. 433", "30 P.3d 446", "317 S.W.2d 607", "385 S.W.2d 354", "44 Wn.2d 631", "441 P2d 532", "455 U.S. 345", "499 P.2d 85", "519 P.2d 7", "545 P.2d 827", "618 P.2d 96", "62 Wn. App. 150", "628 P.2d 1336", "63 Wn. App. 601", "659 P.2d 475", "7 Wn. App. 232", "73 Wn.2d 880", "750 P.2d 231", "78 P.3d 1274", "79 Wn. App. 732", "813 P.2d 598", "82 Wn. App. 209", "821 P.2d 63", "828 P.2d 549", "83 Wn.2d 491", "830 P.2d 646", "85 Wn. App. 354", "850 F. Supp. 255", "853 P.2d 1373", "881 P.2d 1010", "904 P.2d 793", "917 P.2d 590", "919 F.2d 475", "933 P.2d 417", "935 P.2d 611", "94 Wn.2d 640", "947 P.2d 223", "96 F.3d 1294", "96 Wn. App. 369", "960 P.2d 912", "979 P.2d 898", "98 Wn.2d 835", "997 P.2d 353", "999 P.2d 42"]
 ---
 
 # VersusLaw, Inc. v. Stoel Rives, L.L.P.
