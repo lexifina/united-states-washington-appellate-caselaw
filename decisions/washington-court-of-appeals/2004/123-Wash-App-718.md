@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22040-1-III"
 decided: "2004-08-03"
-citations: ["123 Wash. App. 718", "122 Wash. App. 1054"]
+citations: ["123 Wash. App. 718"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James J. Creegan, Petitioner.
 source_url: "https://static.case.law/wash-app/123/cases/0718-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1118081
-cites_cases: ["106 Wn. App. 738", "106 Wn.2d 784", "111 Wn. App. 660", "113 Wn. App. 100", "113 Wn.2d 35", "114 Wn. App. 591", "115 Wn. App. 599", "117 Wn. App. 542", "123 Wn. App. 718", "123 Wn.2d 173", "124 Wn.2d 741", "124 Wn.2d 90", "125 Wn.2d 364", "128 Wn.2d 388", "138 Wn.2d 937", "140 Wn.2d 250", "140 Wn.2d 436", "150 Wn.2d 251", "151 Wn.2d 1001", "24 P.3d 1112", "384 U.S. 436", "46 P.3d 257", "463 U.S. 1121", "468 U.S. 420", "480 U.S. 940", "52 P.3d 539", "531 U.S. 984", "61 P.3d 1190", "63 P.3d 181", "632 P.2d 44", "68 Wn. App. 592", "72 P.3d 239", "725 P.2d 975", "76 P.3d 217", "77 Wn. App. 636", "775 P.2d 458", "844 P.2d 1029", "867 P.2d 593", "875 P.2d 613", "880 P.2d 1000", "884 P.2d 1319", "893 P.2d 665", "909 P.2d 280", "95 Wn.2d 898", "983 P.2d 602", "996 P.2d 610", "998 P.2d 282"]
+cites_cases: ["106 Wn. App. 738", "106 Wn.2d 784", "111 Wn. App. 660", "113 Wn. App. 100", "113 Wn.2d 35", "114 Wn. App. 591", "115 Wn. App. 599", "117 Wn. App. 542", "123 Wn.2d 173", "124 Wn.2d 741", "124 Wn.2d 90", "125 Wn.2d 364", "128 Wn.2d 388", "138 Wn.2d 937", "140 Wn.2d 250", "140 Wn.2d 436", "150 Wn.2d 251", "151 Wn.2d 1001", "24 P.3d 1112", "384 U.S. 436", "46 P.3d 257", "463 U.S. 1121", "468 U.S. 420", "480 U.S. 940", "52 P.3d 539", "531 U.S. 984", "61 P.3d 1190", "63 P.3d 181", "632 P.2d 44", "68 Wn. App. 592", "72 P.3d 239", "725 P.2d 975", "76 P.3d 217", "77 Wn. App. 636", "775 P.2d 458", "844 P.2d 1029", "867 P.2d 593", "875 P.2d 613", "880 P.2d 1000", "884 P.2d 1319", "893 P.2d 665", "909 P.2d 280", "95 Wn.2d 898", "983 P.2d 602", "996 P.2d 610", "998 P.2d 282"]
 ---
 
 # State v. Creegan
