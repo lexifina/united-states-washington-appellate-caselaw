@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11926-9-II"
 decided: "1990-01-08"
-citations: ["57 Wash. App. 309", "56 Wash. App. 1044"]
+citations: ["57 Wash. App. 309"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Susan A. Long, as Guardian ad Litem, et al, Respondents, v. James F. 
 source_url: "https://static.case.law/wash-app/57/cases/0309-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1757106
-cites_cases: ["101 Wn.2d 466", "103 Wn.2d 131", "107 Wn.2d 761", "114 Wn.2d 1018", "459 P.2d 25", "46 Wn. App. 816", "46 Wn. App. 843", "57 Wn. App. 309", "680 P.2d 58", "691 P.2d 190", "732 P.2d 1021", "733 P.2d 530", "733 P.2d 551", "76 Wn.2d 772"]
+cites_cases: ["101 Wn.2d 466", "103 Wn.2d 131", "107 Wn.2d 761", "114 Wn.2d 1018", "459 P.2d 25", "46 Wn. App. 816", "46 Wn. App. 843", "680 P.2d 58", "691 P.2d 190", "732 P.2d 1021", "733 P.2d 530", "733 P.2d 551", "76 Wn.2d 772"]
 ---
 
 # Long v. Dugan
