@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "15098-7-I"
+decided: "1985-11-12"
+citations: ["42 Wash. App. 125"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Dennis Jay Bennett, Appellant."]
+source_url: "https://static.case.law/wash-app/42/cases/0125-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804117
+cites_cases: ["100 Wn.2d 1021", "101 Wn.2d 612", "30 Wn. App. 298", "34 Wn. App. 306", "458 P.2d 17", "545 P.2d 538", "633 P.2d 927", "640 P.2d 18", "656 P.2d 1064", "660 P.2d 1142", "664 P.2d 508", "683 P.2d 1069", "76 Wn.2d 449", "86 Wn.2d 419", "96 Wn.2d 847", "98 Wn.2d 484", "99 Wn.2d 663"]
+---
+
+# State v. Bennett
+
+## Majority (Ringold, J.)
+
+Ringold, J.
+—A jury found Dennis Jay Bennett guilty of simple assault for striking a child who lived with him. He appeals the judgment and sentence on two grounds: (1) that the trial court erred by not instructing the jury that the State had the burden to prove the charged assault was not a justifiable use of force to discipline a child; and (2) that the trial judge improperly admitted evidence of prior uncharged spankings Bennett gave the child. We hold that the trial court denied the defendant's due process right requiring the State to prove every element of the crime beyond a reasonable doubt and reverse.
+From November 1979 until January 1984, Dennis Bennett lived with Carolyn Harvey and her daughter, Gina Martinez, who was born April 14, 1969. In November 1983 Gina was arrested for shoplifting. On January 1, 1984, in Harvey's presence, Bennett admonished Gina for the shoplifting incident, lecturing her for several hours. Bennett testified that he took that occasion to reprove Gina, because she was to meet with her probation officer that week. Bennett also thought Gina had taken money from his money clip the night before.
+Bennett warned Gina that, if she continued her present behavior, she would be sent to prison. Bennett forced Gina to stand at attention, he used a nightstick to tap her on her shoulders and legs to make her stand up straight. While describing what prison guards would do to her, Bennett slapped Gina three times with his open palm causing blood to run from her mouth.
+Bennett was subsequently charged with indecent liberties, third degree statutory rape and simple assault. At trial, on direct examination, Bennett testified that he had spanked Gina on previous occasions "with far more effort than it was when I slapped her at that time." On cross examination, Bennett was questioned about those spankings, and his defense attorney objected on the grounds the spankings were not relevant to the charges before the jury.
+Prior Uncharged Spankings
+Bennett contends that evidence of the prior uncharged spankings is not admissible under any of the exceptions of ER 404(b) and that the evidence was improperly used to prejudice the jury.
+The defendant opened the door to cross examination concerning his prior spankings of Gina by testifying about them on direct examination. "It would be a curious rule of evidence which allowed one party to bring up a subject, drop it at a point where it might appear advantageous to him, and then bar the other party from all further inquiries about it." State v. Gefeller, 76 Wn.2d 449, 455, 458 P.2d 17 (1969).
+The State's brief cross examination of Bennett concerning the uncharged spankings was limited in scope to a clarification of Bennett's direct testimony regarding the same subject. Under these circumstances the trial court did not abuse its discretion by permitting the challenged cross examination. See State v. Gefeller, supra; State v. Olson, 30 Wn. App. 298, 633 P.2d 927 (1981).
+Instructions
+Although Bennett was not Gina's father, he exercised primary responsibility for her discipline with her mother's consent. Bennett's trial counsel did not submit any jury instructions to the trial court or offer objections to any instructions requested by the State. In closing argument Bennett's counsel argued to the jury that Bennett had not intended to commit a crime, but was merely exercising parental discipline. Bennett's attorney characterized the discipline as inappropriate, unwise, and unmerited, but not criminal.
+Bennett contends that, as with self-defense, reasonable use of force to discipline a child negates the intent element of assault. See RCW 9A.16.020(5); State v. Acosta, 101 Wn.2d 612, 616, 683 P.2d 1069 (1984). Bennett argues that the trial court erred by failing to instruct the jury that the State had the burden to prove the absence of reasonable disciplinary force. Bennett asserts that this failure deprived him of his due process rights and entitles him to a new trial. See Acosta; State v. McCullum, 98 Wn.2d 484, 656 P.2d 1064 (1983).
+If the facts of a case raise the issue of reasonable disciplinary force, a defendant's request for an instruction allocating the burden of proof upon the State should be granted. See McCullum; Acosta; RCW 9A.16.020(5). Bennett, however, failed to request any instruction. The State contends that Bennett's trial counsel did not request a specific instruction regarding disciplinary force for tactical reasons and has therefore waived his right to claim absence of such an instruction was error.
+"Even constitutional rights can be waived by conduct . . ." State v. Myers, 86 Wn.2d 419, 426, 545 P.2d 538 (1976), but waivers will not be presumed. "The State carries a heavy burden of demonstrating a voluntary, knowing, and intelligent waiver of any constitutional right." In re James, 96 Wn.2d 847, 851, 640 P.2d 18 (1982). Before it can be inferred from a defendant's conduct that he has waived a constitutional right, the facts must indicate that the defendant was aware of the right. See Myers. In State v. Valladares, 99 Wn.2d 663, 664 P.2d 508 (1983), relied on by the State, the defendant affirmatively withdrew a pretrial motion to suppress evidence. The court ruled that by doing so, the defendant waived his Fourth Amendment objections on appeal. Valladares, at 672.
+By contrast, in the present case there is no overt act that demonstrates a waiver of Bennett's constitutional rights. At time of trial Bennett was entitled to have an instruction based on lawful use of force. RCW 9A.16.020(5). The case law, however, was unsettled whether another instruction was required to inform the jury that the State has the burden of disproving lawful force beyond a reasonable doubt. The trial here was held on May 7,1984. The Acosta opinion was not filed until after the trial on May 24, 1984, resolving the issue by requiring reversal when the jury could be confused as to which party bore the burden of proof on lawful use of force.
+Because of the uncertainty in the state of the law and the absence of a clear waiver, we are unable to find that Bennett made a knowing and intelligent waiver of his right to have the jury instructed that the State has the burden to show the absence of lawful use of force.
+We do not decide whether the State or the trial court has an affirmative duty to include in the "to convict" instruction a statement that the force used must be unlawful when the facts of a case raise an issue of lawful use of force. When there is an absence of any instruction regarding lawful use of force, however, McCullum requires reversal. See also State v. LeBlanc, 34 Wn. App. 306, 308-09, 660 P.2d 1142, review denied, 100 Wn.2d 1021 (1983). Reversal is required in the present case because the jury could convict without the State proving every element of the crime charged beyond a reasonable doubt. Specifically, the jury could have convicted without finding the absence of lawful use of force.
+The judgment and sentence is reversed, and the case is remanded for a new trial.
+Scholfield, A.C.J., and Swanson, J., concur.
+Review denied by Supreme Court January 10, 1986.
+Bennett was found not guilty of indecent liberties and third degree statutory rape, and therefore the facts of those incidents have not been recounted here.
+RCW 9A. 16.020 states in part: "The use, attempt, or offer to use force upon or toward the person of another is not unlawful in the following cases: . . .
+"(5) Whenever used in a reasonable and moderate manner by a parent or his authorized agent, a guardian, master, or teacher in the exercise of lawful authority, to restrain or correct his child, ward, apprentice, or scholar ..."
