@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46744-1-I"
 decided: "2001-07-16"
-citations: ["108 Wash. App. 1", "107 Wash. App. 1011"]
+citations: ["108 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Little Deli Marts, Inc., Appellant, v. The City of Kent, Respondent."
 source_url: "https://static.case.law/wash-app/108/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 320868
-cites_cases: ["108 Wn. App. 1", "114 Wn.2d 213", "145 Wn.2d 1030", "159 P. 806", "16 Wash. 178", "245 Or. 40", "37 Wn. App. 434", "40 Wash. L. Rev. 100", "47 P. 505", "682 P.2d 913", "787 P.2d 39", "92 Wash. 549"]
+cites_cases: ["114 Wn.2d 213", "145 Wn.2d 1030", "159 P. 806", "16 Wash. 178", "245 Or. 40", "37 Wn. App. 434", "40 Wash. L. Rev. 100", "47 P. 505", "682 P.2d 913", "787 P.2d 39", "92 Wash. 549"]
 ---
 
 # Little Deli Marts, Inc. v. City of Kent
