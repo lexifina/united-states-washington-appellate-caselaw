@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47434-1-I"
 decided: "2002-02-19"
-citations: ["110 Wash. App. 798", "110 Wash. App. 1033"]
+citations: ["110 Wash. App. 798"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William J. Burg, et al., Appellants, v. Shannon & Wilson, Inc., Respo
 source_url: "https://static.case.law/wash-app/110/cases/0798-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1124049
-cites_cases: ["100 P.2d 1024", "105 Wn. App. 846", "105 Wn.2d 878", "106 Wn. App. 647", "110 Wn. App. 798", "111 Wn.2d 159", "118 Wn.2d 476", "119 Wn.2d 251", "135 Wn.2d 658", "136 Wn.2d 693", "145 Wn.2d 1011", "22 P.3d 804", "24 P.3d 1098", "26 Wn. App. 618", "3 Wn.2d 423", "32 Wn. App. 286", "41 Wn. App. 763", "545 P.2d 13", "613 P.2d 561", "647 P.2d 517", "653 P.2d 280", "662 P.2d 385", "706 P.2d 636", "719 P.2d 120", "759 P.2d 447", "824 P.2d 483", "830 P.2d 646", "86 Wn.2d 293", "93 Wn. App. 929", "958 P.2d 301", "965 P.2d 619", "97 Wn.2d 929", "971 P.2d 115", "99 Wn.2d 353"]
+cites_cases: ["100 P.2d 1024", "105 Wn. App. 846", "105 Wn.2d 878", "106 Wn. App. 647", "111 Wn.2d 159", "118 Wn.2d 476", "119 Wn.2d 251", "135 Wn.2d 658", "136 Wn.2d 693", "145 Wn.2d 1011", "22 P.3d 804", "24 P.3d 1098", "26 Wn. App. 618", "3 Wn.2d 423", "32 Wn. App. 286", "41 Wn. App. 763", "545 P.2d 13", "613 P.2d 561", "647 P.2d 517", "653 P.2d 280", "662 P.2d 385", "706 P.2d 636", "719 P.2d 120", "759 P.2d 447", "824 P.2d 483", "830 P.2d 646", "86 Wn.2d 293", "93 Wn. App. 929", "958 P.2d 301", "965 P.2d 619", "97 Wn.2d 929", "971 P.2d 115", "99 Wn.2d 353"]
 ---
 
 # Burg v. Shannon & Wilson, Inc.
