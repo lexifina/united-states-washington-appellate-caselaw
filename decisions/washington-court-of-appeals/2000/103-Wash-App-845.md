@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23163-8-II"
 decided: "2000-11-03"
-citations: ["103 Wash. App. 845", "103 Wash. App. 1017"]
+citations: ["103 Wash. App. 845"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Claude Allen Price, Jr., Appe
 source_url: "https://static.case.law/wash-app/103/cases/0845-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102480
-cites_cases: ["100 Wn. App. 104", "103 Wn. App. 845", "109 Wn.2d 207", "109 Wn.2d 303", "114 Wn.2d 6", "115 Wn.2d 775", "116 Wn.2d 51", "118 Wn.2d 773", "122 Wn.2d 1020", "125 Wn.2d 378", "125 Wn.2d 407", "125 Wn.2d 782", "126 Wn.2d 422", "133 Wn.2d 177", "135 Wn.2d 239", "139 Wn.2d 107", "141 Wn.2d 1002", "141 Wn.2d 103", "143 Wn.2d 1014", "3 P.3d 733", "463 P.2d 633", "498 U.S. 838", "584 P.2d 382", "62 Wn. App. 122", "67 Wn. App. 741", "69 Wn. App. 817", "743 P.2d 1237", "745 P.2d 479", "76 Wn. App. 335", "77 Wn.2d 415", "785 P.2d 440", "801 P.2d 975", "804 P.2d 577", "813 P.2d 149", "827 P.2d 996", "84 Wn. App. 854", "840 P.2d 218", "851 P.2d 1242", "885 P.2d 824", "886 P.2d 123", "886 P.2d 208", "888 P.2d 1177", "894 P.2d 1325", "90 Wn.2d 443", "932 P.2d 657", "942 P.2d 974", "95 Wn. App. 187", "95 Wn. App. 480", "955 P.2d 798", "975 P.2d 1038", "976 P.2d 165", "98 Wn. App. 799", "985 P.2d 365", "99 Wn. App. 596", "992 P.2d 1028", "995 P.2d 1278", "996 P.2d 620"]
+cites_cases: ["100 Wn. App. 104", "109 Wn.2d 207", "109 Wn.2d 303", "114 Wn.2d 6", "115 Wn.2d 775", "116 Wn.2d 51", "118 Wn.2d 773", "122 Wn.2d 1020", "125 Wn.2d 378", "125 Wn.2d 407", "125 Wn.2d 782", "126 Wn.2d 422", "133 Wn.2d 177", "135 Wn.2d 239", "139 Wn.2d 107", "141 Wn.2d 1002", "141 Wn.2d 103", "143 Wn.2d 1014", "3 P.3d 733", "463 P.2d 633", "498 U.S. 838", "584 P.2d 382", "62 Wn. App. 122", "67 Wn. App. 741", "69 Wn. App. 817", "743 P.2d 1237", "745 P.2d 479", "76 Wn. App. 335", "77 Wn.2d 415", "785 P.2d 440", "801 P.2d 975", "804 P.2d 577", "813 P.2d 149", "827 P.2d 996", "84 Wn. App. 854", "840 P.2d 218", "851 P.2d 1242", "885 P.2d 824", "886 P.2d 123", "886 P.2d 208", "888 P.2d 1177", "894 P.2d 1325", "90 Wn.2d 443", "932 P.2d 657", "942 P.2d 974", "95 Wn. App. 187", "95 Wn. App. 480", "955 P.2d 798", "975 P.2d 1038", "976 P.2d 165", "98 Wn. App. 799", "985 P.2d 365", "99 Wn. App. 596", "992 P.2d 1028", "995 P.2d 1278", "996 P.2d 620"]
 ---
 
 # State v. Price
