@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18946-1-II"
 decided: "1996-08-02"
-citations: ["83 Wash. App. 662", "82 Wash. App. 1051"]
+citations: ["83 Wash. App. 662"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John Schrader, Appellant, v. Grange Insurance Association, Respondent
 source_url: "https://static.case.law/wash-app/83/cases/0662-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1190503
-cites_cases: ["108 Wn.2d 314", "117 Wn.2d 37", "122 Wn.2d 544", "126 Wn.2d 50", "131 Wn.2d 1007", "63 Wn. App 278", "66 Wn. App. 735", "70 Wn. App. 471", "73 Wn. App. 426", "738 P.2d 270", "76 Wn. App. 507", "811 P.2d 673", "818 P.2d 608", "83 Wn. App. 662", "834 P.2d 64", "855 P.2d 284", "859 P.2d 51", "869 P.2d 1093", "882 P.2d 703", "887 P.2d 449"]
+cites_cases: ["108 Wn.2d 314", "117 Wn.2d 37", "122 Wn.2d 544", "126 Wn.2d 50", "131 Wn.2d 1007", "63 Wn. App 278", "66 Wn. App. 735", "70 Wn. App. 471", "73 Wn. App. 426", "738 P.2d 270", "76 Wn. App. 507", "811 P.2d 673", "818 P.2d 608", "834 P.2d 64", "855 P.2d 284", "859 P.2d 51", "869 P.2d 1093", "882 P.2d 703", "887 P.2d 449"]
 ---
 
 # Schrader v. Grange Insurance
