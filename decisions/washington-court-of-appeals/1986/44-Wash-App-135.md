@@ -1,0 +1,34 @@
+---
+court: "Washington Court of Appeals"
+docket: "8154-7-II"
+decided: "1986-06-18"
+citations: ["44 Wash. App. 135"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Bremerton, Respondent, v. James P. Hoyt, Petitioner."]
+source_url: "https://static.case.law/wash-app/44/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1801066
+cites_cases: ["14 Wn. App. 203", "15 Wn. App. 675", "17 Wn. App. 658", "18 Wn. App. 837", "23 Wn. App. 438", "41 Wn. App. 380", "540 P.2d 480", "552 P.2d 693", "564 P.2d 1182", "573 P.2d 805", "576 P.2d 44", "597 P.2d 420", "614 P.2d 1277", "617 P.2d 998", "704 P.2d 657", "89 Wn.2d 788", "94 Wn.2d 112", "94 Wn.2d 498"]
+---
+
+# City of Bremerton v. Hoyt
+
+## Majority (McInturff, J.)
+
+McInturff, J.
+This case involves only one issue: whether James P. Hoyt was denied his right to a speedy trial. We reverse the conviction and order the charge dismissed.
+James P. Hoyt was arraigned December 14, 1982, for charges of driving while his license was suspended while on habitual traffic offender status. He signed a waiver of his right to a jury trial, and the court set trial for January 31, 1983. On January 28, Mr. Hoyt was arraigned on another charge for driving while license suspended. He signed a second jury waiver form. Court appointed counsel sought and obtained a continuance of trial on both charges until a date certain, March 17.
+On February 22, Mr. Hoyt reasserted his rights to a speedy trial and trial by jury. A subsequent motion specifically requesting a jury trial was filed March 7 in district court. Concluding Mr. Hoyt had made an invalid waiver of his right to a jury trial, the court set a new trial date, May 18, because March 17, the date certain established in the continuance, was a nonjury trial day.
+On March 13, Mr. Hoyt moved to dismiss the action, claiming he had been denied his right to a speedy trial. Bremerton Municipal Court denied the motion. Mr. Hoyt then appealed the decision to Kitsap County Superior Court, which concluded no jury trial days were available between March 8 and March 28 and that good cause existed for the municipal court to continue the matter, in its normal scheduling manner, until an open jury date of May 18.
+The Court of Appeals, Division Two, granted discretionary review December 3 on whether the court was justified in continuing the trial until May 18, more than 60 days following the jury request, and also more than 60 days after the prior trial date.
+Did the District Court err in not scheduling defendant's trial within the 60 days of the initial court appearance? The pertinent rule in effect at the time of these incidents was JCrR 3.08, which read:
+Continuances may be granted to either party for good cause shown. Also, the court, on its own motion, may postpone the trial for good and sufficient reason. In either case, the continuance or postponement must be to a date certain. If the defendant is not brought to trial within 60 days from the date of appearance, except where the postponement was requested by the defendant, the court shall order the complaint to be dismissed, unless good cause to the contrary is shown. Dismissal under such circumstances shall be a bar to further prosecution for the offense charged.
+Courts will imply a waiver of these time for trial limits where defendant or his counsel requests a continuance or a late trial date and states good cause for the record. State v. White, 23 Wn. App. 438, 441, 597 P.2d 420 (1979), aff'd, 94 Wn.2d 498, 617 P.2d 998 (1980); State v. Colbert, 17 Wn. App. 658, 564 P.2d 1182 (1977); State ex rel. Rushmore v. Bellevue Dist. Justice Court, 15 Wn. App. 675, 552 P.2d 693 (1976); State v. Livengood, 14 Wn. App. 203, 540 P.2d 480 (1975); see also State v. Ramsay, 41 Wn. App. 380, 383, 704 P.2d 657 (1985) (State v. Mack, 89 Wn.2d 788, 576 P.2d 44 (1978) requires that JCrR 3.08 be interpreted in a manner consistent with CrR 3.3). Waivers of unspecified duration terminate upon the trial date contemporaneously or subsequently set by the court. Ramsay, at 383; State v. Pomeroy, 18 Wn. App. 837, 842, 573 P.2d 805 (1977). Waivers are effective until the expiration date; they cannot be revoked. Ramsay, at 383.
+Here, the court granted Mr. Hoyt's request for a continuance and set the trial date for March 17, 1983. We conclude Mr. Hoyt waived his speedy trial rights until March 17, the day the trial court reset as the new trial date. Consequently, the court was not obligated to reschedule his jury trial within the originally prescribed time limits of the speedy trial rule, which would have been 60 days from January 28.
+We next address whether the court erred when it continued trial to May 18. Mr. Hoyt alleges this continuance foreclosed his speedy trial rights because May 18 was beyond the 60-day speedy trial maximum. We agree. Mr. Hoyt's stipulation to the continuance until March 17 effectively waived his speedy trial rights until that time. The delay between March 17 and May 18, however, exceeded 60 days. Under former JCrR 3.08, a failure to bring a defendant to trial within the 60-day period required dismissal unless the postponement was requested by the defendant, or "good cause" was shown. State v. Lindbo, 94 Wn.2d 112, 114, 614 P.2d 1277 (1980); Ramsay, at 385. Here, neither condition occurred. Mr. Hoyt's trial was postponed until May 18 because the court had no openings until that time. We are not persuaded by the District and Superior Courts' rulings there was "good cause" to set trial 61 days later because of Mr. Hoyt's belated requests for a jury trial. Like any other defendant seeking a jury trial, Mr. Hoyt should have been afforded a jury trial within the 60-day period. As noted recently in Ramsay, '"[I]t is the court's duty to arrange for the requested jury trial', and failure to do so is not 'good cause' for delaying the trial beyond the 60-day period prescribed by JCrR 3.08." Ramsay, at 385 (quoting State v. Mack, supra at 794). We conclude the court erred in failing to dismiss the charges because the delay in bringing Mr. Hoyt to trial, exclusive of his effective period, went beyond 60 days.
+The judgment of the Superior Court is reversed.
+Green, C.J., and Munson, J., concur.
+This discretionary review was heard by a panel of Division Three judges sitting in Division Two.
+This rule has been interpreted as consistent with CrR 3.3. State v. Mack, 89 Wn.2d 788, 792, 576 P.2d 44 (1978); State v. Ramsay, 41 Wn. App. 380, 382 n.1, 704 P.2d 657 (1985). JCrR 3.08 was amended April 13, 1984, to conform more closely to CrR 3.3. Since this case is controlled by prior JCrR 3.08, the waiver provision in the current rule is inapplicable. See JCrR 3.08(f)(2).
