@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34787-0-I"
 decided: "1995-10-30"
-citations: ["80 Wash. App. 97", "79 Wash. App. 1032"]
+citations: ["80 Wash. App. 97"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Douglas Drobny, Appellant, v. The Boeing Company, Respondent."]
 source_url: "https://static.case.law/wash-app/80/cases/0097-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 421098
-cites_cases: ["102 Wn.2d 219", "111 Wn.2d 609", "112 Wn.2d 1013", "118 Wn.2d 512", "122 Wn.2d 1023", "123 Wn.2d 93", "124 Wn.2d 1020", "124 Wn.2d 389", "126 Wn.2d 1006", "53 Wn. App. 33", "54 Wn. App. 688", "66 Wn. App. 350", "685 P.2d 1081", "70 Wn. App. 225", "73 Wn. App. 895", "75 Wn. App. 870", "762 P.2d 1143", "765 P.2d 910", "775 P.2d 474", "80 Wn. App. 97", "826 P.2d 664", "831 P.2d 1147", "852 P.2d 1111", "864 P.2d 937", "872 P.2d 49", "879 P.2d 276", "880 P.2d 1010"]
+cites_cases: ["102 Wn.2d 219", "111 Wn.2d 609", "112 Wn.2d 1013", "118 Wn.2d 512", "122 Wn.2d 1023", "123 Wn.2d 93", "124 Wn.2d 1020", "124 Wn.2d 389", "126 Wn.2d 1006", "53 Wn. App. 33", "54 Wn. App. 688", "66 Wn. App. 350", "685 P.2d 1081", "70 Wn. App. 225", "73 Wn. App. 895", "75 Wn. App. 870", "762 P.2d 1143", "765 P.2d 910", "775 P.2d 474", "826 P.2d 664", "831 P.2d 1147", "852 P.2d 1111", "864 P.2d 937", "872 P.2d 49", "879 P.2d 276", "880 P.2d 1010"]
 ---
 
 # Drobny v. Boeing Co.
