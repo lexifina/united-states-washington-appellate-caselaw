@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36901-6-I"
 decided: "1997-04-14"
-citations: ["89 Wash. App. 156", "85 Wash. App. 1064"]
+citations: ["89 Wash. App. 156"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John F. Ackerman, et al., Plaintiffs, Katherine Yurica, Appellant, v.
 source_url: "https://static.case.law/wash-app/89/cases/0156-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 395124
-cites_cases: ["103 Wn.2d 570", "112 Wn.2d 288", "116 Wn.2d 596", "117 Wn.2d 1013", "119 Wn.2d 34", "119 Wn.2d 640", "12 Wash. 21", "122 Wn.2d 619", "127 Wn.2d 1003", "129 Wn.2d 1019", "134 Wn.2d 1014", "295 P.2d 714", "399 P.2d 68", "40 P. 380", "48 Wn.2d 565", "61 Wn. App. 177", "65 Wn.2d 619", "68 Wn. App. 664", "693 P.2d 718", "7 A.L.R.5th 1034", "76 Wn. App. 267", "770 P.2d 1046", "80 Wn. App. 553", "809 P.2d 143", "810 P.2d 27", "830 P.2d 318", "835 P.2d 1030", "847 P.2d 483", "860 P.2d 390", "866 P.2d 1256", "883 P.2d 1387", "89 Wn. App. 156", "912 P.2d 1028"]
+cites_cases: ["103 Wn.2d 570", "112 Wn.2d 288", "116 Wn.2d 596", "117 Wn.2d 1013", "119 Wn.2d 34", "119 Wn.2d 640", "12 Wash. 21", "122 Wn.2d 619", "127 Wn.2d 1003", "129 Wn.2d 1019", "134 Wn.2d 1014", "295 P.2d 714", "399 P.2d 68", "40 P. 380", "48 Wn.2d 565", "61 Wn. App. 177", "65 Wn.2d 619", "68 Wn. App. 664", "693 P.2d 718", "7 A.L.R.5th 1034", "76 Wn. App. 267", "770 P.2d 1046", "80 Wn. App. 553", "809 P.2d 143", "810 P.2d 27", "830 P.2d 318", "835 P.2d 1030", "847 P.2d 483", "860 P.2d 390", "866 P.2d 1256", "883 P.2d 1387", "912 P.2d 1028"]
 ---
 
 # Ackerman v. Sudden Valley Community Ass'n
