@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22629-8-III"
 decided: "2005-02-08"
-citations: ["127 Wash. App. 1", "125 Wash. App. 1038"]
+citations: ["127 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. George E. Dykstra, Jr., Appel
 source_url: "https://static.case.law/wash-app/127/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2463888
-cites_cases: ["101 Wn.2d 566", "101 Wn.2d 772", "105 Wn.2d 692", "110 Wn. App. 6", "114 Wn.2d 613", "119 P. 751", "126 Wn.2d 136", "127 Wn. App. 1", "127 Wn.2d 628", "128 Wn.2d 693", "137 Wn.2d 792", "140 Wn.2d 362", "156 Wn.2d 1004", "365 P.2d 24", "37 P.3d 1274", "384 U.S. 436", "397 U.S. 358", "480 P.2d 199", "504 P.2d 298", "511 U.S. 1", "514 P.2d 1052", "542 U.S. 296", "55 Wn. App. 166", "58 Wn.2d 816", "66 Wash. 292", "683 P.2d 173", "684 P.2d 668", "718 P.2d 407", "776 P.2d 986", "78 Wn.2d 845", "790 P.2d 610", "81 Wn.2d 664", "82 Wn.2d 872", "86 Wn. App. 48", "87 Wn. App. 440", "892 P.2d 29", "904 P.2d 245", "911 P.2d 996", "935 P.2d 656", "942 P.2d 382", "95 Wn. App. 127", "974 P.2d 879", "975 P.2d 967", "997 P.2d 350"]
+cites_cases: ["101 Wn.2d 566", "101 Wn.2d 772", "105 Wn.2d 692", "110 Wn. App. 6", "114 Wn.2d 613", "119 P. 751", "126 Wn.2d 136", "127 Wn.2d 628", "128 Wn.2d 693", "137 Wn.2d 792", "140 Wn.2d 362", "156 Wn.2d 1004", "365 P.2d 24", "37 P.3d 1274", "384 U.S. 436", "397 U.S. 358", "480 P.2d 199", "504 P.2d 298", "511 U.S. 1", "514 P.2d 1052", "542 U.S. 296", "55 Wn. App. 166", "58 Wn.2d 816", "66 Wash. 292", "683 P.2d 173", "684 P.2d 668", "718 P.2d 407", "776 P.2d 986", "78 Wn.2d 845", "790 P.2d 610", "81 Wn.2d 664", "82 Wn.2d 872", "86 Wn. App. 48", "87 Wn. App. 440", "892 P.2d 29", "904 P.2d 245", "911 P.2d 996", "935 P.2d 656", "942 P.2d 382", "95 Wn. App. 127", "974 P.2d 879", "975 P.2d 967", "997 P.2d 350"]
 ---
 
 # State v. Dykstra
