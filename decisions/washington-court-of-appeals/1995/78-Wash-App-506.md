@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13380-0-III"
 decided: "1995-06-15"
-citations: ["78 Wash. App. 506", "78 Wash. App. 1016"]
+citations: ["78 Wash. App. 506"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Gregory Kirk Whitney, Appella
 source_url: "https://static.case.law/wash-app/78/cases/0506-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 426263
-cites_cases: ["101 Wn.2d 349", "105 Wn.2d 692", "110 Wn. 2d 1017", "111 Wn.2d 471", "113 S. Ct. 421", "114 S. Ct. 118", "114 Wn.2d 1016", "114 Wn.2d 1021", "116 Wn.2d 246", "116 Wn.2d 315", "117 Wn.2d 77", "118 Wn.2d 876", "121 Wn.2d 1007", "128 Wn.2d 1003", "16 Wn. App. 254", "25 Wn. App. 770", "276 U.S. 13", "33 Wn. App. 579", "34 Wn. App. 430", "402 U.S. 535", "414 US 1112", "473 U.S. 667", "479 U.S. 995", "49 Wn. App. 778", "501 U.S. 1237", "508 P.2d 613", "51 Wn. App. 116", "554 P.2d 1069", "56 Wn. App. 485", "56 Wn. App. 603", "57 A.L.R. 1230", "572 P.2d 1094", "610 P.2d 937", "623 P.2d 683", "657 P.2d 338", "661 P.2d 1009", "67 Wn. App. 572", "678 P.2d 332", "718 P.2d 407", "745 P.2d 1335", "751 P.2d 1194", "760 P.2d 925", "78 Wn. App. 506", "784 P.2d 1280", "784 P.2d 176", "8 Wn. App. 627", "804 P.2d 10", "804 P.2d 1241", "811 P.2d 945", "82 Wn.2d 1007", "828 P.2d 1086", "837 P.2d 1037", "89 Wn.2d 338", "95 Wn.2d 257"]
+cites_cases: ["101 Wn.2d 349", "105 Wn.2d 692", "110 Wn. 2d 1017", "111 Wn.2d 471", "113 S. Ct. 421", "114 S. Ct. 118", "114 Wn.2d 1016", "114 Wn.2d 1021", "116 Wn.2d 246", "116 Wn.2d 315", "117 Wn.2d 77", "118 Wn.2d 876", "121 Wn.2d 1007", "128 Wn.2d 1003", "16 Wn. App. 254", "25 Wn. App. 770", "276 U.S. 13", "33 Wn. App. 579", "34 Wn. App. 430", "402 U.S. 535", "414 US 1112", "473 U.S. 667", "479 U.S. 995", "49 Wn. App. 778", "501 U.S. 1237", "508 P.2d 613", "51 Wn. App. 116", "554 P.2d 1069", "56 Wn. App. 485", "56 Wn. App. 603", "57 A.L.R. 1230", "572 P.2d 1094", "610 P.2d 937", "623 P.2d 683", "657 P.2d 338", "661 P.2d 1009", "67 Wn. App. 572", "678 P.2d 332", "718 P.2d 407", "745 P.2d 1335", "751 P.2d 1194", "760 P.2d 925", "784 P.2d 1280", "784 P.2d 176", "8 Wn. App. 627", "804 P.2d 10", "804 P.2d 1241", "811 P.2d 945", "82 Wn.2d 1007", "828 P.2d 1086", "837 P.2d 1037", "89 Wn.2d 338", "95 Wn.2d 257"]
 ---
 
 # State v. Whitney
