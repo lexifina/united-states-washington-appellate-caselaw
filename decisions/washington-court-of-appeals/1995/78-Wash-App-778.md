@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34996-1-I"
 decided: "1995-05-01"
-citations: ["78 Wash. App. 778", "77 Wash. App. 1068", "78 Wash. App. 1000"]
+citations: ["78 Wash. App. 778"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Northwest Steelhead and Salmon Council of Trout Unlimited, et al., Ap
 source_url: "https://static.case.law/wash-app/78/cases/0778-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 426323
-cites_cases: ["110 Wn.2d 308", "122 Wn.2d 397", "72 Wn. App. 862", "752 P.2d 372", "78 Wn. App. 778", "858 P.2d 494", "866 P.2d 687"]
+cites_cases: ["110 Wn.2d 308", "122 Wn.2d 397", "72 Wn. App. 862", "752 P.2d 372", "858 P.2d 494", "866 P.2d 687"]
 ---
 
 # Northwest Steelhead & Salmon Council of Trout Unlimited v. Department of Fisheries
