@@ -1,0 +1,41 @@
+---
+court: "Washington Court of Appeals"
+docket: "5290-7-III"
+decided: "1983-07-19"
+citations: ["35 Wash. App. 402"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McInturff, J., concurs.", "Roe, C.J.—I concur except as to sanctions imposed."]
+parties: ["In the Matter of the Marriage of RaNae Healy, Respondent, and Jay B. Healy, Appellant."]
+source_url: "https://static.case.law/wash-app/35/cases/0402-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1779501
+cites_cases: ["12 Wn. App. 850", "26 Wn. App. 430", "34 Wn. App. 216", "34 Wn. App. 490", "403 P.2d 664", "494 P.2d 208", "532 P.2d 1185", "613 P.2d 187", "621 P.2d 721", "659 P.2d 1097", "66 Wn.2d 503", "660 P.2d 326", "662 P.2d 76", "80 Wn.2d 293", "95 Wn.2d 78", "99 Wn.2d 95"]
+---
+
+# In re the Marriage of Healy
+
+## Majority (Munson, J.)
+
+Munson, J.
+Jay B. Healy appeals the trial court's increased award of support. Mr. Healy does not challenge the court's finding of a substantial change of circumstances but contends the award is "not reasonable." We affirm.
+The marriage of Jay and RaNae Healy was dissolved May 11, 1976. Mrs. Healy was given custody of their four sons, Eric, Jeffrey, Forrest, and Ryan. Their present ages are 22, 18, 14 and 11, respectively. Mr. Healy was ordered to provide $500 per month support for the four boys, to run to age 19 or emancipation.
+Subsequent to the decree, Eric left home and Jeffrey began living with his father, still spending considerable time with his mother. When these changes occurred, Mr. Healy, unilaterally and without court authorization, reduced his support payment by $250, i.e., $125 per child. The court found Mr. Healy was delinquent in support for Jeffrey (delinquent support payments for Eric were not in issue) from September 1978. Although the total unpaid support was $4,125, i.e., $125 times 33 months, the court credited $75 per month to Mr. Healy for the time Jeffrey spent in his father's home, awarding Mrs. Healy $1,650, i.e., 33 months times $50.
+The court found a substantial change of circumstances of the parties, based upon income, expenses necessary to support their children, and the revised living arrangements of the four boys. The court further found Mr. Healy's monthly net income is $1,570 and Mrs. Healy's monthly net income is $993. Based upon these changes, the court, relying on the Spokane County advisory support guidelines, found Mr. Healy should pay $400 per month support for Forrest and Ryan Healy until each reached age 19. When Forrest reached age 19, support payments would be reduced one-third to $267 per month for Ryan. Because Jeffrey had reached age 18 and continued to vacillate on where to live, the court found Mr. Healy should pay an additional $200 per month if Jeffrey chose to live with Mrs. Healy.
+Mr. Healy has not provided challenged findings of fact as required by RAP 10.4(c). The appropriate remedy for failure to comply is a sanction, which may include nonconsideration of the claimed errors. Thomas v. French, 99 Wn.2d 95, 100, 659 P.2d 1097 (1983). Nonetheless, we shall consider them.
+Mr. Healy first challenges the court's support award, contending the court erred in requiring $267 per month support for the final child when, mathematically, the award should be $200 per month per child. He further contends he should receive $175 per month credit toward the $400 per month award he now must pay Mrs. Healy as her share of the cost of supporting Jeffrey in his home.
+Support orders lie in the trial court's discretion. Lambert v. Lambert, 66 Wn.2d 503, 403 P.2d 664 (1965); Collins v. Collins, 12 Wn. App. 850, 532 P.2d 1185 (1975). An abuse is shown only if the discretion has been exercised upon a ground, or to an extent, "clearly untenable or manifestly unreasonable." Friedlander v. Friedlander, 80 Wn.2d 293, 298, 494 P.2d 208 (1972).
+Mr. Healy has not provided anything to show the trial court's discretion has been exercised upon an improper ground or to an unreasonable extent. His contention that it is reasonable to assume the expenses per child will be reduced by one-half when only one child remains at home is incorrect; Mrs. Healy will still be required to pay an equal amount of fixed expenses such as mortgage, utilities, etc., for the remaining child.
+Under the present Uniform Child Support Guidelines (adopted September 1, 1982 by the Superior Court for Spokane County, but relied upon in draft form by the trial court), the discretion appears reasonable. The amount of disposable income is $2,563 per month or $30,756 per annum. Mr. Healy's share is $1,570 per month. Mrs. Healy's share is $993 per month. Mr. Healy is expected to contribute 61.25 percent; Mrs. Healy is expected to contribute 38.75 percent. At the time of hearing, the youngest two children fit schedule B of the guidelines. Support for them would be $622 (low), $699 (medium), or $777 (high) per month. Mr. Healy's share is $380.98 (low), $428.14 (medium) or $475.91 (high). Mr. Healy's share at $400 support per month for two children is reasonable.
+Eighteen-year-olds are not on the schedule. Lowering Jeffrey's age to. 17 and applying the formula set in the schedule, the amount of support Mr. Healy is responsible to pay for three children becomes $519.80 (low), $565.94 (medium), and $611.69 (high). Mr. Healy's share, set at $600 per month for three children, is reasonable.
+Returning to two children, a reduction from $400 to $267 per month (rather than $200 per month) when one child remains under 19 is reasonable. On schedule B, Mr. Healy's support for one child is $208.25 (low), $252.96 (medium), and $297.68 (high). As both parties note, the schedule does not require a precise mathematical reduction per child. This analysis of Mr. Healy's support obligation at his present income disposes of his contention that support for Jeffrey should be deducted from the $400 paid to Mrs. Healy; we find no error in the court's declining to require Mrs. Healy to pay Mr. Healy support for Jeffrey.
+Mr. Healy next contends he should have received full credit for his support of Jeffrey. This argument is not well taken. The unpaid child support payments became accumulated judgments as they became due. Schafer v. Schafer, 95 Wn.2d 78, 80, 621 P.2d 721 (1980); In re Marriage of Chapman, 34 Wn. App. 216, 660 P.2d 326 (1983).
+Special circumstances of an equitable nature, however, may justify a court crediting payments against the accrued support owing when that can be done without injustice to the one to whom the divorce decree directed the installments be paid.
+Schafer v. Schafer, supra at 81. The trial court held Mr. Healy acted inequitably in withholding the entire amount because Mrs. Healy was still required to maintain a home for Jeffrey and still provided for some of Jeffrey's expenses. Even then, the trial court modified the past-due support judgment to allow Mr. Healy a $75 per month credit, apparently believing some equity should be accorded Mr. Healy. In light of the trial court's statement that "respondent husband's responses to his obligations hereunder have been dictatorial and overbearing", the adjustment appears reasonable.
+Mrs. Healy is awarded $1,000 for attorney fees on appeal. Further, we impose sanctions on Mr. Healy and on his attorney. The issues presented here are so devoid of merit that there is no reasonable possibility of reversal. This appeal is frivolous. Dearborn Lumber Co. v. Upton Enters., Inc., 34 Wn. App. 490, 494, 662 P.2d 76 (1983); Streater v. White, 26 Wn. App. 430, 613 P.2d 187 (1980). We impose a sanction of $500 on Mr. Healy as compensatory damage, payable to Mrs. Healy. RAP 18.9(a). A sanction of $500 is imposed on Mr. Healy's attorney, to be paid to the clerk of this court within 30 days after the mandate is filed, for his failure to include challenged findings as required by RAP 10.4(c) and for raising issues which he agreed at oral argument were devoid of merit.
+Judgment is affirmed.
+McInturff, J., concurs.
+Roe, C.J.—I concur except as to sanctions imposed.
+Reconsideration denied August 23, 1983.
+Review denied by Supreme Court November 4, 1983.
