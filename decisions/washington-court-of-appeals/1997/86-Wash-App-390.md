@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15577-3-III"
 decided: "1997-04-17"
-citations: ["86 Wash. App. 390", "85 Wash. App. 1072"]
+citations: ["86 Wash. App. 390"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["CLS Mortgage, Inc., et al., Appellants, v. Lana Bruno, Defendant, Sta
 source_url: "https://static.case.law/wash-app/86/cases/0390-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278908
-cites_cases: ["104 Wn.2d 518", "118 Wash. 514", "120 Wn.2d 178", "122 Wn.2d 157", "130 Wn.2d 1016", "166 Wash. 691", "203 P. 934", "28 Wn. App. 38", "390 P.2d 694", "429 P.2d 886", "44 Wash. 596", "622 P.2d 395", "64 Wn.2d 98", "707 P.2d 125", "71 Wn.2d 579", "8 P.2d 421", "82 Wn. App. 375", "840 P.2d 851", "856 P.2d 1095", "86 Wn. App. 390", "87 P. 928", "917 P.2d 1124", "95 Wn.2d 1023"]
+cites_cases: ["104 Wn.2d 518", "118 Wash. 514", "120 Wn.2d 178", "122 Wn.2d 157", "130 Wn.2d 1016", "166 Wash. 691", "203 P. 934", "28 Wn. App. 38", "390 P.2d 694", "429 P.2d 886", "44 Wash. 596", "622 P.2d 395", "64 Wn.2d 98", "707 P.2d 125", "71 Wn.2d 579", "8 P.2d 421", "82 Wn. App. 375", "840 P.2d 851", "856 P.2d 1095", "87 P. 928", "917 P.2d 1124", "95 Wn.2d 1023"]
 ---
 
 # CLS Mortgage, Inc. v. Bruno
