@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47448-1-I"
 decided: "2002-03-25"
-citations: ["111 Wash. App. 423", "110 Wash. App. 1070"]
+citations: ["111 Wash. App. 423"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Nathaniel E. Tilton, Appellan
 source_url: "https://static.case.law/wash-app/111/cases/0423-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1071868
-cites_cases: ["111 Wn. App. 423", "115 Wn.2d 60", "127 Wn.2d 322", "132 Wn.2d 529", "145 Wn.2d 352", "147 Wn.2d 1007", "24 Wn. App. 495", "369 U.S. 438", "37 P.3d 280", "372 U.S. 487", "381 P.2d 120", "40 Wn. App. 483", "404 U.S. 189", "601 P.2d 982", "62 Wn.2d 64", "63 Wn. App. 170", "698 P.2d 1123", "70 Wn. App. 296", "794 P.2d 850", "817 P.2d 861", "83 Wn. App. 249", "852 P.2d 1130", "899 P.2d 1251", "91 Wn. App. 908", "921 P.2d 549", "940 P.2d 546", "960 P.2d 441"]
+cites_cases: ["115 Wn.2d 60", "127 Wn.2d 322", "132 Wn.2d 529", "145 Wn.2d 352", "147 Wn.2d 1007", "24 Wn. App. 495", "369 U.S. 438", "37 P.3d 280", "372 U.S. 487", "381 P.2d 120", "40 Wn. App. 483", "404 U.S. 189", "601 P.2d 982", "62 Wn.2d 64", "63 Wn. App. 170", "698 P.2d 1123", "70 Wn. App. 296", "794 P.2d 850", "817 P.2d 861", "83 Wn. App. 249", "852 P.2d 1130", "899 P.2d 1251", "91 Wn. App. 908", "921 P.2d 549", "940 P.2d 546", "960 P.2d 441"]
 ---
 
 # State v. Tilton
