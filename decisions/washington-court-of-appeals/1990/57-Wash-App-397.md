@@ -1,0 +1,51 @@
+---
+court: "Washington Court of Appeals"
+docket: "9667-0-III"
+decided: "1990-03-27"
+citations: ["57 Wash. App. 397"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lori J. Nichols, Respondent, v. CNA Insurance Companies, et al, Appellants."]
+source_url: "https://static.case.law/wash-app/57/cases/0397-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1757242
+cites_cases: ["100 Wn.2d 401", "101 Wn.2d 830", "106 Wn.2d 901", "108 Wn.2d 1015", "111 Wn.2d 452", "115 Wn.2d 1003", "13 Wn. App. 345", "339 Mich. 494", "46 Wn. App. 828", "534 P.2d 1388", "545 P.2d 1193", "563 P.2d 815", "631 P.2d 947", "64 N.W.2d 702", "643 P.2d 441", "659 P.2d 509", "670 P.2d 267", "683 P.2d 186", "726 P.2d 439", "733 P.2d 556", "760 P.2d 337", "86 Wn.2d 432", "88 Wn.2d 439", "95 Wn.2d 909", "97 Wn.2d 203", "99 Wn.2d 65"]
+---
+
+# Nichols v. CNA Insurance
+
+## Majority (Green, J.)
+
+Green, J.
+On August 4, 1984, Lori J. Nichols suffered permanent injuries when the motorcycle on which she was a passenger went off the road into a ditch. At the time of the accident, the owner of the motorcycle had no liability insurance.
+The question in this declaratory judgment action is whether the automobile insurance policy issued by CNA Insurance Companies to Ms. Nichols provides coverage. On motions for summary judgment filed by both parties, the trial court found coverage and CNA appeals. We affirm.
+The declarations page of the CNA policy sets forth the liability and physical damage coverages:
+Part C of the liability coverages provides:
+PART C—UNINSURED MOTORISTS COVERAGE Insuring We will pay damages which a covered Agreement person is legally entitled to recover from the owner or operator of an uninsured motor vehicle because of bodily injury:
+1. Sustained by a covered person; and
+2. Caused by an accident.
+"Uninsured motor vehicle" means a land motor vehicle or trailer of any type:
+1. To which no bodily injury liability . . . policy applies at the time of the accident.
+(Italics ours.) Motorcycles are not excluded from this section of the policy.
+Underinsured motorists coverage, consisting of a 3-page endorsement, provides:
+We will pay damages which a covered person is legally entitled to recover from the owner or operator of an underinsured motor vehicle because of:
+1. Bodily injury sustained by a covered person and caused by an accident; . . .
+"Underinsured motor vehicle" means a land motor vehicle or trailer of any type:
+1. To which no liability . . . policy applies at the time of the accident.
+(Italics ours.) Coverage is excluded under this section " [wjhile operating, or occupying, a motorcycle or motor-driven cycle which is not insured for Liability coverage under this policy."
+CNA claims the court erred in finding coverage contending the underinsured motorists coverage in the endorsement prevails over the uninsured motorists coverage in the main policy. In effect, CNA argues the uninsured motorists coverage purchased by the insured is void under RCW 48.22.030(2) and nullified or abrogated by the endorsement. We disagree.
+Insurance policies are to be construed as contracts; interpretation is a matter of law. Kelly v. Aetna Cas. & Sur. Co., 100 Wn.2d 401, 407, 670 P.2d 267 (1983). Insurance contracts are interpreted according to the way they would be understood by the average insurance purchaser. Phil Schroeder, Inc. v. Royal Globe Ins. Co., 99 Wn.2d 65, 68, 659 P.2d 509 (1983), modified on other grounds, 101 Wn.2d 830, 683 P.2d 186 (1984). In construing the language of an insurance contract, the contract as a whole is examined, and if, on the face of the contract, two reasonable and fair interpretations are possible, an ambiguity exists. Morgan v. Prudential Ins. Co. of Am., 86 Wn.2d 432, 435, 545 P.2d 1193 (1976). As we said in Riley v. Viking Ins. Co., 46 Wn. App. 828, 829, 733 P.2d 556, review denied, 108 Wn.2d 1015 (1987), a "policy should be given a fair, reasonable and sensible construction consonant with the apparent object and intent of the parties . . .". When an ambiguity in the policy exists, a meaning and construction most favorable to the insured must be applied, even though the insurer may have intended another meaning. Riley, at 830 (citing E-Z Loader Boat Trailers, Inc. v. Travelers Indem. Co., 106 Wn.2d 901, 907, 726 P.2d 439 (1986)).
+Endorsements are to be read together with the policy to determine the intent of the parties. Transcontinental Ins. Co. v. Washington Pub. Utils. Dists.' Util. Sys., 111 Wn.2d 452, 462, 760 P.2d 337 (1988). In Transcontinental, the court stated at page 462:
+An endorsement becomes a part of the insurance contract even if the result is a new and different contract. As endorsements are later in time, they generally control over inconsistent terms or conditions in a policy. . . .
+An endorsement attached to a policy, which expressly provides that it is subject to the terms, limitations and conditions of the policy, must be read with the policy and will not abrogate or nullify any provision of the policy unless it is so stated in the endorsement. However, if there is ambiguity arising because of the difference of language used in the endorsement and the body of the policy, or between two endorsements, the language of the contract is construed most strongly against the insurer. 1 G. Couch, [Insurance § 4.36,] at 404 [(2d rev. ed. 1984)]; see also Hilburn v. Citizens' Mut. Auto. Ins. Co., 339 Mich. 494, 498, 64 N.W.2d 702 (1954).
+(Italics ours.) There is a strong public policy in favor of assuring monetary protection and compensation to innocent victims of automobile accidents. Mutual of Enumclaw Ins. Co. v. Wiscomb, 97 Wn.2d 203, 206-08, 643 P.2d 441 (1982).
+To the average purchaser, the insurance policy in the present cáse is ambiguous. Giving the policy a fair, reasonable and sensible construction, McDonald Indus., Inc. v. Rollins Leasing Corp., 95 Wn.2d 909, 913, 631 P.2d 947 (1981), the insurance contract is fairly susceptible to two different but reasonable interpretations. Part C of the policy, for which the insured paid a $20 premium, provides uninsured motorists coverage for vehicles for which no bodily injury liability policy is in effect at the time of an accident. Motorcycles are not excluded. Additionally, as stated on the declarations page, Ms. Nichols paid endorsement charges of $20, $10 apparently being allocated to the underinsured motorists cover age-Washington endorsement. Underinsured vehicles are defined in the endorsement as those for which no liability policy is in effect at the time of an accident. However, motorcycles are excluded.
+As we read the policy, instead of broadening coverage, the underinsured motorists endorsement, for which the insured paid an additional premium, in effect limits the uninsured motorists coverage provided for in the policy for which a $20 premium was paid. It is not clear whether the uninsured motorists provision or the endorsement for underinsured coverage applies. Here, even though the declarations page states the endorsements are "SUBJECT TO THE FOLLOWING FORMS, ENDORSEMENTS AND CHARGES", the underinsured endorsement attached to the policy does not expressly state it abrogates or nullifies the uninsured motorists coverage for which a $20 premium was paid. Transcontinental, at 462. Thus, the statement on the declarations page that the liability and physical damage coverages, which include uninsured motorists coverage, is "SUBJECT TO THE FOLLOWING FORMS, ENDORSEMENTS AND CHARGES" does not make clear to the average insurance purchaser the exact extent of the policy coverage. See Phil Schroeder, Inc. v. Royal Globe Ins. Co., supra. The total premium includes both coverages. Hence, we find the coverage ambiguous and construe the policy most favorable to the insured. Nautilus, Inc. v. Trans-america Title Ins. Co., 13 Wn. App. 345, 349, 534 P.2d 1388 (1975).
+We are not persuaded by CNA's contention that the policy's uninsured protection was void under RCW 48.22-.030(2) and therefore the underinsured motorists endorsement applies. The policy provided for uninsured motorists protection and Ms. Nichols paid a premium for it. CNA accepted that premium. Having provided the coverage and collected a premium for it, CNA cannot now contend it is void and unenforceable. Federated Am. Ins. Co. v. Raynes, 88 Wn.2d 439, 447, 563 P.2d 815 (1977).
+It is apparent that CNA wrote the general policy so it could be used in other states as well as in Washington. The endorsements were evidently intended to nullify specific sections to comply with particular state requirements. To accomplish this, an endorsement must specifically refer to the sections of the main policy to be deleted and expressly state that section is nullified or deleted by the endorsement. A premium should not be collected for the deleted coverage. Part F of the instant policy authorizes such changes. In our view, the clearest way to handle the matter would be to have a Washington form so the average insured is clearly informed of the extent of or limitation on coverage. That did not occur here. Thus, the insured is left in an ambiguous situation having been charged premiums for both coverages and CNA denying coverage for one. CNA will not be permitted to prevail in that situation.
+Affirmed.
+Munson, C.J., and Shields, J., concur.
+Review denied at 115 Wn.2d 1003 (1990).
+CNA argues this language was unenforceable since it offended RCW 48.22-.030(2). That statute provides:
+"No new policy or renewal of an existing policy insuring against loss resulting from liability imposed by law for bodily injury, death, or property damage, suffered by any person arising out of the ownership, maintenance, or use of a motor vehicle shall be issued with respect to any motor vehicle registered or principally garaged in this state unless coverage is provided therein or supplemental thereto for the protection of persons insured thereunder who are legally entitled to recover damages from owners or operators of underinsured motor vehicles, hit- and-run motor vehicles, and phantom vehicles because of bodily injury, death, or property damage, resulting therefrom, except while operating or occupying a motorcycle or motor-driven cycle, . . .".
