@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "21917-4-II"
+decided: "1999-05-07"
+citations: ["95 Wash. App. 480"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Jose Ramirez Hernandez, Appellant."]
+source_url: "https://static.case.law/wash-app/95/cases/0480-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 255130
+cites_cases: ["109 Wn.2d 207", "118 Wn.2d 773", "125 Wn.2d 212", "125 Wn.2d 378", "125 Wn.2d 407", "129 Wn.2d 652", "135 Wn.2d 365", "56 Wn. App. 803", "61 Wn. App. 812", "63 Wn. App. 303", "743 P.2d 1237", "749 P.2d 160", "76 Wn. App. 174", "77 Wn. App. 242", "785 P.2d 1144", "812 P.2d 868", "818 P.2d 1116", "827 P.2d 996", "883 P.2d 320", "883 P.2d 341", "885 P.2d 824", "886 P.2d 123", "890 P.2d 1066", "921 P.2d 473", "957 P.2d 216"]
+---
+
+# State v. Hernandez
+
+## Majority (Hunt, J.)
+
+Hunt, J.
+— Jose Ramirez Hernandez appeals his offender score for sentencing on two convictions: possession of cocaine with intent to deliver, and simple possession of methamphetamine. Holding that the two crimes do not constitute the “same criminal conduct” for sentencing purposes, we affirm.
+FACTS
+A search of Hernandez’s residence produced 2.3 grams of cocaine, .9 gram of methamphetamine, drug paraphernalia, and $1143 in cash (including cash found on Hernandez’s person). The State charged him with two counts of possession with intent to deliver. A jury convicted him of Count I, possession of cocaine with intent to deliver, as charged, (Clerk’s Papers (CP) at 33) and Count II, the lesser included offense of simple possession of methamphetamine.
+The trial court imposed concurrent sentences of 26 months for Count I and 45 days for Count II. The 26-month sentence is the low end of the standard range of 26-34 months for possession with intent to deliver, based on an offender score of 1, calculated by considering the two current offenses as separate criminal conduct under the Sentencing Reform Act of 1981 (SRA), RCW 9.94A-.400(l)(a). Hernandez argues that the trial court should have considered the two convictions as the same criminal conduct, yielding an offender score of zero and a standard range of 21 to 27 months.
+ANALYSIS
+SAME CRIMINAL CONDUCT
+We review for abuse of discretion or misapplication of the law a trial court’s determination of whether two crimes constitute the “same criminal conduct.” State v. Maxfield, 125 Wn.2d 378, 402, 886 P.2d 123 (1994). Under the SRA, two or more crimes may be considered the same criminal conduct if they (1) require the same criminal intent, (2) are committed at the same time and place, and (3) involve the same victim. RCW 9.94A.400(l)(a). These factors are a codification of the common law test developed in State v. Dunaway, 109 Wn.2d 207, 215, 743 P.2d 1237, 749 P.2d 160 (1987). State v. Rodriguez, 61 Wn. App. 812, 815, 812 P.2d 868 (1991).
+“All three prongs must be met; the absence of any one of them prevents a finding of ‘same criminal conduct’ ” State v. Vike, 125 Wn.2d 407, 410, 885 P.2d 824 (1994) (citing State v. Lessley, 118 Wn.2d 773, 778, 827 P.2d 996 (1992)). The State does not dispute that Hernandez’s two crimes involved the same victim and were committed at the same time and place. Thus, the only issue before us is whether both crimes involved the same intent.
+Intent is assessed objectively, rather than subjectively. State v. Rodriguez, 61 Wn. App. at 816. First, we must “objectively view” each underlying statute and determine whether the required intents are the same or different for each count. Id. If the intents are different, the offenses will count as separate crimes. If they are the same, we next “objectively view” the facts usable at sentencing to determine whether a defendant’s intent was the same or different with respect to each count. Id.
+Specific intent to deliver a controlled substance is a statutory element of the crime of possession with intent to deliver. RCW 69.50.401(a)(1). “Objectively viewed, the intent of delivery is to transfer the narcotics from one person to another usually, if not universally, with an expectation of benefit to the person effecting the delivery” State v. Baldwin, 63 Wn. App. 303, 307, 818 P.2d 1116 (1991).
+In contrast, the crime of simple possession has no corresponding statutory intent element, RCW 69.50.401(d); rather, except for an unwitting possession defense, it is a strict liability crime. Vike, 125 Wn.2d at 412. Objectively viewed, the criminal purpose of simple possession is to have the narcotics available and under the control of the possessor to use as he or she sees fit. State v. Adame, 56 Wn. App. 803, 811, 785 P.2d 1144 (1990).
+The Washington Supreme Court has also suggested that failure to satisfy the “intent” element can lead to a determination of different criminal conduct only where the crimes charged have “different statutory mental elements.” State v. Williams, 135 Wn.2d 365, 368, 957 P.2d 216 (1998). Where, as here, one of the two crimes charged has no statutory mental element and the other one does, the two crimes’ statutory mental elements are nonetheless different.
+Affirming the trial court here yields an anomalous result: A first time offender convicted of simultaneous, multiple counts of possession with intent to deliver (the same criminal conduct) will face a lower offender score (zero), and thus a lower standard range, than a similar defendant, such as Ramirez Hernandez, convicted of one count of possession with intent to deliver and one count of simple possession (different criminal conduct), whose offender score would be one. This result is contrary to the Legislature’s express purpose in enacting the SRA: To punish more severely multiple serious crimes and to punish less harshly lesser crimes. RCW 9.94A.010.
+But Washington’s sentencing scheme is a statutory creation. Unambiguous plain language is not subject to construction. State v. Wilson, 125 Wn.2d 212, 217, 883 P.2d 320 (1994). We can neither modify a statute by construction nor read into it things that we suspect the Legislature unintentionally omitted. State v. Hursh, 77 Wn. App. 242, 246, 890 P.2d 1066 (1995). There is no exception to the three-pronged test provided in RCW 9.94A.400(l)(a), and we cannot create one. It is thus for the Legislature, not the courts, to mitigate this anomalous result if it so chooses. See State v. Manussier, 129 Wn.2d 652, 667, 921 P.2d 473 (1996).
+Where one crime has a statutory intent element and the other does not, the two crimes, as a matter of law, cannot constitute the same criminal conduct. The term “same criminal conduct” is to be construed narrowly. State v. Flake, 76 Wn. App. 174, 180, 883 P.2d 341 (1994). That one crime has a statutory intent element, which the other crime lacks, is tantamount to the two crimes having different statutory intents; therefore, the two crimes cannot constitute the same criminal conduct. We affirm.
+Armstrong, A.C.J., and Houghton, J., concur.
+RCW 9.94A.400(l)(a) provides in relevant part:
+whenever a person is to be sentenced for two or more current offenses, the sentence range for each current offense shall be determined by using all other current and prior convictions-as if they were prior convictions for the purpose of the offender score: PROVIDED, That if the court enters a finding that some or all of the current offenses encompass the same criminal conduct then those current offenses shall he counted as one crime. . . .
+The State argues that since Hernandez’s 26-month sentence falls within the standard range for the offender score he seeks, he may not appeal. The law is otherwise. See State v. Rodriguez, 61 Wn. App. 812, 814-15, 812 P.2d 868 (1991).
+In Baldwin, Division One held that possession and delivery crimes did not constitute the same criminal conduct, even though the possession charge was based on the fact that the defendant was given a “cut” of the cocaine he delivered. 63 Wn. App. at 307-08.
+“Ironically, intent to possess is not an element of the crime of possession.” Baldwin, 63 Wn. App. at 307 n.6. “[I]n a prosecution for simple possession . . . there is no intent requirement.” Vike, 125 Wn.2d at 412.
+Although the Vike court noted that interpretations of RCW 9.94A.400(l)(a) should avoid counterintuitive results, that case dealt with two counts of the same crime, not two different crimes, as we have here. 125 Wn.2d at 412.
