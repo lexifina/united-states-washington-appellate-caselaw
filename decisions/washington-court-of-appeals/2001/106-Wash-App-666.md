@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45623-7-I"
 decided: "2001-04-02"
-citations: ["106 Wash. App. 666", "105 Wash. App. 1036"]
+citations: ["106 Wash. App. 666"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Connie Haubry, Appellant, v. Lawrence W. Snow, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/106/cases/0666-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240436
-cites_cases: ["1 P.3d 1124", "103 Wn.2d 401", "106 Wn. App. 666", "109 Wn.2d 48", "112 Wn.2d 193", "113 Wn.2d 254", "113 Wn.2d 612", "120 Wn.2d 512", "120 Wn.2d 57", "122 Wn.2d 483", "127 Wn.2d 302", "127 Wn.2d 853", "130 Wn.2d 128", "130 Wn.2d 97", "136 Wn.2d 122", "141 Wn.2d 29", "19 Wn. App. 48", "29 Wn. App. 382", "50 Wn. App. 37", "510 U.S. 17", "524 U.S. 775", "530 P.2d 291", "553 P.2d 1096", "573 P.2d 389", "628 P.2d 506", "693 P.2d 708", "71 Wn. App. 132", "742 P.2d 1230", "747 P.2d 1124", "77 Wn. App. 507", "770 P.2d 1027", "778 P.2d 1031", "782 P.2d 1002", "79 Wn. App. 808", "80 Wn. App. 212", "80 Wn. App. 843", "80 Wn. App. 877", "837 P.2d 618", "844 P.2d 389", "85 Wn. App. 405", "85 Wn.2d 52", "856 P.2d 746", "859 P.2d 26", "865 P.2d 507", "87 Wn. App. 17", "87 Wn.2d 424", "892 P.2d 1102", "898 P.2d 284", "904 P.2d 278", "905 P.2d 392", "907 P.2d 1223", "912 P.2d 1035", "912 P.2d 1052", "921 P.2d 1059", "922 P.2d 43", "932 P.2d 1261", "939 P.2d 1237", "960 P.2d 424", "971 P.2d 520", "99 Wn. App. 156", "991 P.2d 674"]
+cites_cases: ["1 P.3d 1124", "103 Wn.2d 401", "109 Wn.2d 48", "112 Wn.2d 193", "113 Wn.2d 254", "113 Wn.2d 612", "120 Wn.2d 512", "120 Wn.2d 57", "122 Wn.2d 483", "127 Wn.2d 302", "127 Wn.2d 853", "130 Wn.2d 128", "130 Wn.2d 97", "136 Wn.2d 122", "141 Wn.2d 29", "19 Wn. App. 48", "29 Wn. App. 382", "50 Wn. App. 37", "510 U.S. 17", "524 U.S. 775", "530 P.2d 291", "553 P.2d 1096", "573 P.2d 389", "628 P.2d 506", "693 P.2d 708", "71 Wn. App. 132", "742 P.2d 1230", "747 P.2d 1124", "77 Wn. App. 507", "770 P.2d 1027", "778 P.2d 1031", "782 P.2d 1002", "79 Wn. App. 808", "80 Wn. App. 212", "80 Wn. App. 843", "80 Wn. App. 877", "837 P.2d 618", "844 P.2d 389", "85 Wn. App. 405", "85 Wn.2d 52", "856 P.2d 746", "859 P.2d 26", "865 P.2d 507", "87 Wn. App. 17", "87 Wn.2d 424", "892 P.2d 1102", "898 P.2d 284", "904 P.2d 278", "905 P.2d 392", "907 P.2d 1223", "912 P.2d 1035", "912 P.2d 1052", "921 P.2d 1059", "922 P.2d 43", "932 P.2d 1261", "939 P.2d 1237", "960 P.2d 424", "971 P.2d 520", "99 Wn. App. 156", "991 P.2d 674"]
 ---
 
 # Haubry v. Snow
