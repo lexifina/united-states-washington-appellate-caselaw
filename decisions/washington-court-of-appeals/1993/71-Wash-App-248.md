@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31581-1-I"
 decided: "1993-08-02"
-citations: ["71 Wash. App. 248", "70 Wash. App. 1070"]
+citations: ["71 Wash. App. 248"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["George Fujii, et al, Appellants, v. State Farm Fire & Casualty Compan
 source_url: "https://static.case.law/wash-app/71/cases/0248-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787029
-cites_cases: ["106 Wn.2d 806", "11 Wn. App. 632", "123 Wn.2d 1009", "524 P.2d 427", "71 Wn. App. 248", "725 P.2d 957", "84 Wn.2d 1014"]
+cites_cases: ["106 Wn.2d 806", "11 Wn. App. 632", "123 Wn.2d 1009", "524 P.2d 427", "725 P.2d 957", "84 Wn.2d 1014"]
 ---
 
 # Fujii v. State Farm Fire & Casualty Co.
