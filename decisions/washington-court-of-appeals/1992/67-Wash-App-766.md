@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27388-4-I"
 decided: "1992-08-10"
-citations: ["67 Wash. App. 766", "66 Wash. App. 1065"]
+citations: ["67 Wash. App. 766"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Peter M. Ford, et al, Appellants, v. Red Lion Inns, Respondent."]
 source_url: "https://static.case.law/wash-app/67/cases/0766-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715325
-cites_cases: ["101 Wn.2d 226", "103 Wn.2d 800", "106 Wn.2d 658", "108 R.I. 770", "112 Wn.2d 216", "116 Wn.2d 1007", "116 Wn.2d 452", "120 Wn.2d 1029", "135 Wash. 56", "236 P. 801", "35 Wn. App. 324", "39 Wn. App. 557", "40 Wn. App. 577", "41 A.L.R. 263", "414 P.2d 773", "49 A.L.R.3d 382", "503 P.2d 134", "529 P.2d 1054", "59 Wn. App. 303", "606 P.2d 1214", "63 Wn. App. 627", "65 Wn. App. 474", "666 P.2d 392", "67 Wn. App. 766", "677 P.2d 166", "68 Wn.2d 644", "694 P.2d 666", "699 P.2d 217", "699 P.2d 793", "7 Wn. App. 852", "724 P.2d 991", "770 P.2d 182", "796 P.2d 1291", "805 P.2d 793", "81 Wn.2d 1009", "821 P.2d 75", "828 P.2d 650", "84 Wn.2d 866", "93 Wn.2d 127"]
+cites_cases: ["101 Wn.2d 226", "103 Wn.2d 800", "106 Wn.2d 658", "108 R.I. 770", "112 Wn.2d 216", "116 Wn.2d 1007", "116 Wn.2d 452", "120 Wn.2d 1029", "135 Wash. 56", "236 P. 801", "35 Wn. App. 324", "39 Wn. App. 557", "40 Wn. App. 577", "41 A.L.R. 263", "414 P.2d 773", "49 A.L.R.3d 382", "503 P.2d 134", "529 P.2d 1054", "59 Wn. App. 303", "606 P.2d 1214", "63 Wn. App. 627", "65 Wn. App. 474", "666 P.2d 392", "677 P.2d 166", "68 Wn.2d 644", "694 P.2d 666", "699 P.2d 217", "699 P.2d 793", "7 Wn. App. 852", "724 P.2d 991", "770 P.2d 182", "796 P.2d 1291", "805 P.2d 793", "81 Wn.2d 1009", "821 P.2d 75", "828 P.2d 650", "84 Wn.2d 866", "93 Wn.2d 127"]
 ---
 
 # Ford v. Red Lion Inns
