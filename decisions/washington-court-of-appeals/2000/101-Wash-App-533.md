@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42721-1-I"
 decided: "2000-07-10"
-citations: ["101 Wash. App. 533", "101 Wash. App. 1062"]
+citations: ["101 Wash. App. 533"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ronald Dean Kennard, Appellan
 source_url: "https://static.case.law/wash-app/101/cases/0533-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170548
-cites_cases: ["101 Wn. App. 533", "117 Wn.2d 242", "119 Wn.2d 192", "126 Wn.2d 244", "127 Wn.2d 67", "133 Wn.2d 67", "136 Wn.2d 767", "137 Wn.2d 712", "139 Wn.2d 107", "142 Wn.2d 1011", "172 F.3d 1104", "172 F.3d 1121", "34 Wn. App. 865", "664 P.2d 1291", "700 F.2d 638", "75 Wn. App. 278", "788 F.2d 544", "814 P.2d 1160", "829 P.2d 1068", "877 P.2d 252", "893 P.2d 615", "896 P.2d 682", "941 P.2d 661", "966 P.2d 883", "976 P.2d 1229", "985 P.2d 365"]
+cites_cases: ["117 Wn.2d 242", "119 Wn.2d 192", "126 Wn.2d 244", "127 Wn.2d 67", "133 Wn.2d 67", "136 Wn.2d 767", "137 Wn.2d 712", "139 Wn.2d 107", "142 Wn.2d 1011", "172 F.3d 1104", "172 F.3d 1121", "34 Wn. App. 865", "664 P.2d 1291", "700 F.2d 638", "75 Wn. App. 278", "788 F.2d 544", "814 P.2d 1160", "829 P.2d 1068", "877 P.2d 252", "893 P.2d 615", "896 P.2d 682", "941 P.2d 661", "966 P.2d 883", "976 P.2d 1229", "985 P.2d 365"]
 ---
 
 # State v. Kennard
