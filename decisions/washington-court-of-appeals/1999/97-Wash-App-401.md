@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43605-8-I"
 decided: "1999-09-07"
-citations: ["97 Wash. App. 401", "97 Wash. App. 1026"]
+citations: ["97 Wash. App. 401"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. W.C.F., Appellant."]
 source_url: "https://static.case.law/wash-app/97/cases/0401-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184269
-cites_cases: ["102 Wn.2d 300", "118 Wn.2d 551", "123 Wn.2d 779", "127 Wn.2d 281", "137 Wn.2d 774", "34 Wn. App. 82", "659 P.2d 1124", "684 P.2d 1290", "825 P.2d 314", "83 Wn. App. 312", "871 P.2d 590", "898 P.2d 838", "922 P.2d 100", "97 Wn. App. 401", "975 P.2d 1020"]
+cites_cases: ["102 Wn.2d 300", "118 Wn.2d 551", "123 Wn.2d 779", "127 Wn.2d 281", "137 Wn.2d 774", "34 Wn. App. 82", "659 P.2d 1124", "684 P.2d 1290", "825 P.2d 314", "83 Wn. App. 312", "871 P.2d 590", "898 P.2d 838", "922 P.2d 100", "975 P.2d 1020"]
 ---
 
 # State v. W.C.F.
