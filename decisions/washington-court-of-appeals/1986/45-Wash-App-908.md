@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16855-0-I"
 decided: "1986-10-13"
-citations: ["45 Wash. App. 908", "45 Wash. App. 1027"]
+citations: ["45 Wash. App. 908"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Guadalupe Corona Ortiz, Respondent, 
 source_url: "https://static.case.law/wash-app/45/cases/0908-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809098
-cites_cases: ["118 A.L.R. 1484", "196 Wash. 357", "21 Wn. App. 228", "33 Wn. App. 48", "39 Wn. App. 493", "404 U.S. 97", "43 Wn. App. 423", "45 Wn. App. 908", "546 P.2d 81", "575 P.2d 201", "584 P.2d 971", "651 P.2d 262", "665 P.2d 883", "693 P.2d 1386", "717 P.2d 316", "83 P.2d 221", "86 Wn.2d 439", "89 Wn.2d 592", "99 Wn.2d 913"]
+cites_cases: ["118 A.L.R. 1484", "196 Wash. 357", "21 Wn. App. 228", "33 Wn. App. 48", "39 Wn. App. 493", "404 U.S. 97", "43 Wn. App. 423", "546 P.2d 81", "575 P.2d 201", "584 P.2d 971", "651 P.2d 262", "665 P.2d 883", "693 P.2d 1386", "717 P.2d 316", "83 P.2d 221", "86 Wn.2d 439", "89 Wn.2d 592", "99 Wn.2d 913"]
 ---
 
 # In re the Marriage of Ortiz
