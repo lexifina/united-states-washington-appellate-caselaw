@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21459-4-I"
 decided: "1989-02-27"
-citations: ["53 Wash. App. 1001", "53 Wash. App. 1052"]
+citations: ["53 Wash. App. 1001"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Carl Giles, Appellant, v. The Horse Racing Commission, Respondent."]
 source_url: "https://static.case.law/wash-app/53/cases/0932-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764168
-cites_cases: ["108 Wn.2d 1013", "108 Wn.2d 82", "446 U.S. 979", "457 U.S. 1211", "46 Wn. App. 351", "51 Wn. App. 621", "53 Wn. App. 932", "573 P.2d 2", "601 P.2d 936", "647 P.2d 6", "659 P.2d 528", "730 P.2d 726", "736 P.2d 639", "754 P.2d 1009", "89 Wn.2d 379", "92 Wn.2d 831", "97 Wn.2d 493", "99 Wn.2d 44"]
+cites_cases: ["108 Wn.2d 1013", "108 Wn.2d 82", "446 U.S. 979", "457 U.S. 1211", "46 Wn. App. 351", "51 Wn. App. 621", "573 P.2d 2", "601 P.2d 936", "647 P.2d 6", "659 P.2d 528", "730 P.2d 726", "736 P.2d 639", "754 P.2d 1009", "89 Wn.2d 379", "92 Wn.2d 831", "97 Wn.2d 493", "99 Wn.2d 44"]
 ---
 
 # Giles v. Horse Racing Commission
