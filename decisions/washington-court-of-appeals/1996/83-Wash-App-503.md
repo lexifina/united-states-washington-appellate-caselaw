@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18307-2-II"
 decided: "1996-09-06"
-citations: ["83 Wash. App. 503", "83 Wash. App. 1005"]
+citations: ["83 Wash. App. 503"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Harvey G. Jerrels, Appellant.
 source_url: "https://static.case.law/wash-app/83/cases/0503-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1190383
-cites_cases: ["110 Wn.2d 504", "118 Wn.2d 1007", "61 Wn. App. 354", "69 Wn. App. 295", "72 Wn. App. 359", "755 P.2d 174", "80 Wn. App. 116", "810 P.2d 74", "83 Wn. App. 503", "846 P.2d 564", "864 P.2d 426", "906 P.2d 999"]
+cites_cases: ["110 Wn.2d 504", "118 Wn.2d 1007", "61 Wn. App. 354", "69 Wn. App. 295", "72 Wn. App. 359", "755 P.2d 174", "80 Wn. App. 116", "810 P.2d 74", "846 P.2d 564", "864 P.2d 426", "906 P.2d 999"]
 ---
 
 # State v. Jerrels
