@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21205-6-II"
 decided: "1998-03-13"
-citations: ["90 Wash. App. 501", "89 Wash. App. 1056"]
+citations: ["90 Wash. App. 501"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Washington Federation of State Employees, Respondent, v. The Departme
 source_url: "https://static.case.law/wash-app/90/cases/0501-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428756
-cites_cases: ["115 Wn.2d 21", "115 Wn.2d 594", "118 Wn.2d 801", "119 Wn.2d 452", "119 Wn.2d 640", "121 Wn.2d 8", "132 Wn.2d 1", "58 Wn. App. 433", "585 P.2d 474", "75 Wn. App. 611", "793 P.2d 962", "793 P.2d 989", "800 P.2d 359", "804 P.2d 1", "828 P.2d 549", "832 P.2d 1303", "835 P.2d 1030", "846 P.2d 531", "86 Wn. App. 1", "879 P.2d 313", "90 Wn. App. 501", "90 Wn.2d 698", "933 P.2d 1080", "935 P.2d 1294"]
+cites_cases: ["115 Wn.2d 21", "115 Wn.2d 594", "118 Wn.2d 801", "119 Wn.2d 452", "119 Wn.2d 640", "121 Wn.2d 8", "132 Wn.2d 1", "58 Wn. App. 433", "585 P.2d 474", "75 Wn. App. 611", "793 P.2d 962", "793 P.2d 989", "800 P.2d 359", "804 P.2d 1", "828 P.2d 549", "832 P.2d 1303", "835 P.2d 1030", "846 P.2d 531", "86 Wn. App. 1", "879 P.2d 313", "90 Wn.2d 698", "933 P.2d 1080", "935 P.2d 1294"]
 ---
 
 # Washington Federation of State Employees v. Department of Social & Health Services
