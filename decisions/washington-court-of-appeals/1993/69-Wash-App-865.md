@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29220-0-I"
 decided: "1993-04-26"
-citations: ["69 Wash. App. 865", "69 Wash. App. 1060"]
+citations: ["69 Wash. App. 865"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Evan Morris, Respondent, v. Thomas R. Maks, et al, Appellants."]
 source_url: "https://static.case.law/wash-app/69/cases/0865-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1700478
-cites_cases: ["100 Wn.2d 1015", "118 Wn.2d 306", "120 Wn.2d 1027", "122 Wn.2d 1020", "136 P. 673", "35 Wn. App. 169", "408 P.2d 382", "665 P.2d 1383", "67 Wn. App. 176", "67 Wn.2d 514", "69 Wn. App. 865", "76 Wash. 480", "822 P.2d 271", "829 F.2d 888", "834 P.2d 662"]
+cites_cases: ["100 Wn.2d 1015", "118 Wn.2d 306", "120 Wn.2d 1027", "122 Wn.2d 1020", "136 P. 673", "35 Wn. App. 169", "408 P.2d 382", "665 P.2d 1383", "67 Wn. App. 176", "67 Wn.2d 514", "76 Wash. 480", "822 P.2d 271", "829 F.2d 888", "834 P.2d 662"]
 ---
 
 # Morris v. Maks
