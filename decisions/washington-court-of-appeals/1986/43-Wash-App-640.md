@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "6339-9-III"
 decided: "1986-04-29"
-citations: ["43 Wash. App. 640", "43 Wash. App. 1041"]
+citations: ["43 Wash. App. 640"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Saranak Chhuth, as Administrator, et al, Appellants, v. Sondra Michel
 source_url: "https://static.case.law/wash-app/43/cases/0640-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1806461
-cites_cases: ["100 Wn.2d 204", "100 Wn.2d 421", "100 Wn.2d 581", "102 Wn.2d 68", "104 Wn.2d 662", "105 Wn.2d 114", "105 Wn.2d 118", "105 Wn.2d 99", "3 Wn. App. 449", "32 Wn. App. 230", "350 P.2d 471", "37 Wn. App. 259", "43 Wn. App. 640", "468 P.2d 1000", "476 P.2d 141", "525 P.2d 228", "55 Wn.2d 785", "551 P.2d 748", "606 P.2d 275", "646 P.2d 790", "667 P.2d 78", "671 P.2d 230", "675 P.2d 193", "680 P.2d 432", "684 P.2d 692", "709 P.2d 774", "712 P.2d 293", "712 P.2d 294", "713 P.2d 79", "77 Wn.2d 955", "84 Wn.2d 239", "87 Wn.2d 217", "93 Wn.2d 143"]
+cites_cases: ["100 Wn.2d 204", "100 Wn.2d 421", "100 Wn.2d 581", "102 Wn.2d 68", "104 Wn.2d 662", "105 Wn.2d 114", "105 Wn.2d 118", "105 Wn.2d 99", "3 Wn. App. 449", "32 Wn. App. 230", "350 P.2d 471", "37 Wn. App. 259", "468 P.2d 1000", "476 P.2d 141", "525 P.2d 228", "55 Wn.2d 785", "551 P.2d 748", "606 P.2d 275", "646 P.2d 790", "667 P.2d 78", "671 P.2d 230", "675 P.2d 193", "680 P.2d 432", "684 P.2d 692", "709 P.2d 774", "712 P.2d 293", "712 P.2d 294", "713 P.2d 79", "77 Wn.2d 955", "84 Wn.2d 239", "87 Wn.2d 217", "93 Wn.2d 143"]
 ---
 
 # Chhuth v. George
