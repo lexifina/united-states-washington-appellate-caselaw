@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17786-2-II"
 decided: "1996-06-28"
-citations: ["82 Wash. App. 807", "82 Wash. App. 1024"]
+citations: ["82 Wash. App. 807"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Karen J. Callahan, Individually and as Personal Representative, Appel
 source_url: "https://static.case.law/wash-app/82/cases/0807-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043749
-cites_cases: ["102 Wn.2d 477", "545 P.2d 1193", "687 P.2d 1139", "70 Wn. App. 471", "82 Wn. App. 807", "855 P.2d 284", "86 Wn.2d 432"]
+cites_cases: ["102 Wn.2d 477", "545 P.2d 1193", "687 P.2d 1139", "70 Wn. App. 471", "855 P.2d 284", "86 Wn.2d 432"]
 ---
 
 # Callahan v. State Farm Life Insurance
