@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21582-2-III"
 decided: "2004-07-15"
-citations: ["123 Wash. App. 546", "122 Wash. App. 1031"]
+citations: ["123 Wash. App. 546"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Timothy R. Cote, Appellant."]
 source_url: "https://static.case.law/wash-app/123/cases/0546-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1118095
-cites_cases: ["117 Wn. App. 702", "123 Wn. App. 546", "14 Wn. App. 414", "151 Wn.2d 1007", "459 P.2d 400", "46 Wn. App. 728", "539 P.2d 680", "542 P.2d 122", "567 P.2d 1136", "57 Wn. App. 383", "616 P.2d 628", "72 P.3d 1134", "731 P.2d 1170", "77 Wn.2d 27", "788 P.2d 21", "80 Wn. App. 342", "83 Wn. App. 204", "85 Wn.2d 758", "86 Wn.2d 1010", "88 Wn.2d 899", "908 P.2d 892", "921 P.2d 572", "94 Wn.2d 216"]
+cites_cases: ["117 Wn. App. 702", "14 Wn. App. 414", "151 Wn.2d 1007", "459 P.2d 400", "46 Wn. App. 728", "539 P.2d 680", "542 P.2d 122", "567 P.2d 1136", "57 Wn. App. 383", "616 P.2d 628", "72 P.3d 1134", "731 P.2d 1170", "77 Wn.2d 27", "788 P.2d 21", "80 Wn. App. 342", "83 Wn. App. 204", "85 Wn.2d 758", "86 Wn.2d 1010", "88 Wn.2d 899", "908 P.2d 892", "921 P.2d 572", "94 Wn.2d 216"]
 ---
 
 # State v. Cote
