@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47645-9-I"
 decided: "2002-04-22"
-citations: ["112 Wash. App. 192", "111 Wash. App. 1017"]
+citations: ["112 Wash. App. 192"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donald B. Murphy Contractors, Inc., Appellant, v. King County, Respon
 source_url: "https://static.case.law/wash-app/112/cases/0192-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719278
-cites_cases: ["105 Wn.2d 878", "106 Wn.2d 96", "108 Wn.2d 162", "112 Wn. App. 192", "119 Wn.2d 640", "124 Wn.2d 158", "133 Wn.2d 509", "135 Wn.2d 820", "137 Wn.2d 500", "371 U.S. 178", "41 Wn. App. 763", "530 F. Supp. 190", "61 Wn. App 640", "682 P.2d 1108", "706 P.2d 636", "719 P.2d 120", "720 P.2d 805", "736 P.2d 249", "749 F.2d 1277", "811 P.2d 968", "835 P.2d 1030", "84 Wn. App. 755", "876 P.2d 435", "930 P.2d 921", "946 P.2d 760", "959 P.2d 651", "974 P.2d 316"]
+cites_cases: ["105 Wn.2d 878", "106 Wn.2d 96", "108 Wn.2d 162", "119 Wn.2d 640", "124 Wn.2d 158", "133 Wn.2d 509", "135 Wn.2d 820", "137 Wn.2d 500", "371 U.S. 178", "41 Wn. App. 763", "530 F. Supp. 190", "61 Wn. App 640", "682 P.2d 1108", "706 P.2d 636", "719 P.2d 120", "720 P.2d 805", "736 P.2d 249", "749 F.2d 1277", "811 P.2d 968", "835 P.2d 1030", "84 Wn. App. 755", "876 P.2d 435", "930 P.2d 921", "946 P.2d 760", "959 P.2d 651", "974 P.2d 316"]
 ---
 
 # Donald B. Murphy Contractors, Inc. v. King County
