@@ -1,0 +1,57 @@
+---
+court: "Washington Court of Appeals"
+docket: "12596-0-II"
+decided: "1990-07-16"
+citations: ["58 Wash. App. 511"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Judy L. Parks, Respondent, and Marven F. Parks, Appellant."]
+source_url: "https://static.case.law/wash-app/58/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1754556
+cites_cases: ["100 Wn.2d 319", "103 Wn.2d 470", "105 S. Ct. 3530", "116 Wn.2d 1009", "2 Wash. 417", "234 P.2d 857", "26 P. 864", "39 Wn.2d 102", "440 P.2d 478", "473 U.S. 906", "565 P.2d 790", "650 P.2d 1099", "669 P.2d 448", "693 P.2d 97", "73 Wn.2d 759", "87 L. Ed. 2d 654", "88 Wn.2d 649", "97 Wn.2d 831"]
+---
+
+# In re the Marriage of Parks
+
+## Majority (Thompson, J.)
+
+Thompson, J.
+— Marven Parks appeals from the decree dissolving his and Judy Parks' second marriage to each other. He contends the trial court inappropriately considered the total number of years of the parties' two marriages when it allocated the property. Specifically, he challenges the court's award of almost all the community property and a portion of his separate property to Mrs. Parks. The latter includes improvements made by him with separate funds to her residence and a portion of the pension benefits earned by him during the parties' first marriage and awarded to him in a 1977 dissolution decree. We reverse.
+Mr. and Mrs. Parks were married on December 1, 1963, and were divorced on June 10, 1977. They remarried each other on August 7, 1978. They separated again in August 1987; this action for dissolution ensued.
+At the time of trial, Mrs. Parks was 45 years old; Mr. Parks was 51. They had three children, the youngest of whom was 14 years of age and living with Mrs. Parks. The older two children are no longer dependent. Mrs. Parks is employed 35 to 38 hours per week as a desk clerk in a bowling alley, with take-home earnings of approximately $600 per month. She started this job in 1986; before that, she did not work outside the home. She has biliary tract disease, a progressive liver condition. Her living expenses are $1,595 per month.
+Mr. Parks is disabled from his employment with the Kit-sap County Sheriff's Department. He receives $1,351 per month from the Law Enforcement Officers' and Fire Fighters' Retirement Fund (LEOFF). He also nets $150 per month on real estate rentals and about $250 per month from the Washington National Guard.
+Mr. Parks does not assign error to the court's characterization of the parties' property. The court found that the 1977 decree of dissolution created the following separate property:
+MR. PARKS
+Vendors' interest in triplex contract Vacant lots
+(on which he later built a fourplex)
+LEOFF retirement benefits watchmaking equipment
+MRS. PARKS family home
+After the remarriage in 1978, Mr. Parks received an inheritance from his mother of $51,808 which the court recognized as separate property. It traced $21,622 of the inheritance to improvements to the family home; it therefore found Mr. Parks had a separate property interest in the home, which the 1977 decree had given to Mrs. Parks. The court traced $22,250 of the inheritance to investment accounts. It found the investment accounts and increases earned in those accounts were Mr. Parks' separate property.
+The court also determined Mr. Parks had purchased his car with separate funds secured from the sale of the triplex. Further, the fourplex he constructed on the lots awarded him in the 1977 decree was his separate property, since he had built it while the parties were divorced.
+As for the retirement benefits, the court found Mr. Parks had a separate property interest in the LEOFF fund as to that portion of the pension earned prior to the parties' remarriage. The court valued Mr. Parks' separate property interest in the fund at $123,469 and the community property interest at $60,382. The court also valued Mr. Parks' separate property interest in the National Guard retirement fund at $14,257 and the community property interest at $6,415.
+The court made a preliminary division of the couple's property. Under this preliminary division, Mrs. Parks was to be awarded $75,000, the value of her home with the improvements made with Mr. Parks' separate funds, and $10,900 of the community property. Mr. Parks was to be awarded $224,432 of his separate property and $24,803 of the community property.
+The court then reviewed those totals and decided the preliminary division was not fair, just or equitable under the circumstances. It further found:
+The parties were married a total of approximately 24 years throughout both marriages. Part of the LEOFF benefits and National Guard retirement was earned during the first marriage. . . . The court finds that the petitioner should be awarded approximately one-half of respondent's pension to make the award of property fair, just and equitable.
+The court went on to divide the LEOFF benefits and the National Guard retirement, using a formula based on the entire amount of time the couple had been married. The result is an award to Mrs. Parks of 46.57 percent of the total LEOFF pension and approximately one-third of the total National Guard retirement when it reaches payment status. This award to Mrs. Parks represents all the community interest in the benefits and retirement, plus a portion of Mr. Parks' separate interest in them.
+Mr. Parks appeals. He argues the court violated RCW 26.09.150 when it based its allocation of property on the combined number of years of the parties' two marriages. That statute provides: "A decree of dissolution of marriage . . . is final when entered, subject to the right of appeal." According to Mr. Parks, the court's division of the property nullifies the provisions of the first decree.
+We note that the character of property does not control its disposition. In re Marriage of Konzen, 103 Wn.2d 470, 478, 693 P.2d 97, cert. denied, 473 U.S. 906, 87 L. Ed. 2d 654, 105 S. Ct. 3530 (1985); Worthington v. Worthington, 73 Wn.2d 759, 768, 440 P.2d 478 (1968). Thus, the parties' separate property, as well as the community property acquired during the second marriage, was before the court for division at the time of the second dissolution. Webster v. Webster, 2 Wash. 417, 420, 26 P. 864 (1891). Under former RCW 26.09.080, the trial court had the authority to dispose of the parties' assets in a just and equitable fashion, after considering "all relevant factors", including the duration of the marriage and the economic circumstances of each spouse.
+But we agree with Mr. Parks that the court should not have considered the length of the parties' first marriage as a "relevant factor" under RCW 26.09.080. At the time of the first dissolution, the trial court was governed by the same statute in disposing of the couple's property. Presumably, that court considered all relevant factors, including the 14-year duration of the first marriage, and made a fair and equitable division of the couple's property. That property division was not appealed. When the court here again considered the length of the parties' first marriage, it in effect reopened the first decree, in contravention of basic principles of res judicata. The distribution in this dissolution should not involve consideration of the first marriage other than to establish the character of the property.
+Accordingly, we hold the trial court erred as a matter of law. The cause is reversed and remanded for reconsideration of the property distribution in light of our holding. We do not address the remaining issues raised by Mr. Parks.
+Munson, C.J., and Shields, J., concur.
+Reconsideration denied September 18, 1990.
+Review denied at 116 Wn.2d 1009 (1991).
+This appeal was heard by a panel of Division Three judges sitting in Division Two.
+Mr. Parks asserts the property division is contrary to case law which has approved the award to one spouse of a lien in the separate property residence of the other to secure funds used by the nonowner spouse to improve the residence. See, e.g., Merkel v. Merkel, 39 Wn.2d 102, 234 P.2d 857 (1951). However, the court recognized that Mr. Parks had a separate property interest in Mrs. Parks' house. It is the court's distribution of that interest, not its characterization, which Mr. Parks disputes.
+As for the award of one party's separate property to the other, the Supreme Court in Konzen, at 478, stated it
+will not single out a particular factor, such as the character of the property, and require as a matter of law that it be given greater weight than other relevant factors. The statute directs the trial court to weigh all of the factors, within the context of the particular circumstances of the parties, to come to a fair, just and equitable division of property. The character of the property is a relevant factor which must be considered, but is not controlling. In re Marriage of Hadley, 88 Wn.2d 649, 656, 565 P.2d 790 (1977).
+There, the court held that it was not an abuse of discretion to award 30 percent of the husband's military pension to the wife, even though the husband had accrued the pension prior to marriage. The division was based upon economic circumstances.
+Former RCW 26.09.080 provides:
+"In a proceeding for dissolution of the marriage . . . the court shall, without regard to marital misconduct, make such disposition of the property and the liabilities of the parties, either community or separate, as shall appear just and equitable after considering all relevant factors including, but not limited to:
+"(1) The nature and extent of the community property;
+"(2) The nature and extent of the separate property;
+" (3) The duration of the marriage; and
+" (4) The economic circumstances of each spouse at the time the division of property is to become effective, including the desirability of awarding the family home or the right to live therein for reasonable periods to a spouse having custody of any children." The statute was amended in 1989. The changes made at that time do not concern the issues raised in this appeal.
+On remand, the economic circumstances of each spouse remain relevant. Former RCW 26.09.080(4); In re Marriage of Dessauer, 97 Wn.2d 831, 839, 650 P.2d 1099 (1982), abandoned on other grounds in In re Marriage of Smith, 100 Wn.2d 319, 324, 669 P.2d 448 (1983). "Given other factors supporting a disproportionate award of property, one spouse's ownership of substantial separate property will increase the likelihood, and degree, of a disproportionate award of separate property to the other." 1 Washington State Bar Ass'n, Family Law Deskbook § 39.3(1)(c), at 39-10 (1989). Here, the trial court noted Mr. Parks had an income of $1,751 per month as compared to Mrs. Parks' income of $600 per month. Due to her age, education, and health, Mrs. Parks has little prospect of increasing her earning capacity. These facts are economic considerations which support the exercise of discretion by a trial court in a division of property.
+Mr. Parks also assigns error to the court's rulings admitting testimony by Mrs. Parks that the couple had executed a community property agreement following their second marriage. Since the trial court found that "petitioner has failed in her burden of proving the existence of the alleged second Community Property Agreement", Mr. Parks was not harmed by any alleged error.
