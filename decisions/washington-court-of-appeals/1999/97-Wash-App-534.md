@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23963-9-II"
 decided: "1999-09-24"
-citations: ["97 Wash. App. 534", "97 Wash. App. 1045"]
+citations: ["97 Wash. App. 534"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Brian James Ball, Appellant."
 source_url: "https://static.case.law/wash-app/97/cases/0534-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184174
-cites_cases: ["137 Wn.2d 1017", "89 Wn. App. 857", "950 P.2d 1004", "97 Wn. App. 534"]
+cites_cases: ["137 Wn.2d 1017", "89 Wn. App. 857", "950 P.2d 1004"]
 ---
 
 # State v. Ball
