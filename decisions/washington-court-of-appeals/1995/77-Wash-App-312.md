@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33034-9-I"
 decided: "1995-01-17"
-citations: ["77 Wash. App. 312", "76 Wash. App. 1068"]
+citations: ["77 Wash. App. 312"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Charles I. McClure, Appellant, v. Davis Wright Tremaine, et al, Respo
 source_url: "https://static.case.law/wash-app/77/cases/0312-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415713
-cites_cases: ["10 F.3d 753", "107 Wn.2d 427", "115 S. Ct. 190", "124 Wn.2d 1005", "124 Wn.2d 193", "24 Cal. App. 4th 221", "29 Cal. Rptr. 2d 281", "316 Ark. 314", "56 Wn. App. 437", "589 F. Supp. 1235", "628 N.E.2d 1335", "629 F. Supp. 587", "68 Ohio St. 3d 453", "71 Wn. App. 727", "730 P.2d 653", "742 F.2d 334", "77 Wn. App. 312", "783 P.2d 1124", "862 P.2d 602", "876 P.2d 448", "920 F.2d 1269"]
+cites_cases: ["10 F.3d 753", "107 Wn.2d 427", "115 S. Ct. 190", "124 Wn.2d 1005", "124 Wn.2d 193", "24 Cal. App. 4th 221", "29 Cal. Rptr. 2d 281", "316 Ark. 314", "56 Wn. App. 437", "589 F. Supp. 1235", "628 N.E.2d 1335", "629 F. Supp. 587", "68 Ohio St. 3d 453", "71 Wn. App. 727", "730 P.2d 653", "742 F.2d 334", "783 P.2d 1124", "862 P.2d 602", "876 P.2d 448", "920 F.2d 1269"]
 ---
 
 # McClure v. Tremaine
