@@ -1,0 +1,82 @@
+---
+court: "Washington Court of Appeals"
+docket: "24802-6-II"
+decided: "2001-07-20"
+citations: ["107 Wash. App. 280"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Jason Derik Johnston, Appellant."]
+source_url: "https://static.case.law/wash-app/107/cases/0280-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 543390
+cites_cases: ["102 Wn. App. 327", "102 Wn.2d 733", "103 Wn. App. 749", "105 Wn. App. 30", "106 Wn.2d 144", "114 Wn.2d 1011", "115 Wn.2d 1006", "119 Wn.2d 675", "119 Wn.2d 685", "123 Wn.2d 1002", "126 Wn.2d 1003", "128 Wn.2d 431", "129 Wn.2d 1015", "129 Wn.2d 61", "131 Wn.2d 1006", "138 Wn.2d 1009", "138 Wn.2d 343", "139 Wn.2d 486", "14 P.3d 184", "140 Wn.2d 1005", "145 Wn.2d 1021", "18 P.3d 602", "395 U.S. 752", "414 U.S. 218", "453 U.S. 454", "52 Wn. App. 274", "53 Wn. App. 654", "56 Wn. App. 339", "57 Wn. App. 556", "6 P.3d 1245", "622 P.2d 1199", "622 P.2d 1218", "65 Wn. App. 716", "689 P.2d 1065", "70 Wn. App. 259", "720 P.2d 436", "758 P.2d 1017", "76 Wn. App. 9", "769 P.2d 321", "783 P.2d 626", "789 P.2d 321", "79 Wn. App. 355", "80 Wn. App. 184", "82 Wn. App. 594", "829 P.2d 796", "835 P.2d 1019", "835 P.2d 1025", "85 Wn. App. 339", "856 P.2d 390", "882 P.2d 190", "901 P.2d 1094", "907 P.2d 328", "909 P.2d 293", "91 Wn. App. 554", "917 P.2d 563", "918 P.2d 945", "932 P.2d 1258", "94 Wn. App. 254", "94 Wn. App. 629", "95 Wn.2d 143", "95 Wn.2d 170", "958 P.2d 1017", "97 Wn. App. 152", "970 P.2d 376", "976 P.2d 130", "979 P.2d 833", "983 P.2d 1150", "987 P.2d 73"]
+---
+
+# State v. Johnston
+
+## Majority (Morgan, J.)
+
+Morgan, J.
+Jason Derik Johnston appeals his conviction for unlawful possession of a controlled substance with intent to deliver. He argues that the trial court improperly admitted evidence obtained in a warrantless search of his vehicle. Agreeing, we reverse.
+The parties stipulated to such facts as the record shows. On October 4, 1998, Johnston and William Welling approached Aaron Johnson and Robert Repp. Johnston said he would shoot Johnson unless Johnson turned over his skateboard. Johnson gave up the skateboard, and Johnston and Welling drove away in a silver Volkswagen (VW) Fox.
+Two of Johnson’s friends began looking for, and soon spotted, the silver Fox. They followed it into the parking lot of a Target store and watched as its occupants entered the store. They approached the now-unoccupied car, opened an unlocked door, and removed Johnson’s skateboard.
+After retrieving the skateboard, the two friends called the police. Officers Vandenburg and Thornton responded, parking their patrol cars near the silver Fox.
+Officer Vandenburg spoke with the two friends, who had remained in the Target parking lot. She also spoke on the phone with Johnson. While she was still on the phone, the two friends saw Johnston and Welling come out of the store and directed Vandenburg’s attention to them. With Vandenburg now watching, Johnston and Welling “walk[ed] past the VW Fox, and look[ed] back at [her] several times.” She observed that they matched the descriptions of the robbery suspects.
+At Vandenburg’s direction, Thornton arrested Johnston and Welling. The record does not show where Johnston and Welling were when arrested, or how much time had elapsed since either had been in the silver Fox; it shows only that each was arrested “in the immediate vicinity of the VW Fox.” During a search of Johnston’s person, Thornton found “a set of keys that. . . Johnston said were for the VW Fox, a small amount of suspected methamphetamine, and a large quantity of cash.” During a search of the silver Fox, Thornton “found a backpack containing... 24.3 grams of methamphetamine, and a scale.”
+On October 8, 1998, the State charged Johnston by information. As later amended, the information alleged first degree robbery (Count I), unlawful possession of methamphetamine with intent to deliver (Count II), and unlawful possession of methamphetamine (Count III). Count II was based on the methamphetamine found in the car, and Count III was based on the methamphetamine found on Johnston’s person.
+On March 1,1999, Johnston moved to suppress the drugs found in the search of the car. Citing State v. Stroud, and State v. Fore, the trial court denied the motion.
+On March 15, 1999, trial began. The jury convicted on Counts II and III, but could not reach a verdict on Count I. In lieu of retrial on Count I, Johnston later pleaded guilty to an amended charge of first degree theft. On May 17, 1999, the trial court imposed concurrent sentences of 18 months on the amended Count I, 102 months on Count II, and 12 months on Count III.
+On appeal, Johnston does not contest Counts I and III. He contests only Count II, arguing that the search of the silver Fox was unlawful.
+The Fourth Amendment protects “[t]he right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures.” It “prohibits warrantless searches unless the search is justified under an established exception to the warrant requirement.” One such exception is the search incident to a lawful custodial arrest. Another such exception is the inventory or community-caretaking search. The State asserts that these exceptions apply here, and it has the burden of proving the facts needed to apply them.
+I. SEARCH INCIDENT TO LAWFUL ARREST
+Several questions arise when the search incident exception is asserted in a case such as this. One, not in issue here, is whether the police had probable cause to arrest. Another, also not in issue here, is whether the police could lawfully search the arrestee’s person. A third, which is in issue here, is whether the police were entitled to search the arrestee’s car.
+In Chimel v. California, the United States Supreme Court held that the scope of a search incident to arrest extends as far as, but no farther than, the area into which the arrestee might reach to grab a weapon or destroy evidence. In New York v. Belton, the United States Supreme Court held as a “bright-line rule” that when an arrestee is occupying the passenger compartment of a car at the time of arrest, he might grab a weapon or destroy evidence located anywhere within the compartment. Thus, the police may search the compartment incident to his arrest.
+In State v. Stroud, the Washington Supreme Court followed Belton except for locked containers. The court reasoned:
+During the arrest process . . . officers should be allowed to search the passenger compartment of a vehicle for weapons or destructible evidence. However, if the officers encounter a locked container or locked glove compartment, they may not unlock and search either container without obtaining a warrant. . . . [T]he danger that the individual either could destroy or hide evidence located within the container or grab a weapon is minimized. The individual would have to spend time unlocking the container, during which time the officers have an opportunity to prevent the individual’s access to the contents of the container.[]
+As this language clearly shows, the key question when applying Belton and Stroud is whether the arrestee had ready access to the passenger compartment at the time of arrest. If he could suddenly reach or lunge into the compartment for a weapon or evidence, the police may search the compartment incident to his arrest. If he could not do that, the police may not search the compartment incident to his arrest. Sometimes, this is referred to as having “immediate control” of the compartment.
+Three cases, including Belton and Stroud, exemplify when an arrestee has ready access to a passenger compartment. In Belton, the arrestees were inside the passenger compartment when they were arrested. In Stroud, one of the arrestees was standing “in the swing of the open passenger door,” and the other arrestee was “a couple of feet away.” In State v. Bradley, the arrestee was leaning into his car as officers drove up. He walked away, leaving the driver’s door “somewhat ajar.” He was arrested 10-12 feet away and would not go down to the ground when told to do that. At the moment of arrest in all three cases, the arrestee had ready access to, and thus was in “immediate control” of, the passenger compartment of his vehicle.
+Three other cases exemplify when an arrestee lacks ready access. In State v. Wheless, the arrestee parked his pickup truck 50-75 feet away from a tavern. He then went into the tavern, where he was arrested. Because he lacked access to the truck’s passenger compartment at the time of arrest, officers could not search that compartment incident to his arrest.
+In State v. Porter, the arrestee was walking his dog about 300 feet from where his van was parked. He was arrested on an outstanding warrant and taken back to where his van was parked. Because he lacked access to the van’s passenger compartment at the time of arrest, officers could not search that compartment incident to his arrest.
+In State v. Perea, the arrestee exited and locked his car. He was then arrested a few feet away. Because he did not have access to the car’s passenger compartment at the time of arrest, officers could not search that compartment incident to his arrest.
+State v. Lopez is notably out of step with these other cases, but as we said in State v. Porter, we do not think it was correctly decided. The arrestee was arrested in the informant’s garage while his pickup was parked outside. He did not have access to the pickup at the time of arrest, so its passenger compartment should not have been searched incident to the arrest.
+State v. Fore is an enigma because the opinion fails to state enough facts. After parking his vehicle in the parking lot of a small market, one arrestee got out and went to a pay phone that was “sufficiently proximate” to the vehicle. The other arrestee got out and stood near the market’s doorway. The opinion does not show the distances between phone, door and vehicle, or whether the vehicle’s doors were open or closed. The arrestees were put under arrest, their vehicle was searched, and Division One of this Court upheld the search as incident to the arrest. The result is correct if one assumes that which might have been true but which the opinion does not show—that at the time of the arrests an arrestee had ready access to the vehicle’s passenger compartment.
+In the present case, Johnston and Welling got out of their car, closed its doors, and went into the store. When they left the store after an unknown period of time, they walked past the car, apparently putting the two officers between them and it. They were arrested “in the immediate vicinity” of their car, but the record does not show how far away they were. It follows that the record does not show ready access to, or “immediate control” of, the car’s passenger compartment; that the facts needed to invoke the search-incident exception have not been proved; and that the search-incident exception does not justify the search of the silver Fox.
+II. COMMUNITY CARETAKING
+Although it did not raise or litigate the issue below, the State argues on appeal that the police were conducting a lawful inventory search when they found the methamphetamine in the car. “In order to justify a warrantless inventory search, the State must demonstrate a lawful impound and that the inventory was not a mere pretext for an investigatory search.” The record here does not show that the officers had decided to impound Johnston’s car. Nor does the record show that the officers offered Johnston an opportunity to have a friend or relative take charge of the car. The record shows only that the officers were searching for the gun that they thought had been used to rob Johnson of his skateboard. The State has not proved facts sufficient to invoke the inventory-search exception.
+The State does not rely on any other exception to the warrant requirement. Thus, we conclude that the officers needed a warrant to search the car, that they did not have one, and that the motion to suppress should have been granted.
+Count II is reversed and dismissed. The convictions on Counts I and III remain in place. The reversal of Count II alters the standard ranges on Counts I and III, so we remand those counts for resentencing.
+Seinfeld and Houghton, JJ., concur.
+Review denied at 145 Wn.2d 1021 (2002).
+Clerk’s Papers (CP) at 58.
+Id.
+Id. at 59.
+Id.
+State v. Stroud, 106 Wn.2d 144, 720 P.2d 436 (1986).
+State v. Fore, 56 Wn. App. 339, 783 P.2d 626 (1989), review denied, 114 Wn.2d 1011 (1990).
+U.S. Const. amend. IV.
+State v. Johnson, 128 Wn.2d 431, 451, 909 P.2d 293 (1996); State v. Simpson, 95 Wn.2d 170, 188, 622 P.2d 1199 (1980); State v. Porter, 102 Wn. App. 327, 330, 6 P.3d 1245 (2000) (citing State v. Parker, 139 Wn.2d 486, 496, 987 P.2d 73 (1999); State v. Hendrickson, 129 Wn.2d 61, 70, 917 P.2d 563 (1996)); State v. McKenna, 91 Wn. App. 554, 558-59, 958 P.2d 1017 (1998).
+United States v. Robinson, 414 U.S. 218, 224, 94 S. Ct. 467, 38 L. Ed. 2d 427 (1973); State v. Smith, 119 Wn.2d 675, 678, 835 P.2d 1025 (1992); McKenna, 91 Wn. App. at 559.
+State v. Smith, 76 Wn. App. 9, 13, 882 P.2d 190 (1994), review denied, 126 Wn.2d 1003 (1995); State v. Wheless, 103 Wn. App. 749, 753, 14 P.3d 184 (2000); State v. Ladson, 138 Wn.2d 343, 349, 979 P.2d 833 (1999).
+Parker, 139 Wn.2d at 496; Johnson, 128 Wn.2d at 451; State v. Houser, 95 Wn.2d 143, 149, 622 P.2d 1218 (1980); Porter, 102 Wn. App. at 330; McKenna, 91 Wn. App. at 559; State v. Jackson, 82 Wn. App. 594, 601-03, 918 P.2d 945 (1996), review denied, 131 Wn.2d 1006 (1997).
+Chimel v. California, 395 U.S. 752, 89 S. Ct. 2034, 23 L. Ed. 2d 685 (1969).
+New York v. Belton, 453 U.S. 454, 101 S. Ct. 2860, 69 L. Ed. 2d 768 (1981).
+Stroud, 106 Wn.2d 144.
+Stroud, 106 Wn.2d at 152.
+See, e.g., Porter, 102 Wn. App. at 333; State v. Bradley, 105 Wn. App. 30, 38, 18 P.3d 602 (2001).
+See also State v. Vrieling, 97 Wn. App. 152, 983 P.2d 1150 (1999) (defendant had ready access to the living quarters of a motor home from the passenger compartment), review granted, 140 Wn.2d 1005 (2000); Johnson, 128 Wn.2d 431 (defendant had ready access to “the sleeper in the cab of the tractor-trailer”); State v. Boursaw, 94 Wn. App. 629, 636, 976 P.2d 130 (1999) (“the area immediately behind the ashtray is within the reach of the occupants of the automobile”); State v. Chelly, 94 Wn. App. 254, 970 P.2d 376 (defendant had ready access to the passenger compartment where drugs and a firearm were found), review denied, 138 Wn.2d 1009 (1999); State v. Davis, 79 Wn. App. 355, 901 P.2d 1094 (1995) (defendant had ready access to an unlocked cooler behind the driver’s seat); State v. Johnson, 65 Wn. App. 716, 829 P.2d 796 (1992) (defendant had ready access to a jacket, containing cocaine, inside the passenger compartment of the vehicle).
+Stroud, 106 Wn.2d at 145.
+State v. Bradley, 105 Wn. App. 30, 18 P.3d 602 (2001).
+Bradley, 105 Wn. App. at 33.
+See also State v. Mitzlaff, 80 Wn. App. 184, 188, 907 P.2d 328 (1995) (search of the engine compartment of an automobile exceeds the scope of a search incident to arrest because the engine area “is not accessible without exiting the vehicle” and not “within the arrestee’s immediate control.”), review denied, 129 Wn.2d 1015 (1996); State v. Boyce, 52 Wn. App. 274, 279, 758 P.2d 1017 (1988) (“once [defendant] was removed from the scene, there simply were no special circumstances present that justified a warrantless vehicle search as there was no possibility that [defendant] could destroy evidence or grab a weapon.”).
+State v. Wheless, 103 Wn. App. 749, 14 P.3d 184 (2000).
+State v. Porter, 102 Wn. App. 327, 6 P.3d 1245 (2000).
+State v. Perea, 85 Wn. App. 339, 932 P.2d 1258 (1997).
+State v. Lopez, 70 Wn. App. 259, 856 P.2d 390 (1993), review denied, 123 Wn.2d 1002 (1994).
+See Porter, 102 Wn. App. at 335.
+Fore, 56 Wn. App. 339.
+Fore, 56 Wn. App. at 348.
+CP at 58.
+State v. Stortroen, 53 Wn. App. 654, 658, 769 P.2d 321 (1989) (emphasis added) (citing Simpson, 95 Wn.2d at 189), overruled on other grounds by State v. Reding, 119 Wn.2d 685, 694, 835 P.2d 1019 (1992).
+See Simpson, 95 Wn.2d at 189; State v. Barajas, 57 Wn. App. 556, 560, 789 P.2d 321, review denied, 115 Wn.2d 1006 (1990); State v. Williams, 102 Wn.2d 733, 742-43, 689 P.2d 1065 (1984).
+Hendrickson, 129 Wn.2d at 76.
