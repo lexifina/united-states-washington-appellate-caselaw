@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20026-1-II"
 decided: "1996-11-01"
-citations: ["84 Wash. App. 236", "83 Wash. App. 1060"]
+citations: ["84 Wash. App. 236"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Analytical Methods, Inc., et al., Appellants, v. The Department of Re
 source_url: "https://static.case.law/wash-app/84/cases/0236-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121762
-cites_cases: ["106 Stat. 4249", "111 Wn.2d 586", "118 Wn.2d 1010", "120 Wn.2d 782", "123 Wn.2d 819", "127 Wn.2d 1022", "128 Wn.2d 164", "128 Wn.2d 40", "129 Wn.2d 17", "15 U.S.C. § 638", "179 Wash. 588", "38 P.2d 264", "48 C.F.R. § 52.227-11", "48 C.F.R. § 52.229-3", "63 Wn. App. 170", "762 P.2d 348", "77 Wn. App. 669", "77 Wn. App. 827", "817 P.2d 861", "82 Wn. App. 367", "84 Wn. App. 236", "845 P.2d 995", "872 P.2d 516", "893 P.2d 654", "894 P.2d 576", "905 P.2d 338", "905 P.2d 355", "914 P.2d 737", "917 P.2d 1120", "96 Stat. 217"]
+cites_cases: ["106 Stat. 4249", "111 Wn.2d 586", "118 Wn.2d 1010", "120 Wn.2d 782", "123 Wn.2d 819", "127 Wn.2d 1022", "128 Wn.2d 164", "128 Wn.2d 40", "129 Wn.2d 17", "15 U.S.C. § 638", "179 Wash. 588", "38 P.2d 264", "48 C.F.R. § 52.227-11", "48 C.F.R. § 52.229-3", "63 Wn. App. 170", "762 P.2d 348", "77 Wn. App. 669", "77 Wn. App. 827", "817 P.2d 861", "82 Wn. App. 367", "845 P.2d 995", "872 P.2d 516", "893 P.2d 654", "894 P.2d 576", "905 P.2d 338", "905 P.2d 355", "914 P.2d 737", "917 P.2d 1120", "96 Stat. 217"]
 ---
 
 # Analytical Methods, Inc. v. Department of Revenue
