@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17977-2-I"
 decided: "1986-10-06"
-citations: ["45 Wash. App. 766", "45 Wash. App. 1024"]
+citations: ["45 Wash. App. 766"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Cecil Edward Hall, Appellant.
 source_url: "https://static.case.law/wash-app/45/cases/0766-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809266
-cites_cases: ["104 Wn.2d 1028", "105 Wn.2d 175", "106 Wn.2d 493", "38 Wn. App. 13", "41 Wn. App. 561", "41 Wn. App. 669", "43 Wn. App. 49", "44 Wn. App. 281", "45 Wn. App. 766", "584 P.2d 382", "683 P.2d 1133", "705 P.2d 280", "705 P.2d 821", "713 P.2d 719", "715 P.2d 526", "718 P.2d 796", "723 P.2d 431", "726 P.2d 472", "90 Wn.2d 443"]
+cites_cases: ["104 Wn.2d 1028", "105 Wn.2d 175", "106 Wn.2d 493", "38 Wn. App. 13", "41 Wn. App. 561", "41 Wn. App. 669", "43 Wn. App. 49", "44 Wn. App. 281", "584 P.2d 382", "683 P.2d 1133", "705 P.2d 280", "705 P.2d 821", "713 P.2d 719", "715 P.2d 526", "718 P.2d 796", "723 P.2d 431", "726 P.2d 472", "90 Wn.2d 443"]
 ---
 
 # State v. Hall
