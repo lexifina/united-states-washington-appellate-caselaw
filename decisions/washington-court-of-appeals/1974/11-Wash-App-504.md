@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "962-2"
+decided: "1974-06-28"
+citations: ["11 Wash. App. 504"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sadie Gott, as Administratrix, Appellant, v. Edd Woody et al., Respondents."]
+source_url: "https://static.case.law/wash-app/11/cases/0504-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853763
+cites_cases: ["10 Wn. App. 213", "133 P.2d 285", "16 Wn.2d 300", "18 Wn.2d 32", "191 P.2d 708", "193 Wash. 40", "212 P.2d 821", "250 P.2d 536", "282 P.2d 301", "30 Wn.2d 430", "35 Wn.2d 239", "370 U.S. 626", "388 P.2d 947", "41 Wn.2d 484", "413 P.2d 1", "46 Wn.2d 453", "469 P.2d 896", "516 P.2d 1051", "522 P.2d 822", "63 Wn.2d 748", "68 Wn.2d 364", "78 Wn.2d 89", "83 Wn.2d 764"]
+---
+
+# Gott v. Woody
+
+## Majority (Pearson, C.J.)
+
+Pearson, C.J.
+—This wrongful death action, commenced on October 8, 1969, was dismissed for want of prosecution upon defendant’s motion on December 4, 1972. On'appeal, the administratrix contends that CR 41(b) limits the trial court’s discretion to dismiss a case for want of prosecution where the case is noted for trial within 1 year of the time an issue of fact or law has been joined. We agree and reverse the dismissal.
+A brief chronology is relevant to the issue. Subsequent to commencement of the action, and before defendant had filed an appearance or answered the complaint, pretrial depositions of the parties were taken by their respective counsel. This discovery occurred in the spring of 1970. On January 18,1971, plaintiff filed a demand for jury trial.
+Nothing further occurred until January 14, 1972, when defendants filed an appearance with the Jefferson County Clerk. The answer was served on January 17, 1972, and filed 2 days later. Defendant’s motion to dismiss was made on September 29, 1972, and within a few days after receipt of this motion, plaintiff noted the case for trial setting.
+CR 41 (b), in part, provides:
+For failure of the plaintiff to prosecute or to comply with these rules or any order of the court, a defendant may move for dismissal of an action or of any claim against him.
+(1) Want of Prosecution on Motion of Party. Any civil action shall be dismissed, without prejudice, for want of prosecution whenever the plaintiff, counter-claimant, cross-claimant, or third-party plaintiff neglects to note the action for trial or hearing within 1 year after any issue of law or fact has been joined, unless the failure to bring the same on for trial or hearing was caused by the party who makes the motion to dismiss. Such motion to dismiss shall come on for hearing only after 10 days’ notice to the adverse party. If the case is noted for trial before the hearing on the motion, the action shall not be dismissed.
+(Italics ours.)
+It is apparent that a dismissal for want of prosecution under the circumstances of this case is not provided for by the terms of CR 41(b). While approximately 3 years had elapsed between the commencement of the action and the noting of the case for trial, the case was so noted within 8 months of the joining of “any issue of law or fact,” i.e., the defendant’s answer.
+Notwithstanding the fact that the defendant’s motion to dismiss was by its terms brought under the civil rules of court, the trial court granted the motion on the basis of what it conceived to be its inherent power, independent of rule, to dismiss cases for dilatoriness of prosecution.
+The inherent power of the court to dismiss actions for want of prosecution was delineated in State ex rel. Dawson v. Superior Court, 16 Wn.2d 300, 304, 133 P.2d 285 (1943), as follows:
+A court of general jurisdiction has the inherent power to dismiss pending actions if they are not diligently prosecuted, and it is its duty to do so in the orderly administration of justice. The dismissal of an action for want of prosecution, in the absence of statute or rule of court creating the power and guiding its action, is in the discretion of the court,
+(Italics ours.)
+This general proposition is well established in this state. See Stickney v. Port of Olympia, 35 Wn.2d 239, 212 P.2d 821 (1949); State ex rel. Washington Water Power Co. v. Superior Court, 41 Wn.2d 484, 250 P.2d 536 (1952). The plaintiff does not attack this proposition, but contends that the otherwise inherent discretionary power of the court has been limited by the following mandatory language of CR 41(b) (1) with respect to a party’s motion to dismiss for want of prosecution: “If the case is noted for trial before the hearing on the motion, the action shall not be dismissed.” (Italics ours.) We agree with this contention for the following reasons.
+It has consistently been held, under CR 41 (b) (1) and its predecessors, that the language “Any civil action shall be dismissed, without prejudice, . . .” when the conditions of the rule are not met, is mandatory, and that no inherent discretionary authority in the trial court not to dismiss under such circumstances exists. See McDermott v. Waters, 78 Wn.2d 89, 469 P.2d 896 (1970); Day v. State, 68 Wn.2d 364, 413 P.2d 1 (1966); Simpson v. Glacier Land Co., 63 Wn.2d 748, 388 P.2d 947 (1964); Hayes v. Quigg, 46 Wn.2d 453, 282 P.2d 301 (1955); Caldwell v. Caldwell, 30 Wn.2d 430, 191 P.2d 708 (1948).
+It is our view that when in 1967 the Supreme Court revised the rules adding to CR. 41(b) (1) mandatory language of nondismissal under certain circumstances, that change assumes significance in light of this long-standing construction. The predecessors to CR 41(b) (1), which were in effect when State ex rel. Dawson v. Superior Court, supra, and its progeny were decided, did not contain the mandatory language of nondismissal later added to the rule. See RPPP III, 193 Wash. 40-a (1938); RPPP 3, 18 Wn.2d 32-a (1944); RPPP 3, 34A Wn.2d 69 (1951); RPPP 41.04W, 61 Wn.2d xxii (1963).
+In our opinion, the 1967 revision contemplates a limitation upon the otherwise inherent discretionary power of the court to dismiss, upon the motion of a party, for failure to bring a case on for trial in a timely fashion.
+Thus, where a motion for dismissal for want of prosecution is occasioned by the inaction of the plaintiff (or other party having the affirmative of an issue) in bringing the case on for trial, the trial court may not dismiss on that ground where the cause is noted for trial before the hearing on the motion.
+We conceive this to be the proper result under the rule, whether the motion to dismiss is brought after a year has elapsed from joinder of the issue, with no action taken, or where as here, a motion is brought before the expiration of the year. It would be highly anomalous to allow discretionary dismissal where the year has not expired, but to deny discretion where the period of inaction is longer than 1 year. We decline to subscribe to such an interpretation.
+Accordingly, we hold that where the mere inaction of a party gives rise to a motion to. dismiss for want of prosecution by the adversary, CR 41 (b) (1) limits the discretionary authority of the court to dismiss on that ground.
+This result comports with the explicit rule of State ex rel. Dawson v. Superior Court, supra, which recognizes that the inherent discretion of the trial court to dismiss for want of prosecution is subject to modification by court rule. It also conforms to the stated purpose of the Civil Rules, ie., to provide a single trial manual to the bar and to eliminate procedural traps. See Foreword to Civil Rules for Superior Court, 71 Wn.2d xxiv (1967). This is also the spirit of interpretation enunciated by the Supreme Court and the effect which the rules are to be given where conflicts with older modes of procedure appear. See Curtis Lumber Co. v. Sortor, 83 Wn.2d 764, 522 P.2d 822 (1974).
+We do not believe, as defendants contend, that this interpretation will seriously invade the discretionary power of the Superior Court to manage its affairs, so as to achieve the orderly and expeditious disposition of cases, to assure compliance with the court’s rulings and observance of hearing and trial settings which are made. In these areas the trial court’s inherent discretion is not questioned by our interpretation. See Wagner v. McDonald, 10 Wn. App. 213, 516 P.2d 1051 (1973) (dismissal for want of prosecution where plaintiff failed to appear at trial). See also Link v. Wabash R.R., 370 U.S. 626, 8 L. Ed. 2d 734, 82 S. Ct. 1386 (1962); (FRCP 41) (dismissal where failure to appear at pretrial conference was combined with general dilatoriness) .
+Judgment reversed and remanded for trial setting.
+Petrie and Armstrong, JJ., concur.
