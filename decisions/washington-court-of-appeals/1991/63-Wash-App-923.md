@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24967-3-I; 26026-0-I"
 decided: "1991-10-14"
-citations: ["63 Wash. App. 923", "62 Wash. App. 1034"]
+citations: ["63 Wash. App. 923"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Arthur Summers, Appellant. In
 source_url: "https://static.case.law/wash-app/63/cases/0923-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1732790
-cites_cases: ["101 S. Ct. 611", "101 Wn.2d 1010", "101 Wn.2d 481", "101 Wn.2d 612", "102 Wn.2d 1012", "113 Wn.2d 631", "118 Wn.2d 1021", "35 Wn. App. 914", "35 Wn. App. 932", "39 A.L.R.4th 975", "39 Wn. App. 1016", "449 U.S. 1035", "466 P.2d 481", "489 U.S. 288", "558 P.2d 173", "562 P.2d 1259", "599 P.2d 522", "607 P.2d 852", "614 P.2d 1280", "63 Wn. App. 923", "656 P.2d 1064", "66 L. Ed. 2d 497", "671 P.2d 263", "671 P.2d 273", "681 P.2d 227", "683 P.2d 1069", "689 P.2d 368", "77 Wn.2d 702", "781 P.2d 483", "87 Wn.2d 829", "88 Wn.2d 337", "92 Wn.2d 541", "93 Wn.2d 192", "94 Wn.2d 129", "98 Wn.2d 484"]
+cites_cases: ["101 S. Ct. 611", "101 Wn.2d 1010", "101 Wn.2d 481", "101 Wn.2d 612", "102 Wn.2d 1012", "113 Wn.2d 631", "118 Wn.2d 1021", "35 Wn. App. 914", "35 Wn. App. 932", "39 A.L.R.4th 975", "39 Wn. App. 1016", "449 U.S. 1035", "466 P.2d 481", "489 U.S. 288", "558 P.2d 173", "562 P.2d 1259", "599 P.2d 522", "607 P.2d 852", "614 P.2d 1280", "656 P.2d 1064", "66 L. Ed. 2d 497", "671 P.2d 263", "671 P.2d 273", "681 P.2d 227", "683 P.2d 1069", "689 P.2d 368", "77 Wn.2d 702", "781 P.2d 483", "87 Wn.2d 829", "88 Wn.2d 337", "92 Wn.2d 541", "93 Wn.2d 192", "94 Wn.2d 129", "98 Wn.2d 484"]
 ---
 
 # State v. Summers
