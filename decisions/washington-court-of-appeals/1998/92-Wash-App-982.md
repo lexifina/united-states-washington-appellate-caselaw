@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "22913-7-II"
+decided: "1998-11-06"
+citations: ["92 Wash. App. 982"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lois Elaine Mehlhaff, Appellant, v. Tacoma School District No. 10, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/92/cases/0982-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 853372
+cites_cases: ["128 Wn.2d 537", "137 Wn.2d 1028", "622 P.2d 826", "633 P.2d 1324", "909 P.2d 1303", "95 Wn.2d 108", "95 Wn.2d 962"]
+---
+
+# Mehlhaff v. Tacoma School District No. 10
+
+## Majority (Bridgewater, A.C.J.)
+
+Bridgewater, A.C.J.
+Lois Elaine Mehlhaff, a substitute teacher, appeals a summary judgment order, contending she has been underpaid by the Tacoma School District. We hold that the Legislature did not include substitute teachers in the definition of “certificated instructional staff” to entitle them to the same rate of pay as full-time teachers. We affirm.
+From 1987 through 1997, Mehlhaff worked as a basic education substitute teacher for the Tacoma School District. She worked between 19 and 109 days per year, averaging just under 50 days per year. Mehlhaff and other substitute teachers are represented by Tacoma Education Association (TEA). The collective bargaining agreement negotiated by TEA provides that substitute teachers receive a set wage for each day worked and does not require them to work a minimum number of days. Conversely, full-time teachers are paid an annual salary and are expected to work 183 days a year.
+In 1994, Mehlhaff filed a grievance with TEA, arguing that the bargained-for rate of pay did not comply with RCW 28A.400.200. That statute requires that all “certificated instructional staff” be paid no less than the salary paid to an “employee with a baccalaureate degree and zero years of service.” RCW 28A.400.200(2)(a). Based on this language, she argues that the rate of pay for substitute teachers should be no less than l/180th of a first year full-time teacher’s salary. The grievance was denied because (1) Mehlhaff receives a “wage” and therefore cannot be guaranteed a minimum “salary,” and (2) the Legislature provides less funding for substitute teachers than for full-time teachers.
+Mehlhaff then filed an unfair labor practice complaint against the district with the Public Employment Relations Commission (PERC). She argued that TEA and the School District bargained for a rate of pay not in compliance with RCW 28A.400.200. PERC denied her claim, holding that the Legislature’s budget and the Superintendent of Public Instruction’s (SPI) funding scheme contradict Mehlhaff s position. Before PERC issued its decision, Mehlhaff filed a claim in Pierce County Superior Court. The trial court dismissed her claim on summary judgment in favor of the School District. She originally appealed that dismissal to the state Supreme Court, which transferred her appeal to this court.
+I. Express Language of Statute
+RCW 28A.400.200 sets minimum salary requirements for public school teachers. Specifically, the statute provides, in part: “[sjalaries for certificated instructional staff shall not be less than the salary provided in the appropriations act in the state-wide salary allocation schedule for an employee with a baccalaureate degree and zero years of service . . . .” RCW 28A.400.200(2)(a) (emphasis added).
+Mehlhaff contends that all public school instructors, whether full time, part time or substitute, are included under this statute. She contends that she is a member of the School District’s “certificated instructional staff’ for purposes of RCW 28A.400.200 and is thus entitled to l/180th of the base salary on the state’s salary allocation schedule for each day she works as a substitute. We disagree.
+A definition of “certificated instructional staff’ is not found in RCW 28A.400. Absent an express definition in a statutory provision, we may look to the entire statute, not simply the particular provision that is at issue. Whatcom County v. City of Bellingham, 128 Wn.2d 537, 546, 909 P.2d 1303 (1996). Elsewhere in the statute, “basic education certificated instructional staff’ is defined as “all full time equivalent certificated instructional staff in . . . [b]a-sic education . . . .” RCW 28A.150.100(1). The definition specifically applies to RCW 28A.400.200. See RCW 28A.150.100(1).
+Mehlhaff attempts to distinguish between “certificated instructional staff” as that phrase is used in RCW 28A.400.200(2) and “basic education certificated instructional staff’ in RCW 28A.150.100(1). She argues that she is a “certificated instructional staff’ member, but not a “basic education certificated instructional staff’ member. But she teaches as a substitute for basic education certificated instructional staff, teaching subjects that are basic education. See RCW 28A.150.220. She is therefore a basic education substitute, not a nonbasic education substitute.
+Even if Mehlhaff were something other than basic education staff, her argument fails by the very wording of the statute in former RCW 28A.400.200(3)(c) (1993):
+Salary and benefits for certificated instructional staff in programs other than basic education and special education shall be consistent with the salary and benefits paid to certificated instructional staff in the basic education program.
+The funding scheme applies equally to staff in basic and nonbasic educational programs. Thus, the minimum salary set forth in RCW 28A.400.200(2)(a) applies only to full-time certificated instructional staff, whether they teach in a basic education program or another program.
+It is clear from the express language that the minimum salary requirement of RCW 28A.400.200 applies only to full-time equivalent teachers who are contracted to provide services for at least 180 days. Mehlhaff has never been a “full-time equivalent” teacher and is not entitled to receive the minimum salary.
+II. Legislative Intent
+After a review of the legislative history and later legislative acts, coupled with administrative interpretations, we hold that the Legislature did not intend the statutory salary allocation schedule to create a minimum per diem wage for daily substitutes. We focus on two areas:
+(1) The Legislature has consistently funded substitute teachers from a separate budget. Specifically, the substitute teacher funding allocation is included in the basic education general apportionment scheme, while full-time teacher salary funding allocations are included in the basic education employee apportionment scheme. See, e.g., Laws of 1987, 1st Ex. Sess., ch. 7, §§ 503(7), 504. Thus, the Legislature treated “Certificated Instructional Staff’ and “Substitutes” as different groups for purposes of salary funding.
+(2) The SPI has not treated substitutes as equivalent to certificated instructional staff. The SPI submitted a fiscal impact statement to the Legislature before adoption of the statute, wherein he listed estimated costs of certificated instructional employee salaries separately from the estimated costs of substitute wages. In addition, the School District does not report substitute teachers on forms the SPI uses to prepare statewide staff statistics. The SPI does not require information about substitutes from school districts because it does not consider the number of substitute teachers employed by the district when calculating a district’s salary allocation. To do so would be inconsistent with the statutory allocation scheme. See RCW 28A.150.410(1) (salary allocation schedule “to be used to distribute funds for basic education certificated instructional staff salaries”). And, as discussed above, this means “full time equivalent certificated instructional staff” under RCW 28A.150.100. The SPI’s construction of RCW 28A.400.200(2) is probative of the Legislature’s intent. See Green River Community College v. Higher Educ. Personnel Bd., 95 Wn.2d 108, 117-18, 622 P.2d 826 (1980), modified, 95 Wn.2d 962, 633 P.2d 1324 (1981) (statute’s contemporaneous interpretation by the administrative agency charged with its enforcement is persuasive of legislative intent, especially where construction not subsequently altered by the Legislature).
+In conclusion, neither the statute nor an examination of legislative intent supports Mehlhaff s position. The trial court did not err.
+Affirmed.
+Morgan and Armstrong, JJ., concur.
+Review denied at 137 Wn.2d 1028 (1999).
+FuU-time teachers are contracted to work a minimum of 180 days per year. WAC 392-121-215.
+Tacoma Sch. Dist. and Mehlhaff, Dec. No. 5086 (PECB, May 1, 1995).
