@@ -1,0 +1,36 @@
+---
+court: "Washington Court of Appeals"
+docket: "2338-1"
+decided: "1975-04-14"
+citations: ["13 Wash. App. 190"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["James and Andersen, JJ., concur."]
+parties: ["Richard Lynn Hering, Appellant, v. The Department of Motor Vehicles, Respondent."]
+source_url: "https://static.case.law/wash-app/13/cases/0190-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1849704
+cites_cases: ["2 Wn. App. 228", "338 P.2d 763", "467 P.2d 321", "492 P.2d 558", "496 P.2d 963", "503 P.2d 752", "510 P.2d 1133", "516 P.2d 205", "54 Wn. 2d 917", "6 Wn. App. 233", "7 Wn. App. 827", "80 Wn.2d 624", "82 Wn.2d 382", "83 Wn.2d 121"]
+---
+
+# Hering v. Department of Motor Vehicles
+
+## Majority (Farris, J.)
+
+Farris, J.
+On February 18, 1971, Richard Lynn Hering was arrested and subsequently charged with driving while under the influence of intoxicating liquor and reckless driving. The arresting officer requested that he submit to a chemical sobriety test after properly advising him of his rights and of the consequences of a refusal pursuant to RCW 46.20.308 (the implied consent statute). Hering refused to take the test. Thereafter, he was notified by the Department of Motor Vehicles that his operator’s permit was suspended for a period of 6 months because of his refusal to take the test. He appealed to the Department of Motor Vehicles which affirmed the ruling at an administrative hearing. He thereafter appealed to Superior Court which, after a trial de novo, found that he was so intoxicated that he was mentally unable to understand the consequences of his refusal to take the test but held that the lack of ability to understand the advice and warning given pursuant to the implied consent statute (RCW 46.20.308), due to voluntary intoxication, does not excuse a refusal to take the chemical sobriety test. The suspension was upheld. This appeal followed. We affirm.
+There are two assignments of error. The first concerns certain deletions by the court from proposed findings of fact which were concurred in by both parties. The proposed findings are as follows:
+At the time and place of petitioner’s arrest, Officer Baker had reasonable grounds to believe that petitioner had been driving, or was in actual physical control of a motor vehicle upon the public highways of the State of Washington, while under the influence of intoxicating liquor; and that at said time and place petitioner who had consumed at least 24 martinis prior to his arrest was extremely drunk or nearly embalmed and was mentally incapable of thinking or performing any physical function requiring the use of his thought processes.
+Proposed finding of fact No. 5.
+That it is the policy of the Seattle Police Department to request a defendant to take a breathalizer test under RCW 46.20.308 regardless of their condition, even though the defendant may be so drunk he is unable to stand or walk by himself and is virtually totally incoherent.
+Proposed finding of fact No. 8.
+The trier of fact, rather than counsel by agreement, determines which facts have been established by the evidence. The trier of fact is not required to enter negative findings or to find that a certain fact has not been established. Miller v. Geranios, 54 Wn. 2d 917, 338 P.2d 763 (1959); General Indus., Inc. v. Eriksson, 2 Wn. App. 228, 467 P.2d 321 (1970). Here the court as the trier of fact was not satisfied that Hering was so intoxicated that he was incapable of physically or mentally functioning. We therefore can find no error in the refusal of the court to enter the proposed findings. Proposed finding of fact No. 8 was also beyond the scope of the suspension hearing; the court could properly find that it had no support in the record. See RCW 46.20.308 (4); State v. Womack, 82 Wn.2d 382, 386, 510 P.2d 1133 (1973).
+Hering’s second assignment of error concerns the appropriateness of his license suspension under the particular facts in issue. He argues that he was so intoxicated that he was mentally incapable of making an intelligent and informed judgment on the question of whether to submit or refuse to submit to a chemical test and his refusal was therefore not a proper basis for the suspension. The Supreme Court ruled on that issue in Department of Motor Vehicles v. McElwain, 80 Wn.2d 624, 628, 496 P.2d 963 (1972):
+It was not our intent, in [requiring a knowing and intelligent refusal], to read into RCW 46.20.308 a provision which it does not contain. The statute does provide that the operator shall be advised, and the obvious purpose of this requirement is to provide him the opportunity of exercising an intelligent judgment if he is capable of doing so. But we fail to find anywhere in the statute an expressed intent that an operator who, while not unconscious, is yet too intoxicated to understand the advice given him and to respond intelligently to it, shall be excused from the penalty provided therein for refusal to comply with the request that he submit to a test.
+The statutory requirement is satisfied when one is given the opportunity to exercise an intelligent judgment. His inability to do so because of intoxication is of no consequence. Hering was given that opportunity. The record discloses that he was properly advised of his rights at the time of his arrest. He was not unconscious. He was therefore afforded the opportunity to exercise an intelligent judgment to submit or refuse to submit to a chemical test of his breath. See Junkley v. Department of Motor Vehicles, 7 Wn. App. 827, 503 P.2d 752 (1972).
+Hering finally contends that his entry of a plea of guilty to the offense of driving while under the influence of intoxicating liquor should negate the license suspension. His theory is that the suspension is a penalty for the failure to cooperate with the effort to gather reliable evidence of intoxication or nonintoxication and the guilty plea makes it unnecessary to gather evidence on the issue. There is logic to his argument if the purpose of the suspension is as he suggests but we cannot agree that it is. The purpose of the suspension is threefold. In Nowell v. Department of Motor Vehicles, 83 Wn.2d 121, 124, 516 P.2d 205 (1973), the Supreme Court held:
+To carry out the intended objective, we believe the enactment has a threefold purpose: (1) to discourage individuals from driving an automobile while under the influence of intoxicants, (2) to remove the driving privileges from those individuals disposed to driving while inebriated, and (3) to provide an efficient means of gathering reliable evidence of intoxication or nonintoxication.
+To further the objective, the implied consent enactment provided a civil administrative proceeding for revoking driving privileges in appropriate instances, separate and distinct from the criminal proceedings which might ensue following the arrest of an offending motorist. Fritts v. Department of Motor Vehicles, 6 Wn. App. 233, 492 P.2d 558 (1971). An acquittal or conviction in the incidental criminal proceeding bears no relationship nor does it have any effect upon the administrative revocation process.
+Affirmed.
+James and Andersen, JJ., concur.
