@@ -1,0 +1,29 @@
+---
+court: "Washington Court of Appeals"
+docket: "2181-2"
+decided: "1977-03-09"
+citations: ["17 Wash. App. 79"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bucoda Trailer Park, Inc., Appellant, v. The State of Washington, Respondent."]
+source_url: "https://static.case.law/wash-app/17/cases/0079-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1774014
+cites_cases: ["1 Wn. App. 56", "130 P.2d 880", "14 Wn. App. 424", "15 Wn.2d 373", "358 U.S. 522", "359 P.2d 302", "406 P.2d 761", "459 P.2d 76", "469 P.2d 549", "498 P.2d 864", "542 P.2d 470", "57 Wn.2d 690", "67 Wn.2d 97", "78 Wn.2d 4", "81 Wn.2d 7"]
+---
+
+# Bucoda Trailer Park, Inc. v. State
+
+## Majority (Pearson, J.)
+
+Pearson, J.
+Bucoda Trailer Park, Inc. (Bucoda) appeals from a judgment upholding the validity of certain state taxes. The issues on appeal are whether the application of the retail sales tax and the retailing business and occupation tax to leases of mobile homes is a denial of equal protection, and whether Bucoda was subjected to improper double taxation. For the reasons stated below, we affirm.
+The following are the agreed facts on appeal. Bucoda purchased 18 mobile homes and paid retail sales tax on the purchase. The mobile homes were placed on a mobile home court which Bucoda had developed. Axles, hitches, and some wheels were left on the mobile homes. Bucoda leased the mobile homes, but did not collect retail sales tax from the lessees.
+The State Department of Revenue issued a tax assessment against Bucoda for retail sales tax and retailing business and occupation tax. Bucoda paid the assessment under protest and brought a class action suit challenging the application of these taxes to leases of mobile homes. The trial court upheld the taxes and Bucoda now appeals.
+Bucoda first alleges that the application of the retail sales tax, RCW 82.08, and the retailing business and occupation tax, RCW 82.04, to leases of mobile homes is a denial of equal protection of the laws. Both of the challenged taxes are applicable to Bucoda's leasing operation. The business and occupation tax is imposed upon persons engaged in the business of making "sales at retail." RCW 82.04.250. The retail sales tax is to be collected by the seller on each "retail sale." RCW 82.08.020. "Sales at retail" and "retail sales," for purposes of the respective taxes, are defined to include leases of tangible personal property and exclude leases of real property. RCW 82.04.050; RCW 82.08.010(4). A mobile home that has not lost its identity as a mobile unit remains personal property. Clevenger v. Peterson Constr. Co., 14 Wn. App. 424, 542 P.2d 470 (1975). See also Pedrini v. Mid-City Trailer Depot, Inc., 1 Wn. App. 56, 459 P.2d 76 (1969). In Clevenger v. Peterson Constr. Co., supra, a case involving contractors' registration requirements, mobile homes were held to be personal property where axles had not been removed from the homes, even though hitches and wheels had been removed. Additionally, RCW 84.04.090 provides that a mobile home is real property for purposes of property taxes, if it has substantially lost its identity as a mobile unit by virtue of its being permanently fixed in location upon land and placed on a permanent foundation with fixed pipe connections with sewer, water, or other utilities. Bucoda's mobile homes did not lose their identity as mobile units because the axles, hitches, and some wheels remained attached to the mobile homes, and they were not permanently attached to the land. Therefore the mobile homes are personal property, the leasing of which is subject to the retail sales tax and the retailing business and occupation tax.
+Bucoda contends that the equal protection requirements of the fourteenth amendment to the United States Constitution and article 1, section 12 of the Washington State Constitution are not satisfied. A legislative body has very broad discretion in making classifications in the exercise of its taxing powers. Oil Heat Institute v. Mukilteo, 81 Wn.2d 7, 498 P.2d 864 (1972). If the classification is neither arbitrary nor capricious, and rests upon some reasonable consideration of difference of policy, there is no denial of equal protection of the law. Clifford v. State, 78 Wn.2d 4, 469 P.2d 549 (1970); Allied Stores v. Bowers, 358 U.S. 522, 3 L. Ed. 2d 480, 79 S. Ct. 437 (1959).
+The Washington Supreme Court has upheld excise taxes based upon classification by type of property. Black v. State, 67 Wn.2d 97, 406 P.2d 761 (1965), held that a retail sales tax on the lease of personal property, a boat used as a floating hotel, but not upon the lease of real property, e.g., land-based hotels, did not violate equal protection requirements. The application of retail sales tax and retailing business and occupation tax to leases of mobile homes which are personal property, but not to leases of real property, is not a denial of equal protection.
+Bucoda also contends that it has been subjected to improper double taxation, having first paid sales tax on the purchase of the mobile homes and now being held accountable for sales tax on the leasing of the same mobile homes. This is not double taxation. While Bucoda is obligated to collect the sales tax on the lease of personal property, the tax is actually levied upon the buyer or lessee of the mobile home. RCW 82.08.050. See Gandy v. State, 57 Wn.2d 690, 359 P.2d 302 (1961). Additionally, Bucoda has not established that double taxation is improper. To the contrary there is no United States or Washington constitutional prohibition against double taxation as applied to excise taxes. Klickitat County v. Jenner, 15 Wn.2d 373, 130 P.2d 880 (1942).
+Judgment affirmed.
+Petrie, C.J., and Reed, J., concur.
