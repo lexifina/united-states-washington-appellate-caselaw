@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28281-6-I"
 decided: "1993-05-03"
-citations: ["70 Wash. App. 302", "69 Wash. App. 1064"]
+citations: ["70 Wash. App. 302"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Lynn Lough, Appellant."]
 source_url: "https://static.case.law/wash-app/70/cases/0302-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1745436
-cites_cases: ["100 Wn.2d 487", "101 Wn.2d 772", "106 S. Ct. 579", "106 Wn.2d 772", "109 Wn.2d 207", "109 Wn.2d 357", "110 Wn.2d 1009", "110 Wn.2d 253", "111 Wn.2d 1026", "113 Wn.2d 631", "115 Wn.2d 1020", "116 Wn.2d 1020", "117 Wn.2d 211", "118 Wn.2d 1014", "118 Wn.2d 596", "118 Wn.2d 649", "122 Wn.2d 1022", "123 P. 1073", "200 Conn. 440", "240 P.2d 251", "250 N.W.2d 443", "36 Wn. App. 176", "36 Wn. App. 746", "364 P.2d 638", "376 P.2d 446", "399 Mich. 472", "40 Wn.2d 18", "41 Iowa L. Rev. 325", "424 P.2d 947", "45 Hawaii 206", "46 Wn. App. 223", "47 Wn. App. 878", "474 U.S. 1024", "48 Wn. App. 187", "493 U.S. 342", "50 Wn. App. 446", "50 Wn. App. 47", "512 A.2d 175", "52 Wn. App. 176", "54 Wn. App. 857", "569 P.2d 1129", "57 Cal. Rptr. 363", "58 Wn. App. 83", "580 F.2d 38", "59 Wn. App. 389", "59 Wn. App. 561", "59 Wn. App. 815", "60 Wn.2d 797", "61 Wash. L. Rev. 1213", "637 P.2d 961", "655 P.2d 697", "66 Cal. 2d 232", "670 P.2d 646", "672 P.2d 772", "677 P.2d 202", "68 Wash. 672", "684 P.2d 668", "70 Wn. App. 302", "725 P.2d 951", "730 P.2d 98", "737 P.2d 688", "738 P.2d 316", "743 P.2d 1237", "745 P.2d 34", "747 P.2d 1119", "749 P.2d 160", "749 P.2d 683", "751 P.2d 837", "758 P.2d 539", "771 F.2d 454", "776 P.2d 170", "781 P.2d 483", "792 P.2d 167", "797 P.2d 1160", "799 P.2d 744", "801 P.2d 993", "813 P.2d 1238", "826 P.2d 172", "827 P.2d 263", "837 P.2d 599", "88 L. Ed. 2d 562", "89 Wn.2d 38", "96 Wn.2d 591", "98 Wn.2d 358"]
+cites_cases: ["100 Wn.2d 487", "101 Wn.2d 772", "106 S. Ct. 579", "106 Wn.2d 772", "109 Wn.2d 207", "109 Wn.2d 357", "110 Wn.2d 1009", "110 Wn.2d 253", "111 Wn.2d 1026", "113 Wn.2d 631", "115 Wn.2d 1020", "116 Wn.2d 1020", "117 Wn.2d 211", "118 Wn.2d 1014", "118 Wn.2d 596", "118 Wn.2d 649", "122 Wn.2d 1022", "123 P. 1073", "200 Conn. 440", "240 P.2d 251", "250 N.W.2d 443", "36 Wn. App. 176", "36 Wn. App. 746", "364 P.2d 638", "376 P.2d 446", "399 Mich. 472", "40 Wn.2d 18", "41 Iowa L. Rev. 325", "424 P.2d 947", "45 Hawaii 206", "46 Wn. App. 223", "47 Wn. App. 878", "474 U.S. 1024", "48 Wn. App. 187", "493 U.S. 342", "50 Wn. App. 446", "50 Wn. App. 47", "512 A.2d 175", "52 Wn. App. 176", "54 Wn. App. 857", "569 P.2d 1129", "57 Cal. Rptr. 363", "58 Wn. App. 83", "580 F.2d 38", "59 Wn. App. 389", "59 Wn. App. 561", "59 Wn. App. 815", "60 Wn.2d 797", "61 Wash. L. Rev. 1213", "637 P.2d 961", "655 P.2d 697", "66 Cal. 2d 232", "670 P.2d 646", "672 P.2d 772", "677 P.2d 202", "68 Wash. 672", "684 P.2d 668", "725 P.2d 951", "730 P.2d 98", "737 P.2d 688", "738 P.2d 316", "743 P.2d 1237", "745 P.2d 34", "747 P.2d 1119", "749 P.2d 160", "749 P.2d 683", "751 P.2d 837", "758 P.2d 539", "771 F.2d 454", "776 P.2d 170", "781 P.2d 483", "792 P.2d 167", "797 P.2d 1160", "799 P.2d 744", "801 P.2d 993", "813 P.2d 1238", "826 P.2d 172", "827 P.2d 263", "837 P.2d 599", "88 L. Ed. 2d 562", "89 Wn.2d 38", "96 Wn.2d 591", "98 Wn.2d 358"]
 ---
 
 # State v. Lough
