@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53529-3-I"
 decided: "2005-03-21"
-citations: ["127 Wash. App. 300", "126 Wash. App. 1032"]
+citations: ["127 Wash. App. 300"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jody Fox, Appellant, v. Benton A. Evans et al., Respondents."]
 source_url: "https://static.case.law/wash-app/127/cases/0300-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2460935
-cites_cases: ["104 Wn. App. 606", "127 Wn. App. 300", "15 P.3d 210", "156 Wn.2d 1017", "298 P.2d 1099", "31 Wn. App. 579", "49 Wn.2d 216", "643 P.2d 920", "84 Wn. App. 156", "86 Wn. App. 239", "92 Wn. App. 38", "926 P.2d 339", "935 P.2d 1377", "962 P.2d 834"]
+cites_cases: ["104 Wn. App. 606", "15 P.3d 210", "156 Wn.2d 1017", "298 P.2d 1099", "31 Wn. App. 579", "49 Wn.2d 216", "643 P.2d 920", "84 Wn. App. 156", "86 Wn. App. 239", "92 Wn. App. 38", "926 P.2d 339", "935 P.2d 1377", "962 P.2d 834"]
 ---
 
 # Fox v. Evans
