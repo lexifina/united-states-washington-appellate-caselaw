@@ -1,0 +1,39 @@
+---
+court: "Washington Court of Appeals"
+docket: "7396-0-II"
+decided: "1986-02-14"
+citations: ["42 Wash. App. 801"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Theodore A. Burns, Appellant, v. Earl L. Miller, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/42/cases/0801-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804115
+cites_cases: ["100 Wn.2d 643", "101 Wn.2d 599", "103 Wn.2d 383", "104 Wn.2d 353", "117 Wash. 283", "141 Wash. 14", "152 P. 679", "158 P. 737", "201 P. 308", "250 P. 452", "28 Wn. App. 597", "29 Wn. App. 42", "335 So. 2d 169", "335 So. 2d 172", "42 Wn. App. 195", "500 P.2d 1244", "529 P.2d 453", "583 P.2d 1197", "625 P.2d 176", "627 P.2d 146", "645 P.2d 1076", "673 P.2d 610", "681 P.2d 242", "693 P.2d 683", "705 P.2d 1195", "710 P.2d 804", "74 A.L.R.3d 378", "81 Wn.2d 215", "84 Wn.2d 645", "88 Wash. 109", "90 Wn.2d 395", "92 Wash. 215", "95 Wn.2d 1032", "96 A.L.R.3d 187", "97 Wn.2d 454"]
+---
+
+# Burns v. Miller
+
+## Majority (Worswick, C.J.)
+
+Worswick, C.J.
+—Does the chattel lien statute, RCW 60.08, authorize an award of attorney's fees to one who has only a common law possessory lien? We hold it does not.
+Theodore Burns engaged Miller Marine Corporation to work on his boat. The transaction ultimately produced a lawsuit. Burns attempted to regain possession of the boat and to obtain damages. Miller Marine counterclaimed for the amount it said Burns owed. It alleged that it had "pos-sessory and statutory" liens; it retained possession of the boat throughout and never filed a notice of lien with anyone.
+Miller Marine won, and was awarded substantial attorney's fees as part of its recovery. The boat was sold at sheriff's sale. The proceeds were applied to the judgment. Burns appeals only the award of attorney's fees. We reverse.
+Miller Marine contends that its lien arose under RCW 60.08.010, and therefore that the trial court was authorized to award it fees under RCW 60.08.050, notwithstanding that the boat never left its possession. We disagree. We hold that RCW 60.08.010 does not codify the common law possessory lien, but creates a supplementary nonpossessory lien. Because Miller Marine had only a common law pos-sessory lien, it was not eligible for attorney's fees under RCW 60.08.050.
+Our conclusion is based on straightforward statutory construction. We must carry out the intent of the Legislature, looking first to the language of the statute. Department of Transp. v. State Employees' Ins. Bd., 97 Wn.2d 454, 645 P.2d 1076 (1982). If possible, every word, clause and sentence should be given effect. Cox v. Helenius, 103 Wn.2d 383, 693 P.2d 683 (1985). If the language is ambiguous, we must consider the subject matter, the context in which the words are used, and the statutory purpose. PUD 1 v. Washington Pub. Power Supply Sys., 104 Wn.2d 353, 705 P.2d 1195 (1985).
+Statutes creating liens are in derogation of the common law; they must be strictly construed and will not be extended to benefit those who do not clearly come within them. Dean v. McFarland, 81 Wn.2d 215, 500 P.2d 1244, 74 A.L.R.3d 378 (1972). See also Pacific Gamble Robinson Co. v. Chef-Reddy Foods Corp., 42 Wn. App. 195, 710 P.2d 804 (1985).
+RCW 60.08.010 provides:
+Every person, firm or corporation who shall have performed labor or furnished material in the construction or repair of any chattel at the request of its owner, shall have a lien upon such chattel for such labor performed or material furnished, notwithstanding the fact that such chattel be surrendered to the owner thereof: Provided, however, That no such lien shall continue, after the delivery of such chattel to its owner, as against the rights of third persons who, prior to the filing of the lien notice as hereinafter provided for, may have acquired the title to such chattel in good faith, for value and without actual notice of the lien.
+(Italics ours.)
+We find no ambiguity in this statute. A careful reading of each word, clause and sentence makes it evident that the Legislature (1) acknowledged the existence of a common law possessory lien, (2) recognized that such lien was lost if possession was surrendered, and (3) created a statutory nonpossessory lien to supplement the common law possessory lien. Nothing in the statute or its history shows any intent to codify the common law, but the history of the statute does demonstrate an intent to supplement it.
+At common law, one who performs labor on a chattel at the request of the owner has a lien for the debt. 51 Am. Jur. 2d Liens § 20, at 157-58 (2d ed. 1970); 53 C.J.S. Liens § 1, at 826 (1948). However, the lien claimant must retain possession. Ellison v. Scheffsky, 141 Wash. 14, 250 P. 452 (1926); Murray v. Eisenberg, 29 Wn. App. 42, 627 P.2d 146, review denied, 95 Wn.2d 1032 (1981). The lien is lost by surrender of possession. Ellison v. Scheffsky, supra; Roth-weiler v. Winton Motor Car Co., 92 Wash. 215, 158 P. 737 (1916).
+The limits of the common law lien were impractical in modern business practice (see Rothweiler, 92 Wash, at 217), so the Legislature did something about it. In 1905, it passed a statute (Laws of 1905, ch. 72, § 1, p. 137) that provided a means for a lienholder to retain a lien on a chattel after possession was surrendered. The significant language has descended to us as RCW 60.08.010 with virtually no changes. See Laws of 1909, ch. 166, § 1; Laws of 1917, ch. 68, § 1. This statute created a lien where none existed at common law. See Sumner K. Prescott Co. v. Franklin Tool Works, 117 Wash. 283, 201 P. 308 (1921). It supplemented but did not codify the common law. Cf. Peavy's Serv. Ctr., Inc. v. Associates Fin. Servs. Co., 335 So. 2d 169 (Ala. Civ. App. 1976), cert. denied, 335 So. 2d 172 (1976); see also Ibrahim v. HAPO Fed. Employees Credit Union, 28 Wn. App. 597, 598, 625 P.2d 176 (1981).
+The language of the proviso—"[t]hat no such lien shall continue, after the delivery . . ."—does not affect our conclusion. Provisos do not enlarge statutes, but limit or provide exceptions to them; generally, they are strictly construed and doubts are resolved in favor of the general provisions of the statute. State v. Wright, 84 Wn.2d 645, 529 P.2d 453 (1974). Again, a close reading of the proviso reveals that it is the nonpossessory lien that does not continue after delivery of possession, as to the rights of innocent third parties, unless the requisite notice is filed. See Campen v. Jamieson, 88 Wash. 109, 152 P. 679 (1915).
+As Miller Marine does not come within the provisions of RCW 60.08.010, it was not eligible for attorney's fees under RCW 60.08.050.
+Reversed.
+Petrich and Alexander, JJ., concur.
+Review granted by Supreme Court June 5, 1986.
+The trial court purported to award attorney's fees on the authority of RCW 60.36 (the vessel lien statute) and RCW 19.86 (the Consumer Protection Act, which we assume Burns asserted at trial as it was not pleaded). Miller Marine concedes that RCW 60.36 affords no basis for attorney's fees, and that one who successfully defends a Consumer Protection Act claim is not entitled to such fees in view of Sato v. Century 21 Ocean Shores Real Estate, 101 Wn.2d 599, 681 P.2d 242 (1984). Thus Miller Marine is compelled to rely on RCW 60.08.010, the only statute that might fit these facts and that provides for attorney's fees. See Mellor v. Chamberlin, 100 Wn.2d 643, 673 P.2d 610 (1983). It urges us to affirm under the familiar principle that a trial court can be affirmed on any proper basis within the pleadings and proof. Gross v. Lynnwood, 90 Wn.2d 395, 583 P.2d 1197, 96 A.L.R.3d 187 (1978).
+"Notwithstanding," used here as a conjunction, means "in spite of the fact that; although." Webster's New World Dictionary 974 (2d ed. 1979).
