@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8590-2-III"
 decided: "1988-05-31"
-citations: ["51 Wash. App. 861", "51 Wash. App. 1049"]
+citations: ["51 Wash. App. 861"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael F. Supanchick, Appellant, v. Kenneth A. Pfaff, Respondent."]
 source_url: "https://static.case.law/wash-app/51/cases/0861-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591747
-cites_cases: ["106 Wn.2d 685", "12 Wn. App. 500", "17 Wn. App. 339", "252 P.2d 303", "369 P.2d 299", "383 P.2d 277", "41 Wn.2d 775", "415 P.2d 496", "51 Wn. App. 861", "524 P.2d 232", "530 P.2d 687", "562 P.2d 991", "59 Wn.2d 571", "62 Wn.2d 420", "664 P.2d 492", "68 Wn.2d 726", "724 P.2d 997", "84 Wn.2d 99", "99 Wn.2d 582"]
+cites_cases: ["106 Wn.2d 685", "12 Wn. App. 500", "17 Wn. App. 339", "252 P.2d 303", "369 P.2d 299", "383 P.2d 277", "41 Wn.2d 775", "415 P.2d 496", "524 P.2d 232", "530 P.2d 687", "562 P.2d 991", "59 Wn.2d 571", "62 Wn.2d 420", "664 P.2d 492", "68 Wn.2d 726", "724 P.2d 997", "84 Wn.2d 99", "99 Wn.2d 582"]
 ---
 
 # Supanchick v. Pfaff
