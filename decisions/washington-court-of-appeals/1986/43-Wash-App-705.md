@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7259-2-III"
 decided: "1986-04-29"
-citations: ["43 Wash. App. 705", "43 Wash. App. 1041"]
+citations: ["43 Wash. App. 705"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Victor Louis Pestrin, Appella
 source_url: "https://static.case.law/wash-app/43/cases/0705-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1806334
-cites_cases: ["101 Wn.2d 576", "102 Wn.2d 182", "105 Wn.2d 67", "13 Wn. App. 782", "15 Wn. App. 837", "22 Wn. App. 197", "23 Wn. App. 218", "34 Wn. App. 607", "40 Wn. App. 448", "43 Wn. App. 705", "513 P.2d 577", "537 P.2d 820", "552 P.2d 202", "588 P.2d 1201", "595 P.2d 912", "596 P.2d 1089", "653 P.2d 612", "663 P.2d 496", "681 P.2d 237", "683 P.2d 186", "698 P.2d 1102", "711 P.2d 345", "9 Wn. App. 529", "92 Wn.2d 193", "98 Wn.2d 53"]
+cites_cases: ["101 Wn.2d 576", "102 Wn.2d 182", "105 Wn.2d 67", "13 Wn. App. 782", "15 Wn. App. 837", "22 Wn. App. 197", "23 Wn. App. 218", "34 Wn. App. 607", "40 Wn. App. 448", "513 P.2d 577", "537 P.2d 820", "552 P.2d 202", "588 P.2d 1201", "595 P.2d 912", "596 P.2d 1089", "653 P.2d 612", "663 P.2d 496", "681 P.2d 237", "683 P.2d 186", "698 P.2d 1102", "711 P.2d 345", "9 Wn. App. 529", "92 Wn.2d 193", "98 Wn.2d 53"]
 ---
 
 # State v. Pestrin
