@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "38123-7-I"
+decided: "1997-04-14"
+citations: ["85 Wash. App. 1069"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Wesley Keith Westre, Appellant."]
+source_url: "https://static.case.law/wash-app/85/cases/1069-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277564
+---
+
+# State v. Westre
+
+## Majority
+
+Appeal from a judgment of the Superior Court for King County, No. 95-8-07387-7, Michael Spearman, J., entered January 31, 1996. Dismissed by unpublished per curiam opinion.
