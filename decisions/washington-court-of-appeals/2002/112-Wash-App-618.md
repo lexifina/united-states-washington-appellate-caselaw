@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45358-1-I"
 decided: "2002-05-20"
-citations: ["112 Wash. App. 618", "111 Wash. App. 1045"]
+citations: ["112 Wash. App. 618"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Donald Brian Webb, Appellant.
 source_url: "https://static.case.law/wash-app/112/cases/0618-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719354
-cites_cases: ["110 Wn. App. 554", "110 Wn. App. 741", "111 Wn.2d 353", "112 Wn. App. 618", "114 Wn.2d 314", "133 Wn.2d 177", "139 Wn.2d 186", "139 Wn.2d 320", "143 Wn.2d 658", "144 Wn.2d 665", "23 P.3d 462", "30 P.3d 1245", "39 P.3d 294", "42 P.3d 436", "43 P.3d 1246", "759 P.2d 436", "788 P.2d 531", "90 Wn. App. 339", "942 P.2d 974", "952 P.2d 195", "985 P.2d 384", "987 P.2d 63"]
+cites_cases: ["110 Wn. App. 554", "110 Wn. App. 741", "111 Wn.2d 353", "114 Wn.2d 314", "133 Wn.2d 177", "139 Wn.2d 186", "139 Wn.2d 320", "143 Wn.2d 658", "144 Wn.2d 665", "23 P.3d 462", "30 P.3d 1245", "39 P.3d 294", "42 P.3d 436", "43 P.3d 1246", "759 P.2d 436", "788 P.2d 531", "90 Wn. App. 339", "942 P.2d 974", "952 P.2d 195", "985 P.2d 384", "987 P.2d 63"]
 ---
 
 # State v. Webb
