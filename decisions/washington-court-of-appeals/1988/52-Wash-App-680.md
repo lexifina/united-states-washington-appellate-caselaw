@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20138-7-I"
 decided: "1988-09-19"
-citations: ["52 Wash. App. 680", "52 Wash. App. 1042"]
+citations: ["52 Wash. App. 680"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Marilyn Katherine Carpenter, 
 source_url: "https://static.case.law/wash-app/52/cases/0680-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1708766
-cites_cases: ["100 Wn.2d 1024", "101 Wn.2d 576", "102 Wn.2d 100", "102 Wn.2d 1006", "103 Wn.2d 304", "105 Wn.2d 398", "128 Wash. 419", "13 Wn. App. 704", "19 Wn. App. 256", "223 P. 9", "25 Wn. App. 282", "35 Wn. App. 5", "37 Wn. App. 628", "41 Wn. App. 303", "425 P.2d 658", "448 P.2d 943", "45 Wn. App. 132", "466 U.S. 668", "477 P.2d 1", "479 U.S. 922", "48 Wn. App. 48", "52 Wn. App. 680", "537 P.2d 844", "576 P.2d 1302", "588 P.2d 1151", "607 P.2d 321", "621 P.2d 121", "664 P.2d 1301", "681 P.2d 237", "683 P.2d 1110", "683 P.2d 194", "692 P.2d 823", "70 Wn.2d 854", "704 P.2d 1206", "717 P.2d 722", "724 P.2d 412", "738 P.2d 281", "75 Wn.2d 89", "78 Wn.2d 491", "90 Wn.2d 1006", "91 Wn.2d 342", "94 Wn.2d 839"]
+cites_cases: ["100 Wn.2d 1024", "101 Wn.2d 576", "102 Wn.2d 100", "102 Wn.2d 1006", "103 Wn.2d 304", "105 Wn.2d 398", "128 Wash. 419", "13 Wn. App. 704", "19 Wn. App. 256", "223 P. 9", "25 Wn. App. 282", "35 Wn. App. 5", "37 Wn. App. 628", "41 Wn. App. 303", "425 P.2d 658", "448 P.2d 943", "45 Wn. App. 132", "466 U.S. 668", "477 P.2d 1", "479 U.S. 922", "48 Wn. App. 48", "537 P.2d 844", "576 P.2d 1302", "588 P.2d 1151", "607 P.2d 321", "621 P.2d 121", "664 P.2d 1301", "681 P.2d 237", "683 P.2d 1110", "683 P.2d 194", "692 P.2d 823", "70 Wn.2d 854", "704 P.2d 1206", "717 P.2d 722", "724 P.2d 412", "738 P.2d 281", "75 Wn.2d 89", "78 Wn.2d 491", "90 Wn.2d 1006", "91 Wn.2d 342", "94 Wn.2d 839"]
 ---
 
 # State v. Carpenter
