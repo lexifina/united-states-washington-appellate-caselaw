@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37960-7-I"
 decided: "1997-04-28"
-citations: ["87 Wash. App. 103", "85 Wash. App. 1087"]
+citations: ["87 Wash. App. 103"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jim Fernando, Respondent, v. Bernhild M. Nieswandt, Appellant."]
 source_url: "https://static.case.law/wash-app/87/cases/0103-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 566337
-cites_cases: ["105 Wn.2d 499", "107 Wn.2d 679", "121 Wn.2d 795", "130 Wn.2d 1001", "133 Wn.2d 1014", "293 P.2d 759", "48 Wn.2d 373", "68 Wn. App. 329", "716 P.2d 869", "72 Wn. App. 21", "732 P.2d 510", "82 Wn. App. 471", "842 P.2d 1010", "854 P.2d 629", "863 P.2d 585", "87 Wn. App. 103", "918 P.2d 543"]
+cites_cases: ["105 Wn.2d 499", "107 Wn.2d 679", "121 Wn.2d 795", "130 Wn.2d 1001", "133 Wn.2d 1014", "293 P.2d 759", "48 Wn.2d 373", "68 Wn. App. 329", "716 P.2d 869", "72 Wn. App. 21", "732 P.2d 510", "82 Wn. App. 471", "842 P.2d 1010", "854 P.2d 629", "863 P.2d 585", "918 P.2d 543"]
 ---
 
 # Fernando v. Nieswandt
