@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47789-7-I"
 decided: "2002-01-22"
-citations: ["110 Wash. App. 778", "110 Wash. App. 1007"]
+citations: ["110 Wash. App. 778"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John D. Brown, Appellant, v. The Chiropractic Quality Assurance Commi
 source_url: "https://static.case.law/wash-app/110/cases/0778-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1123477
-cites_cases: ["110 Wn. App. 778", "208 Conn. 492", "37 Colo. App. 504", "405 Mass. 15", "537 N.E.2d 1216", "545 A.2d 1080", "552 P.2d 38", "Mass. Gen. Laws ch. 112, § 2", "Mass. Gen. Laws ch. 112, § 5"]
+cites_cases: ["208 Conn. 492", "37 Colo. App. 504", "405 Mass. 15", "537 N.E.2d 1216", "545 A.2d 1080", "552 P.2d 38", "Mass. Gen. Laws ch. 112, § 2", "Mass. Gen. Laws ch. 112, § 5"]
 ---
 
 # Brown v. Chiropractic Quality Assurance Commission
