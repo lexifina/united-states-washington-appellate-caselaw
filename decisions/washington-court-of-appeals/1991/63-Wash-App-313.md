@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24356-0-I"
 decided: "1991-11-04"
-citations: ["63 Wash. App. 313", "68 Wash. App. 934"]
+citations: ["63 Wash. App. 313"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Respondent, v. Leslie Riggins, Petitioner."]
 source_url: "https://static.case.law/wash-app/63/cases/0313-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1732971
-cites_cases: ["101 Wn.2d 664", "110 Wn.2d 183", "111 Wn.2d 923", "113 Wn.2d 679", "113 Wn.2d 850", "117 Wn.2d 1008", "119 Wn.2d 623", "120 Wn.2d 1012", "125 Misc. 2d 318", "164 P.2d 453", "180 Colo. 20", "24 Wn.2d 350", "298 Or. 395", "33 Wn. App. 357", "35 Wn. App. 583", "47 A.L.R.4th 651", "47 AL.R.4th 643", "479 N.Y.S.2d 613", "482 U.S. 451", "60 Wn. App. 645", "60 Wn. App. 87", "63 Wn. App. 313", "655 P.2d 1169", "668 P.2d 596", "683 P.2d 571", "751 P.2d 294", "767 P.2d 572", "782 P.2d 552", "784 P.2d 494", "79 Or. App. 36", "803 P.2d 1325", "806 P.2d 1246", "82 N.M. 626", "96 L. Ed. 2d 398"]
+cites_cases: ["101 Wn.2d 664", "110 Wn.2d 183", "111 Wn.2d 923", "113 Wn.2d 679", "113 Wn.2d 850", "117 Wn.2d 1008", "119 Wn.2d 623", "120 Wn.2d 1012", "125 Misc. 2d 318", "164 P.2d 453", "180 Colo. 20", "24 Wn.2d 350", "298 Or. 395", "33 Wn. App. 357", "35 Wn. App. 583", "47 A.L.R.4th 651", "47 AL.R.4th 643", "479 N.Y.S.2d 613", "482 U.S. 451", "60 Wn. App. 645", "60 Wn. App. 87", "655 P.2d 1169", "668 P.2d 596", "683 P.2d 571", "751 P.2d 294", "767 P.2d 572", "782 P.2d 552", "784 P.2d 494", "79 Or. App. 36", "803 P.2d 1325", "806 P.2d 1246", "82 N.M. 626", "96 L. Ed. 2d 398"]
 ---
 
 # City of Seattle v. Riggins
