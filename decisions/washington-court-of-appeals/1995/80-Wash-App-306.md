@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33665-7-I"
 decided: "1995-09-05"
-citations: ["80 Wash. App. 306", "79 Wash. App. 1003"]
+citations: ["80 Wash. App. 306"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Marlow Krein, et al., Respondents, v. Nordstrom, Defendant, William R
 source_url: "https://static.case.law/wash-app/80/cases/0306-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 420875
-cites_cases: ["100 Wn.2d 581", "112 Wn.2d 145", "115 S. Ct. 663", "118 Wn.2d 133", "123 Wn.2d 750", "124 Wn.2d 318", "130 L. Ed. 2d 598", "161 P. 1194", "424 U.S. 319", "513 U.S. 1056", "647 P.2d 1004", "675 P.2d 193", "768 P.2d 998", "773 P.2d 420", "80 Wn. App. 306", "821 P.2d 482", "871 P.2d 1050", "879 P.2d 912", "94 Wash. 243", "97 Wn.2d 598"]
+cites_cases: ["100 Wn.2d 581", "112 Wn.2d 145", "115 S. Ct. 663", "118 Wn.2d 133", "123 Wn.2d 750", "124 Wn.2d 318", "130 L. Ed. 2d 598", "161 P. 1194", "424 U.S. 319", "513 U.S. 1056", "647 P.2d 1004", "675 P.2d 193", "768 P.2d 998", "773 P.2d 420", "821 P.2d 482", "871 P.2d 1050", "879 P.2d 912", "94 Wash. 243", "97 Wn.2d 598"]
 ---
 
 # Krein v. Nordstrom
