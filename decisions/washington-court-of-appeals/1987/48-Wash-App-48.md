@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17146-1-I"
 decided: "1987-04-27"
-citations: ["48 Wash. App. 48", "47 Wash. App. 1049"]
+citations: ["48 Wash. App. 48"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Glenn Lee Slemmer, Appellant.
 source_url: "https://static.case.law/wash-app/48/cases/0048-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1838341
-cites_cases: ["102 Wn.2d 689", "104 S. Ct. 111", "104 Wn.2d 1003", "104 Wn.2d 412", "105 Wn.2d 398", "105 Wn.2d 692", "106 S. Ct. 1208", "107 S. Ct. 328", "107 S. Ct. 599", "21 Wn. App. 855", "23 Wn. App. 869", "24 A.L.R.4th 1191", "24 Wn. App. 495", "30 Wn. App. 351", "30 Wn. App. 653", "36 Wn. App. 510", "37 Wn. App. 780", "38 Wn. App. 527", "40 Wn. App. 75", "41 Wn. App. 640", "45 Wn. App. 132", "45 Wn. App. 916", "464 U.S. 831", "466 U.S. 668", "475 U.S. 1020", "48 Wn. App. 48", "587 P.2d 179", "598 P.2d 783", "601 P.2d 982", "617 P.2d 1012", "622 P.2d 853", "633 P.2d 1340", "638 P.2d 89", "653 P.2d 1024", "676 P.2d 517", "683 P.2d 234", "686 P.2d 500", "689 P.2d 76", "697 P.2d 263", "705 P.2d 1182", "705 P.2d 808", "717 P.2d 722", "718 P.2d 407", "724 P.2d 412", "729 P.2d 56", "78 L. Ed. 2d 112", "89 L. Ed. 2d 321", "93 L. Ed. 2d 301", "93 L. Ed. 2d 599", "94 Wn.2d 531", "98 Wn.2d 1", "99 Wn.2d 413"]
+cites_cases: ["102 Wn.2d 689", "104 S. Ct. 111", "104 Wn.2d 1003", "104 Wn.2d 412", "105 Wn.2d 398", "105 Wn.2d 692", "106 S. Ct. 1208", "107 S. Ct. 328", "107 S. Ct. 599", "21 Wn. App. 855", "23 Wn. App. 869", "24 A.L.R.4th 1191", "24 Wn. App. 495", "30 Wn. App. 351", "30 Wn. App. 653", "36 Wn. App. 510", "37 Wn. App. 780", "38 Wn. App. 527", "40 Wn. App. 75", "41 Wn. App. 640", "45 Wn. App. 132", "45 Wn. App. 916", "464 U.S. 831", "466 U.S. 668", "475 U.S. 1020", "587 P.2d 179", "598 P.2d 783", "601 P.2d 982", "617 P.2d 1012", "622 P.2d 853", "633 P.2d 1340", "638 P.2d 89", "653 P.2d 1024", "676 P.2d 517", "683 P.2d 234", "686 P.2d 500", "689 P.2d 76", "697 P.2d 263", "705 P.2d 1182", "705 P.2d 808", "717 P.2d 722", "718 P.2d 407", "724 P.2d 412", "729 P.2d 56", "78 L. Ed. 2d 112", "89 L. Ed. 2d 321", "93 L. Ed. 2d 301", "93 L. Ed. 2d 599", "94 Wn.2d 531", "98 Wn.2d 1", "99 Wn.2d 413"]
 ---
 
 # State v. Slemmer
