@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16717-8-III; 16718-6-III; 16978-2-III"
 decided: "1999-01-26"
-citations: ["94 Wash. App. 582", "93 Wash. App. 1071"]
+citations: ["94 Wash. App. 582"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Welfare of Mary D. Deborah W., et al., Appellant
 source_url: "https://static.case.law/wash-app/94/cases/0582-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83343
-cites_cases: ["116 Wn.2d 1002", "124 Wn.2d 1019", "25 Wn. App. 447", "59 Wn. App. 315", "607 P.2d 879", "62 Wn. App. 310", "65 Wn. App. 631", "73 Wn. App. 708", "796 P.2d 786", "814 P.2d 217", "829 P.2d 791", "870 P.2d 1037", "94 Wn. App. 582"]
+cites_cases: ["116 Wn.2d 1002", "124 Wn.2d 1019", "25 Wn. App. 447", "59 Wn. App. 315", "607 P.2d 879", "62 Wn. App. 310", "65 Wn. App. 631", "73 Wn. App. 708", "796 P.2d 786", "814 P.2d 217", "829 P.2d 791", "870 P.2d 1037"]
 ---
 
 # Deborah W. v. Department of Social & Health Services
