@@ -1,0 +1,72 @@
+---
+court: "Washington Court of Appeals"
+docket: "23013-1-I"
+decided: "1989-10-23"
+citations: ["55 Wash. App. 772"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Webster, J., and Ringold, J. Pro Tem., concur."]
+parties: ["Burlington Northern Railroad Company, Respondent, v. Grabber Construction Supply, Inc., Appellant."]
+source_url: "https://static.case.law/wash-app/55/cases/0772-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8848501
+cites_cases: ["102 L. Ed. 2d 15", "109 S. Ct. 35", "109 Wn.2d 107", "112 Wn.2d 1024", "114 Wn.2d 1004", "13 Wn. App. 824", "237 U.S. 94", "250 U.S. 577", "256 U.S. 406", "265 U.S. 59", "30 Wn. App. 144", "307 F.2d 230", "456 U.S. 336", "456 U.S. 964", "469 U.S. 982", "49 U.S.C. § 10761", "512 P.2d 1108", "512 P.2d 764", "528 F. Supp. 223", "53 Wn. App. 456", "537 P.2d 1076", "555 P.2d 1348", "594 F.2d 619", "633 P.2d 105", "682 F.2d 1227", "714 F.2d 213", "737 F.2d 683", "744 P.2d 1032", "750 P.2d 254", "767 P.2d 958", "87 Wn.2d 665", "9 Wn. App. 378", "9 Wn. App. 382"]
+---
+
+# Burlington Northern Railroad v. Grabber Construction Supply, Inc.
+
+## Majority (Forrest, J.)
+
+Forrest, J.
+Grabber Construction Supply, Inc., (Grabber) appeals from the trial court's grant of summary judgment to Burlington Northern Railroad Company (BNR) on BNR's complaint and from the trial court's grant of summary judgment to BNR on Grabber's counterclaim. We affirm.
+Sometime in late 1984, Grabber began negotiations for the purchase from United States Steel of steel coils. United States Steel's price, when shipping charges were included, was not competitive. It agreed to seek a special freight rate from BNR.
+United States Steel applied for a special tariff to take effect January 18, 1985, which would charge a freight rate of $1.23 per c/w (century weight). Following confirmation of the $1.23 rate, Grabber agreed to purchase steel coils from United States Steel. Neither United States Steel nor BNR ever disclosed to Grabber that the special rate of $1.23 was to expire on May 31, 1985. Since Grabber had not negotiated the special rate, it did not know that the rate would expire without notice. United States Steel shipped steel coils via BNR from January 1985 through August 1985. BNR submitted waybills to Grabber for each of the deliveries. They were paid by Grabber through July 1985. All bills submitted by BNR up to and including four bills from July 5, 1985, showed a rate of $1.23 per c/w. In September 1985, Grabber received waybills from shipments in August which showed a new rate of $1.83 per c/w. Graber paid the bill calculated on the $1.23 rate. BNR told Grabber the $1.23 rate had expired on May 31, 1985; the $1.83 rate became effective June 1, 1985. Hence, Grabber had underpaid by $11,056.
+In January 1987, Grabber was told by a misinformed clerk at BNR that the balance of its account was $174.62. Grabber submitted a check in that amount, dated January 29, 1987, to BNR. Its endorsement stated:
+This represents payment in full for all services rendered by Burlington Northern to Grabber Construction Supply, Inc., through 12/31/86. Deposit of this check shall be complete discharge of any and all obligations owed by Grabber Construction Supply to Burlington Northern through 12/31/86.
+BNR cashed the check. Grabber appeals from summary judgments in BNR's favor.
+Proof of the Applicable Rate
+Grabber contends that BNR failed to establish that a new rate of $1.83 per c/w took effect upon expiration of the temporary rate of $1.23 per c/w and, further, that the tariff was ambiguous or unconstitutionally vague. We disagree.
+In support of its summary judgment motion, BNR submitted the affidavit of Clay Tillema, the manager of customer accounting. The affidavit establishes his expertise in this field. His affidavit states that the original tariff rate of $1.83 per c/w was reduced by a special tariff to $1.23 per c/w from January 18 to May 31, 1985. On June 1, 1985, the prior rate of $1.83 per c/w resumed. In the absence of any controverting affidavit or any documentary evidence questioning these rates, the court was entitled to accept them in calculating the undercharge and in granting summary judgment. Moreover, shippers are conclusively presumed to know the filed tariff rates applicable to their shipments.
+Grabber's claim that the entire schedule is ambiguous and unconstitutionally vague was not raised in the court below. Accordingly, we need not consider it on appeal. In any event, no case is cited holding or even suggesting that the Interstate Commerce Commission's (ICC) tariff schedules fail to meet constitutional standards. Nor was there any factual showing of the difficulty in reading such schedules; thousands of shippers and carriers successfully read them every day.
+Equitable Estoppel
+Grabber contends that BNR is barred from collecting the underpayment by the doctrine of equitable estoppel. We disagree.
+Under 49 U.S.C. § 10761, a common carrier regulated by the ICC may not receive for its services any compensation other than the rate specified in the applicable tariff. This statute and its substantially similar predecessor have been strictly interpreted:
+Under the Interstate Commerce Act, the rate of the carrier duly filed is the only lawful charge. Deviation from it is not permitted upon any pretext. Shippers and travelers are charged with notice of it, and they as well as the carrier must abide by it, unless it is found by the Commission to be unreasonable. Ignorance or misquotation of rates is not an excuse for paying or charging either less or more than the rate filed. This rule is undeniably strict and it obviously may work hardship in some cases, but it embodies the policy which has been adopted by Congress in the regulation of interstate commerce in order to prevent unjust discrimination.
+Louisville & N.R.R. v. Maxwell, 237 U.S. 94, 97, 59 L. Ed. 853, 35 S. Ct. 494 (1915).
+The Supreme Court has also held that no equitable defenses can preclude enforcement of lawful tariff rates, and that no act or omission by the carrier, except for expiration of the statute of limitations, can prevent enforcement of these rates.
+Grabber relies on three Washington cases to justify equitable estoppel on these facts despite the firm general rule. These cases are factually distinguishable from the instant case. In Lyon Van Lines, Inc. v. Cole, the court considered whether a consignee-owner of goods shipped had absolute liability for payment of a carrier's transportation charges notwithstanding an agreement by a third party to pay the charges. The court held that the trial judge correctly ruled that the owners were not contractually liable to pay the shipping charges. The court noted this did not contravene the antidiscriminatory purpose behind the Interstate Commerce Act (ICA) because the question was not how much would be paid, but from whom full payment would be demanded. It did not reach the estoppel issue raised by the owners.
+In Union Pac. R.R. v. Stadelman Fruit, Inc., mechanical services were provided by the carrier to protect the shipper's fruit. The initial billing for freight charges was based on published tariff schedules and the shipper paid it. The bill did not indicate that mechanical services had been performed and additional charges incurred, nor did the shipper know such services had been rendered. Two years later, the shipper received the bill for the mechanical services rendered. The court held the respondent could not invoke an estoppel defense against the carrier. Use of estoppel did not contravene the antidiscriminatory purposes of the ICA because the carrier was attempting to collect for mechanical services performed, and not for unpaid tariff rates.
+Finally, in Alaska Marine Trucking v. Carnation Co., the court specifically distinguished its facts from those of the undercharge cases, stating that the issue concerned
+the liability of a consignor (Carnation) for freight charges on freight collect shipments because the bankrupt consignee (Meadowmoor) is insolvent and the carrier negligently failed to collect or to inform the shipper of the overdue account until it became seriously delinquent.
+Alaska Marine, 30 Wn. App. at 148. The court held that the trial court should have allowed Carnation to apply its estoppel defense because the antidiscriminatory purposes of the ICA would not be contravened. Unlike the Washington cases cited, charging Grabber less than the applicable tariff would indeed conflict with the antidiscriminatory purposes underlying the act by treating shippers unequally.
+The United States Supreme Court has rejected use of an estoppel defense in cases similar to this on several occasions. In Pittsburgh, C., C. & St. L. Ry. v. Fink, the carrier had charged the shipper a freight rate lower than was specified in the tariff schedule filed with the ICC. The carrier sought to recover the amount of the undercharge. The Court held the shipper was presumed to know the applicable tariff and stated that Fink could not invoke the principle of estoppel against the right to collect the legal rate. The trial court did not err in granting summary judgment on Grabber's estoppel claim.
+Accord and Satisfaction
+Grabber also asserts that his affirmative defense of accord and satisfaction should prevail since BNR cashed a check endorsed with a statement purporting to discharge all remaining obligations owed by Grabber to BNR. Where a sum due is unliquidated or disputed and a remittance of an amount less than that claimed is sent to the creditor in full satisfaction of the claim, the acceptance of such remittance by the creditor constitutes an accord and satisfaction if founded upon a contract supported by proper consideration.
+In Sea-Land Serv., Inc. v. Sherman, Sea-Land brought a summary judgment motion, seeking freight charges from Sherman. Sherman claimed that Sea-Land’s negotiation of its tendered check constituted an accord and satisfaction of the total charge. The District Court granted summary judgment, holding that Sea-Land's action for the total debt was proper. The court wrote:
+The law is well-settled that a carrier must charge rates in accordance with legally required and filed tariffs, and that even a misquotation by the carrier or its agent of proposed charges will not preclude subsequently seeking the proper charge calculated with reference to its tariff schedules.
+Sea-Land, 528 F. Supp. at 223. The trial court properly dismissed Grabber's accord and satisfaction theory.
+Counterclaim for Negligent Misrepresentation
+Grabber claims a setoff based on negligent misrepresentation. The special tariff rate enjoyed by Grabber was secured by United States Steel after negotiating with BNR. Grabber alleges misrepresentation because BNR mistakenly continued to ship and bill at the lower rate after it had expired. These facts provide an inadequate basis to support a claim of negligent misrepresentation. Moreover, a party cannot be liable for misrepresentation when an express promise as to the same matter would not be legally enforceable.
+In any event, the firm and settled policy rigorously applied is that neither the shipper nor the carrier can deviate from the tariff rate by agreement or by mistake. As recently stated:
+Thus, carriers who sue to recover the full tariff rate after mistakenly undercharging the shipper cannot be estopped from asserting the correct rate on the basis of their prior representations to the shipper that the rate was lower.
+Aero Trucking, Inc. v. Regal Tube Co., 594 F.2d 619, 621 (7th Cir. 1979). The court correctly granted BNR's motion for summary judgment on the counterclaim.
+Affirmed.
+Webster, J., and Ringold, J. Pro Tem., concur.
+Review denied at 114 Wn.2d 1004 (199Ó).
+Pittsburgh, C., C. & St. L. Ry. v. Fink, 250 U.S. 577, 63 L. Ed. 1151, 40 S. Ct. 27 (1919); Louisville & N.R.R. v. Maxwell, 237 U.S. 94, 59 L. Ed. 853, 35 S. Ct. 494 (1915).
+Bernstein v. State, 53 Wn. App. 456, 767 P.2d 958, review denied, 112 Wn.2d 1024 (1989); Robinson v. Peterson, 87 Wn.2d 665, 555 P.2d 1348 (1976).
+49 U.S.C. § 10761 reads in part:
+" (a) Except as provided in this subtitle, a carrier providing transportation or service subject to the jurisdiction of the Interstate Commerce Commission under chapter 105 of this title shall provide that transportation or service only if the rate for the transportation or service is contained in a tariff that is in effect under this subchapter. That carrier may not charge or receive a different compensation for that transportation or service than the rate specified in the tariff whether by returning a part of that rate to a person, giving a person a privilege, allowing the use of a facility that affects the value of that transportation or service, or another device." (Italics ours.)
+Louisville & N.R.R. v. Central Iron & Coal Co., 265 U.S. 59, 65, 68 L. Ed. 900, 44 S. Ct. 441 (1924); Pittsburgh, C., C. & St. L. Ry. v. Fink, 250 U.S. 577, 582-83, 63 L. Ed. 1151, 40 S. Ct. 27 (1919). These older Supreme Court decisions have fully maintained their vitality. See Southern Pac. Transp. Co. v. Commercial Metals Co., 456 U.S. 336, 352, 72 L. Ed. 2d 114, 102 S. Ct. 1815 (1982); Louisville & N.R.R. v. Mead Johnson & Co., 737 F.2d 683 (7th Cir.), cert. denied, 469 U.S. 982 (1984); Siegal v. Converters Transp., Inc., 714 F.2d 213 (2d Cir. 1983); Western Transp. Co. v. Wilson & Co. 682 F.2d 1227 (7th Cir. 1982); Aero Trucking, Inc. v. Regal Tube Co., 594 F.2d 619 (7th Cir. 1979).
+9 Wn. App. 382, 512 P.2d 1108 (1973).
+Lyon Van Lines, 9 Wn. App. at 388.
+13 Wn. App. 824, 537 P.2d 1076 (1975).
+Union Pacific, 13 Wn. App. at 827.
+30 Wn. App. 144, 633 P.2d 105 (1981), cert. denied, 456 U.S. 964 (1981).
+250 U.S. 577, 581, 63 L. Ed. 1151, 40 S. Ct. 27 (1919).
+Fink, 250 U.S. at 581-83. Accord, New York Cent. & H.R.R.R. v. York & Whitney Co., 256 U.S. 406, 65 L. Ed. 1016, 41 S. Ct. 509 (1921); Mead Johnson & Co., supra.
+Field Lumber Co. v. Petty, 9 Wn. App. 378, 379-80, 512 P.2d 764 (1973).
+528 F. Supp. 223 (W.D. Wash. 1981).
+See also Atchison, T. & S.F. Ry. v. Bouziden, 307 F.2d 230 (10th Cir. 1962) (compromise agreement between shipper and carrier resulting in charging lesser rate than was lawful under tariff was not binding on the carrier).
+See Haberman v. WPPSS, 109 Wn.2d 107, 161-63, 744 P.2d 1032, 750 P.2d 254 (1987), appeal dismissed,_U.S._, 102 L. Ed. 2d 15, 109 S. Ct. 35 (1988).
