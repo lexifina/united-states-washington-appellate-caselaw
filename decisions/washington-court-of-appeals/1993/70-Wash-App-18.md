@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30270-1-I"
 decided: "1993-04-12"
-citations: ["70 Wash. App. 18", "69 Wash. App. 1033"]
+citations: ["70 Wash. App. 18"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Angelina Guile, Appellant, v. Ballard Community Hospital, et al, Resp
 source_url: "https://static.case.law/wash-app/70/cases/0018-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1745399
-cites_cases: ["107 Wn.2d 158", "110 Wn.2d 912", "112 Wn.2d 127", "112 Wn.2d 216", "114 Wn.2d 1023", "122 Wn.2d 1010", "477 U.S. 317", "53 Wn. App. 649", "56 Wn. App. 349", "56 Wn. App. 625", "61 Wn. App. 163", "663 P.2d 113", "70 Wn. App. 18", "727 P.2d 669", "757 P.2d 507", "769 P.2d 298", "769 P.2d 326", "770 P.2d 182", "783 P.2d 611", "784 P.2d 1288", "810 P.2d 4", "99 Wn.2d 438"]
+cites_cases: ["107 Wn.2d 158", "110 Wn.2d 912", "112 Wn.2d 127", "112 Wn.2d 216", "114 Wn.2d 1023", "122 Wn.2d 1010", "477 U.S. 317", "53 Wn. App. 649", "56 Wn. App. 349", "56 Wn. App. 625", "61 Wn. App. 163", "663 P.2d 113", "727 P.2d 669", "757 P.2d 507", "769 P.2d 298", "769 P.2d 326", "770 P.2d 182", "783 P.2d 611", "784 P.2d 1288", "810 P.2d 4", "99 Wn.2d 438"]
 ---
 
 # Guile v. Ballard Community Hospital
