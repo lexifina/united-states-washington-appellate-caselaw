@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48578-4-I"
 decided: "2002-04-01"
-citations: ["112 Wash. App. 26", "110 Wash. App. 1085"]
+citations: ["112 Wash. App. 26"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Appellant, v. Oscar McCoy, et al., Defendants, W
 source_url: "https://static.case.law/wash-app/112/cases/0026-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719381
-cites_cases: ["101 Wn. App. 815", "104 Wn.2d 1008", "106 Wn. App. 448", "112 Wn. App. 26", "124 Wn.2d 277", "134 Wn.2d 523", "145 Wn.2d 1009", "24 P.3d 460", "4 P.3d 159", "40 Wn. App. 433", "43 Wn. App. 114", "610 P.2d 909", "698 P.2d 1093", "715 P.2d 161", "876 P.2d 896", "93 Wn.2d 484", "951 P.2d 770"]
+cites_cases: ["101 Wn. App. 815", "104 Wn.2d 1008", "106 Wn. App. 448", "124 Wn.2d 277", "134 Wn.2d 523", "145 Wn.2d 1009", "24 P.3d 460", "4 P.3d 159", "40 Wn. App. 433", "43 Wn. App. 114", "610 P.2d 909", "698 P.2d 1093", "715 P.2d 161", "876 P.2d 896", "93 Wn.2d 484", "951 P.2d 770"]
 ---
 
 # City of Seattle v. McCoy
