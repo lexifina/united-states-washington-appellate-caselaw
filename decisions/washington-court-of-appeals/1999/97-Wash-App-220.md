@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43108-1-I"
 decided: "1999-07-26"
-citations: ["97 Wash. App. 220", "96 Wash. App. 1055"]
+citations: ["97 Wash. App. 220"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Janis E. Selvig, et al., Appellants, v. Gregory L. Caryl, et al., Def
 source_url: "https://static.case.law/wash-app/97/cases/0220-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184004
-cites_cases: ["103 Wn.2d 768", "121 Wn.2d 243", "121 Wn.2d 715", "140 Wn.2d 1003", "56 Wn. App. 181", "656 P.2d 1030", "698 P.2d 77", "736 F.2d 656", "782 P.2d 1107", "850 P.2d 1298", "853 P.2d 1373", "97 Wn. App. 220", "98 Wn.2d 434"]
+cites_cases: ["103 Wn.2d 768", "121 Wn.2d 243", "121 Wn.2d 715", "140 Wn.2d 1003", "56 Wn. App. 181", "656 P.2d 1030", "698 P.2d 77", "736 F.2d 656", "782 P.2d 1107", "850 P.2d 1298", "853 P.2d 1373", "98 Wn.2d 434"]
 ---
 
 # Selvig v. Caryl
