@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18693-4-II"
 decided: "1996-07-12"
-citations: ["82 Wash. App. 809", "82 Wash. App. 1033"]
+citations: ["82 Wash. App. 809"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of David A. Peck, Appellant, and Cathy 
 source_url: "https://static.case.law/wash-app/82/cases/0809-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043742
-cites_cases: ["10 U.S.C. § 1408", "107 Wn.2d 1005", "109 Wn.2d 1006", "110 Wn.2d 752", "132 P.2d 1027", "16 Wn.2d 168", "171 P.2d 682", "25 Wn.2d 619", "357 U.S. 235", "381 P.2d 245", "40 Wn. App. 653", "43 Wn. App. 669", "436 U.S. 84", "48 Wn. App. 166", "490 U.S. 1004", "496 So. 2d 1175", "50 Wn. App. 633", "548 P.2d 542", "62 Wn.2d 106", "700 P.2d 347", "719 P.2d 166", "720 S.W.2d 683", "73 Wn. App. 699", "737 P.2d 1316", "749 P.2d 754", "757 P.2d 933", "78 N.M. 332", "82 Wn. App. 809", "86 Wn.2d 712", "870 P.2d 1033", "Va. Code Ann. §§ 20-88.32"]
+cites_cases: ["10 U.S.C. § 1408", "107 Wn.2d 1005", "109 Wn.2d 1006", "110 Wn.2d 752", "132 P.2d 1027", "16 Wn.2d 168", "171 P.2d 682", "25 Wn.2d 619", "357 U.S. 235", "381 P.2d 245", "40 Wn. App. 653", "43 Wn. App. 669", "436 U.S. 84", "48 Wn. App. 166", "490 U.S. 1004", "496 So. 2d 1175", "50 Wn. App. 633", "548 P.2d 542", "62 Wn.2d 106", "700 P.2d 347", "719 P.2d 166", "720 S.W.2d 683", "73 Wn. App. 699", "737 P.2d 1316", "749 P.2d 754", "757 P.2d 933", "78 N.M. 332", "86 Wn.2d 712", "870 P.2d 1033", "Va. Code Ann. §§ 20-88.32"]
 ---
 
 # In re the Marriage of Peck
