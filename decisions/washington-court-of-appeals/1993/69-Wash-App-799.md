@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29890-9-I"
 decided: "1993-04-12"
-citations: ["69 Wash. App. 799", "69 Wash. App. 1036"]
+citations: ["69 Wash. App. 799"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Paul M. Janos, Appellant, v. The University of Washington, et al, Res
 source_url: "https://static.case.law/wash-app/69/cases/0799-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1700453
-cites_cases: ["114 Wn.2d 1", "116 Wn.2d 1005", "117 Wn.2d 720", "122 Wn.2d 1007", "459 U.S. 1106", "59 Wn. App. 76", "646 P.2d 113", "69 Wn. App. 799", "784 P.2d 1266", "795 P.2d 1184", "818 P.2d 1062", "97 Wn.2d 317"]
+cites_cases: ["114 Wn.2d 1", "116 Wn.2d 1005", "117 Wn.2d 720", "122 Wn.2d 1007", "459 U.S. 1106", "59 Wn. App. 76", "646 P.2d 113", "784 P.2d 1266", "795 P.2d 1184", "818 P.2d 1062", "97 Wn.2d 317"]
 ---
 
 # Janos v. University of Washington
