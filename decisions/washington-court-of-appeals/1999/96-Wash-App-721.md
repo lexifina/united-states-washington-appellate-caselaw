@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23333-9-II"
 decided: "1999-06-18"
-citations: ["96 Wash. App. 721", "96 Wash. App. 1007"]
+citations: ["96 Wash. App. 721"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Precision Laboratory Plastics, Inc., Appellant, v. Micro Test, Inc., 
 source_url: "https://static.case.law/wash-app/96/cases/0721-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128560
-cites_cases: ["110 Wn.2d 695", "113 Wn.2d 763", "119 Wn.2d 667", "126 Wn.2d 1019", "132 A.L.R. 1357", "14 Wn. App. 527", "161 A.L.R. 1057", "311 U.S. 457", "32 Wn. App. 296", "326 U.S. 310", "339 U.S. 643", "381 P.2d 245", "47 Wn. App. 832", "471 U.S. 462", "504 P.2d 782", "544 P.2d 30", "563 F. Supp. 72", "60 Wn. App. 414", "62 Wn.2d 106", "647 P.2d 514", "737 P.2d 709", "76 Wn. App. 470", "783 P.2d 78", "804 P.2d 627", "81 Wn.2d 719", "835 P.2d 221", "887 P.2d 431", "89 F.3d 1257", "94 L. Ed. 1154", "952 F. Supp. 1119", "96 Wn. App. 721"]
+cites_cases: ["110 Wn.2d 695", "113 Wn.2d 763", "119 Wn.2d 667", "126 Wn.2d 1019", "132 A.L.R. 1357", "14 Wn. App. 527", "161 A.L.R. 1057", "311 U.S. 457", "32 Wn. App. 296", "326 U.S. 310", "339 U.S. 643", "381 P.2d 245", "47 Wn. App. 832", "471 U.S. 462", "504 P.2d 782", "544 P.2d 30", "563 F. Supp. 72", "60 Wn. App. 414", "62 Wn.2d 106", "647 P.2d 514", "737 P.2d 709", "76 Wn. App. 470", "783 P.2d 78", "804 P.2d 627", "81 Wn.2d 719", "835 P.2d 221", "887 P.2d 431", "89 F.3d 1257", "94 L. Ed. 1154", "952 F. Supp. 1119"]
 ---
 
 # Precision Laboratory Plastics, Inc. v. Micro Test, Inc.
