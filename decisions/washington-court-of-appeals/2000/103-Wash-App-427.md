@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45258-4-I"
 decided: "2000-10-02"
-citations: ["103 Wash. App. 427", "102 Wash. App. 1048"]
+citations: ["103 Wash. App. 427"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Nellie T. Crane, et al., Appellants, v. The State of Washington, et a
 source_url: "https://static.case.law/wash-app/103/cases/0427-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102504
-cites_cases: ["103 Wn. App. 427", "108 Wn.2d 162", "119 Wn.2d 484", "119 Wn.2d 697", "127 Wn.2d 124", "143 Wn.2d 1013", "155 F.3d 587", "22 L. Ed. 148", "355 U.S. 426", "361 U.S. 107", "449 F.2d 132", "656 P.2d 1030", "736 P.2d 249", "834 P.2d 6", "836 P.2d 823", "857 F.2d 571", "892 F.2d 763", "896 P.2d 1258", "98 Wn.2d 434", "996 F.2d 215"]
+cites_cases: ["108 Wn.2d 162", "119 Wn.2d 484", "119 Wn.2d 697", "127 Wn.2d 124", "143 Wn.2d 1013", "155 F.3d 587", "22 L. Ed. 148", "355 U.S. 426", "361 U.S. 107", "449 F.2d 132", "656 P.2d 1030", "736 P.2d 249", "834 P.2d 6", "836 P.2d 823", "857 F.2d 571", "892 F.2d 763", "896 P.2d 1258", "98 Wn.2d 434", "996 F.2d 215"]
 ---
 
 # Crane v. State
