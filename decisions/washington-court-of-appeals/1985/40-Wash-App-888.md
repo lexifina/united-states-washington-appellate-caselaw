@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14491-0-I"
 decided: "1985-05-20"
-citations: ["40 Wash. App. 888", "40 Wash. App. 1051"]
+citations: ["40 Wash. App. 888"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Chris Donovan Fisher, Appella
 source_url: "https://static.case.law/wash-app/40/cases/0888-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1796432
-cites_cases: ["30 Wn. App. 307", "30 Wn. App. 344", "37 Wn. App. 613", "37 Wn. App. 856", "38 Wn. App. 244", "40 Wn. App. 888", "443 U.S. 307", "616 P.2d 628", "633 P.2d 1351", "633 P.2d 930", "683 P.2d 1125", "683 P.2d 209", "684 P.2d 1364", "94 Wn.2d 216"]
+cites_cases: ["30 Wn. App. 307", "30 Wn. App. 344", "37 Wn. App. 613", "37 Wn. App. 856", "38 Wn. App. 244", "443 U.S. 307", "616 P.2d 628", "633 P.2d 1351", "633 P.2d 930", "683 P.2d 1125", "683 P.2d 209", "684 P.2d 1364", "94 Wn.2d 216"]
 ---
 
 # State v. Fisher
