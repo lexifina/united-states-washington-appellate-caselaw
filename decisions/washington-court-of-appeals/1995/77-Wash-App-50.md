@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30735-5-I"
 decided: "1995-01-17"
-citations: ["77 Wash. App. 50", "76 Wash. App. 1072"]
+citations: ["77 Wash. App. 50"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Melvin Douglas Adams, Appella
 source_url: "https://static.case.law/wash-app/77/cases/0050-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415751
-cites_cases: ["101 Wn.2d 1010", "110 S. Ct. 1628", "120 Wn.2d 1016", "123 Wn.2d 1003", "126 Wn.2d 1016", "35 Wn. App. 932", "397 U.S. 337", "41 Wn. App. 685", "429 U.S. 589", "469 U.S. 1214", "494 U.S. 1016", "494 U.S. 210", "504 U.S. 127", "65 Wn. App. 450", "671 P.2d 273", "70 Wn. App. 517", "707 P.2d 1351", "744 F.2d 1387", "77 Wn. App. 50", "829 F.2d 479", "829 P.2d 193", "855 P.2d 1180", "863 F.2d 302"]
+cites_cases: ["101 Wn.2d 1010", "110 S. Ct. 1628", "120 Wn.2d 1016", "123 Wn.2d 1003", "126 Wn.2d 1016", "35 Wn. App. 932", "397 U.S. 337", "41 Wn. App. 685", "429 U.S. 589", "469 U.S. 1214", "494 U.S. 1016", "494 U.S. 210", "504 U.S. 127", "65 Wn. App. 450", "671 P.2d 273", "70 Wn. App. 517", "707 P.2d 1351", "744 F.2d 1387", "829 F.2d 479", "829 P.2d 193", "855 P.2d 1180", "863 F.2d 302"]
 ---
 
 # State v. Adams
