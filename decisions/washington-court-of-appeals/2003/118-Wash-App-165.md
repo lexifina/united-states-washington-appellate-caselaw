@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50379-1-I"
 decided: "2003-04-21"
-citations: ["118 Wash. App. 165", "116 Wash. App. 1044"]
+citations: ["118 Wash. App. 165"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Connie Unger, Individually and as Personal Representative, et al., Ap
 source_url: "https://static.case.law/wash-app/118/cases/0165-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352790
-cites_cases: ["103 P.2d 355", "104 Wn.2d 1025", "105 Wn.2d 529", "108 Wn. App. 764", "108 Wn.2d 491", "11 Wn. App. 583", "110 Wn.2d 1033", "112 Wn.2d 1020", "118 Wn. App. 165", "118 Wn.2d 1004", "133 Wn.2d 1019", "135 Wn.2d 1015", "145 Wn.2d 1012", "146 Wn.2d 237", "34 P.3d 816", "4 Wn.2d 309", "41 Wn. App. 636", "44 P.3d 845", "50 Wn. App. 671", "50 Wn. App. 849", "524 P.2d 479", "525 P.2d 228", "53 Wn. App. 381", "531 P.2d 299", "573 P.2d 1316", "62 Wn. App. 140", "705 P.2d 806", "716 P.2d 842", "740 P.2d 835", "750 P.2d 271", "751 P.2d 854", "754 P.2d 1003", "766 P.2d 1137", "813 P.2d 608", "84 Wn.2d 1012", "84 Wn.2d 239", "85 Wn.2d 154", "86 Wn. App. 376", "89 Wn. App. 780", "89 Wn.2d 571", "936 P.2d 1201", "950 P.2d 964"]
+cites_cases: ["103 P.2d 355", "104 Wn.2d 1025", "105 Wn.2d 529", "108 Wn. App. 764", "108 Wn.2d 491", "11 Wn. App. 583", "110 Wn.2d 1033", "112 Wn.2d 1020", "118 Wn.2d 1004", "133 Wn.2d 1019", "135 Wn.2d 1015", "145 Wn.2d 1012", "146 Wn.2d 237", "34 P.3d 816", "4 Wn.2d 309", "41 Wn. App. 636", "44 P.3d 845", "50 Wn. App. 671", "50 Wn. App. 849", "524 P.2d 479", "525 P.2d 228", "53 Wn. App. 381", "531 P.2d 299", "573 P.2d 1316", "62 Wn. App. 140", "705 P.2d 806", "716 P.2d 842", "740 P.2d 835", "750 P.2d 271", "751 P.2d 854", "754 P.2d 1003", "766 P.2d 1137", "813 P.2d 608", "84 Wn.2d 1012", "84 Wn.2d 239", "85 Wn.2d 154", "86 Wn. App. 376", "89 Wn. App. 780", "89 Wn.2d 571", "936 P.2d 1201", "950 P.2d 964"]
 ---
 
 # Unger v. Cauchon
