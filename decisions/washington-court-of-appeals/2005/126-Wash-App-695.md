@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31637-4-II"
 decided: "2005-03-15"
-citations: ["126 Wash. App. 695", "126 Wash. App. 1028"]
+citations: ["126 Wash. App. 695"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Walter James Boethin, Appella
 source_url: "https://static.case.law/wash-app/126/cases/0695-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016151
-cites_cases: ["111 Wn.2d 1010", "117 Wn.2d 332", "126 Wn. App. 695", "128 Wn.2d 388", "141 Wn.2d 304", "4 P.3d 130", "488 U.S. 1008", "51 Wn. App. 33", "632 P.2d 44", "751 P.2d 1221", "815 P.2d 761", "909 P.2d 280", "91 Wn. App. 814", "95 Wn.2d 898", "959 P.2d 1188"]
+cites_cases: ["111 Wn.2d 1010", "117 Wn.2d 332", "128 Wn.2d 388", "141 Wn.2d 304", "4 P.3d 130", "488 U.S. 1008", "51 Wn. App. 33", "632 P.2d 44", "751 P.2d 1221", "815 P.2d 761", "909 P.2d 280", "91 Wn. App. 814", "95 Wn.2d 898", "959 P.2d 1188"]
 ---
 
 # State v. Boethin
