@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12992-9-I"
 decided: "1985-09-23"
-citations: ["42 Wash. App. 518", "41 Wash. App. 1054"]
+citations: ["42 Wash. App. 518"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Peoples National Bank of Washington, Respondent, v. Frederic S. Taylo
 source_url: "https://static.case.law/wash-app/42/cases/0518-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1803942
-cites_cases: ["100 Wn.2d 793", "118 Wash. 208", "149 Wash. 45", "164 P. 742", "195 Wash. 486", "203 P. 8", "268 Or. 487", "270 P. 94", "34 Wn. App. 441", "36 Wn. App. 688", "40 Wn. App. 414", "42 Wn. App. 518", "426 P.2d 298", "447 P.2d 956", "49 Hawaii 578", "598 P.2d 701", "638 P.2d 1231", "661 P.2d 1015", "676 P.2d 1034", "676 P.2d 963", "698 P.2d 615", "70 Cal. 2d 81", "73 Cal. Rptr. 564", "81 P.2d 516", "92 Wn.2d 381", "96 Wash. 133", "96 Wn.2d 716", "97 Wis. 2d 207"]
+cites_cases: ["100 Wn.2d 793", "118 Wash. 208", "149 Wash. 45", "164 P. 742", "195 Wash. 486", "203 P. 8", "268 Or. 487", "270 P. 94", "34 Wn. App. 441", "36 Wn. App. 688", "40 Wn. App. 414", "426 P.2d 298", "447 P.2d 956", "49 Hawaii 578", "598 P.2d 701", "638 P.2d 1231", "661 P.2d 1015", "676 P.2d 1034", "676 P.2d 963", "698 P.2d 615", "70 Cal. 2d 81", "73 Cal. Rptr. 564", "81 P.2d 516", "92 Wn.2d 381", "96 Wash. 133", "96 Wn.2d 716", "97 Wis. 2d 207"]
 ---
 
 # Peoples National Bank v. Taylor
