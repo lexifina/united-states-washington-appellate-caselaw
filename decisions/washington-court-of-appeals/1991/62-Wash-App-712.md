@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10931-3-III"
 decided: "1991-09-05"
-citations: ["62 Wash. App. 712", "62 Wash. App. 1016"]
+citations: ["62 Wash. App. 712"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Russell L. Wilkerson, et al, Respondents, v. United Investment, Inc.,
 source_url: "https://static.case.law/wash-app/62/cases/0712-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1712284
-cites_cases: ["114 Wn.2d 842", "118 Wn.2d 1013", "39 Wn. App. 298", "59 Wn. App. 715", "60 Wn. App. 848", "62 Wn. App. 712", "693 P.2d 161", "792 P.2d 142", "801 P.2d 247", "809 P.2d 752"]
+cites_cases: ["114 Wn.2d 842", "118 Wn.2d 1013", "39 Wn. App. 298", "59 Wn. App. 715", "60 Wn. App. 848", "693 P.2d 161", "792 P.2d 142", "801 P.2d 247", "809 P.2d 752"]
 ---
 
 # Wilkerson v. United Investment, Inc.
