@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40813-5-I"
 decided: "1998-05-18"
-citations: ["91 Wash. App. 908", "90 Wash. App. 1057"]
+citations: ["91 Wash. App. 908"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. T.E.H., Appellant."]
 source_url: "https://static.case.law/wash-app/91/cases/0908-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681905
-cites_cases: ["102 Wn.2d 19", "117 Wn.2d 211", "128 Wn.2d 1", "130 Wn.2d 1021", "134 Wn.2d 657", "135 Wn.2d 34", "23 Wn. App. 789", "37 Wn. App. 773", "37 Wn. App. 910", "54 Wn. App. 81", "599 P.2d 20", "60 Wn. App. 687", "600 P.2d 1264", "616 P.2d 628", "64 Wn. App. 112", "67 Wn. App. 721", "67 Wn. App. 800", "684 P.2d 87", "685 P.2d 557", "686 P.2d 488", "69 Wn. App. 152", "75 Wn. App. 1", "75 Wn. App. 404", "771 P.2d 1188", "78 Wn. App. 891", "806 P.2d 782", "813 P.2d 1238", "823 P.2d 1128", "840 P.2d 210", "840 P.2d 891", "848 P.2d 199", "87 Wn. App. 787", "877 P.2d 205", "880 P.2d 550", "899 P.2d 34", "904 P.2d 754", "91 Wn. App. 908", "92 Wn.2d 755", "94 Wn.2d 216", "943 P.2d 303", "952 P.2d 187", "954 P.2d 894"]
+cites_cases: ["102 Wn.2d 19", "117 Wn.2d 211", "128 Wn.2d 1", "130 Wn.2d 1021", "134 Wn.2d 657", "135 Wn.2d 34", "23 Wn. App. 789", "37 Wn. App. 773", "37 Wn. App. 910", "54 Wn. App. 81", "599 P.2d 20", "60 Wn. App. 687", "600 P.2d 1264", "616 P.2d 628", "64 Wn. App. 112", "67 Wn. App. 721", "67 Wn. App. 800", "684 P.2d 87", "685 P.2d 557", "686 P.2d 488", "69 Wn. App. 152", "75 Wn. App. 1", "75 Wn. App. 404", "771 P.2d 1188", "78 Wn. App. 891", "806 P.2d 782", "813 P.2d 1238", "823 P.2d 1128", "840 P.2d 210", "840 P.2d 891", "848 P.2d 199", "87 Wn. App. 787", "877 P.2d 205", "880 P.2d 550", "899 P.2d 34", "904 P.2d 754", "92 Wn.2d 755", "94 Wn.2d 216", "943 P.2d 303", "952 P.2d 187", "954 P.2d 894"]
 ---
 
 # State v. T.E.H.
