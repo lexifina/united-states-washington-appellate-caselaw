@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28044-9-I"
 decided: "1992-12-21"
-citations: ["68 Wash. App. 657", "68 Wash. App. 1013"]
+citations: ["68 Wash. App. 657"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Erick Lee Allenby, Appellant.
 source_url: "https://static.case.law/wash-app/68/cases/0657-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725541
-cites_cases: ["10 A.L.R.3d 974", "10 A.L.R.4th 974", "106 Wn.2d 54", "116 Wn.2d 364", "121 Wn.2d 1033", "331 U.S. 532", "371 U.S. 471", "384 U.S. 436", "463 P.2d 779", "466 U.S. 668", "470 U.S. 298", "483 P.2d 630", "639 P.2d 1320", "664 P.2d 1234", "68 Wn. App. 657", "720 P.2d 808", "76 A.L.R.4th 517", "77 Wn.2d 553", "79 Wn.2d 51", "805 P.2d 211", "96 Wn.2d 816", "99 Wn.2d 851"]
+cites_cases: ["10 A.L.R.3d 974", "10 A.L.R.4th 974", "106 Wn.2d 54", "116 Wn.2d 364", "121 Wn.2d 1033", "331 U.S. 532", "371 U.S. 471", "384 U.S. 436", "463 P.2d 779", "466 U.S. 668", "470 U.S. 298", "483 P.2d 630", "639 P.2d 1320", "664 P.2d 1234", "720 P.2d 808", "76 A.L.R.4th 517", "77 Wn.2d 553", "79 Wn.2d 51", "805 P.2d 211", "96 Wn.2d 816", "99 Wn.2d 851"]
 ---
 
 # State v. Allenby
