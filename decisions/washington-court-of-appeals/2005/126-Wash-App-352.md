@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53630-3-I"
 decided: "2005-02-14"
-citations: ["126 Wash. App. 352", "125 Wash. App. 1042"]
+citations: ["126 Wash. App. 352"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Blueberry Place Homeowners Association et al., Plaintiffs, v. Northwa
 source_url: "https://static.case.law/wash-app/126/cases/0352-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016142
-cites_cases: ["110 Wn. App. 290", "126 Wn. App. 352", "13 Wn. App. 766", "134 Wn.2d 491", "134 Wn.2d 692", "38 P.3d 1024", "390 P.2d 976", "42 Wn. App. 491", "538 P.2d 136", "64 Wn.2d 191", "645 P.2d 693", "71 Wn. App. 120", "713 P.2d 116", "77 Wn. App. 669", "857 P.2d 1053", "893 P.2d 654", "951 P.2d 761", "952 P.2d 590", "96 Wn. App. 918", "97 Wn.2d 412", "982 P.2d 131"]
+cites_cases: ["110 Wn. App. 290", "13 Wn. App. 766", "134 Wn.2d 491", "134 Wn.2d 692", "38 P.3d 1024", "390 P.2d 976", "42 Wn. App. 491", "538 P.2d 136", "64 Wn.2d 191", "645 P.2d 693", "71 Wn. App. 120", "713 P.2d 116", "77 Wn. App. 669", "857 P.2d 1053", "893 P.2d 654", "951 P.2d 761", "952 P.2d 590", "96 Wn. App. 918", "97 Wn.2d 412", "982 P.2d 131"]
 ---
 
 # Blueberry Place Homeowners Ass'n v. Northward Homes, Inc.
