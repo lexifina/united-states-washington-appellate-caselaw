@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10503-2-III"
 decided: "1992-04-02"
-citations: ["65 Wash. App. 255", "64 Wash. App. 1043"]
+citations: ["65 Wash. App. 255"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ann M. Thomas, Appellant, v. Wilfac, Inc., et al, Defendants, Kadlec 
 source_url: "https://static.case.law/wash-app/65/cases/0255-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1735999
-cites_cases: ["100 Wn.2d 26", "100 Wn.2d 421", "102 Wn.2d 68", "105 Wn.2d 778", "105 Wn.2d 878", "106 Wn.2d 1006", "107 Wn.2d 1032", "107 Wn.2d 158", "109 Wn.2d 235", "11 Wn. App. 272", "110 Wn.2d 1040", "112 Wn.2d 127", "113 Wn.2d 1001", "113 Wn.2d 1005", "114 Wn.2d 1023", "114 Wn.2d 788", "114 Wn.2d 907", "117 Wn.2d 242", "119 Wn.2d 1020", "14 Wn. App. 946", "307 Or. 612", "37 Wn. App. 650", "42 Wn. App. 822", "45 Wn. App. 175", "493 U.S. 894", "499 P.2d 1", "50 Wn. App. 822", "52 A.L.R.3d 1067", "522 P.2d 852", "53 Wn. App. 431", "530 P.2d 334", "54 Wn. App. 162", "546 P.2d 930", "56 Wn. App. 625", "569 P.2d 1129", "588 P.2d 734", "603 P.2d 1258", "606 P.2d 275", "63 Wn. App. 876", "65 Wn. App. 255", "666 P.2d 351", "671 P.2d 230", "681 P.2d 1305", "684 P.2d 692", "714 P.2d 695", "719 P.2d 120", "719 P.2d 531", "724 P.2d 403", "727 P.2d 669", "744 P.2d 605", "750 P.2d 1301", "767 P.2d 952", "769 P.2d 298", "772 P.2d 1027", "784 P.2d 1288", "791 P.2d 526", "792 P.2d 520", "81 Wn.2d 12", "814 P.2d 1160", "825 P.2d 319", "85 Wn.2d 151", "89 Wn.2d 38", "91 Wn.2d 155", "92 Wn.2d 967", "93 Wn.2d 143"]
+cites_cases: ["100 Wn.2d 26", "100 Wn.2d 421", "102 Wn.2d 68", "105 Wn.2d 778", "105 Wn.2d 878", "106 Wn.2d 1006", "107 Wn.2d 1032", "107 Wn.2d 158", "109 Wn.2d 235", "11 Wn. App. 272", "110 Wn.2d 1040", "112 Wn.2d 127", "113 Wn.2d 1001", "113 Wn.2d 1005", "114 Wn.2d 1023", "114 Wn.2d 788", "114 Wn.2d 907", "117 Wn.2d 242", "119 Wn.2d 1020", "14 Wn. App. 946", "307 Or. 612", "37 Wn. App. 650", "42 Wn. App. 822", "45 Wn. App. 175", "493 U.S. 894", "499 P.2d 1", "50 Wn. App. 822", "52 A.L.R.3d 1067", "522 P.2d 852", "53 Wn. App. 431", "530 P.2d 334", "54 Wn. App. 162", "546 P.2d 930", "56 Wn. App. 625", "569 P.2d 1129", "588 P.2d 734", "603 P.2d 1258", "606 P.2d 275", "63 Wn. App. 876", "666 P.2d 351", "671 P.2d 230", "681 P.2d 1305", "684 P.2d 692", "714 P.2d 695", "719 P.2d 120", "719 P.2d 531", "724 P.2d 403", "727 P.2d 669", "744 P.2d 605", "750 P.2d 1301", "767 P.2d 952", "769 P.2d 298", "772 P.2d 1027", "784 P.2d 1288", "791 P.2d 526", "792 P.2d 520", "81 Wn.2d 12", "814 P.2d 1160", "825 P.2d 319", "85 Wn.2d 151", "89 Wn.2d 38", "91 Wn.2d 155", "92 Wn.2d 967", "93 Wn.2d 143"]
 ---
 
 # Thomas v. Wilfac, Inc.
