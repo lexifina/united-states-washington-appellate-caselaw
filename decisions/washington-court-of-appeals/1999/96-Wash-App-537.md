@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43689-9-I"
 decided: "1999-06-28"
-citations: ["96 Wash. App. 537", "96 Wash. App. 1022"]
+citations: ["96 Wash. App. 537"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Wilbert Darling Hill, et al., Appellants, v. Jawanda Transport Ltd., 
 source_url: "https://static.case.law/wash-app/96/cases/0537-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128485
-cites_cases: ["101 Wn.2d 200", "104 L. Ed. 2d 400", "104 Wn.2d 460", "109 S. Ct. 1928", "115 Wn.2d 123", "117 Wn.2d 1020", "155 F.3d 603", "326 U.S. 549", "330 U.S. 501", "454 U.S. 235", "464 U.S. 1017", "490 U.S. 1032", "502 U.S. 1095", "526 U.S. 1067", "555 P.2d 997", "585 F. Supp. 1573", "589 F.2d 1156", "61 Wn. App. 316", "676 P.2d 477", "696 F.2d 379", "706 P.2d 625", "708 F.2d 1406", "727 F.2d 608", "739 P.2d 90", "75 F.3d 668", "769 F.2d 354", "794 P. 2d 1272", "810 P.2d 943", "811 P.2d 127", "821 F.2d 1147", "87 Wn.2d 577", "935 F.2d 419", "946 F.2d 944", "96 Wn. App. 537"]
+cites_cases: ["101 Wn.2d 200", "104 L. Ed. 2d 400", "104 Wn.2d 460", "109 S. Ct. 1928", "115 Wn.2d 123", "117 Wn.2d 1020", "155 F.3d 603", "326 U.S. 549", "330 U.S. 501", "454 U.S. 235", "464 U.S. 1017", "490 U.S. 1032", "502 U.S. 1095", "526 U.S. 1067", "555 P.2d 997", "585 F. Supp. 1573", "589 F.2d 1156", "61 Wn. App. 316", "676 P.2d 477", "696 F.2d 379", "706 P.2d 625", "708 F.2d 1406", "727 F.2d 608", "739 P.2d 90", "75 F.3d 668", "769 F.2d 354", "794 P. 2d 1272", "810 P.2d 943", "811 P.2d 127", "821 F.2d 1147", "87 Wn.2d 577", "935 F.2d 419", "946 F.2d 944"]
 ---
 
 # Hill v. Jawanda Transport Ltd.
