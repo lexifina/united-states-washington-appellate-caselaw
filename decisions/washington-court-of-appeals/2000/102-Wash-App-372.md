@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17557-0-III; 17558-8-III; 17559-6-III"
 decided: "2000-07-11"
-citations: ["102 Wash. App. 372", "101 Wash. App. 1038"]
+citations: ["102 Wash. App. 372"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jason E. Bush, Appellant."]
 source_url: "https://static.case.law/wash-app/102/cases/0372-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301391
-cites_cases: ["102 Wn. App. 372", "109 Wn.2d 207", "124 Wn.2d 679", "125 Wn.2d 212", "127 Wn.2d 281", "132 Wn.2d 1011", "134 Wn.2d 1016", "134 Wn.2d 588", "137 Wn.2d 472", "137 Wn.2d 490", "17 Wn. App. 486", "46 Wn. App. 84", "564 P.2d 1159", "66 Wn. App. 29", "71 Wn. App. 345", "729 P.2d 70", "743 P.2d 1237", "77 Wn. App. 532", "831 P.2d 749", "85 Wn. App. 199", "860 P.2d 1046", "87 Wn. App. 433", "88 Wn. App. 485", "880 P.2d 983", "883 P.2d 320", "89 Wn. App. 21", "89 Wn.2d 1007", "892 P.2d 120", "898 P.2d 838", "931 P.2d 927", "942 P.2d 1018", "945 P.2d 736", "947 P.2d 1242", "952 P.2d 167", "973 P.2d 452", "973 P.2d 461", "98 Wn. App. 127", "98 Wn. App. 652", "989 P.2d 558", "990 P.2d 962", "Kan. Stat. Ann. § 21-3412", "Kan. Stat. Ann. § 21-3413"]
+cites_cases: ["109 Wn.2d 207", "124 Wn.2d 679", "125 Wn.2d 212", "127 Wn.2d 281", "132 Wn.2d 1011", "134 Wn.2d 1016", "134 Wn.2d 588", "137 Wn.2d 472", "137 Wn.2d 490", "17 Wn. App. 486", "46 Wn. App. 84", "564 P.2d 1159", "66 Wn. App. 29", "71 Wn. App. 345", "729 P.2d 70", "743 P.2d 1237", "77 Wn. App. 532", "831 P.2d 749", "85 Wn. App. 199", "860 P.2d 1046", "87 Wn. App. 433", "88 Wn. App. 485", "880 P.2d 983", "883 P.2d 320", "89 Wn. App. 21", "89 Wn.2d 1007", "892 P.2d 120", "898 P.2d 838", "931 P.2d 927", "942 P.2d 1018", "945 P.2d 736", "947 P.2d 1242", "952 P.2d 167", "973 P.2d 452", "973 P.2d 461", "98 Wn. App. 127", "98 Wn. App. 652", "989 P.2d 558", "990 P.2d 962", "Kan. Stat. Ann. § 21-3412", "Kan. Stat. Ann. § 21-3413"]
 ---
 
 # State v. Bush
