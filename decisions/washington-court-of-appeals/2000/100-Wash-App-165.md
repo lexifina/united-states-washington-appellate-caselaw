@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42041-1-I"
 decided: "2000-02-28"
-citations: ["100 Wash. App. 165", "99 Wash. App. 1046"]
+citations: ["100 Wash. App. 165"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dr. J. Arthur Stewart, et al., Appellants, v. Washington State Bounda
 source_url: "https://static.case.law/wash-app/100/cases/0165-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363058
-cites_cases: ["100 Wn. App. 165", "122 Wn.2d 648", "127 Wn.2d 759", "136 Wn.2d 38", "136 Wn.2d 783", "1993 WL 839711", "536 P.2d 157", "652 P.2d 1356", "85 Wn.2d 441", "860 P.2d 1024", "903 P.2d 953", "91 Wn. App. 1", "951 P.2d 1151", "959 P.2d 1091", "966 P.2d 891", "97 Wn.2d 922"]
+cites_cases: ["122 Wn.2d 648", "127 Wn.2d 759", "136 Wn.2d 38", "136 Wn.2d 783", "1993 WL 839711", "536 P.2d 157", "652 P.2d 1356", "85 Wn.2d 441", "860 P.2d 1024", "903 P.2d 953", "91 Wn. App. 1", "951 P.2d 1151", "959 P.2d 1091", "966 P.2d 891", "97 Wn.2d 922"]
 ---
 
 # Stewart v. Washington State Boundary Review Board
