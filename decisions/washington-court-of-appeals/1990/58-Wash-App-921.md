@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23108-1-I"
 decided: "1990-05-14"
-citations: ["58 Wash. App. 921", "57 Wash. App. 1065"]
+citations: ["58 Wash. App. 921"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Joanne Peters, et al, Appellants, v. Jack D. Ballard, et al, Responde
 source_url: "https://static.case.law/wash-app/58/cases/0921-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754695
-cites_cases: ["100 Wn.2d 39", "105 Wn.2d 692", "106 F.R.D. 435", "107 S. Ct. 599", "108 F.R.D. 405", "112 F.R.D. 105", "115 Wn.2d 1032", "12 Wn. App. 824", "150 Or. 538", "19 Wn. App. 174", "20 Wn. App. 630", "32 Wn. App. 325", "32 Wn. App. 647", "407 So. 2d 283", "479 U.S. 995", "483 A.2d 330", "494 A.2d 652", "532 P.2d 290", "572 P.2d 8", "574 P.2d 1199", "578 P.2d 17", "58 Wn. App. 921", "581 P.2d 177", "595 P.2d 934", "641 F.2d 984", "647 P.2d 525", "649 P.2d 135", "656 P.2d 1043", "666 P.2d 888", "68 F.R.D. 397", "718 P.2d 407", "80 F.R.D. 411", "85 Wn.2d 1011", "89 Wn.2d 443", "89 Wn.2d 916", "92 Wn.2d 257", "93 L. Ed. 2d 599", "98 Wn.2d 1001", "98 Wn.2d 521"]
+cites_cases: ["100 Wn.2d 39", "105 Wn.2d 692", "106 F.R.D. 435", "107 S. Ct. 599", "108 F.R.D. 405", "112 F.R.D. 105", "115 Wn.2d 1032", "12 Wn. App. 824", "150 Or. 538", "19 Wn. App. 174", "20 Wn. App. 630", "32 Wn. App. 325", "32 Wn. App. 647", "407 So. 2d 283", "479 U.S. 995", "483 A.2d 330", "494 A.2d 652", "532 P.2d 290", "572 P.2d 8", "574 P.2d 1199", "578 P.2d 17", "581 P.2d 177", "595 P.2d 934", "641 F.2d 984", "647 P.2d 525", "649 P.2d 135", "656 P.2d 1043", "666 P.2d 888", "68 F.R.D. 397", "718 P.2d 407", "80 F.R.D. 411", "85 Wn.2d 1011", "89 Wn.2d 443", "89 Wn.2d 916", "92 Wn.2d 257", "93 L. Ed. 2d 599", "98 Wn.2d 1001", "98 Wn.2d 521"]
 ---
 
 # Peters v. Ballard
