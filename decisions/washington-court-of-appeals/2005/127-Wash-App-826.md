@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54028-9-I"
 decided: "2005-04-04"
-citations: ["127 Wash. App. 826", "126 Wash. App. 1049"]
+citations: ["127 Wash. App. 826"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Troy Lancaster, Respondent, v. Harold Perry et al., Appellants."]
 source_url: "https://static.case.law/wash-app/127/cases/0826-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2465125
-cites_cases: ["127 Wn. App. 826", "131 Wn.2d 484", "15 Wn. App. 223", "548 P.2d 558", "933 P.2d 1036"]
+cites_cases: ["131 Wn.2d 484", "15 Wn. App. 223", "548 P.2d 558", "933 P.2d 1036"]
 ---
 
 # Lancaster v. Perry
