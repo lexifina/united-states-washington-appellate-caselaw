@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28744-3-I"
 decided: "1992-12-07"
-citations: ["68 Wash. App. 406", "67 Wash. App. 1058"]
+citations: ["68 Wash. App. 406"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Thomas T. Petta, Respondent, v. The Department of Labor and Industrie
 source_url: "https://static.case.law/wash-app/68/cases/0406-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725612
-cites_cases: ["115 Wn.2d 194", "116 Wn.2d 923", "121 Wn.2d 1012", "23 Wn. App. 516", "24 Wn. App. 591", "47 Wn. App. 827", "51 Wn. App. 216", "55 Wn. App. 908", "596 P.2d 296", "602 P.2d 724", "621 P.2d 716", "68 Wn. App. 406", "737 P.2d 1022", "752 P.2d 1357", "781 P.2d 895", "796 P.2d 412", "809 P.2d 1377", "92 Wn.2d 1013", "93 Wn.2d 1010", "94 Wn.2d 889"]
+cites_cases: ["115 Wn.2d 194", "116 Wn.2d 923", "121 Wn.2d 1012", "23 Wn. App. 516", "24 Wn. App. 591", "47 Wn. App. 827", "51 Wn. App. 216", "55 Wn. App. 908", "596 P.2d 296", "602 P.2d 724", "621 P.2d 716", "737 P.2d 1022", "752 P.2d 1357", "781 P.2d 895", "796 P.2d 412", "809 P.2d 1377", "92 Wn.2d 1013", "93 Wn.2d 1010", "94 Wn.2d 889"]
 ---
 
 # Petta v. Department of Labor & Industries
