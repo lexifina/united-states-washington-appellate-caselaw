@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17611-4-II"
 decided: "1995-11-01"
-citations: ["79 Wash. App. 829", "79 Wash. App. 1035"]
+citations: ["79 Wash. App. 829"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David Anderson, Appellant v. Weslo, Inc., et al., Respondents."]
 source_url: "https://static.case.law/wash-app/79/cases/0829-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 423732
-cites_cases: ["107 Wn.2d 127", "110 Wn.2d 1024", "113 Wn.2d 645", "116 Wn.2d 1007", "117 Wn.2d 747", "118 Wn.2d 1007", "124 Wn.2d 121", "50 Wn. App. 388", "59 Wn. App. 303", "62 Wn. App. 353", "727 P.2d 655", "748 P.2d 1131", "775 F. Supp. 857", "78 Wn. App. 115", "782 P.2d 974", "79 Wn. App. 829", "796 P.2d 1291", "814 P.2d 1189", "818 P.2d 1337", "875 P.2d 621", "897 P.2d 365"]
+cites_cases: ["107 Wn.2d 127", "110 Wn.2d 1024", "113 Wn.2d 645", "116 Wn.2d 1007", "117 Wn.2d 747", "118 Wn.2d 1007", "124 Wn.2d 121", "50 Wn. App. 388", "59 Wn. App. 303", "62 Wn. App. 353", "727 P.2d 655", "748 P.2d 1131", "775 F. Supp. 857", "78 Wn. App. 115", "782 P.2d 974", "796 P.2d 1291", "814 P.2d 1189", "818 P.2d 1337", "875 P.2d 621", "897 P.2d 365"]
 ---
 
 # Anderson v. Weslo, Inc.
