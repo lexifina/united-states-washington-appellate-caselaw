@@ -1,0 +1,82 @@
+---
+court: "Washington Court of Appeals"
+docket: "22588-7-III"
+decided: "2004-09-16"
+citations: ["123 Wash. App. 205"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["American States Insurance Company, Appellant, v. Rancho San Marcos Properties, L.L.C., Defendant, Wells Fargo Bank, National Association, solely in its capacity as Special Server for LaSalle Bank National Association, as Trustee for LB Commercial Mortgage Trust, Commercial Mortgage Pass-Through Certificates, Series 1998-C4, Respondent."]
+source_url: "https://static.case.law/wash-app/123/cases/0205-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1118051
+cites_cases: ["109 Wn.2d 191", "113 Wn. App. 799", "113 Wn.2d 701", "116 Wn. App. 441", "117 Wn. App. 807", "117 Wn.2d 37", "118 Wn.2d 37", "119 Wn.2d 724", "125 Wn.2d 164", "135 Wn.2d 777", "140 Wn.2d 129", "145 Wn.2d 417", "148 Wn.2d 929", "149 Wn.2d 1013", "151 Wn.2d 396", "154 Wn.2d 1008", "17 Cal. App. 4th 1112", "1996 U.S. Dist. LEXIS 9844", "1996 WL 396100", "21 Cal. Rptr. 2d 871", "237 F. Supp. 2d 270", "247 Ill. Dec. 572", "314 Ill. App. 3d 240", "36 Wn. App. 330", "38 P.3d 322", "4 A.D.3d 338", "45 F. Supp. 2d 1227", "54 P.3d 1266", "64 P.3d 1239", "65 P.3d 1234", "656 P.2d 1077", "674 P.2d 1257", "72 P.3d 1086", "732 N.E.2d 627", "743 P.2d 1244", "772 N.Y.S.2d 79", "782 P.2d 1045", "811 P.2d 673", "820 P.2d 505", "837 P.2d 1000", "883 P.2d 308", "89 P.3d 689", "958 P.2d 990", "96 Wn. App. 741", "98 Wn.2d 533", "982 P.2d 105", "99 Wn. App. 41", "991 P.2d 734", "994 P.2d 833"]
+---
+
+# American States Insurance v. Rancho San Marcos Properties, L.L.C.
+
+## Majority (Sweeney, A.C.J.)
+
+Sweeney, A.C.J.
+This is an insurance coverage dispute. The policy here covered “arson” losses but excluded property losses caused by “vandalism.” The insurer denied coverage. It asserted that this arson fire was the result of vandalism and therefore excluded from coverage. The insured urges that a fire loss caused by arson is not “vandalism.” We agree that a fire caused by arson is not excluded as vandalism. We therefore affirm the trial judge’s summary judgment in favor of Wells Fargo Bank to that effect.
+FACTS
+American States Insurance Company insured an abandoned building. Wells Fargo Bank held a mortgage on the building and was a named insured on the policy. Someone (unknown) drove a car into the building and then set fire to the car and another part of the building.
+Wells Fargo made a claim for the loss. American States rejected the claim because the building was vacant. The policy excluded “vandalism” if a building was vacant for over 60 days.
+American States then sued for a judicial declaration that the vandalism exclusion in its policy applied and excluded coverage for the fire loss. Wells Fargo counterclaimed for a declaration that the loss was covered because it was the result of arson (a covered loss) and not vandalism.
+Both moved for summary judgment on stipulated facts— the essence of which was that the fire was intentionally set by some unknown person. The court concluded the loss was covered and granted Wells Fargo’s motion for summary judgment.
+DISCUSSION
+The Policy
+The insurance policy provided:
+We will pay for direct physical loss of or damage to Covered Property at the premises described in the Declarations caused by or resulting from any Covered Cause of Loss.
+Clerk’s Papers (CP) at 84. The declarations page featured the words “Fire Coverages Provided.” CP at 82. The policy generally provided that covered causes of loss “means Risks of Direct Physical Loss” unless the loss was excluded or limited by the policy. CP at 101. The “Causes of Loss” section defined “Specified Causes of Loss” as:
+Fire; lightening [sic]; explosion; windstorm or hail; smoke; aircraft or vehicles; riot or civil commotion; vandalism; leakage from fire extinguishing equipment; sinkhole collapse; volcanic action; falling objects; weight of snow, ice or sleet; water damage.
+CP at 107. And these “Specified Causes of Loss” are covered even if certain other exclusions or limitations apply. See CP at 102 (B.2.d, B.2.1), 105 (C.2). Under “Additional Coverages,” the policy provided for an arson reward:
+Arson Reward — We will pay an arson reward for information which leads to an arson conviction for loss or damage covered by this policy. This limit applies per occurrence, regardless of the number of persons providing information. No deductible applies to this Additional Coverage.
+CP at 109. The policy excludes specific losses if the building is vacant:
+b. Vacancy Provisions
+If the building where loss or damage occurs has been vacant for more than 60 consecutive days before the loss or damage occurs:
+(1) We will not pay for any loss or damage caused by any of the following even if they are Covered Causes of Loss:
+(a) Vandalism;
+(b) Sprinkler leakage, unless you have protected the system against freezing;
+(c) Building glass breakage;
+(d) Water damage;
+(e) Theft; or
+(f) Attempted theft.
+(2) With respect to Covered Causes of Loss other than those listed in b.(l)(a) through b.(l)(f) above, we will reduce the amount we would otherwise pay for the loss or damage by 15%.
+CP at 92. The policy does not define “vandalism.”
+The Issue
+American States argues that the policy’s vandalism exclusion unambiguously excludes coverage for this arson fire. Wells Fargo says the policy does not exclude fire, including fire by arson, no matter what the motive. And, alternatively, the term vandalism is ambiguous and therefore must be construed in a light most favorable to Wells Fargo as the insured. The dispositive issue before us is simply whether the exclusion for vandalism encompasses this arson fire.
+Vandalism/Arson
+This is a coverage question. Our decision, then, turns on our reading of this insurance contract. So our review is de novo. Tyrrell v. Farmers Ins. Co. of Wash., 140 Wn.2d 129, 133, 994 P.2d 833 (2000).
+Our analysis is in two steps: Is the loss within the scope of insured perils? And, if so, is it nonetheless excluded? The insured must show the first. The insurer must show the second. McDonald v. State Farm Fire & Cas. Co., 119 Wn.2d 724, 731, 837 P.2d 1000 (1992); DePhelps v. Safeco Ins. Co. of Am., 116 Wn. App. 441, 448, 65 P.3d 1234 (2003). Here, the loss falls squarely within the scope of insured perils. So the question is whether the loss is excluded under the vacancy clause because the exclusion for “vandalism” includes arson.
+We read the insurance contract as a whole. Ellis Court Apartments Ltd. P’ship v. State Farm Fire & Cas. Co., 117 Wn. App. 807, 814, 72 P.3d 1086 (2003). And we read it in a fair, reasonable, and sensible manner as it would be understood by the average person, giving effect to each provision of the policy. N.H. Indem. Co. v. Budget Rent-A-Car Sys., 148 Wn.2d 929, 933, 64 P.3d 1239 (2003). Undefined terms are given their “ ‘plain, ordinary, and popular’ ” meaning. Daley v. Allstate Ins. Co., 135 Wn.2d 777, 784, 958 P.2d 990 (1998) (quoting Kish v. Ins. Co. of N. Am., 125 Wn.2d 164, 170, 883 P.2d 308 (1994)).
+Provisions of this policy refer variously to fire, arson, and vandalism. Fire is covered.
+The declarations page heading announces “FIRE COVERAGES PROVIDED.” CP at 82. And these policy captions are a part of the contract. Greer v. N.W. Nat’l Ins. Co., 36 Wn. App. 330, 336, 674 P.2d 1257 (1984), rev’d in part on other grounds, 109 Wn.2d 191, 743 P.2d 1244 (1987). The policy treated “fire” and “vandalism” as two separate “Specified Causes of Loss.” CP at 107. It provided a $5,000 reward for information leading to the conviction of an arsonist. CP at 109. The policy specified coverage for losses by arson as well as by vandalism. But any reward for information was limited to arsonists, not vandals. According to this policy then, arson is different from vandalism.
+There is, moreover, no limitation or exclusion to arson coverage here. But there are many other limitations and exclusions throughout this 97-page policy; one for various causes or types of fire also could have been included.
+American States argues that vandalism is the “ ‘willful or malicious destruction or defacement of things of beauty or of public or private property.’ ” Appellant’s Br. at 15 (quoting Webster’s Third New Int’l Dictionary 2532 (1986)). It points out that this definition is used in Bowers v. Farmers Insurance Exchange. And this fire was intentionally set. American States characterizes this event then as “ ‘ “the willful and malicious burning of. . . property. . . [usually] with criminal or fraudulent intent.” ’ ” From this it then concludes that arson is a type of vandalism, and therefore excluded. Because, just like vandalism, arson is the willful destruction of another’s property. Appellant’s Br. at 23. But dictionary definitions are not helpful here. Arson results in a fire loss only. Vandalism does not. And as we have noted, fire is covered even though vandalism is not.
+American States relies on our holding in Bowers and Division Two’s holding in Graff v. Allstate Insurance Co. for the proposition that the term “vandalism” is unambiguous and applies here.
+The court held in Graff that the insured showed that the vandalism provision of his policy applied to his tenants’ operation of a methamphetamine lab. But the insurer did not meet its burden to show that the “contamination” exclusion applied. Graff, 113 Wn. App. at 801. The court concluded instead that “contrary to Allstate’s assertion, it is not clear that contamination caused Graff’s loss.” Id. at 804 (emphasis omitted). The court’s struggle was over a contamination exclusion, which is not at issue here.
+In Bowers we concluded that an exclusion for mold was not ambiguous. Bowers, 99 Wn. App. 41. And that case ultimately turned on application of the “efficient proximate cause” rule. Id. at 48. The court determined that the actions of the insured’s tenants — creating an indoor greenhouse to grow marijuana — were an act of vandalism (a covered peril) which resulted in mold (an excluded peril). Id. at 47-48. As such, the tenants’ acts were the efficient proximate cause of the loss, and therefore covered. Id. at 48.
+Other jurisdictions have addressed the question before us. Some hold that an intentionally set fire falls within the plain and ordinary meaning of vandalism. See, e.g., Estes v. St. Paul Fire & Marine Ins. Co., 45 F. Supp. 2d 1227 (D. Kan. 1999). Others find the term “vandalism” ambiguous when used in an exclusion clause and find in favor of the insured by disfavoring the insurer. See, e.g., MDW Enters., Inc. v. CNA Ins. Co., 4 A.D.3d 338, 772 N.Y.S.2d 79 (2004).
+But many of these cases include state legislative mandates for specific coverage. See, e.g., Lundquist v. Allstate Ins. Co., 314 Ill. App. 3d 240, 732 N.E.2d 627, 247 Ill. Dec. 572 (2000) (holding exclusion in homeowners’ policy for fires caused by vandalism if insured property has been unoccupied for more than 30 consecutive days was void as contrary to standard fire policy under Illinois law). And federal courts apply state law. See, e.g., United Capital Corp. v. Travelers Indem. Co. of Ill., 237 F. Supp. 2d 270 (E.D.N.Y. 2002). So they are of limited help here.
+This policy does not exclude arson. Not all arson is an act of vandalism. So when the vandalism exclusion is read strictly (as we must), arson is covered. Moreover, coverage here should not turn on esoteric, semantic, or nice distinctions. Vandalism describes the motive for an event, not the event.
+Ultimately, the question (at least in Washington) is whether the average person purchasing insurance would believe that he or she assumed the risk of an arson fire under an all-risk policy where the policy excluded coverage for vandalism. See Butzberger v. Foster, 151 Wn.2d 396, 401, 89 P.3d 689 (2004) (policy language to be given the same “ ‘fair, reasonable, and sensible construction as would be given to the contract by the average person purchasing insurance’ ” (quoting Overton v. Consol. Ins. Co., 145 Wn.2d 417, 424, 38 P.3d 322 (2002)). The answer to that question is “no.”
+Efficient Proximate Cause
+American States argues that coverage is excluded because the “efficient proximate cause” of this loss was an act of vandalism. Graham v. Pub. Employees Mut. Ins. Co., 98 Wn.2d 533, 656 P.2d 1077 (1983). The essence of the rule is that when an insured cause sets in motion other causes which may not be insured, the loss is covered:
+Where a peril specifically insured against sets other causes in motion which, in an unbroken sequence and connection between the act and final loss, produce the result for which recovery is sought, the insured peril is regarded as the “proximate cause” of the entire loss.
+It is the efficient or predominant cause which sets into motion the chain of events producing the loss which is regarded as the proximate cause, not necessarily the last act in a chain of events.
+Graham, 98 Wn.2d at 538 (citations omitted). The efficient proximate cause rule applies where two or more independent forces operate to cause a loss. Kish, 125 Wn.2d at 170. The “rule is properly applied after (1) a determination of which single act or event is the efficient proximate cause of the loss and (2) a determination that the efficient proximate cause of the loss is a covered peril.” McDonald, 119 Wn.2d at 732. “ When, however, the evidence shows the loss was in fact occasioned by only a single cause, albeit one susceptible to various characterizations, the efficient proximate cause analysis has no application.’ ” Kish, 125 Wn.2d at 170 (quoting Chadwick v. Fire Ins. Exch., 17 Cal. App. 4th 1112, 1117, 21 Cal. Rptr. 2d 871 (1993)). And it is for this reason that the efficient proximate cause rule is not applicable here.
+The task before us is to legally characterize the cause of this fire — arson or vandalism — not to decide which of the two causes ultimately resulted in this loss. The parties stipulated to the cause of the loss — an intentionally set fire. We will not separate the intent from the act in order to create two causes. There was one cause of the loss. We need only characterize that loss. The loss here was the result of arson and it is covered. The efficient proximate cause rule does not apply.
+Exclusion op Evidence and Portions of Wells Fargo’s Brief
+American States assigns error to the trial judge’s refusal to exclude an affidavit and attached results of an Internet search on the question of what is vandalism. It also moves to strike portions of Wells Fargo’s brief that refer to the trial judge’s reasoning and again materials from a website showing a New York case. We need not pass upon either the assignment of error or the motion to strike.
+We review the trial court’s ruling on evidentiary matters before it on summary judgment for abuse of discretion. McKee v. Am. Home Prods. Corp., 113 Wn.2d 701, 706, 782 P.2d 1045 (1989). The material American States sought to have excluded was extraneous and, therefore, not prejudicial to American States. We found nothing in the challenged material relevant to or useful in our analysis in this de novo review. Further, on appeal, a party may include a motion in its brief only if granting the motion will preclude a hearing on the merits. RAP 17.4(d). American States’ motion to strike does not satisfy this requirement. Accordingly, we do not consider it. State v. Saas, 118 Wn.2d 37, 46 n.2, 820 P.2d 505 (1991).
+Attorney Fees
+Wells Fargo is entitled to attorney fees and costs as the prevailing party on appeal. RAP 18.1(a); Olympic S.S. Co. v. Centennial Ins. Co., 117 Wn.2d 37, 53, 811 P.2d 673 (1991).
+The judgment of the trial court is affirmed.
+Kurtz and Brown, JJ., concur.
+Review denied at 154 Wn.2d 1008 (2005).
+During the pendency of this appeal, Lennar Partners, Inc., was substituted for Wells Fargo Bank for purposes of this litigation.
+Bowers v. Farmers Ins. Exch., 99 Wn. App. 41, 45, 991 P.2d 734 (2000).
+Appellant’s Br. at 20, 23 (quoting Potomac Ins. Co. of Ill. v. NCUA, No. 96-C1044, 1996 WL 396100, at *4, 1996 U.S. Dist. LEXIS 9844 (N.D. Ill.) (quoting Webster’s Third New Int’l Dictionary 122 (1986))).
+Graff v. Allstate Ins. Co., 113 Wn. App. 799, 54 P.3d 1266 (2002), review denied, 149 Wn.2d 1013 (2003).
+Stauffer & Knight v. Cont'l Cas. Co., 96 Wn. App. 741, 747, 982 P.2d 105 (1999).
