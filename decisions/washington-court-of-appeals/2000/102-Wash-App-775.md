@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44847-1-I"
 decided: "2000-08-28"
-citations: ["102 Wash. App. 775", "102 Wash. App. 1014"]
+citations: ["102 Wash. App. 775"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Faben Point Neighbors, et al., Respondents, v. The City of Mercer Isl
 source_url: "https://static.case.law/wash-app/102/cases/0775-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301460
-cites_cases: ["102 Wn. App. 775", "123 Wn.2d 621", "136 Wn.2d 693", "139 Wn.2d 1002", "140 Wn.2d 1016", "141 Wn.2d 185", "142 Wn.2d 1027", "4 P.3d 115", "869 P.2d 1034", "89 Wn. App. 561", "90 Wn. App. 1", "94 Wn. App. 670", "949 P.2d 837", "95 Wn. App. 383", "951 P.2d 272", "965 P.2d 619", "97 Wn. App. 670", "972 P.2d 941", "974 P.2d 863", "985 P.2d 424"]
+cites_cases: ["123 Wn.2d 621", "136 Wn.2d 693", "139 Wn.2d 1002", "140 Wn.2d 1016", "141 Wn.2d 185", "142 Wn.2d 1027", "4 P.3d 115", "869 P.2d 1034", "89 Wn. App. 561", "90 Wn. App. 1", "94 Wn. App. 670", "949 P.2d 837", "95 Wn. App. 383", "951 P.2d 272", "965 P.2d 619", "97 Wn. App. 670", "972 P.2d 941", "974 P.2d 863", "985 P.2d 424"]
 ---
 
 # Faben Point Neighbors v. City of Mercer Island
