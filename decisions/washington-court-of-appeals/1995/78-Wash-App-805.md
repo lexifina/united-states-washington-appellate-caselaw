@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16244-0-II"
 decided: "1995-06-21"
-citations: ["78 Wash. App. 805", "78 Wash. App. 1019"]
+citations: ["78 Wash. App. 805"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
