@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29392-7-II"
 decided: "2004-02-03"
-citations: ["121 Wash. App. 1", "120 Wash. App. 1006"]
+citations: ["121 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Raymond George Blum, Jr., Resp
 source_url: "https://static.case.law/wash-app/121/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 863918
-cites_cases: ["100 Wn. App. 478", "106 Wn. App. 638", "107 Wn. App. 361", "121 Wn. App. 1", "142 Wn.2d 1004", "24 P.3d 485", "27 P.3d 622", "355 U.S. 225", "583 P.2d 1206", "84 Wn. App. 379", "85 Wn. App. 303", "88 Wn. App. 719", "90 Wn.2d 432", "928 P.2d 469", "932 P.2d 687", "946 P.2d 795", "997 P.2d 956"]
+cites_cases: ["100 Wn. App. 478", "106 Wn. App. 638", "107 Wn. App. 361", "142 Wn.2d 1004", "24 P.3d 485", "27 P.3d 622", "355 U.S. 225", "583 P.2d 1206", "84 Wn. App. 379", "85 Wn. App. 303", "88 Wn. App. 719", "90 Wn.2d 432", "928 P.2d 469", "932 P.2d 687", "946 P.2d 795", "997 P.2d 956"]
 ---
 
 # State v. Blum
