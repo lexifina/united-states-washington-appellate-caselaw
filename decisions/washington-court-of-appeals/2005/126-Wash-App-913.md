@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53545-5-I"
 decided: "2005-02-28"
-citations: ["126 Wash. App. 913", "126 Wash. App. 1007"]
+citations: ["126 Wash. App. 913"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Margaret Gallagher et al., Appellants, v. Nirmal Sidhu et al., Respon
 source_url: "https://static.case.law/wash-app/126/cases/0913-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016060
-cites_cases: ["111 Wn.2d 256", "119 Wn.2d 151", "120 Wn. App. 263", "126 Wn. App. 913", "193 Cal. App. 3d 433", "238 Cal.Rptr. 346", "56 Wn. App. 545", "579 P.2d 359", "592 N.E.2d 292", "62 Wn. App. 878", "72 Wn. App. 193", "759 P.2d 1196", "78 Wn. App 412", "784 P.2d 190", "816 P.2d 61", "829 P.2d 1087", "84 P.3d 940", "863 P.2d 1363", "897 P.2d 405", "90 Wn.2d 118"]
+cites_cases: ["111 Wn.2d 256", "119 Wn.2d 151", "120 Wn. App. 263", "193 Cal. App. 3d 433", "238 Cal.Rptr. 346", "56 Wn. App. 545", "579 P.2d 359", "592 N.E.2d 292", "62 Wn. App. 878", "72 Wn. App. 193", "759 P.2d 1196", "78 Wn. App 412", "784 P.2d 190", "816 P.2d 61", "829 P.2d 1087", "84 P.3d 940", "863 P.2d 1363", "897 P.2d 405", "90 Wn.2d 118"]
 ---
 
 # Gallagher v. Sidhu
