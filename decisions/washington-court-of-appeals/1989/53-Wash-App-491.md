@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8448-5-III"
 decided: "1989-01-10"
-citations: ["53 Wash. App. 491", "53 Wash. App. 1029"]
+citations: ["53 Wash. App. 491"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Richard Walter Pockert, Appel
 source_url: "https://static.case.law/wash-app/53/cases/0491-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764061
-cites_cases: ["102 Wn.2d 68", "105 Wn.2d 1010", "106 Wn.2d 514", "108 Wn.2d 419", "109 Wn.2d 207", "109 Wn.2d 760", "28 Wn. App. 248", "34 Wn. App. 187", "40 Wn. App. 845", "409 P.2d 669", "42 Wn. App. 78", "445 P.2d 726", "459 U.S. 842", "46 Wn. App. 672", "491 P.2d 1305", "50 Wn. App. 401", "53 Wn. App. 491", "6 Wn. App. 116", "613 P.2d 1139", "622 P.2d 1295", "639 P.2d 737", "659 P.2d 557", "67 Wn.2d 681", "684 P.2d 692", "700 P.2d 1198", "709 P.2d 1209", "723 P.2d 1117", "731 P.2d 1133", "739 P.2d 683", "74 Wn.2d 567", "743 P.2d 1237", "748 P.2d 611", "748 P.2d 695", "93 Wn.2d 823", "96 Wn.2d 902", "99 Wn.2d 1017"]
+cites_cases: ["102 Wn.2d 68", "105 Wn.2d 1010", "106 Wn.2d 514", "108 Wn.2d 419", "109 Wn.2d 207", "109 Wn.2d 760", "28 Wn. App. 248", "34 Wn. App. 187", "40 Wn. App. 845", "409 P.2d 669", "42 Wn. App. 78", "445 P.2d 726", "459 U.S. 842", "46 Wn. App. 672", "491 P.2d 1305", "50 Wn. App. 401", "6 Wn. App. 116", "613 P.2d 1139", "622 P.2d 1295", "639 P.2d 737", "659 P.2d 557", "67 Wn.2d 681", "684 P.2d 692", "700 P.2d 1198", "709 P.2d 1209", "723 P.2d 1117", "731 P.2d 1133", "739 P.2d 683", "74 Wn.2d 567", "743 P.2d 1237", "748 P.2d 611", "748 P.2d 695", "93 Wn.2d 823", "96 Wn.2d 902", "99 Wn.2d 1017"]
 ---
 
 # State v. Pockert
