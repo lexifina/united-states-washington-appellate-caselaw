@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21709-4-III"
 decided: "2003-11-04"
-citations: ["119 Wash. App. 815", "119 Wash. App. 1002"]
+citations: ["119 Wash. App. 815"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Rogers Potato Service, L.L.C., Respondent, v. Countrywide Potato, L.L
 source_url: "https://static.case.law/wash-app/119/cases/0815-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350254
-cites_cases: ["106 Wn.2d 212", "119 Wn. App. 815", "12 Wn.2d 580", "121 Wn.2d 214", "123 P.2d 340", "125 Wn.2d 1002", "37 Wn. App. 644", "46 Wn. App. 595", "479 U.S. 1050", "502 P.2d 1037", "532 P.2d 278", "595 F. Supp. 1495", "681 P.2d 1284", "7 Wn. App. 726", "721 P.2d 918", "73 Wn. App. 596", "731 P.2d 1124", "786 F.2d 72", "848 P.2d 721", "85 Wn.2d 182", "871 P.2d 168"]
+cites_cases: ["106 Wn.2d 212", "12 Wn.2d 580", "121 Wn.2d 214", "123 P.2d 340", "125 Wn.2d 1002", "37 Wn. App. 644", "46 Wn. App. 595", "479 U.S. 1050", "502 P.2d 1037", "532 P.2d 278", "595 F. Supp. 1495", "681 P.2d 1284", "7 Wn. App. 726", "721 P.2d 918", "73 Wn. App. 596", "731 P.2d 1124", "786 F.2d 72", "848 P.2d 721", "85 Wn.2d 182", "871 P.2d 168"]
 ---
 
 # Rogers Potato Service, L.L.C. v. Countrywide Potato, L.L.C.
