@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25440-9-II"
 decided: "2001-04-20"
-citations: ["106 Wash. App. 506", "105 Wash. App. 1055"]
+citations: ["106 Wash. App. 506"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert P. Heath, Respondent, v. Nick Uraga, et al., Appellants."]
 source_url: "https://static.case.law/wash-app/106/cases/0506-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240320
-cites_cases: ["101 Wn. App. 954", "106 Wn. App. 506", "106 Wn.2d 1", "107 Wn.2d 300", "115 Wn.2d 364", "131 Wn.2d 612", "139 Wn.2d 546", "145 Wn.2d 1016", "175 P.2d 653", "26 Wn.2d 660", "399 P.2d 338", "45 Wn. App. 192", "463 P.2d 159", "48 Wn. App. 139", "549 P.2d 9", "6 P.3d 91", "638 P.2d 1231", "65 Wn.2d 700", "656 P.2d 1030", "721 P.2d 1", "724 P.2d 425", "73 Wn. App. 25", "730 P.2d 54", "738 P.2d 306", "77 Wn.2d 396", "798 P.2d 799", "867 P.2d 643", "87 Wn.2d 70", "934 P.2d 669", "96 Wn.2d 716", "98 Wn.2d 434", "988 P.2d 961"]
+cites_cases: ["101 Wn. App. 954", "106 Wn.2d 1", "107 Wn.2d 300", "115 Wn.2d 364", "131 Wn.2d 612", "139 Wn.2d 546", "145 Wn.2d 1016", "175 P.2d 653", "26 Wn.2d 660", "399 P.2d 338", "45 Wn. App. 192", "463 P.2d 159", "48 Wn. App. 139", "549 P.2d 9", "6 P.3d 91", "638 P.2d 1231", "65 Wn.2d 700", "656 P.2d 1030", "721 P.2d 1", "724 P.2d 425", "73 Wn. App. 25", "730 P.2d 54", "738 P.2d 306", "77 Wn.2d 396", "798 P.2d 799", "867 P.2d 643", "87 Wn.2d 70", "934 P.2d 669", "96 Wn.2d 716", "98 Wn.2d 434", "988 P.2d 961"]
 ---
 
 # Heath v. Uraga
