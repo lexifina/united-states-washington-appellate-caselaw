@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8485-0-III"
 decided: "1988-04-28"
-citations: ["51 Wash. App. 787", "51 Wash. App. 1020"]
+citations: ["51 Wash. App. 787"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Stephanie A. Wallace, Respondent, v. The Department of Employment Sec
 source_url: "https://static.case.law/wash-app/51/cases/0787-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591934
-cites_cases: ["106 Wn.2d 1003", "108 Wn.2d 272", "15 Wn. App. 590", "25 Or. App. 771", "407 So. 2d 109", "43 Wn. App. 92", "459 N.E.2d 227", "459 U.S. 1106", "461 P.2d 531", "489 P.2d 171", "51 Wn. App. 787", "543 P.2d 343", "550 P.2d 712", "646 P.2d 113", "715 P.2d 534", "737 P.2d 1262", "77 Wn.2d 255", "79 Wn.2d 736", "86 Wn.2d 233", "88 Wn.2d 1001", "9 Ohio App. 3d 188", "97 Wn.2d 317"]
+cites_cases: ["106 Wn.2d 1003", "108 Wn.2d 272", "15 Wn. App. 590", "25 Or. App. 771", "407 So. 2d 109", "43 Wn. App. 92", "459 N.E.2d 227", "459 U.S. 1106", "461 P.2d 531", "489 P.2d 171", "543 P.2d 343", "550 P.2d 712", "646 P.2d 113", "715 P.2d 534", "737 P.2d 1262", "77 Wn.2d 255", "79 Wn.2d 736", "86 Wn.2d 233", "88 Wn.2d 1001", "9 Ohio App. 3d 188", "97 Wn.2d 317"]
 ---
 
 # Wallace v. Department of Employment Security
