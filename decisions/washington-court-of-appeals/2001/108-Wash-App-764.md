@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26380-7-II"
 decided: "2001-06-15"
-citations: ["108 Wash. App. 764", "106 Wash. App. 1047"]
+citations: ["108 Wash. App. 764"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William E. West, Jr., Appellant, v. Audrey M. Osborne, Respondent."]
 source_url: "https://static.case.law/wash-app/108/cases/0764-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 321202
-cites_cases: ["102 Wn. App. 742", "105 Wn.2d 675", "106 Wn.2d 443", "108 Wn. App. 764", "116 Wn.2d 596", "119 Wn.2d 167", "119 Wn.2d 91", "124 Wn.2d 318", "127 Wn.2d 434", "130 Wn.2d 782", "145 Wn.2d 1012", "380 P.2d 744", "506 U.S. 1079", "61 Wn.2d 761", "717 P.2d 275", "722 P.2d 796", "809 P.2d 143", "829 P.2d 1082", "829 P.2d 746", "879 P.2d 912", "899 P.2d 1270", "9 P.3d 927", "928 P.2d 1054", "94 Wn. App. 990", "974 P.2d 342"]
+cites_cases: ["102 Wn. App. 742", "105 Wn.2d 675", "106 Wn.2d 443", "116 Wn.2d 596", "119 Wn.2d 167", "119 Wn.2d 91", "124 Wn.2d 318", "127 Wn.2d 434", "130 Wn.2d 782", "145 Wn.2d 1012", "380 P.2d 744", "506 U.S. 1079", "61 Wn.2d 761", "717 P.2d 275", "722 P.2d 796", "809 P.2d 143", "829 P.2d 1082", "829 P.2d 746", "879 P.2d 912", "899 P.2d 1270", "9 P.3d 927", "928 P.2d 1054", "94 Wn. App. 990", "974 P.2d 342"]
 ---
 
 # West v. Osborne
