@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25180-9-II"
 decided: "2002-12-06"
-citations: ["115 Wash. App. 496", "114 Wash. App. 1052"]
+citations: ["115 Wash. App. 496"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Sharon K. Freigang, Respondent
 source_url: "https://static.case.law/wash-app/115/cases/0496-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 222226
-cites_cases: ["10 P.3d 977", "105 Wn.2d 847", "107 Wn.2d 346", "115 Wn. App. 496", "118 Wn.2d 383", "118 Wn.2d 681", "130 Wn.2d 1018", "130 Wn.2d 97", "131 Wn.2d 1006", "133 Wn.2d 679", "134 Wn.2d 1026", "135 Wn.2d 441", "141 Wn.2d 798", "149 Wn.2d 1028", "483 U.S. 171", "500 P.2d 1276", "509 U.S. 579", "7 Wn. App. 505", "719 P.2d 98", "729 P.2d 48", "81 Wn.2d 1008", "82 Wn. App. 122", "82 Wn. App. 594", "823 P.2d 499", "826 P.2d 194", "874 F.2d 1136", "88 Wn. App. 387", "916 P.2d 952", "918 P.2d 945", "92 Wn. App. 275", "922 P.2d 43", "93 Wn. App. 619", "94 Wn. App. 80", "947 P.2d 240", "957 P.2d 712", "960 P.2d 940", "966 P.2d 355", "970 P.2d 765", "971 P.2d 553"]
+cites_cases: ["10 P.3d 977", "105 Wn.2d 847", "107 Wn.2d 346", "118 Wn.2d 383", "118 Wn.2d 681", "130 Wn.2d 1018", "130 Wn.2d 97", "131 Wn.2d 1006", "133 Wn.2d 679", "134 Wn.2d 1026", "135 Wn.2d 441", "141 Wn.2d 798", "149 Wn.2d 1028", "483 U.S. 171", "500 P.2d 1276", "509 U.S. 579", "7 Wn. App. 505", "719 P.2d 98", "729 P.2d 48", "81 Wn.2d 1008", "82 Wn. App. 122", "82 Wn. App. 594", "823 P.2d 499", "826 P.2d 194", "874 F.2d 1136", "88 Wn. App. 387", "916 P.2d 952", "918 P.2d 945", "92 Wn. App. 275", "922 P.2d 43", "93 Wn. App. 619", "94 Wn. App. 80", "947 P.2d 240", "957 P.2d 712", "960 P.2d 940", "966 P.2d 355", "970 P.2d 765", "971 P.2d 553"]
 ---
 
 # State v. Freigang
