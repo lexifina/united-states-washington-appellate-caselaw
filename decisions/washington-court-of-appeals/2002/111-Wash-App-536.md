@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19551-1-III"
 decided: "2002-02-05"
-citations: ["111 Wash. App. 536", "110 Wash. App. 1020"]
+citations: ["111 Wash. App. 536"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Hank J. Chiappetta, Appellant, v. Franklin Bahr, et al., Defendants, 
 source_url: "https://static.case.law/wash-app/111/cases/0536-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1072096
-cites_cases: ["110 Wn.2d 128", "110 Wn.2d 32", "111 Wn. App. 536", "117 Wn.2d 747", "123 Wn.2d 114", "147 Wn.2d 1018", "376 P.2d 651", "379 P.2d 918", "40 Wn. App. 162", "59 Wn. App. 266", "60 Wn.2d 836", "63 Wn. App. 294", "697 P.2d 597", "750 P.2d 1257", "750 P.2d 632", "756 P.2d 142", "796 P.2d 737", "818 P.2d 1337", "818 P.2d 603", "866 P.2d 631"]
+cites_cases: ["110 Wn.2d 128", "110 Wn.2d 32", "117 Wn.2d 747", "123 Wn.2d 114", "147 Wn.2d 1018", "376 P.2d 651", "379 P.2d 918", "40 Wn. App. 162", "59 Wn. App. 266", "60 Wn.2d 836", "63 Wn. App. 294", "697 P.2d 597", "750 P.2d 1257", "750 P.2d 632", "756 P.2d 142", "796 P.2d 737", "818 P.2d 1337", "818 P.2d 603", "866 P.2d 631"]
 ---
 
 # Chiappetta v. Bahr
