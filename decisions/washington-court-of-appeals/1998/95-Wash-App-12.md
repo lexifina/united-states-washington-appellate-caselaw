@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41925-1-I"
 decided: "1998-12-28"
-citations: ["95 Wash. App. 12", "93 Wash. App. 1044"]
+citations: ["95 Wash. App. 12"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Christopher Vasquez, Appellan
 source_url: "https://static.case.law/wash-app/95/cases/0012-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254798
-cites_cases: ["104 Wn.2d 129", "133 Wn.2d 847", "400 U.S. 25", "67 Wn. App. 448", "70 Wn. App. 768", "702 P.2d 1185", "836 P.2d 239", "856 P.2d 1099", "947 P.2d 1192", "95 Wn. App. 12"]
+cites_cases: ["104 Wn.2d 129", "133 Wn.2d 847", "400 U.S. 25", "67 Wn. App. 448", "70 Wn. App. 768", "702 P.2d 1185", "836 P.2d 239", "856 P.2d 1099", "947 P.2d 1192"]
 ---
 
 # State v. Vasquez
