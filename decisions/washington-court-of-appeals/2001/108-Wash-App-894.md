@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24965-1-II; 25073-0-II"
 decided: "2001-08-17"
-citations: ["108 Wash. App. 894", "107 Wash. App. 1049"]
+citations: ["108 Wash. App. 894"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Clinton Lamont Larry, Appella
 source_url: "https://static.case.law/wash-app/108/cases/0894-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 321467
-cites_cases: ["10 A.L.R.3d 974", "10 F.3d 1252", "10 P.3d 404", "103 Wn. App. 845", "107 Wn.2d 97", "108 Wn. App. 894", "109 Wn.2d 207", "116 Wn.2d 51", "118 Wn.2d 773", "119 Wn.2d 192", "119 Wn.2d 294", "123 Wn.2d 467", "126 Wn.2d 136", "139 Wn.2d 107", "14 P.3d 841", "141 Wn.2d 1002", "143 Wn.2d 1014", "165 F.3d 337", "167 F.3d 1273", "183 F.3d 1315", "185 F.3d 192", "186 F.3d 1208", "189 F.3d 895", "210 F.3d 820", "22 P.3d 803", "223 Ill. App. 3d 1045", "229 F.3d 506", "248 F.3d 1065", "264 Ind. 538", "348 N.E.2d 21", "380 U.S. 400", "384 U.S. 436", "391 U.S. 123", "444 Pa. Super. 570", "463 N.W.2d 506", "481 U.S. 200", "523 U.S. 185", "528 U.S. 1177", "586 N.E.2d 341", "616 P.2d 628", "622 P.2d 1240", "647 P.2d 6", "664 A.2d 582", "68 Wn. App. 610", "692 F.2d 505", "727 P.2d 239", "743 P.2d 1237", "75 Wn. App. 128", "756 F.2d 1342", "758 F.2d 427", "764 F.2d 1273", "78 Wn. App. 813", "79 Cal. App. 4th 224", "79 Wn. App. 518", "804 P.2d 577", "814 F.2d 1208", "827 P.2d 996", "829 P.2d 1068", "831 P.2d 1060", "844 P.2d 1038", "869 P.2d 392", "876 P.2d 935", "89 Wn. App. 857", "892 P.2d 29", "90 Wn. App. 776", "901 P.2d 1050", "903 P.2d 500", "93 Cal. Rptr. 2d 871", "94 Wn. App. 636", "94 Wn.2d 216", "95 Wn.2d 385", "950 P.2d 1004", "953 F.2d 1467", "954 F.2d 1386", "954 P.2d 325", "97 Wn.2d 493", "972 P.2d 552", "98 Wn. App. 799", "985 P.2d 365", "990 F.2d 1099", "992 P.2d 1028"]
+cites_cases: ["10 A.L.R.3d 974", "10 F.3d 1252", "10 P.3d 404", "103 Wn. App. 845", "107 Wn.2d 97", "109 Wn.2d 207", "116 Wn.2d 51", "118 Wn.2d 773", "119 Wn.2d 192", "119 Wn.2d 294", "123 Wn.2d 467", "126 Wn.2d 136", "139 Wn.2d 107", "14 P.3d 841", "141 Wn.2d 1002", "143 Wn.2d 1014", "165 F.3d 337", "167 F.3d 1273", "183 F.3d 1315", "185 F.3d 192", "186 F.3d 1208", "189 F.3d 895", "210 F.3d 820", "22 P.3d 803", "223 Ill. App. 3d 1045", "229 F.3d 506", "248 F.3d 1065", "264 Ind. 538", "348 N.E.2d 21", "380 U.S. 400", "384 U.S. 436", "391 U.S. 123", "444 Pa. Super. 570", "463 N.W.2d 506", "481 U.S. 200", "523 U.S. 185", "528 U.S. 1177", "586 N.E.2d 341", "616 P.2d 628", "622 P.2d 1240", "647 P.2d 6", "664 A.2d 582", "68 Wn. App. 610", "692 F.2d 505", "727 P.2d 239", "743 P.2d 1237", "75 Wn. App. 128", "756 F.2d 1342", "758 F.2d 427", "764 F.2d 1273", "78 Wn. App. 813", "79 Cal. App. 4th 224", "79 Wn. App. 518", "804 P.2d 577", "814 F.2d 1208", "827 P.2d 996", "829 P.2d 1068", "831 P.2d 1060", "844 P.2d 1038", "869 P.2d 392", "876 P.2d 935", "89 Wn. App. 857", "892 P.2d 29", "90 Wn. App. 776", "901 P.2d 1050", "903 P.2d 500", "93 Cal. Rptr. 2d 871", "94 Wn. App. 636", "94 Wn.2d 216", "95 Wn.2d 385", "950 P.2d 1004", "953 F.2d 1467", "954 F.2d 1386", "954 P.2d 325", "97 Wn.2d 493", "972 P.2d 552", "98 Wn. App. 799", "985 P.2d 365", "990 F.2d 1099", "992 P.2d 1028"]
 ---
 
 # State v. Larry
