@@ -1,0 +1,48 @@
+---
+court: "Washington Court of Appeals"
+docket: "2807-1; 2842-1"
+decided: "1975-09-08"
+citations: ["14 Wash. App. 271"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Glen Curtis Carter. Paulette F. Schornack, Respondent, v. Ernestine L. Tabery, as Administratrix, Appellant. Paulette F. Schornack, Respondent, v. William M. Schornack, Defendant, Ernestine L. Tabery, Appellant."]
+source_url: "https://static.case.law/wash-app/14/cases/0271-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1789569
+cites_cases: ["103 U.S. 62", "104 A.L.R. 654", "146 Wash. 114", "155 Wash. 351", "210 Ore. 226", "261 Pac. 775", "284 P. 343", "296 P. (2d) 310", "296 P.2d 310", "372 P.2d 538", "46 Wash. 395", "48 Wn.2d 635", "502 P.2d 480", "60 Wn.2d 163", "68 A.L.R. 254", "7 Wn. App. 701", "90 P. 258"]
+---
+
+# Schornack v. Tabery
+
+## Majority (Weaver, J.)
+
+Weaver, J.
+The issues presented on this appeal spring from the following facts:
+May 27, 1966, Paulette Frances Schornack and William M. Schornack were married. May 28, 1970, their divorce was heard in the King County Superior Court. The trial judge announced he was granting a divorce to both parties, but a decree of divorce was not entered at that time.
+August 1, 1970, Paulette participated in a ceremonial marriage with Glen Curtis Carter. August 4, 1970—2% months after trial and 3 days after Paulette’s ceremonial remarriage—findings of fact, conclusions of law, and a decree of divorce were signed in Schornack v. Schornack. They were filed August 7,1970.
+June 8, 1971, William Schornack died. October 13, 1972, Glen Curtis Carter died. There were no children by the Carter marriage.
+Glen’s estate was not probated until his mother, Ernestine L. Tabery, filed her petition for letters of administration that came on for hearing October 19, 1973, more than a year after her son’s death. She was appointed administra-trix, qualified, and letters of administration were issued to her.
+November 20, 1973, Paulette filed a petition for removal of Ernestine as administratrix alleging that she, Paulette, as surviving spouse of Glen, was entitled to be administra-trix. Ernestine replied that Paulette was not the surviving spouse of Glen.
+December 13, 1973, Paulette filed a motion for decree of divorce nunc pro tunc in Schornack v. Schornack praying that a decree be entered as of May 28, 1970, to validate her ceremonial marriage on August 4, 1970, to Glen. We note that this motion was filed more than 3% years after trial, more than 3% years after the decree had been entered, and more than 2% years after William, her ex-husband, had died.
+December 13, 1973, Ernestine filed a motion to intervene in Schornack v. Schornack and to deny the motion for a nunc pro tunc divorce decree.
+December 17, 1973, the Superior Court heard the various motions and on February 4, 1974, (a) denied Ernestine’s motion to intervene in Schornack v. Schornack; (b) entered a decree of divorce nunc pro tunc as of May 28, 1970; and (c) entered an order removing Ernestine as adminis-tratrix of her son’s estate.
+Ernestine’s appeal primarily challenges the entry of the decree of divorce nunc pro tunc. She contends that the Carter ceremonial marriage was void ab initio;'that no statute empowered the trial judge to enter the nunc pro tunc decree; and that, in any event, William Schornack’s death ’abated the divorce action thus foreclosing the possibility of any further proceedings therein. Our ruling on the propriety of the entry of the nunc pro tunc decree will be dispositive of all of Ernestine’s assignments of error.
+Paulette contends that RCW 26.08.230 authorized the entry of the nunc pro tunc decree. We do not agree. The statute concerns only “interlocutory” decrees of divorce entered prior to 1973 when Washington’s divorce laws were substantially revised. By its terms, the statute permits the “validation” of only those marriages entered into “subsequent to six months after the granting of [an] interlocutory order.”
+However, in the absence of statute, courts have the inherent power to enter judgments nunc pro tunc. Garrett v. Byerly, 155 Wash. 351, 284 P. 343, 68 A.L.R. 254 (1930). The entry of a nunc pro tunc decree of divorce is likewise within the courts’ inherent power. Bruce v. Bruce, 48 Wn.2d 635, 296 P.2d 310 (1956). It is a discretionary power which is to be used “as justice may require in view of the circumstances of the particular case.” Mitchell v. Overman, 103 U.S. 62, 65, 26 L. Ed. 369 (1880).
+In exercising discretion, the trial judge must act reasonably and may enter a nunc pro tunc judgment “only in the furtherance of the interest of justice.” State ex rel. Tufton v. Superior Court, 46 Wash. 395, 397, 90 P. 258 (1907). “If it appears that the party seeking the entry has himself been guilty of conduct that would make the entry improper, or that third persons have acquired interests or rights which will be injuriously affected by the entry, the application will be denied, . . .” State ex rel. Tufton, supra at 397.
+We find in the record nothing to suggest that Paulette was guilty of any conduct which should deny her the benefit of the nunc pro tunc decree. But Ernestine contends that prior to the entry of the decree, “her rights were vested both as an heir and as administratrix, to the estate, [and] that a decree of divorce nunc pro tunc could not under law, affect those rights.”
+A similar contention was made in In re Estate of Kelley, 210 Ore. 226, 310 P.2d 328 (1957), wherein the Oregon Supreme Court considered RCW 26.08.230. It is there pointed out that an interest acquired by inheritance is “not the kind of vested right protected from the entry of a nunc pro time decree.” In re Estate of Kelley, supra at 241. The Oregon court quotes the analysis stated in 1 A. Freeman, Law of Judgments § 138, at 262 (5th ed. E. Tuttle 1925) as follows:
+The expression so frequently made that a nunc pro tunc entry is not to affect the rights of third persons must not be understood as signifying that effect must be denied to such an entry in all cases where third persons have acquired interests. Courts in determining whether or not to amend or perfect their records are controlled by considerations of equity. If one not a party to the action has, when without notice of the rendition of the judgment or of facts from which such notice must be imputed to him, advanced or paid money or property, or in other words, has become a purchaser or encumbrancer in good faith and upon a valuable consideration, then the subsequent entry of such judgment nunc pro tunc will not be allowed to prejudice him. Otherwise its effect against him is the same as if it had been entered at the proper time.
+In re Estate of Kelley, supra at 241. We hold that, as a nontestamentary heir of her son, Glen, Ernestine had no vested rights which would prevent the entry of the nunc pro tunc decree.
+Ernestine correctly points out that as a general proposition, divorce actions abate on the death of either party. But, as is noted in Osborne v. Osborne, 60 Wn.2d 163, 167, 372 P.2d 538 (1962):
+the cases do not go so far as to say that the court lacks jurisdiction to vacate a divorce decree nunc pro tunc after the death of one of the parties. The office of an order or decree nunc pro tunc is to record judicial action taken and not to remedy inaction. Bruce v. Bruce, 48 Wn. (2d) 635, 296 P. (2d) 310. As we said in State v. Ryan, 146 Wash. 114, 261 Pac. 775 (quoting from 15 R. C. L. 622):
+“ . . It may be used to make the record speak the truth, but not to make it speak what it did not speak but ought to have spoken. . . .’ ”
+If the death of a party to a divorce action does not deprive the court of jurisdiction to vacate a divorce decree nunc pro tunc, neither should it impair the court’s power to enter a nunc pro tunc decree. This appears to be the general rule recognized by H. Clark, The Law of Domestic Relations § 13.2, at 384 (1968):
+One final rule governing parties to divorce suits says that the death of a party at any time before the entry of the final decree abates the action automatically. This result occurs even though the death follows an interlocutory decree of divorce. It does not, however, where the case was fully adjudicated so that a final decree should have been entered before the death of a party but the decree was not in fact entered for some reason. In this unusual situation a divorce decree nunc pro tunc may be entered.
+(Footnotes omitted.) Accord, Annot, 104 A.L.R. 654, 664 (1936).
+Equitable considerations clearly favor Paulette. Glen and Paulette Carter believed that they were legally married. They had lived together as husband and wife for more than 2 years at the time of his death. The laws of descent and distribution which favor surviving spouses reflect firmly held concepts of justice. The trial judge exercised his discretion to achieve an equitable result. A discretionary determination by a trial judge may not be disturbed on appeal except upon a clear showing that the ruling was manifestly unreasonable. Reid Sand & Gravel, Inc. v. Bellevue Properties, 7 Wn. App. 701, 502 P.2d 480 (1972).
+We find no abuse of discretion. Affirmed.
+Farris and James, JJ., concur.
+Justice Frank P. Weaver is serving as a judge pro tempore of the Court of Appeals pursuant to Laws of 1973, ch. 114.
+RCW 26.08.230 was repealed by Laws of 1973, 1st Ex. Sess., ch. 157, § 30 and reenacted without substantial change by Laws of 1973, 1st Ex. Sess., ch. 157, § 29 and is now codified as RCW 26.09.290.
