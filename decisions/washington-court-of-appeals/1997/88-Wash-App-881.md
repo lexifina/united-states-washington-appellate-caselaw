@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20601-3-II"
 decided: "1997-11-21"
-citations: ["88 Wash. App. 881", "88 Wash. App. 1025"]
+citations: ["88 Wash. App. 881"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
