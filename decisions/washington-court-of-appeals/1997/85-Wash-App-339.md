@@ -1,0 +1,53 @@
+---
+court: "Washington Court of Appeals"
+docket: "18831-7-II"
+decided: "1997-03-14"
+citations: ["85 Wash. App. 339"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Marcos Perea, Appellant."]
+source_url: "https://static.case.law/wash-app/85/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277467
+cites_cases: ["106 Wn.2d 144", "107 Wn.2d 745", "113 Wn.2d 388", "114 Wn.2d 1011", "116 Wn.2d 488", "127 Wn.2d 460", "34 Wn. App. 529", "392 U.S. 1", "392 U.S. 21", "41 Wn. App. 85", "499 U.S. 621", "56 Wn. App. 339", "64 Wn. App. 591", "65 Wn. App. 279", "663 P.2d 145", "702 P.2d 481", "720 P.2d 436", "733 P.2d 517", "779 P.2d 707", "783 P.2d 626", "806 P.2d 749", "825 P.2d 749", "827 P.2d 1105", "901 P.2d 286"]
+---
+
+# State v. Perea
+
+## Majority (Bridgewater, A.C.J.)
+
+Bridgewater, A.C.J.
+Marcos Perea appeals his conviction of unlawful possession of a short firearm. The firearm was found during a search of his locked car after his arrest for driving with a suspended license. We hold that an arrest may be made for this offense based upon week-old information known to the officer who observed him operating his car. But we hold that because Perea lawfully exited and locked his car, the officers had no justification for entry into Perea’s car to conduct a search incident to arrest. Thus, we reverse.
+Perea drove a car while his license was suspended in the third degree. An officer who knew of the suspension from a records check performed seven days earlier recognized Perea and radioed another officer in a marked unit to stop Perea. The second officer, Officer Wise, caught up with Perea just as Perea pulled into the front yard of his house. Officer Wise activated his emergency lights as he pulled in behind Perea. Wise saw Perea turn and look in the direction of Wise’s vehicle and then immediately step out of his vehicle and close the door very quickly. Officer Wise ordered Perea back to his vehicle, but Perea started to walk toward the house, also ignoring Wise’s second order to return to his vehicle. By then the first officer had arrived and both officers advised Perea he was under arrest. The police captured, searched, and handcuffed Perea, confiscated his car keys and put him into the patrol car. Subsequently, one officer proceeded to verify by a records check that Perea’s license was suspended while the other officer used Perea’s car keys to unlock and search the car. A loaded pistol was found under the front seat armrest.
+I
+Perea argues that driving on a suspended license is a minor traffic offense for which arrest is improper, and that his arrest was pretextual. RCW 46.20.342(l)(c), however, provides that driving while suspended in the third degree is a misdemeanor. RCW 10.31.100(3) provides officers having probable cause with the authority to arrest a person driving on a suspended license. Thus, the arrest was proper, not pretextual.
+II
+Perea next argues that his arrest was unlawful because the seven-day-old knowledge of his suspension was stale and could not form probable cause. We hold the arrest valid on two bases.
+A
+First, the detention was supported by well-founded suspicion. Lacking probable cause for arrest, police may briefly detain and question an individual if they have a well-founded suspicion based on objective facts that he is connected to actual or potential criminal activity. State v. Pressley, 64 Wn. App. 591, 595, 825 P.2d 749 (1992) (citing Terry v. Ohio, 392 U.S. 1, 25-26, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968)). A reasonable or well-founded suspicion exists if the officer can " 'point to specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant that intrusion.’ ” Pressley, 64 Wn. App. at 595 (quoting Terry, 392 U.S. 21). At a minimum, the seven-day-old information formed such articulable facts. Officers may temporarily detain a suspect pending the results of a police headquarters radio check. State v. Madrigal, 65 Wn. App. 279, 282-83, 827 P.2d 1105 (1992). The arrest was based on a lawful investigative detention, and it was valid.
+B
+Second, probable cause supported the arrest. Perea contends that, because driving privileges suspended in the third degree can be reinstated within one week, the officers’ information was stale; thus, he argues that arresting him without a current records-check was unlawful. "The test for 'staleness’ is one of common sense; if the facts indicate information is recent and contemporaneous, then it is not 'stale.’ ” State v. Anderson, 41 Wn. App. 85, 95, 702 P.2d 481 (1985) (citing State v. Riley, 34 Wn. App. 529, 534, 663 P.2d 145 (1983)), rev’d on other grounds by 107 Wn.2d 745, 733 P.2d 517 (1987). We hold that the week-old information was recent enough for the officer to form probable cause to arrest Perea at the moment the officer first saw him. Hence, the arrest was valid based upon probable cause.
+Ill
+Perea further argues that the trial court erred in finding that the police validly searched his locked vehicle incident to arrest.
+When a search of a vehicle is conducted after an arrest, its scope should be analyzed according to the "bright-line” test adopted by our Supreme Court in State v. Stroud, 106 Wn.2d 144, 720 P.2d 436 (1986).
+During the arrest process, including the time immediately subsequent to the suspect’s being arrested, handcuffed, and placed in a patrol car, officers should be allowed to search the passenger compartment of a vehicle for weapons or destructible evidence. However, if the officers encounter a locked container or locked glove compartment, they may not unlock and search either container without obtaining a warrant. . . .
+Stroud, 106 Wn.2d at 152. This bright-line rule applies even in situations devoid of risk to evidence or officers. The search of unlocked containers can occur after the driver has been removed to a police car ánd handcuffed, so long as the search is performed immediately thereafter. State v. Fladebo, 113 Wn.2d 388, 397, 779 P.2d 707 (1989). Had Perea remained in his car or beside his car, with the door open or unlocked, until he was arrested, Stroud’s bright-line rule would have permitted a search of the passenger compartment of the vehicle.
+In the instant case, an analysis of the facts compels a conclusion that the search was unreasonable. Perea’s actions were not restricted by a seizure because he was not seized before he locked his car. California v. Hodari D., 499 U.S. 621, 111 S. Ct. 1547, 113 L. Ed. 2d 690 (1991) directly addresses the question of when a person has been "seized” for Fourth Amendment analysis. The Court held that the seizure does not occur until the suspect submits to a show of authority or is physically touched by the officer. Id. 111 S. Ct. at 1552. Even though the overhead lights were turned on while Perea was in his car, he was not seized then because he did not submit by remaining in or near his car. Further, we note that he was ordered to return to his car and he also resisted that command. The seizure occurred only when the officers contacted and handcuffed Perea, so this seizure could not have limited Perea’s right to lock his car.
+We have no basis to conclude that Perea acted unlawfully when he got out and locked his car. While Perea was not free to leave the scene, and by going toward his house he could have been charged with obstructing a public servant in the performance of his duties, see State v. Mierz, 127 Wn.2d 460, 478, 901 P.2d 286 (1995) (citing State v. Little, 116 Wn.2d 488, 496-97, 806 P.2d 749 (1991)), this act does not diminish the lawfulness of the act of locking his car. Therefore, the officers were confronted with a car that was already lawfully locked at the time of seizure.
+We could find no case where officers were permitted to enter a locked car to perform a search incident to arrest. This is not an exigent circumstances case, or a community caretaking case, or the seizure of evidence case. This is not a case where the defendant locked his car after seizure (either directly or by a remote device), or even after disobeying a direction of the police officer to remain inside his vehicle. Rather, this is a warrantless search of a lawfully parked and locked car, without probable cause. As such, it was not authorized by Stroud’s bright-line rule, even though the defendant was validly arrested nearby.
+The search was unlawful and the trial court erred by denying the motion to suppress.
+We reverse.
+Morgan and Seinfeld, JJ., concur.
+When we first filed our opinion on September 20, 1996, we misapprehended both the facts and the law applicable to the resolution of this matter. After reconsideration on our own motion, we have withdrawn the former opinion and issued this opinion.
+RCW 46.20.342 provides in part:
+"(1) It is unlawful for any person to drive a motor vehicle in this state while that person is in a suspended or revoked status or when his or her privilege to drive is suspended or revoked in this or any other state. . . .
+"(c) A person who violates this section when his or her driver’s license or driving privilege is, at the time of the violation, suspended or revoked ... is guilty of driving while license suspended or revoked in the third degree, a misdemeanor.”
+RCW 10.31.100 provides in part:
+"A police officer may arrest a person without a warrant for committing a misdemeanor or gross misdemeanor only when the offense is committed in the presence of the officer, except as provided in subsections (1) through (10) of this section.
+"(3) Any police officer having probable cause to believe that a person has committed or is committing a violation of any of the following traffic laws shall have the authority to arrest the person:
+"(e) RCW 46.20.342, relating to driving a motor vehicle while operator’s license is suspended or revoked!.]”
+(Emphasis added.)
+"[E]ven though the rationale for the Stroud "bright-line” rule rests in part on traditional justifications that a suspect might easily grab a weapon or destroy evidence, the validity of a Stroud search does not depend on an arrestee being in the vehicle when police arrive or on the physical ability of an arrestee to reach into the vehicle.”
+State v. Fore, 56 Wn. App. 339, 347, 783 P.2d 626 (1989) (citing Stroud, 106 Wn.2d at 152), review denied, 114 Wn.2d 1011 (1990).
+Former RCW 9A.76.020 provided, in pertinent part: "Every person who, . . . ■ (3) shall knowingly hinder, delay, or obstruct any public servant in the discharge of his official powers or duties!,] shall be guilty of a misdemeanor.”
