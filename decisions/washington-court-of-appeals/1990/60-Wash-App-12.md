@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12492-1-II"
 decided: "1990-08-20"
-citations: ["60 Wash. App. 12", "58 Wash. App. 1066"]
+citations: ["60 Wash. App. 12"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Brian Hodgson, Petitioner."]
 source_url: "https://static.case.law/wash-app/60/cases/0012-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1719359
-cites_cases: ["102 Wn.2d 355", "103 Wn.2d 768", "105 Wn.2d 257", "110 Wn.2d 827", "4 Wn. App. 882", "486 P.2d 112", "60 Wn. App. 12", "687 P.2d 186", "698 P.2d 77", "714 P.2d 303", "755 P.2d 806"]
+cites_cases: ["102 Wn.2d 355", "103 Wn.2d 768", "105 Wn.2d 257", "110 Wn.2d 827", "4 Wn. App. 882", "486 P.2d 112", "687 P.2d 186", "698 P.2d 77", "714 P.2d 303", "755 P.2d 806"]
 ---
 
 # State v. Hodgson
