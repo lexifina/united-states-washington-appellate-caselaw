@@ -1,0 +1,55 @@
+---
+court: "Washington Court of Appeals"
+docket: "48231-9-I"
+decided: "2002-02-11"
+citations: ["112 Wash. App. 18", "110 Wash. App. 1027"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Orlin K. Kleven, Appellant, v. The King County Prosecutor, Respondent."]
+source_url: "https://static.case.law/wash-app/112/cases/0018-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 719092
+cites_cases: ["112 Wn. App. 18", "114 Wn.2d 198", "120 Wn.2d 782", "131 Wn.2d 835", "136 Wn.2d 595", "143 Wn.2d 895", "147 Wn.2d 1006", "25 P.3d 426", "63 Wn. App. 35", "787 P.2d 30", "816 P.2d 1237", "824 P.2d 1237", "845 P.2d 995", "935 P.2d 611", "963 P.2d 869"]
+---
+
+# Kleven v. King County Prosecutor
+
+## Majority (Grosse, J.)
+
+Grosse, J.
+Once documents are determined to be within the scope of the public records act, disclosure is required unless a specific statutory exemption is available. However, work product of an attorney working for a public agency that is not available to another party under the pretrial discovery rules is exempt from disclosure. In addition, privileged communications between attorney and client are exempt from disclosure. On these bases, Eleven’s petition for disclosure of two documents from the office of the King County Prosecuting Attorney was properly denied.
+FACTS
+On May 10, 1999, Orlin Eleven, through his counsel, Hollis Wayne Duncan, sent a letter to the office of the King County Prosecuting Attorney. Duncan explained that his client was bringing a whistleblower complaint against an employee of the City of Kent for unauthorized personal use of a city vehicle and requested intervention by the prosecutor. Initially, the request was denied. After Duncan sent a follow-up letter citing provisions from the City of Kent’s official policy concerning improper governmental action, Dan Satterberg, Chief of Staff of the Office of the Prosecuting Attorney, sought legal advice from Sally Tenney, Chief Civil Deputy Prosecuting Attorney, regarding the proper role of the prosecutor under applicable statutes and policies.
+While conducting research on the issues, Tenney created a handwritten document two pages in length containing notes of her mental impressions, conclusions, legal theories, and opinions. This document was specifically prepared in the normal course of advising the Chief of Staff and in making a decision as to whether the prosecutor should pursue an investigation or an action against the City of Kent or one of its employees. Based on Tenney’s advice, the prosecutor decided not to pursue the matter, but referred Eleven to the City of Kent’s procedures. Tenney wrote Duncan informing him of this decision. In the letter, Tenney noted that the correct course of action was for Eleven to follow the whistleblower complaint process outlined in the City of Kent’s policy and procedures.
+About a year and one-half later, on December 3, 2000, Duncan sent a public disclosure request to the public disclosure officer of the King County prosecutor’s office requesting copies of all records relating to Eleven’s whistleblower complaint. A secretary in the prosecutor’s office searched for records responsive to Duncan’s request and initially found only the June 16, 1999 letter from Tenney to Duncan. On December 4, 2000, Tenney informed Duncan that she had no other documents responsive to his request.
+On December 5, 2000, Duncan faxed a letter to Tenney appealing the initial response and requesting a more thorough search. A second search for records ensued and the secretary found a file she originally overlooked. On December 6, 2000, a response was sent from Tenney to Duncan. That response stated that additional records were found, but, with the exception of Tenney’s two pages of handwritten notes which she noted were attorney work product, Duncan already had copies of all documents contained in the prosecutor’s files. Nevertheless, additional copies of the documents were sent to Duncan.
+Tenney received another letter from Duncan on December 11, 2000 in which he acknowledged receipt of 22 or 23 pages of public records by mail and fax, but disputed the withholding of the two pages of Tenney’s notes. Tenney responded on December 12, 2000, explaining that the notes were being withheld from disclosure because they were attorney work product, citing RCW 42.17.310(l)(j) and CR 26(b)(4) as authority. On December 14, 2000, Duncan sent a third appeal of his request for the records, specifically appealing the decision to withhold the two pages of handwritten notes.
+In January 2001, the prosecutor’s office was served with Eleven’s order to show cause directing the King County Prosecutor to appear in King County Superior Court. In preparing a response to the petition, the prosecutor’s office discovered an additional memorandum from the Chief of Staff to Tenney. This memo was overlooked before because it was drafted on smaller paper than other papers in the file and it was stapled to the back of another document. Tenney informed Duncan and the court about finding this additional document.
+The first hearing on the petition was held before the Honorable Robert H. Alsdorf. Judge Alsdorf issued an order dismissing the matter without prejudice for lack of jurisdiction due to a service of process error. But, in addition, the January 23, 2001 order provided: “Even were there jurisdiction, these communications to and from counsel are privileged under RCW 42.17.310(l)(j), [RCW] 5.60.060 and Dever v. Fowler, 63 Wn. App. 35, 47 (Div. I, 1991).”
+A second copy of the show cause order was properly served on the prosecutor. On February 14, 2001, the petition was heard before the Honorable Richard D. Eadie. The trial court entered an order denying Eleven’s petition for an order to disclose public records and entered an order of dismissal. In making his decision, Judge Eadie conducted an in camera review of the two pages of Tenney’s notes and the memo from the Chief of Staff to Tenney. The documents were placed in the superior court file under seal. Eleven appeals.
+DISCUSSION
+Once documents are determined to be within the scope of the public records act, disclosure is required unless a specific statutory exemption is available. RCW 42.17.310(l)(j) provides:
+Certain personal and other records exempt. (1) The following are exempt from public inspection and copying.
+(j) Records which are relevant to a controversy to which an agency is a party but which records would not be available to another party under the rules of pretrial discovery for causes pending in the superior courts.
+“Although RCW 42.17.310(l)(j) is awkwardly worded, it is not, however, ambiguous.” 3“A plain language interpretation of [RCW 42.17.310(l)(j)] is that records relevant to a controversy[] to which an agency is a party are exempt from public inspection and copying under the public records act if those records would not be available to another party under superior court rules of pretrial discovery.”
+“[T]he pretrial discovery rules referred to in RCW 42.17.310(l)(j) are those set forth in the civil rules for superior court, CR 26.” The work product doctrine found at CR 26(b)(4) is included. This doctrine protects the mental impressions, conclusions, and legal theories of an attorney from disclosure. The protection “includes within the definition of work product factual information which is collected or gathered by an attorney, as well as the attorney’s legal research, theories, opinions and conclusions.”
+We have reviewed the disputed documents. The two pages of notes requested by Eleven are nondiscoverable attorney work product and reflect Tenney’s mental impressions, legal research, theories, opinions, and conclusions. These mental impressions, notes, and memoranda prepared by the attorney from oral communications are absolutely protected, unless the mental impressions are directly at issue. Here, they are not.
+In addition, written statements gathered by an attorney and other agency representatives are subject to disclosure only upon a showing that the party seeking disclosure of the documents actually has substantial need of the materials and that a party is unable, without undue hardship, to obtain the substantial equivalent of the materials by other means. Here, the notes are not available to Eleven for the additional reason that he fails to make a showing of substantial need for them as required under the rule. His argument that he possesses a substantial need for the notes simply because he does not have them is without merit. We conclude that access to the requested notes was properly denied under an exception to the public records act.
+Furthermore, we note that by statute the prosecuting attorney is the legal advisor for all county officers and agencies. The memo from the Chief of Staff to the Chief Civil Deputy Prosecuting Attorney was a request for legal advice by a public official within the Office of the Prosecuting Attorney and is protected by the attorney-client privilege.* “The attorney-client privilege applies to communications and advice between an attorney and client and extends to documents that contain a privileged communication.”
+Eleven has not prevailed in his request for disclosure of the notes or the memo. Further, even though there may have been an inadvertent delay of a few days from his initial request, Eleven was not denied access to any public record for more than a reasonable amount of time and no penalties, costs, or attorney fees will be assessed. Affirmed.
+Agid, C.J., and Cox, J., concur.
+Review denied at 147 Wn.2d 1006 (2002).
+Dawson v. Daly, 120 Wn.2d 782, 789, 845 P.2d 995 (1993); RCW 42.17.260(1).
+O’Connor v. Dep’t of Soc. & Health Servs., 143 Wn.2d 895, 906, 25 P.3d 426 (2001).
+“Controversy under RCW 42.17.310(l)(j) encompasses either anticipated litigation or actual past or present litigation. Dawson, 120 Wn.2d at 791.
+O’Connor, 143 Wn.2d at 906.
+Limstrom v. Ladenburg, 136 Wn.2d 595, 609, 963 P.2d 869 (1998).
+See Dever v. Fowler, 63 Wn. App. 35, 47, 816 P.2d 1237, 824 P.2d 1237 (1991).
+Limstrom, 136 Wn.2d at 606.
+Limstrom, 136 Wn.2d at 611 (citing Pappas v. Holloway, 114 Wn.2d 198, 212, 787 P.2d 30 (1990)).
+CR 26(b)(4) provides that documents discoverable under CR 26(b)(1) are discoverable “only upon a showing that the party seeking discovery has substantial need of the materials in the preparation of his case and that he is unable without undue hardship to obtain the substantial equivalent of the materials by other means.” However, even once the required showing has been made, the court “shall protect against disclosure of the mental impressions, conclusions, opinions, or legal theories of an attorney or other representative of a party concerning the litigation.”
+See RCW 36.27.020.
+See RCW 5.60.060(2)(a), (5).
+Dietz v. Doe, 131 Wn.2d 835, 842, 935 P.2d 611 (1997) (citing Pappas, 114 Wn.2d at 203).
+See ROW 42.17.320, which gives an agency five business days to appropriately respond to requests for public records.
