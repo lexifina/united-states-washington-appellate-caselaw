@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22047-4-II"
 decided: "1998-07-10"
-citations: ["92 Wash. App. 10", "Division Two", "91 Wash. App. 1046"]
+citations: ["92 Wash. App. 10", "Division Two"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Paul A. Hintz, Appellant, v. Kitsap County, Respondent."]
 source_url: "https://static.case.law/wash-app/92/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853307
-cites_cases: ["110 Wn.2d 49", "121 Wn.2d 1031", "125 Wn.2d 1010", "125 Wn.2d 337", "129 Wn.2d 1023", "130 Wn.2d 1005", "131 Wn.2d 1014", "23 Wn. App. 178", "419 P.2d 984", "45 Wn. App. 95", "596 P.2d 665", "65 Wn. App. 763", "68 Wn. App. 486", "69 Wn. App. 445", "69 Wn.2d 726", "724 P.2d 1059", "750 P.2d 626", "80 Wn. App. 843", "82 Wn. App. 253", "829 P.2d 1114", "83 Wn. App. 304", "843 P.2d 1109", "850 P.2d 536", "883 P.2d 1383", "912 P.2d 1035", "917 P.2d 577", "92 Wn. App. 10", "92 Wn.2d 1029", "921 P.2d 1084"]
+cites_cases: ["110 Wn.2d 49", "121 Wn.2d 1031", "125 Wn.2d 1010", "125 Wn.2d 337", "129 Wn.2d 1023", "130 Wn.2d 1005", "131 Wn.2d 1014", "23 Wn. App. 178", "419 P.2d 984", "45 Wn. App. 95", "596 P.2d 665", "65 Wn. App. 763", "68 Wn. App. 486", "69 Wn. App. 445", "69 Wn.2d 726", "724 P.2d 1059", "750 P.2d 626", "80 Wn. App. 843", "82 Wn. App. 253", "829 P.2d 1114", "83 Wn. App. 304", "843 P.2d 1109", "850 P.2d 536", "883 P.2d 1383", "912 P.2d 1035", "917 P.2d 577", "92 Wn.2d 1029", "921 P.2d 1084"]
 ---
 
 # Hintz v. Kitsap County
