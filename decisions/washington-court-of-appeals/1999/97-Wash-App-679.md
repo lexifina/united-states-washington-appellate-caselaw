@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23166-2-II"
 decided: "1999-10-15"
-citations: ["97 Wash. App. 679", "97 Wash. App. 1056"]
+citations: ["97 Wash. App. 679"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ronald Duane Johnson, Jr., Ap
 source_url: "https://static.case.law/wash-app/97/cases/0679-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 183796
-cites_cases: ["107 Wn.2d 1002", "110 Wn.2d 1007", "111 Wn.2d 1010", "119 Wn.2d 572", "135 Wn.2d 326", "135 Wn.2d 359", "44 Wn. App. 281", "47 Wn. App. 477", "49 Wn. App. 596", "51 Wn. App. 404", "53 Wn. App. 527", "726 P.2d 472", "735 P.2d 696", "744 P.2d 1096", "753 P.2d 1015", "768 P.2d 530", "77 Wn. App. 575", "835 P.2d 213", "892 P.2d 774", "956 P.2d 1097", "957 P.2d 655", "97 Wn. App. 679"]
+cites_cases: ["107 Wn.2d 1002", "110 Wn.2d 1007", "111 Wn.2d 1010", "119 Wn.2d 572", "135 Wn.2d 326", "135 Wn.2d 359", "44 Wn. App. 281", "47 Wn. App. 477", "49 Wn. App. 596", "51 Wn. App. 404", "53 Wn. App. 527", "726 P.2d 472", "735 P.2d 696", "744 P.2d 1096", "753 P.2d 1015", "768 P.2d 530", "77 Wn. App. 575", "835 P.2d 213", "892 P.2d 774", "956 P.2d 1097", "957 P.2d 655"]
 ---
 
 # State v. Johnson
