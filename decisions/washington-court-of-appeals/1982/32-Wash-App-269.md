@@ -1,0 +1,34 @@
+---
+court: "Washington Court of Appeals"
+docket: "6190-2-II"
+decided: "1982-05-21"
+citations: ["32 Wash. App. 269"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Personal Restraint of David Allen Jenkins, Petitioner."]
+source_url: "https://static.case.law/wash-app/32/cases/0269-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1814742
+cites_cases: ["165 Wash. 197", "320 U.S. 264", "389 U.S. 128", "416 P.2d 104", "5 P.2d 319", "574 P.2d 379", "600 P.2d 1260", "68 Wn.2d 882", "89 Wn.2d 580", "92 Wn.2d 624"]
+---
+
+# In re the Personal Restraint of Jenkins
+
+## Majority (Reed, C.J.)
+
+Reed, C.J.
+David Allen Jenkins has filed a personal restraint petition in which he asks this court to order the Board of Prison Terms and Paroles to correct his sentence. At present, two sentences are set consecutively; petitioner contends they should be concurrent.
+Petitioner in 1976 was sentenced on a burglary conviction in King County. He received a sentence of 15 years, execution of which was suspended on condition of probation. That probation was revoked on June 2, 1977, in an order which revoked the suspension of sentence and expressly provided that the sentence should be served concurrently with another sentence that had been pronounced in the interim in Grays Harbor County. On April 22, 1977 the Grays Harbor County court had found petitioner to be a habitual criminal and sentenced him to life in prison.
+At issue is RCW 9.92.080, which provides in part:
+(1) Whenever a person while under sentence of felony shall commit another felony and be sentenced to another term of imprisonment, such latter term shall not begin until the expiration of all prior terms: Provided, That any person granted probation pursuant to the provisions of RCW 9.95.210 and/or 9.92.060 shall not be considered to be under sentence of a felony for the purposes of this subsection.
+(3) In all other cases, whenever a person is convicted of two or more offenses arising from separate and distinct acts or omissions, and not otherwise governed by the provisions of subsections (1) and (2) of this section, the sentences imposed therefor shall run consecutively, unless the court, in pronouncing the second or other subsequent sentences, expressly orders concurrent service thereof.
+Petitioner contends he is entitled to concurrent sentences under RCW 9.92.080(3) because the King County court, in its June 2, 1977 order, provided: "This sentence to be concurrent with sentence in Grays Harbor Co. #67787, this felony having occurred before sentence in Grays Harbor & therefore covered by [subsection] 3 of the stat. RCW 9.92-.080." He argues that the King County court was the second sentencing court and had authority to order concurrent sentences.
+The Parole Board argues that the second sentencing court was the Grays Harbor County court because petitioner had already been sentenced in King County to a term of imprisonment in 1976, and the court's suspension of the execution of that sentence did not diminish its finality for purposes of RCW 9.92.080. The State points out that the King County court's order of June 1977 did not constitute a resentencing of Mr. Jenkins, but merely revoked the suspension of the execution of the earlier sentence, thereby giving full effect to that sentence. Cf. State v. Braithwaite, 92 Wn.2d 624, 600 P.2d 1260 (1979) (suspended sentence, not on appeal, is a conviction for habitual criminal purposes); State v. Liliopoulos, 165 Wash. 197, 199, 5 P.2d 319 (1931) (suspended sentence is a final judgment for purposes of appeal); see also Hokama v. Johnson, 89 Wn.2d 580, 574 P.2d 379 (1978). Hence, the Parole Board contends it was the Grays Harbor County judge, in April of 1977, who was in the position of being the "second judge" with the authority to pronounce a sentence concurrent to the 1976 King County sentence, if he had chosen to do so.
+As a practical matter, we are skeptical' of the Parole Board's position that the Grays Harbor County court could have sentenced concurrently with the sentence of probation which petitioner was then serving. Although under RCW 9.92.080(1) the court was not required to impose consecutive sentences because of the probationary sentence previously given in King County, neither was the court in a position to specify a concurrent sentence. Under RCW 9.92.080(3), which applies in "all other cases," it would have been unrealistic for the judge to have sentenced Mr. Jenkins to prison, but to have directed "concurrent service" of that sentence with the prior term of probation then still in effect.
+We do agree, however, with the Parole Board's characterization of the subsequent proceeding in King County in June 1977. The judge was confronted with a petition to revoke the original suspension of sentence and probation. He had already sentenced Mr. Jenkins to a prison term in 1976. The execution of the sentence had simply been suspended upon certain conditions. When the court's attention was drawn to Mr. Jenkins' failure to comply with those conditions, the judge did not pronounce a new sentence; he had only to sign an order revoking the suspension of the prior sentence and remanding Mr. Jenkins to the custody of the Division of Institutions to begin serving his sentence. See Roberts v. United States, 320 U.S. 264, 88 L. Ed. 41, 64 S. Ct. 113 (1943). This revocation procedure has been described as " essentially quasi-administrative or plenary in nature." Mempa v. Rhay, 68 Wn.2d 882, 890, 416 P.2d 104 (1966), rev'd on other grounds, 389 U.S. 128, 19 L. Ed. 2d 336, 88 S. Ct. 254 (1967); see RCW 9.95.220:
+In the event the judgment has been pronounced by the court and the execution thereof suspended, the court may revoke such suspension, whereupon the judgment shall be in full force and effect, and the defendant shall be delivered to the sheriff to be transported to the penitentiary or reformatory . . .
+In these circumstances, the King County court in revoking the suspension of sentence was not "pronouncing" a sentence and could not make the prison term concurrent with the Grays Harbor County sentence. The King County sentence had already been pronounced when Mr. Jenkins was put on probation. Because the court was merely executing its former sentence, RCW 9.92.080(3) required that the two sentences from King County and Grays Harbor County run consecutively.
+The petition is denied.
+Petrie and Worswick, JJ., concur.
+We do not decide whether the Grays Harbor County court could have specified that if the probation in the King County case were to be revoked and the defendant to begin serving the sentence previously imposed, the Grays Harbor County sentence would be concurrent.
