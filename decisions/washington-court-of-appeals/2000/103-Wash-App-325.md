@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18521-4-III"
 decided: "2000-10-05"
-citations: ["103 Wash. App. 325", "102 Wash. App. 1050"]
+citations: ["103 Wash. App. 325"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sarah Spence, Respondent, v. Michael S. Kaminski, Appellant."]
 source_url: "https://static.case.law/wash-app/103/cases/0325-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102669
-cites_cases: ["103 Wn. App. 325", "107 Wn.2d 196", "115 Wn.2d 60", "118 Wn.2d 133", "133 Wn.2d 15", "135 Wn.2d 369", "135 Wn.2d 618", "136 Wn.2d 939", "137 Wn.2d 957", "405 U.S. 504", "728 P.2d 138", "794 P.2d 850", "82 Wn. App. 298", "821 P.2d 482", "87 Wn. App. 305", "91 Wn. App. 969", "917 P.2d 159", "940 P.2d 1374", "941 P.2d 697", "957 P.2d 691", "957 P.2d 741", "961 P.2d 958", "969 P.2d 90", "977 P.2d 554"]
+cites_cases: ["107 Wn.2d 196", "115 Wn.2d 60", "118 Wn.2d 133", "133 Wn.2d 15", "135 Wn.2d 369", "135 Wn.2d 618", "136 Wn.2d 939", "137 Wn.2d 957", "405 U.S. 504", "728 P.2d 138", "794 P.2d 850", "82 Wn. App. 298", "821 P.2d 482", "87 Wn. App. 305", "91 Wn. App. 969", "917 P.2d 159", "940 P.2d 1374", "941 P.2d 697", "957 P.2d 691", "957 P.2d 741", "961 P.2d 958", "969 P.2d 90", "977 P.2d 554"]
 ---
 
 # Spence v. Kaminski
