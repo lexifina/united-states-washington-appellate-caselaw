@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43317-2-I"
 decided: "1999-11-01"
-citations: ["98 Wash. App. 7", "97 Wash. App. 1078"]
+citations: ["98 Wash. App. 7"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Leon Capelouto, et al., Appellants, v. Valley Forge Insurance Company
 source_url: "https://static.case.law/wash-app/98/cases/0007-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155946
-cites_cases: ["112 Wn.2d 621", "113 Wn.2d 869", "114 Wn.2d 907", "119 Wn.2d 724", "121 Wn.2d 869", "123 Wn.2d 678", "125 Wn.2d 164", "127 Wn.2d 726", "128 Wn.2d 73", "129 Wn.2d 368", "131 Wn.2d 1", "131 Wn.2d 133", "134 Wn.2d 814", "135 Wn.2d 1007", "136 Wn.2d 269", "136 Wn.2d 567", "17 Cal. App. 4th 1112", "21 Cal. Rptr. 2d 871", "23 Wn. App. 349", "37 Wn. App. 1", "594 F. Supp. 304", "595 P.2d 574", "595 So. 2d 284", "659 So. 2d 310", "680 P.2d 409", "7 A.L.R.5th 1014", "773 P.2d 413", "784 P.2d 507", "79 Wn. App. 346", "79 Wn. App. 368", "792 P.2d 520", "837 P.2d 1000", "854 P.2d 622", "87 A.L.R.4th 405", "871 P.2d 146", "88 Wn. App. 801", "883 P.2d 308", "901 P.2d 1079", "901 P.2d 1090", "903 P.2d 455", "904 P.2d 749", "917 P.2d 116", "929 P.2d 396", "930 P.2d 288", "947 P.2d 754", "953 P.2d 462", "961 P.2d 933", "964 P.2d 1173", "98 Wn. App. 7"]
+cites_cases: ["112 Wn.2d 621", "113 Wn.2d 869", "114 Wn.2d 907", "119 Wn.2d 724", "121 Wn.2d 869", "123 Wn.2d 678", "125 Wn.2d 164", "127 Wn.2d 726", "128 Wn.2d 73", "129 Wn.2d 368", "131 Wn.2d 1", "131 Wn.2d 133", "134 Wn.2d 814", "135 Wn.2d 1007", "136 Wn.2d 269", "136 Wn.2d 567", "17 Cal. App. 4th 1112", "21 Cal. Rptr. 2d 871", "23 Wn. App. 349", "37 Wn. App. 1", "594 F. Supp. 304", "595 P.2d 574", "595 So. 2d 284", "659 So. 2d 310", "680 P.2d 409", "7 A.L.R.5th 1014", "773 P.2d 413", "784 P.2d 507", "79 Wn. App. 346", "79 Wn. App. 368", "792 P.2d 520", "837 P.2d 1000", "854 P.2d 622", "87 A.L.R.4th 405", "871 P.2d 146", "88 Wn. App. 801", "883 P.2d 308", "901 P.2d 1079", "901 P.2d 1090", "903 P.2d 455", "904 P.2d 749", "917 P.2d 116", "929 P.2d 396", "930 P.2d 288", "947 P.2d 754", "953 P.2d 462", "961 P.2d 933", "964 P.2d 1173"]
 ---
 
 # Capelouto v. Valley Forge Insurance
