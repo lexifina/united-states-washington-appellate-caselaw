@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21163-7-II"
 decided: "1998-06-19"
-citations: ["91 Wash. App. 919", "91 Wash. App. 1028"]
+citations: ["91 Wash. App. 919"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, on the Relation of A.N.C., et al., Responden
 source_url: "https://static.case.law/wash-app/91/cases/0919-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681816
-cites_cases: ["10 Wn. App. 606", "106 Wn.2d 54", "107 Wn.2d 300", "107 Wn.2d 761", "119 Wn.2d 167", "125 Wn.2d 222", "131 Wn.2d 230", "136 Wn.2d 1031", "250 P.2d 543", "28 Wn. App. 637", "390 P.2d 976", "397 U.S. 471", "41 Wn.2d 499", "427 U.S. 297", "478 A.2d 1098", "492 P.2d 219", "508 P.2d 1377", "519 P.2d 1330", "520 P.2d 162", "575 P.2d 201", "592 P.2d 1103", "60 Wn. App. 426", "618 P.2d 67", "626 P.2d 16", "637 P.2d 645", "64 Wn.2d 191", "644 P.2d 1170", "645 P.2d 693", "69 Wn. App. 693", "720 P.2d 808", "730 P.2d 54", "733 P.2d 530", "76 A.L.R.4th 517", "78 Wn. App. 864", "8 Wn. App. 769", "80 Wn.2d 111", "804 P.2d 642", "829 P.2d 1082", "83 Wn.2d 523", "84 Wn.2d 1002", "850 P.2d 1361", "88 Wn. App. 87", "883 P.2d 1370", "89 Wn.2d 592", "899 P.2d 830", "91 Wn. App. 919", "91 Wn.2d 759", "915 P.2d 519", "930 P.2d 1213", "94 Wn.2d 479", "943 P.2d 1141", "96 Wn.2d 568", "97 Wn.2d 351", "97 Wn.2d 412", "D.C. Code Ann. § 30-303"]
+cites_cases: ["10 Wn. App. 606", "106 Wn.2d 54", "107 Wn.2d 300", "107 Wn.2d 761", "119 Wn.2d 167", "125 Wn.2d 222", "131 Wn.2d 230", "136 Wn.2d 1031", "250 P.2d 543", "28 Wn. App. 637", "390 P.2d 976", "397 U.S. 471", "41 Wn.2d 499", "427 U.S. 297", "478 A.2d 1098", "492 P.2d 219", "508 P.2d 1377", "519 P.2d 1330", "520 P.2d 162", "575 P.2d 201", "592 P.2d 1103", "60 Wn. App. 426", "618 P.2d 67", "626 P.2d 16", "637 P.2d 645", "64 Wn.2d 191", "644 P.2d 1170", "645 P.2d 693", "69 Wn. App. 693", "720 P.2d 808", "730 P.2d 54", "733 P.2d 530", "76 A.L.R.4th 517", "78 Wn. App. 864", "8 Wn. App. 769", "80 Wn.2d 111", "804 P.2d 642", "829 P.2d 1082", "83 Wn.2d 523", "84 Wn.2d 1002", "850 P.2d 1361", "88 Wn. App. 87", "883 P.2d 1370", "89 Wn.2d 592", "899 P.2d 830", "91 Wn.2d 759", "915 P.2d 519", "930 P.2d 1213", "94 Wn.2d 479", "943 P.2d 1141", "96 Wn.2d 568", "97 Wn.2d 351", "97 Wn.2d 412", "D.C. Code Ann. § 30-303"]
 ---
 
 # State ex rel. A.N.C. v. Grenley
