@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21787-6-III"
 decided: "2004-01-15"
-citations: ["120 Wash. App. 498", "119 Wash. App. 1077"]
+citations: ["120 Wash. App. 498"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James W. Harberd, et al., Appellants, v. The City of Kettle Falls, Re
 source_url: "https://static.case.law/wash-app/120/cases/0498-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422907
-cites_cases: ["1 Wn. App. 694", "103 Wn. App. 29", "109 Wn. App. 113", "109 Wn. App. 182", "111 Wash. 294", "112 Wn.2d 193", "114 Wn.2d 1", "117 Wn.2d 655", "118 Wn.2d 133", "118 Wn.2d 801", "120 Wn. App. 498", "121 Wn.2d 243", "121 Wn.2d 833", "122 Wn.2d 371", "131 Wn.2d 1", "137 Wn.2d 887", "140 Wn.2d 88", "143 Wn.2d 1014", "146 Wn.2d 1", "146 Wn.2d 63", "147 Wn.2d 1003", "147 Wn.2d 16", "147 Wn.2d 303", "147 Wn.2d 476", "148 Wn.2d 637", "148 Wn.2d 672", "15 Wn. App. 464", "152 Wn.2d 1025", "190 P. 1012", "268 Wis. 116", "34 P.3d 840", "34 P.3d 887", "392 P.2d 227", "419 P.2d 989", "42 P.3d 968", "424 P.2d 290", "43 P.3d 4", "451 F. Supp. 260", "463 P.2d 225", "50 P.3d 638", "514 P.2d 524", "53 P.3d 993", "55 P.3d 597", "550 P.2d 30", "56 A.L.R.3d 1037", "616 P.2d 644", "618 P.2d 96", "62 P.3d 462", "63 P.3d 765", "64 Wn.2d 453", "66 N.W.2d 716", "69 Wn.2d 705", "70 Wn.2d 522", "770 P.2d 1027", "784 P.2d 1266", "818 P.2d 1076", "82 Wn.2d 858", "821 P.2d 482", "828 P.2d 549", "850 P.2d 1298", "854 P.2d 1061", "858 P.2d 245", "9 P.3d 858", "929 P.2d 396", "94 Wn.2d 255", "94 Wn.2d 640", "96 Wn. App. 944", "97 Wn. App. 181", "976 P.2d 619", "982 P.2d 659", "983 P.2d 1127", "993 P.2d 259"]
+cites_cases: ["1 Wn. App. 694", "103 Wn. App. 29", "109 Wn. App. 113", "109 Wn. App. 182", "111 Wash. 294", "112 Wn.2d 193", "114 Wn.2d 1", "117 Wn.2d 655", "118 Wn.2d 133", "118 Wn.2d 801", "121 Wn.2d 243", "121 Wn.2d 833", "122 Wn.2d 371", "131 Wn.2d 1", "137 Wn.2d 887", "140 Wn.2d 88", "143 Wn.2d 1014", "146 Wn.2d 1", "146 Wn.2d 63", "147 Wn.2d 1003", "147 Wn.2d 16", "147 Wn.2d 303", "147 Wn.2d 476", "148 Wn.2d 637", "148 Wn.2d 672", "15 Wn. App. 464", "152 Wn.2d 1025", "190 P. 1012", "268 Wis. 116", "34 P.3d 840", "34 P.3d 887", "392 P.2d 227", "419 P.2d 989", "42 P.3d 968", "424 P.2d 290", "43 P.3d 4", "451 F. Supp. 260", "463 P.2d 225", "50 P.3d 638", "514 P.2d 524", "53 P.3d 993", "55 P.3d 597", "550 P.2d 30", "56 A.L.R.3d 1037", "616 P.2d 644", "618 P.2d 96", "62 P.3d 462", "63 P.3d 765", "64 Wn.2d 453", "66 N.W.2d 716", "69 Wn.2d 705", "70 Wn.2d 522", "770 P.2d 1027", "784 P.2d 1266", "818 P.2d 1076", "82 Wn.2d 858", "821 P.2d 482", "828 P.2d 549", "850 P.2d 1298", "854 P.2d 1061", "858 P.2d 245", "9 P.3d 858", "929 P.2d 396", "94 Wn.2d 255", "94 Wn.2d 640", "96 Wn. App. 944", "97 Wn. App. 181", "976 P.2d 619", "982 P.2d 659", "983 P.2d 1127", "993 P.2d 259"]
 ---
 
 # Harberd v. City of Kettle Falls
