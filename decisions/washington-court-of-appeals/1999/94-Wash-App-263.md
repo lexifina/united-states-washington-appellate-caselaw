@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22069-5-II"
 decided: "1999-01-29"
-citations: ["94 Wash. App. 263", "93 Wash. App. 1074"]
+citations: ["94 Wash. App. 263"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Roiland Fernandez-Medina, App
 source_url: "https://static.case.law/wash-app/94/cases/0263-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83148
-cites_cases: ["114 Wn.2d 59", "122 Wn.2d 1021", "123 Wn.2d 351", "123 Wn.2d 794", "125 Wn.2d 183", "129 Wn.2d 1013", "137 Wn.2d 1032", "422 P.2d 816", "69 Wn. App. 885", "69 Wn. App. 891", "70 Wn.2d 326", "75 Wn. App. 417", "785 P.2d 808", "79 Wn. App. 164", "81 Wn. App. 1", "850 P.2d 1377", "851 P.2d 703", "869 P.2d 43", "872 P.2d 502", "877 P.2d 1293", "901 P.2d 354", "914 P.2d 67", "94 Wn. App. 263"]
+cites_cases: ["114 Wn.2d 59", "122 Wn.2d 1021", "123 Wn.2d 351", "123 Wn.2d 794", "125 Wn.2d 183", "129 Wn.2d 1013", "137 Wn.2d 1032", "422 P.2d 816", "69 Wn. App. 885", "69 Wn. App. 891", "70 Wn.2d 326", "75 Wn. App. 417", "785 P.2d 808", "79 Wn. App. 164", "81 Wn. App. 1", "850 P.2d 1377", "851 P.2d 703", "869 P.2d 43", "872 P.2d 502", "877 P.2d 1293", "901 P.2d 354", "914 P.2d 67"]
 ---
 
 # State v. Fernandez-Medina
