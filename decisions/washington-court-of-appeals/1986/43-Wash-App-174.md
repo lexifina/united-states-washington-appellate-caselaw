@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7370-0-III; 7371-8-III"
 decided: "1986-02-06"
-citations: ["43 Wash. App. 174", "42 Wash. App. 1068"]
+citations: ["43 Wash. App. 174"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Personal Restraint of Scot K. Hunter, Petitioner
 source_url: "https://static.case.law/wash-app/43/cases/0174-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1806445
-cites_cases: ["101 Wn.2d 291", "43 Wn. App. 174", "678 P.2d 323"]
+cites_cases: ["101 Wn.2d 291", "678 P.2d 323"]
 ---
 
 # In re the Personal Restraint of Hunter
