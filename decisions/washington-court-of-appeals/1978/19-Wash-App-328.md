@@ -1,0 +1,61 @@
+---
+court: "Washington Court of Appeals"
+docket: "4475-1"
+decided: "1978-02-27"
+citations: ["19 Wash. App. 328"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Dana R. Wellington, Respondent, v. Edwin R. Wellington, Appellant."]
+source_url: "https://static.case.law/wash-app/19/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 473922
+cites_cases: ["1 A.L.R. Fed. 321", "114 P.2d 526", "135 A.L.R. 423", "158 Wash. 446", "17 L. Ed. 2d 786", "18 Wn. App. 1", "18 Wn. App. 227", "291 P. 476", "36 A.L.R.2d 567", "365 F.2d 358", "386 U.S. 914", "566 P.2d 1273", "567 P.2d 242", "87 S. Ct. 864", "9 Wn.2d 214"]
+---
+
+# Wellington v. Wellington
+
+## Majority (Williams, J.)
+
+Williams, J.
+This action is based upon a foreign judgment. The cause was tried in the Snohomish County Superior Court and resulted in a judgment for unpaid child support.
+The facts are that Dana and Edwin Wellington were divorced in California on September 20, 1968. The decree ordered Edwin to pay $100 per month for each of the three minor children. In January 1969, Edwin moved to Washington, and in February 1974, Dana brought this action. On January 7, 1976, the court recognized the California judgment and ordered Edwin to pay $8,455 in back child support.
+The Snohomish County action was commenced within the period of the 6-year statute of limitations. RCW 4.16-.040. The only question presented is whether support payments which accrued more than 6 years before adoption of the judgment in Washington are legally collectible. Edwin argues that they are not collectible because of the following statutes:
+The party in whose favor a judgment of a court of record of this state has been, or may hereafter be, rendered, or his assignee, may have an execution issued for the collection or enforcement of the same, at any time within six years from the rendition thereof; . . .
+(Italics ours.) RCW 6.04.010 in part; and
+After the expiration of six years from the date of the entry of any judgment heretofore or hereafter rendered in this state, it shall cease to be a lien or charge against the estate or person of the judgment debtor, and no suit, action or other proceeding shall ever be had on any judgment rendered in this state by which the lien or duration of such judgment, claim or demand, shall be extended or continued in force for any greater or longer period than six years from the date of the entry of the original judgment, except as in RCW 4.56.225 provided.
+(Italics ours.) RCW 4.56.210.
+Edwin claims that despite the language of these statutes limiting them to judgments of "this state," they must operate to restrict the time within which the California judgment may be enforced in that state or in any other state. We disagree. The rule in this state is that if a judgment creditor, in good faith, timely commences an action upon a judgment of a sister state, he can, in effect, extend the duration of that judgment beyond the period of 6 years following its rendition. Roche v. McDonald, 158 Wash. 446, 291 P. 476 (1930).
+The Washington judgment is a new judgment, standing on its own, and the time period for executing upon it commenced to run from the date of its entry. RCW 6.04.010.
+Judgment affirmed.
+
+## Concurrence (Callow, J.)
+
+Callow, J.
+(concurring in the result)—I concur in the result.
+An acknowledgment in writing by the debtor of the existence of a valid debt extends the running of the statutory period during which payment of the debt may be enforced. Strong v. Sunset Copper Co., 9 Wn.2d 214, 114 P.2d 526, 135 A.L.R. 423 (1941); Burnham v. Burnham, 18 Wn. App. 1, 567 P.2d 242 (1977). The running of the statute of limitations does not wipe out a debt, but simply bars enforcement of the remedy for the recovery of the debt. Lombardo v. Mottola, 18 Wn. App. 227, 566 P.2d 1273 (1977). Courts endeavor to avoid extinguishing valid debts by law if the purposes of the statutes of limitations have been served. Therefore, debts are not to be cancelled solely by the passage of time if their existence can be proved by satisfactory evidence which has come into being before the debt became stale as statutorily defined.
+The concern for the enforcement of valid debts on. the one hand, and antipathy towards stale claims on the other, is reconciled by compliance with RCW 6.36 which requires service of summons upon or notice to the judgment debtor (RCW 6.36.040, .050), and grants the judgment debtor an opportunity to be heard. RCW 6.36.080. To avoid the registration of a foreign judgment thought to be too old, RCW 6.36.020 prohibits the registration in Washington of any foreign judgment more than 6 years following the entry of the foreign judgment in the foreign jurisdiction. Matanuska Valley Lines, Inc. v. Molitor, 365 F.2d 358, 1 A.L.R. Fed. 321 (9th Cir. 1966), cert. denied, 386 U.S. 914, 17 L. Ed. 2d 786, 87 S. Ct. 864 (1967).
+The enforcement of stale claims is not permitted by allowing those validly acknowledged to be enforced within a statutory period commencing to run on the date of acknowledgment. The proof to be presented is proof of the acknowledgment, not proof of the debt as of the date of its origin. It follows that the enforcement of stale claims is not encouraged by sanctioning the enforcement of a foreign judgment in this state for a period of 6 years following the date of entry of judgment in Washington.
+Further, it is reasonable to assume that a factor in the judgment creditor's inability to satisfy the foreign judgment in the foreign jurisdiction was the absence of the debtor and his property from that jurisdiction. Upon discovery of the debtor or property in this state, the creditor should have the full statutory period to enforce a valid judgment. If either party is to be assisted by the law, it should be the creditor to whom is owed a valid debt and not the debtor who has received his part of the bargain but has failed to perform his just obligation.
+
+## Concurrence (Andersen, J.)
+
+Andersen, J.
+(concurring in the result)—I concur but do so on the basis of the language of the Uniform Enforcement of Foreign Judgments Act, RCW 6.36, as that act was worded when this case was tried.
+The opinion suggests that under the common law of this state, the period of one statute of limitations (ours) can be stacked on top of another (California's). I disagree. I do not believe that the public policy behind statutes of limitation comport with that concept, or that a foreign judgment should be given a higher position than a judgment of this state, absent specific statutory authority in this state which requires such a result.
+The trial court did not enter judgment against the judgment debtor for any of the unpaid support obligations which accrued over 6 years prior to the date on which the judgment creditor filed her action in this state seeking to enforce the California judgment. This action was thus commenced within the period of the statute of limitations of both the state rendering the judgment and of this state, so no conflict of laws problem as to time limitations governing actions on foreign judgments arises. See 36 A.L.R.2d 567 (1954).
+The method of enforcement of foreign judgments is governed by the law of the forum and the enforcement procedures of each state are peculiar to it. 46 Am. Jur. 2d Judgments § 905 (1969); Restatement (Second) of Conflict of Laws § 130 (1971). Washington is the forum state.
+Foreign judgments may be enforced in this state in either of two ways, by a direct action upon the foreign judgment or by an action under the Uniform Enforcement of Foreign Judgments Act, RCW 6.36. 46 Am. Jur. 2d Judgments § 906 (1969); RCW 6.36.160.
+Although the record before us is not entirely clear, it appears that the judgment creditor in this case was proceeding under the uniform act, although she did not specifically plead it as such nor did she precisely follow the registration procedures of the act. See RCW 6.36.030. The judgment creditor did, however: plead the California judgment verbatim in her complaint and ask for a judgment in this state based thereon; serve process on the judgment debtor and give him the opportunity to appear and defend, which he did, and to raise the statute of limitations as an affirmative defense, which he also did; and refer to "regis: tering" the California judgment in her pleadings, as did the judgment debtor in his. Based on this, I would hold that the judgment creditor substantially complied with the uniform act and should be considered as having proceeded thereunder.
+Here the judgment creditor complied with the provision of the uniform act requiring that she sue "within the time allowed for bringing an action on a foreign judgment in this state, ..." RCW 6.36.020.
+Then when the judgment creditor got her judgment, the act provides that "the registered judgment shall become a final personal judgment of the court in which it is registered." (Italics mine.) RCW 6.36.070. Thus, the amount of the obligation owing on the California judgment on the date that the suit was commenced thereon in this state became a new judgment in this state as of the date of the Washington judgment.
+As a new Washington judgment, it then became enforceable for a period of 6 years from the date of the new judgment by virtue of other statutes, RCW 4.56.210 and RCW 6.04.010, as pointed out in the majority opinion.
+Here the trial court concluded:
+The judgment entered herein is deemed to be, shall be and is a domestic judgment of the State of Washington, adopting and based upon a judgment of the sister State of California. It is entitled to the effect of any domestic judgment on its date of entry as to enforcement in that it shall constitute a judgment lien and the non-exempt property of the judgment debtor shall be subject to execution and other enforcement under the laws of the State of Washington for a period of six (6) years from the date of entry.
+Conclusion of law No. 8. For the reasons heretofore stated, the trial court's conclusion was in my opinion correct and I therefore concur with the majority's affirmance of the judgment.
+In order that this case be kept in perspective, however, one further observation is required and that is that under the view of the law as I have expressed it, this same result will not necessarily occur in cases arising after September 21, 1977. The reason is this. The original Uniform Enforcement of Foreign Judgments Act, as adopted in this state in 1953, Laws of 1953, ch. 191., p. 409, was patterned after the 1948 act adopted by the uniform law commissioners. See 13 U.L.A. 181 et seq. (Master ed. 1975). That is the act under which this case was tried and decided. However, substantial changes were subsequently made in this act by the State of Washington Legislature. Those changes became effective September 21, 1977, Laws of 1977, 1st Ex. Sess., ch. 45, p. 259, and were patterned after the 1964 revised act adopted by the uniform law commissioners. See 13 U.L.A. 171 et seq. (Master ed. 1975). Since the subsequent changes in the uniform act are not an issue in the present case, no comment as to-their effect would here be appropriate.
+Petition for rehearing denied May 11, 1978.
+Review denied by Supreme Court October 10, 1978.
+RCW 6.36.070 quoted above, and which provided that "the registered judgment shall become a final personal judgment of the court in which it is registered" was repealed effective September 21, 1977, as noted and the Uniform Enforcement of Foreign Judgments Act of this state now reads in pertinent part:
+Filing of foreign judgment—Authorized—Effect. A copy of any foreign judgment authenticated in accordance with the act of congress or the statutes of this state may be filed in the office of the clerk of any superior court of any county of this state. The clerk shall treat the foreign judgment in the same manner as a judgment of the superior court of this state. A judgment so filed has the same effect and is subject to the same procedures, defenses, set-offs, counterclaims, cross-complaints, and proceedings for reopening, vacating, or staying as a judgment of a superior court of this state and may be enforced or satisfied in like manner.
+RCW 6.36.025.
