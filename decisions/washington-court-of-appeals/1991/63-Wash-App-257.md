@@ -1,0 +1,48 @@
+---
+court: "Washington Court of Appeals"
+docket: "12869-1-II"
+decided: "1991-10-24"
+citations: ["63 Wash. App. 257"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Rodney Jessie Anderson, Appellant."]
+source_url: "https://static.case.law/wash-app/63/cases/0257-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1732985
+cites_cases: ["101 Wn.2d 654", "115 Wn.2d 275", "118 Wn.2d 1021", "682 P.2d 883", "796 P.2d 1266"]
+---
+
+# State v. Anderson
+
+## Majority (Morgan, J.)
+
+Morgan, J.
+Rodney Anderson appeals his conviction for first degree rendering criminal assistance. We affirm.
+Rodney Anderson and Mark Wilson arrived at the Roundup Tavern in a car driven by Anderson. The time was after midnight. Instead of going into the tavern, Wilson went to the nearby Wild Willie's store and robbed the clerk by displaying what appeared to be a gun. Wilson then ran back to the car, got in, lay down, and told Anderson that he had just robbed Wild Willie's. Anderson drove away from the Roundup with Wilson in the car. Within a short time, the police stopped the car and arrested both men. A plastic toy pistol was found under the passenger seat. In an interview with the police, Anderson admitted that when he drove Wilson from the scene, he knew that Wilson had committed a robbery. He also said that he had no advance knowledge of what Wilson was going to do. Wilson testified to that effect at Anderson's trial.
+Anderson was acquitted of first degree robbery but convicted of rendering criminal assistance in the first degree. He appeals the conviction.
+The charge of rendering criminal assistance was based on RCW 9A.76.050 and 9A.76.070. RCW 9A.76.050 provides in pertinent part:
+[A] person "renders criminal assistance" if, with intent to prevent, hinder, or delay the apprehension or prosecution of another person who he knows has committed a crime or juvenile offense or is being sought by law enforcement officials for the commission of a crime or juvenile offense or has escaped from a detention facility, he:
+(3) Provides such person with . . . transportation ... or other means of avoiding discovery or apprehension ....
+RCW 9A.76.070(1) provides in pertinent part:
+A person is guilty of rendering criminal assistance in the first degree if he renders criminal assistance to a person who has committed . . . any class A felony ....
+Anderson does not dispute that Wilson displayed what appeared to be a firearm when he robbed Wild Willie's, or that Wilson's crime was a class A felony. RCW 9A.56.200 provides that a person is guilty of robbery in the first degree, a class A felony, if in the commission of a robbery he displays what appears to be a firearm or deadly weapon.
+Anderson's first and main claim is that he could not be convicted of rendering criminal assistance in the first degree unless, at the time he rendered such assistance, he knew not only that Wilson had committed robbery, but also that Wilson had displayed what appeared to be a firearm. He reasons that unless he knew about the apparent firearm, he did not have knowledge of facts sufficient to constitute a class A felony, and that a person must know that a class A felony has been committed before he or she can be guilty of rendering criminal assistance in the first degree. At trial, he properly preserved this claim for review by embodying it in two proposed jury instructions which the trial court refused to give. Thus, a new trial is required if the claim is well taken.
+The claim fails. We hold that a person can be convicted of rendering criminal assistance in the first degree if he or she knows at the time of rendering the assistance that the one being assisted committed robbery. We further hold that a person can be convicted of rendering criminal assistance in the first degree notwithstanding a lack of knowledge concerning facts that would disclose the degree of the robbery.
+By its plain terms, RCW 9A.76.050 provides that a person can be convicted of rendering criminal assistance only if he or she knows, at the time of rendering assistance, that the principal has committed a crime or juvenile offense, is being sought by law enforcement for the same, or has escaped from a detention facility. By its plain terms, RCW 9A.76.070 does not require that the person rendering assistance know the degree of crime committed by the principal. It appears then, that the person rendering assistance must have knowledge of the principal's crime, but not of facts disclosing the degree of that crime.
+This conclusion is supported by State v. Davis, 101 Wn.2d 654, 682 P.2d 883 (1984). In that case, the defendant was charged as an accomplice to first degree robbery. The evidence indicated that he had been the lookout while the principal robbed a store with a gun. As the Supreme Court phrased the issue, it was "whether the accomplice liability statute predicates criminal liability on general knowledge of a crime or specific knowledge of the elements of the participant's crime, i.e., possession of a gun." 101 Wn.2d at 657. Holding that general knowledge of the crime was enough, the court said:
+As to the substantive crime, the law has long recognized that an accomplice, having agreed to participate in a criminal act,
+runs the risk of having the primary actor exceed the scope of the preplanned illegality. . . .
+Furthermore, this distinction recognizes that the Legislature has a valid interest in discouraging the use of deadly weapons by imposing strict liability on all those involved in robbery which, by its very nature, generally requires use of weapons to facilitate the act of illegally obtaining money from another by force.
+101 Wn.2d at 658-59.
+Because the concepts of complicity and rendering assistance are similar, the reasoning of Davis applies to the present case. An accomplice is hable because he or she knowingly aids the criminal enterprise of another before the fact. RCW 9A.08.020. One who renders criminal assistance is hable because he or she knowingly aids the criminal enterprise of another after the fact. RCW 9A.76.050. Because the goal in both cases is to punish for knowingly aiding the criminal enterprise of another, there is no reason to require that the Tenderer have more specific knowledge than the accomplice. Therefore, from Davis's holding that an accomplice to first degree robbery must have general knowledge of the robbery but need not know that the principal will be armed, it follows by analogy that one who renders criminal assistance after a first degree robbery must have general knowledge of the robbery but need not know that the principal was armed.
+Anderson's second claim is that RCW 9A.76.070(2) denies him the equal protection of the laws. Rendering criminal assistance in the first degree is generally a class C felony, but if the actor is a relative of the person to whom assistance is rendered, it is a gross misdemeanor. Noting that he is not a relative of Wilson, Anderson contends that this classification unconstitutionally discriminates against him.
+In State v. Handley, 115 Wn.2d 275, 796 P.2d 1266 (1990), the Supreme Court described how to apply the equal protection clause in criminal cases when the complaining defendant is not a member of a suspect class. At pages 290-91, it said:
+[I]f a defendant can establish that he or she is similarly situated with another defendant by virtue of near identical participation in the same set of criminal circumstances, then the defendant will have established a class of which he or she is a member. Only after membership in such a class is established will equal protection scrutiny be invoked. Then, only if there is no rational basis for the differentiation among the various class members will a reviewing court find an equal protection violation.
+Handley's test is met here. People who commit the crime of rendering criminal assistance in the first degree are similarly situated, and the Legislature has divided such people into two classes: relatives and nonrelatives. However, this classification is rational. Human family relationships involve strong emotional ties. These ties may cause or influence the conduct of relatives who render criminal assistance, whereas that will not be true for nonrelatives who render criminal assistance. Because of this difference, it is rational to view relatives as being less culpable than nonrelatives, and to differentiate relatives when prescribing the punishment for rendering criminal assistance.
+Affirmed.
+Petrich, A.C.J., and Alexander, J., concur.
+Review denied at 118 Wn.2d 1021 (1992).
+Paraphrased, one instruction stated that the jury could convict only if it found beyond a reasonable doubt that Anderson had knowledge, when he assisted Wilson, of the fact that Wilson had committed robbery in the first degree. Paraphrased, the other instruction stated that Anderson could be deemed to have knowledge of Wilson committing first degree robbery if Anderson knew that Wilson had committed robbery while armed with a deadly weapon or while displaying what appeared to be a deadly weapon.
+Because there is ample evidence that Anderson knew that Wilson had committed robbery, we need not decide whether knowledge would be sufficient to support conviction if it were mistaken or nonspecific. By mistaken knowledge, we mean a belief that the principal committed one crime when in fact he committed a different crime. By nonspecific knowledge, we mean knowledge that the principal committed a crime but no knowledge concerning what the crime was.
+Anderson does not contend that he is a member of a suspect class.
