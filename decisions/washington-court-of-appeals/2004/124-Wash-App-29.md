@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21628-4-III"
 decided: "2004-07-27"
-citations: ["124 Wash. App. 29", "122 Wash. App. 1043"]
+citations: ["124 Wash. App. 29"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Weber Construction, Inc., Appellant, v. Spokane County, Respondent."]
 source_url: "https://static.case.law/wash-app/124/cases/0029-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684076
-cites_cases: ["116 Wn. App. 1007", "124 Wn. App. 29", "134 Wn.2d 24", "144 Wn.2d 172", "150 Wn.2d 375", "154 Wn.2d 1006", "23 P.3d 440", "78 P.3d 161", "948 P.2d 816"]
+cites_cases: ["116 Wn. App. 1007", "134 Wn.2d 24", "144 Wn.2d 172", "150 Wn.2d 375", "154 Wn.2d 1006", "23 P.3d 440", "78 P.3d 161", "948 P.2d 816"]
 ---
 
 # Weber Construction, Inc. v. Spokane County
