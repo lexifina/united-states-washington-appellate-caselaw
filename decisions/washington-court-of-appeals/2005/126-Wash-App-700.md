@@ -1,0 +1,75 @@
+---
+court: "Washington Court of Appeals"
+docket: "53064-0-I"
+decided: "2005-04-04"
+citations: ["126 Wash. App. 700"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Vernon Keith Griffin, Appellant."]
+source_url: "https://static.case.law/wash-app/126/cases/0700-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1016162
+cites_cases: ["109 Wn. App. 558", "109 Wn.2d 796", "117 Cal. App. 4th 931", "12 Cal. Rptr. 3d 193", "122 Wn. App. 448", "122 Wn. App. 725", "131 Wn.2d 853", "135 Wn.2d 835", "140 Wn.2d 362", "303 U.S. 391", "36 P.3d 1080", "363 U.S. 603", "372 U.S. 144", "490 U.S. 435", "514 P.2d 1052", "518 U.S. 267", "522 U.S. 93", "530 U.S. 466", "542 U.S. 296", "749 P.2d 142", "82 Wn.2d 872", "85 Wn. App. 271", "88 Wn. App. 781", "92 Wn. App. 165", "932 P.2d 665", "935 P.2d 1334", "94 P.3d 1002", "94 P.3d 345", "946 P.2d 1196", "95 Wn. App. 127", "959 P.2d 1077", "963 P.2d 911", "974 P.2d 879", "997 P.2d 350"]
+---
+
+# State v. Griffin
+
+## Majority (Grosse, J.)
+
+¶1 Under RCW 46.20.285(4), the Department of Licensing must revoke the driver’s license of a criminal defendant who uses a motor vehicle in the commission of a felony. But the revocation of a driver’s license under this provision does not constitute punishment for constitutional purposes. Accordingly, the trial court’s finding that appellant Vernon Griffin used a motor vehicle in the commission of a felony did not increase the statutory maximum sentence for purposes of Apprendi v. New Jersey and Blakely v. Washington. Because the trial court’s finding did not violate Griffin’s due process or Sixth Amendment rights, we affirm his conviction for one count of possession of cocaine.
+Grosse, J.
+FACTS
+¶2 On November 30, 2002, a city of Everett police officer stopped Griffin for erratic driving. After learning Griffin’s identity, the officer arrested him on outstanding warrants. Officers later found crack cocaine in Griffin’s hat and in his sock. After being advised of his rights, Griffin explained to the officer that he had received the cocaine in exchange for giving someone a ride from Lynnwood to Everett.
+¶3 Griffin was charged with one count of possession of cocaine. On March 26, 2003, he agreed to enter into the Snohomish County Drug Court (CHART) program. Under the terms of the agreement, the State would dismiss the charge if Griffin successfully completed the program. Griffin agreed that if he was terminated from the program, the trial judge could determine his guilt or innocence of the charge on the basis of documentary evidence submitted by the State.
+f4 On August 13, 2003, after he repeatedly failed to appear for treatment, the trial court terminated Griffin from the CHART program. The court then found Griffin guilty of possession of cocaine and imposed a standard-range sentence. Based on the trial court’s finding that Griffin had a used a motor vehicle in the commission of the offense, the Department of Licensing is required to revoke his driver’s license for one year once the conviction becomes final. See RCW 46.20.285(4).
+ANALYSIS
+¶5 Under Apprendi v. New Jersey, any fact that increases the penalty for a crime beyond the “statutory maximum” must be proved to a jury beyond a reasonable doubt. In Blakely v. Washington, the Court defined the term “statutory maximum” for Apprendi purposes to be “the maximum sentence a judge may impose solely on the basis of the facts reflected in the jury verdict or admitted by the defendant.” Griffin contends that the trial court impermissibly increased his sentence beyond the “statutory maximum” when it found he used a motor vehicle during the offense because that finding mandates a one-year driver’s license revocation in addition to the other terms of his sentence.
+¶6 But Griffin’s argument assumes, without any discussion, that license revocation constitutes an additional penalty or “punishment” for purposes of Apprendi and Blakely. We find no authority supporting such a proposition.
+¶7 In order to determine whether a particular penalty is criminal or civil, we look initially to the relevant statute and legislative intent. If the legislature intended a particular penalty to be punishment, no further inquiry is required. A statute indicating retributive or deterrent goals suggests a criminal penalty; if a statute “may fairly be characterized as remedial and the sanction bears a rational relation to the remedial purpose, it is not punitive.” If a statute contains no explicit expression of intent, we look to the statute’s underlying purpose.
+¶8 RCW 46.20.285, which is located in a portion of chapter 46.20 RCW titled “Restricting the Driving Privilege,” mandates the revocation of a driver’s license following the defendant’s commission of a variety of offenses, all of which involve the use of a motor vehicle. RCW 46.20.285(4), at issue here, does not authorize revocation following any felony, but is restricted to situations in which the defendant used a motor vehicle in the commission of a felony.
+¶9 Although neither side has directed our attention to any specific expression of legislative intent regarding RCW 46.20.285, the general rule in Washington has long been “the suspension or revocation of a driver’s license is not penal in nature and is not intended as punishment, but is designed solely for the protection of the public in the use of the highways.” People who use a motor vehicle in the commission of a serious crime create an increased risk of harm to other motorists and members of the public. RCW 46.29.285(4) effectuates a remedial purpose by removing from the public highways those drivers who have demonstrated a willingness to commit serious offenses directly related to their use of a vehicle. Under the circumstances, we conclude that the purpose of RCW 46.20.285(4) is remedial.
+¶10 In State v. Hopkins, this court held that license revocation under former RCW 46.61.5055(1) (1998), which provided for differing periods of revocation depending on the alcohol concentration level of a person convicted for the first time of driving while under the influence, constituted a criminal penalty for purposes of Apprendi. But the court’s holding rested on the clear and unambiguous language of the statute, which specified that a person convicted of driving under the influence for the first time “ ‘shall be punished as follows.’ RCW 46.20.285 contains no comparable expression of legislative intent.
+f 11 But even if a statutory penalty is intended to be civil with a remedial purpose, this court must also consider whether it is “ ‘so punitive in form and effect’ ” as to constitute criminal punishment. This determination rests on a variety of factors:
+(1) whether the sanction involves an affirmative disability or restraint; (2) whether it has historically been regarded as punishment; (3) whether it comes into play only on a finding of scienter; (4) whether its operation will promote the traditional aims of punishment — retribution and deterrence; (5) whether the behavior to which it applies is already a crime; (6) whether an alternative purpose to which it may rationally be connected is assignable for it; and (7) whether it appears excessive in relation to the alternative purpose.[]
+No one factor is dispositive.
+f 12 Although clearly a significant burden, license revocation does not amount to an affirmative disability, which generally requires a showing of something “approaching the ‘infamous punishment’ of imprisonment.” As already indicated, courts in Washington have historically concluded that license revocation does not amount to criminal punishment. Revocation does not rest solely on a finding of scienter, and the mere fact that revocation is based on criminal conduct does not create a criminal penalty. We recognize that a one-year license revocation may have some deterrent effect, but deterrence serves both civil and criminal goals and this factor is therefore not determinative. Finally, revocation effectuates the rational, nonpunitive goal of protecting the motoring public. Although a one-year revocation is a significant penalty, we conclude that it is not excessive in relation to its purpose. Whether a sanction constitutes punishment is not determined from the defendant’s perspective because “ Tor the defendant even remedial sanctions carry the sting of punishment.’ ”
+¶13 The foregoing factors, on balance, do not establish that license revocation is sufficiently punitive in form and effect as to amount to criminal punishment for constitutional purposes. Our conclusion is also consistent with prior Washington decisions that have held that license revocation is not punishment for purposes of double jeopardy. Griffin has not identified any authority that distinguishes between punishment for purposes of due process and the right to a jury trial and punishment for purposes of double jeopardy. Accordingly, because license revocation under RCW 46.20.285(4) is not punishment, the trial court’s finding did not violate Griffin’s due process and Sixth Amendment rights under Apprendi and Blakely .
+¶14 Griffin next contends that, in any event, the evidence was insufficient to support the trial court’s finding that he used a vehicle in the commission of the offense. He argues that because he concealed the cocaine in his clothing and not in the car, any use of the car was merely incidental to the possession, and the evidence was therefore insufficient to establish that he “used” the car in the commission of the offense.
+¶15 When the underlying conviction is a possessory felony, RCW 46.20.285(4) requires that the possession “have some reasonable relation to the operation of a motor vehicle or . . . the use of the motor vehicle must contribute in some reasonable degree to the commission of the felony.” In this case, the evidence indicated that Griffin had obtained the cocaine in exchange for giving someone a ride in the car. The use of the car therefore contributed directly to Griffin’s commission of the crime and was sufficient to support the trial court’s finding.
+¶16 Finally, Griffin contends that RCW 43.43.754, which required him to provide a biological sample for DNA (deoxyribonucleic acid) identification, violated his Fourth Amendment right against unreasonable searches. This issue is controlled byour recent decision in State v. Surge, in which we rejected an identical argument.
+¶17 Affirmed.
+Cox, C.J., concurs.
+530 U.S. 466, 120 S. Ct. 2348, 147 L. Ed. 2d 435 (2000)
+542 U.S. 296, 124 S. Ct. 2531, 159 L. Ed. 2d 403 (2004).
+Apprendi, 530 U.S. at 490.
+Blakely, 542 U.S. at 303.
+Hudson v. United States, 522 U.S. 93, 99, 118 S. Ct. 488, 139 L. Ed. 2d 450 (1997); In re Pers. Restraint of Metcalf, 92 Wn. App. 165, 963 P.2d 911 (1998).
+Metcalf, 92 Wn. App. at 178.
+Metcalf, 92 Wn. App. at 178.
+State v. Scheffel, 82 Wn.2d 872, 879, 514 P.2d 1052 (1973); see also State v. Hopkins, 109 Wn. App. 558, 565, 36 P.3d 1080 (2001).
+See Rowe v. Dep’t of Licensing, 88 Wn. App. 781, 946 P.2d 1196 (1997) (suspension of minor’s driver’s license following minor in possession of alcohol conviction served remedial purpose of protecting the public from drinking-and-driving minors).
+109 Wn. App. 558, 36 P.3d 1080 (2001).
+Hopkins, 109 Wn. App. at 563 (quoting former RCW 46.61.5055(1)).
+Hudson, 522 U.S. at 104 (quoting United States v. Ursery, 518 U.S. 267, 290, 116 S. Ct. 2135, 135 L. Ed. 2d 549 (1996)); Metcalf, 92 Wn. App. at 178.
+Metcalf, 92 Wn. App. at 180 (citing Kennedy v. Mendoza-Martinez, 372 U.S. 144, 168-69, 83 S. Ct. 554, 9 L. Ed. 2d 644 (1963)).
+See Winchester v. Stein, 135 Wn.2d 835, 853, 959 P.2d 1077 (1998).
+Hudson, 522 U.S. at 104 (quoting Flemming v. Nestor, 363 U.S. 603, 617, 80 S. Ct. 1367, 4 L. Ed. 2d 1435 (1960) (monetary sanctions and occupational debarment do not impose affirmative disability or restraint)).
+See also Hudson, 522 U.S. at 104 (“ ‘revocation of a privilege voluntarily granted,’ such as [an occupational] debarment, ‘is characteristically free of the punitive criminal element’ ”) (quoting Helvering v. Mitchell, 303 U.S. 391, 399, 58 S. Ct. 630, 82 L. Ed. 917 (1938)).
+Hudson, 522 U.S. at 105; see also Winchester, 135 Wn.2d at 852.
+Hudson, 522 U.S. at 105.
+See O’Day v. King County, 109 Wn.2d 796, 818, 749 P.2d 142 (1988) (one-year revocation of topless dancing license did not negate remedial intention of ordinance).
+State v. McClendon, 131 Wn.2d 853, 867, 935 P.2d 1334 (1997) (quoting United States v. Halper, 490 U.S. 435, 447 n.7, 109 S. Ct. 1892, 104 L. Ed. 2d 487 (1989)).
+See Metcalf, 92 Wn. App. at 180-81.
+See McClendon, 131 Wn.2d at 869; Williams v. Dep’t of Licensing, 85 Wn. App. 271, 277, 932 P.2d 665 (1997); Scheffel, 82 Wn.2d at 877.
+See In re Jorge G., 117 Cal. App. 4th 931, 12 Cal. Rptr. 3d 193 (2004) (“punishment” for due process purposes under Apprendi involves same analysis as “punishment” for purposes of ex post facto).
+Because we conclude that the trial court’s finding did not increase the statutory maximum sentence, we do not address the State’s claim that Griffin waived his right to have the jury make factual determinations or that he stipulated to the facts when he stipulated that the trial court could determine his guilt on the basis of police reports and other documentary materials.
+State v. Batten, 95 Wn. App. 127, 131, 974 P.2d 879 (1999) (defendant’s use of vehicle to conceal a handgun created sufficient nexus between possessory crime and use of vehicle to satisfy requirements of RCW 46.20.285(4)), aff’d, 140 Wn.2d 362, 997 P.2d 350 (2000).
+122 Wn. App. 448, 94 P.3d 345 (2004).
+See also State v. S.S., 122 Wn. App. 725, 94 P.3d 1002 (2004) (cheek swabs are authorized method of collecting biological samples for the DNA databank).
+
+## Concurrence (Becker, J.)
+
+¶18 (concurring in result) — In the circumstances of this case, the license revocation did not constitute punishment. However, the majority opinion should not be interpreted as holding that a license revocation can never be a criminal sanction. The cases cited by the majority, which arise from administrative licensing proceedings, “show only that license revocation is a civil sanction when it is imposed as the result of an administrative proceeding, or as the result of a proceeding undertaken for the sole purpose of restricting a person’s privilege to drive. They do not hold that license revocation is inherently a civil sanction.” State v. Hopkins, 109 Wn. App. 558, 566, 36 P.3d 1080 (2001). For example, if a statutory scheme creates the possibility of both a civil and criminal license revocation proceeding arising from the same arrest, precedent does not require that both revocations be regarded as civil sanctions. Hopkins, 109 Wn. App. at 567.
+Becker, J.
+¶19 Because the statute in this case does not manifest any legislative intent to use license revocation as a punishment, I conclude along with the majority that the finding did not increase the statutory maximum sentence.
