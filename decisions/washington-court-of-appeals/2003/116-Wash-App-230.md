@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27658-5-II; 27669-1-II"
 decided: "2003-02-07"
-citations: ["116 Wash. App. 230", "115 Wash. App. 1026"]
+citations: ["116 Wash. App. 230"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Donna Rotko, et al., Appellan
 source_url: "https://static.case.law/wash-app/116/cases/0230-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265790
-cites_cases: ["106 Wn.2d 514", "108 Wn. App. 24", "108 Wn.2d 419", "111 Wn.2d 641", "115 Wn.2d 1025", "115 Wn.2d 445", "116 Wn. App. 230", "116 Wn.2d 315", "117 Wn.2d 701", "118 Wn.2d 596", "119 Wn.2d 192", "119 Wn.2d 390", "122 Wn.2d 688", "124 Wn.2d 1009", "128 Wn.2d 323", "131 Wn.2d 1012", "145 Wn.2d 1022", "29 P.3d 42", "384 U.S. 43", "429 U.S. 492", "501 U.S. 1237", "58 Wn. App. 478", "616 P.2d 628", "64 Wn. App. 634", "72 Wn. App. 733", "723 P.2d 1117", "739 P.2d 683", "74 Wn. App. 580", "762 P.2d 1127", "794 P.2d 38", "799 P.2d 244", "804 P.2d 10", "818 P.2d 1088", "82 Wn. App. 153", "825 P.2d 357", "826 P.2d 172", "829 P.2d 1068", "83 Wn. App. 477", "832 P.2d 481", "837 P.2d 599", "86 S. Ct. 1602", "861 P.2d 460", "866 P.2d 648", "875 P.2d 651", "907 P.2d 1196", "916 P.2d 960", "922 P.2d 157", "94 Wn.2d 216"]
+cites_cases: ["106 Wn.2d 514", "108 Wn. App. 24", "108 Wn.2d 419", "111 Wn.2d 641", "115 Wn.2d 1025", "115 Wn.2d 445", "116 Wn.2d 315", "117 Wn.2d 701", "118 Wn.2d 596", "119 Wn.2d 192", "119 Wn.2d 390", "122 Wn.2d 688", "124 Wn.2d 1009", "128 Wn.2d 323", "131 Wn.2d 1012", "145 Wn.2d 1022", "29 P.3d 42", "384 U.S. 43", "429 U.S. 492", "501 U.S. 1237", "58 Wn. App. 478", "616 P.2d 628", "64 Wn. App. 634", "72 Wn. App. 733", "723 P.2d 1117", "739 P.2d 683", "74 Wn. App. 580", "762 P.2d 1127", "794 P.2d 38", "799 P.2d 244", "804 P.2d 10", "818 P.2d 1088", "82 Wn. App. 153", "825 P.2d 357", "826 P.2d 172", "829 P.2d 1068", "83 Wn. App. 477", "832 P.2d 481", "837 P.2d 599", "86 S. Ct. 1602", "861 P.2d 460", "866 P.2d 648", "875 P.2d 651", "907 P.2d 1196", "916 P.2d 960", "922 P.2d 157", "94 Wn.2d 216"]
 ---
 
 # State v. Rotko
