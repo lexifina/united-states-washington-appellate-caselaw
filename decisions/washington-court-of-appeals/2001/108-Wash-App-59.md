@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "19228-8-III"
+decided: "2001-08-21"
+citations: ["108 Wash. App. 59"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. George Ralph Moon, Jr., Appellant."]
+source_url: "https://static.case.law/wash-app/108/cases/0059-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 321362
+cites_cases: ["103 Wn. App. 487", "105 Wn. App. 572", "110 Wn.2d 528", "118 Wn.2d 37", "12 P.3d 1036", "129 Wn.2d 635", "130 Wn.2d 464", "138 Wn.2d 298", "143 Wn.2d 1", "17 P.3d 591", "20 P.3d 1010", "46 Wn. App. 333", "730 P.2d 712", "756 P.2d 122", "820 P.2d 505", "919 P.2d 1228", "925 P.2d 183", "979 P.2d 417"]
+---
+
+# State v. Moon
+
+## Majority (Kurtz, C. J.)
+
+Kurtz, C. J.
+George R. Moon, Jr., pleaded guilty to first degree rape. Prior to his plea, he was informed of an incorrect sentencing range for his conviction. The correct sentencing range, discovered after the plea was entered, was actually lower than the range that was given to Mr. Moon. After Mr. Moon discovered this error, he moved to withdraw his plea. The court refused to allow Mr. Moon to withdraw his plea. We reverse because Mr. Moon entered a plea based on misinformation and he is entitled to either specifically enforce the plea agreement or withdraw his guilty plea.
+FACTS
+Mr. Moon entered a guilty plea to the charge of first degree rape. At his change of plea hearing, the court informed Mr. Moon that his standard sentence range was 209 to 277 months. This information was also reflected in the plea agreement. The agreement stated that the prosecutor would recommend a sentence of 209 months.
+At this hearing, the court asked Mr. Moon if he understood the contents of the plea. Specifically, the court asked Mr. Moon if he understood that the standard range sentencing for the crime was 209 to 277 months. Mr. Moon stated that he understood. The court also asked, “Now, do you understand that the judge who sentences you can sentence you to the top of that sentence range, which is 277 months?” Report of Proceedings (RP) (Dec. 21, 1999) at 4. Again, Mr. Moon indicated he understood. The court concluded that a factual basis existed for the plea and deemed the plea was freely and voluntarily made.
+Two months later, Mr. Moon filed a written motion and declaration, requesting withdrawal of his guilty plea and the appointment of new counsel, contending that his attorney withheld information and moved too fast.
+Sometime after the entry of his plea, Mr. Moon learned that his offender score had been improperly calculated. If the correct offender score was utilized,. Mr. Moon’s sentencing range was 175 to 236 months, instead of 209 to 277 months. Mr. Moon moved for an order authorizing the withdrawal of his guilty plea. The State objected, arguing that the mistake benefited Mr. Moon and, accordingly, he could not demonstrate a manifest injustice. The State reiterated its initial offer to recommend a sentence at the low end of the standard range, which was 175 months.
+The court rejected Mr. Moon’s request for authority to withdraw his guilty plea. The court sentenced Mr. Moon to 236 months based on his extensive criminal history and based upon the “horrific” facts. RP (Mar. 14, 2000) at 10. Mr. Moon appeals.
+ANALYSIS
+“We review the trial court’s denial of a motion to withdraw a plea for an abuse of discretion.” State v. Jamison, 105 Wn. App. 572, 589-90, 20 P.3d 1010 (2001). “A court abuses its discretion if its decision is based on clearly untenable or manifestly unreasonable grounds.” Id. at 590.
+Under CrR 4.2(d) the court “ ‘shall not accept a plea of guilty, without first determining that it is made voluntarily, competently and with an understanding of the nature of the charge and the consequences of the plea.’ ” State v. Walsh, 143 Wn.2d 1, 5-6,17 P.3d 591 (2001) (quoting CrR 4.2(d)). A strong public interest supports enforcement of plea agreements that are voluntarily and intelligently made. Id. at 6; In re Pers. Restraint of Breedlove, 138 Wn.2d 298, 309, 979 P.2d 417 (1999).
+“However, a trial court must allow withdrawal of a guilty plea ‘to correct a manifest injustice.’ ” Walsh, 143 Wn.2d at 6 (quoting CrR 4.2(f)). A manifest injustice is described as “ ‘ “an injustice that is obvious, directly observable, overt, not obscure.” ’ ” State v. Paul, 103 Wn. App. 487, 494, 12 P.3d 1036 (2000) (quoting State v. Branch, 129 Wn.2d 635, 641, 919 P.2d 1228 (1996)). Such an injustice occurs when (1) the defendant has been denied effective assistance of counsel; (2) the defendant or one authorized by the defendant did not ratify the plea; (3) the plea was involuntary; or (4) the prosecution breached the plea agreement. State v. Wakefield, 130 Wn.2d 464, 472, 925 P.2d 183 (1996) (citing State v. Saas, 118 Wn.2d 37, 42, 820 P.2d 505 (1991)).
+Mr. Moon claims that his plea was involuntary because he was informed of an incorrect standard sentencing range. “An involuntary plea constitutes a manifest injustice.” Paul, 103 Wn. App. at 494. A plea is involuntary if it is not made with an understanding of all the direct consequences of the plea. CrR 4.2(d); Paul, 103 Wn. App. at 494-95. One direct consequence of a plea is the sentencing range. Paul, 103 Wn. App. at 495.
+When a plea agreement is involuntary based on mutual mistake about the standard range of the sentence, the defendant may choose to either specifically enforce the plea agreement, or to withdraw the plea. Walsh, 143 Wn.2d at 8-9. “The defendant’s choice of remedy does not control, however, if there are compelling reasons not to allow that remedy.” Walsh, 143 Wn.2d at 9. The State bears the burden of showing the defendant’s choice of remedy is unjust. State v. Miller, 110 Wn.2d 528, 536, 756 P.2d 122 (1988).
+If a defendant enters a guilty plea based on a prosecutor’s erroneous advice that the standard sentencing range was lower than it actually was, the defendant must be permitted to withdraw his plea. State v. Perkins, 46 Wn. App. 333, 338, 730 P.2d 712 (1986), disapproved on other grounds by Miller, 110 Wn.2d 528.
+In Walsh, both the defense and prosecution mistakenly understood that based on Mr. Walsh’s criminal history, the standard range for sentencing was 86 to 114 months. After the plea hearing and prior to sentencing, the offender score was recalculated, resulting in a standard range that was higher, 95 to 125 months. At the sentencing, Mr. Walsh himself was not advised of the change in the standard range. Later, he appealed. The Supreme Court held that Mr. Walsh was entitled to withdraw his plea based on the mutual mistake about the sentencing range. Walsh, 143 Wn.2d at 9-10.
+In this case, Mr. Moon was given an incorrect sentencing range. Nowhere does it appear that Mr. Moon was advised that the range given was incorrect or was tentative. Under Walsh, when a mutual mistake occurs regarding a standard sentence range, a defendant may choose to either specifically enforce the plea agreement, or to withdraw the plea.
+The State argues that Mr. Moon cannot show he was prejudiced by the mistake, because, unlike the cited cases, Mr. Moon’s standard range was below, not above, the range he was told. It is true that the cases cited involve the situation where a defendant was informed of a lower standard range, only to discover after the plea that the standard range was higher. However, the cases do not make this distinction. In other words, the cases simply state that where a plea agreement is based on “misinformation,” the defendant may choose his remedy. Walsh, 143 Wn.2d at 8-9. This choice of remedy is not limited to the situation where the defendant is informed of a standard range and subsequently becomes aware that the range is greater. Rather, the remedy is triggered when the defendant enters a plea that is based on misinformation. Because Mr. Moon entered a plea based on misinformation, he is entitled to either specifically enforce the plea agreement or withdraw his guilty plea, subject to the State’s right to present evidence of compelling reasons not to allow Mr. Moon’s choice of remedy. Miller, 110 Wn.2d at 535.
+Reverse.
+Schultheis, J., concurs.
+
+## Concurrence (Brown, J.)
+
+Brown, J.
+(concurring) — Under State v. Miller, 110 Wn.2d 528, 535, 756 P.2d 122 (1988), I agree George R. Moon, Jr., is entitled to withdraw his plea because his plea was not knowingly made. I write separately to emphasize two points.
+First, the risk management decisions of a defendant inherent in plea bargaining bear equally in situations where, as here, the correct standard range is lower than the mistaken standard range upon which a plea is entered. A defendant may evaluate the risks of trial versus guilty plea far differently if faced with a 12-month plus one day bottom of the standard range, rather than a 120-month bottom of the standard range. Thus, contrary to the State’s argument, we logically should not intrude upon a personal decision-making process based upon known risks.
+Second, under Miller, the State has the opportunity on remand to present evidence of compelling reasons not to allow Mr. Moon’s particular choice of remedy. Miller, 110 Wn.2d at 535. Generally, Mr. Moon’s choice controls unless, under the circumstances presented at remand, his “choice of remedy would be unfair to other parties.” Id.
+For example, a defendant’s choice of specific performance as a remedy for a plea agreement in violation of the Sentencing Reform Act of 1981 may be unfair if the violation was caused by misinformation provided by the defendant. Similarly, the choice of plea withdrawal may be unfair if the prosecutor has detrimentally relied on the bargain and has lost essential witnesses or evidence.
+Miller, 110 Wn.2d at 535 (citation omitted).
+Accordingly, I concur.
