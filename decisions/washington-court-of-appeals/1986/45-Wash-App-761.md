@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16176-8-I"
 decided: "1986-09-29"
-citations: ["45 Wash. App. 761", "45 Wash. App. 1017"]
+citations: ["45 Wash. App. 761"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Dwight Anthony Summers, Appel
 source_url: "https://static.case.law/wash-app/45/cases/0761-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809411
-cites_cases: ["14 Wn. App. 326", "30 Wn. App. 714", "35 Wn. App. 216", "45 Wn. App. 761", "459 P.2d 400", "541 P.2d 998", "567 P.2d 1136", "616 P.2d 628", "637 P.2d 994", "666 P.2d 381", "77 Wn.2d 27", "88 Wn.2d 899", "94 Wn.2d 216"]
+cites_cases: ["14 Wn. App. 326", "30 Wn. App. 714", "35 Wn. App. 216", "459 P.2d 400", "541 P.2d 998", "567 P.2d 1136", "616 P.2d 628", "637 P.2d 994", "666 P.2d 381", "77 Wn.2d 27", "88 Wn.2d 899", "94 Wn.2d 216"]
 ---
 
 # State v. Summers
