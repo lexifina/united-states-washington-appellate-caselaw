@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30359-7-I"
 decided: "1993-04-19"
-citations: ["69 Wash. App. 852", "69 Wash. App. 1044"]
+citations: ["69 Wash. App. 852"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Thomas O. Sellsted, Appellant, v. Washington Mutual Savings Bank, Res
 source_url: "https://static.case.law/wash-app/69/cases/0852-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1700446
-cites_cases: ["110 Wn.2d 355", "112 S. Ct. 141", "113 Wn.2d 346", "114 Wn.2d 1026", "117 Wn.2d 805", "122 Wn.2d 1018", "29 U.S.C. §§ 621", "411 U.S. 792", "431 U.S. 324", "438 U.S. 567", "450 U.S. 248", "469 U.S. 111", "474 U.S. 1057", "483 U.S. 1052", "484 U.S. 979", "488 U.S. 1004", "568 P.2d 764", "57 Wn. App. 79", "57 Wn. App. 876", "600 F.2d 1003", "65 Wn. App. 93", "666 F. Supp. 1223", "68 Wn. App. 817", "69 Wn. App. 852", "75 L. Ed. 2d 403", "753 P.2d 517", "760 F.2d 633", "766 F.2d 788", "779 F.2d 170", "779 P.2d 697", "786 P.2d 839", "790 P.2d 1258", "812 F.2d 834", "814 F.2d 893", "818 P.2d 1362", "827 F.2d 363", "827 P.2d 1070", "846 P.2d 1380", "88 Wn.2d 887", "928 F.2d 575"]
+cites_cases: ["110 Wn.2d 355", "112 S. Ct. 141", "113 Wn.2d 346", "114 Wn.2d 1026", "117 Wn.2d 805", "122 Wn.2d 1018", "29 U.S.C. §§ 621", "411 U.S. 792", "431 U.S. 324", "438 U.S. 567", "450 U.S. 248", "469 U.S. 111", "474 U.S. 1057", "483 U.S. 1052", "484 U.S. 979", "488 U.S. 1004", "568 P.2d 764", "57 Wn. App. 79", "57 Wn. App. 876", "600 F.2d 1003", "65 Wn. App. 93", "666 F. Supp. 1223", "68 Wn. App. 817", "75 L. Ed. 2d 403", "753 P.2d 517", "760 F.2d 633", "766 F.2d 788", "779 F.2d 170", "779 P.2d 697", "786 P.2d 839", "790 P.2d 1258", "812 F.2d 834", "814 F.2d 893", "818 P.2d 1362", "827 F.2d 363", "827 P.2d 1070", "846 P.2d 1380", "88 Wn.2d 887", "928 F.2d 575"]
 ---
 
 # Sellsted v. Washington Mutual Savings Bank
