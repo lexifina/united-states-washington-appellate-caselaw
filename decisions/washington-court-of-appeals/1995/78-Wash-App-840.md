@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33781-5-I"
 decided: "1995-07-24"
-citations: ["78 Wash. App. 840", "78 Wash. App. 1055"]
+citations: ["78 Wash. App. 840"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Rick Bjarnson, Appellant, v. Kitsap County, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/78/cases/0840-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 426628
-cites_cases: ["116 Wn.2d 477", "122 Wn.2d 1027", "38 Wn. App. 630", "41 Wn. App. 515", "573 P.2d 359", "60 Wn. App. 949", "65 Wn. App. 614", "662 P.2d 816", "689 P.2d 1084", "70 Wn. App 389", "704 P.2d 1242", "71 Wn. App. 367", "78 Wn. App. 840", "805 P.2d 800", "808 P.2d 750", "829 P.2d 217", "853 P.2d 945", "859 P.2d 610", "89 Wn.2d 454", "99 Wn.2d 363"]
+cites_cases: ["116 Wn.2d 477", "122 Wn.2d 1027", "38 Wn. App. 630", "41 Wn. App. 515", "573 P.2d 359", "60 Wn. App. 949", "65 Wn. App. 614", "662 P.2d 816", "689 P.2d 1084", "70 Wn. App 389", "704 P.2d 1242", "71 Wn. App. 367", "805 P.2d 800", "808 P.2d 750", "829 P.2d 217", "853 P.2d 945", "859 P.2d 610", "89 Wn.2d 454", "99 Wn.2d 363"]
 ---
 
 # Bjarnson v. Kitsap County
