@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38962-9-I"
 decided: "1998-05-18"
-citations: ["92 Wash. App. 394", "90 Wash. App. 1053"]
+citations: ["92 Wash. App. 394"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Housing Resource Group, Respondent, v. Kevin Price, Appellant."]
 source_url: "https://static.case.law/wash-app/92/cases/0394-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853331
-cites_cases: ["114 Wn.2d 558", "116 Wn.2d 575", "127 Wn.2d 1004", "137 Wn.2d 1010", "24 C.F.R. § 982.309", "245 P.2d 217", "27 Wash. 656", "34 P. 469", "40 Wn.2d 599", "49 Wn. App. 229", "591 A.2d 856", "656 P.2d 473", "68 P. 329", "7 Wash. 81", "742 P.2d 168", "77 Wn. App. 90", "789 P.2d 745", "80 Wn. App. 724", "807 P.2d 363", "817 F.2d 484", "84 Wn. App. 56", "890 P.2d 491", "911 P.2d 406", "92 Wn. App. 394", "925 P.2d 217", "98 Wn.2d 410"]
+cites_cases: ["114 Wn.2d 558", "116 Wn.2d 575", "127 Wn.2d 1004", "137 Wn.2d 1010", "24 C.F.R. § 982.309", "245 P.2d 217", "27 Wash. 656", "34 P. 469", "40 Wn.2d 599", "49 Wn. App. 229", "591 A.2d 856", "656 P.2d 473", "68 P. 329", "7 Wash. 81", "742 P.2d 168", "77 Wn. App. 90", "789 P.2d 745", "80 Wn. App. 724", "807 P.2d 363", "817 F.2d 484", "84 Wn. App. 56", "890 P.2d 491", "911 P.2d 406", "925 P.2d 217", "98 Wn.2d 410"]
 ---
 
 # Housing Resource Group v. Price
