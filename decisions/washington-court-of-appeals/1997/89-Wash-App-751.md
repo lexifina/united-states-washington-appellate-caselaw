@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39475-4-I"
 decided: "1997-11-24"
-citations: ["89 Wash. App. 751", "88 Wash. App. 1039"]
+citations: ["89 Wash. App. 751"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Yong Rip Ludeman, Appellant, v. The Department of Health, Respondent.
 source_url: "https://static.case.law/wash-app/89/cases/0751-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 394932
-cites_cases: ["106 Wn.2d 54", "107 F.3d 19", "108 Wn.2d 299", "113 S. Ct. 2849", "114 S. Ct. 1937", "117 Wn.2d 720", "118 S. Ct. 624", "118 Wn.2d 801", "120 Wn.2d 1020", "121 Wn.2d 552", "125 L. Ed. 2d 556", "125 Wn.2d 769", "127 Wn.2d 595", "127 Wn.2d 95", "131 Wn.2d 1016", "131 Wn.2d 853", "132 Wn.2d 1004", "132 Wn.2d 182", "132 Wn.2d 248", "169 Ill. 2d 260", "207 Ill. Dec. 279", "214 Ill. Dec. 475", "284 U.S. 299", "33 F.3d 1210", "431 P.2d 961", "490 U.S. 435", "509 U.S. 688", "511 U.S. 767", "518 U.S. 1006", "518 U.S. 267", "519 U.S. 1118", "519 U.S. 806", "520 U.S. 1121", "59 F.3d 568", "646 N.E.2d 1366", "661 N.E.2d 329", "67 Wn. App. 436", "72 Wn.2d 109", "720 P.2d 808", "738 P.2d 254", "75 Wn. App. 431", "81 Wn. App. 403", "818 P.2d 1062", "828 P.2d 549", "83 Wn. App. 786", "836 P.2d 235", "84 Wn. App. 135", "84 Wn. App. 663", "852 P.2d 295", "87 Wn. App. 197", "872 F. Supp. 817", "877 F. Supp. 519", "878 P.2d 1241", "886 F. Supp. 737", "886 F. Supp. 740", "888 P.2d 155", "89 Wn. App. 751", "896 P.2d 1267", "903 P.2d 433", "909 P.2d 1294", "914 P.2d 750", "92 F.3d 1195", "924 P.2d 375", "925 P.2d 1289", "929 P.2d 510", "935 P.2d 1334", "937 P.2d 1052", "937 P.2d 575", "940 P.2d 269"]
+cites_cases: ["106 Wn.2d 54", "107 F.3d 19", "108 Wn.2d 299", "113 S. Ct. 2849", "114 S. Ct. 1937", "117 Wn.2d 720", "118 S. Ct. 624", "118 Wn.2d 801", "120 Wn.2d 1020", "121 Wn.2d 552", "125 L. Ed. 2d 556", "125 Wn.2d 769", "127 Wn.2d 595", "127 Wn.2d 95", "131 Wn.2d 1016", "131 Wn.2d 853", "132 Wn.2d 1004", "132 Wn.2d 182", "132 Wn.2d 248", "169 Ill. 2d 260", "207 Ill. Dec. 279", "214 Ill. Dec. 475", "284 U.S. 299", "33 F.3d 1210", "431 P.2d 961", "490 U.S. 435", "509 U.S. 688", "511 U.S. 767", "518 U.S. 1006", "518 U.S. 267", "519 U.S. 1118", "519 U.S. 806", "520 U.S. 1121", "59 F.3d 568", "646 N.E.2d 1366", "661 N.E.2d 329", "67 Wn. App. 436", "72 Wn.2d 109", "720 P.2d 808", "738 P.2d 254", "75 Wn. App. 431", "81 Wn. App. 403", "818 P.2d 1062", "828 P.2d 549", "83 Wn. App. 786", "836 P.2d 235", "84 Wn. App. 135", "84 Wn. App. 663", "852 P.2d 295", "87 Wn. App. 197", "872 F. Supp. 817", "877 F. Supp. 519", "878 P.2d 1241", "886 F. Supp. 737", "886 F. Supp. 740", "888 P.2d 155", "896 P.2d 1267", "903 P.2d 433", "909 P.2d 1294", "914 P.2d 750", "92 F.3d 1195", "924 P.2d 375", "925 P.2d 1289", "929 P.2d 510", "935 P.2d 1334", "937 P.2d 1052", "937 P.2d 575", "940 P.2d 269"]
 ---
 
 # Ludeman v. Department of Health
