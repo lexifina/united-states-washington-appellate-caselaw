@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45635-1-I"
 decided: "2001-08-13"
-citations: ["108 Wash. App. 226", "107 Wash. App. 1045"]
+citations: ["108 Wash. App. 226"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
