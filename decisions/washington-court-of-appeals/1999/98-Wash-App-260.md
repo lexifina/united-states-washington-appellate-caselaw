@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42003-8-I"
 decided: "1999-03-01"
-citations: ["98 Wash. App. 260", "94 Wash. App. 1023"]
+citations: ["98 Wash. App. 260"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Harold Friebe, Sr., et al., Appellants, v. James Supancheck, et al., 
 source_url: "https://static.case.law/wash-app/98/cases/0260-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155905
-cites_cases: ["1 Wn.2d 335", "108 Wn.2d 26", "309 P.2d 372", "32 Wn. App. 135", "36 Wn. App. 280", "41 Wn. App. 897", "50 Wn.2d 42", "509 P.2d 661", "599 P.2d 1289", "647 P.2d 35", "673 P.2d 634", "707 P.2d 1367", "71 Wn. App. 69", "735 P.2d 1320", "8 Wn. App. 853", "856 P.2d 725", "92 Wn.2d 576", "96 P.2d 262", "98 Wn. App. 260"]
+cites_cases: ["1 Wn.2d 335", "108 Wn.2d 26", "309 P.2d 372", "32 Wn. App. 135", "36 Wn. App. 280", "41 Wn. App. 897", "50 Wn.2d 42", "509 P.2d 661", "599 P.2d 1289", "647 P.2d 35", "673 P.2d 634", "707 P.2d 1367", "71 Wn. App. 69", "735 P.2d 1320", "8 Wn. App. 853", "856 P.2d 725", "92 Wn.2d 576", "96 P.2d 262"]
 ---
 
 # Friebe v. Supancheck
