@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17059-4-III"
 decided: "1999-02-16"
-citations: ["94 Wash. App. 383", "94 Wash. App. 1002"]
+citations: ["94 Wash. App. 383"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Brent M. Larsen, et al., Respondents, v. The Town of Colton, Defendan
 source_url: "https://static.case.law/wash-app/94/cases/0383-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 82950
-cites_cases: ["103 Wn.2d 1027", "11 Wn. App. 807", "122 Wn.2d 1014", "128 Wn.2d 1003", "132 A.2d 894", "134 Wn.2d 947", "161 P. 68", "183 Pa. Super. 371", "239 Ky. 460", "26 Wn. App. 317", "355 Pa. 364", "371 P.2d 1009", "39 S.W.2d 687", "39 Wn. App. 392", "49 A.2d 626", "510 P.2d 647", "521 P.2d 1181", "525 P.2d 801", "60 Wn.2d 105", "600 P.2d 1276", "613 P.2d 160", "62 Wn. App. 530", "69 Wn. App. 209", "695 P.2d 128", "78 Wn. App. 370", "815 P.2d 790", "82 Wn.2d 321", "83 Wn.2d 714", "847 P.2d 963", "85 Wn.2d 1001", "898 P.2d 319", "92 Wn.2d 726", "93 Wash. 429", "94 Wn. App. 383", "954 P.2d 250"]
+cites_cases: ["103 Wn.2d 1027", "11 Wn. App. 807", "122 Wn.2d 1014", "128 Wn.2d 1003", "132 A.2d 894", "134 Wn.2d 947", "161 P. 68", "183 Pa. Super. 371", "239 Ky. 460", "26 Wn. App. 317", "355 Pa. 364", "371 P.2d 1009", "39 S.W.2d 687", "39 Wn. App. 392", "49 A.2d 626", "510 P.2d 647", "521 P.2d 1181", "525 P.2d 801", "60 Wn.2d 105", "600 P.2d 1276", "613 P.2d 160", "62 Wn. App. 530", "69 Wn. App. 209", "695 P.2d 128", "78 Wn. App. 370", "815 P.2d 790", "82 Wn.2d 321", "83 Wn.2d 714", "847 P.2d 963", "85 Wn.2d 1001", "898 P.2d 319", "92 Wn.2d 726", "93 Wash. 429", "954 P.2d 250"]
 ---
 
 # Larsen v. Town of Colton
