@@ -1,0 +1,69 @@
+---
+court: "Washington Court of Appeals"
+docket: "54080-7-I"
+decided: "2005-01-18"
+citations: ["125 Wash. App. 381"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Detention of Bradley B. Ward, Petitioner."]
+source_url: "https://static.case.law/wash-app/125/cases/0381-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1270041
+cites_cases: ["120 Wn. App. 753", "120 Wn. App. 770", "121 Wn. App. 614", "122 Wn.2d 1", "139 Wn.2d 379", "145 Wn.2d 789", "42 P.3d 952", "857 P.2d 989", "86 P.3d 1202", "86 P.3d 810", "90 P.3d 74", "986 P.2d 790"]
+---
+
+# In re the Detention of Ward
+
+## Majority (Baker, J.)
+
+¶1 — Bradley Ward petitioned the trial court for release from commitment as a sexually violent predator. At the hearing to determine whether probable cause exists to warrant a full trial on the issue, Ward presented a report from an expert who opined that he is not a sexually violent predator. The trial court concluded that Ward did not establish probable cause because, inter alia, the expert relied on changes in diagnostic practices to conclude that Ward had “so changed” under RCW 71.09.090. We hold that new diagnostic practices can be the basis for change under RCW 71.09.090. We further hold that Ward established probable cause, and reverse and remand for trial.
+Baker, J.
+I
+¶2 Bradley Ward was hit by a car and suffered a brain injury when he was 16 years old. After he was released from the hospital, Ward committed numerous sexual offenses, including making 200 obscene phone calls and exposing himself to others in public. Ward was arrested and pleaded guilty to one count of indecent liberties and two counts of public indecency. His sentence included commitment at a school for rehabilitation, community supervision, and sex offender counseling. Ward was later sentenced to jail time for not completing the counseling program. While he was in jail, the State petitioned to have Ward committed as a sexually violent predator under chapter 71.09 RCW.
+|3 In February of 1991, Ward stipulated to being a sexually violent predator and was sent to a special commitment center for treatment. Ward has admitted to committing incest with his younger brother and to molesting at least five female children, their ages ranging from five to nine.
+¶4 In April of 2003, Ward petitioned the court for release from commitment, asserting he did not meet the definition of a sexually violent predator. The court held a show cause hearing to determine whether probable cause exists to warrant a full trial on the issue. The State presented prima facie evidence that Ward remains a sexually violent predator. In response, Ward presented a report by Dr. Wollert, who examined Ward and concluded that he is no longer a sexually violent predator.
+¶5 The superior court denied Ward’s request for a trial and his subsequent motion to reconsider. We granted discretionary review.
+II
+¶6 We review whether evidence meets the probable cause standard de novo.
+¶7 Chapter 71.09 RCW is a civil statute that authorizes the State to involuntarily commit an individual to a secure treatment facility when he is found, after a full trial, to be a sexually violent predator. A sexually violent predator is “any person who has been convicted of or charged with a crime of sexual violence and who suffers from a mental abnormality or personality disorder which makes the person likely to engage in predatory acts of sexual violence if not confined in a secure facility.”
+¶8 Commitment as a sexually violent predator is for an indefinite period. The Department of Social and Health Services must conduct annual reviews to determine if: (1) a detainee’s condition has so changed that he no longer meets the definition of a sexually violent predator, or (2) conditional release to a less restrictive alternative is in the best interest of the detainee and conditions can be imposed to protect the community. Additionally, a committed individual may petition the court annually for conditional release or unconditional discharge. When a detainee exercises his right to petition for release, the court must set a hearing to determine whether probable cause exists to warrant a trial.
+¶9 There are two ways that probable cause may be established at the hearing. Probable cause exists if: (1) the state fails to provide prima facie evidence that the detainee continues to meet the definition of a sexually violent predator; or (2) if the detainee presents evidence that, if believed, shows that he no longer suffers from a mental abnormality or personality disorder or is not likely to engage in predatory acts.
+¶10 Ward petitioned for unconditional discharge. He concedes that the State presented prima facie evidence that his condition has not changed. Therefore, the only issue is whether Dr. Wollert’s report, if believed, was sufficient to establish probable cause that Ward does not currently meet the definition of a sexually violent predator.
+¶11 The superior court concluded that Dr. Wollert incorrectly assumed that Ward’s head injury could not constitute a mental abnormality. Additionally, it concluded that changes in diagnostic practices could not be the basis for change under RCW 71.09.090. The court’s conclusion that a head injury can constitute a mental abnormality may be correct. Regardless, it erred by concluding that changes in diagnostic practices could not be the basis for change under RCW 71.09.090.
+¶12 The trial court issued its opinion several months before this court decided In re Detention of Young In Young, we rejected the argument that a new diagnosis, which conflicts with the premise underlying a detainee’s initial commitment order, cannot be a basis for “change” under RCW 71.09.090. We explained: “If there are scientific advances which aid our understanding, courts must take that information into consideration when it is presented in support of a new hearing. That the evidence might have changed the evaluation and outcome in the past does not and should not impact our evaluation of it in the present.”
+¶13 This conclusion is consistent with the purposes behind the sexually violent predator statute—to commit and treat persons who are a threat to the community. “Current dangerousness is a bedrock principle underlying the [sexually violent predator] commitment statute.” The purpose of show cause hearings is to determine whether a detainee remains mentally ill and a danger to the public. If a detainee provides new evidence establishing probable cause that he is not currently a sexually violent predator, due process requires a trial on the merits, regardless of whether his evidence could have also challenged the basis of his original commitment.
+¶14 The court serves as a gatekeeper, allowing only cases involving probable cause to reach full trial. But its role is minimal. Probable cause exists if a detainee presents facts that, if believed, would lead a reasonable person to conclude that, more probably than not, he no longer meets the definition of a sexually violent predator. Conclusory statements cannot establish probable cause, so a court must look beyond an expert’s stated conclusions to determine if they are supported by sufficient facts. But it cannot weigh the evidence by comparing the opposing party’s evidence. Nor can it weigh the credibility of an expert’s opinion. We explained in In re Detention of Jacobson that a court’s “role in an annual review hearing... is to simply determine whether the factual assertions are sufficient and whether, when taken as true, the evidence establishes probable cause.” At trial, the fact finder will decide whether the facts are true.
+¶15 Dr. Wollert is an established expert of psychology, and he submitted a very thorough report. He did not make conclusory statements. Rather, he backed up his conclusions with explanations based on over 50 pages of detailed facts regarding Ward’s history of sexual violence and treatment, diagnostic tests, and scientific literature. Dr. Wollert concluded that Ward does not currently meet the definition of a sexually violent predator for two reasons: (1) he does not have a mental abnormality and (2) he has changed such that he is no longer a threat to society.
+f 16 Dr. Wollert opined that Ward’s socially unacceptable behavior escalated after his brain injury. He noted that prior to his brain injury, Ward “did not have a florid history of problems.” Dr. Wollert maintains that Ward’s head injury created a tendency for him to confabulate and exaggerate stories about his conduct. He noted that most of Ward’s admitted sex offenses were never confirmed independently. He also stated that previous examinations of Ward were flawed because they were not based on actuarial tests and focused on a mental disorder, rather than a brain injury. Dr. Wollert concluded that Ward does not, and suggested he never has, suffered from a mental abnormality that predisposes him to criminal sexual acts. Based on current diagnostic practices and research, Dr. Wollert opined that Ward has “dementia due to a general medical condition.”
+¶17 Dr. Wollert also concluded that Ward has changed in such a way as not to meet the sexually violent predator criteria. He observed changes in Ward’s behavior and noted that Ward experiences fewer behavioral problems. Additionally, Dr. Wollert concluded that because Ward is no longer a juvenile, his recidivism risk is very low. He explained that there are no valid actuarial tests of sexual recidivism for juvenile sex offenders who are now adults (JSOAs). He opined that the best scientific information of recidivism rates in JSOAs is the base rate of JSOAs who were convicted of sexually violent crimes, which is 3 to 10 percent. He concludes, therefore, that Ward’s recidivism risk is 10 percent or less, far below the Washington standard of showing dangerousness. Dr. Wollert’s report is sufficient evidence that, if believed, proves Ward is currently not a threat to the community.
+¶18 The State argues that Dr. Wollert’s report does not establish probable cause due to several flaws. First, it argues that Dr. Wollert did not diagnose Ward’s mental state. To the contrary, Dr. Wollert diagnosed Ward as having “dementia due to a general medical condition.” This conclusion was based on testing, interviews with Ward, and current diagnostic practices using “DSM-IV-TR” decision trees.
+¶19 Second, the State argues that Dr. Wollert’s conclusion that Ward’s behavior was largely caused by his head injury is unsupported by the record, which shows he had a history of sexual offenses prior to the accident. Dr. Wollert did not claim that Ward committed no offenses prior to his injury. Rather, he concluded that Ward did not have a “florid” amount of sexually deviant incidents. He also concluded that the data regarding Ward’s behavior, including self-reported data, was exaggerated. Regardless, we cannot weigh the credibility of Dr. Wollert’s conclusions.
+¶20 Third, the State disputes Dr. Wollert’s conclusion regarding Ward’s recidivism risk. It argues that Dr. Wollert made a conclusory statement. But, as noted above, Dr. Wollert explained his reasons for reaching his conclusion. Alternatively, the State claims his conclusion was based on misinterpreted studies. This argument challenges the credibility of the evidence and Dr. Wollert’s expertise. We cannot weigh the evidence by examining an expert’s credibility.
+¶21 Finally, the State claims that other mistakes in Dr. Wollert’s recitation of the factual record, such as the belief that Ward did not have an attorney present when he stipulated to being a sexually violent predator, discredit Dr. Wollert’s report. But, again, a court must not second-guess the expert’s conclusions at a show cause hearing by assessing the truthfulness of the facts. It must ensure only that conclusions are sufficiently supported by facts.
+¶22 Dr. Wollert concluded that Ward does not meet the definition of a sexually violent predator and supported his conclusion by factual assertions. Because Ward presented prima facie evidence establishing he is not a danger to society, due process requires he receive a full trial on whether he must remain committed as a sexually violent predator.
+f 23 Reversed and remanded.
+Ellington, A.C.J., and Becker, J., concur.
+In re Det. of Petersen, 145 Wn.2d 789, 799, 42 P.3d 952 (2002).
+RCW 71.09.010.
+RCW 71.09.020(16).
+RCW 71.09.070.
+RCW 71.09.090(2)(a).
+RCW 71.09.090(2)(a).
+RCW 71.09.090(2)(c); Petersen, 145 Wn.2d at 798.
+RCW 71.09.090(2)(c).
+120 Wn. App. 753, 86 P.3d 810 (2004).
+Young, 120 Wn. App. at 764.
+RCW 71.09.010. “The legislature finds that a small but extremely dangerous group of sexually violent predators exist who do not have a mental disease or defect that renders them appropriate for the existing involuntary treatment act, chapter 71.05 RCW, which is intended to be a short-term civil commitment system that is primarily designed to provide short-term treatment to individuals with serious mental disorders and then return them to the community.” RCW 71.09.010.
+In re Det. of Paschke, 121 Wn. App. 614, 622, 90 P.3d 74 (2004).
+In re Det. of Turay, 139 Wn.2d 379, 424, 986 P.2d 790 (1999) (citing In re Pers. Restraint of Young, 122 Wn.2d 1, 37, 857 P.2d 989 (1993)); Young, 120 Wn. App. at 763.
+Petersen, 145 Wn.2d at 797.
+In re Det. of Jacobson, 120 Wn. App. 770, 780, 86 P.3d 1202 (2004).
+Jacobson, 120 Wn. App. at 780.
+Petersen, 145 Wn.2d at 803.
+Jacobson, 120 Wn. App. at 781.
+120 Wn. App. 770, 780, 86 P.3d 1202 (2004).
+Jacobson, 120 Wn. App. at 781.
+Dr. Wollert has worked as a professor of psychology for over 25 years and authored numerous papers on sex offenders.
+DSM-IV-TR is a diagnostic classification system.
+Jacobson, 120 Wn. App. at 781.
