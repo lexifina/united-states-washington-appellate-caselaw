@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52378-3-I"
 decided: "2004-11-01"
-citations: ["124 Wash. App. 516", "123 Wash. App. 1060"]
+citations: ["124 Wash. App. 516"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John O’Neill, et al., Appellants, v. Farmers Insurance Company of W
 source_url: "https://static.case.law/wash-app/124/cases/0516-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684201
-cites_cases: ["1 P.3d 1124", "101 Wn.2d 475", "105 Wn.2d 133", "111 Wn.2d 471", "114 Wn. App. 312", "116 Wn.2d 1026", "116 Wn.2d 584", "116 Wn.2d 923", "117 Wn.2d 1017", "117 Wn.2d 325", "117 Wn.2d 37", "123 Wn.2d 573", "124 Wn. App. 516", "127 Wn.2d 726", "129 Wn.2d 601", "133 Wn.2d 192", "141 Wn.2d 29", "146 Wn.2d 420", "147 Cal. Rptr. 565", "149 Wn.2d 1021", "27 Wn. App. 872", "29 Wn. App. 415", "339 U.S. 306", "362 P.2d 237", "37 Wn. App. 718", "382 U.S. 1025", "403 P.2d 351", "47 P.3d 563", "48 Wn. App. 554", "503 P.2d 1110", "51 Wn. App. 731", "521 P.2d 711", "53 Wn. App. 95", "57 P.3d 295", "57 Wn. App. 217", "58 Wn.2d 265", "60 Wn. App. 278", "61 Wn. App. 195", "61 Wn. App. 412", "621 P.2d 155", "628 P.2d 855", "635 P.2d 441", "649 P.2d 827", "66 Wn.2d 469", "660 P.2d 756", "680 P.2d 55", "684 P.2d 719", "712 P.2d 296", "72 P.3d 761", "739 P.2d 1188", "754 P.2d 1299", "760 P.2d 925", "765 P.2d 1312", "788 P.2d 569", "8 Wn. App. 36", "803 P.2d 57", "806 P.2d 1234", "809 P.2d 1377", "810 P.2d 31", "810 P.2d 970", "811 P.2d 673", "815 P.2d 781", "818 P.2d 1099", "82 Wn.2d 1001", "83 Cal. App. 3d 38", "83 Wn.2d 630", "86 Wn. App. 613", "870 P.2d 299", "903 P.2d 455", "919 P.2d 1209", "937 P.2d 1158", "94 L. Ed. 865", "943 P.2d 286", "96 Wn.2d 692", "99 Wn.2d 206"]
+cites_cases: ["1 P.3d 1124", "101 Wn.2d 475", "105 Wn.2d 133", "111 Wn.2d 471", "114 Wn. App. 312", "116 Wn.2d 1026", "116 Wn.2d 584", "116 Wn.2d 923", "117 Wn.2d 1017", "117 Wn.2d 325", "117 Wn.2d 37", "123 Wn.2d 573", "127 Wn.2d 726", "129 Wn.2d 601", "133 Wn.2d 192", "141 Wn.2d 29", "146 Wn.2d 420", "147 Cal. Rptr. 565", "149 Wn.2d 1021", "27 Wn. App. 872", "29 Wn. App. 415", "339 U.S. 306", "362 P.2d 237", "37 Wn. App. 718", "382 U.S. 1025", "403 P.2d 351", "47 P.3d 563", "48 Wn. App. 554", "503 P.2d 1110", "51 Wn. App. 731", "521 P.2d 711", "53 Wn. App. 95", "57 P.3d 295", "57 Wn. App. 217", "58 Wn.2d 265", "60 Wn. App. 278", "61 Wn. App. 195", "61 Wn. App. 412", "621 P.2d 155", "628 P.2d 855", "635 P.2d 441", "649 P.2d 827", "66 Wn.2d 469", "660 P.2d 756", "680 P.2d 55", "684 P.2d 719", "712 P.2d 296", "72 P.3d 761", "739 P.2d 1188", "754 P.2d 1299", "760 P.2d 925", "765 P.2d 1312", "788 P.2d 569", "8 Wn. App. 36", "803 P.2d 57", "806 P.2d 1234", "809 P.2d 1377", "810 P.2d 31", "810 P.2d 970", "811 P.2d 673", "815 P.2d 781", "818 P.2d 1099", "82 Wn.2d 1001", "83 Cal. App. 3d 38", "83 Wn.2d 630", "86 Wn. App. 613", "870 P.2d 299", "903 P.2d 455", "919 P.2d 1209", "937 P.2d 1158", "94 L. Ed. 865", "943 P.2d 286", "96 Wn.2d 692", "99 Wn.2d 206"]
 ---
 
 # O'Neill v. Farmers Insurance
