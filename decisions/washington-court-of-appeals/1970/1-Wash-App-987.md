@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "154-40482, 225-40788, 40790-1"
+decided: "1970-02-24"
+citations: ["1 Wash. App. 987"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. John T. Brakes, Jr., et al., Appellants."]
+source_url: "https://static.case.law/wash-app/1/cases/0987-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1861560
+cites_cases: ["1 Wn. App. 90", "411 P.2d 411", "431 P.2d 584", "439 P.2d 409", "440 P.2d 815", "443 P.2d 654", "457 P.2d 1010", "459 P.2d 414", "68 Wn.2d 50", "72 Wn.2d 31", "73 Wn.2d 537", "73 Wn.2d 701", "74 Wn.2d 146", "76 Wn.2d 522"]
+---
+
+# State v. Brakes
+
+## Majority (Swanson, J.)
+
+Swanson, J.
+Michael Jay Parker, John T. .Brakes, Ronald Lee Lewis, and Arthur Lee Sinclair were each charged with six counts of assault in the second degree. One of the six counts was dismissed. After a jury trial, Sinclair was found not guilty, but a verdict of guilty on five counts of second-degree assault was rendered as to each of the remaining defendants. They appeal.
+In the early morning of July 3, 1968, Seattle’s central area erupted in a series of disturbances and riots. Against a lively backdrop of yelling and cursing, a gathering mob at 23rd Avenue and East Union Street launched rocks, bricks, pieces of concrete and other missiles at the Seattle Police Department’s special patrol squad. After dispersing this crowd, police officers moved east on East Union Street to 24th Avenue where another crowd was forming. Near the intersection of 24th Avenue and East Union, the special riot squad, consisting primarily of the five victims named in the five counts of the information, was the target of rocks, bricks, assorted missiles and incendiary devices called “Molotov cocktails,” or firebombs, which consisted of soft drink bottles filled with gasoline or other inflammable liquid and lighted with a wick. Each of the three defendants was identified by one or more police officers as having been observed throwing a firebomb at or near the five advancing policemen. No single officer could identify each individual defendant; however, they were identified as having run from the scene along with other members of the crowd into a nearby apartment building where they were arrested. •
+All three defendants make one joint assignment of error, viz., that the court failed to instruct the jury:
+You are instructed that in order to convict a defendant of a crime of assault in the second degree as alleged in any specific count of the information herein, you must find that said defendant did assault the person.named in said count of the information by an attempt, with unlawful force, to inflict. bodily injury upon him. However, such attempt must create in the • mind of the person named and described as the person assaulted in said count of the information genuine apprehension before you can find such defendant guilty of the crime of second degree assault under that count of the information.
+The defendants claim the state failed to prove apprehension on the part of the alleged victims. This assignment is without merit. State v. Stewart, 73 Wn.2d 701, 440 P.2d 815 (1968), establishes beyond peradventure that apprehension of the one assaulted is not a necessary element of second-degree assault.
+Only Parker and Lewis assign error to certain remarks made in the prosecutor’s closing argument. The prosecutor said:
+[Tjhere will always be some hoodlums who will try to get in on a situation of social unrest for their own advantage, whether it be looting or whether it be attacking police officers.
+The record shows this statement was made by way of a general remark and did not purport to refer specifically to the defendants. While we do not approve of the language used by the prosecutor, this statement was not objected to and did not prejudice the rights of Parker and Lewis to a fair trial. Nor, does it appear, did the other remarks of the prosecutor to which they objected:
+An interesting thing about these witnesses, the court has told you that a person’s convictions are only to be used in determining his credibility as a witness. This is the law. So Brakes, we know, is a burglar, and some other minor stuff; petit larceny, petit meaning small. He also committed assault.
+What do we know about Parker? Well, he’s a robber.
+What do we know about, Lewis? Convicted of grand larceny.
+What do you call a person that’s convicted of grand larceny? Probably a thief.
+During their cross-examinations, Parker admitted a conviction of robbery, and Lewis admitted a conviction of grand larceny. Timely, objection .was not made to these remarks. When the objection was made, the court instructed the jury to disregard any statement not borne out by the evidence. Nor do we find these statements so flagrant that no instruction could cure them. State v. Basford, 76 Wn.2d 522, 457 P.2d 1010 (1969). The fact of defendants’ prior convictions is admissible and relevant to the question of their present credibility. The prosecutor was arguing to the jury about credibility. The argument would serve only to refresh the jury’s mind about this issue.
+Defendants Parker and Lewis contend that the evidence against them was not sufficient to support the verdict on several counts of the information. The essence of this argument is that the state did not prove an individual act of assault by each defendant toward‘each police officer named in the five counts of the information. In other words, the claim is that each defendant must be shown to have thrown a firebomb at each police officer to sustain the conviction.
+This argument is without merit. The evidence shows that the five police officers were traveling together in an easterly direction down East Union Street and that each of these defendants stepped forward and threw an explosive firebomb at the group of officers. The evidence indicated that when the lighted bottle was thrown, it shattered upon impact, and the combustible fluid exploded in a ball of flame. Officer Wallock described this < as “a large ball of flame approximately 5 feet in diameter, . . .” This is substantial evidence from which the jury could determine that the firebomb was an object likely to produce bodily harm. Not only that, these are weapons capable of spreading destruction over some distance. If the officer was within the range of the weapon, it is not necessary that he be struck directly, nor that he see each assailant.
+Thus, when the defendant Parker launched a firebomb in the direction of the five policemen, the evidence shows an assault upon each of the five. Nor does the fact that a firebomb thrown by Lewis exploded in midair preclude the possibility of assault as a matter of law. It simply raised a question of fact whether or not the firebomb thrown at the five policemen was any less an instrument or object likely to produce bodily harm because it exploded in midair and did not reach the intended victims to cause them any harm. This question of fact was for the jury to decide, and the evidence supporting the jury’s finding is substantial. State v. Zorich, 72 Wn.2d 31, 431 P.2d 584 (1967).
+Defendants Brakes and Parker, respectively, assign error to the information and to the court’s instruction which incorporated it. Brakes argues the information alleges that all four defendants joined in a single act—an assault on a specific officer. He contends there was no evidence that the defendants acted in concert with reference to any particular officer. Parker claims there is no testimony connecting him with more than one firebomb. Thus, the court’s instruction 1 is said to be erroneous since it charged all defendants jointly.
+There are technical answers to each of these assignments. Brakes’ claimed error does not appear meritorious on its face, and no authority is cited to support it. We therefore need not consider it further. State v. Gregory, 73 Wn.2d 537, 439 P.2d 409 (1968). Parker does not set out the instruction verbatim in his assignment of error as required by CAROA 43. State v. Badda, 68 Wn.2d 50, 411 P.2d 411 (1966). But beyond these technical objections, the assignments are not well taken. While the clarity of the information itself is open to criticism, the jury was clearly instructed by the court as to the elements needed to sustain a conviction:
+7. To convict the defendant . . .of the crime of assault in the second degree as charged in counts 1, 2, 3, 4, and 6 of the information herein, the state must prove to you beyond a reasonable doubt:
+(1) That on or about the 3rd day of July, 1968, the defendant . . . wilfully and unlawfully assaulted the human being named in each of counts 1, 2, 3, 4, and 6; . . .
+Moreover, the verdict forms required a finding of each defendant’s guilt or innocence on each count of the information. We find no merit to the argument that the information charged the defendants with acting in concert as to each act of assault.
+Defendant Parker also complains because the trial court did not tell the jury as a matter of law that it .could consider lack of evidence in determining guilt or innocence. This assignment of error is without merit, for the jury was adequately instructed when the court said:
+4. . . . The guilt or innocence of a defendant is determined solely on the basis of evidence presented at his trial.
+Further, the court instructed:
+15. . . .
+A reasonable doubt is such a doubt as exists in the mind of a reasonable man after he has fully, fairly and carefully compared and considered all of the evidence or lack of evidence introduced at the trial.
+The instructions must be considered as a whole, and the subject was adequately covered. State v. Jackson, 1 Wn. App. 90, 459 P.2d 414 (1969); State v. Jamerson, 74 Wn.2d 146, 443 P.2d 654 (1968).
+Finding no substance in any of the assignments of error, we affirm the judgments.
+James, C. J., and Farris, J., concur.
+Petition for rehearing denied April 13, 1970.
