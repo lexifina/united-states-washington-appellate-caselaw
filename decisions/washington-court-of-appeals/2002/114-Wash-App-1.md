@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27775-1-II"
 decided: "2002-09-20"
-citations: ["114 Wash. App. 1", "113 Wash. App. 1044"]
+citations: ["114 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Peter Anton Lindahl, Appellan
 source_url: "https://static.case.law/wash-app/114/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 163146
-cites_cases: ["106 Wn.2d 525", "114 Wn. App. 1", "121 Wn.2d 707", "125 Wn.2d 570", "126 Wn.2d 388", "133 Wn.2d 828", "134 Wn.2d 176", "146 Wn.2d 339", "149 Wn.2d 1013", "46 P.3d 774", "56 Wn. App. 915", "57 Wn. App. 792", "58 Wn. App. 660", "59 Wn. App. 561", "64 Wn. App. 440", "67 Wn. App. 217", "67 Wn. App. 50", "71 Wn. App. 556", "72 Wn. App. 207", "723 P.2d 1123", "786 P.2d 795", "790 P.2d 220", "794 P.2d 1297", "799 P.2d 744", "82 Wn. App. 153", "825 P.2d 729", "834 P.2d 664", "834 P.2d 78", "854 P.2d 1042", "861 P.2d 473", "866 P.2d 1258", "883 P.2d 329", "888 P.2d 1105", "894 P.2d 1308", "916 P.2d 960", "93 Wn. App. 774", "94 Wn. App. 862", "947 P.2d 1199", "949 P.2d 358", "95 Wn. App. 700", "970 P.2d 781", "973 P.2d 496", "977 P.2d 47"]
+cites_cases: ["106 Wn.2d 525", "121 Wn.2d 707", "125 Wn.2d 570", "126 Wn.2d 388", "133 Wn.2d 828", "134 Wn.2d 176", "146 Wn.2d 339", "149 Wn.2d 1013", "46 P.3d 774", "56 Wn. App. 915", "57 Wn. App. 792", "58 Wn. App. 660", "59 Wn. App. 561", "64 Wn. App. 440", "67 Wn. App. 217", "67 Wn. App. 50", "71 Wn. App. 556", "72 Wn. App. 207", "723 P.2d 1123", "786 P.2d 795", "790 P.2d 220", "794 P.2d 1297", "799 P.2d 744", "82 Wn. App. 153", "825 P.2d 729", "834 P.2d 664", "834 P.2d 78", "854 P.2d 1042", "861 P.2d 473", "866 P.2d 1258", "883 P.2d 329", "888 P.2d 1105", "894 P.2d 1308", "916 P.2d 960", "93 Wn. App. 774", "94 Wn. App. 862", "947 P.2d 1199", "949 P.2d 358", "95 Wn. App. 700", "970 P.2d 781", "973 P.2d 496", "977 P.2d 47"]
 ---
 
 # State v. Lindahl
