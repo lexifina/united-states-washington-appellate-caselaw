@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8891-0-III"
 decided: "1988-06-14"
-citations: ["51 Wash. App. 942", "51 Wash. App. 1062"]
+citations: ["51 Wash. App. 942"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Anthony Kirk Borger, Appellant, v. The Department of Licensing, Respo
 source_url: "https://static.case.law/wash-app/51/cases/0942-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591684
-cites_cases: ["105 Wn.2d 1015", "105 Wn.2d 278", "14 Wn. App. 333", "16 Wn. App. 398", "34 Wn. App. 132", "43 Wn. App. 32", "496 P.2d 963", "51 Wn. App. 942", "541 P.2d 1005", "556 P.2d 561", "659 P.2d 548", "714 P.2d 1183", "714 P.2d 681", "80 Wn.2d 624"]
+cites_cases: ["105 Wn.2d 1015", "105 Wn.2d 278", "14 Wn. App. 333", "16 Wn. App. 398", "34 Wn. App. 132", "43 Wn. App. 32", "496 P.2d 963", "541 P.2d 1005", "556 P.2d 561", "659 P.2d 548", "714 P.2d 1183", "714 P.2d 681", "80 Wn.2d 624"]
 ---
 
 # Borger v. Department of Licensing
