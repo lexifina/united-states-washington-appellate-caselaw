@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22356-9-I"
 decided: "1989-12-27"
-citations: ["56 Wash. App. 921", "56 Wash. App. 1036"]
+citations: ["56 Wash. App. 921"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Edward Cobelli, Appellant."]
 source_url: "https://static.case.law/wash-app/56/cases/0921-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1759992
-cites_cases: ["106 Wn.2d 569", "11 Wn. App. 166", "110 Wn.2d 1025", "113 Wn.2d 1034", "14 Wn. App. 414", "19 Wn. App. 417", "22 Wn. App. 572", "45 Wn. App. 48", "50 Wn. App. 117", "50 Wn. App. 531", "521 P.2d 973", "54 Wn. App. 467", "542 P.2d 122", "56 Wn. App. 921", "576 P.2d 912", "590 P.2d 1276", "723 P.2d 1135", "723 P.2d 1189", "747 P.2d 484", "749 P.2d 725", "774 P.2d 519", "84 Wn.2d 1005", "86 Wn.2d 1010"]
+cites_cases: ["106 Wn.2d 569", "11 Wn. App. 166", "110 Wn.2d 1025", "113 Wn.2d 1034", "14 Wn. App. 414", "19 Wn. App. 417", "22 Wn. App. 572", "45 Wn. App. 48", "50 Wn. App. 117", "50 Wn. App. 531", "521 P.2d 973", "54 Wn. App. 467", "542 P.2d 122", "576 P.2d 912", "590 P.2d 1276", "723 P.2d 1135", "723 P.2d 1189", "747 P.2d 484", "749 P.2d 725", "774 P.2d 519", "84 Wn.2d 1005", "86 Wn.2d 1010"]
 ---
 
 # State v. Cobelli
