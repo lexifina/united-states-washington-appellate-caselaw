@@ -1,0 +1,38 @@
+---
+court: "Washington Court of Appeals"
+docket: "7169-3-III"
+decided: "1985-12-12"
+citations: ["42 Wash. App. 649"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Gladys Sukin, et al, Appellants, v. The Liquor Control Board, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/42/cases/0649-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804239
+cites_cases: ["401 P.2d 635", "418 P.2d 424", "66 Wn.2d 135", "69 Wn.2d 373"]
+---
+
+# Sukin v. Liquor Control Board
+
+## Majority (Green, C.J.)
+
+Green, C.J.
+—Gladys and Joseph Sukin appeal the Liquor Control Board's denial of an application to renew their liquor license. Two questions are presented: (1) When the City of Spokane failed to file objections with the Liquor Control Board within 20 days after receiving notice of the application, did the Board lose jurisdiction to hold a hearing on those objections under RCW 66.24.010(8)? (2) Was the Board's denial arbitrary and capricious or clearly erroneous?
+In 1981 the Sukins were issued a class BCEF liquor license for The Riverside Tavern in Spokane. When they applied for renewal of their license in April 1984, the City decided to file written objections pursuant to RCW 66.24-.010(8). The City notified the Board of its intention to file objections and indicated it was experiencing difficulty in meeting the 20-day time limit. The Board informed the City a delay in submitting the written objections would not create any problems as long as the Board had not renewed the license. The City's objections were not received by the Board within the 20-day time limit. WAC 314-08-140. A hearing on the application was held in August 1984.
+Five members of the Spokane Police Department, the Board's enforcement officer, the director of the Spokane Alcohol Center, nine of the neighboring business owners or their employees and the Sukins testified at the hearing. The police testified they considered the tavern their number one "hot spot" and had responded to numerous calls to the tavern, including over service, disorderly conduct, assaults and drug dealing. The Board's enforcement officer testified he had 28 counseling sessions with the Sukins after they opened the tavern and issued two written violations for selling liquor to already intoxicated persons. In his last report to the Board, he recommended the Sukins' license be canceled. The director of the Spokane Alcohol Center testified his detox van made 118 calls to The Riverside Tavern between June 1, 1983 and June 30, 1984, more calls than any other tavern. Owners of neighboring businesses testified they observed obviously intoxicated persons enter and leave the tavern, aggressive panhandling, prostitutes fighting over tricks, constant littering of wine bottles outside the tavern, tavern patrons drinking in public, and other matters better done in private. Both police and neighboring businesses believed that over service was a major problem contributing to these conditions. Neighboring business owners stated the problems had become worse since the Sukins began operating the tavern. Some of the owners were concerned about their physical safety and the safety of their patrons.
+Mrs. Sukin characterized the allegations for the most part as "a bunch of bull", and felt their problems were no different from those of any other tavern or cocktail lounge. The Sukins admitted the majority of the police testimony was truthful, and Mr. Sukin expressed the view the neighboring businesses were jealous and would like to have his business.
+The administrative law judge proposed an order denying the Sukins' application. This order was adopted by the Board and the application for renewal was denied. The Sukins appealed to superior court where the Board decision was affirmed resulting in this appeal.
+The Sukins contend that RCW 66.24.010(8) creates an imperative obligation on the part of the City to file written objections within 20 days. RCW 66.24.010(8) states in part:
+Before the board shall issue a license to an applicant it shall give notice of such application to the chief executive officer of the incorporated city or town, . . . and such incorporated city or town, through the official or employee selected by it, . . . shall have the right to file with the board within twenty days after date of transmittal of such notice, written objections against the applicant or against the premises for which the license is asked, and shall include with such objections a statement of all facts upon which such objections are based, and in case written objections are filed, may request and the liquor control board may in its discretion hold a formal hearing subject to the applicable provisions of Title 34 RCW, as now or hereafter amended.
+The Sukins argue the City's failure to comply with this statute deprived the Board of jurisdiction. We disagree.
+It is true that this statute gives the City the right to file objections and a corresponding obligation to file them within 20 days. However, the statute is devoid of any wording which indicates that failure to file objections within 20 days would deprive the Board of jurisdiction to consider them. The Sukins are asking this court to read a restriction into the statute where none exists. To read such a restriction into the statute would frustrate the purpose of the liquor control act as expressed in RCW 66.08.010:
+This entire title shall be deemed an exercise of the police power of the state, for the protection of the welfare, health, peace, morals, and safety of the people of the state, and all its provisions shall be liberally construed for the accomplishment of that purpose.
+The dominion of the Board over the regulation, supervision and licensing of liquor is broad and extensive. State ex rel. Shannon v. Sponburgh, 66 Wn.2d 135, 401 P.2d 635 (1965). The Sukins took their license subject to the continuing regulation, supervision, and jurisdiction of the Board which includes the power to suspend, cancel or not renew the license. Jow Sin Quan v. State Liquor Control Bd., 69 Wn.2d 373, 382, 418 P.2d 424 (1966).
+Further, subsection 2 of RCW 66.24.010 authorizes the Board to "inquire into all matters in connection with the construction and operation of the premises" for the purpose of considering an application for a license. Significantly, this section does not prescribe a time period within which the Board must act upon the application. While the right to file objections is limited to 20 days, we conclude the Board has the discretion to consider objections received after that time. To hold otherwise would be contrary to the purpose of the act. Thus, the Board acted within its authority when it considered the objections of the City.
+Moreover, the Sukins were not prejudiced by the Board's action; they were timely notified of the City's objections, had ample time to prepare and received a full, fair hearing.
+Finally, the Sukins contend the Board's decision was arbitrary and capricious or clearly erroneous. They claim much of the testimony was irrelevant and hearsay, and the acts complained of were not causally related to the tavern. After careful review of the record, we do not find the Board's decision to be arbitrary and capricious nor is the decision clearly erroneous. Neither do we find merit to the claim that much of the testimony was improperly considered.
+Affirmed.
+McInturff and Thompson, JJ., concur.
+After modification, further reconsideration denied January 22, 1986.
+Review denied by Supreme Court March 21, 1986.
