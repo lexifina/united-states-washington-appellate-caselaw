@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14771-1-III"
 decided: "1997-04-10"
-citations: ["86 Wash. App. 387", "85 Wash. App. 1059"]
+citations: ["86 Wash. App. 387"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donovan H. Gerard, et al., Appellants, v. Sacred Heart Medical Center
 source_url: "https://static.case.law/wash-app/86/cases/0387-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278726
-cites_cases: ["107 Wn.2d 158", "119 Wn.2d 1020", "133 Wn.2d 1017", "387 P.2d 527", "429 P.2d 109", "588 P.2d 734", "63 Wn.2d 369", "65 Wn. App. 255", "71 Wn.2d 414", "727 P.2d 669", "828 P.2d 597", "86 Wn. App. 387", "91 Wn.2d 155"]
+cites_cases: ["107 Wn.2d 158", "119 Wn.2d 1020", "133 Wn.2d 1017", "387 P.2d 527", "429 P.2d 109", "588 P.2d 734", "63 Wn.2d 369", "65 Wn. App. 255", "71 Wn.2d 414", "727 P.2d 669", "828 P.2d 597", "91 Wn.2d 155"]
 ---
 
 # Gerard v. Sacred Heart Medical Center
