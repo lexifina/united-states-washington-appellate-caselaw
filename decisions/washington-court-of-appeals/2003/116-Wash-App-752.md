@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28492-8-II; 28609-2-II"
 decided: "2003-03-11"
-citations: ["116 Wash. App. 752", "116 Wash. App. 1013"]
+citations: ["116 Wash. App. 752"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Kelli Jean Cowin, Appellant. 
 source_url: "https://static.case.law/wash-app/116/cases/0752-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265904
-cites_cases: ["110 Wn.2d 706", "111 Wn. App. 495", "116 Wn. App. 752", "137 Wn.2d 149", "138 Wn.2d 133", "150 Wn.2d 1019", "378 U.S. 108", "393 U.S. 410", "438 U.S. 154", "45 P.3d 624", "55 Wn. App. 668", "757 P.2d 487", "779 P.2d 1151", "969 P.2d 450", "97 Wn. App. 578", "977 P.2d 582", "988 P.2d 463"]
+cites_cases: ["110 Wn.2d 706", "111 Wn. App. 495", "137 Wn.2d 149", "138 Wn.2d 133", "150 Wn.2d 1019", "378 U.S. 108", "393 U.S. 410", "438 U.S. 154", "45 P.3d 624", "55 Wn. App. 668", "757 P.2d 487", "779 P.2d 1151", "969 P.2d 450", "97 Wn. App. 578", "977 P.2d 582", "988 P.2d 463"]
 ---
 
 # State v. Cowin
