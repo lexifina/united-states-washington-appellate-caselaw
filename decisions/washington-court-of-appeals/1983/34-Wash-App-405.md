@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10837-9-I; 11751-3-I; 11411-5-I; 11977-0-I"
 decided: "1983-04-11"
-citations: ["34 Wash. App. 405", "34 Wash. App. 1031"]
+citations: ["34 Wash. App. 405"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
