@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12249-5-I"
 decided: "1984-01-09"
-citations: ["36 Wash. App. 664", "36 Wash. App. 1042"]
+citations: ["36 Wash. App. 664"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Rufus Lee Taplin, Appellant."
 source_url: "https://static.case.law/wash-app/36/cases/0664-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1782160
-cites_cases: ["124 Cal. Rptr. 528", "15 Cal. 3d 394", "15 Wn. App. 581", "16 Wn. App. 868", "36 Wn. App. 664", "395 U.S. 752", "403 U.S. 443", "431 U.S. 931", "450 P.2d 971", "450 U.S. 958", "540 P.2d 624", "550 P.2d 689", "559 P.2d 970", "560 P.2d 1160", "616 P.2d 649", "75 Wn.2d 329", "88 Wn.2d 127", "94 Wn.2d 263"]
+cites_cases: ["124 Cal. Rptr. 528", "15 Cal. 3d 394", "15 Wn. App. 581", "16 Wn. App. 868", "395 U.S. 752", "403 U.S. 443", "431 U.S. 931", "450 P.2d 971", "450 U.S. 958", "540 P.2d 624", "550 P.2d 689", "559 P.2d 970", "560 P.2d 1160", "616 P.2d 649", "75 Wn.2d 329", "88 Wn.2d 127", "94 Wn.2d 263"]
 ---
 
 # State v. Taplin
