@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44545-6-I"
 decided: "2001-02-12"
-citations: ["105 Wash. App. 447", "104 Wash. App. 1045"]
+citations: ["105 Wash. App. 447"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mary Ethridge, Respondent, v. Anna Hwang, et al., Appellants."]
 source_url: "https://static.case.law/wash-app/105/cases/0447-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358614
-cites_cases: ["103 Wn.2d 52", "103 Wn.2d 542", "105 Wn. App. 447", "105 Wn.2d 778", "107 Wn.2d 807", "108 Wn.2d 558", "117 Wn.2d 541", "121 Wn.2d 715", "122 Wn.2d 141", "122 Wn.2d 299", "122 Wn.2d 483", "123 Wn.2d 15", "124 Wn.2d 789", "128 Wn.2d 1012", "130 Wn.2d 486", "134 Wn.2d 761", "139 Wn.2d 659", "208 Conn. 620", "33 Wn. App. 665", "482 P.2d 775", "546 A.2d 805", "606 P.2d 275", "655 P.2d 1185", "656 P.2d 1030", "68 Wn. App. 838", "691 P.2d 163", "693 P.2d 108", "71 Wn. App. 120", "71 Wn. App. 132", "719 P.2d 531", "733 P.2d 969", "740 P.2d 1379", "77 Wn. App. 752", "79 Wn. App. 694", "79 Wn.2d 12", "80 Wn. App. 592", "817 P.2d 1364", "82 Wn. App. 375", "82 Wn. App. 646", "84 Wn. App. 352", "846 P.2d 574", "853 P.2d 1373", "856 P.2d 746", "857 P.2d 1053", "858 P.2d 1054", "859 P.2d 1210", "859 P.2d 26", "864 P.2d 921", "865 P.2d 507", "881 P.2d 1020", "893 P.2d 692", "902 P.2d 1254", "91 Wn. App. 280", "910 P.2d 522", "917 P.2d 1124", "920 P.2d 192", "925 P.2d 194", "928 P.2d 440", "93 Wn.2d 143", "953 P.2d 796", "959 P.2d 133", "98 Wn.2d 434"]
+cites_cases: ["103 Wn.2d 52", "103 Wn.2d 542", "105 Wn.2d 778", "107 Wn.2d 807", "108 Wn.2d 558", "117 Wn.2d 541", "121 Wn.2d 715", "122 Wn.2d 141", "122 Wn.2d 299", "122 Wn.2d 483", "123 Wn.2d 15", "124 Wn.2d 789", "128 Wn.2d 1012", "130 Wn.2d 486", "134 Wn.2d 761", "139 Wn.2d 659", "208 Conn. 620", "33 Wn. App. 665", "482 P.2d 775", "546 A.2d 805", "606 P.2d 275", "655 P.2d 1185", "656 P.2d 1030", "68 Wn. App. 838", "691 P.2d 163", "693 P.2d 108", "71 Wn. App. 120", "71 Wn. App. 132", "719 P.2d 531", "733 P.2d 969", "740 P.2d 1379", "77 Wn. App. 752", "79 Wn. App. 694", "79 Wn.2d 12", "80 Wn. App. 592", "817 P.2d 1364", "82 Wn. App. 375", "82 Wn. App. 646", "84 Wn. App. 352", "846 P.2d 574", "853 P.2d 1373", "856 P.2d 746", "857 P.2d 1053", "858 P.2d 1054", "859 P.2d 1210", "859 P.2d 26", "864 P.2d 921", "865 P.2d 507", "881 P.2d 1020", "893 P.2d 692", "902 P.2d 1254", "91 Wn. App. 280", "910 P.2d 522", "917 P.2d 1124", "920 P.2d 192", "925 P.2d 194", "928 P.2d 440", "93 Wn.2d 143", "953 P.2d 796", "959 P.2d 133", "98 Wn.2d 434"]
 ---
 
 # Ethridge v. Hwang
