@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17328-3-III"
 decided: "1999-02-02"
-citations: ["94 Wash. App. 816", "93 Wash. App. 1081"]
+citations: ["94 Wash. App. 816"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tracee L. Raider, Appellant, v. Greyhound Lines, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/94/cases/0816-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 82987
-cites_cases: ["114 Wn.2d 1023", "127 Wn.2d 1020", "131 Wn.2d 39", "133 Wn.2d 192", "134 Wn.2d 468", "138 Wn.2d 1011", "56 Wn. App. 625", "77 Wn. App. 934", "784 P.2d 1288", "894 P.2d 1366", "90 Wn. App. 304", "929 P.2d 420", "94 Wn. App. 816", "943 P.2d 286", "950 P.2d 522", "951 P.2d 749"]
+cites_cases: ["114 Wn.2d 1023", "127 Wn.2d 1020", "131 Wn.2d 39", "133 Wn.2d 192", "134 Wn.2d 468", "138 Wn.2d 1011", "56 Wn. App. 625", "77 Wn. App. 934", "784 P.2d 1288", "894 P.2d 1366", "90 Wn. App. 304", "929 P.2d 420", "943 P.2d 286", "950 P.2d 522", "951 P.2d 749"]
 ---
 
 # Raider v. Greyhound Lines, Inc.
