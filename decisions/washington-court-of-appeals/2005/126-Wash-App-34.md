@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53130-1-I"
 decided: "2005-01-31"
-citations: ["126 Wash. App. 34", "125 Wash. App. 1027"]
+citations: ["126 Wash. App. 34"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Maison de France, Ltd., Respondent, v. Mais Oui!, Inc., et al., Appel
 source_url: "https://static.case.law/wash-app/126/cases/0034-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016074
-cites_cases: ["100 Wn.2d 343", "112 Wn.2d 193", "125 Wn.2d 337", "126 Wn. App. 34", "135 Wn.2d 518", "252 P.2d 253", "313 P.2d 354", "344 P.2d 705", "41 Wn.2d 859", "418 U.S. 323", "42 Wn. App. 675", "420 U.S. 469", "458 P.2d 882", "472 U.S. 749", "485 P.2d 1000", "490 P.2d 101", "493 U.S. 814", "5 Wn. App. 121", "50 Wn.2d 473", "52 Wn. App. 334", "54 Wn.2d 743", "546 P.2d 81", "59 Wn. App. 105", "638 P.2d 1231", "670 P.2d 240", "713 P.2d 736", "76 Wn.2d 733", "760 P.2d 368", "770 P.2d 1027", "79 Wn.2d 816", "796 P.2d 426", "86 Wn.2d 439", "87 Wn. App. 579", "883 P.2d 1383", "943 P.2d 350", "957 P.2d 755", "96 Wn.2d 716"]
+cites_cases: ["100 Wn.2d 343", "112 Wn.2d 193", "125 Wn.2d 337", "135 Wn.2d 518", "252 P.2d 253", "313 P.2d 354", "344 P.2d 705", "41 Wn.2d 859", "418 U.S. 323", "42 Wn. App. 675", "420 U.S. 469", "458 P.2d 882", "472 U.S. 749", "485 P.2d 1000", "490 P.2d 101", "493 U.S. 814", "5 Wn. App. 121", "50 Wn.2d 473", "52 Wn. App. 334", "54 Wn.2d 743", "546 P.2d 81", "59 Wn. App. 105", "638 P.2d 1231", "670 P.2d 240", "713 P.2d 736", "76 Wn.2d 733", "760 P.2d 368", "770 P.2d 1027", "79 Wn.2d 816", "796 P.2d 426", "86 Wn.2d 439", "87 Wn. App. 579", "883 P.2d 1383", "943 P.2d 350", "957 P.2d 755", "96 Wn.2d 716"]
 ---
 
 # Maison de France, Ltd. v. Mais Oui!, Inc.
