@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47792-7-I"
 decided: "2002-03-04"
-citations: ["111 Wash. App. 1", "110 Wash. App. 1045"]
+citations: ["111 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Salvador A. Corona, Appellant, v. The Boeing Company, Respondent."]
 source_url: "https://static.case.law/wash-app/111/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1071900
-cites_cases: ["104 Wn. App. 135", "111 Wn. App. 1", "115 Wn.2d 194", "131 Wn.2d 547", "137 Wn.2d 296", "15 P.3d 652", "621 P.2d 716", "796 P.2d 412", "933 P.2d 1025", "94 Wn.2d 889", "971 P.2d 32"]
+cites_cases: ["104 Wn. App. 135", "115 Wn.2d 194", "131 Wn.2d 547", "137 Wn.2d 296", "15 P.3d 652", "621 P.2d 716", "796 P.2d 412", "933 P.2d 1025", "94 Wn.2d 889", "971 P.2d 32"]
 ---
 
 # Corona v. Boeing Co.
