@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53343-6-I"
 decided: "2005-03-28"
-citations: ["129 Wash. App. 774", "126 Wash. App. 1038"]
+citations: ["129 Wash. App. 774"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Margaret Estevez, Appellant, v. The Faculty Club of The University of
 source_url: "https://static.case.law/wash-app/129/cases/0774-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3682306
-cites_cases: ["103 Wn.2d 401", "106 Wn.2d 675", "118 Wn.2d 46", "118 Wn.2d 79", "129 Wn. App. 774", "144 Wn.2d 172", "150 F.3d 1217", "23 P.3d 440", "256 F.3d 864", "301 F.3d 958", "36 Fair Empl. Prac. Cas. (BNA) 1893", "411 U.S. 792", "45 Wn. App. 469", "450 U.S. 248", "47 F.3d 1522", "50 Wn. App. 475", "539 U.S. 90", "59 Wn. App. 624", "617 F.2d 129", "65 Wn. App. 93", "66 Wn. App. 829", "693 P.2d 708", "724 P.2d 1003", "726 P.2d 468", "73 Wn. App. 433", "749 P.2d 187", "76 Wn. App. 705", "79 Wn. App. 732", "799 P.2d 1195", "809 F.2d 1371", "821 P.2d 18", "821 P.2d 34", "827 P.2d 1070", "832 P.2d 1378", "845 F. Supp. 1526", "86 F.3d 1423", "869 P.2d 1103", "887 P.2d 424", "90 Wn. App. 110", "90 Wn. App. 468", "904 P.2d 793", "924 F.2d 872", "94 Wn. App. 976", "951 P.2d 321", "957 P.2d 767", "974 P.2d 348"]
+cites_cases: ["103 Wn.2d 401", "106 Wn.2d 675", "118 Wn.2d 46", "118 Wn.2d 79", "144 Wn.2d 172", "150 F.3d 1217", "23 P.3d 440", "256 F.3d 864", "301 F.3d 958", "36 Fair Empl. Prac. Cas. (BNA) 1893", "411 U.S. 792", "45 Wn. App. 469", "450 U.S. 248", "47 F.3d 1522", "50 Wn. App. 475", "539 U.S. 90", "59 Wn. App. 624", "617 F.2d 129", "65 Wn. App. 93", "66 Wn. App. 829", "693 P.2d 708", "724 P.2d 1003", "726 P.2d 468", "73 Wn. App. 433", "749 P.2d 187", "76 Wn. App. 705", "79 Wn. App. 732", "799 P.2d 1195", "809 F.2d 1371", "821 P.2d 18", "821 P.2d 34", "827 P.2d 1070", "832 P.2d 1378", "845 F. Supp. 1526", "86 F.3d 1423", "869 P.2d 1103", "887 P.2d 424", "90 Wn. App. 110", "90 Wn. App. 468", "904 P.2d 793", "924 F.2d 872", "94 Wn. App. 976", "951 P.2d 321", "957 P.2d 767", "974 P.2d 348"]
 ---
 
 # Estevez v. Faculty Club of the University of Washington
