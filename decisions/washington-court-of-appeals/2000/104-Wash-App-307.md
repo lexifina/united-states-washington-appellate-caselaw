@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24711-9-II"
 decided: "2000-12-08"
-citations: ["104 Wash. App. 307", "103 Wash. App. 1041"]
+citations: ["104 Wash. App. 307"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Edward L. Danzer, Appellant, v. The Department of Labor and Industrie
 source_url: "https://static.case.law/wash-app/104/cases/0307-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700260
-cites_cases: ["104 Wn. App. 307", "110 Wn.2d 128", "115 P.2d 142", "117 Wn.2d 382", "117 Wn.2d 805", "121 Wn.2d 513", "135 Wn.2d 193", "138 Wn.2d 413", "143 Wn.2d 1020", "347 P.2d 1062", "50 F.3d 413", "55 Wn.2d 344", "554 F.2d 903", "679 F.2d 105", "7 Wn.2d 562", "750 P.2d 1257", "756 P.2d 142", "79 Wn. App. 436", "81 Wn. App. 123", "816 P.2d 18", "818 P.2d 1362", "830 F.2d 396", "852 P.2d 288", "903 P.2d 470", "913 P.2d 402", "955 P.2d 791", "980 P.2d 701"]
+cites_cases: ["110 Wn.2d 128", "115 P.2d 142", "117 Wn.2d 382", "117 Wn.2d 805", "121 Wn.2d 513", "135 Wn.2d 193", "138 Wn.2d 413", "143 Wn.2d 1020", "347 P.2d 1062", "50 F.3d 413", "55 Wn.2d 344", "554 F.2d 903", "679 F.2d 105", "7 Wn.2d 562", "750 P.2d 1257", "756 P.2d 142", "79 Wn. App. 436", "81 Wn. App. 123", "816 P.2d 18", "818 P.2d 1362", "830 F.2d 396", "852 P.2d 288", "903 P.2d 470", "913 P.2d 402", "955 P.2d 791", "980 P.2d 701"]
 ---
 
 # Danzer v. Department of Labor & Industries
