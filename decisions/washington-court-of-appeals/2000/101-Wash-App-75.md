@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44384-4-I"
 decided: "2000-05-01"
-citations: ["101 Wash. App. 75", "100 Wash. App. 1045"]
+citations: ["101 Wash. App. 75"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Debra Wothers, Appellant, v. Farmers Insurance Company, Respondent."]
 source_url: "https://static.case.law/wash-app/101/cases/0075-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170480
-cites_cases: ["101 Wn. App. 75", "117 Wn.2d 325", "134 Wn.2d 491", "151 P.2d 440", "21 Wn.2d 420", "29 Wn. App. 415", "42 Wn. App. 692", "45 Wn. App. 663", "45 Wn. App. 95", "55 Wn. App. 106", "628 P.2d 855", "713 P.2d 742", "724 P.2d 1059", "726 P.2d 1021", "780 P.2d 853", "815 P.2d 781", "951 P.2d 761"]
+cites_cases: ["117 Wn.2d 325", "134 Wn.2d 491", "151 P.2d 440", "21 Wn.2d 420", "29 Wn. App. 415", "42 Wn. App. 692", "45 Wn. App. 663", "45 Wn. App. 95", "55 Wn. App. 106", "628 P.2d 855", "713 P.2d 742", "724 P.2d 1059", "726 P.2d 1021", "780 P.2d 853", "815 P.2d 781", "951 P.2d 761"]
 ---
 
 # Wothers v. Farmers Insurance
