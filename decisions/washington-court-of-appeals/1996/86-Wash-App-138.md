@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19239-0-II"
 decided: "1996-10-11"
-citations: ["86 Wash. App. 138", "83 Wash. App. 1043"]
+citations: ["86 Wash. App. 138"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Pierce County Housing Authority, Respondent, v. Murrey’s Disposal C
 source_url: "https://static.case.law/wash-app/86/cases/0138-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278972
-cites_cases: ["111 Wn.2d 471", "114 Wn.2d 271", "117 Wn.2d 1", "119 Wn.2d 484", "123 Wn.2d 819", "131 Wn.2d 1012", "179 P.2d 294", "27 Wn.2d 534", "351 P.2d 117", "501 P.2d 178", "532 P.2d 614", "550 P.2d 7", "56 Wn.2d 10", "597 P.2d 383", "656 P.2d 1030", "760 P.2d 925", "787 P.2d 562", "81 Wn.2d 241", "810 P.2d 917", "82 Wn. App. 367", "834 P.2d 6", "85 Wn.2d 176", "86 Wn. App. 138", "87 Wn.2d 195", "872 P.2d 516", "917 P.2d 1120", "92 Wn.2d 789", "98 Wn.2d 434"]
+cites_cases: ["111 Wn.2d 471", "114 Wn.2d 271", "117 Wn.2d 1", "119 Wn.2d 484", "123 Wn.2d 819", "131 Wn.2d 1012", "179 P.2d 294", "27 Wn.2d 534", "351 P.2d 117", "501 P.2d 178", "532 P.2d 614", "550 P.2d 7", "56 Wn.2d 10", "597 P.2d 383", "656 P.2d 1030", "760 P.2d 925", "787 P.2d 562", "81 Wn.2d 241", "810 P.2d 917", "82 Wn. App. 367", "834 P.2d 6", "85 Wn.2d 176", "87 Wn.2d 195", "872 P.2d 516", "917 P.2d 1120", "92 Wn.2d 789", "98 Wn.2d 434"]
 ---
 
 # Pierce County Housing Authority v. Murrey's Disposal Co.
