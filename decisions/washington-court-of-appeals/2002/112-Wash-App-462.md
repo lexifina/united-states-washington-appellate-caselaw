@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20347-6-III"
 decided: "2002-05-23"
-citations: ["112 Wash. App. 462", "111 Wash. App. 1051"]
+citations: ["112 Wash. App. 462"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mike M. Johnson, Inc., Appellant, v. Spokane County, Respondent."]
 source_url: "https://static.case.law/wash-app/112/cases/0462-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719134
-cites_cases: ["112 Wn. App. 462", "130 Wn.2d 97", "148 Wn.2d 1009", "399 P.2d 611", "4 Wn. App. 695", "483 P.2d 880", "65 Wn.2d 817", "77 Wn. App. 137", "890 P.2d 1071", "922 P.2d 43"]
+cites_cases: ["130 Wn.2d 97", "148 Wn.2d 1009", "399 P.2d 611", "4 Wn. App. 695", "483 P.2d 880", "65 Wn.2d 817", "77 Wn. App. 137", "890 P.2d 1071", "922 P.2d 43"]
 ---
 
 # Mike M. Johnson, Inc. v. Spokane County
