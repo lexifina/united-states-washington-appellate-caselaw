@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37388-9-I"
 decided: "1996-09-30"
-citations: ["84 Wash. App. 88", "83 Wash. App. 701"]
+citations: ["84 Wash. App. 88"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Joseph Aqui, Appellant."]
 source_url: "https://static.case.law/wash-app/84/cases/0088-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121719
-cites_cases: ["105 Wn.2d 175", "110 Wn.2d 32", "115 S. Ct. 2004", "115 Wn.2d 1032", "115 Wn.2d 21", "122 Wn.2d 1", "122 Wn.2d 783", "123 Wn.2d 206", "124 Wn.2d 1018", "125 Wn.2d 24", "127 Wn.2d 1018", "127 Wn.2d 690", "131 L. Ed. 2d 1005", "133 Wn.2d 1015", "189 Wash. 625", "24 Wn. App. 69", "479 U.S. 930", "514 U.S. 1129", "58 Wn. App. 921", "600 P.2d 592", "66 P.2d 360", "664 P.2d 109", "71 Wn. App. 798", "713 P.2d 719", "718 P.2d 796", "750 P.2d 632", "77 Wn. App. 596", "77 Wn. App. 882", "793 P.2d 962", "795 P.2d 1158", "804 P.2d 1", "84 Wn. App. 88", "857 P.2d 989", "863 P.2d 85", "864 P.2d 912", "867 P.2d 610", "882 P.2d 747", "892 P.2d 1091", "894 P.2d 1331", "903 P.2d 960", "98 Wn.2d 276"]
+cites_cases: ["105 Wn.2d 175", "110 Wn.2d 32", "115 S. Ct. 2004", "115 Wn.2d 1032", "115 Wn.2d 21", "122 Wn.2d 1", "122 Wn.2d 783", "123 Wn.2d 206", "124 Wn.2d 1018", "125 Wn.2d 24", "127 Wn.2d 1018", "127 Wn.2d 690", "131 L. Ed. 2d 1005", "133 Wn.2d 1015", "189 Wash. 625", "24 Wn. App. 69", "479 U.S. 930", "514 U.S. 1129", "58 Wn. App. 921", "600 P.2d 592", "66 P.2d 360", "664 P.2d 109", "71 Wn. App. 798", "713 P.2d 719", "718 P.2d 796", "750 P.2d 632", "77 Wn. App. 596", "77 Wn. App. 882", "793 P.2d 962", "795 P.2d 1158", "804 P.2d 1", "857 P.2d 989", "863 P.2d 85", "864 P.2d 912", "867 P.2d 610", "882 P.2d 747", "892 P.2d 1091", "894 P.2d 1331", "903 P.2d 960", "98 Wn.2d 276"]
 ---
 
 # In re the Detention of Aqui
