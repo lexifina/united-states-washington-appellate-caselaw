@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27493-7-I"
 decided: "1992-07-06"
-citations: ["67 Wash. App. 492", "66 Wash. App. 1024"]
+citations: ["67 Wash. App. 492"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ignacio Garcia-Hernandez, App
 source_url: "https://static.case.law/wash-app/67/cases/0492-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715455
-cites_cases: ["102 Wn.2d 548", "104 Wn.2d 1009", "109 Wn.2d 1013", "116 Wn.2d 1015", "15 Wn. App. 165", "40 Wn. App. 400", "48 Wn. App. 639", "49 Wn. App. 78", "547 P.2d 906", "58 Wn. App. 908", "621 P.2d 1256", "67 Wn. App. 492", "689 P.2d 38", "698 P.2d 606", "740 P.2d 351", "741 P.2d 1024", "795 P.2d 187", "87 Wn.2d 1005", "95 Wn.2d 1"]
+cites_cases: ["102 Wn.2d 548", "104 Wn.2d 1009", "109 Wn.2d 1013", "116 Wn.2d 1015", "15 Wn. App. 165", "40 Wn. App. 400", "48 Wn. App. 639", "49 Wn. App. 78", "547 P.2d 906", "58 Wn. App. 908", "621 P.2d 1256", "689 P.2d 38", "698 P.2d 606", "740 P.2d 351", "741 P.2d 1024", "795 P.2d 187", "87 Wn.2d 1005", "95 Wn.2d 1"]
 ---
 
 # State v. Garcia-Hernandez
