@@ -1,0 +1,52 @@
+---
+court: "Washington Court of Appeals"
+docket: "1553-2"
+decided: "1975-08-20"
+citations: ["14 Wash. App. 212"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. James A. Kirkpatrick, Appellant."]
+source_url: "https://static.case.law/wash-app/14/cases/0212-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1789637
+cites_cases: ["139 P. (2d) 296", "18 Wn. (2d) 347", "192 P.2d 331", "263 P. (2d) 592", "296 P. (2d) 525", "30 Wn.2d 576", "322 P.2d 356", "329 P. (2d) 471", "392 P.2d 821", "413 P.2d 643", "43 Wn. (2d) 701", "432 P.2d 554", "48 Wn. (2d) 746", "51 Wn.2d 830", "52 Wn. (2d) 824", "64 Wn.2d 548", "68 Wn.2d 428", "72 Wn.2d 183"]
+---
+
+# State v. Kirkpatrick
+
+## Majority (Rummel, J.)
+
+Rummel, J.
+The defendant was convicted of the crime of negligent homicide by motor vehicle. The charge was that on June 5,1973, he did
+operate said motor vehicle in a reckless manner, and with a disregard for the safety of others, and while under the influence of and affected by the use of intoxicating liquor; and, as a direct result of the aforesaid-acts, the said James A. Kirkpatrick did drive his motor vehicle off the said road, striking a utilities pole and two trees before coming to rest, thereby mortally injuring one Darrel Kent, from which mortal injuries the said Darrel Kent languished and died on the 28th day of December, 1973; . . .
+The portion of the information quoted indicates the questions raised on this appeal by the defendant. Restated these are: (1) Was there sufficient proof that the defendant was under the influence of or affected by intoxicating liquor to submit the issue to the jury? (2) Was there sufficient proof of the cause of death of the deceased who died after some 7 months in the hospital? (3) Did the court give proper instructions relative to proximate cause and reckless driving? (4) Was the defendant prejudiced because a highway patrolman was permitted to testify concerning the speed of defendant’s vehicle even though the court later instructed the jury to disregard his testimony?
+The record reflects that a group of young people were having a get-together at a recreation area. The gathering broke up around 1 a.m. On the return trip the defendant’s automobile went off the roadway injuring him and his passenger, the deceased.
+Six persons testified that the defendant had nothing to drink at the party, that he had no odor of alcohol about him, that they noticed nothing unusual about him, and that he did not appear to be affected in any way by alcohol. No one noticed anything erratic about the handling of his car.
+The appellant testified that he had no alcohol at the party, and that prior thereto he and the decedent shared a six-pack of beer, finishing the last beer around 9:30 p.m. They arrived at the party about 10:30 p.m. and the accident happened approximately 4 hours after they finished the six-pack. One of the ambulance attendants stated he smelled alcohol in the ambulance and on both the defendant and the deceased. The other attendant said he smelled it in the ambulance. Trooper Elder of the Highway Patrol testified that the defendant had a strong odor that he associated with intoxicating beverages. No tests for alcohol were conducted. No one testified that, in his opinion, the defendant was under the influence of or affected by intoxicating liquor at the time of the accident.
+A line of Washington cases holds that under similar facts it was error for the court to submit the issue of whether the driver of a car was under the influence of or affected by intoxicating liquor.
+The case of Madill v. Los Angeles Seattle Motor Express, Inc., 64 Wn.2d 548, 392 P.2d 821 (1964) is typical. A plaintiff lady driver had two beers before stopping for dinner. One witness stated that he smelled alcohol, but the doctor who rendered medical attention to the appellant for about 3 hours did not detect an odor of alcohol. The court there comments on the law by reviewing some of the cases as follows, at page 552:
+In White v. Peters, 52 Wn. (2d) 824, 329 P. (2d) 471 (1958), the driver of the car had “one cocktail at lunch,” “one whisky highball” at dinner, and the accident happened at approximately 6:30 p.m. We said:
+“There is no evidence in this case that plaintiff White was affected in any way by the two drinks, and no evidence of conduct or appearance, from which a fair inference could be drawn, that he was under the influence of intoxicating liquor prior to or at the time of the accident.
+“It is prejudicial error for the trial court to submit an issue to the jury when there is no substantial evidence concerning it. Leavitt v. DeYoung, 43 Wn. (2d) 701, 707, 263 P. (2d) 592 (1953), and cases cited. Hence, it was error for the trial court to give instruction No. 16, which permitted the jury to consider plaintiff White’s sobriety, and to give that portion of instruction No. 17, which permitted the jury to consider whether Mr. and Mrs. Buster, as passengers in Mr. White’s car knew or should have known that Mr. White was under the influence of or affected by intoxicating liquors.
+“This conclusion is supported by our decisions in Schalow v. Oakley, 18 Wn. (2d) 347, 139 P. (2d) 296 (1943), and Wood v. Myers, 48 Wn. (2d) 746, 296 P. (2d) 525 (1956).”
+To say from the record in this case that Mrs. Madill had more than one bottle of beer is conceivable; however, we do not know this as a fact from the evidence, and such a conclusion would be based on mere speculation.
+. There is a complete absence of any evidence that she was under the influence of or affected by intoxicating liquor at the time of the accident.
+In commenting on the submission of the case to the jury the court in Madill further stated at page 553:
+Instruction No. 19 permitted the jury to speculate on the issue of whether Mrs. Madill was under the influence of or affected by intoxicating liquor, a fact which is not supported by substantial evidence in the case. Leavitt v. DeYoung, 43 Wn. (2d) 701, 263 P. (2d) 592 (1953). A new trial should have been granted by the trial court.
+In Bohnsack v. Kirkham, 72 Wn.2d 183, 432 P.2d 554 (1967), the court also granted a new trial holding that .evidence of one or more drinks some hours before the accident, coupled with the testimony of the trooper that he detected a “stale” smell of alcohol, but the person was alert and not under the influence, was insufficient to submit the issue of intoxication to the jury. These cases are all civil cases but whether civil or criminal, the rule is the same: it is error to submit an issue of fact to the jury absent “substantial evidence” of the disputed fact.
+Some confusion has arisen in connection with a quote appearing in several cases. In 23A C.J.S. Criminal Law § 1139 (1961) (formerly 23 C.J.S. at 651) the rule is stated as follows at page 345:
+Whether there is evidence legally sufficient to go to the jury is a question of law for the court, but where there is any evidence, however slight, and the evidence is conflicting or is such that reasonable minds may draw different conclusions therefrom, the question is for the jury.
+(Italics ours.) The quote first appears in State v. Cranmer, 30 Wn.2d 576, 585, 192 P.2d 331 (1948). The only mention in this case that it is first necessary that the court find substantial evidence of a fact before submitting an issue to the jury is in another quote immediately following the quote from C.J.S.
+In State v. Reynolds, 51 Wn.2d 830, 834, 322 P.2d 356 (1958), the court cites the Cranmer case and again quotes C.J.S. The quote is only a headnote to section 1139. No mention is made in Reynolds that the court must first find there is substantial evidence.
+In State v. Uglem, 68 Wn.2d 428, 432, 413 P.2d 643 (1966) the quote again appears with no explanation that the court must, find substantial evidence before submitting an issue to the jury. The court found that there was evidence of the consumption of seven beers and declared the evidence sufficient. However, a close reading of these cases would indicate there was no intent to modify the rule of long standing that substantial evidence is required before submitting an issue to a jury.
+An examination of 23A C.J.S. Criminal Law § 1139 reveals that the very point is developed in this section as follows at page 348:
+Where there is no evidence on an issue of fact, or where the evidence is legally insufficient to sustain a finding as to such fact, or where it creates only a suspicion or conjecture, or is undisputed and of such a character that only one inference reasonably can be drawn therefrom, the question becomes one for the determination of the court as a matter of law and should not be submitted to the jury. A mere scintilla of evidence showing guilt is, in view of the presumption of innocence, insufficient to require submission of the case to the jury,
+(Footnotes omitted.)
+Because there was no “substantial evidence” that the defendant was driving while under the influence of or affected by intoxicating liquor, it was error to submit this issue to the jury. A new trial must be granted.
+The reaction of the court to the remaining assignments of error should be stated in anticipation of a new trial. The testimony of the attending physician was that the deceased died of pneumonia, and that this was caused by or was a complication of a severe head and brain injury. Although there was no autopsy this testimony was sufficient to submit the question to the jury.
+Due to the fact that in a new trial the question of intoxication will not be submitted to the jury, it is unnecessary to determine the question of whether the court’s instructions adequately explained that there must be proximate causation between the intoxicated condition of the driver and the fatal injury. We, therefore, do not attempt to do so. Similarly, whether the testimony of the trooper regarding speed prejudiced the jury, even though the trial court instructed the jury to disregard it, will no longer be an issue with the granting of a new trial.
+We have carefully examined the defendant’s remaining assignments of error and find them to be lacking substantial merit.
+Reversed and remanded.
+Leahy (A.C.J.) and Johnson, JJ. Pro Tem., concur.
+Judge Bartlett Rummel is serving as a judge pro tempore of the Court of Appeals pursuant to Laws of 1973, ch. 114.
