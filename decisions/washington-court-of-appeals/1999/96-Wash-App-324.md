@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22448-8-II"
 decided: "1999-06-11"
-citations: ["96 Wash. App. 324", "95 Wash. App. 1075"]
+citations: ["96 Wash. App. 324"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James M. Leupp, Appellant."]
 source_url: "https://static.case.law/wash-app/96/cases/0324-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128700
-cites_cases: ["10 A.L.R.3d 974", "102 Wn.2d 537", "115 Wn.2d 775", "119 Wn.2d 229", "121 Wn.2d 504", "121 Wn.2d 525", "123 Wn.2d 1024", "123 Wn.2d 641", "124 Wn.2d 1029", "125 Wn.2d 1021", "136 Wn.2d 103", "139 Wn.2d 1018", "18 Wn. App. 530", "26 Wn. App. 457", "30 Wn. App. 335", "33 Wn. App. 304", "35 Wn. App. 572", "384 U.S. 436", "533 P.2d 123", "54 Wn. App. 18", "571 P.2d 941", "613 P.2d 1192", "633 P.2d 890", "654 P.2d 1211", "668 P.2d 599", "67 Wn. App. 149", "688 P.2d 859", "71 Wn. App. 267", "71 Wn. App. 326", "72 Wn. App. 407", "73 Wn. App. 348", "74 Wn. App. 23", "75 Wn. App. 351", "771 P.2d 770", "801 P.2d 975", "830 P.2d 658", "835 P.2d 1049", "85 Wn.2d 207", "851 P.2d 673", "852 P.2d 1064", "857 P.2d 1074", "858 P.2d 1112", "865 P.2d 531", "869 P.2d 110", "870 P.2d 313", "871 P.2d 1115", "880 P.2d 48", "90 Wn.2d 1010", "96 Wn. App. 324", "96 Wn.2d 1017", "960 P.2d 927"]
+cites_cases: ["10 A.L.R.3d 974", "102 Wn.2d 537", "115 Wn.2d 775", "119 Wn.2d 229", "121 Wn.2d 504", "121 Wn.2d 525", "123 Wn.2d 1024", "123 Wn.2d 641", "124 Wn.2d 1029", "125 Wn.2d 1021", "136 Wn.2d 103", "139 Wn.2d 1018", "18 Wn. App. 530", "26 Wn. App. 457", "30 Wn. App. 335", "33 Wn. App. 304", "35 Wn. App. 572", "384 U.S. 436", "533 P.2d 123", "54 Wn. App. 18", "571 P.2d 941", "613 P.2d 1192", "633 P.2d 890", "654 P.2d 1211", "668 P.2d 599", "67 Wn. App. 149", "688 P.2d 859", "71 Wn. App. 267", "71 Wn. App. 326", "72 Wn. App. 407", "73 Wn. App. 348", "74 Wn. App. 23", "75 Wn. App. 351", "771 P.2d 770", "801 P.2d 975", "830 P.2d 658", "835 P.2d 1049", "85 Wn.2d 207", "851 P.2d 673", "852 P.2d 1064", "857 P.2d 1074", "858 P.2d 1112", "865 P.2d 531", "869 P.2d 110", "870 P.2d 313", "871 P.2d 1115", "880 P.2d 48", "90 Wn.2d 1010", "96 Wn.2d 1017", "960 P.2d 927"]
 ---
 
 # State v. Leupp
