@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9016-7-III"
 decided: "1991-08-13"
-citations: ["63 Wash. App. 658", "62 Wash. App. 1007"]
+citations: ["63 Wash. App. 658"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of (the Estate of) Eunice M. Thomas, Ap
 source_url: "https://static.case.law/wash-app/63/cases/0658-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1732847
-cites_cases: ["114 Wn.2d 1002", "17 Wn. App. 110", "55 Wn. App. 124", "55 Wn. App. 697", "561 P.2d 1116", "63 Wn. App. 658", "777 P.2d 4", "780 P.2d 863"]
+cites_cases: ["114 Wn.2d 1002", "17 Wn. App. 110", "55 Wn. App. 124", "55 Wn. App. 697", "561 P.2d 1116", "777 P.2d 4", "780 P.2d 863"]
 ---
 
 # In re the Marriage of Thomas
