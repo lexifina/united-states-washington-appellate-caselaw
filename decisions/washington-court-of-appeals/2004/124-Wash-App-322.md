@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "22316-7-III"
+decided: "2004-11-02"
+citations: ["124 Wash. App. 322", "124 Wash. App. 1002"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Darwin Michael Gray, Appellant."]
+source_url: "https://static.case.law/wash-app/124/cases/0322-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 684220
+cites_cases: ["119 Wn.2d 1011", "119 Wn.2d 192", "123 Wn.2d 877", "124 Wn. App. 322", "434 U.S. 898", "558 P.2d 202", "616 P.2d 628", "64 Wn. App. 410", "70 Wn. App. 200", "824 P.2d 533", "829 P.2d 1068", "852 P.2d 1104", "872 P.2d 1097", "88 Wn.2d 13", "94 Wn.2d 216"]
+---
+
+# State v. Gray
+
+## Majority (Kato, C.J.)
+
+¶1
+Kato, C.J.
+— Darwin Gray was convicted of third degree assault for biting the finger of a nurse’s assistant. Claiming the evidence was insufficient to support his conviction, Mr. Gray appeals. We agree and reverse.
+¶2 On October 24, 2002, Jennifer Scheel, a nursing assistant at Sacred Heart Medical Center, was working in the intensive care unit where Mr. Gray was a patient. In four-point restraints, he was banging his head against the bed rails swearing and yelling. Ms. Scheel tried to “redirect” Mr. Gray from being disruptive, but was unsuccessful. Report of Proceedings (RP) at 62.
+¶3 Ms. Scheel entered Mr. Gray’s room in order to put a pillow between his head and the bed rail in an attempt to keep him from hurting himself. Mr. Gray looked up at her and bit her hand.
+¶4 Mr. Gray was charged with and convicted of third degree assault. This appeal follows.
+¶5 He contends the evidence was insufficient to support his conviction. In reviewing a sufficiency of the evidence challenge, the test is whether, after viewing the evidence in a light most favorable to the State, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. State v. Green, 94 Wn.2d 216, 220-21, 616 P.2d 628 (1980). All reasonable inferences from the evidence must be drawn in favor of the State and interpreted most strongly against the defendant. State v. Salinas, 119 Wn.2d 192, 201, 829 P.2d 1068 (1992). The elements of a crime may be established by either direct or circumstantial evidence, and one type is no more valuable than the other. State v. Thompson, 88 Wn.2d 13, 16, 558 P.2d 202, appeal dismissed, 434 U.S. 898 (1977).
+¶6 Mr. Gray argues the State failed to establish that Ms. Scheel was a health care provider as defined in RCW 9A.36.031(l)(h). The elements of third degree assault with which he was charged are (a) an assault (b) on a nurse, physician, or health care provider (c) who was performing his or her nursing or health care duties at the time of the assault. RCW 9A.36.031(l)(h). “ ‘[H]ealth care provider’ means a person certified under chapter 18.71 or 18.73 RCW who performs emergency medical services or a person regulated under Title 18 RCW and employed by, or contracting with, a hospital licensed under chapter 70.41 RCW.” RCW 9A.36.031(l)(h). The State elicited no testimony here that Ms. Scheel was a health care provider as defined in the statute.
+¶7 The jury was instructed that, in order to convict Mr. Gray, it had to find Ms. Scheel was a nurse, physician, or health care provider performing her official duties at the time of the assault. The court, however, did not instruct the jury on the definition of a health care provider. The victim’s status as a health care provider is an essential element of the crime. Defense counsel excepted to the court’s refusal to give an instruction defining health care provider as set out in the statute. Without such an instruction, the State would be relieved of proving Ms. Scheel was a health care provider as defined in RCW 9A.36.031(l)(h). When a question is presented involving these definitions, an explanatory instruction should be crafted. 11 Washington Pattern Jury Instructions: Criminal § 35.23.04 cmt. (Supp. 1998). The court refused to give that instruction.
+f 8 Ms. Scheel testified she was certified by the state of Washington. There was no testimony, however, that she was indeed certified under Title 18 RCW. The State also produced no testimony on the statutory scheme under which she was certified. Furthermore, there was no evidence presented that Sacred Heart was licensed under chapter 70.41 RCW, as required by RCW 9A.36.031(l)(h). In these circumstances, the State failed to establish by any evidence the essential element of the crime charged that the victim was a health care provider under the charging statute. The error was not harmless and requires reversal because the State was relieved of its burden to prove every element of the crime charged.
+¶9 Mr. Gray claims the State did not prove that he was the person who bit Ms. Scheel’s finger. The identity of a criminal defendant and his presence at the scene of the crime must be proved beyond a reasonable doubt. State v. Thomson, 70 Wn. App. 200, 211, 852 P.2d 1104 (1993), aff’d, 123 Wn.2d 877, 872 P.2d 1097 (1994). The defense admitted an exhibit that was a forward and side profile of Mr. Gray. The arresting officer testified the picture was Mr. Gray. Ms. Scheel was then shown a picture of Mr. Gray that was previously admitted as an exhibit. She agreed it was the defendant and described how he looked different from how he had in the hospital. From this evidence the jury could infer that Mr. Gray was the individual present at the crime scene. The evidence was sufficient to establish his identity beyond a reasonable doubt.
+¶10 Mr. Gray also contends the evidence was insufficient to establish his intent. Mr. Gray claims that the evidence of his diminished capacity was overwhelming and established he lacked the ability to form the requisite intent, especially because he claims the State presented no evidence on intent. This claim is not supported by the record.
+¶11 Ms. Scheel testified that Mr. Gray specifically addressed her several times throughout the day when she would enter his room. He yelled at her on several occasions and told her to leave the room. She also testified that when she put the pillow behind his head he looked up at her and bit her. From this evidence the jury could infer the intent. Mr. Gray’s defense of diminished capacity was presented to the jury. It chose to disregard it and convicted Mr. Gray. That was within its province to do. See State v. Walton, 64 Wn. App. 410, 415-16, 824 P.2d 533, review denied, 119 Wn.2d 1011 (1992). The evidence was sufficient to establish intent.
+¶12 However, the jury was instructed on the lesser included offense of fourth degree assault. The evidence was sufficient to support a conviction for fourth degree assault. We reverse the conviction of third degree assault and remand for entry of an amended judgment of guilt of fourth degree assault. Mr. Gray shall be resentenced accordingly.
+Schultheis and Kurtz, JJ., concur.
+Motions for reconsideration granted and opinion modified December 14, 2004 and January 18, 2005.
