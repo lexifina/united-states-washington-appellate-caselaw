@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15560-5-II"
 decided: "1994-07-28"
-citations: ["75 Wash. App. 795", "75 Wash. App. 1006"]
+citations: ["75 Wash. App. 795"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
