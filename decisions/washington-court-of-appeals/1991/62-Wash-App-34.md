@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10432-0-III; 10384-6-III"
 decided: "1991-07-25"
-citations: ["62 Wash. App. 34", "61 Wash. App. 1056"]
+citations: ["62 Wash. App. 34"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Hector Garcia Lua, Appellant.
 source_url: "https://static.case.law/wash-app/62/cases/0034-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1712229
-cites_cases: ["100 Wn.2d 508", "101 Wn.2d 259", "102 Wn.2d 466", "107 Wn.2d 370", "107 Wn.2d 410", "110 Wn.2d 183", "117 Wn.2d 1025", "225 N.J. Super. 466", "37 Wn. App. 539", "39 Wn. App. 7", "481 U.S. 1057", "542 A.2d 966", "587 P.2d 537", "600 P.2d 1264", "601 P.2d 936", "613 P.2d 121", "615 F. Supp. 519", "62 Wn. App. 34", "671 P.2d 1212", "676 P.2d 996", "681 P.2d 867", "687 P.2d 1145", "691 P.2d 239", "730 P.2d 636", "730 P.2d 643", "751 P.2d 294", "810 F.2d 1215", "91 Wn.2d 126", "92 Wn.2d 755", "92 Wn.2d 831", "93 Wn.2d 751"]
+cites_cases: ["100 Wn.2d 508", "101 Wn.2d 259", "102 Wn.2d 466", "107 Wn.2d 370", "107 Wn.2d 410", "110 Wn.2d 183", "117 Wn.2d 1025", "225 N.J. Super. 466", "37 Wn. App. 539", "39 Wn. App. 7", "481 U.S. 1057", "542 A.2d 966", "587 P.2d 537", "600 P.2d 1264", "601 P.2d 936", "613 P.2d 121", "615 F. Supp. 519", "671 P.2d 1212", "676 P.2d 996", "681 P.2d 867", "687 P.2d 1145", "691 P.2d 239", "730 P.2d 636", "730 P.2d 643", "751 P.2d 294", "810 F.2d 1215", "91 Wn.2d 126", "92 Wn.2d 755", "92 Wn.2d 831", "93 Wn.2d 751"]
 ---
 
 # State v. Lua
