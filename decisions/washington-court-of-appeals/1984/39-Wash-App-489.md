@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "5849-2-III"
 decided: "1984-12-20"
-citations: ["39 Wash. App. 489", "39 Wash. App. 1028"]
+citations: ["39 Wash. App. 489"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Fred Elbert Hunsaker, Appella
 source_url: "https://static.case.law/wash-app/39/cases/0489-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1794311
-cites_cases: ["147 P.2d 940", "159 U.S. 523", "20 Wn.2d 443", "32 Wn. App. 204", "35 Wn. App. 243", "378 P.2d 700", "39 Wn. App. 489", "424 P.2d 1021", "61 Wn.2d 457", "639 P.2d 1332", "646 P.2d 135", "666 P.2d 912", "70 Wn.2d 690", "96 Wn.2d 926"]
+cites_cases: ["147 P.2d 940", "159 U.S. 523", "20 Wn.2d 443", "32 Wn. App. 204", "35 Wn. App. 243", "378 P.2d 700", "424 P.2d 1021", "61 Wn.2d 457", "639 P.2d 1332", "646 P.2d 135", "666 P.2d 912", "70 Wn.2d 690", "96 Wn.2d 926"]
 ---
 
 # State v. Hunsaker
