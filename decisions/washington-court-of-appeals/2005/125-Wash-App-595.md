@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "22652-2-III"
+decided: "2005-02-03"
+citations: ["125 Wash. App. 595"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Richard Murrel Mehaffey, Appellant."]
+source_url: "https://static.case.law/wash-app/125/cases/0595-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1270140
+cites_cases: ["121 Wn. App. 859", "137 Wn.2d 472", "144 Wn.2d 665", "30 P.3d 1245", "30 Wn. App. 119", "384 U.S. 436", "39 P.3d 294", "568 P.2d 799", "633 P.2d 92", "66 Wn. App. 927", "75 Wn. App. 500", "76 Wn. App. 811", "834 P.2d 70", "878 P.2d 497", "88 P.3d 424", "888 P.2d 1214", "89 Wn.2d 67", "973 P.2d 452"]
+---
+
+# State v. Mehaffey
+
+## Majority (Sweeney, J.)
+
+¶1 — This appeal follows Richard Mehaffey’s conviction for possession of methamphetamine. He assigns error to the court’s decision allowing the State to amend its information from possessing cocaine to possessing methamphetamine, after the statute of limitations on the charge had run. The amendment is clearly accommodated by the court rules. And there is certainly no prejudice since the amended charge resulted in a lower standard sentencing range. We therefore affirm the conviction. Mr. Mehaffey also assigns error to the sentencing judge’s refusal to decide whether a series of prior crimes constituted the “same criminal conduct” for purposes of the offender score for the current sentence. On this limited record it appears that the court had the discretion to find two separate sets of offenses as the “same criminal conduct” for this current offender score. And so we remand for an exercise of that discretion.
+Sweeney, J.
+FACTS
+¶2 Police arrested Richard M. Mehaffey on March 18, 2000, for driving with a suspended license. They searched him and his car. They found white powder. Field tests indicated cocaine. Mr. Mehaffey waived his Miranda rights and admitted the possession. The State charged him with possession of cocaine. Mr. Mehaffey was diverted into a treatment alternative by the drug court. He failed to complete treatment and came before the court for sentencing. The State agreed to amend the charge to possession of methamphetamine instead of cocaine, because the standard range sentence for possession of methamphetamine is lower. Mr. Mehaffey now challenges the amendment. He contends the statute of limitations for a charge of possession had run when the amendment was entered.
+¶3 Mr. Mehaffey also raises a procedural sentencing issue. Courts have sentenced Mr. Mehaffey twice before. Each time it was for multiple convictions. On the same day in 1998, a court sentenced him for four offenses, two— taking a motor vehicle without permission and attempting to elude police—were committed on the same day. A court sentenced him in 1999 for three counts of possession of stolen property committed on the same day and for one count of taking a motor vehicle without permission on a different day.
+f 4 Mr. Mehaffey represented to the current sentencing court that the 1999 court had imposed concurrent sentences on an offender score of six. The record does not explain how the court arrived at a score of six. Mr. Mehaffey argued for an offender score of seven—prior score of six and one new crime. The State argued that each of the current and prior offenses must be counted separately, for a score of eight.
+¶5 The court sentenced Mr. Mehaffey based on an offender score of eight.
+DISCUSSION
+Amendment of Information
+f 6 Mr. Mehaffey argues that the State’s amendment to charge a new and different crime—possession of methamphetamine rather than cocaine—came too late since the statute of limitations had already run.
+¶7 But the State can amend an information after the limitation period has passed if the original information was timely. State v. Eppens, 30 Wn. App. 119, 123, 633 P.2d 92 (1981). An amended information relates back to the filing date of the original information so long as the charge as amended “ ‘arose out of the conduct, transaction, or occurrence set forth or attempted to be set forth in the original pleading.’ ” Id. (quoting CR 15(c)). Here, the original information was timely. And the charge of possession of methamphetamine is the same conduct set out in the original information—possession. Only the drug possessed has changed.
+¶8 Of course, if the amendment prejudices some right of the defendant, we will not permit it to relate back. CrR 2.1(d); State v. Aleshire, 89 Wn.2d 67, 71, 568 P.2d 799 (1977). But here there is no suggestion of prejudice and for good reason: the new charge results in a lower standard sentencing range than the original charge.
+Prior Criminal History—Offender Score
+¶9 We review a challenge to the offender score de novo. State v. Roche, 75 Wn. App. 500, 513, 878 P.2d 497 (1994).
+¶10 Mr. Mehaffey’s argument here is the same one we answered in State v. Lara—the sentencing court abuses its discretion by not exercising discretion. State v. Lara, 66 Wn. App. 927, 931-32, 834 P.2d 70 (1992). The question in Lara was whether some prior convictions should be labeled “the same criminal conduct” and count for fewer points.
+¶11 An offender score quantifies criminal history for sentencing purposes. It reflects the total of the defendant’s prior felony convictions. State v. Ford, 137 Wn.2d 472, 479, 973 P.2d 452 (1999). The State has the burden to establish on the record the existence and the classification of the convictions relied on in calculating the score. Id. at 480.
+¶12 Sentencing is governed by the version of the Sentencing Reform Act of 1981 (SRA), chapter 9.94A RCW, that was in effect when the current offense was committed. RCW 9.94A.345; State v. Smith, 144 Wn.2d 665, 672, 30 P.3d 1245, 39 P.3d 294 (2001).
+¶13 Mr. Mehaffey has eight prior convictions. He committed his current offense on March 18, 2000. On that date, the applicable statute was former RCW 9.94A.360(5)(a) (1999). It remained in effect until July 1, 2001.
+¶14 The applicable offender score provisions instruct the current sentencing court that prior offenses that were previously found under former RCW 9.94A.400(l)(a) (1999) to encompass the same criminal conduct “shall” be counted as one offense. That is, the previous court’s same criminal conduct determination is final:
+Prior offenses which were found, under RCW 9.94A.400(l)(a), to encompass the same criminal conduct, shall be counted as one offense. . . . The current sentencing court shall determine with respect to other prior adult offenses for which sentences were served concurrently... whether those offenses shall be counted as one offense or as separate offenses using the “same criminal conduct” analysis found in RCW 9.94A.400(l)(a). . . .
+Former RCW 9.94A.360(5)(a)(i).
+¶15 In 1999, multiple offenses comprised same criminal conduct if the sentencing court found they involved the same criminal intent and were committed at the same place and time against the same victim. There was also a second class of multiple offenses: those that were sentenced on the same date but were not determined to be same criminal conduct. In sentencing these, the court counted them separately for offender score purposes, but imposed concurrent sentences. Former RCW 9.94A.400(l)(a).
+¶16 The rule applicable to Mr. Mahaffey’s March 2000 offenses labels these as “other” prior offenses. The current court is required to determine independently whether other concurrently sentenced prior convictions, not previously determined to be same criminal conduct under former RCW 9.94A.400(l)(a), are nevertheless same criminal conduct under former RCW 9.94A.400(l)(a). Former RCW 9.94A.360(5)(a)(i).
+¶17 Our decision in Lara is helpful, although the rule has since been changed slightly. There, we held that the current court must determine whether prior convictions not previously defined as same criminal conduct are indeed the same criminal conduct. Lara, 66 Wn. App. at 931. Said another way, the court must exercise the discretion vested by the statute. State v. Wright, 76 Wn. App. 811, 828-29, 888 P.2d 1214 (1995).
+¶18 Mr. Mehaffey’s criminal history includes two offenses in 1998—taking a motor vehicle without permission and attempting to elude an officer—that were committed on the same day and sentenced on the same day. Again in 1999, he was convicted for three counts of possession of stolen property all committed on the same day.
+¶19 The current sentencing court may presume prior offenses were not same criminal conduct when they were sentenced on different dates or in different courts, or were charged in separate informations. RCW 9.94A.525(5)(a)(i). Mr. Mehaffey argues from this that the sentencing judge here should presume that his prior offenses had been found to be same criminal conduct from the fact that the prior sentencing court counted them as one offense. He has a point. But we are reluctant to go along with him on the meager record before us. We hold instead that the court must at least make its own determination whether these crimes are the same criminal conduct. Wright, 76 Wn. App. at 829.
+¶20 We affirm the conviction. We remand for resentencing with instructions to determine whether any prior convictions sentenced concurrently were same criminal conduct, either as previously determined or currently determined.
+Kato, C.J., and Kurtz, J., concur.
+Miranda v. Arizona, 384 U.S. 436, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966).
+Identifying the controlling law under the SRA is a struggle. In re Pers. Restraint of Jones, 121 Wn. App. 859, 862, 88 P.3d 424 (2004).
+The former statute did not restrict the current court to the definition of same criminal conduct found in former RCW 9.94A.400(l)(a). Lara, 66 Wn. App. at 931, interpreting former RCW 9.94A.360(6)(a) (1990). The statute applicable here does require the current court to apply the same definition as the previous court. Former RCW 9.94A.360(5)(a)(i). This is the only difference.
