@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7722-5-III"
 decided: "1987-10-22"
-citations: ["49 Wash. App. 691", "49 Wash. App. 1051"]
+citations: ["49 Wash. App. 691"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Allen Lee Holyoak, Appellant.
 source_url: "https://static.case.law/wash-app/49/cases/0691-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739122
-cites_cases: ["105 Wn.2d 1010", "106 Wn.2d 514", "108 Wn.2d 1008", "108 Wn.2d 419", "310 N.W.2d 683", "42 Wn. App. 78", "43 Wn. App. 340", "45 Wn. App. 528", "45 Wn. App. 893", "46 Wn. App. 466", "47 Wn. App. 147", "49 Wn. App. 691", "709 P.2d 1209", "717 P.2d 282", "723 P.2d 1117", "726 P.2d 997", "728 P.2d 1075", "731 P.2d 1114", "734 P.2d 36", "739 P.2d 683"]
+cites_cases: ["105 Wn.2d 1010", "106 Wn.2d 514", "108 Wn.2d 1008", "108 Wn.2d 419", "310 N.W.2d 683", "42 Wn. App. 78", "43 Wn. App. 340", "45 Wn. App. 528", "45 Wn. App. 893", "46 Wn. App. 466", "47 Wn. App. 147", "709 P.2d 1209", "717 P.2d 282", "723 P.2d 1117", "726 P.2d 997", "728 P.2d 1075", "731 P.2d 1114", "734 P.2d 36", "739 P.2d 683"]
 ---
 
 # State v. Holyoak
