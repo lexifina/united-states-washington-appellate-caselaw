@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12131-3-III"
 decided: "1993-10-05"
-citations: ["71 Wash. App. 626", "71 Wash. App. 1035"]
+citations: ["71 Wash. App. 626"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Cindy L. Heigis, Appellant, v. Monica Marie Cepeda, ET AL, Respondent
 source_url: "https://static.case.law/wash-app/71/cases/0626-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787244
-cites_cases: ["105 Wn.2d 381", "105 Wn.2d 499", "110 Ga. App. 417", "123 P. 526", "138 S.E.2d 687", "18 A.L.R.3d 482", "348 So. 2d 472", "422 P.2d 817", "46 Wn. App. 822", "650 F. Supp. 1346", "68 Wash. 401", "70 Wn.2d 309", "71 Wn. App. 626", "715 P.2d 1133", "716 P.2d 869", "733 P.2d 231", "809 P.2d 746", "89 N.M. 423"]
+cites_cases: ["105 Wn.2d 381", "105 Wn.2d 499", "110 Ga. App. 417", "123 P. 526", "138 S.E.2d 687", "18 A.L.R.3d 482", "348 So. 2d 472", "422 P.2d 817", "46 Wn. App. 822", "650 F. Supp. 1346", "68 Wash. 401", "70 Wn.2d 309", "715 P.2d 1133", "716 P.2d 869", "733 P.2d 231", "809 P.2d 746", "89 N.M. 423"]
 ---
 
 # Heigis v. Cepeda
