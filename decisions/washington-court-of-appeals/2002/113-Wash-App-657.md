@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28032-9-II"
 decided: "2002-09-20"
-citations: ["113 Wash. App. 657", "113 Wash. App. 1044"]
+citations: ["113 Wash. App. 657"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Brian Clay Clausen, Appellant
 source_url: "https://static.case.law/wash-app/113/cases/0657-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764657
-cites_cases: ["102 Wn. App. 327", "106 Wn.2d 144", "110 Wn. App. 604", "113 Wn. App. 657", "139 Wn.2d 486", "43 P.3d 522", "6 P.3d 1245", "720 P.2d 436", "91 Wn. App. 554", "958 P.2d 1017", "987 P.2d 73"]
+cites_cases: ["102 Wn. App. 327", "106 Wn.2d 144", "110 Wn. App. 604", "139 Wn.2d 486", "43 P.3d 522", "6 P.3d 1245", "720 P.2d 436", "91 Wn. App. 554", "958 P.2d 1017", "987 P.2d 73"]
 ---
 
 # State v. Clausen
