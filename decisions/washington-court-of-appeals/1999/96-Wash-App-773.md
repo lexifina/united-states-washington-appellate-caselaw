@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43321-1-I"
 decided: "1999-07-19"
-citations: ["96 Wash. App. 773", "96 Wash. App. 1048"]
+citations: ["96 Wash. App. 773"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["J.L. Steele, Respondent, v. Gary Lundgren, et al., Appellants."]
 source_url: "https://static.case.law/wash-app/96/cases/0773-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128586
-cites_cases: ["100 Wn.2d 581", "108 Wn.2d 558", "115 Wn.2d 364", "122 Wn.2d 141", "130 Wn.2d 1010", "135 Wn.2d 398", "137 Wn.2d 1019", "139 Wn.2d 1026", "20 Wn. App. 229", "29 Wn. App. 168", "42 U.S.C. § 1988", "461 U.S. 424", "477 U.S. 561", "580 P.2d 642", "627 P.2d 1002", "675 P.2d 193", "740 P.2d 1379", "79 Wn. App. 841", "798 P.2d 799", "81 Wn. App. 228", "859 P.2d 1210", "91 Wn. App. 280", "914 P.2d 86", "917 P.2d 1086", "957 P.2d 632", "959 P.2d 133", "96 Wn. App. 773"]
+cites_cases: ["100 Wn.2d 581", "108 Wn.2d 558", "115 Wn.2d 364", "122 Wn.2d 141", "130 Wn.2d 1010", "135 Wn.2d 398", "137 Wn.2d 1019", "139 Wn.2d 1026", "20 Wn. App. 229", "29 Wn. App. 168", "42 U.S.C. § 1988", "461 U.S. 424", "477 U.S. 561", "580 P.2d 642", "627 P.2d 1002", "675 P.2d 193", "740 P.2d 1379", "79 Wn. App. 841", "798 P.2d 799", "81 Wn. App. 228", "859 P.2d 1210", "91 Wn. App. 280", "914 P.2d 86", "917 P.2d 1086", "957 P.2d 632", "959 P.2d 133"]
 ---
 
 # Steele v. Lundgren
