@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24946-4-II"
 decided: "2000-10-27"
-citations: ["103 Wash. App. 435", "103 Wash. App. 1010"]
+citations: ["103 Wash. App. 435"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Danny Lee Gill, Appellant."]
 source_url: "https://static.case.law/wash-app/103/cases/0435-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102640
-cites_cases: ["101 Wn. App. 885", "101 Wn.2d 566", "103 Wn. App. 435", "110 Wn.2d 403", "111 Wn.2d 353", "114 Wn.2d 77", "115 Wn.2d 60", "116 Wn.2d 466", "117 Wn.2d 93", "118 Wn.2d 151", "119 Wn.2d 192", "124 Wn.2d 402", "137 Wn.2d 472", "137 Wn.2d 490", "139 Wn.2d 186", "404 U.S. 1061", "448 F.2d 626", "514 P.2d 1393", "54 Wn. App. 751", "57 Wn. App. 501", "6 P.3d 53", "618 P.2d 99", "67 Wn. App. 921", "683 P.2d 173", "73 Wn. App. 165", "756 P.2d 105", "759 P.2d 436", "775 P.2d 981", "785 P.2d 1134", "789 P.2d 772", "794 P.2d 850", "805 P.2d 806", "812 P.2d 86", "82 Wn. App. 832", "822 P.2d 775", "829 P.2d 1068", "841 P.2d 774", "868 P.2d 179", "879 P.2d 920", "88 Wn. App. 485", "9 Wn. App. 792", "919 P.2d 1263", "94 Wn.2d 634", "945 P.2d 736", "973 P.2d 452", "973 P.2d 461", "985 P.2d 384"]
+cites_cases: ["101 Wn. App. 885", "101 Wn.2d 566", "110 Wn.2d 403", "111 Wn.2d 353", "114 Wn.2d 77", "115 Wn.2d 60", "116 Wn.2d 466", "117 Wn.2d 93", "118 Wn.2d 151", "119 Wn.2d 192", "124 Wn.2d 402", "137 Wn.2d 472", "137 Wn.2d 490", "139 Wn.2d 186", "404 U.S. 1061", "448 F.2d 626", "514 P.2d 1393", "54 Wn. App. 751", "57 Wn. App. 501", "6 P.3d 53", "618 P.2d 99", "67 Wn. App. 921", "683 P.2d 173", "73 Wn. App. 165", "756 P.2d 105", "759 P.2d 436", "775 P.2d 981", "785 P.2d 1134", "789 P.2d 772", "794 P.2d 850", "805 P.2d 806", "812 P.2d 86", "82 Wn. App. 832", "822 P.2d 775", "829 P.2d 1068", "841 P.2d 774", "868 P.2d 179", "879 P.2d 920", "88 Wn. App. 485", "9 Wn. App. 792", "919 P.2d 1263", "94 Wn.2d 634", "945 P.2d 736", "973 P.2d 452", "973 P.2d 461", "985 P.2d 384"]
 ---
 
 # State v. Gill
