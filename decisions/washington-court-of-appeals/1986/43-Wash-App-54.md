@@ -1,0 +1,86 @@
+---
+court: "Washington Court of Appeals"
+docket: "13550-3-I"
+decided: "1986-03-03"
+citations: ["43 Wash. App. 54"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Donald S. Gerard, et al, Appellants, v. San Juan County, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/43/cases/0054-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1806335
+cites_cases: ["135 Cal. Rptr. 758", "151 N.J. Super. 27", "229 Cal. App. 2d 602", "33 Wn. App. 239", "376 A.2d 541", "40 Cal. Rptr. 505", "653 P.2d 1355", "66 Cal. App. 3d 191"]
+---
+
+# Gerard v. San Juan County
+
+## Majority (Scholfield, C.J.)
+
+Scholfield, C.J.
+Donald and Arlene Gerard and David MacBryer appeal the trial court's dismissal with prejudice of their declaratory judgment action, which sought relief from the San Juan County Planning Department's decision to deny development permits for land owned by the Ger-ards and MacBryer.
+Facts
+Appellants Donald and Arlene Gerard purchased 165 acres of land on Oreas Island from the Crown Zellerbach Foundation in 1974. In September 1980, the Gerards decided to subdivide their land through a series of conveyances from the community to husband or wife separately, and one conveyance to David MacBryer. The Gerards did not apply for plat approval with the San Juan County Planning Department, but rather structured the conveyances attempting to take advantage of exemptions permitted under the County's short plat ordinance (San Juan County Code (SJCC) 16.08.020(e) and (m) and the County's long plat ordinance (SJCC 16.04.020(2)).
+The sequence of conveyances was as follows:
+A. On September 10, 1980, seven parcels were created that were exempt from platting requirements because they were all over 15 acres. SJCC 16.04.020(2), 16.08.020(e). One of these parcels was conveyed to MacBryer.
+B. The northern section (of the seven created) was further divided into three parcels, each over 5 acres, pursuant to the short plat exemption, applicable to a division of land into fewer than five parcels. SJCC 16.08.020(m). This subsection exempts divisions of land where the owner has owned the land for 3 years or longer, if no parcel created is under 5 acres.
+C. The last set of transactions on September 10, 1980, was the division of the southwest section into three parcels pursuant to the short plat exemption, SJCC 16.08.020(m).
+Thus, on September 10, 1980, 11 parcels were created, 3 of which were retained by the community, 4 held by Donald Gerard, 3 held by Arlene Gerard, and 1 held by MacBryer.
+D. On December 3, 1980, the Gerards further subdivided their land. First, they created three parcels out of the southeast parcel under the 15-acre exemption to the platting requirements. SJCC 16.04.020(2), 16.08.020(e).
+E. The northern portion of this same southeast parcel was further divided into three parcels, pursuant to the short plat exemption, SJCC 16.08.020(m).
+F. Finally, the southern portion of the southeast parcel was divided into four parcels, again pursuant to the short plat exemption. SJCC 16.08.020(m).
+Thus, a total of 18 parcels were created, with 4 retained by the community, 6 owned separately by Donald Gerard, 7 owned separately by Arlene Gerard, and 1 owned by Mac-Bryer.
+No development was begun on the parcels, nor were any building permits applied for. In addition, Gerard continued to treat the MacBryer parcel as his own, and even included it as an asset in his (Gerard's) subsequent bankruptcy proceedings.
+On December 16, 1980, San Juan County amended SJCC 16.08, prohibiting the sequential use of exemptions, and lengthening the prior holding period required for the use of exemptions.
+The subdivision came to the attention of the Planning Department through review of assessor's maps. The Department decided that the subdivision was illegal because the overall effect of the transactions was to create an 18-parcel long plat on the property without plat approval.
+On April 5, 1982, the Planning Department met with the Gerards and their attorney to discuss the division of the parcel. No resolution was reached at this meeting.
+On June 30, 1982, the Planning Department issued a final letter of determination, declaring the subdivision of the parcel to be illegal and informing the Gerards that no development permits would be issued for any portion of the parcel. The Department further suggested that the Gerards either file for plat approval or rescind the land division.
+The Gerards appealed to the San Juan County Board of Commissioners. On August 10, 1982, the Board upheld the Planning Department's finding and set forth findings and conclusions.
+The Gerards filed an action for declaratory relief, writ of prohibition and damages on September 27, 1982 in San Juan County Superior Court.
+The trial court permitted discovery by both parties, and subsequently conducted a fact-finding trial on March 22 to 23, 1983.
+On May 6, 1983, the trial court entered findings and conclusions, determining that the Planning Department correctly decided that the exemptions of SJCC 16.08 did not apply to the Gerards' subdivision of their land, that long plat approval would be required, that the conveyances were not valid, and quieting title in the whole parcel in the Gerard marital community.
+Scope of Review
+Preliminarily, this court must take note of the unusual procedural posture of this case. Following a decision by the San Juan County Board of Commissioners, the Gerards filed a declaratory judgment action and writ of prohibition in the San Juan County Superior Court. Superior court review by writ of review under RCW 7.16.120 is limited to review of the record of action taken by the administrative body and a determination of whether that body's actions were arbitrary, capricious or contrary to law. Bay Indus., Inc. v. Jefferson Cy., 33 Wn. App. 239, 653 P.2d 1355 (1982).
+However, San Juan County did not object to the complete trial conducted by the court, nor did the County move to limit the trial court's review to the administrative record. Accordingly, although the trial court erred by failing to sit as an appellate court, the Court of Appeals will review this case on the trial court record.
+Serial Use of Short Plat Exemptions
+The Gerards contend that their transactions were exempt from platting requirements because they created a series of short plats, all qualifying for exemptions, under either (e) or (m) of SJCC 16.08.020. They argue that once a parcel is conveyed, it becomes a separate entity, not related to the surrounding land.
+The County argues that the exemptions contained in the short plat ordinance are inapplicable to any transaction which ultimately involves more than four lots. The County contends that permitting the Gerards to circumvent the platting requirements would undermine the legislative intent to require County approval of subdivisions.
+Under SJCC 16.04.020 and 16.08.020(e), any division of land in which the smallest lot created is 15 acres or more is exempt from the provisions of either ordinance. The first seven lots created by the Gerards were all greater than 15 acres, and thus would be exempt from the platting requirements, whether a short plat or a long plat was created. Additionally, the first three parcels created by the Gerards on December 3, 1980, located in the southeast corner of the land, also consisted of parcels which were greater than 15 acres. Thus, these three parcels would also be exempt from the platting requirements under either SJCC 16.04.020 or 16.08.020(e).
+However, the Gerards sought to create several smaller parcels, ranging in size from 5 to 15 acres. They structured their transactions to take advantage of the exemptions permitted in the short plat ordinance, SJCC 16.08, which relates to creation of no more than four parcels. The pertinent exemption is 16.08.020(m), which reads as follows:
+any division of land by an owner who has owned the land, of record, for a period of three years or more, when no parcel is created which is less than five acres, provided that an owner subdividing land under this exemption must comply with the requirements of SJCC 16.08.130 (b), 'a statement of disclosure'.
+The exemptions permitted under the short plat ordinance could be applied to the Gerards' transactions only if each of the original seven parcels created is considered to be a separate parcel once it is conveyed.
+Under the long plat ordinance (relating to creation of five or more parcels), no similar exemption exists. Gerard developed an 18-parcel subdivision relying on exemptions that applied only to short plats. In addition, SJCC 16.04-.010, dealing with applicability, states:
+Every subdivision of land within the unincorporated area of San Juan County shall proceed in compliance with this chapter. This section in its application shall be interpreted to mean that all contiguous parcels of land, regardless of date of acquisition or location in separate Government Lots, Sections, Quarter Sections, or Townships, that are to be subdivided shall constitute a single subdivision action. Land divided as a short subdivision within five years immediately preceding may be resubdi-vided pursuant to this chapter.
+(Italics ours.)
+Although this issue has not been examined by Washington courts, several other jurisdictions have refused to permit property owners to circumvent the subdivision ordinances.
+In Mount Laurel Township v. Barbieri, 151 N.J. Super. 27, 376 A.2d 541 (1977), the owners conveyed property jointly to three couples while a subdivision application was under consideration. The new owners filed suit for partition of the land and then executed a consent judgment. When the planning board filed suit to vacate the partition judgment, the couples argued that a consent partition judgment is exempt from subdivision requirements.
+The Appellate Division held that the partition judgment was
+a contrived one—sought and effectuated by the three couples for the sole purpose of avoiding the applicable municipal and state subdivision controls. . . .
+A partition decree so motivated and unsupported by any evidential basis cannot be considered an exempt court-ordered subdivision. To hold otherwise would make a mockery of the municipal subdivision statute.
+Mount Laurel, at 37.
+In Bright v. Board of Supervisors, 66 Cal. App. 3d 191, 135 Cal. Rptr. 758 (1977), Bright owned parcel A as his separate property, and he and his wife later acquired adjoining parcel B as community property. Bright conveyed his interest in a portion of parcel B to his wife as her separate property, creating parcel C, with all three parcels being contiguous. Bright proposed to divide his separately owned parcel A into four lots. The planning department denied his application because his division did not fulfill requirements of the Subdivision Map Act, applicable to division of land into five or more lots.
+Bright argued, and the trial court so found, that there was not substantial evidence that a common plan of development existed for parcels A, B and C. The Court of Appeals held that Bright was a subdivider, and that because the parcels were contiguous, they must be considered together.
+The Bright court took note of an older California case, Pratt v. Adams, 229 Cal. App. 2d 602, 40 Cal. Rptr. 505 (1964), in which a group of owners attempted to avoid subdivision requirements by obtaining a court ordered partition into 12 parcels. The Pratt court found that the purpose of the action was to circumvent the state and local subdivision laws, and it stated that "[t]he plan should be construed as a whole, not as if there were several transactions, each involving not more than 4 parcels". Pratt, at 605.
+The purpose for adopting exemptions to platting requirements is to create certain flexibility for landowners in specific situations, while at the same time still safeguarding environmental interests. The purpose of the carefully constructed transactions carried out by the Gerards was solely to avoid the costs and requirements of platting, thereby circumventing the purpose of the platting ordinance. We hold that the Gerards' transactions constituted the creation of a long plat without complying with the statutory requirements and was therefore done illegally.
+However, any lots created in these transactions which were over 15 acres (the first seven parcels created on September 10, 1980, and the first three parcels created on December 3, 1980) were exempt under both the short plat ordinance and the long plat ordinance. Therefore, this court holds that these land divisions were valid, with one exception.
+The evidence presented at trial indicated that the conveyance of the parcel of land to MacBryer was not intended to be a true conveyance. The trial court so found based on substantial evidence. MacBryer did not pay taxes on the parcel, and the Gerards listed it as an asset in their bankruptcy proceedings. Accordingly, we hold that this conveyance to MacBryer was not valid.
+Statutory Interpretation
+A question also arose concerning specific interpretation of SJCC 16.08.020(m), as to whether the necessary 3-year holding period meant merely that the party subdividing must have had some sort of ownership interest in the land in the previous 3 years, as the Gerards contend, or whether any change in ownership required a new running of the 3-year period, as the County contends. Because we have decided that the Gerards' transactions constituted a long plat, we need not examine further the application of the short plat exemptions. We would note, however, that San Juan County amended SJCC 16.08.020(m) on December 16, 1980, prohibiting the serial use of exemptions and lengthening the prior holding period required for use of exemptions to 5 years, thus adopting the County Planning Department's view.
+Attorney's Fees
+The County argues that, under RCW 64.40.020, as the prevailing party in this case, it is entitled to reasonable costs and attorney's fees both at the trial court level and on appeal.
+RCW 64.40.020 provides that:
+(1) Owners of a property interest who have filed an application for a permit have an action for damages to obtain relief from acts of an agency which are arbitrary, capricious, unlawful, or exceed lawful authority, or relief from a failure to act within time limits established by law: Provided, That the action is unlawful or in excess of lawful authority only if the final decision of the agency was made with knowledge of its unlawfulness or that it was in excess of lawful authority, or it should reasonably have been known to have been unlawful or in excess of lawful authority.
+(2) The prevailing party in an action brought pursuant to this chapter may be entitled to reasonable costs and attorney's fees.
+To qualify as an action for which attorney's fees are available to the prevailing party, a property owner must have filed an application for a permit and must also have alleged that the agency's actions were arbitrary, capricious or unlawful, etc. As defined in RCW 64.40.010, ”[p]ermit" means "any governmental approval required by law before an owner of a property interest may improve, sell, transfer, or otherwise put real property to use."
+The Gerards filed no applications for building permits. Alleging arbitrary, capricious or unlawful processing of an application for a permit is required under RCW 64.40.020. Strict construction of the statute requires denial of attorney's fees to San Juan County, and we so hold.
+The trial court is therefore affirmed in part with respect to all subdivisions conducted under exemption of SJCC 16.08.020(m), and reversed in part with respect to the 15-acre parcels created under either SJCC 16.08.020(e) or
+16.04.020, and is also reversed with respect to the award of attorney's fees.
+Webster, J., and Petrie, J. Pro Tern., concur.
+SJCC 16.08.020(m) was amended on December 16, 1980. All citations in this opinion to SJCC 16.08.020(m) refer to the former code section.
+SJCC 16.08.020(e) and (m) read in pertinent part:
+"The provisions of this ordinance shall not apply to land divided under the following conditions (where any question arises, the burden of proof shall be on the person or persons claiming the exemption)
+" (e) any division of land in which the smallest lot created is fifteen acres or more, except as otherwise provided in subsection (m);
+"(m) any division of land by an owner who has owned the land, of record, for a period of three years or more, when no parcel is created which is less than five acres, provided that an owner subdividing land under this exemption must comply with the requirements of SJCC 16.08.130 (b), 'a statement of disclosure'. For purposes of this section, an estate or an heir may count the time the deceased owned the land as well as the time the estate or heir has owned the land. A variance to the three-year holding provision may be granted by the Board under the variance procedure in cases of extreme hardship including the death of the property owner.”
+SJCC 16.04.020(2) reads in pertinent part:
+"The provisions of this chapter shall not apply to:
+”2. any division of land in which the smallest lot created by the division exceeds fifteen acres:”
