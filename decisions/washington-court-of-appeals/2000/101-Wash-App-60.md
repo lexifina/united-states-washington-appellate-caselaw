@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44281-3-I; 44133-7-I"
 decided: "2000-04-24"
-citations: ["101 Wash. App. 60", "100 Wash. App. 1038"]
+citations: ["101 Wash. App. 60"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of A.S. The State of Washington, Resp
 source_url: "https://static.case.law/wash-app/101/cases/0060-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170669
-cites_cases: ["101 Wn. App. 60", "108 Wn.2d 1035", "119 S. Ct. 202", "127 Wn.2d 124", "128 Wn.2d 129", "130 Wn.2d 418", "134 Wn.2d 1003", "138 Wn.2d 1019", "141 Wn.2d 1030", "142 L. Ed. 2d 166", "1997 WL 435887", "39 Wn. App. 392", "455 U.S. 745", "47 Wn. App. 734", "50 Wn. App. 822", "525 U.S. 887", "695 P.2d 128", "737 P.2d 280", "75 Wn. App. 781", "750 P.2d 1301", "880 P.2d 88", "896 P.2d 1258", "904 P.2d 1132", "924 P.2d 21", "94 Wn. App. 511", "953 P.2d 96", "973 P.2d 474", "989 P.2d 1140"]
+cites_cases: ["108 Wn.2d 1035", "119 S. Ct. 202", "127 Wn.2d 124", "128 Wn.2d 129", "130 Wn.2d 418", "134 Wn.2d 1003", "138 Wn.2d 1019", "141 Wn.2d 1030", "142 L. Ed. 2d 166", "1997 WL 435887", "39 Wn. App. 392", "455 U.S. 745", "47 Wn. App. 734", "50 Wn. App. 822", "525 U.S. 887", "695 P.2d 128", "737 P.2d 280", "75 Wn. App. 781", "750 P.2d 1301", "880 P.2d 88", "896 P.2d 1258", "904 P.2d 1132", "924 P.2d 21", "94 Wn. App. 511", "953 P.2d 96", "973 P.2d 474", "989 P.2d 1140"]
 ---
 
 # State v. Safouane
