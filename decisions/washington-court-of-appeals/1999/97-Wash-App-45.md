@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42837-3-I"
 decided: "1999-07-26"
-citations: ["97 Wash. App. 45", "96 Wash. App. 1054"]
+citations: ["97 Wash. App. 45"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James Janda, Appellant, v. Brier Realty, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/97/cases/0045-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184228
-cites_cases: ["134 Wash. 636", "135 Wn.2d 820", "15 Wn. App. 540", "236 P. 276", "237 P.2d 487", "26 Wn. App. 701", "39 Wn.2d 571", "54 Wn. App. 688", "550 P.2d 42", "615 P.2d 1305", "71 Wn. App. 48", "775 P.2d 474", "84 Wn. App. 393", "856 P.2d 713", "92 Wn. App. 816", "928 P.2d 1108", "959 P.2d 651", "965 P.2d 636", "97 Wn. App. 45"]
+cites_cases: ["134 Wash. 636", "135 Wn.2d 820", "15 Wn. App. 540", "236 P. 276", "237 P.2d 487", "26 Wn. App. 701", "39 Wn.2d 571", "54 Wn. App. 688", "550 P.2d 42", "615 P.2d 1305", "71 Wn. App. 48", "775 P.2d 474", "84 Wn. App. 393", "856 P.2d 713", "92 Wn. App. 816", "928 P.2d 1108", "959 P.2d 651", "965 P.2d 636"]
 ---
 
 # Janda v. Brier Realty
