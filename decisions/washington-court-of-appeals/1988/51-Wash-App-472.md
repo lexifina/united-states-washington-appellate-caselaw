@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10465-2-II"
 decided: "1988-02-10"
-citations: ["51 Wash. App. 472", "50 Wash. App. 1051"]
+citations: ["51 Wash. App. 472"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Marc R. Tomlinson, Appellant, v. The State of Washington, et al, Resp
 source_url: "https://static.case.law/wash-app/51/cases/0472-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591909
-cites_cases: ["103 S. Ct. 730", "265 So. 2d 542", "27 Wn. App. 65", "319 P.2d 824", "328 P.2d 150", "449 N.Y.S.2d 351", "459 U.S. 1106", "51 Wn. App. 472", "52 Wn.2d 589", "52 Wn.2d 8", "527 P.2d 1121", "616 P.2d 674", "628 P.2d 1308", "646 P.2d 113", "654 P.2d 839", "663 P.2d 457", "74 L. Ed. 2d 954", "84 Wn.2d 551", "87 A.D.2d 913", "95 Wn.2d 693", "97 Wn.2d 317", "99 Wn.2d 466"]
+cites_cases: ["103 S. Ct. 730", "265 So. 2d 542", "27 Wn. App. 65", "319 P.2d 824", "328 P.2d 150", "449 N.Y.S.2d 351", "459 U.S. 1106", "52 Wn.2d 589", "52 Wn.2d 8", "527 P.2d 1121", "616 P.2d 674", "628 P.2d 1308", "646 P.2d 113", "654 P.2d 839", "663 P.2d 457", "74 L. Ed. 2d 954", "84 Wn.2d 551", "87 A.D.2d 913", "95 Wn.2d 693", "97 Wn.2d 317", "99 Wn.2d 466"]
 ---
 
 # Tomlinson v. State
