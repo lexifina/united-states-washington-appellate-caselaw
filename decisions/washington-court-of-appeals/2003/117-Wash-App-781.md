@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49719-7-I"
 decided: "2003-05-05"
-citations: ["117 Wash. App. 781", "116 Wash. App. 1060"]
+citations: ["117 Wash. App. 781"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Frederick J. Brown, Respondent, v. The City of Seattle, Appellant."]
 source_url: "https://static.case.law/wash-app/117/cases/0781-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 653050
-cites_cases: ["105 Wn. App. 143", "107 Wn. App. 109", "117 Wn. App. 781", "119 Wn.2d 1", "119 Wn.2d 34", "123 Wn.2d 621", "144 Wn.2d 640", "144 Wn.2d 665", "19 P.3d 453", "26 P.3d 955", "30 P.3d 1245", "30 P.3d 453", "42 U.S.C. § 1983", "513 P.2d 18", "536 P.2d 157", "637 P.2d 652", "646 P.2d 113", "67 Wn. App. 436", "689 F. Supp. 477", "71 Wn. App. 120", "82 Wn.2d 694", "829 P.2d 765", "830 P.2d 318", "836 P.2d 235", "85 Wn.2d 441", "857 P.2d 1053", "869 P.2d 1034", "94 Wn. App. 849", "96 Wn.2d 552", "97 Wn.2d 317", "973 P.2d 1078"]
+cites_cases: ["105 Wn. App. 143", "107 Wn. App. 109", "119 Wn.2d 1", "119 Wn.2d 34", "123 Wn.2d 621", "144 Wn.2d 640", "144 Wn.2d 665", "19 P.3d 453", "26 P.3d 955", "30 P.3d 1245", "30 P.3d 453", "42 U.S.C. § 1983", "513 P.2d 18", "536 P.2d 157", "637 P.2d 652", "646 P.2d 113", "67 Wn. App. 436", "689 F. Supp. 477", "71 Wn. App. 120", "82 Wn.2d 694", "829 P.2d 765", "830 P.2d 318", "836 P.2d 235", "85 Wn.2d 441", "857 P.2d 1053", "869 P.2d 1034", "94 Wn. App. 849", "96 Wn.2d 552", "97 Wn.2d 317", "973 P.2d 1078"]
 ---
 
 # Brown v. City of Seattle
