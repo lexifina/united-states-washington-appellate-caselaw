@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "2331-3"
+decided: "1978-11-21"
+citations: ["21 Wash. App. 925"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Elizabeth J. Myser, Appellant, v. Donald R. Myser, Respondent."]
+source_url: "https://static.case.law/wash-app/21/cases/0925-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 469193
+cites_cases: ["14 Wn. App. 921", "20 Wn. App. 642", "20 Wn. App. 686", "419 P.2d 129", "432 P.2d 579", "46 Wash. 463", "498 P.2d 882", "512 P.2d 736", "546 P.2d 456", "580 P.2d 617", "581 P.2d 1085", "581 P.2d 598", "69 Wn.2d 506", "7 Wn. App. 338", "72 Wn.2d 144", "82 Wn.2d 573", "90 P. 588", "90 Wn.2d 201"]
+---
+
+# Myser v. Myser
+
+## Majority (Munson, C.J.)
+
+Munson, C.J.
+— Elizabeth J. Myser appeals from the dismissal of her action to be declared a cotenant with her former husband in military pension payments he has been receiving since their divorce in 1972.
+The couple was married in 1954 when Mr. Myser was a first lieutenant in the United States Air Force. During the marriage, the parties resided in several states, and Mr. Myser was discharged from the Air Force in Idaho in 1971. Following his discharge, the parties lived in Washington as husband and wife. At the time of his discharge, Mr. Myser received a monthly military retirement benefit in the amount of $618.84. At the time of the divorce, he was receiving $648 per month. At the time of the instant action, the monthly benefits were $870.25.
+Mrs. Myser commenced divorce proceedings in Spokane County in March 1972. In an affidavit supporting a motion for restraining order, she listed as a source of income her husband's military retirement pay. The parties entered a property settlement agreement on December 5, 1972, providing, among other things, for a total of $650 per month to Mrs. Myser for child support for four children, plus an amount computed at 20 percent on the amount over $600 earned by Mr. Myser from other sources of income, up to an additional amount of $100 per month, subject to reduction by earnings of more than $400 per month by Mrs. Myser. The parties agreed that from and after July 20, 1972, any and all property acquired by either would be his or her separate property and that the other party would have no interest therein. They further agreed that the property settlement, subject to approval of the court, would constitute:
+a full and complete settlement of all of their property rights, and, if a suit for divorce is prosecuted to final judgment by the plaintiff, neither party will claim, assert or demand of or against the other, any relief different than is embodied in this agreement and will not assert one against the other any claim or demand that is inconsistent or contrary to the terms hereof.
+The settlement was specifically approved in the divorce decree which was granted on December 7, 1972.
+The court in the instant case found that both parties were aware of the receipt of the pension payment and that they expected its continuing receipt at all times leading up to and including the decree of divorce. That finding is supported by Mrs. Myser's reference to the retirement pay in her affidavit supporting a motion for restraining order in the original divorce proceedings and by reference in a subsequent action to modify the original divorce decree regarding support payments.
+The court dismissed Mrs. Myser's present action on the grounds: (1) it lacked jurisdiction to declare the parties tenants in common with respect to the retirement pension fund; (2) Mrs. Myser waived any claim in regard to that fund by virtue of the property settlement agreement; (3) she is estopped to assert any claim against the pension payment because of the property settlement agreement, and (4) by the terms of the agreement, the pension funds are the separate property of Mr. Myser.
+The substance of Mrs. Myser's position is that both sides were obligated to see that the military pension benefits were brought before the court and distributed between them. See In re Marriage of McKinney, 14 Wn. App. 921, 923, 546 P.2d 456 (1976). She contends that since both sides failed in their obligation to do so, the parties became tenants in common as to the pension payments. See Ambrose v. Moore, 46 Wash. 463, 90 P. 588 (1907). The assumption underlying her position is that at the time of the divorce, the military retirement pension was community property. That assumption is incorrect.
+At the time of the decree terminating the Myser marriage, the applicable case law was set out in Payne v. Payne, 7 Wn. App. 338, 498 P.2d 882 (1972), which held that an interest in a military retirement program was not a fixed asset and did not constitute property divisible by a decree of divorce. Rather, the court held such funds could be considered as an income source in fixing the amount of an award of alimony. It was not until a year later that the Supreme Court found that reasoning erroneous. In Payne v. Payne, 82 Wn.2d 573, 576-77, 512 P.2d 736 (1973), the court said that certain aspects of a military pension may be treated as property regardless of the inherent limitations that distinguish it from other, fixed assets. As this court recently said in In re Marriage of Hagy, 20 Wn. App. 642, 581 P.2d 598 (1978), the failure to specifically mention and dispose of pensions in a divorce decree was consistent with the state of the law prior to cases such as Payne. The same conclusion was reached independently by Division Two of this court in Martin v. Martin, 20 Wn. App. 686, 581 P.2d 1085 (1978).
+In Hagy, we refused to apply Payne and its progeny retroactively to avoid reopening prior decrees entered in good faith according to the then-existing law. In Hagy, as here, there was no specific mention of the pension rights in the divorce decree, and there was an indication in both cases that the nonreceiving spouses were aware of the pension at the time they initially consulted their attorneys about divorce. Furthermore, as in Hagy, the court here found it was the intention of the parties at the time of the property settlement agreement and decree of divorce to provide full and complete settlement of all their property rights.
+Therefore, even if we were to assume the court erred in dismissing Mrs. Myser's claim on the grounds of lack of jurisdiction, waiver or estoppel, we would nonetheless be required to affirm the judgment of the Superior Court on the grounds of Hagy.
+Judgment of the Superior Court is affirmed.
+Green and McInturff, JJ., concur.
+Reconsideration denied January 23, 1979.
+Review denied by Supreme Court March 4, 1979.
+'Mrs. Myser contends Yeats v. Estate of Yeats, 90 Wn.2d 201, 580 P.2d 617 (1978), requires a different result. We disagree. There the property settlement agreement failed to mention insurance policies which have long been considered community property assets divisible in a dissolution action. The military retirement plan here had not been so characterized at the time of this dissolution.
+It does not matter that the pension rights were not "vested" in Hagy. The appellate court opinion in Payne was based upon Roach v. Roach, 72 Wn.2d 144, 432 P.2d 579 (1967), and Morris v. Morris, 69 Wn.2d 506, 419 P.2d 129 (1966), both of which involved "vested" military retirement income.
