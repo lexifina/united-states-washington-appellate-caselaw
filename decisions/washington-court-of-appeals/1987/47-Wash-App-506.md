@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16188-1-I"
 decided: "1987-02-23"
-citations: ["47 Wash. App. 506", "46 Wash. App. 1062"]
+citations: ["47 Wash. App. 506"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Anton Riksem, Appellant, v. The City of Seattle, Respondent."]
 source_url: "https://static.case.law/wash-app/47/cases/0506-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1836193
-cites_cases: ["103 Wn.2d 768", "104 Ill. 2d 128", "106 Idaho 866", "120 Wis. 2d 100", "136 Cal. Rptr. 224", "140 Cal. Rptr. 905", "211 P.2d 651", "35 Wn.2d 1", "353 P.2d 941", "364 U.S. 932", "404 N.E.2d 742", "454 N.E.2d 564", "468 P.2d 679", "47 Wn. App. 506", "471 N.E.2d 191", "497 P.2d 166", "523 P.2d 193", "56 Wn.2d 425", "587 P.2d 537", "588 P.2d 1351", "597 P.2d 1362", "62 Ohio St. 2d 138", "655 F.2d 1380", "656 P.2d 1030", "66 Cal. App. 3d 725", "688 S.W.2d 328", "698 P.2d 77", "7 Ohio App. 3d 110", "73 Cal. App. 3d 737", "77 Wn.2d 930", "80 Wn.2d 633", "83 Wn.2d 787", "91 Wn.2d 126", "91 Wn.2d 514", "92 Wn.2d 370", "98 Wn.2d 434"]
+cites_cases: ["103 Wn.2d 768", "104 Ill. 2d 128", "106 Idaho 866", "120 Wis. 2d 100", "136 Cal. Rptr. 224", "140 Cal. Rptr. 905", "211 P.2d 651", "35 Wn.2d 1", "353 P.2d 941", "364 U.S. 932", "404 N.E.2d 742", "454 N.E.2d 564", "468 P.2d 679", "471 N.E.2d 191", "497 P.2d 166", "523 P.2d 193", "56 Wn.2d 425", "587 P.2d 537", "588 P.2d 1351", "597 P.2d 1362", "62 Ohio St. 2d 138", "655 F.2d 1380", "656 P.2d 1030", "66 Cal. App. 3d 725", "688 S.W.2d 328", "698 P.2d 77", "7 Ohio App. 3d 110", "73 Cal. App. 3d 737", "77 Wn.2d 930", "80 Wn.2d 633", "83 Wn.2d 787", "91 Wn.2d 126", "91 Wn.2d 514", "92 Wn.2d 370", "98 Wn.2d 434"]
 ---
 
 # Riksem v. City of Seattle
