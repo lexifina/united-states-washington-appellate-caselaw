@@ -1,0 +1,40 @@
+---
+court: "Washington Court of Appeals"
+docket: "30125-0-I"
+decided: "1993-11-15"
+citations: ["71 Wash. App. 653"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Thomas A. Cameron, Appellant."]
+source_url: "https://static.case.law/wash-app/71/cases/0653-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1787263
+cites_cases: ["108 Wn.2d 527", "110 Wn.2d 16", "113 Wn.2d 83", "120 Wn.2d 334", "64 Wn. App. 904", "68 Wn. App. 687", "70 Wn. App. 598", "741 P.2d 1", "749 P.2d 1295", "776 P.2d 132", "827 P.2d 318", "841 P.2d 1232", "845 P.2d 1034"]
+---
+
+# State v. Cameron
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Thomas Cameron appealed from a judgment and sentence entered following his plea of guilty to second degree burglary, count 1, and taking a motor vehicle without permission (TMVWOP), count 2. The appeal raised two issues regarding community supervision. We affirmed the trial court's decision in State v. Cameron, 70 Wn. App. 598 (1993) (opinion withdrawn). The State subsequently filed a motion for reconsideration, relying on statutory authority not previously cited by either party. We grant the motion for reconsideration and affirm the judgment and sentence.
+The trial court sentenced Cameron to concurrent terms of 14 months for the burglary and 4 months for the TMVWOP. He was also sentenced to 12 months' community supervision on the taking and riding charge. Both sentences were within the standard ranges for the offenses. Under the paragraph imposing community supervision on count 2 is the interline-ation: "No contact w/ co-[defendant]; [defendant] shall not drive without valid license & insurance."
+I
+This case concerns interpretation of RCW 9.94A.383, which provides: Cameron contends that under this statute community supervision may be imposed only on sentences where the total term of confinement on concurrent sentences is 12 months or less. Accordingly, he asserts, because his total confinement was 14 months, the court erred in imposing community supervision.
+On all sentences of confinement for one year or less, the court may impose up to one year of community supervision. An offender shall be on community supervision as of the date of sentencing. However, during the time for which the offender is in total or partial confinement pursuant to the sentence or a violation of the sentence, the period of community supervision shall toll.
+The State contends that "sentence" for purposes of the statute means only the sentence for the TMVWOP charge, on which community supervision was separately imposed, regardless of the fact that it is served concurrently with the 14-month sentence for burglary. Therefore, the trial court did not err. We agree with the State.
+Statutes are to be construed to effect their purpose, and that purpose should be determined primarily from the language of the statute itself. State v. Wilbur, 110 Wn.2d 16, 18, 749 P.2d 1295 (1988). The reviewing court should avoid unlikely, absurd or strained consequences. State v. McDougal, 120 Wn.2d 334, 350, 841 P.2d 1232 (1992). Under the Sentencing Reform Act of 1981 (SRA) community supervision replaces the concept of probation under pre-SRA law. State v. Badger, 64 Wn. App. 904, 907 n.1, 827 P.2d 318 (1992). The purpose of RCW 9.94A.383 is to make it clear that trial courts have greater sentencing discretion for sentences of 1 year or less. State v. Bernhard, 108 Wn.2d 527, 530-31, 741 P.2d 1 (1987), overruled in part on other grounds in State v. Shove, 113 Wn.2d 83, 85, 776 P.2d 132 (1989).
+The imposition of community supervision depends on the particular facts and circumstances of the crime for which it is imposed. Community supervision replaces the pre-SRA concept of probation; it allows the court to impose for a period of time crime-related prohibitions and other sentence conditions. RCW 9.94A.030(7); State v. Shove, 113 Wn.2d at 89. The statute at issue here allows community supervision in cases where confinement is 12 months or less. This allows the courts a measure of discretion in cases of some less serious offenses. Cameron has offered no reason, nor do we perceive any, why it is logical or effectuates the purpose of a community supervision term to make it dependent on whether the defendant happens to be sentenced at the same time to a longer sentence on a completely different crime.
+The judgment and sentence clearly delineates the crimes as separate counts, with different standard ranges, and different maximum terms. The judgment and sentence expressly imposes community supervision only on count 2. As the State points out, if the burglary conviction were reversed, Cameron would still have to serve 4 months for the TMVWOP followed by 12 months of community supervision. Interpreted consistently with the judgment and sentence, "sentence" here refers to the 4-month sentence because that is the only sentence on which the court imposed the term of community supervision.
+II
+Cameron argued in his opening brief that even if the trial court did not err in imposing a term of community supervision, the term must begin to run at the end of the 4-month sentence on the TMVWOP conviction, not after the 14-month burglary sentence. On the basis of the tolling provision of RCW 9.94A-.383, the State conceded this issue, and we accepted this concession in our initial opinion.
+In its motion for reconsideration, the State for the first time cites RCW 9.94A. 170(3), arguing that the community supervision term on the shorter sentence is tolled during the time Cameron remains incarcerated on the other conviction. In response to the motion for reconsideration, Cameron cites no contrary authority. We conclude that the plain meaning of the provision is controlling in the circumstances of this case. See State v. McDougal, supra at 350.
+RCW 9.94A.170 provides in pertinent part:
+Tolling of Term of Confinement.
+(3) Any period of supervision shall be tolled during any period of time the offender is in confinement for any reason. However, if an offender is detained pursuant to RCW 9.94A-.207 or 9.94A.195 [pertaining to violations of community placement or conditions of sentence] and is later found not to have violated a condition or requirement of supervision, time spent in confinement due to such detention shall not toll to [the] period of supervision.
+This statute provides that any period of supervision is tolled while the offender is confined for any reason. The broad language of this provision applies to the circumstances of this case where, at the end of the sentence on which community supervision was imposed, Cameron remained incarcerated for a different crime.
+We agree that RCW 9.94A. 170(3) resolves the issue of multiple sentences and community supervision in the instant case. We hold that where the offender is serving concurrent sentences, the period of community supervision imposed on one sentence pursuant to RCW 9.94A.383 is tolled while the offender remains confined on another sentence.
+Affirmed.
+In response to the motion for reconsideration, Cameron seeks dismissal of the appeal, arguing that the matter is moot because he has been released. Ordinarily, we would not consider a moot issue. However, the issues in this case merit consideration because they are likely to recur, and an authoritative determination will provide future guidance to public officers. In re Pugh, 68 Wn. App. 687, 690, 845 P.2d 1034 (1993). We therefore decline to dismiss the appeal as moot.
+The tolling provision of RCW 9.94A.383 provides: "[D]uring the time for which the offender is in total or partial confinement pursuant to the sentence or a violation of the sentence, the period of community supervision shall toll." This provision does not expressly address the situation where the offender is serving more than one sentence; however, it is clearly consistent with RCW 9.94A.170C3).
