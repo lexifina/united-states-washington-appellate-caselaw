@@ -1,0 +1,39 @@
+---
+court: "Washington Court of Appeals"
+docket: "9278-0-III"
+decided: "1989-06-06"
+citations: ["54 Wash. App. 361"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Sunland Investments, Inc., Appellant, v. A.C. Graham, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/54/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1761879
+cites_cases: ["1 A.L.R.2d 717", "100 Wn.2d 476", "104 Wn.2d 78", "107 Wn.2d 388", "109 Wn.2d 392", "12 Wn. App. 152", "146 Wash. 190", "162 P.2d 808", "17 Wn. App. 83", "173 P.2d 977", "190 P.2d 718", "190 P.2d 769", "23 Wn.2d 876", "26 Wn.2d 246", "262 P. 228", "30 Wn.2d 149", "30 Wn.2d 96", "396 P.2d 148", "4 Wn. App. 146", "480 P.2d 244", "51 Wn. App. 635", "528 P.2d 1006", "561 P.2d 1103", "65 Wn.2d 157", "670 P.2d 648", "701 P.2d 1114", "730 P.2d 45", "745 P.2d 496", "754 P.2d 1033"]
+---
+
+# Sunland Investments, Inc. v. Graham
+
+## Majority (Munson, J.)
+
+Munson, J.
+Sunland Investments, Inc., appeals the trial court's forfeiture of its interest in 220 acres of land and awarding it only nominal damages. We reverse and remand.
+Sunland is a real estate contract vendee and A.C. and Ruth Graham, the vendors, of 220 acres in Benton County pursuant to a real estate contract dated February 25, 1976. Sunland filed suit in August 1986 against the Grahams, asserting tortious interference in the prospective sale of land to Edward and Carol Milliman, as well as prospective sales to others. Allegedly, the sale was not consummated due to a lack of irrigation water, attributed directly to the Grahams' failure to sign the Bureau of Reclamation papers. The Grahams signed the necessary papers on August 23, 1986, after the growing season and after the water had been turned off.
+At that time, Sunland was current on all obligations owed to the Grahams under the real estate contract. In January 1987, the regular annual installment payment of $10,000 fell due but Sunland failed to pay, asserting it was running out of money because the Grahams prevented the sale to the Millimans.
+On March 24, 1987, the Grahams executed a notice of intent to forfeit the real estate contract. They subsequently served their declaration of forfeiture on Sunland. On July 23, Sunland sought preliminary relief from the nonjudicial forfeiture action. The Court Commissioner ruled that he would preserve the status quo pending trial.
+After trial, the court entered findings of fact, conclusions of law and judgment substantially in favor of Sunland. Despite finding the Grahams tortiously interfered with the sale, the trial court found that Sunland had not proven substantial damages and awarded only nominal damages of $500. The court also permitted the Grahams to forfeit all interest Sunland had in the 220 acres without giving it a chance to become current with payments.
+Sunland first asserts the court erred in entering judgment only for nominal damages. Appellate review is limited to determining if the findings are supported by substantial evidence and, if so, whether they support the conclusions of law. Willener v. Sweeting, 107 Wn.2d 388, 730 P.2d 45 (1986); Goodman v. Darden, Doman & Stafford Assocs., 100 Wn.2d 476, 670 P.2d 648 (1983). Evidence is substantial if there is "sufficient quantum to persuade a fair-minded person of the truth of the stated premise." State v. Thet-ford, 109 Wn.2d 392, 396, 745 P.2d 496 (1987); Nichols Hills Bank v. McCool, 104 Wn.2d 78, 82, 701 P.2d 1114 (1985).
+Sunland contends this action was in tort, not breach of contract; consequently, the court erred in applying contract damages. Interference with business relations is a tort and requires a showing of:
+(1) the existence of a valid contractual relationship or business expectancy; (2) knowledge of the relationship or expectancy on the part of the interferor [sic]; (3) intentional interference inducing or causing a breach or termination of the relationship or expectancy; and (4) resultant damage to the party whose relationship or expectancy has been disrupted.
+Calbom v. Knudtzon, 65 Wn.2d 157, 162-63, 396 P.2d 148 (1964).
+The Grahams counter by asserting they committed no tortious conduct. They, however, did not cross-appeal. Thus, the judgment fixes the law of the case as to them. Eckley v. Bonded Adj. Co., 30 Wn.2d 96, 190 P.2d 718, 1 A.L.R.2d 717 (1948).
+The court's finding of tortious interference entitles Sunland to recover all losses proximately caused by the wrongful conduct of the Grahams. Burr v. Clark, 30 Wn.2d 149, 190 P.2d 769 (1948). It is undisputed that pursuant to the real estate agreement between Sunland and the Millimans, the Millimans agreed to purchase the property for $55,000, with a $6,000 down payment and monthly installments of $456.
+The court awarded only nominal damages because there was no evidence establishing the present value of the Milli-man contract. That was not the relevant issue here. Had the Grahams signed the necessary irrigation document, they would not have interfered with Sunland's ability to contract and obtain some cash to make the annual payment. Further, there is evidence of the land values declining between the execution of the Milliman contract for a sale at $55,000 and the time of trial, where testimony indicated the land values were approximately $35,000. The reduction was due to declining land values in Benton County because of problems at the Hanford project. Thus, there is evidence to support a finding that Sunland sustained damages of at least $20,000. While Sunland contends its damages equaled the $55,000 sale price, we disagree in that Sunland, under its theory, would retain the land. Therefore, the case should be remanded to the trial court for a recalculation of damages.
+Next, Sunland contends the court erred in ruling Sunland failed to mitigate its damages. The Grahams concede a plaintiff has no duty to mitigate damages in cases of intentional tort. Desimone v. Mutual Materials Co., 23 Wn.2d 876, 884, 162 P.2d 808 (1945); Champa v. Washington Compressed Gas Co., 146 Wash. 190, 201, 262 P. 228 (1927); Wilson v. Walla Walla, 12 Wn. App. 152, 528 P.2d 1006 (1974); Theis v. Federal Fin. Co., 4 Wn. App. 146, 480 P.2d 244 (1971). Interference with a business relationship is an intentional tort. Calbom v. Knudtzon, supra. As no duty to mitigate existed, the court's finding of a duty to mitigate was erroneous.
+Finally, Sunland asserts the court erred in forfeiting its interest in the property without providing it an opportunity to offset. Sunland concedes the vendor of the contract may declare a forfeiture of contract for the nonpayment of the annual payment, even though forfeitures are not favored in the law. Dill v. Zielke, 26 Wn.2d 246, 173 P.2d 977 (1946); Ryker v. Stidham, 17 Wn. App. 83, 561 P.2d 1103 (1977).
+Under the real estate forfeiture act, RCW 61.30, an offset may be used as a defense to restrain a forfeiture action. See generally McLean v. McLean, 51 Wn. App. 635, 754 P.2d 1033 (1988). Further, having found the Grahams did interfere with a prospective sale, Sunland had a valid action. The Court Commissioner entered an order maintaining the status quo, i.e., Sunland need not bring its delinquent payment current. Equity requires Sunland be allowed a reasonable time to bring the contract current. Given that a remand is in order to recalculate damages, it is feasible the court could find an offset.
+The Grahams also contend they have been paying taxes, irrigation fees, and other expenses during the course of this appeal. The trial court should also consider those contentions on remand.
+The judgment is reversed and the case remanded to the Superior Court.
+Thompson, C.J., and Shields, J., concur.
+Reconsideration denied July 18, 1989.
