@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "2439-3"
+decided: "1978-08-01"
+citations: ["20 Wash. App. 868"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, on the Relation of the City of Richland, Respondent, v. Arnold Lou Haag, Sr., Appellant."]
+source_url: "https://static.case.law/wash-app/20/cases/0868-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 464506
+cites_cases: ["180 Kan. 267", "233 A.2d 698", "30 A.L.R.2d 1006", "30 A.L.R.2d 987", "345 U.S. 395", "392 P.2d 815", "4 Conn. Cir. Ct. 424", "61 A.L.R.3d 1041", "64 Wn.2d 576"]
+---
+
+# State v. Haag
+
+## Majority (Roe, J.)
+
+Roe, J.
+Defendant appeals- from a conviction for driving while his license was suspended. The facts are undisputed:
+1. Defendant's driver's license was suspended for 60 days, effective as of September 14, 1976, following a conviction of driving while intoxicated.
+2. On November 6, 1976, defendant mailed a check to his insurance company for insurance coverage for 6 months.
+3. November 13, 1976, was the earliest date defendant's driver's license could be reinstated.
+4. November 18, 1976, defendant's insurance carrier's SR 22 form acknowledging defendant's coverage was received by the Department of Motor Vehicles in Olympia.
+5. November 22, 1976, defendant attempted to get his driver's license reinstated at the Kennewick office, but found it was closed Mondays.
+6. November 23, 1976, defendant returned to the licensing office and tendered the $10 reinstatement fee; however, the licensing office was unable to obtain a clearance through the department's computer, which in fact indicated that defendant was not qualified for reinstatement. The defendant was at the office 45 minutes.
+7. November 23, 1976, Department of Motor Vehicles mailed a notice of reinstatement to the defendant at his residence.
+8. November 24, 1976, notice of reinstatement was delivered to the defendant's home and he became aware of it that evening when he returned from work.
+9. November 25, 1976 (Thanksgiving Day), the defendant went to Kennewick City Jail to bail out his son. While driving him home he was arrested for the instant crime of driving with his license suspended.
+Under the statute, RCW 46.20.311, there are three conditions for restoration of a suspended license: (1) expiration of the period of suspension, (2) proof of financial responsibility, and (3) payment of a $10 reinstatement fee. Haag complied with the first two requirements and tendered the fee to satisfy the third; thus, under the statute he was entitled to his license. The fact is that the department wrongfully withheld it from him, RCW 46.20.315. The reason the department withheld it was because of administrative error involving the computer. This error effectively extended the penalty for the crime beyond that authorized by statute. In effect it added a fourth condition for restoration of a license, namely, no administrative error. Since Haag was entitled to his driver's license, he was entitled to drive. Thus, his conviction for driving with his license suspended under the emergency condition, that is, bailing his son out of jail, was improper.
+There is no explanation for the delay in putting the information which was in the department's hands on November 18, 1976, into the computer until sometime after the defendant had tendered his $10 reinstatement fee on November 23, 1976. It is true that the defendant could then have gone to Olympia and obtained his license because the evidence of his financial responsibility was there, and he had $10 with which to pay the reinstatement fee. However, he resided 250 miles from the capital city. He was entitled to rely on the computer to advise the local licensing office of the evidence of financial responsibility, which information was not available to him because it had not yet been fed into the computer. This 5-day delay was without sanction or warrant of any kind. If a 5-day delay would be proper, what would be the limit?
+No case has been submitted to the court, nor have we found one on independent briefing, which is precisely in point. This is not a case of a wrongful refusal to grant a license, or of engaging in conduct without a license for which a license is required, nor is this a case where defendant has attempted to show the right to drive during a period of valid suspension because of an emergency. State v. Ragland, 4 Conn. Cir. Ct. 424, 233 A.2d 698 (1967), cited by the dissent is not in point since the defendant apparently was driving during the original period of valid suspension of license. The case does hold that coercion to drive during a period of suspension could not be a basis of a conviction. State v. Merrifield, 180 Kan. 267, 303 P.2d 155 (1956), also cited in the dissent, involved driving clearly within the original period of valid suspension. The citation Annot., 61 A.L.R.3d 1041 (1975), which mentions the above two cases, does not discuss the operation of a motor vehicle after the period of suspension has expired and the license has not been returned due to administrative failure.
+The situation is comparable to that of a probationer who is put in jail for 60 days as a condition of probation. At the expiration of that time he is entitled to his freedom, provided all other conditions are. met. He may not be kept in durance vile through administrative error. Haag's driver's license was current; it was valid; it was in effect. His use of it was merely suspended for a certain period because of a criminal conviction. When that time expired and all other conditions were met, he was entitled to his license. He was deprived of his liberty to drive without due process of law; thus, the conviction must be reversed.
+Green, J., concurs.
+
+## Dissent (Munson, C.J.)
+
+Munson, C.J.
+(dissenting) — I am in sympathy with the concern of my brethren over a governmental department's delay in processing the reinstatement of the defendant's driving privileges. I might also express amazement at the postal service's ability to get a letter ostensibly mailed at 10 or 11 p.m. in Olympia to the Tri-Cities by the following day. Nonetheless, if such a condition is to be an affirmative or complete defense to the charge of driving while a license is suspended, I believe the legislature must so decree and not the courts.
+The defendant must comply with the requirements for reinstatement of his driving privileges, namely the submission of evidence of financial responsibility and payment of the reinstatement fee. Artis v. Rowland, 64 Wn.2d 576, 392 P.2d 815 (1964). There is no doubt this defendant drove prior to the reinstatement of his driving privileges. The legislature has seen fit to make that a crime. In other jurisdictions, on at least two occasions, defendants have attempted to show an emergency or coercion to justify their driving while their operator's license was suspended. They met with no success. State v. Ragland, 4 Conn. Cir. Ct. 424, 233 A.2d 698 (1967); State v. Merrifield, 180 Kan. 267, 303 P.2d 155 (1956); Automobiles: Necessity or Emergency as Defense in Prosecution for Driving Without Operator's License or While License is Suspended, Annot., 61 A.L.R.3d 1041 (1975).
+I can appreciate some factual differences, but not any in point of policy, with the person who has been wrongfully refused a business license and who proceeds to conduct a business without it. Such a wrongful refusal does not bar prosecution for acting without a license. Poulos v. New Hampshire, 345 U.S. 395, 97 L. Ed. 2d 1105, 73 S. Ct. 760, 30 A.L.R.2d 987 (1953); Right of person wrongfully refused license upon proper application therefor to do act for which license is required, Annot., 30 A.L.R.2d 1006 (1953), citing cases. I believe there is an analogy to the present case.
+Furthermore, the legislature has seen fit in instances of suspension or revocation to provide for an occupational driver's license. RCW 46.20.391. However, no mention is made by either party or the court of that possibility; nor is there any mention of whether this defendant qualified for such a permissive license. That license is good until he receives his new one, at which time he must surrender the occupational driver's license. RCW 46.20.400. Thus, it would appear the legislature did take into consideration the hardship one might encounter when his license is revoked or suspended, including any administrative delay after the expiration of the period of suspension and revocation.
+I would require one who has been wrongfully denied a license to seek mandamus against the director of the appropriate department. I grant that this might not have timely accomplished what this defendant wanted to accomplish, but it is the only judicial remedy which I perceive he had once he presented his evidence of financial responsibility, appeared to pay his reinstatement fee, and was denied reinstatement.
+I would affirm.
