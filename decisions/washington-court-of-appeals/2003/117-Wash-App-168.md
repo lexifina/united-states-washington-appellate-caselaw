@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28653-0-II"
 decided: "2003-04-23"
-citations: ["117 Wash. App. 168", "116 Wash. App. 1047"]
+citations: ["117 Wash. App. 168"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Oberdah F. Manteufel, Appellant, v. Safeco Insurance Company of Ameri
 source_url: "https://static.case.law/wash-app/117/cases/0168-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 652579
-cites_cases: ["1 P.3d 579", "100 Wn. App. 609", "108 Wn. App. 500", "109 Wn.2d 107", "113 Wn.2d 1001", "117 Wn. App. 168", "121 Wn.2d 243", "124 Wn.2d 193", "138 Wn.2d 506", "142 Wn.2d 1010", "145 Wn.2d 1028", "150 Wn.2d 1021", "31 P.3d 698", "37 Wn. App. 756", "54 Wn. App. 688", "55 Wn. App. 106", "56 Wn. App. 125", "59 Wn. App. 105", "63 Wn. App. 733", "683 P.2d 207", "744 P.2d 1032", "775 P.2d 474", "780 P.2d 853", "783 P.2d 82", "796 P.2d 426", "821 P.2d 1256", "84 Wn. App. 393", "850 P.2d 1298", "876 P.2d 448", "928 P.2d 1108", "980 P.2d 742"]
+cites_cases: ["1 P.3d 579", "100 Wn. App. 609", "108 Wn. App. 500", "109 Wn.2d 107", "113 Wn.2d 1001", "121 Wn.2d 243", "124 Wn.2d 193", "138 Wn.2d 506", "142 Wn.2d 1010", "145 Wn.2d 1028", "150 Wn.2d 1021", "31 P.3d 698", "37 Wn. App. 756", "54 Wn. App. 688", "55 Wn. App. 106", "56 Wn. App. 125", "59 Wn. App. 105", "63 Wn. App. 733", "683 P.2d 207", "744 P.2d 1032", "775 P.2d 474", "780 P.2d 853", "783 P.2d 82", "796 P.2d 426", "821 P.2d 1256", "84 Wn. App. 393", "850 P.2d 1298", "876 P.2d 448", "928 P.2d 1108", "980 P.2d 742"]
 ---
 
 # Manteufel v. Safeco Insurance Co. of America
