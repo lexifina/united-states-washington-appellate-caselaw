@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32107-2-I"
 decided: "1994-10-24"
-citations: ["76 Wash. App. 343", "76 Wash. App. 1010"]
+citations: ["76 Wash. App. 343"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Steven Novotny, Appellant."]
 source_url: "https://static.case.law/wash-app/76/cases/0343-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490123
-cites_cases: ["108 Wn.2d 662", "25 Wn. App. 58", "30 Wn. App. 119", "44 Wn. App. 592", "485 U.S. 938", "604 P.2d 1015", "633 P.2d 92", "722 P.2d 1336", "740 P.2d 848", "76 Wn. App. 343"]
+cites_cases: ["108 Wn.2d 662", "25 Wn. App. 58", "30 Wn. App. 119", "44 Wn. App. 592", "485 U.S. 938", "604 P.2d 1015", "633 P.2d 92", "722 P.2d 1336", "740 P.2d 848"]
 ---
 
 # State v. Novotny
