@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31251-4-II"
 decided: "2005-03-08"
-citations: ["126 Wash. App. 670", "126 Wash. App. 1019"]
+citations: ["126 Wash. App. 670"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Bob Dale Beasley, Appellant."
 source_url: "https://static.case.law/wash-app/126/cases/0670-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016163
-cites_cases: ["100 Wn. App. 512", "101 Wn.2d 566", "105 Wn.2d 1011", "109 Wn.2d 222", "110 Wn.2d 403", "115 Cal. App. 3d 227", "116 Wn.2d 315", "116 Wn.2d 51", "119 Wn.2d 1011", "119 Wn.2d 192", "121 Wn.2d 333", "123 Wn.2d 877", "126 Wn. App. 670", "126 Wn.2d 136", "129 Wn.2d 61", "131 Wn.2d 230", "132 Wn.2d 529", "133 Wn.2d 26", "141 Wn.2d 1030", "141 Wn.2d 620", "146 Wn.2d 861", "155 Wn.2d 1020", "16 Wn. App. 341", "171 Cal. Rptr. 212", "385 P.2d 859", "42 Wn. App. 408", "466 U.S. 668", "50 P.3d 618", "501 U.S. 1237", "516 U.S. 1121", "523 U.S. 1007", "555 P.2d 1004", "618 P.2d 99", "63 Wn.2d 176", "64 Wn. App. 410", "675 F.2d 894", "683 P.2d 173", "711 P.2d 377", "743 P.2d 816", "756 P.2d 105", "8 P.3d 300", "804 P.2d 10", "804 P.2d 577", "824 P.2d 533", "829 P.2d 1068", "851 P.2d 654", "872 P.2d 1097", "88 Wn.2d 1008", "892 P.2d 29", "917 P.2d 563", "930 P.2d 1213", "94 Wn.2d 634", "940 P.2d 546", "941 P.2d 1102", "997 P.2d 1000"]
+cites_cases: ["100 Wn. App. 512", "101 Wn.2d 566", "105 Wn.2d 1011", "109 Wn.2d 222", "110 Wn.2d 403", "115 Cal. App. 3d 227", "116 Wn.2d 315", "116 Wn.2d 51", "119 Wn.2d 1011", "119 Wn.2d 192", "121 Wn.2d 333", "123 Wn.2d 877", "126 Wn.2d 136", "129 Wn.2d 61", "131 Wn.2d 230", "132 Wn.2d 529", "133 Wn.2d 26", "141 Wn.2d 1030", "141 Wn.2d 620", "146 Wn.2d 861", "155 Wn.2d 1020", "16 Wn. App. 341", "171 Cal. Rptr. 212", "385 P.2d 859", "42 Wn. App. 408", "466 U.S. 668", "50 P.3d 618", "501 U.S. 1237", "516 U.S. 1121", "523 U.S. 1007", "555 P.2d 1004", "618 P.2d 99", "63 Wn.2d 176", "64 Wn. App. 410", "675 F.2d 894", "683 P.2d 173", "711 P.2d 377", "743 P.2d 816", "756 P.2d 105", "8 P.3d 300", "804 P.2d 10", "804 P.2d 577", "824 P.2d 533", "829 P.2d 1068", "851 P.2d 654", "872 P.2d 1097", "88 Wn.2d 1008", "892 P.2d 29", "917 P.2d 563", "930 P.2d 1213", "94 Wn.2d 634", "940 P.2d 546", "941 P.2d 1102", "997 P.2d 1000"]
 ---
 
 # State v. Beasley
