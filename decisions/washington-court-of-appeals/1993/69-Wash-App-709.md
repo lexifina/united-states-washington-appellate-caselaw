@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28615-3-I"
 decided: "1993-03-01"
-citations: ["69 Wash. App. 709", "68 Wash. App. 1072"]
+citations: ["69 Wash. App. 709"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bethel Kohn, Respondent, v. Georgia-Pacific Corporation, Appellant."]
 source_url: "https://static.case.law/wash-app/69/cases/0709-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1700502
-cites_cases: ["102 Wn.2d 219", "102 Wn.2d 334", "103 Wn.2d 800", "110 Wn.2d 355", "111 Wn.2d 1015", "111 Wn.2d 374", "111 Wn.2d 609", "115 Wn.2d 657", "117 Wn.2d 426", "118 Wn.2d 512", "122 Wn.2d 1010", "16 Wn. App. 511", "36 Wash. 642", "39 Wn. App. 557", "452 P.2d 220", "51 Wn. App. 795", "510 P.2d 233", "549 P.2d 483", "557 P.2d 864", "56 Wn. App. 1", "58 Wn. App. 313", "59 A.L.R.3d 1209", "60 Wn. App. 369", "684 P.2d 1302", "685 P.2d 1081", "69 Wn. App. 709", "694 P.2d 666", "699 P.2d 217", "75 Wn.2d 494", "753 P.2d 517", "755 P.2d 830", "757 P.2d 1384", "762 P.2d 1143", "781 P.2d 1329", "79 P. 308", "792 P.2d 1275", "801 P.2d 222", "803 P.2d 841", "815 P.2d 1362", "82 Wn.2d 265", "826 P.2d 664", "852 F.2d 361", "87 Wn.2d 85"]
+cites_cases: ["102 Wn.2d 219", "102 Wn.2d 334", "103 Wn.2d 800", "110 Wn.2d 355", "111 Wn.2d 1015", "111 Wn.2d 374", "111 Wn.2d 609", "115 Wn.2d 657", "117 Wn.2d 426", "118 Wn.2d 512", "122 Wn.2d 1010", "16 Wn. App. 511", "36 Wash. 642", "39 Wn. App. 557", "452 P.2d 220", "51 Wn. App. 795", "510 P.2d 233", "549 P.2d 483", "557 P.2d 864", "56 Wn. App. 1", "58 Wn. App. 313", "59 A.L.R.3d 1209", "60 Wn. App. 369", "684 P.2d 1302", "685 P.2d 1081", "694 P.2d 666", "699 P.2d 217", "75 Wn.2d 494", "753 P.2d 517", "755 P.2d 830", "757 P.2d 1384", "762 P.2d 1143", "781 P.2d 1329", "79 P. 308", "792 P.2d 1275", "801 P.2d 222", "803 P.2d 841", "815 P.2d 1362", "82 Wn.2d 265", "826 P.2d 664", "852 F.2d 361", "87 Wn.2d 85"]
 ---
 
 # Kohn v. Georgia-Pacific Corp.
