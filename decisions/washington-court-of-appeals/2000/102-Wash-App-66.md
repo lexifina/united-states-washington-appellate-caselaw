@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44775-1-I"
 decided: "2000-07-17"
-citations: ["102 Wash. App. 66", "101 Wash. App. 1044"]
+citations: ["102 Wash. App. 66"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kurtis R. Mayer, et al., Appellants, v. The City of Seattle, et al., 
 source_url: "https://static.case.law/wash-app/102/cases/0066-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301161
-cites_cases: ["100 Wn.2d 581", "102 Wn. App. 66", "103 Wash. 327", "107 Wn.2d 735", "108 Wn.2d 38", "112 Wn.2d 145", "114 Wn.2d 109", "118 Wn.2d 753", "122 Wn.2d 141", "124 Wn.2d 656", "135 Wn.2d 398", "136 Wn.2d 195", "138 Wn.2d 506", "142 Wn.2d 1029", "174 P. 3", "24 F.3d 1565", "42 Wn. App. 796", "547 P.2d 1221", "675 P.2d 193", "714 P.2d 692", "73 Wn. App. 523", "733 P.2d 208", "738 P.2d 665", "768 P.2d 998", "773 P.2d 420", "780 F. Supp. 1551", "786 P.2d 265", "81 Wn. App. 228", "826 P.2d 200", "85 Wn. App. 15", "859 P.2d 1210", "86 Wn. App. 596", "86 Wn.2d 607", "871 P.2d 601", "880 P.2d 988", "914 P.2d 86", "931 P.2d 163", "937 P.2d 1148", "957 P.2d 632", "961 P.2d 333", "980 P.2d 742"]
+cites_cases: ["100 Wn.2d 581", "103 Wash. 327", "107 Wn.2d 735", "108 Wn.2d 38", "112 Wn.2d 145", "114 Wn.2d 109", "118 Wn.2d 753", "122 Wn.2d 141", "124 Wn.2d 656", "135 Wn.2d 398", "136 Wn.2d 195", "138 Wn.2d 506", "142 Wn.2d 1029", "174 P. 3", "24 F.3d 1565", "42 Wn. App. 796", "547 P.2d 1221", "675 P.2d 193", "714 P.2d 692", "73 Wn. App. 523", "733 P.2d 208", "738 P.2d 665", "768 P.2d 998", "773 P.2d 420", "780 F. Supp. 1551", "786 P.2d 265", "81 Wn. App. 228", "826 P.2d 200", "85 Wn. App. 15", "859 P.2d 1210", "86 Wn. App. 596", "86 Wn.2d 607", "871 P.2d 601", "880 P.2d 988", "914 P.2d 86", "931 P.2d 163", "937 P.2d 1148", "957 P.2d 632", "961 P.2d 333", "980 P.2d 742"]
 ---
 
 # Mayer v. City of Seattle
