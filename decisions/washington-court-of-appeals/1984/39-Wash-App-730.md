@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13976-2-I"
 decided: "1984-12-31"
-citations: ["39 Wash. App. 730", "39 Wash. App. 1037"]
+citations: ["39 Wash. App. 730"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Harriet M. Gould, Appellant, v. Donald T. Reay, et al, Respondents."]
 source_url: "https://static.case.law/wash-app/39/cases/0730-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1794536
-cites_cases: ["100 Wn.2d 275", "100 Wn.2d 421", "15 Wn. App. 379", "20 Wn. App. 691", "26 Wn. App. 357", "39 Wn. App. 730", "407 P.2d 440", "550 P.2d 71", "582 P.2d 555", "613 P.2d 1179", "664 P.2d 492", "669 P.2d 451", "67 Wn.2d 246", "671 P.2d 230", "99 Wn.2d 582"]
+cites_cases: ["100 Wn.2d 275", "100 Wn.2d 421", "15 Wn. App. 379", "20 Wn. App. 691", "26 Wn. App. 357", "407 P.2d 440", "550 P.2d 71", "582 P.2d 555", "613 P.2d 1179", "664 P.2d 492", "669 P.2d 451", "67 Wn.2d 246", "671 P.2d 230", "99 Wn.2d 582"]
 ---
 
 # Gould v. Reay
