@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30245-4-II"
 decided: "2004-08-10"
-citations: ["125 Wash. App. 1", "122 Wash. App. 1068"]
+citations: ["125 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["J.L. Storedahl & Sons, Inc., Appellant, v. Cowlitz County, Respondent
 source_url: "https://static.case.law/wash-app/125/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270062
-cites_cases: ["106 Wn. App. 461", "120 Wn.2d 1008", "122 Wn.2d 648", "125 Wn. App. 1", "136 Wn.2d 38", "140 Wn.2d 1007", "144 Wn.2d 640", "146 Wn.2d 740", "146 Wn.2d 904", "148 Wn.2d 451", "155 Wn.2d 1002", "24 P.3d 1079", "30 P.3d 453", "340 P.2d 777", "45 Wn. App. 876", "458 P.2d 891", "49 P.3d 867", "492 P.2d 547", "500 P.2d 540", "510 P.2d 647", "52 P.3d 1", "54 Wn.2d 300", "59 Wn. App. 795", "61 P.3d 1141", "65 Wn. App. 614", "728 P.2d 1057", "76 Wn.2d 741", "80 Wn.2d 139", "801 P.2d 985", "81 Wn.2d 155", "82 Wn.2d 321", "829 P.2d 217", "860 P.2d 1024", "959 P.2d 1091", "97 Wn. App. 360", "983 P.2d 1135", "99 Wn. App. 127", "990 P.2d 429"]
+cites_cases: ["106 Wn. App. 461", "120 Wn.2d 1008", "122 Wn.2d 648", "136 Wn.2d 38", "140 Wn.2d 1007", "144 Wn.2d 640", "146 Wn.2d 740", "146 Wn.2d 904", "148 Wn.2d 451", "155 Wn.2d 1002", "24 P.3d 1079", "30 P.3d 453", "340 P.2d 777", "45 Wn. App. 876", "458 P.2d 891", "49 P.3d 867", "492 P.2d 547", "500 P.2d 540", "510 P.2d 647", "52 P.3d 1", "54 Wn.2d 300", "59 Wn. App. 795", "61 P.3d 1141", "65 Wn. App. 614", "728 P.2d 1057", "76 Wn.2d 741", "80 Wn.2d 139", "801 P.2d 985", "81 Wn.2d 155", "82 Wn.2d 321", "829 P.2d 217", "860 P.2d 1024", "959 P.2d 1091", "97 Wn. App. 360", "983 P.2d 1135", "99 Wn. App. 127", "990 P.2d 429"]
 ---
 
 # J.L. Storedahl & Sons, Inc. v. Cowlitz County
