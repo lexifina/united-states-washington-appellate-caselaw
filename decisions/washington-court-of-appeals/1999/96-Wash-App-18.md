@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17044-6-III"
 decided: "1999-05-20"
-citations: ["96 Wash. App. 18", "95 Wash. App. 1047"]
+citations: ["96 Wash. App. 18"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Anthony Whisenhunt, Appellant
 source_url: "https://static.case.law/wash-app/96/cases/0018-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128504
-cites_cases: ["118 Wn.2d 1013", "119 Wn.2d 513", "121 Wn.2d 333", "121 Wn.2d 833", "134 Wn.2d 629", "443 U.S. 307", "616 P.2d 628", "62 Wn. App. 914", "816 P.2d 86", "833 P.2d 1385", "85 Wn. App. 754", "851 P.2d 654", "854 P.2d 1061", "934 P.2d 728", "94 Wn.2d 216", "952 P.2d 162", "96 Wn. App. 18"]
+cites_cases: ["118 Wn.2d 1013", "119 Wn.2d 513", "121 Wn.2d 333", "121 Wn.2d 833", "134 Wn.2d 629", "443 U.S. 307", "616 P.2d 628", "62 Wn. App. 914", "816 P.2d 86", "833 P.2d 1385", "85 Wn. App. 754", "851 P.2d 654", "854 P.2d 1061", "934 P.2d 728", "94 Wn.2d 216", "952 P.2d 162"]
 ---
 
 # State v. Whisenhunt
