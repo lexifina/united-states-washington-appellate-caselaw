@@ -1,0 +1,40 @@
+---
+court: "Washington Court of Appeals"
+docket: "31836-5-I"
+decided: "1993-11-01"
+citations: ["71 Wash. App. 590"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jonathan R. Clingan, Appellant, v. The Department of Labor and Industries, Respondent."]
+source_url: "https://static.case.law/wash-app/71/cases/0590-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1787161
+cites_cases: ["102 P.2d 687", "116 Wn.2d 897", "117 Wn.2d 1004", "12 Wn.2d 131", "120 P.2d 858", "13 Wn. App. 81", "372 P.2d 538", "4 Wn.2d 120", "533 P.2d 406", "57 Wn. App. 602", "57 Wn. App. 670", "60 Wn.2d 163", "61 Wn. App. 385", "786 P.2d 817", "789 P.2d 331", "810 P.2d 1363", "810 P.2d 500", "814 P.2d 666", "85 Wn.2d 1012"]
+---
+
+# Clingan v. Department of Labor & Industries
+
+## Majority (Agid, J.)
+
+Agid, J.
+Maijorie Clingan sought an industrial insurance surviving spouse benefit, RCW 51.32.050(6), claiming that because her dissolution decree had been set aside nunc pro tunc after the death of her ex-husband, she was still his spouse and entitled to benefits. The Department of Labor and Industries (DLI) denied the claim, and the Board of Industrial Insurance Appeals (the Board) and King County Superior Court (King County) affirmed the denial of benefits. Finding that the court that entered the nunc pro tunc order was without jurisdiction and that the order was therefore void, we affirm the trial court.
+I
+On October 12, 1978, Jonathan Clingan was injured in a workplace accident. His claim for industrial insurance was allowed, and DLI began paying benefits. On June 21, 1980, Mr. Clingan and Maijorie Schoneman were married. On February 6, 1983, Mr. Clingan was found to be totally and permanently disabled and was placed on the pension rolls.
+On May 19, 1987, Clallam County Superior Court (Clal-lam County) entered a dissolution decree and property settlement. After their divorce, the Clingans lived apart. However, in December 1988, after Mr. Clingan was diagnosed with lung cancer unrelated to his industrial accident, Mrs. Clingan moved back into Mr. Clingan's home in order to care for him. He died of lung cancer on February 20, 1990. Mrs. Clingan was the primary beneficiary of his will.
+In September 1990, the attorney who represented Mrs. Clingan in the dissolution brought to her attention Mr. Cling-an's "undisposed assets" including his industrial insurance pension. After obtaining the agreement of the attorney who had represented Mr. Clingan in the divorce, she then moved to have the dissolution set aside nunc pro tunc. In support of the motion to set aside, she stated:
+My husband's retirement benefits were omitted from the property settlement agreement. It is on the basis of this omission that I now seek to have the decree set aside. The retirement was a substantial asset which I am now deprived of any share of. It is available to me only on the condition that the decree is set aside.
+On September 26,1990, Clallam County granted the motion.
+On October 11,1990, Mrs. Clingan filed a surviving spouse's claim. DLI denied the claim on the grounds that at the time of death, Mr. Clingan left no surviving spouse pursuant to RCW 51.32.050(6). The Board agreed, finding the nunc pro tunc order invalid because, since Mr. Clingan had died, Clallam County was without authority to enter the order.
+Mrs. Clingan then appealed to King County and moved for summary judgment, arguing that Clallam County did have jurisdiction to enter the nunc pro tunc order, that the Board lacked standing to attack the order, and that the Board could not disregard the order. King County concluded that, as a matter of law under RCW 51.32.050(6), Mrs. Clingan was not Mr. Clingan's surviving spouse at the time of his death and granted summary judgment affirming the Board's decision and order.
+II
+The dispositive issue on appeal is whether Clallam County had jurisdiction to enter the nunc pro tunc order. This is a question of law which is reviewed de novo. Hadley v. Department of Labor & Indus., 57 Wn. App. 670, 673-74, 786 P.2d 817 (1990), rev'd on other grounds, 116 Wn.2d 897, 810 P.2d 500, 814 P.2d 666 (1991).
+In general, when one party dies, a dissolution action abates and the court is without jurisdiction to vacate a dissolution decree. Osborne v. Osborne, 60 Wn.2d 163, 164, 372 P.2d 538 (1962). However, even after the death of one of the parties, the court still has authority to vacate a dissolution decree nunc pro tunc to correct the record. Osborne, 60 Wn.2d at 167.
+Mrs. Clingan contends that the original decree and property settlement erroneously failed to distribute a community asset, Mr. Clingan's industrial insurance pension, and relies on CR 60(a)(1) to argue that a nunc pro tunc order to set aside the decree was the only way to correct it. This argument is flawed for three reasons. First, any failure to address the pension cannot be called a clerical error. Rather, it was allegedly the omission of an asset which clearly involves an amendment of "the trial court's intention.’" In re Marriage of Getz, 57 Wn. App. 602, 604, 789 P.2d 331 (1990) (quoting Marchel v. Bunger, 13 Wn. App. 81, 84, 533 P.2d 406, review denied, 85 Wn.2d 1012 (1975)). Both parties were represented by counsel, and there is no reason to believe that they did not fully negotiate all terms of the dissolution and settlement and present an order embodying their intention. Second, the property settlement agreement demonstrates that the parties did consider Mr. Clingan's pension, which was part of his income at the time of the divorce, by making him responsible for mortgage payments based on his superior income.
+Third, there was no pension benefit to distribute at the time of entry of the decree and property settlement, so the instruments' failure to address that asset could not have been error. At the time of the dissolution, Mrs. Clingan did not have a right to receive a portion of Mr. Clingan's pension because it was a statutory entitlement personal to him and could not be divided in a property settlement. Rector v. Department of Labor & Indus., 61 Wn. App. 385, 390, 810 P.2d 1363, review denied, 117 Wn.2d 1004 (1991); RCW 51.32.040. In fact, had Mr. Clingan's right to receive the pension been apportioned according to community property tenets or by agreement of the parties, that division would have been void. Nor did Mrs. Clingan have a right to a survivorship benefit at the time of the dissolution because it is a statutory right that does not arise until the death of the worker. Purdy & Whitfield v. Department of Labor & Indus., 12 Wn.2d 131, 143, 120 P.2d 858 (1942). Because there was no error to be corrected, Clallam County was without authority to enter the nunc pro tunc order.
+Finally, we address the question of DLI's standing to attack the nunc pro tunc order. A judgment rendered without jurisdiction may be collaterally attacked by a party whose rights or interests are adversely affected by the judgment. France v. Freeze, 4 Wn.2d 120, 127, 102 P.2d 687 (1940). In this case, the nunc pro tunc order is the sole basis for Mrs. Clingan's claim. Thus, DLI had standing to collaterally attack the validity of the order.
+While we recognize that this case presents compelling equities in view of Mrs. Clingan's devotion to her former husband during his final illness, neither this court nor the superior court can order the relief she requests.
+The trial court is affirmed.
+Forrest and Kennedy, JJ., concur.
+CR 60(a)(1) provides that ”[c]lerical mistakes in judgments . . . and errors therein arising from oversight or omission may be corrected by the court at any time of its own initiative or on the motion of any party".
+Mrs. Clingan argues that DLI was not a party to the dissolution and therefore had no standing to vacate or modify the dissolution decree. This argument misses the issue, which is whether DLI had standing to challenge the order that vacated the dissolution decree. DLI was not seeking to affect the dissolution decree.
