@@ -1,0 +1,31 @@
+---
+court: "Washington Court of Appeals"
+docket: "4257-II"
+decided: "1981-05-12"
+citations: ["29 Wash. App. 292"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Portland Electric and Plumbing Company, Appellant, v. The City of Vancouver, Respondent."]
+source_url: "https://static.case.law/wash-app/29/cases/0292-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1824170
+cites_cases: ["103 N.E.2d 891", "119 Utah 570", "12 Wn. App. 459", "187 Wash. 175", "22 Wn. App. 163", "303 N.Y. 446", "322 P.2d 863", "391 P.2d 713", "50 Wash. 400", "51 Wn.2d 855", "530 P.2d 696", "589 P.2d 250", "59 P.2d 1125", "64 Wn.2d 289", "97 P. 450"]
+---
+
+# Portland Electric & Plumbing Co. v. City of Vancouver
+
+## Majority (Langsdorf, J.)
+
+Langsdorf, J.
+Portland Electric and Plumbing Company (PEPCo), as an assignee of B & B Contracting Corporation (B & B), appeals from a summary judgment dismissing its suit against the City of Vancouver (City). The court determined that PEPCo's claim was barred by a contract term entered into by the City and B & B which prohibited B & B from assigning claims for monies due, absent the City's consent. The basic issue presented on appeal is whether. PEPCo's suit for "Breach of Contract and/or Unjust Enrichment" is a claim for monies due and covered by the antiassignment clause.
+We begin with a brief review of the facts. In 1976 the City contracted with B & B for construction of a well pump at a City-owned water station. The work was not completed on time and the City withheld $8,190 liquidated damages from the contract price. B & B disputed the claim for damages. The City explains it paid B & B an additional $1,680 to "settle" the controversy. Regrettably, no written release was obtained from B & B at that time.
+Without the City's permission, B & B assigned its remaining claim for $6,510 to PEPCo. PEPCo filed this suit against the City alleging that "The City has breached the . . . Contract by its wrongful refusal to pay $6,510.00 under that Contract, which was wrongfully withheld as liquidated damages and which is now due and owing under said Contract ..." The City moved for summary judgment contending that absent the City's permission, the claim was one for monies due and barred by the following contract provision:
+The Contractor shall not assign this contract or any part thereof, or any moneys due or to become due thereunder, without the written prior approval of the Owner.
+The court agreed and dismissed PEPCo's suit with prejudice. This appeal followed.
+As an appellate court reviewing an order for summary judgment we engage in the same inquiry as the trial court. Peterick v. State, 22 Wn. App. 163, 589 P.2d 250 (1977). Summary judgment, under CR 56, is appropriate in cases such as this where the only dispute relates to the legal effect of unambiguous language in a written contract. Pine Corp. v. Richardson, 12 Wn. App. 459, 530 P.2d 696 (1975). Essentially PEPCo argues that it is pursuing an assigned claim for breach of contract, not a claim for monies due and owing; the latter being plainly prohibited by the contract. The assignee then cites the general rule, "a right to damages for breach of contract is assignable, even though the contract contained a prohibition of assignment." (Footnotes omitted.) 3 S. Williston, Contracts § 412, at 46-47 (3d ed. 1960); Fuller v. Favorite Theaters Co., 119 Utah 570, 230 P.2d 335 (1951). PEPCo's argument ignores basic contract pleadings and must fail. There is a distinction between a claim for monies due, or an action for the price, and a claim for damages for breach of contract. 5 A. Corbin, Contracts § 995 (1964); see also U.C.C., RCW 62A.2-709. Additionally, PEPCo's reliance on Fuller is misplaced. That case concerned the assignee's ability to bring a suit for damages for breach of a contract term as opposed to an action to enforce the contract term of payment after completion of performance. We agree with the trial judge, that although PEPCo has attempted to artfully plead its claim, it is an action for monies due and covered by the contract prohibition.
+If transfer will not change the nature of performance, contract rights, generally, are assignable absent prohibition by contract or statute. Robbins v. Hunts Food & Indus., Inc., 64 Wn.2d 289, 391 P.2d 713 (1964); 1 Restatement of Contracts § 151, at 181 (1932). The primary purpose of clauses prohibiting the assignment of contract rights without a contracting party's permission is to protect him in selecting the persons with whom he deals. Bethel v. Matthews, 187 Wash. 175, 59 P.2d 1125 (1936). When a contract prohibits assignment in "very specific" and "unmistakable terms" the assignment will be void against the obligor. Levinson v. Linderman, 51 Wn.2d 855, 322 P.2d 863 (1958). The language in the subject contract is sufficient to prohibit any effective assignment of monies due, or claims thereof, against the City of Vancouver absent its permission. Behrens v. Cloudy, 50 Wash. 400, 97 P. 450 (1908); Levinson v. Linderman, supra. Accordingly, PEPCo's claim is properly dismissed.
+We affirm.
+Reed, C.J., and Petrie, J., concur.
+Judge J. Guthrie Langsdorf is serving as a judge pro tempore of the Court of Appeals pursuant to RCW 2.06.150.
+The issue presented in this case is the nature of PEPCo's claim. PEPCo did not suggest that the antiassignment clause is merely a promise by B & B not to assign, as opposed to a provision making any assignment, absent permission, void against the City. See Allhusen v. Caristo Constr. Corp., 303 N.Y. 446, 103 N.E.2d 891 (1952); see 3 S. Williston, Contracts §422, at 128 (3d ed. 1960); J. Calamari & J. Perillo, Contracts § 18-14, at 647 (2d ed. 1977). Parenthetically, we note that our state courts have found assignments to be void when the contracting party assigns rights in contravention of an agreement not to assign. Levinson v. Linderman, 51 Wn.2d 855, 322 P.2d 863 (1958). Admittedly this approach is more protective of obligors than the standards articulated in the Allhusen case and that suggested by the commentators. See 4 A. Corbin, Contracts § 873, at 494 (1951).
