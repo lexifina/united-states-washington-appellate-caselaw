@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27871-5-II"
 decided: "2002-06-14"
-citations: ["112 Wash. App. 478", "112 Wash. App. 1012"]
+citations: ["112 Wash. App. 478"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ricky Dale McIntyre, Appellan
 source_url: "https://static.case.law/wash-app/112/cases/0478-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719104
-cites_cases: ["104 Wn. App. 422", "112 Wn. App. 478", "119 Wn.2d 284", "134 Wn.2d 588", "141 Wn.2d 121", "16 P.3d 664", "24 Or. App. 393", "24 Or. App. 657", "5 P.3d 658", "57 Wn. App. 765", "790 P.2d 217", "830 P.2d 641", "952 P.2d 167"]
+cites_cases: ["104 Wn. App. 422", "119 Wn.2d 284", "134 Wn.2d 588", "141 Wn.2d 121", "16 P.3d 664", "24 Or. App. 393", "24 Or. App. 657", "5 P.3d 658", "57 Wn. App. 765", "790 P.2d 217", "830 P.2d 641", "952 P.2d 167"]
 ---
 
 # State v. McIntyre
