@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23331-9-I"
 decided: "1990-04-23"
-citations: ["58 Wash. App. 610", "57 Wash. App. 1042"]
+citations: ["58 Wash. App. 610"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Chae Son Pelkey, Respondent."]
 source_url: "https://static.case.law/wash-app/58/cases/0610-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754136
-cites_cases: ["109 Wn.2d 484", "182 P.2d 643", "209 P.2d 358", "28 Wn.2d 1", "34 Wn.2d 553", "48 Wn. App. 781", "58 Wn. App. 610", "639 P.2d 1347", "741 P.2d 65", "745 P.2d 854", "96 Wn.2d 874"]
+cites_cases: ["109 Wn.2d 484", "182 P.2d 643", "209 P.2d 358", "28 Wn.2d 1", "34 Wn.2d 553", "48 Wn. App. 781", "639 P.2d 1347", "741 P.2d 65", "745 P.2d 854", "96 Wn.2d 874"]
 ---
 
 # State v. Pelkey
