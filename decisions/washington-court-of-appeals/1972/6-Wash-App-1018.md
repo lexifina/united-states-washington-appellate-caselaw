@@ -6,6 +6,7 @@ citations: ["6 Wash. App. 1018"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
+text_source: "CAP head matter (CAP holds no opinion text)"
 parties: ["The State of Washington, Respondent, v. William Arthur Kirk, Jr., Appellant."]
 source_url: "https://static.case.law/wash-app/6/cases/1018-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
@@ -14,4 +15,11 @@ cap_id: 1864226
 
 # State v. Kirk
 
+## CAP head matter
 
+*CAP holds no separate opinion text for this decision: the text below is its head matter as CAP gives it, which may hold the court's opinion or order together with the publisher's syllabus, headnotes and counsel.*
+
+[No. 862-1.
+Division One—Panel 2.
+May 15, 1972.]
+The State of Washington, Respondent, v. William Arthur Kirk, Jr., Appellant.
