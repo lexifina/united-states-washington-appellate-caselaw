@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14274-7-I"
 decided: "1985-05-01"
-citations: ["40 Wash. App. 698", "40 Wash. App. 1034"]
+citations: ["40 Wash. App. 698"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Darren Ray Carlin, Appellant.
 source_url: "https://static.case.law/wash-app/40/cases/0698-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1796358
-cites_cases: ["101 Wn.2d 113", "102 Wn.2d 148", "102 Wn.2d 277", "202 P.2d 927", "26 Wn. App. 74", "27 Wn. App. 387", "27 Wn. App. 474", "32 Wn.2d 544", "40 Wn. App. 698", "427 P.2d 1012", "507 P.2d 159", "556 P.2d 936", "588 P.2d 1161", "592 F. Supp. 1538", "612 P.2d 812", "618 P.2d 531", "619 P.2d 982", "677 P.2d 131", "685 P.2d 584", "687 P.2d 172", "71 Wn.2d 312", "8 Wn. App. 481", "82 Wn.2d 1006", "87 Wn.2d 717", "91 Wn.2d 487", "94 Wn.2d 1005", "95 Wn.2d 1001", "95 Wn.2d 1006"]
+cites_cases: ["101 Wn.2d 113", "102 Wn.2d 148", "102 Wn.2d 277", "202 P.2d 927", "26 Wn. App. 74", "27 Wn. App. 387", "27 Wn. App. 474", "32 Wn.2d 544", "427 P.2d 1012", "507 P.2d 159", "556 P.2d 936", "588 P.2d 1161", "592 F. Supp. 1538", "612 P.2d 812", "618 P.2d 531", "619 P.2d 982", "677 P.2d 131", "685 P.2d 584", "687 P.2d 172", "71 Wn.2d 312", "8 Wn. App. 481", "82 Wn.2d 1006", "87 Wn.2d 717", "91 Wn.2d 487", "94 Wn.2d 1005", "95 Wn.2d 1001", "95 Wn.2d 1006"]
 ---
 
 # State v. Carlin
