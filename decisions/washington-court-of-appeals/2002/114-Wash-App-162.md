@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48594-6-I"
 decided: "2002-09-16"
-citations: ["114 Wash. App. 162", "113 Wash. App. 1037"]
+citations: ["114 Wash. App. 162"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. David M. Schlichtmann, Appell
 source_url: "https://static.case.law/wash-app/114/cases/0162-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 163282
-cites_cases: ["114 Wn. App. 162", "114 Wn.2d 77", "118 Wn.2d 801", "124 Wn.2d 702", "125 Wn.2d 24", "132 Wn.2d 529", "41 Wn. App. 721", "705 P.2d 825", "785 P.2d 1134", "828 P.2d 549", "881 P.2d 231", "882 P.2d 747", "940 P.2d 546"]
+cites_cases: ["114 Wn.2d 77", "118 Wn.2d 801", "124 Wn.2d 702", "125 Wn.2d 24", "132 Wn.2d 529", "41 Wn. App. 721", "705 P.2d 825", "785 P.2d 1134", "828 P.2d 549", "881 P.2d 231", "882 P.2d 747", "940 P.2d 546"]
 ---
 
 # State v. Schlichtmann
