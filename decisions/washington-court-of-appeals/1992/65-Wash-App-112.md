@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13458-6-II"
 decided: "1992-02-20"
-citations: ["65 Wash. App. 112", "64 Wash. App. 1006"]
+citations: ["65 Wash. App. 112"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Margaret H. Murphy, Appellant, v. Montgomery Elevator Company, Respon
 source_url: "https://static.case.law/wash-app/65/cases/0112-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1735915
-cites_cases: ["106 Wn.2d 1006", "114 Wn.2d 42", "116 Wn.2d 1028", "198 Md. 585", "218 N.E.2d 480", "288 P.2d 830", "37 Wn. App. 241", "382 N.E.2d 232", "382 P.2d 518", "392 P.2d 317", "41 Wn. App. 565", "42 Wn. App. 147", "42 Wn. App. 776", "43 Wn. App. 827", "447 P.2d 172", "47 Wn.2d 576", "488 P.2d 269", "517 So. 2d 1206", "520 So. 2d 425", "533 P.2d 971", "60 Wn. App. 189", "610 S.W.2d 179", "62 Wn.2d 351", "63 A.L.R.3d 996", "64 Wn.2d 431", "65 Wn. App. 112", "679 P.2d 943", "7 Ohio App. 2d 41", "705 P.2d 781", "709 P.2d 1226", "714 P.2d 316", "720 P.2d 457", "73 Ill. 2d 31", "74 Wn.2d 832", "785 P.2d 815", "79 Wn.2d 586", "803 P.2d 47", "816 F.2d 287", "84 A.2d 876"]
+cites_cases: ["106 Wn.2d 1006", "114 Wn.2d 42", "116 Wn.2d 1028", "198 Md. 585", "218 N.E.2d 480", "288 P.2d 830", "37 Wn. App. 241", "382 N.E.2d 232", "382 P.2d 518", "392 P.2d 317", "41 Wn. App. 565", "42 Wn. App. 147", "42 Wn. App. 776", "43 Wn. App. 827", "447 P.2d 172", "47 Wn.2d 576", "488 P.2d 269", "517 So. 2d 1206", "520 So. 2d 425", "533 P.2d 971", "60 Wn. App. 189", "610 S.W.2d 179", "62 Wn.2d 351", "63 A.L.R.3d 996", "64 Wn.2d 431", "679 P.2d 943", "7 Ohio App. 2d 41", "705 P.2d 781", "709 P.2d 1226", "714 P.2d 316", "720 P.2d 457", "73 Ill. 2d 31", "74 Wn.2d 832", "785 P.2d 815", "79 Wn.2d 586", "803 P.2d 47", "816 F.2d 287", "84 A.2d 876"]
 ---
 
 # Murphy v. Montgomery Elevator Co.
