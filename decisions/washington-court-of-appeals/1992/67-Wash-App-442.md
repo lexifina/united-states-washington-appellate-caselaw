@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27216-1-I"
 decided: "1992-07-27"
-citations: ["67 Wash. App. 442", "66 Wash. App. 1047"]
+citations: ["67 Wash. App. 442"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Steven John Ahlquist, Appella
 source_url: "https://static.case.law/wash-app/67/cases/0442-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715091
-cites_cases: ["100 Wn.2d 1016", "101 Wn.2d 1001", "117 Ill. 2d 549", "136 Ariz. 219", "160 Ill. App. 3d 536", "163 A.D.2d 347", "18 Wn. App. 380", "29 Wn. App. 218", "34 Wn. App. 410", "34 Wn. App. 463", "36 Wn. App. 792", "397 U.S. 337", "414 U.S. 17", "451 N.E.2d 646", "513 N.E.2d 528", "517 N.E.2d 1091", "556 P.2d 936", "557 N.Y.S.2d 174", "561 N.Y.S.2d 559", "562 N.E.2d 884", "568 P.2d 808", "588 P.2d 1151", "627 P.2d 1339", "661 P.2d 605", "662 P.2d 395", "67 Wn. App. 442", "677 P.2d 786", "76 N.Y.2d 897", "87 Wn.2d 717", "91 Wn.2d 342"]
+cites_cases: ["100 Wn.2d 1016", "101 Wn.2d 1001", "117 Ill. 2d 549", "136 Ariz. 219", "160 Ill. App. 3d 536", "163 A.D.2d 347", "18 Wn. App. 380", "29 Wn. App. 218", "34 Wn. App. 410", "34 Wn. App. 463", "36 Wn. App. 792", "397 U.S. 337", "414 U.S. 17", "451 N.E.2d 646", "513 N.E.2d 528", "517 N.E.2d 1091", "556 P.2d 936", "557 N.Y.S.2d 174", "561 N.Y.S.2d 559", "562 N.E.2d 884", "568 P.2d 808", "588 P.2d 1151", "627 P.2d 1339", "661 P.2d 605", "662 P.2d 395", "677 P.2d 786", "76 N.Y.2d 897", "87 Wn.2d 717", "91 Wn.2d 342"]
 ---
 
 # State v. Ahlquist
