@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18878-7-III"
 decided: "2001-02-27"
-citations: ["107 Wash. App. 20", "105 Wash. App. 1009"]
+citations: ["107 Wash. App. 20"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James A. Stansfield, Appellant, v. Douglas County, Respondent."]
 source_url: "https://static.case.law/wash-app/107/cases/0020-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543023
-cites_cases: ["101 Wn.2d 68", "104 Wn.2d 293", "107 Wn. App. 20", "108 Wn.2d 162", "112 Wn.2d 216", "115 Wn.2d 339", "117 Wn.2d 325", "135 Wn.2d 658", "145 Wn.2d 1007", "22 Wn. App. 229", "39 Wn. App. 622", "42 U.S.C. § 1983", "46 Wn. App. 369", "477 U.S. 317", "56 Wn. App. 499", "588 P.2d 750", "635 P.2d 1081", "635 P.2d 721", "664 P.2d 492", "677 P.2d 114", "694 P.2d 705", "705 P.2d 258", "730 P.2d 1369", "736 P.2d 249", "770 P.2d 182", "784 P.2d 554", "79 Wn. App. 850", "797 P.2d 504", "815 P.2d 781", "905 P.2d 928", "958 P.2d 301", "96 Wn.2d 359", "96 Wn.2d 473", "99 Wn.2d 582"]
+cites_cases: ["101 Wn.2d 68", "104 Wn.2d 293", "108 Wn.2d 162", "112 Wn.2d 216", "115 Wn.2d 339", "117 Wn.2d 325", "135 Wn.2d 658", "145 Wn.2d 1007", "22 Wn. App. 229", "39 Wn. App. 622", "42 U.S.C. § 1983", "46 Wn. App. 369", "477 U.S. 317", "56 Wn. App. 499", "588 P.2d 750", "635 P.2d 1081", "635 P.2d 721", "664 P.2d 492", "677 P.2d 114", "694 P.2d 705", "705 P.2d 258", "730 P.2d 1369", "736 P.2d 249", "770 P.2d 182", "784 P.2d 554", "79 Wn. App. 850", "797 P.2d 504", "815 P.2d 781", "905 P.2d 928", "958 P.2d 301", "96 Wn.2d 359", "96 Wn.2d 473", "99 Wn.2d 582"]
 ---
 
 # Stansfield v. Douglas County
