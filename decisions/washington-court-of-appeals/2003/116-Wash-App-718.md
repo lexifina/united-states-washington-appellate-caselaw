@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20260-7-III"
 decided: "2003-02-20"
-citations: ["116 Wash. App. 718", "115 Wash. App. 1046"]
+citations: ["116 Wash. App. 718"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Larry Carlson, Respondent, v. Lake Chelan Community Hospital, Appella
 source_url: "https://static.case.law/wash-app/116/cases/0718-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265761
-cites_cases: ["100 Wn.2d 581", "102 Wn. App. 828", "102 Wn.2d 219", "104 Wn.2d 613", "110 Wn. App. 825", "116 Wn. App. 718", "117 Wn.2d 426", "117 Wn.2d 747", "120 Wn.2d 246", "122 Wn.2d 299", "128 Wn.2d 508", "131 Wn.2d 484", "134 Wn.2d 24", "135 Wn.2d 398", "136 Wn.2d 26", "138 Wn.2d 248", "144 Wn.2d 335", "146 Wn.2d 146", "150 Wn.2d 1017", "24 Wn. App. 569", "27 P.3d 1172", "37 Wn. App. 259", "38 Wn. App. 198", "38 Wn. App. 274", "41 P.3d 1230", "43 P.3d 1223", "55 Wn. App. 545", "604 P.2d 181", "675 P.2d 193", "680 P.2d 432", "684 P.2d 1353", "685 P.2d 1081", "686 P.2d 1102", "69 Wn. App. 709", "707 P.2d 685", "779 P.2d 272", "78 Wn. App. 34", "815 P.2d 1362", "818 P.2d 1337", "840 P.2d 860", "850 P.2d 517", "858 P.2d 1054", "894 P.2d 1379", "9 P.3d 948", "91 Wn. App. 722", "910 P.2d 462", "933 P.2d 1036", "948 P.2d 816", "957 P.2d 632", "959 P.2d 1104", "959 P.2d 1158", "96 Wn. App. 194", "966 P.2d 305", "978 P.2d 505", "978 P.2d 568"]
+cites_cases: ["100 Wn.2d 581", "102 Wn. App. 828", "102 Wn.2d 219", "104 Wn.2d 613", "110 Wn. App. 825", "117 Wn.2d 426", "117 Wn.2d 747", "120 Wn.2d 246", "122 Wn.2d 299", "128 Wn.2d 508", "131 Wn.2d 484", "134 Wn.2d 24", "135 Wn.2d 398", "136 Wn.2d 26", "138 Wn.2d 248", "144 Wn.2d 335", "146 Wn.2d 146", "150 Wn.2d 1017", "24 Wn. App. 569", "27 P.3d 1172", "37 Wn. App. 259", "38 Wn. App. 198", "38 Wn. App. 274", "41 P.3d 1230", "43 P.3d 1223", "55 Wn. App. 545", "604 P.2d 181", "675 P.2d 193", "680 P.2d 432", "684 P.2d 1353", "685 P.2d 1081", "686 P.2d 1102", "69 Wn. App. 709", "707 P.2d 685", "779 P.2d 272", "78 Wn. App. 34", "815 P.2d 1362", "818 P.2d 1337", "840 P.2d 860", "850 P.2d 517", "858 P.2d 1054", "894 P.2d 1379", "9 P.3d 948", "91 Wn. App. 722", "910 P.2d 462", "933 P.2d 1036", "948 P.2d 816", "957 P.2d 632", "959 P.2d 1104", "959 P.2d 1158", "96 Wn. App. 194", "966 P.2d 305", "978 P.2d 505", "978 P.2d 568"]
 ---
 
 # Carlson v. Lake Chelan Community Hospital
