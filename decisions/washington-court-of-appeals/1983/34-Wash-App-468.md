@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "5308-3-III"
+decided: "1983-04-19"
+citations: ["34 Wash. App. 468"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Munson and McInturff, JJ., concur."]
+parties: ["In the Matter of the Personal Restraint of Ronald Jarmillo Baca, Petitioner."]
+source_url: "https://static.case.law/wash-app/34/cases/0468-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1817405
+cites_cases: ["17 Wn. App. 609", "21 Wn. App. 238", "400 U.S. 25", "530 P.2d 317", "552 P.2d 682", "564 P.2d 1179", "564 P.2d 799", "583 P.2d 1262", "600 P.2d 1260", "85 Wn.2d 45", "87 Wn.2d 363", "88 Wn.2d 579", "92 Wn.2d 624"]
+---
+
+# In re the Personal Restraint of Baca
+
+## Majority (Roe, C.J.)
+
+Roe, C.J.
+Ronald J. Baca seeks relief from personal restraint imposed by Spokane County convictions of first degree robbery and attempt to elude a police vehicle.
+Mr. Baca was sentenced on September 2, 1981, to 20 years in prison on the robbery count and 5 years on the eluding count, the sentences to run concurrently. He received a IVi -year mandatory minimum term because he had a prior felony conviction and was armed with a firearm during the robbery. See RCW 9.95.040. He now asks that the mandatory minimum term be reduced to 5 years in accordance with a plea bargain.
+At the time he entered his plea (which is not otherwise challenged), Mr. Baca's counsel advised the court he was making an Alford plea to avoid possible severe consecutive penalties. Counsel told the court Mr. Baca had no prior felony convictions, and the court advised Mr. Baca the mandatory minimum term would be 5 years. Mr. Baca acknowledged his understanding of the court's advice and also told the court he had never been to prison or jail.
+To provide a factual basis for the plea, the prosecutor told the court he would prove that Mr. Baca, armed and wearing a mask, robbed a Spokane restaurant. As he left the scene on foot, he fired shots at a patron and the restaurant owner when they tried to observe his flight. Following a high speed auto chase ending in a multiple-vehicle collision, Mr. Baca was arrested, and officers found a pistol and bag of money in his car. Later, pursuant to a search warrant, officers found in Mr. Baca's car gloves and a mask similar to those used by the perpetrator.
+Subsequent to a presentence investigation, the court was advised that Mr. Baca, indeed, had a prior felony conviction. Nothing was then made of the matter, but after the error was discovered, the court gave Mr. Baca "Supplemental Advice of Rights on Plea of Guilty", which was filed 3 weeks after sentencing. The advice was:
+(1) The Statement of Defendant on Plea of Guilty reflects that you were not advised that the crime to which you plead guilty carries a mandatory minimum of seven and one-half (7-1/2) years if you are sentenced to prison and you have been convicted of a prior felony. The minimum term is set by the Board of Prison Terms and Paroles.
+(2) Due to the failure to advise you of the mandatory minimum, the Court, at this time, would entertain a motion to withdraw your plea of guilty and vacate the judgment and sentence previously imposed. Should you elect to withdraw your plea of guilty, and the Court granted the motion the prosecution would have the option of proceeding to trial on the original charges contained in the Information.
+(3) If you do not move to withdraw your plea of guilty at this time, the Court will view your inaction as acquiescence to the Judgment and Sentence, and a waiver of any defect in the plea of guilty previously entered. A motion to withdraw your plea of guilty at a later date would not be granted.
+Mr. Baca's counsel proposed a third alternative: that the court and prosecutor could not sua sponte withdraw the plea and, instead, the Board of Prison Terms and Paroles should have been ordered to limit the mandatory term pursuant to the bargain. The court allowed Mr. Baca a week to decide either to withdraw his plea or to waive the defect in the advice given. A week later, Mr. Baca refused to sign the form containing the supplemental advice and indicated he would delay his decision on withdrawing his plea until he learned whether the Board of Prison Terms and Paroles would set a 5- or 7 Vi-year minimum term.
+In May 1982, Mr. Baca petitioned the court for an order directing the Board to reset the minimum term at 5 years. The motion was denied.
+Mr. Baca contends he is entitled to specific performance of the plea bargain to the extent the Board be limited to setting a 5-year minimum. He relies on State v. Tourtellotte, 88 Wn.2d 579, 564 P.2d 799 (1977); State v. Cosner, 85 Wn.2d 45, 530 P.2d 317 (1975); In re Williams, 21 Wn. App. 238, 583 P.2d 1262 (1978); State v. Pope, 17 Wn. App. 609, 564 P.2d 1179 (1977).
+"It is the obligation of the court to correctly inform a guilty pleading defendant as to the maximum sentence on the charge, and any additional punishment he may be subject to as a result of previous convictions." In re Williams, supra at 240; CrR 4.2(d). Where a defendant is misinformed about the length of a mandatory minimum sentence, the court has ordered the Board to set the term in accordance with the erroneous advice given. State v. Cosner, supra. However, other relief has been provided. In State v. Pope, supra at 614, the court found CrR 4.2(f) accords to the trial court the discretion to "select the type of relief justified by the circumstances of the particular case". As the court said at pages 614-15, factors to be considered in deciding upon the appropriate remedy are:
+(1) whether the error was inadvertent or the product of bad faith on the part of the State; where bad faith is found to exist, the court should give considerable weight to the choice of remedy sought by defendant;
+(2) whether retrial of petitioner on the original charges would be frustrated by absence of witnesses of either the State or the defendant;
+(3) whether the discrepancy between the sentence imposed and the one anticipated by the plea agreement is great or small;
+(4) the seriousness of the offenses to which pleas were entered;
+(5) whether the particular remedy selected will, in a fair way, restore defendant to the position he would have been in had the violation of CrR 4.2(d) not occurred.
+The error in advice given to Mr. Baca was not the result of wrongful conduct on the part of the State. What was evidently an inadvertent lack of knowledge about Mr. Baca's past was complicated by his assertions and those of his counsel that he had no prior felony convictions. The discrepancy between the anticipated mandatory minimum sentence and the one actually imposed is not alarmingly disproportionate when gauged by the maximum term, the seriousness of the offenses and the potentially more aggravated sentence Mr. Baca admittedly avoided by his plea. Furthermore, since his plea was an Alford one, the option afforded to Mr. Baca by the trial court did, in a fair way, restore Mr. Baca to the position he would have been in had he not been misinformed of the applicable mandatory minimum term.
+It is not uncommon for a plea to be taken before a defendant's complete criminal history is prepared. A lack of such information compounded by a defendant's misstatements should not handcuff the prosecutor, the court, or the parole board. This is especially so when Mr. Baca chose to gamble on his minimum term setting and lost.
+The trial court's supplemental advice on Mr. Baca's guilty plea and the plea withdrawal option were sufficient to correct the innocent mistake in the initial advice of rights.
+The petition is dismissed.
+Munson and McInturff, JJ., concur.
+In North Carolina v. Alford, 400 U.S. 25, 27 L. Ed. 2d 162, 91 S. Ct. 160 (1970), the Court held an accused may plead guilty without admitting acts of crime or even protesting innocence if he intelligently concludes his interest so requires and the record strongly evidences guilt. See also State v. Newton, 87 Wn.2d 363, 552 P.2d 682 (1976).
+Although the offense was apparently committed before Mr. Baca's 18th birthday, he was treated as an adult and received a deferred sentence for grand larceny, being placed on probation for 30 months. Upon successful completion of probation, the matter was dismissed on December 18, 1978. The dismissal has no effect on the enhancement of Mr. Baca's minimum term. State v. Braithwaite, 92 Wn.2d 624, 600 P.2d 1260 (1979).
+No one at sentencing alerted the trial court to the significance of the prior felony with respect to the plea advice or the minimum term setting. Nor did anyone call attention to the fact the court had proceeded some weeks earlier in accepting the plea on misinformation provided by Mr. Baca and his lawyer—an error apparently not even recognized until 3 weeks after sentencing. Understandably, under these circumstances, the trial court did not immediately take steps to clarify the matter. When the impact of the prior felony was later realized, the State moved quickly to bring the matter before the court for resolution.
+Notwithstanding counsel's argument to the trial court, CrR 4.2(f) does not limit withdrawal of guilty pleas to only those instances where requested by the defendant. The rule provides: "The court shall allow a defendant to withdraw his plea of guilty whenever it appears that the withdrawal is necessary to correct a mánifest injustice.11
+Although the court in State v. Tourtellotte, supra at 584, noted there were no express rule provisions for withdrawing pleas on a motion by the State, it admitted: "it is conceivable that there may be circumstances under which the court may legitimately grant a state's motion to withdraw the plea,..."
+State v. Pope, supra, finds such discretion lodged in the trial court.
