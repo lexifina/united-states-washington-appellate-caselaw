@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21027-8-III"
 decided: "2003-08-19"
-citations: ["119 Wash. App. 391", "118 Wash. App. 1016"]
+citations: ["119 Wash. App. 391"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Spokane County, Respondent, v. Specialty Auto and Truck Painting, Inc
 source_url: "https://static.case.law/wash-app/119/cases/0391-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350188
-cites_cases: ["109 Wn. App. 405", "110 Wn. App. 841", "119 Wn. App. 391", "146 Wn.2d 1014", "147 Wn.2d 1024", "151 Wn.2d 1009", "33 Wn. App. 629", "36 P.3d 1065", "42 U.S.C. § 1983", "43 P.3d 43", "530 P.2d 302", "658 P.2d 8", "85 Wn. App. 240", "85 Wn.2d 140", "931 P.2d 170", "933 F.2d 724"]
+cites_cases: ["109 Wn. App. 405", "110 Wn. App. 841", "146 Wn.2d 1014", "147 Wn.2d 1024", "151 Wn.2d 1009", "33 Wn. App. 629", "36 P.3d 1065", "42 U.S.C. § 1983", "43 P.3d 43", "530 P.2d 302", "658 P.2d 8", "85 Wn. App. 240", "85 Wn.2d 140", "931 P.2d 170", "933 F.2d 724"]
 ---
 
 # Spokane County v. Specialty Auto & Truck Painting, Inc.
