@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23188-3-II"
 decided: "2000-01-14"
-citations: ["99 Wash. App. 518", "98 Wash. App. 1061"]
+citations: ["99 Wash. App. 518"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert D. Laymon, et al., Appellants, v. The Department of Natural Re
 source_url: "https://static.case.law/wash-app/99/cases/0518-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181095
-cites_cases: ["100 Wn.2d 275", "102 Wn.2d 874", "103 Wn.2d 441", "103 Wn.2d 768", "108 Wn.2d 262", "111 Wn.2d 159", "111 Wn.2d 174", "111 Wn.2d 182", "114 Wn.2d 20", "116 Wn.2d 596", "118 Wn.2d 195", "118 Wn.2d 801", "119 S. Ct. 45", "122 Wn.2d 738", "124 Wn.2d 816", "132 Wn.2d 214", "133 Wn.2d 455", "134 Wn.2d 243", "135 Wn.2d 582", "136 Wn.2d 1015", "137 Wn.2d 518", "139 Wn.2d 1003", "142 L. Ed. 2d 35", "39 A.L.R.4th 671", "43 Wn. App. 880", "521 P.2d 736", "525 U.S. 812", "55 Wn. App. 820", "560 P.2d 1145", "62 Wn. App. 408", "63 Wn. App. 232", "63 Wn. App. 35", "64 Wn. App. 768", "65 Wn. App. 661", "669 P.2d 451", "691 P.2d 524", "693 P.2d 1369", "698 P.2d 77", "719 P.2d 966", "737 P.2d 1257", "753 P.2d 523", "759 P.2d 1188", "759 P.2d 447", "759 P.2d 455", "780 P.2d 1341", "785 P.2d 447", "79 Wn. App. 850", "809 P.2d 143", "814 P.2d 243", "816 P.2d 1237", "818 P.2d 34", "822 P.2d 243", "824 P.2d 1237", "827 P.2d 1017", "828 P.2d 549", "83 Wn. App. 263", "83 Wn.2d 618", "831 P.2d 1098", "863 P.2d 535", "88 Wn. App. 148", "88 Wn.2d 359", "881 P.2d 986", "90 Wn. App. 533", "905 P.2d 928", "921 P.2d 1066", "937 P.2d 186", "943 P.2d 1167", "947 P.2d 1169", "947 P.2d 223", "95 Wn. App. 71", "954 P.2d 290", "957 P.2d 1241", "973 P.2d 465", "974 P.2d 355", "99 Wn. App. 518"]
+cites_cases: ["100 Wn.2d 275", "102 Wn.2d 874", "103 Wn.2d 441", "103 Wn.2d 768", "108 Wn.2d 262", "111 Wn.2d 159", "111 Wn.2d 174", "111 Wn.2d 182", "114 Wn.2d 20", "116 Wn.2d 596", "118 Wn.2d 195", "118 Wn.2d 801", "119 S. Ct. 45", "122 Wn.2d 738", "124 Wn.2d 816", "132 Wn.2d 214", "133 Wn.2d 455", "134 Wn.2d 243", "135 Wn.2d 582", "136 Wn.2d 1015", "137 Wn.2d 518", "139 Wn.2d 1003", "142 L. Ed. 2d 35", "39 A.L.R.4th 671", "43 Wn. App. 880", "521 P.2d 736", "525 U.S. 812", "55 Wn. App. 820", "560 P.2d 1145", "62 Wn. App. 408", "63 Wn. App. 232", "63 Wn. App. 35", "64 Wn. App. 768", "65 Wn. App. 661", "669 P.2d 451", "691 P.2d 524", "693 P.2d 1369", "698 P.2d 77", "719 P.2d 966", "737 P.2d 1257", "753 P.2d 523", "759 P.2d 1188", "759 P.2d 447", "759 P.2d 455", "780 P.2d 1341", "785 P.2d 447", "79 Wn. App. 850", "809 P.2d 143", "814 P.2d 243", "816 P.2d 1237", "818 P.2d 34", "822 P.2d 243", "824 P.2d 1237", "827 P.2d 1017", "828 P.2d 549", "83 Wn. App. 263", "83 Wn.2d 618", "831 P.2d 1098", "863 P.2d 535", "88 Wn. App. 148", "88 Wn.2d 359", "881 P.2d 986", "90 Wn. App. 533", "905 P.2d 928", "921 P.2d 1066", "937 P.2d 186", "943 P.2d 1167", "947 P.2d 1169", "947 P.2d 223", "95 Wn. App. 71", "954 P.2d 290", "957 P.2d 1241", "973 P.2d 465", "974 P.2d 355"]
 ---
 
 # Laymon v. Department of Natural Resources
