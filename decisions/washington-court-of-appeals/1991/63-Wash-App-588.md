@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26285-8-I"
 decided: "1991-11-04"
-citations: ["63 Wash. App. 588", "63 Wash. App. 1001"]
+citations: ["63 Wash. App. 588"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Wade Woods, Appellant."]
 source_url: "https://static.case.law/wash-app/63/cases/0588-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1732815
-cites_cases: ["105 Wn.2d 1", "116 Wn.2d 466", "44 Wn. App. 26", "45 Wn. App. 839", "616 P.2d 628", "63 Wn. App. 588", "711 P.2d 1000", "720 P.2d 1387", "727 P.2d 999", "805 P.2d 806", "94 Wn.2d 216"]
+cites_cases: ["105 Wn.2d 1", "116 Wn.2d 466", "44 Wn. App. 26", "45 Wn. App. 839", "616 P.2d 628", "711 P.2d 1000", "720 P.2d 1387", "727 P.2d 999", "805 P.2d 806", "94 Wn.2d 216"]
 ---
 
 # State v. Woods
