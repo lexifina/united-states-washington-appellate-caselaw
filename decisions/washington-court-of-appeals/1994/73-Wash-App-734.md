@@ -1,0 +1,40 @@
+---
+court: "Washington Court of Appeals"
+docket: "12747-8-III"
+decided: "1994-04-14"
+citations: ["73 Wash. App. 734"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Eddie Daniels, Sr., Appellant."]
+source_url: "https://static.case.law/wash-app/73/cases/0734-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1748635
+cites_cases: ["102 Wn.2d 148", "105 Wn.2d 120", "110 Wn.2d 16", "111 Wn.2d 124", "115 Wn.2d 609", "287 Or. 613", "459 U.S. 359", "61 Wn. App. 86", "64 Wn. App. 904", "685 P.2d 584", "70 Wn. App. 593", "713 P.2d 71", "749 P.2d 1295", "761 P.2d 588", "801 P.2d 193", "809 P.2d 221", "827 P.2d 318", "855 P.2d 696"]
+---
+
+# State v. Daniels
+
+## Majority (Thompson, C.J.)
+
+Thompson, C.J.
+— Eddie Daniels, Sr., appeals a sentencing order imposing community supervision and conditions to follow his release from confinement. The order was entered after his special sexual offender sentencing alternative (SSOSA) was revoked. He contends the sentence violates the rule of lenity, places him in double jeopardy, and is contrary to the SSOSA statutory scheme. We affirm.
+On September 5, 1991, Mr. Daniels pleaded guilty to one count of third degree child molestation. On October 4, he was sentenced under RCW 9.94A.120(7). His sentence consisted of a suspended 12-month term of incarceration and 3 years of community supervision with a number of conditions.
+Mr. Daniels violated the terms of his supervision and on February 7, 1992, the court imposed a 30-day jail sanction. Additional violations of supervision occurred and by stipulation, Mr. Daniel’s suspended sentence was revoked on August 27, 1992.
+A sentencing hearing was held on September 10. The court determined the 12-month community supervision period authorized by RCW 9.94A.383 was applicable. Mr. Daniels’ jail term was reimposed and he was sentenced to 12 months’ community supervision to commence upon his release from jail.
+The sole issue in this appeal is whether community supervision and attendant conditions may be imposed upon the revocation of a sentence imposed under SSOSA.
+Mr. Daniels contends RCW 9.94A.120(7)(a)(ii) and RCW 9.94A.120(7) (a)(v) appear to conflict. The former provides for suspension of the execution of the sentence and imposition of certain conditions of suspension. The latter states when the suspended sentence may be revoked. Neither specifically states whether a defendant whose suspended sentence is reimposed should remain on supervision and, if so, what conditions apply. Mr. Daniels contends the statutes should be construed such that once a suspended jail sentence is revoked, the conditions placed upon the person for the suspended sentence are no longer applicable or enforceable. He cites State v. Wilbur, 110 Wn.2d 16, 19, 749 P.2d 1295 (1988) (quoting State v. Hornaday, 105 Wn.2d 120, 127, 713 P.2d 71 (1986)) and State v. Jackson, 61 Wn. App. 86, 89, 809 P.2d 221 (1991).
+The State contends the SSOSA option is the one instance in the Sentencing Reform Act of 1981 when a suspended sentence can be imposed. RCW 9.94A.120(7)(a)(ii). Should an offender violate the terms of the sentence, the court has the power to either impose sanctions of up to 60 days’ confinement pursuant to RCW 9.94A.200 or to revoke the suspended sentence under the authority of RCW 9.94A-.120(7)(a)(v). State v. Badger, 64 Wn. App. 904, 909-10, 827 P.2d 318 (1992).
+Under RCW 9.94A.120(7)(a)(ii), when a court suspends a sentence it must determine the term of confinement should the defendant violate a condition of the suspended sentence. As noted in State v. Morrison, 70 Wn. App. 593, 596, 855 P.2d 696 (1993), the "conditions” referred to in RCW 9.94A.120(7)(a)(ii) are those imposed on the suspension of the sentence. If a condition of a suspended sentence is violated, the court may revoke the sentence and order its execution.
+As Mr. Daniels contends, the cited statutes do not specifically state whether a defendant should remain on supervision when his suspended sentence is reimposed and if so, what conditions apply. Neither does any other SSOSA provision. However, this does not create an ambiguity nor make the rule of lenity applicable. It is entirely consistent with the SSOSA for the trial court to have discretion in determining what the appropriate disposition should be once a suspended sentence is revoked, just as the court has discretion whether to revoke the suspended sentence in the first place. See Badger, at 909-10; Morrison, at 597. As stated in Morrison, at 597-98:
+It makes sense for the trial court to wait to impose a term of community supervision and attendant conditions until it can evaluate an offender’s performance under a SSOSA sentence. There is often scant treatment history before the sentence is imposed, and the treatment process or the defendant’s violation of a condition of the suspended sentence may reveal additional problems that should be the subject of crime-related prohibitions when the court makes the revocation decision. The trial court obviously cannot know what these might be before the defendant begins serving the SSOSA sentence.
+The rationale of Morrison is similar to that advanced by the State in this appeal. A trial court cannot anticipate the circumstances which might lead to revocation at the time a sentence under SSOSA is imposed. Therefore, a decision whether to impose community supervision after revocation and what conditions to include are best made by the trial court as part of the revocation hearing process.
+RCW 9.94A.383 expressly permits the court to impose community supervision when a defendant is sentenced to confinement of 1 year or less. Since Mr. Daniels was sentenced to 12 months’ confinement, he was eligible for community supervision. "While he claims all conditions must be proclaimed at the initial sentencing, SSOSA does not require it, nor is his contention supported by statutory interpretation.
+Mr. Daniels also contends his sentence constituted double jeopardy, although he does not support his assertion with any legal authority. We refer him to Missouri v. Hunter, 459 U.S. 359, 365, 74 L. Ed. 2d 535, 542, 103 S. Ct. 673, 678 (1983), State v. Dennison, 115 Wn.2d 609, 629, 801 P.2d 193 (1990), and State v. Harris, 102 Wn.2d 148, 685 P.2d 584 (1984), overruled on other grounds in State v. Brown, 111 Wn.2d 124, 761 P.2d 588 (1988). Because Mr. Daniels did not receive punishment greater than the Legislature intended, there is no violation of the double jeopardy clause. Further, a more severe sentence may be granted if it is based on events triggered by a defendant’s additional intervening conduct. See, e.g., State v. Holmes, 287 Or. 613, 601 P.2d 1213 (1979).
+We affirm.
+Munson and Sweeney, JJ., concur.
+RCW 9.94A.383 provides:
+"On all sentences of confinement for one year or less, the court may impose up to one year of community supervision. An offender shall be on community supervision as of the date of sentencing. However, during the time for which the offender is in total or partial confinement pursuant to the sentence or a violation of the sentence, the period of community supervision shall toll.”
+"If the court determines that this special sex offender sentencing alternative is appropriate, the court shall then impose a sentence within the sentence range. If this sentence is less than eight years of confinement, the court may suspend the execution of the sentence and impose . . . conditions of suspension:” ROW 9.94A.120(7)(a)(ii).
+RCW 9.94A.120(7)(a)(v) provides:
+"The court may revoke the suspended sentence at any time during the period of community supervision and order execution of the sentence if: (A) The defendant violates the conditions of the suspended sentence, or (B) the court finds that the defendant is failing to make satisfactory progress in treatment. All confinement time served during the period of community supervision shall be credited to the offender if the suspended sentence is revoked.”
