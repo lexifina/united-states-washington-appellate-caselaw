@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12180-4-I"
 decided: "1983-12-05"
-citations: ["36 Wash. App. 582", "36 Wash. App. 1017"]
+citations: ["36 Wash. App. 582"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Don G. Allen, Appellant."]
 source_url: "https://static.case.law/wash-app/36/cases/0582-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1782149
-cites_cases: ["19 Wn. App. 860", "25 Wn. App. 621", "36 Wn. App. 582", "557 P.2d 847", "578 P.2d 74", "585 P.2d 66", "588 P.2d 1171", "612 P.2d 4", "619 P.2d 697", "87 Wn.2d 870", "90 Wn.2d 423", "91 Wn.2d 492", "94 Wn.2d 690"]
+cites_cases: ["19 Wn. App. 860", "25 Wn. App. 621", "557 P.2d 847", "578 P.2d 74", "585 P.2d 66", "588 P.2d 1171", "612 P.2d 4", "619 P.2d 697", "87 Wn.2d 870", "90 Wn.2d 423", "91 Wn.2d 492", "94 Wn.2d 690"]
 ---
 
 # State v. Allen
