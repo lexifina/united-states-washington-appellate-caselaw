@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15826-1-I"
 decided: "1986-12-24"
-citations: ["46 Wash. App. 565", "46 Wash. App. 1021"]
+citations: ["46 Wash. App. 565"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Eric Todd Anderson, Respondent
 source_url: "https://static.case.law/wash-app/46/cases/0565-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1811808
-cites_cases: ["100 Wn.2d 230", "102 Wn.2d 348", "33 Wn. App. 491", "431 U.S. 783", "46 Wn. App. 565", "641 F.2d 659", "655 P.2d 1193", "668 P.2d 584", "684 P.2d 1293"]
+cites_cases: ["100 Wn.2d 230", "102 Wn.2d 348", "33 Wn. App. 491", "431 U.S. 783", "641 F.2d 659", "655 P.2d 1193", "668 P.2d 584", "684 P.2d 1293"]
 ---
 
 # State v. Anderson
