@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22967-6-II"
 decided: "1999-05-14"
-citations: ["96 Wash. App. 11", "95 Wash. App. 1042"]
+citations: ["96 Wash. App. 11"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Allstate Insurance Company, Respondent, v. Douglas Bauer, et al., App
 source_url: "https://static.case.law/wash-app/96/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128437
-cites_cases: ["113 Wn.2d 91", "119 Wn.2d 724", "130 Wn.2d 335", "131 Wn.2d 420", "20 Wn. App. 261", "579 P.2d 1015", "58 Wn. App. 546", "776 P.2d 123", "794 P.2d 521", "81 Wn. App. 293", "837 P.2d 1000", "914 P.2d 119", "922 P.2d 1335", "932 P.2d 1244", "96 Wn. App. 11"]
+cites_cases: ["113 Wn.2d 91", "119 Wn.2d 724", "130 Wn.2d 335", "131 Wn.2d 420", "20 Wn. App. 261", "579 P.2d 1015", "58 Wn. App. 546", "776 P.2d 123", "794 P.2d 521", "81 Wn. App. 293", "837 P.2d 1000", "914 P.2d 119", "922 P.2d 1335", "932 P.2d 1244"]
 ---
 
 # Allstate Insurance v. Bauer
