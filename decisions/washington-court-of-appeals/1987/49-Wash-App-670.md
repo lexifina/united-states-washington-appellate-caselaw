@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10215-3-II"
 decided: "1987-10-27"
-citations: ["49 Wash. App. 670", "49 Wash. App. 1054"]
+citations: ["49 Wash. App. 670"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Welfare of J.K."]
 source_url: "https://static.case.law/wash-app/49/cases/0670-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739088
-cites_cases: ["104 Wn.2d 460", "104 Wn.2d 643", "105 Wn.2d 99", "25 U.S.C. § 1912", "419 P.2d 809", "455 U.S. 745", "46 Wn. App. 530", "463 P.2d 159", "49 Wn. App. 670", "576 P.2d 397", "635 P.2d 108", "69 Wn.2d 641", "706 P.2d 625", "709 P.2d 1185", "713 P.2d 79", "731 P.2d 537", "77 Wn.2d 396", "89 Wn.2d 874", "96 Wn.2d 230"]
+cites_cases: ["104 Wn.2d 460", "104 Wn.2d 643", "105 Wn.2d 99", "25 U.S.C. § 1912", "419 P.2d 809", "455 U.S. 745", "46 Wn. App. 530", "463 P.2d 159", "576 P.2d 397", "635 P.2d 108", "69 Wn.2d 641", "706 P.2d 625", "709 P.2d 1185", "713 P.2d 79", "731 P.2d 537", "77 Wn.2d 396", "89 Wn.2d 874", "96 Wn.2d 230"]
 ---
 
 # In re J.K.
