@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23150-6-II; 23421-1-II"
 decided: "2000-02-25"
-citations: ["100 Wash. App. 158", "99 Wash. App. 1045"]
+citations: ["100 Wash. App. 158"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Bremerton, Respondent, v. William Sesko, et al., Appellan
 source_url: "https://static.case.law/wash-app/100/cases/0158-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363165
-cites_cases: ["100 Wn. App. 158", "109 Wn.2d 504", "113 Wn.2d 413", "115 Wn.2d 609", "134 Wn.2d 437", "141 Wn.2d 1031", "482 P.2d 775", "745 P.2d 858", "77 Wn. App. 66", "780 P.2d 1282", "79 Wn.2d 12", "801 P.2d 193", "889 P.2d 940", "951 P.2d 782"]
+cites_cases: ["109 Wn.2d 504", "113 Wn.2d 413", "115 Wn.2d 609", "134 Wn.2d 437", "141 Wn.2d 1031", "482 P.2d 775", "745 P.2d 858", "77 Wn. App. 66", "780 P.2d 1282", "79 Wn.2d 12", "801 P.2d 193", "889 P.2d 940", "951 P.2d 782"]
 ---
 
 # City of Bremerton v. Sesko
