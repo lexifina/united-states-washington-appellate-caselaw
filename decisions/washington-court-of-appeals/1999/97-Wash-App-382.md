@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22608-1-II"
 decided: "1999-09-03"
-citations: ["97 Wash. App. 382", "97 Wash. App. 1021"]
+citations: ["97 Wash. App. 382"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Thomas Marion Wright, Appella
 source_url: "https://static.case.law/wash-app/97/cases/0382-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 183849
-cites_cases: ["121 Wn.2d 513", "131 Wn.2d 230", "311 P.2d 988", "50 Wn.2d 365", "852 P.2d 288", "930 P.2d 1213", "97 Wn. App. 382"]
+cites_cases: ["121 Wn.2d 513", "131 Wn.2d 230", "311 P.2d 988", "50 Wn.2d 365", "852 P.2d 288", "930 P.2d 1213"]
 ---
 
 # State v. Wright
