@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40992-1-I"
 decided: "1999-03-01"
-citations: ["95 Wash. App. 358", "94 Wash. App. 1020"]
+citations: ["95 Wash. App. 358"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Estate of Lavina A. Kessler. Thomas Trimm, et al
 source_url: "https://static.case.law/wash-app/95/cases/0358-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254826
-cites_cases: ["100 Wn.2d 1036", "102 Wash. 497", "109 Wn.2d 357", "111 Wn.2d 1007", "129 P.2d 518", "133 Wash. 318", "135 Wn.2d 518", "137 Wash. 512", "14 Wn.2d 676", "16 Wn. App. 764", "162 P.2d 245", "173 P. 435", "178 Wash. 628", "187 Wash. 417", "189 Wash. 33", "19 A.L.R.3d 559", "194 Wash. 661", "211 P.2d 496", "219 P.2d 591", "23 Wn.2d 699", "233 P. 657", "242 P. 1094", "249 P.2d 385", "253 P.2d 954", "35 P.2d 52", "35 Wn. App. 844", "35 Wn.2d 156", "36 Wn.2d 583", "4 Wn. App. 649", "41 Wn.2d 326", "411 P.2d 146", "411 P.2d 879", "416 P.2d 124", "42 Wn.2d 149", "439 U.S. 870", "484 P.2d 442", "51 Wn. App. 285", "513 P.2d 76", "513 P.2d 831", "54 Wn. App. 221", "559 P.2d 592", "574 P.2d 1171", "60 P.2d 41", "63 P.2d 438", "67 Wn.2d 957", "670 P.2d 677", "68 Wn.2d 145", "745 P.2d 34", "753 P.2d 530", "773 P.2d 93", "79 P.2d 331", "82 Wn.2d 736", "83 Wn.2d 1002", "89 Wn.2d 613", "9 Wn. App. 413", "95 Wn. App. 358", "957 P.2d 755"]
+cites_cases: ["100 Wn.2d 1036", "102 Wash. 497", "109 Wn.2d 357", "111 Wn.2d 1007", "129 P.2d 518", "133 Wash. 318", "135 Wn.2d 518", "137 Wash. 512", "14 Wn.2d 676", "16 Wn. App. 764", "162 P.2d 245", "173 P. 435", "178 Wash. 628", "187 Wash. 417", "189 Wash. 33", "19 A.L.R.3d 559", "194 Wash. 661", "211 P.2d 496", "219 P.2d 591", "23 Wn.2d 699", "233 P. 657", "242 P. 1094", "249 P.2d 385", "253 P.2d 954", "35 P.2d 52", "35 Wn. App. 844", "35 Wn.2d 156", "36 Wn.2d 583", "4 Wn. App. 649", "41 Wn.2d 326", "411 P.2d 146", "411 P.2d 879", "416 P.2d 124", "42 Wn.2d 149", "439 U.S. 870", "484 P.2d 442", "51 Wn. App. 285", "513 P.2d 76", "513 P.2d 831", "54 Wn. App. 221", "559 P.2d 592", "574 P.2d 1171", "60 P.2d 41", "63 P.2d 438", "67 Wn.2d 957", "670 P.2d 677", "68 Wn.2d 145", "745 P.2d 34", "753 P.2d 530", "773 P.2d 93", "79 P.2d 331", "82 Wn.2d 736", "83 Wn.2d 1002", "89 Wn.2d 613", "9 Wn. App. 413", "957 P.2d 755"]
 ---
 
 # Trimm v. Davis
