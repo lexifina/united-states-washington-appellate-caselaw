@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28452-9-II"
 decided: "2003-04-29"
-citations: ["117 Wash. App. 291", "116 Wash. App. 1056"]
+citations: ["117 Wash. App. 291"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Suzanne DeLacey, Appellant, v. Clover Park School District, Responden
 source_url: "https://static.case.law/wash-app/117/cases/0291-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 653041
-cites_cases: ["101 Wn. App. 300", "11 P.3d 726", "117 Wn. App. 291", "132 Wn.2d 450", "142 Wn.2d 68", "150 Wn.2d 1023", "3 P.3d 198", "42 Wn. App. 596", "712 P.2d 870", "938 P.2d 827", "95 Wn. App. 858", "975 P.2d 567"]
+cites_cases: ["101 Wn. App. 300", "11 P.3d 726", "132 Wn.2d 450", "142 Wn.2d 68", "150 Wn.2d 1023", "3 P.3d 198", "42 Wn. App. 596", "712 P.2d 870", "938 P.2d 827", "95 Wn. App. 858", "975 P.2d 567"]
 ---
 
 # DeLacey v. Clover Park School District
