@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25132-9-II"
 decided: "2001-01-19"
-citations: ["104 Wash. App. 792", "104 Wash. App. 1014"]
+citations: ["104 Wash. App. 792"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Velvet Faye Gibson, Respondent
 source_url: "https://static.case.law/wash-app/104/cases/0792-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700283
-cites_cases: ["104 Wn. App. 792", "136 Wn.2d 629", "392 U.S. 1", "437 U.S. 385", "44 Wn. App. 830", "54 Wn. App. 18", "71 Wn. App. 267", "723 P.2d 534", "75 Wn. App. 351", "771 P.2d 770", "857 P.2d 1074", "86 Wn. App. 253", "86 Wn. App. 414", "880 P.2d 48", "936 P.2d 52", "937 P.2d 1110", "965 P.2d 1072"]
+cites_cases: ["136 Wn.2d 629", "392 U.S. 1", "437 U.S. 385", "44 Wn. App. 830", "54 Wn. App. 18", "71 Wn. App. 267", "723 P.2d 534", "75 Wn. App. 351", "771 P.2d 770", "857 P.2d 1074", "86 Wn. App. 253", "86 Wn. App. 414", "880 P.2d 48", "936 P.2d 52", "937 P.2d 1110", "965 P.2d 1072"]
 ---
 
 # State v. Gibson
