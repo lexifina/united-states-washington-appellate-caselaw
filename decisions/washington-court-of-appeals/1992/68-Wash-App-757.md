@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26283-1-I"
 decided: "1992-12-28"
-citations: ["68 Wash. App. 757", "68 Wash. App. 1020"]
+citations: ["68 Wash. App. 757"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Guenter Mannhalt, Appellant."
 source_url: "https://static.case.law/wash-app/68/cases/0757-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725552
-cites_cases: ["100 Wn.2d 1024", "102 Wn.2d 148", "107 Wn.2d 1031", "111 Wn.2d 256", "113 Wn.2d 226", "13 Wn. App. 644", "177 Colo. 429", "282 U.S. 687", "33 Wn. App. 696", "390 U.S. 129", "402 P.2d 499", "46 Wn. App. 45", "488 U.S. 908", "536 P.2d 668", "557 So. 2d 933", "658 P.2d 15", "66 Wn.2d 338", "68 Wn. App. 757", "685 P.2d 584", "728 P.2d 1097", "759 P.2d 1196", "778 P.2d 1037", "787 P.2d 646", "847 F.2d 576", "958 F.2d 851"]
+cites_cases: ["100 Wn.2d 1024", "102 Wn.2d 148", "107 Wn.2d 1031", "111 Wn.2d 256", "113 Wn.2d 226", "13 Wn. App. 644", "177 Colo. 429", "282 U.S. 687", "33 Wn. App. 696", "390 U.S. 129", "402 P.2d 499", "46 Wn. App. 45", "488 U.S. 908", "536 P.2d 668", "557 So. 2d 933", "658 P.2d 15", "66 Wn.2d 338", "685 P.2d 584", "728 P.2d 1097", "759 P.2d 1196", "778 P.2d 1037", "787 P.2d 646", "847 F.2d 576", "958 F.2d 851"]
 ---
 
 # State v. Mannhalt
