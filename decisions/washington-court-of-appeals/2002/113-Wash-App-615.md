@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26580-0-II"
 decided: "2002-05-17"
-citations: ["113 Wash. App. 615", "111 Wash. App. 1041"]
+citations: ["113 Wash. App. 615"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Manke Lumber Company, Inc., et al., Appellants, v. The Central Puget 
 source_url: "https://static.case.law/wash-app/113/cases/0615-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764710
-cites_cases: ["100 Wn. App. 657", "106 Wn.2d 443", "113 Wn. App. 615", "13 P.3d 183", "136 Wn.2d 38", "136 Wn.2d 693", "137 Wn.2d 1018", "14 P.3d 133", "142 Wn.2d 347", "142 Wn.2d 543", "148 Wn.2d 1017", "1997 WL 597031", "1999 WL 68675", "505 U.S. 1003", "535 U.S. 302", "615 P.2d 1279", "722 P.2d 796", "84 Wn. App. 663", "91 Wn. App. 793", "929 P.2d 510", "94 Wn. App. 645", "94 Wn.2d 119", "959 P.2d 1091", "959 P.2d 1173", "965 P.2d 619", "972 P.2d 543", "99 Wn. App. 1050", "997 P.2d 405"]
+cites_cases: ["100 Wn. App. 657", "106 Wn.2d 443", "13 P.3d 183", "136 Wn.2d 38", "136 Wn.2d 693", "137 Wn.2d 1018", "14 P.3d 133", "142 Wn.2d 347", "142 Wn.2d 543", "148 Wn.2d 1017", "1997 WL 597031", "1999 WL 68675", "505 U.S. 1003", "535 U.S. 302", "615 P.2d 1279", "722 P.2d 796", "84 Wn. App. 663", "91 Wn. App. 793", "929 P.2d 510", "94 Wn. App. 645", "94 Wn.2d 119", "959 P.2d 1091", "959 P.2d 1173", "965 P.2d 619", "972 P.2d 543", "99 Wn. App. 1050", "997 P.2d 405"]
 ---
 
 # Manke Lumber Co. v. Central Puget Sound Growth Management Hearings Board
