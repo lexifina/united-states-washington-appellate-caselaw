@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40897-6-I; 41099-7-I"
 decided: "1999-04-19"
-citations: ["95 Wash. App. 824", "95 Wash. App. 1016"]
+citations: ["95 Wash. App. 824"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ronald A. Grayson, as Trustee, Appellant, v. George Platis, et al., R
 source_url: "https://static.case.law/wash-app/95/cases/0824-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 255024
-cites_cases: ["106 Wn.2d 96", "129 Wn.2d 406", "130 P. 1137", "138 Wn.2d 1020", "19 Wn. App. 348", "34 Wn. App. 441", "44 Wn. App. 83", "49 Wn. App. 697", "506 P.2d 20", "575 P.2d 1077", "661 P.2d 1015", "72 Wash. 537", "72 Wn. App. 416", "720 P.2d 805", "721 P.2d 524", "745 P.2d 870", "81 Wn.2d 886", "865 P.2d 536", "918 P.2d 168", "95 Wn. App. 824"]
+cites_cases: ["106 Wn.2d 96", "129 Wn.2d 406", "130 P. 1137", "138 Wn.2d 1020", "19 Wn. App. 348", "34 Wn. App. 441", "44 Wn. App. 83", "49 Wn. App. 697", "506 P.2d 20", "575 P.2d 1077", "661 P.2d 1015", "72 Wash. 537", "72 Wn. App. 416", "720 P.2d 805", "721 P.2d 524", "745 P.2d 870", "81 Wn.2d 886", "865 P.2d 536", "918 P.2d 168"]
 ---
 
 # Grayson v. Platis
