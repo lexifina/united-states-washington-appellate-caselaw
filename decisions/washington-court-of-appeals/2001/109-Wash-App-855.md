@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47076-1-I"
 decided: "2001-12-03"
-citations: ["109 Wash. App. 855", "109 Wash. App. 1034"]
+citations: ["109 Wash. App. 855"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["E.E. Brighton, Jr., Appellant, v. The Department of Transportation, e
 source_url: "https://static.case.law/wash-app/109/cases/0855-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1013814
-cites_cases: ["108 Wn.2d 299", "109 Wn. App. 855", "118 Wn.2d 1", "122 Wn.2d 397", "134 Wn.2d 48", "135 Wn.2d 255", "136 Wn.2d 38", "31 Wn. App. 853", "644 P.2d 1231", "738 P.2d 254", "820 P.2d 497", "858 P.2d 494", "949 P.2d 1321", "956 P.2d 312", "959 P.2d 1091"]
+cites_cases: ["108 Wn.2d 299", "118 Wn.2d 1", "122 Wn.2d 397", "134 Wn.2d 48", "135 Wn.2d 255", "136 Wn.2d 38", "31 Wn. App. 853", "644 P.2d 1231", "738 P.2d 254", "820 P.2d 497", "858 P.2d 494", "949 P.2d 1321", "956 P.2d 312", "959 P.2d 1091"]
 ---
 
 # Brighton v. Department of Transportation
