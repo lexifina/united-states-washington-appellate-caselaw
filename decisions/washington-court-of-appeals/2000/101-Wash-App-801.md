@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24821-2-II"
 decided: "2000-07-07"
-citations: ["101 Wash. App. 801", "101 Wash. App. 1034"]
+citations: ["101 Wash. App. 801"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Debra Fischer-McReynolds, Appellant, v. Lyle Quasim, as Secretary of 
 source_url: "https://static.case.law/wash-app/101/cases/0801-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170441
-cites_cases: ["101 Wn. App. 801", "107 Wn.2d 563", "110 Wn.2d 812", "111 Wn.2d 903", "112 Wn.2d 216", "115 Wn.2d 609", "121 Wn.2d 8", "127 Wn.2d 401", "134 Wn.2d 437", "139 Wn.2d 1006", "18 Wn. App. 481", "19 Wash. 634", "31 Wn. App. 33", "368 P.2d 897", "46 Wn. App. 267", "477 U.S. 317", "54 P. 36", "569 P.2d 1198", "588 P.2d 1308", "59 Wn.2d 545", "611 P.2d 737", "639 P.2d 791", "66 Wn. App. 196", "728 P.2d 1388", "731 P.2d 497", "759 P.2d 351", "766 P.2d 1099", "770 P.2d 182", "79 Wn. App. 623", "801 P.2d 193", "82 Wn. App. 401", "831 P.2d 744", "846 P.2d 531", "88 Wn. App. 306", "899 P.2d 1265", "901 P.2d 325", "91 Wn.2d 230", "918 P.2d 186", "93 Wn. App. 90", "93 Wn.2d 596", "945 P.2d 727", "95 Wn. App. 794", "951 P.2d 782", "969 P.2d 1078", "977 P.2d 651"]
+cites_cases: ["107 Wn.2d 563", "110 Wn.2d 812", "111 Wn.2d 903", "112 Wn.2d 216", "115 Wn.2d 609", "121 Wn.2d 8", "127 Wn.2d 401", "134 Wn.2d 437", "139 Wn.2d 1006", "18 Wn. App. 481", "19 Wash. 634", "31 Wn. App. 33", "368 P.2d 897", "46 Wn. App. 267", "477 U.S. 317", "54 P. 36", "569 P.2d 1198", "588 P.2d 1308", "59 Wn.2d 545", "611 P.2d 737", "639 P.2d 791", "66 Wn. App. 196", "728 P.2d 1388", "731 P.2d 497", "759 P.2d 351", "766 P.2d 1099", "770 P.2d 182", "79 Wn. App. 623", "801 P.2d 193", "82 Wn. App. 401", "831 P.2d 744", "846 P.2d 531", "88 Wn. App. 306", "899 P.2d 1265", "901 P.2d 325", "91 Wn.2d 230", "918 P.2d 186", "93 Wn. App. 90", "93 Wn.2d 596", "945 P.2d 727", "95 Wn. App. 794", "951 P.2d 782", "969 P.2d 1078", "977 P.2d 651"]
 ---
 
 # Fischer-McReynolds v. Quasim
