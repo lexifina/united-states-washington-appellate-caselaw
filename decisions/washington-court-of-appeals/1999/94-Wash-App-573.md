@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16461-6-III"
 decided: "1999-01-26"
-citations: ["94 Wash. App. 573", "93 Wash. App. 1070"]
+citations: ["94 Wash. App. 573"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jeffrey William Lennon, Appel
 source_url: "https://static.case.law/wash-app/94/cases/0573-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 82837
-cites_cases: ["102 Wn.2d 449", "102 Wn.2d 733", "106 Wn.2d 54", "107 Wn.2d 1001", "119 S. Ct. 807", "121 Wn.2d 168", "123 Wn.2d 1028", "135 Ariz. 281", "135 Wn.2d 1002", "136 Wn.2d 1016", "138 Wn.2d 1014", "14 Wn. App. 200", "197 Ill. Dec. 89", "259 Ill. App. 3d 40", "392 U.S. 1", "407 U.S. 514", "44 Wn. App. 226", "444 U.S. 85", "450 U.S. 931", "469 U.S. 1033", "505 U.S. 647", "519 U.S. 1133", "519 U.S. 844", "540 P.2d 444", "628 F.2d 297", "630 N.E.2d 1213", "654 P.2d 96", "686 N.E.2d 760", "688 P.2d 146", "689 P.2d 1065", "70 Wn. App. 721", "71 Wn. App. 873", "721 P.2d 560", "732 F.2d 379", "76 A.L.R.4th 517", "78 F.3d 348", "847 P.2d 919", "855 P.2d 310", "86 Wn.2d 1006", "863 P.2d 75", "88 Wn. App. 858", "91 Wn. App. 181", "922 F.2d 528", "94 F.3d 204", "94 Wn. App. 573", "950 P.2d 950", "955 P.2d 810", "98 Wn.2d 289"]
+cites_cases: ["102 Wn.2d 449", "102 Wn.2d 733", "106 Wn.2d 54", "107 Wn.2d 1001", "119 S. Ct. 807", "121 Wn.2d 168", "123 Wn.2d 1028", "135 Ariz. 281", "135 Wn.2d 1002", "136 Wn.2d 1016", "138 Wn.2d 1014", "14 Wn. App. 200", "197 Ill. Dec. 89", "259 Ill. App. 3d 40", "392 U.S. 1", "407 U.S. 514", "44 Wn. App. 226", "444 U.S. 85", "450 U.S. 931", "469 U.S. 1033", "505 U.S. 647", "519 U.S. 1133", "519 U.S. 844", "540 P.2d 444", "628 F.2d 297", "630 N.E.2d 1213", "654 P.2d 96", "686 N.E.2d 760", "688 P.2d 146", "689 P.2d 1065", "70 Wn. App. 721", "71 Wn. App. 873", "721 P.2d 560", "732 F.2d 379", "76 A.L.R.4th 517", "78 F.3d 348", "847 P.2d 919", "855 P.2d 310", "86 Wn.2d 1006", "863 P.2d 75", "88 Wn. App. 858", "91 Wn. App. 181", "922 F.2d 528", "94 F.3d 204", "950 P.2d 950", "955 P.2d 810", "98 Wn.2d 289"]
 ---
 
 # State v. Lennon
