@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30220-5-I"
 decided: "1993-07-12"
-citations: ["70 Wash. App. 875", "70 Wash. App. 1044"]
+citations: ["70 Wash. App. 875"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. John L. Darwin, et al, Defend
 source_url: "https://static.case.law/wash-app/70/cases/0875-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1745207
-cites_cases: ["116 Wn.2d 1022", "136 P. 132", "60 Wn. App. 1018", "70 Wn. App. 875", "76 Wash. 253"]
+cites_cases: ["116 Wn.2d 1022", "136 P. 132", "60 Wn. App. 1018", "76 Wash. 253"]
 ---
 
 # State v. Darwin
