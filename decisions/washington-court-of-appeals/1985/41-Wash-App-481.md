@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14315-8-I"
 decided: "1985-07-22"
-citations: ["41 Wash. App. 481", "41 Wash. App. 1024"]
+citations: ["41 Wash. App. 481"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Miguel Alvarez Perez, Appella
 source_url: "https://static.case.law/wash-app/41/cases/0481-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1798435
-cites_cases: ["102 Wn.2d 733", "144 Vt. 585", "15 Wn. App. 871", "240 Or. 521", "26 Mercer L. Rev. 1047", "296 Or. 430", "388 So. 2d 776", "390 U.S. 234", "403 U.S. 443", "41 Wn. App. 481", "442 So. 2d 699", "45 Or. App. 407", "460 U.S. 730", "463 U.S. 1032", "513 P.2d 831", "552 P.2d 1092", "575 P.2d 462", "59 Hawaii 23", "632 P.2d 44", "66 Or. App. 516", "660 F.2d 500", "689 P.2d 1065", "82 Wn.2d 736", "95 Wn.2d 898", "99 N.M. 381"]
+cites_cases: ["102 Wn.2d 733", "144 Vt. 585", "15 Wn. App. 871", "240 Or. 521", "26 Mercer L. Rev. 1047", "296 Or. 430", "388 So. 2d 776", "390 U.S. 234", "403 U.S. 443", "442 So. 2d 699", "45 Or. App. 407", "460 U.S. 730", "463 U.S. 1032", "513 P.2d 831", "552 P.2d 1092", "575 P.2d 462", "59 Hawaii 23", "632 P.2d 44", "66 Or. App. 516", "660 F.2d 500", "689 P.2d 1065", "82 Wn.2d 736", "95 Wn.2d 898", "99 N.M. 381"]
 ---
 
 # State v. Perez
