@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51599-3-I"
 decided: "2003-12-29"
-citations: ["120 Wash. App. 470", "119 Wash. App. 1067"]
+citations: ["120 Wash. App. 470"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Restoration of Firearm Rights of Jeffrey Nelson.
 source_url: "https://static.case.law/wash-app/120/cases/0470-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422737
-cites_cases: ["107 Wn. App. 532", "109 Wn. App. 622", "113 Wn.2d 912", "114 Wn. App. 719", "120 Wn. App. 470", "139 Wn.2d 320", "143 Wn.2d 267", "143 Wn.2d 323", "143 Wn.2d 658", "19 P.3d 1030", "21 P.3d 255", "23 P.3d 462", "250 Ga. 814", "27 P.3d 242", "301 S.E.2d 277", "36 P.3d 1116", "60 P.3d 113", "757 F.2d 1227", "76 Wn. App. 726", "784 P.2d 1258", "887 P.2d 492", "987 P.2d 63", "Ga. Code Ann. § 42-8-62"]
+cites_cases: ["107 Wn. App. 532", "109 Wn. App. 622", "113 Wn.2d 912", "114 Wn. App. 719", "139 Wn.2d 320", "143 Wn.2d 267", "143 Wn.2d 323", "143 Wn.2d 658", "19 P.3d 1030", "21 P.3d 255", "23 P.3d 462", "250 Ga. 814", "27 P.3d 242", "301 S.E.2d 277", "36 P.3d 1116", "60 P.3d 113", "757 F.2d 1227", "76 Wn. App. 726", "784 P.2d 1258", "887 P.2d 492", "987 P.2d 63", "Ga. Code Ann. § 42-8-62"]
 ---
 
 # Nelson v. State
