@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14117-9-III"
 decided: "1994-12-20"
-citations: ["76 Wash. App. 666", "76 Wash. App. 1047"]
+citations: ["76 Wash. App. 666"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Dennis Patterson, Appellant, v. The Superintendent of Public Instruct
 source_url: "https://static.case.law/wash-app/76/cases/0666-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 489964
-cites_cases: ["103 Wn.2d 1038", "110 Wn.2d 827", "111 Wn.2d 91", "112 S. Ct. 1672", "112 Wn.2d 193", "116 Wash. 398", "117 Wn.2d 382", "117 Wn.2d 720", "120 Wn.2d 57", "122 Wn.2d 397", "122 Wn.2d 648", "126 Wn.2d 1018", "199 P. 724", "360 U.S. 564", "378 P.2d 691", "382 U.S. 950", "40 Wn. App. 116", "401 P.2d 346", "420 P.2d 698", "493 U.S. 814", "61 Wn.2d 461", "656 P.2d 1030", "66 Wn.2d 103", "69 Wn. App. 621", "69 Wn.2d 828", "697 P.2d 280", "755 P.2d 806", "758 P.2d 480", "76 Wn. App. 666", "770 P.2d 1027", "816 P.2d 18", "818 P.2d 1062", "837 P.2d 618", "850 P.2d 527", "858 P.2d 494", "860 P.2d 1024", "98 Wn.2d 434"]
+cites_cases: ["103 Wn.2d 1038", "110 Wn.2d 827", "111 Wn.2d 91", "112 S. Ct. 1672", "112 Wn.2d 193", "116 Wash. 398", "117 Wn.2d 382", "117 Wn.2d 720", "120 Wn.2d 57", "122 Wn.2d 397", "122 Wn.2d 648", "126 Wn.2d 1018", "199 P. 724", "360 U.S. 564", "378 P.2d 691", "382 U.S. 950", "40 Wn. App. 116", "401 P.2d 346", "420 P.2d 698", "493 U.S. 814", "61 Wn.2d 461", "656 P.2d 1030", "66 Wn.2d 103", "69 Wn. App. 621", "69 Wn.2d 828", "697 P.2d 280", "755 P.2d 806", "758 P.2d 480", "770 P.2d 1027", "816 P.2d 18", "818 P.2d 1062", "837 P.2d 618", "850 P.2d 527", "858 P.2d 494", "860 P.2d 1024", "98 Wn.2d 434"]
 ---
 
 # Patterson v. Superintendent of Public Instruction
