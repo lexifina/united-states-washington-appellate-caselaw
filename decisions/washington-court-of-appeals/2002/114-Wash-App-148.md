@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47272-1-I"
 decided: "2002-08-12"
-citations: ["114 Wash. App. 148", "113 Wash. App. 1009"]
+citations: ["114 Wash. App. 148"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Raymond Arthur Ben, Appellant
 source_url: "https://static.case.law/wash-app/114/cases/0148-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 163360
-cites_cases: ["114 Wn. App. 148", "129 Wn.2d 652", "520 U.S. 1201", "921 P.2d 473"]
+cites_cases: ["129 Wn.2d 652", "520 U.S. 1201", "921 P.2d 473"]
 ---
 
 # State v. Ben
