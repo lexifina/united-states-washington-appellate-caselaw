@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29813-5-I"
 decided: "1993-08-23"
-citations: ["71 Wash. App. 372", "71 Wash. App. 1007"]
+citations: ["71 Wash. App. 372"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Joseph W. Trepanier, Appellan
 source_url: "https://static.case.law/wash-app/71/cases/0372-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787330
-cites_cases: ["113 Wn.2d 520", "113 Wn.2d 810", "114 Wn.2d 1008", "116 Wn.2d 911", "119 Wash. 557", "119 Wn.2d 563", "179 Wash. 607", "19 Wn. App. 442", "205 P. 1054", "205 Pac. 1054", "22 Wn. App. 197", "30 Wn. App. 432", "351 P. (2d) 921", "38 P. (2d) 372", "386 P.2d 142", "443 U.S. 307", "55 Wn. App. 923", "56 Wn. (2d) 178", "576 P.2d 917", "588 P.2d 1201", "609 P.2d 1358", "609 P.2d 1364", "61 Wn. App. 805", "616 P.2d 628", "63 Wn. App. 220", "63 Wn.2d 188", "635 P.2d 745", "67 Wn. App. 110", "69 Wn. App. 189", "71 Wn. App. 372", "780 P.2d 901", "782 P.2d 1013", "783 P.2d 1061", "787 P.2d 906", "80 A.L.R.4th 989", "810 P.2d 907", "812 P.2d 512", "817 P.2d 880", "834 P.2d 1046", "834 P.2d 105", "847 P.2d 960", "90 Wn.2d 1020", "93 Wn.2d 288", "93 Wn.2d 309", "94 Wn.2d 216", "97 Wn.2d 1007"]
+cites_cases: ["113 Wn.2d 520", "113 Wn.2d 810", "114 Wn.2d 1008", "116 Wn.2d 911", "119 Wash. 557", "119 Wn.2d 563", "179 Wash. 607", "19 Wn. App. 442", "205 P. 1054", "205 Pac. 1054", "22 Wn. App. 197", "30 Wn. App. 432", "351 P. (2d) 921", "38 P. (2d) 372", "386 P.2d 142", "443 U.S. 307", "55 Wn. App. 923", "56 Wn. (2d) 178", "576 P.2d 917", "588 P.2d 1201", "609 P.2d 1358", "609 P.2d 1364", "61 Wn. App. 805", "616 P.2d 628", "63 Wn. App. 220", "63 Wn.2d 188", "635 P.2d 745", "67 Wn. App. 110", "69 Wn. App. 189", "780 P.2d 901", "782 P.2d 1013", "783 P.2d 1061", "787 P.2d 906", "80 A.L.R.4th 989", "810 P.2d 907", "812 P.2d 512", "817 P.2d 880", "834 P.2d 1046", "834 P.2d 105", "847 P.2d 960", "90 Wn.2d 1020", "93 Wn.2d 288", "93 Wn.2d 309", "94 Wn.2d 216", "97 Wn.2d 1007"]
 ---
 
 # State v. Trepanier
