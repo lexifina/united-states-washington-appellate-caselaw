@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15130-4-I"
 decided: "1986-10-06"
-citations: ["45 Wash. App. 876", "45 Wash. App. 1025"]
+citations: ["45 Wash. App. 876"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William E. Grader, Respondent, v. The City of Lynnwood, Appellant."]
 source_url: "https://static.case.law/wash-app/45/cases/0876-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809217
-cites_cases: ["27 Wn. App. 491", "274 P.2d 852", "387 P.2d 67", "388 P.2d 926", "437 P.2d 693", "45 Wn. App. 876", "45 Wn.2d 367", "452 P.2d 955", "464 U.S. 957", "501 P.2d 178", "501 P.2d 594", "534 P.2d 33", "554 P.2d 1060", "555 P.2d 993", "557 P.2d 1299", "618 P.2d 1326", "63 Wn.2d 305", "63 Wn.2d 664", "664 P.2d 1202", "73 Wn.2d 203", "75 Wn.2d 598", "81 Wn.2d 241", "81 Wn.2d 312", "85 Wn.2d 255", "87 Wn.2d 536", "87 Wn.2d 618", "87 Wn.2d 922", "99 Wn.2d 645"]
+cites_cases: ["27 Wn. App. 491", "274 P.2d 852", "387 P.2d 67", "388 P.2d 926", "437 P.2d 693", "45 Wn.2d 367", "452 P.2d 955", "464 U.S. 957", "501 P.2d 178", "501 P.2d 594", "534 P.2d 33", "554 P.2d 1060", "555 P.2d 993", "557 P.2d 1299", "618 P.2d 1326", "63 Wn.2d 305", "63 Wn.2d 664", "664 P.2d 1202", "73 Wn.2d 203", "75 Wn.2d 598", "81 Wn.2d 241", "81 Wn.2d 312", "85 Wn.2d 255", "87 Wn.2d 536", "87 Wn.2d 618", "87 Wn.2d 922", "99 Wn.2d 645"]
 ---
 
 # Grader v. City of Lynnwood
