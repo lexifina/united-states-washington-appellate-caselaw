@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44894-3-I"
 decided: "2000-08-14"
-citations: ["102 Wash. App. 673", "101 Wash. App. 1081"]
+citations: ["102 Wash. App. 673"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Piepkorn, et al., Appellants, v. Daniel Adams, et al., Respon
 source_url: "https://static.case.law/wash-app/102/cases/0673-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301313
-cites_cases: ["102 Wn. App. 673", "110 Wn.2d 892", "131 Wn.2d 612", "137 Wn.2d 683", "61 Wn. App. 177", "71 Wn. App. 912", "757 P.2d 961", "76 Wn. App. 631", "778 S.W.2d 745", "810 P.2d 27", "859 P.2d 605", "887 P.2d 476", "934 P.2d 669", "974 P.2d 836"]
+cites_cases: ["110 Wn.2d 892", "131 Wn.2d 612", "137 Wn.2d 683", "61 Wn. App. 177", "71 Wn. App. 912", "757 P.2d 961", "76 Wn. App. 631", "778 S.W.2d 745", "810 P.2d 27", "859 P.2d 605", "887 P.2d 476", "934 P.2d 669", "974 P.2d 836"]
 ---
 
 # Piepkorn v. Adams
