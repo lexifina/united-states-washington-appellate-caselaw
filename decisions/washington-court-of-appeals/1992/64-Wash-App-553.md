@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27926-2-I"
 decided: "1992-01-21"
-citations: ["64 Wash. App. 553", "63 Wash. App. 1051"]
+citations: ["64 Wash. App. 553"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sign-O-Lite Signs, Inc., Appellant, v. DeLaurenti Florists, Inc., et 
 source_url: "https://static.case.law/wash-app/64/cases/0553-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722553
-cites_cases: ["105 Wn.2d 778", "107 Wn.2d 735", "111 Wn.2d 396", "114 Wn.2d 842", "115 Wn.2d 1006", "115 Wn.2d 148", "120 Wn.2d 1002", "31 Wn. App. 286", "33 Wn. App. 653", "35 A.L.R.4th 1", "52 Wn. App. 609", "563 P.2d 822", "57 Wn. App. 47", "58 Wn. App. 561", "64 Wn. App. 553", "640 P.2d 1077", "656 P.2d 1130", "659 P.2d 1097", "719 P.2d 531", "733 P.2d 208", "759 P.2d 418", "762 P.2d 1156", "786 P.2d 804", "792 P.2d 142", "794 P.2d 66", "795 P.2d 1143", "88 Wn.2d 499", "99 Wn.2d 95"]
+cites_cases: ["105 Wn.2d 778", "107 Wn.2d 735", "111 Wn.2d 396", "114 Wn.2d 842", "115 Wn.2d 1006", "115 Wn.2d 148", "120 Wn.2d 1002", "31 Wn. App. 286", "33 Wn. App. 653", "35 A.L.R.4th 1", "52 Wn. App. 609", "563 P.2d 822", "57 Wn. App. 47", "58 Wn. App. 561", "640 P.2d 1077", "656 P.2d 1130", "659 P.2d 1097", "719 P.2d 531", "733 P.2d 208", "759 P.2d 418", "762 P.2d 1156", "786 P.2d 804", "792 P.2d 142", "794 P.2d 66", "795 P.2d 1143", "88 Wn.2d 499", "99 Wn.2d 95"]
 ---
 
 # Sign-O-Lite Signs, Inc. v. DeLaurenti Florists, Inc.
