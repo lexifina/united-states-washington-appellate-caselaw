@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37598-9-I"
 decided: "1997-09-15"
-citations: ["88 Wash. App. 677", "87 Wash. App. 1060"]
+citations: ["88 Wash. App. 677"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Joseph Vernon Knutson, Appell
 source_url: "https://static.case.law/wash-app/88/cases/0677-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592422
-cites_cases: ["126 N.C. App. 415", "127 Wn.2d 95", "131 Wn.2d 1017", "131 Wn.2d 853", "169 Ariz. 53", "220 Ga. App. 251", "259 Kan. 854", "395 U.S. 784", "478 U.S. 675", "485 S.E.2d 329", "551 N.W.2d 238", "558 P.2d 781", "700 So. 2d 1201", "84 Wn. App. 20", "88 Wn. App. 677", "88 Wn.2d 75", "896 P.2d 1267", "924 P.2d 933", "935 P.2d 1334", "936 P.2d 417"]
+cites_cases: ["126 N.C. App. 415", "127 Wn.2d 95", "131 Wn.2d 1017", "131 Wn.2d 853", "169 Ariz. 53", "220 Ga. App. 251", "259 Kan. 854", "395 U.S. 784", "478 U.S. 675", "485 S.E.2d 329", "551 N.W.2d 238", "558 P.2d 781", "700 So. 2d 1201", "84 Wn. App. 20", "88 Wn.2d 75", "896 P.2d 1267", "924 P.2d 933", "935 P.2d 1334", "936 P.2d 417"]
 ---
 
 # State v. Knutson
