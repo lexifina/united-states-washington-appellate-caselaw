@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22385-0-III"
 decided: "2005-03-01"
-citations: ["126 Wash. App. 930", "126 Wash. App. 1010"]
+citations: ["126 Wash. App. 930"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Scott M. Emmerson, Respondent, v. Dale E. Weilep, Petitioner."]
 source_url: "https://static.case.law/wash-app/126/cases/0930-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016271
-cites_cases: ["100 Wn. App. 732", "110 Wn. App. 36", "117 Wn. App. 183", "122 Wn.2d 141", "122 Wn.2d 801", "123 Wn.2d 854", "124 Wn. App. 52", "126 Wn. App. 930", "133 Wn.2d 804", "146 Wn.2d 1", "155 Wn.2d 1026", "28 Wn. App. 219", "34 Wn. App. 763", "38 P.3d 374", "418 P.2d 233", "43 P.3d 4", "48 Wn. App. 129", "622 P.2d 892", "665 P.2d 407", "69 P.3d 895", "69 Wn.2d 289", "737 P.2d 1302", "76 Wn. App. 830", "79 Wn. App. 436", "859 P.2d 1210", "863 P.2d 64", "873 P.2d 492", "888 P.2d 175", "903 P.2d 470", "947 P.2d 721", "96 Wn. App. 431", "979 P.2d 917", "98 P.3d 816", "998 P.2d 367"]
+cites_cases: ["100 Wn. App. 732", "110 Wn. App. 36", "117 Wn. App. 183", "122 Wn.2d 141", "122 Wn.2d 801", "123 Wn.2d 854", "124 Wn. App. 52", "133 Wn.2d 804", "146 Wn.2d 1", "155 Wn.2d 1026", "28 Wn. App. 219", "34 Wn. App. 763", "38 P.3d 374", "418 P.2d 233", "43 P.3d 4", "48 Wn. App. 129", "622 P.2d 892", "665 P.2d 407", "69 P.3d 895", "69 Wn.2d 289", "737 P.2d 1302", "76 Wn. App. 830", "79 Wn. App. 436", "859 P.2d 1210", "863 P.2d 64", "873 P.2d 492", "888 P.2d 175", "903 P.2d 470", "947 P.2d 721", "96 Wn. App. 431", "979 P.2d 917", "98 P.3d 816", "998 P.2d 367"]
 ---
 
 # Emmerson v. Weilep
