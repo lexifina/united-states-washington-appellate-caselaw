@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13396-9-I"
 decided: "1984-07-19"
-citations: ["38 Wash. App. 665", "38 Wash. App. 1020"]
+citations: ["38 Wash. App. 665"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. David James Freeman, Appellan
 source_url: "https://static.case.law/wash-app/38/cases/0665-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791571
-cites_cases: ["101 Wn.2d 1004", "17 Wn. App. 658", "25 Wn. App. 396", "35 Wn. App. 150", "38 Wn. App. 665", "530 P.2d 225", "557 P.2d 1311", "564 P.2d 1182", "607 P.2d 877", "617 P.2d 998", "665 P.2d 918", "85 Wn.2d 29", "87 Wn.2d 916", "94 Wn.2d 498"]
+cites_cases: ["101 Wn.2d 1004", "17 Wn. App. 658", "25 Wn. App. 396", "35 Wn. App. 150", "530 P.2d 225", "557 P.2d 1311", "564 P.2d 1182", "607 P.2d 877", "617 P.2d 998", "665 P.2d 918", "85 Wn.2d 29", "87 Wn.2d 916", "94 Wn.2d 498"]
 ---
 
 # State v. Freeman
