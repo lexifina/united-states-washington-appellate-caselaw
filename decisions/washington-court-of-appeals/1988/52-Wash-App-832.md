@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "20858-6-I"
+decided: "1988-12-12"
+citations: ["52 Wash. App. 832"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Grosse and Pekelis, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Michael Dudas, Appellant."]
+source_url: "https://static.case.law/wash-app/52/cases/0832-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1708712
+cites_cases: ["107 Wn.2d 1", "108 Wn.2d 1027", "392 U.S. 1", "42 Wn. App. 452", "440 P.2d 184", "449 U.S. 411", "466 U.S. 210", "47 Wn. App. 326", "52 Wn. App. 70", "711 P.2d 1096", "712 F.2d 1356", "726 P.2d 445", "73 Wn.2d 596", "734 P.2d 966", "757 P.2d 547"]
+---
+
+# State v. Dudas
+
+## Majority (Williams, J.)
+
+Williams, J.
+Michael Dudas was convicted of possession of a controlled substance. He appeals, challenging the denial of his motion to suppress evidence of narcotics found in his possession when he was arrested on a warrant in an unrelated case. He contends that his arrest was tainted by an improper investigatory stop and that the resulting search and discovery of narcotics was similarly tainted. We affirm.
+At 10:45 p.m. in the city of Everett, a deputy sheriff saw Dudas emerge from a parking lot adjacent to several closed businesses. Because the deputy knew there had been a number of incidents of vehicle prowling and property damage in this area within the past 2 months, he drove up to Dudas and asked what he was doing in the parking lot. When Dudas responded that he was looking for his keys, the deputy asked him to identify himself. Dudas proffered his Washington Identification Card, which the deputy took back to his patrol car and used in making a warrant check. Within 4 minutes, the dispatcher reported that there were no outstanding local warrants, so the deputy returned the ID card to Dudas. The two parted. A few minutes later the dispatcher told the deputy of an out-of-county warrant for Dudas's arrest. He proceeded to look for Dudas, located him and arrested him. Cocaine was found on his person during the booking process.
+Dudas argues that his being stopped in the parking lot by the deputy was an illegal seizure, which directly led to his arrest on the warrant and the subsequent discovery of the cocaine. He contends that evidence is therefore tainted.
+The initial stop was lawful. To justify an investigatory stop, the officer must have '"specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant that intrusion.'" State v. Kennedy, 107 Wn.2d 1, 5, 726 P.2d 445 (1986), quoting Terry v. Ohio, 392 U.S. 1, 21, 20 L. Ed. 2d 889, 88 S. Ct. 1868 (1968); State v. Guzman-Cuellar, 47 Wn. App. 326, 330, 734 P.2d 966, review denied, 108 Wn.2d 1027 (1987). Dudas's presence in a dark parking lot late at night where no adjoining businesses were open, the occurrences of property crimes in that area in the preceding months, and Dudas's explanation for his presence of looking for his keys justify the intrusion of asking Dudas to identify himself. It was reasonable under both article 1, section 7 of the Washington State Constitution and the fourth amendment to the United States Constitution. State v. Aranguren, 42 Wn. App. 452, 455, 711 P.2d 1096 (1985), citing Immigration & Naturalization Serv. v. Delgado, 466 U.S. 210, 80 L. Ed. 2d 247, 104 S. Ct. 1758 (1984).
+Dudas argues that he was seized within the meaning of the Fourth Amendment when the deputy took his ID card and returned to the patrol car, thus immobilizing him. Aranguren, 42 Wn. App. at 456-57 (taking of alien identification cards); United States v. Thompson, 712 F.2d 1356, 1359 (11th Cir. 1983) (taking of driver's license). The seizure of the ID card did immobilize him. To justify that immobilization, the deputy must have had an articulable suspicion that criminal conduct had occurred or was about to occur. As was said in State v. Kennedy, supra at 6:
+As with many legal terms, although difficult to describe, articulable suspicion does have a definition developed by use of the term through application to various situations. The United States Supreme Court has suggested one must look at the totality of the circumstances. United States v. Cortez, [449 U.S. 411, 66 L. Ed. 2d 621, 101 S. Ct. 690 (1981)]. The Cortez Court described articulable suspicion as the ability to reasonably surmise from the information at hand that a crime was in progress or had occurred. Hence, the degree of probability required for the police conclusion is less in a stop situation than in an arrest. 3 W. LaFave, [Search and Seizure § 9.2] at 65. LaFave suggests that the standard is a substantial possibility that criminal conduct has occurred or is about to occur. We believe this to be the preferred definition. It maintains the ability of law enforcement to deter criminal conduct and yet reasonably safeguards "private affairs." When the activity is consistent with criminal activity, although also consistent with noncriminal activity, it may justify a brief detention.
+Dudas's presence in a "high crime" area and the deputy's determination that Dudas's explanation for his presence was "implausible" may not have been sufficient to justify Dudas's detention during the warrant check. See State v. Ellwood, 52 Wn. App. 70, 74, 757 P.2d 547 (1988).
+That is not decisive, however, because the detention did not lead to the deputy learning of the outstanding warrant that led to the arrest, booking and discovery of the cocaine. The deputy learned Dudas's identity at the initial, legal investigatory stop, not from the detention while the deputy had the ID card and was making the warrant check. State v. Aranguren, supra at 458. Even if the officers did learn Dudas's identity during his detention, no harm was done because he was released to go on his way. The "taint" would not carry over forever. In similar circumstances the Supreme Court said in State v. Rothenberger, 73 Wn.2d 596, 599, 440 P.2d 184 (1968):
+It is our view that Officer Edwards, having discovered from an independent source that Rothenberger was wanted on a felony charge, not only had the right but the duty to pursue Rothenberger and arrest him, if that was practicable, or to get that information to officers who could intercept him.
+To illustrate just how ridiculous the appellants' contention is, let us assume that while detaining the appellants on an unlawful arrest, word had come over the radio that Rothenberger and Pernar were wanted for a burglary in Seattle. On appellants' theory, the officer supposedly had no alternative but to touch his hat and say, "Gentlemen, be on your way. I am sorry to have unlawfully detained you." We find neither reason nor judicial precedent for such a change in the rules of the long continued game of "Cops and Robbers."
+The same is true in this case.
+Affirmed.
+Grosse and Pekelis, JJ., concur.
+Review denied by Supreme Court March 28, 1989.
