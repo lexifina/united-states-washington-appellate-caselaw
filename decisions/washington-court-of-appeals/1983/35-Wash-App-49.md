@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "5452-7-III"
+decided: "1983-06-16"
+citations: ["35 Wash. App. 49"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Green and Munson, JJ., concur."]
+parties: ["In the Matter of the Marriage of Cecilia A. Freedman, Appellant, and Robert Ward Freedman, Respondent."]
+source_url: "https://static.case.law/wash-app/35/cases/0049-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1779197
+cites_cases: ["11 Wn. App. 879", "16 Wn. App. 481", "184 Wash. 304", "23 Wn. App. 27", "51 P.2d 380", "515 P.2d 1309", "526 P.2d 1228", "558 P.2d 279", "565 P.2d 790", "588 P.2d 1136", "592 P.2d 1124", "88 Wn.2d 649", "9 Wn. App. 951", "91 Wn.2d 324", "92 Wn.2d 1019"]
+---
+
+# In re the Marriage of Freedman
+
+## Majority (Roe, C.J.)
+
+Roe, C.J.
+This is the second appeal involving the property distribution in the dissolution of the marriage of Cecilia A. and Robert W. Freedman.
+They were married in 1951, while Robert was in law school. Twenty-six years later their marriage was dissolved and their property divided. The court awarded the husband assets worth $64,816 and professional goodwill of the law practice, valued at $100,000. The wife was awarded property worth $145,000, including the family home.
+The husband appealed from the distribution, arguing there is no goodwill in a solo law practice. This court held goodwill can exist but the trial court failed to consider the proper factors bearing on its valuation and remanded the case. In re Marriage of Freedman, 23 Wn. App. 27, 592 P.2d 1124, review denied, 92 Wn.2d 1019 (1979).
+On remand, the parties stipulated the transcript of the previous trial could be considered in evidence and they also introduced further testimony as to the value of the goodwill. Three additional experts testified, all agreeing goodwill existed, but their valuations ranged from $25,000 to $100,000.
+The trial court found goodwill could not exist in a solo law practice primarily because it could not be sold and disappears upon the lawyer's death or disability. However, the court found the wife was entitled to a share of her husband's earning capacity, which it denominated the "spouse's economic benefit expectancy" (SEBE). The court then awarded Cecilia $19,451 as her SEBE, computed as 20 percent of Robert's after-tax income for 1978 and 15 percent of his after-tax income for 1979. This computation reduced the total assets by approximately $80,000. In an effort to balance the prior division, the court awarded Robert a $45,000 lien against the family home. The lien was to be satisfied upon the earliest of the sale or exchange of the home, 1 year after the remarriage of Cecilia, or upon the younger child attaining the age of 18.
+The wife sought review by the Supreme Court, contesting the finding there was no goodwill. Robert cross-appealed from the award to Cecilia of the economic benefit expectancy and from the award of attorney's fees. Additionally, he requested Cecilia's award of $19,451 be set off against his lien of $45,000. Although the underlying issue has never been decided by our Supreme Court, it transferred this case to Division Three to determine whether the trial court complied with the mandate of In re Marriage of Freedman (Freedman I), supra.
+In Freedman I, this court remanded for a determination of the value of goodwill, with due consideration of several factors, including "the practitioner's age, health, past earning power, reputation in the community for judgment, skill, and knowledge, and his comparative professional success." Freedman I, at 29. It is not necessary for us to determine if the award must be characterized as goodwill; there is no magic in terms. In re Marriage of Hadley, 88 Wn.2d 649, 658, 565 P.2d 790 (1977). The prime duty in dissolution matters is a just and equitable distribution of the property. In re Marriage of Hadley, supra; RCW 26.09.080.
+Here, the court considered the factors required by Freedman I when valuing the "SEBE". It then arrived at a figure determined as a percentage of net after-tax income of the professional spouse for 2 years. Although the award was determined as a percentage of income, the test is not the nonlicensed spouse's economic expectancy of income, but the value of the goodwill to the professional spouse. In re Marriage of Fleege, 91 Wn.2d 324, 588 P.2d 1136 (1979).
+The husband has made several arguments against awarding the wife the "SEBE". First, he argues the professional spouse might die the day after the property division, thereby eliminating the goodwill. We take judicial notice of the fact Mr. Freedman has survived that period, making that argument irrelevant. Furthermore, the award is based on net after-tax income. If the professional spouse dies or is disabled, the reduction or elimination of professional income in turn reduces the award to the nonprofessional spouse.
+Next, the husband argues an award of goodwill is not justified because an attorney may not sell his legal practice. Washington State Bar Association Legal Ethics Committee, Opinion 19 (1952); see CPR DR 2-102. The test is not whether goodwill can be sold but whether it has value to the professional spouse. In re Marriage of Lukens, 16 Wn. App. 481, 485, 558 P.2d 279 (1976); Freedman I; see also Fleege. Such spouse enjoys the benefits of goodwill regardless of its salability.
+The husband also argues the award is contrary to CPR DR 3-103 which prohibits the division of legal fees with a nonlawyer. Support and/or maintenance may be based on a percentage of the lawyer spouse's income. That is not a sharing of legal fees, nor is this award to his ex-wife.
+Finally, the husband argues his wages and salary earned after the separation are his separate property, RCW 26.16-.140, and this is an award of his separate property to the wife. Such divisions are disfavored. Moore v. Moore, 9 Wn. App. 951, 515 P.2d 1309 (1973). This argument is without merit because the amount of the payment is only determined by the income of the professional spouse. This is not an award of the wages.
+Having determined the award was proper, the next question is whether the evidence supports the findings. The judge awarded the wife $19,451 or, in effect, one-half of this community asset adjudged worth $38,902, which was within the range of evidence presented.
+Although only briefly mentioned by the trial court, the Freedmans were married before the husband obtained his law degree. We do not base our decision on that fact. We do not now decide whether it might be appropriate to include in the property division some recognition of the effect of the professional education.
+Robert argues the amount awarded to Cecilia should be set off against his lien, leaving a net lien in his favor of $25,549. This issue need not be considered because it is raised for the first time on appeal. RAP 2.5(a). However, a brief consideration of the merits would not allow this setoff. The wife's award was due at the time of judgment, while the husband's award was not made due until the earliest of the sale of the family home, 1 year after the wife's remarriage, or the younger child attaining the age of 18. The husband is not entitled to equitable setoff as a matter of right; it is a matter resting in the discretion of the trial court. See Reichlin v. First Nat'l Bank, 184 Wash. 304, 51 P.2d 380 (1935). The trial court awarded both parties 10 percent interest on their judgments in an effort to treat them equally. We cannot say the award of interest instead of equitable setoff was an abuse of discretion.
+Finally, the husband argues the trial court should not have awarded the wife attorney's fees because there was no evidence of his ability to pay as required by RCW 26.09.140:
+The court from time to time after considering the financial resources of both parties may order a party to pay a reasonable amount for the cost to the other party of maintaining or defending any proceeding under this chapter and for reasonable attorney's fees or other professional fees in connection therewith, including sums for legal services rendered and costs incurred prior to the commencement of the proceeding or enforcement or modification proceedings after entry of judgment.
+An award of attorney's fees pursuant to this statute rests with the sound discretion of the trial court. In re Marriage of Melville, 11 Wn. App. 879, 526 P.2d 1228 (1974).
+The wife's affidavit stated she lacked liquid assets to pay her attorney's fees. There was also considerable evidence as to the husband's net earnings for prior years. The trial court did not abuse its discretion in awarding the wife attorney's fees.
+The judgment of the trial court is affirmed.
+Green and Munson, JJ., concur.
+Reconsideration denied August 2, 1983.
+Review denied by Supreme Court October 21, 1983.
+We note this issue is currently before the State Supreme Court, In re Marriage of Washburn, cause 49309-0 (consolidated with In re Marriage of Gillette, cause 49458-4).
