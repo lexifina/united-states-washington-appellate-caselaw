@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21183-1-II"
 decided: "1998-05-01"
-citations: ["91 Wash. App. 181", "90 Wash. App. 1041"]
+citations: ["91 Wash. App. 181"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Daniel J. Miller, Appellant."
 source_url: "https://static.case.law/wash-app/91/cases/0181-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681792
-cites_cases: ["102 Wn.2d 733", "112 Wn.2d 587", "115 Wn.2d 60", "121 Wn.2d 168", "124 Wn.2d 107", "136 Wn.2d 1016", "361 F.2d 412", "392 U.S. 1", "407 U.S. 143", "442 U.S. 753", "500 U.S. 565", "616 P.2d 628", "618 P.2d 99", "622 P.2d 1218", "689 P.2d 1065", "773 P.2d 46", "794 P.2d 850", "847 P.2d 919", "874 P.2d 160", "91 Wn. App. 181", "94 Wn.2d 216", "94 Wn.2d 634", "95 Wn.2d 143"]
+cites_cases: ["102 Wn.2d 733", "112 Wn.2d 587", "115 Wn.2d 60", "121 Wn.2d 168", "124 Wn.2d 107", "136 Wn.2d 1016", "361 F.2d 412", "392 U.S. 1", "407 U.S. 143", "442 U.S. 753", "500 U.S. 565", "616 P.2d 628", "618 P.2d 99", "622 P.2d 1218", "689 P.2d 1065", "773 P.2d 46", "794 P.2d 850", "847 P.2d 919", "874 P.2d 160", "94 Wn.2d 216", "94 Wn.2d 634", "95 Wn.2d 143"]
 ---
 
 # State v. Miller
