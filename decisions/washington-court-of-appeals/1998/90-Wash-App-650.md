@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15908-6-III"
 decided: "1998-02-10"
-citations: ["90 Wash. App. 650", "89 Wash. App. 1014"]
+citations: ["90 Wash. App. 650"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Interstate Production Credit Association, Respondent, v. Lyle R. MacH
 source_url: "https://static.case.law/wash-app/90/cases/0650-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428749
-cites_cases: ["102 Wash. 625", "105 Wn.2d 376", "106 Wn.2d 290", "120 Wn.2d 585", "136 Wn.2d 1021", "173 P. 623", "343 P.2d 183", "45 Wn. App. 631", "54 Wn.2d 570", "571 P.2d 203", "58 Wn. App. 525", "61 Wn. App. 403", "715 P.2d 1131", "721 P.2d 511", "726 P.2d 1007", "793 P.2d 1004", "810 P.2d 535", "845 P.2d 971", "87 Wn. App. 912", "89 Wn.2d 245", "90 Wn. App. 650", "943 P.2d 682"]
+cites_cases: ["102 Wash. 625", "105 Wn.2d 376", "106 Wn.2d 290", "120 Wn.2d 585", "136 Wn.2d 1021", "173 P. 623", "343 P.2d 183", "45 Wn. App. 631", "54 Wn.2d 570", "571 P.2d 203", "58 Wn. App. 525", "61 Wn. App. 403", "715 P.2d 1131", "721 P.2d 511", "726 P.2d 1007", "793 P.2d 1004", "810 P.2d 535", "845 P.2d 971", "87 Wn. App. 912", "89 Wn.2d 245", "943 P.2d 682"]
 ---
 
 # Interstate Production Credit Ass'n v. MacHugh
