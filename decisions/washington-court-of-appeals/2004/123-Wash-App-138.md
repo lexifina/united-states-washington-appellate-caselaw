@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20405-7-III"
 decided: "2004-04-29"
-citations: ["123 Wash. App. 138", "121 Wash. App. 1024"]
+citations: ["123 Wash. App. 138"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Monte Hoisington, Appellant."
 source_url: "https://static.case.law/wash-app/123/cases/0138-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1118068
-cites_cases: ["101 Wn. App. 158", "102 Wn. App. 108", "114 Wn. App. 113", "119 Wn.2d 167", "123 Wn. App. 138", "123 Wn.2d 488", "132 Wn.2d 94", "145 Wn.2d 275", "149 Wn.2d 1015", "149 Wn.2d 724", "153 Wn.2d 1031", "2 P.3d 979", "293 F. 1013", "36 P.3d 1034", "406 U.S. 715", "523 U.S. 833", "56 P.3d 602", "6 P.3d 625", "603 P.2d 1258", "72 P.3d 708", "829 P.2d 1082", "869 P.2d 1062", "92 Wn.2d 967", "935 P.2d 1353", "99 Wn. App. 423", "993 P.2d 296"]
+cites_cases: ["101 Wn. App. 158", "102 Wn. App. 108", "114 Wn. App. 113", "119 Wn.2d 167", "123 Wn.2d 488", "132 Wn.2d 94", "145 Wn.2d 275", "149 Wn.2d 1015", "149 Wn.2d 724", "153 Wn.2d 1031", "2 P.3d 979", "293 F. 1013", "36 P.3d 1034", "406 U.S. 715", "523 U.S. 833", "56 P.3d 602", "6 P.3d 625", "603 P.2d 1258", "72 P.3d 708", "829 P.2d 1082", "869 P.2d 1062", "92 Wn.2d 967", "935 P.2d 1353", "99 Wn. App. 423", "993 P.2d 296"]
 ---
 
 # State v. Hoisington
