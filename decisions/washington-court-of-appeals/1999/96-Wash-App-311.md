@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39716-8-I; 43050-5-I"
 decided: "1999-06-01"
-citations: ["96 Wash. App. 311", "95 Wash. App. 1060"]
+citations: ["96 Wash. App. 311"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Steven Darby McDonald, Appell
 source_url: "https://static.case.law/wash-app/96/cases/0311-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128651
-cites_cases: ["100 Wn.2d 669", "106 Wn.2d 885", "108 Wn.2d 515", "120 Wn.2d 631", "127 Wn.2d 322", "129 Wn.2d 1012", "135 Wn.2d 863", "139 Wn.2d 1015", "287 U.S. 45", "386 U.S. 18", "422 U.S. 806", "435 U.S. 475", "466 U.S. 668", "510 U.S. 944", "525 U.S. 1157", "675 P.2d 209", "70 Harv. L. Rev. 1", "726 P.2d 25", "740 P.2d 829", "80 Wn. App. 406", "845 P.2d 289", "899 P.2d 1251", "907 P.2d 310", "959 P.2d 1061", "96 Wn. App. 311"]
+cites_cases: ["100 Wn.2d 669", "106 Wn.2d 885", "108 Wn.2d 515", "120 Wn.2d 631", "127 Wn.2d 322", "129 Wn.2d 1012", "135 Wn.2d 863", "139 Wn.2d 1015", "287 U.S. 45", "386 U.S. 18", "422 U.S. 806", "435 U.S. 475", "466 U.S. 668", "510 U.S. 944", "525 U.S. 1157", "675 P.2d 209", "70 Harv. L. Rev. 1", "726 P.2d 25", "740 P.2d 829", "80 Wn. App. 406", "845 P.2d 289", "899 P.2d 1251", "907 P.2d 310", "959 P.2d 1061"]
 ---
 
 # State v. McDonald
