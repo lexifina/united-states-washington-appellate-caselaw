@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13944-4-I"
 decided: "1985-05-06"
-citations: ["40 Wash. App. 743", "40 Wash. App. 1036"]
+citations: ["40 Wash. App. 743"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. George Junior McDonald, Defen
 source_url: "https://static.case.law/wash-app/40/cases/0743-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1796302
-cites_cases: ["388 U.S. 218", "388 U.S. 263", "388 U.S. 293", "390 U.S. 377", "394 U.S. 440", "40 Wn. App. 743", "409 U.S. 188", "432 U.S. 98", "459 U.S. 1211", "499 F.2d 1163", "524 F.2d 911", "647 P.2d 6", "97 Wn.2d 493"]
+cites_cases: ["388 U.S. 218", "388 U.S. 263", "388 U.S. 293", "390 U.S. 377", "394 U.S. 440", "409 U.S. 188", "432 U.S. 98", "459 U.S. 1211", "499 F.2d 1163", "524 F.2d 911", "647 P.2d 6", "97 Wn.2d 493"]
 ---
 
 # State v. McDonald
