@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11481-3-III"
 decided: "1992-07-21"
-citations: ["67 Wash. App. 132", "66 Wash. App. 1044"]
+citations: ["67 Wash. App. 132"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. David Wayne Hoffman III, Appe
 source_url: "https://static.case.law/wash-app/67/cases/0132-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715399
-cites_cases: ["107 Wn.2d 503", "111 Wn.2d 1006", "38 Wn. App. 670", "51 Wn. App. 450", "53 Wn. App. 609", "67 Wn. App. 132", "688 P.2d 532", "730 P.2d 1327", "754 P.2d 128", "768 P.2d 1025"]
+cites_cases: ["107 Wn.2d 503", "111 Wn.2d 1006", "38 Wn. App. 670", "51 Wn. App. 450", "53 Wn. App. 609", "688 P.2d 532", "730 P.2d 1327", "754 P.2d 128", "768 P.2d 1025"]
 ---
 
 # State v. Hoffman
