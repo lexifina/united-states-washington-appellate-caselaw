@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20516-9-III"
 decided: "2002-06-20"
-citations: ["112 Wash. App. 636", "112 Wash. App. 1018"]
+citations: ["112 Wash. App. 636"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donna Ellison, Appellant, v. Process Systems Incorporated Constructio
 source_url: "https://static.case.law/wash-app/112/cases/0636-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719243
-cites_cases: ["103 Wn. App. 945", "106 Wn. App. 54", "112 Wn. App. 636", "144 Wn.2d 1011", "148 Wn.2d 1021", "15 P.3d 172", "167 N.E.2d 799", "21 P.3d 1174", "26 Ill. App. 2d 102", "349 P.2d 1073", "432 F.2d 689", "55 Wn. App. 157", "55 Wn.2d 718", "599 P.2d 1289", "66 Wn. App. 728", "72 Wn. App. 302", "73 A.L.R.3d 1250", "776 P.2d 991", "79 Wn. App. 93", "832 P.2d 1355", "863 P.2d 1377", "900 P.2d 595", "92 Wn.2d 576", "94 Wn. App. 299", "971 P.2d 581"]
+cites_cases: ["103 Wn. App. 945", "106 Wn. App. 54", "144 Wn.2d 1011", "148 Wn.2d 1021", "15 P.3d 172", "167 N.E.2d 799", "21 P.3d 1174", "26 Ill. App. 2d 102", "349 P.2d 1073", "432 F.2d 689", "55 Wn. App. 157", "55 Wn.2d 718", "599 P.2d 1289", "66 Wn. App. 728", "72 Wn. App. 302", "73 A.L.R.3d 1250", "776 P.2d 991", "79 Wn. App. 93", "832 P.2d 1355", "863 P.2d 1377", "900 P.2d 595", "92 Wn.2d 576", "94 Wn. App. 299", "971 P.2d 581"]
 ---
 
 # Ellison v. Process Systems Inc. Construction Co.
