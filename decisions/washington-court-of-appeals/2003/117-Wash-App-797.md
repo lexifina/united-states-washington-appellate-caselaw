@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49424-4-I"
 decided: "2003-05-12"
-citations: ["117 Wash. App. 797", "116 Wash. App. 1066"]
+citations: ["117 Wash. App. 797"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Personal Restraint of Ronald J. Brennan, Jr., Pe
 source_url: "https://static.case.law/wash-app/117/cases/0797-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 652795
-cites_cases: ["114 Wn. App. 424", "114 Wn.2d 802", "117 Wn. App. 797", "118 Wn.2d 876", "134 Wn.2d 868", "137 Wn.2d 378", "17 Cal. 4th 873", "373 U.S. 83", "384 U.S. 436", "44 F.3d 1420", "45 Wn. App. 354", "473 U.S. 667", "514 U.S. 419", "527 U.S. 263", "536 U.S. 622", "59 P.3d 682", "72 Cal. Rptr. 2d 698", "725 P.2d 454", "792 P.2d 506", "828 P.2d 1086", "881 S.W.2d 102", "952 P.2d 116", "952 P.2d 715", "972 P.2d 1250"]
+cites_cases: ["114 Wn. App. 424", "114 Wn.2d 802", "118 Wn.2d 876", "134 Wn.2d 868", "137 Wn.2d 378", "17 Cal. 4th 873", "373 U.S. 83", "384 U.S. 436", "44 F.3d 1420", "45 Wn. App. 354", "473 U.S. 667", "514 U.S. 419", "527 U.S. 263", "536 U.S. 622", "59 P.3d 682", "72 Cal. Rptr. 2d 698", "725 P.2d 454", "792 P.2d 506", "828 P.2d 1086", "881 S.W.2d 102", "952 P.2d 116", "952 P.2d 715", "972 P.2d 1250"]
 ---
 
 # In re the Personal Restraint of Brennan
