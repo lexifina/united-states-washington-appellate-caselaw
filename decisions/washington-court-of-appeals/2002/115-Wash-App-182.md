@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49944-1-I"
 decided: "2002-11-18"
-citations: ["115 Wash. App. 182", "114 Wash. App. 1041"]
+citations: ["115 Wash. App. 182"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of T.J.B. The Department of Social an
 source_url: "https://static.case.law/wash-app/115/cases/0182-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 221843
-cites_cases: ["112 Wn.2d 719", "115 Wn. App. 182", "130 Wn.2d 418", "141 Wn.2d 304", "20 Wash. 652", "263 P.2d 956", "28 Wn. App. 21", "4 P.3d 130", "43 Wn.2d 710", "56 P. 383", "569 P.2d 1158", "594 P.2d 947", "76 Wn. App. 87", "773 P.2d 851", "882 P.2d 1180", "89 Wn. 2d 113", "924 P.2d 21"]
+cites_cases: ["112 Wn.2d 719", "130 Wn.2d 418", "141 Wn.2d 304", "20 Wash. 652", "263 P.2d 956", "28 Wn. App. 21", "4 P.3d 130", "43 Wn.2d 710", "56 P. 383", "569 P.2d 1158", "594 P.2d 947", "76 Wn. App. 87", "773 P.2d 851", "882 P.2d 1180", "89 Wn. 2d 113", "924 P.2d 21"]
 ---
 
 # Department of Social & Health Services v. Brown
