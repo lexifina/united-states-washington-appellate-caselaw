@@ -1,0 +1,33 @@
+---
+court: "Washington Court of Appeals"
+docket: "13773-2-III"
+decided: "1996-06-18"
+citations: ["82 Wash. App. 339"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Cheryl C. Van Camp, Respondent and W. Russell Van Camp, Appellant."]
+source_url: "https://static.case.law/wash-app/82/cases/0339-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1043532
+cites_cases: ["100 Wn.2d 581", "114 Wn.2d 109", "121 Wn.2d 52", "122 Wn.2d 141", "126 Wn.2d 1011", "130 Wn.2d 1019", "1986 Duke L.J. 435", "289 P.2d 724", "47 Wn.2d 816", "489 P.2d 928", "5 Wn. App. 609", "675 P.2d 193", "75 Wn. App. 721", "786 P.2d 265", "847 P.2d 440", "859 P.2d 1210", "880 P.2d 71"]
+---
+
+# In re the Marriage of Van Camp
+
+## Majority (Sweeney, C.J.)
+
+Sweeney, C.J.
+One commonly used method for determining reasonable attorney fees is the lodestar formula. The lodestar formula is applied by first determining the number of professional hours spent on a case, then multiplying that number by the reasonable hourly fee, and adjusting the resulting sum up or down based on a series of factors. Bowles v. Department of Retirement Sys., 121 Wn.2d 52, 72, 847 P.2d 440 (1993). In this dissolution action, the trial court rejected the husband’s proposal to base attorney fees on the lodestar formula and instead considered those factors traditionally applied in determining attorney fees in a dissolution case — need, ability and equity. RCW 26.09.140; Richards v. Richards, 5 Wn. App. 609, 614, 489 P.2d 928 (1971). The question presented is whether we should require application of the lodestar formula to calculate attorney fees in a dissolution action. Concluding we should not, we affirm the decision of the trial court, remanding in part for recalculation of costs.
+FACTS
+The court dissolved the marriage of Russell Van Camp and Cheryl Van Camp on July 26, 1993. Mr. Van Camp was ordered to pay reasonable attorney fees and costs. Ms. Van Camp was represented by two attorneys who asked for fees totaling $60,318.36 and costs of $6,419.61. Both parties submitted affidavits and expert testimony on the reasonableness of the fee request. Mr. Van Camp’s expert suggested that a reasonable fee should have been between $12,300 to $13,530. The court considered the amount of time reasonably required for discovery, reviewed the time sheets, and awarded total attorney fees and costs of $36,935.94. Mr. Van Camp appeals.
+DISCUSSION
+Mr. Van Camp first argues the lodestar method is mandated by our Supreme Court and refusal to apply the lodestar formula effectively denies meaningful appellate review of the reasonableness of the fees. Ms. Van Camp counters that the lodestar formula is an inappropriate method with which to sét attorney fees in a dissolution case, given the mandates of RCW 26.09.140 that the court consider need and ability, and that the court make an equitable division of the community property.
+Our Supreme Court first adopted the lodestar method in a Consumer Protection Act case. Bowers v. Transamerica Title Ins. Co., 100 Wn.2d 581, 597-99, 675 P.2d 193 (1983). The lodestar approach focuses on the market value of the attorney’s services. Scott Fetzer Co. v. Weeks, 122 Wn.2d 141, 150, 859 P.2d 1210 (1993) (citing Dan B. Dobbs, Awarding Attorney Fees Against Adversaries: Introducing the Problem, 1986 Duke L.J. 435, 467 (1986)). It permits an adjustment of the attorney fees up or down based on the consideration of a number of factors. Scott Fetzer Co. v. Weeks, 114 Wn.2d 109, 124, 786 P.2d 265 (1990). Those factors include the time expended, the difficulty of the questions involved, the skill required, the customary charges of other attorneys, the amount involved, the benefit resulting to the client, the contingency or certainty in collecting the fee, and the character of the employment. Scott Fetzer, 114 Wn.2d at 123-24.
+The primary considerations for the award of a fee in a dissolution action, however, are equitable. See In re Knight, 75 Wn. App. 721, 730, 880 P.2d 71 (1994) (the trial court properly weighed the complexity of the issues and the general equities of the case), review denied, 126 Wn.2d 1011 (1995); Richards, 5 Wn. App. at 614 (fees and costs must be considered in making an equitable disposition of marital property). The overriding considerations are the need of the party requesting the fees, the ability to pay of the party against whom the fee is being requested, and the general equity of the fee given the disposition of the marital property. RCW 26.09.140; Richards, 5 Wn. App. at 614.
+In calculating the basis for a reasonable fee in a marital dissolution, the court should consider: "(1) the factual and legal questions involved; (2) the time necessary for preparation and presentation of the case; and (3) the amount and character of the property involved.” Knight, 75 Wn. App. at 730 (citing Abel v. Abel, 47 Wn.2d 816, 819, 289 P.2d 724 (1955)). The court then appraises these factors in light of the equities of the marital distribution and the considerations of RCW 26.09.140.
+Here, as in Knight, the court awarded approximately one-half of the fees and costs actually incurred. As in Knight, the court here considered the complexity of the issues (not very complex), the time required for preparation (substantial given the difficulty in ferreting out Mr. Van Camp’s assets), and the amount of property involved (moderately substantial). Clerk’s Papers, at 87-88. And although it rejected the lodestar formula, the court considered both the computations and records introduced into evidence by the Van Camps’ experts; in fact, it used many of the lodestar factors in calculating a reasonable fee. The court approved the hourly rates as reasonable and limited the requested hours to those reasonably spent on discovery and preparation for trial. It rejected those that appeared to duplicate work.
+Given the court’s consideration, its exercise of discretion is based neither on untenable nor manifestly unreasonable grounds. Knight, 75 Wn. App. at 729. We therefore affirm the award of attorney fees. We note, however, that the court awarded costs for both postage and photocopying. Those costs are not authorized by RCW 4.84.010.
+The judgment of the trial court is affirmed with the exception of postage and photocopying, which must be deleted on remand. Ms. Van Camp timely submitted an affidavit of need and will be awarded reasonable fees and costs on appeal. RAP 18.1.
+Munson and Thompson, JJ., concur.
+Review denied at 130 Wn.2d 1019 (1996).
