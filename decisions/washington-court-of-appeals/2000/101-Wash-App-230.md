@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44261-9-I"
 decided: "2000-05-01"
-citations: ["101 Wash. App. 230", "100 Wash. App. 1045"]
+citations: ["101 Wash. App. 230"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Wayne A. Cummings, Appellant, and Ru
 source_url: "https://static.case.law/wash-app/101/cases/0230-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170716
-cites_cases: ["101 Wn. App. 230", "141 Wn.2d 1030", "74 Wn. App. 781", "875 P.2d 647"]
+cites_cases: ["141 Wn.2d 1030", "74 Wn. App. 781", "875 P.2d 647"]
 ---
 
 # In re the Marriage of Cummings
