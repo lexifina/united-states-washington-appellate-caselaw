@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47148-1-I"
 decided: "2002-03-11"
-citations: ["111 Wash. App. 19", "110 Wash. App. 1057"]
+citations: ["111 Wash. App. 19"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Quinn Construction Company, L.L.C., Appellant, v. King County Fire Pr
 source_url: "https://static.case.law/wash-app/111/cases/0019-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1072120
-cites_cases: ["1 P.3d 63", "104 Wn.2d 181", "109 Wn.2d 107", "111 Wn. App. 19", "119 Wn.2d 519", "119 Wn.2d 584", "132 Wn.2d 103", "135 Wn.2d 278", "135 Wn.2d 734", "143 Wn.2d 895", "195 Ga. App. 72", "23 Cal. 4th 305", "240 Minn. 9", "25 P.3d 426", "250 Va. 12", "260 Ga. 658", "408 U.S. 564", "42 U.S.C. § 1983", "452 P.2d 737", "458 S.E.2d 454", "500 P.2d 1165", "521 N.W.2d 51", "53 Haw. 659", "60 N.W.2d 27", "665 P.2d 1337", "704 P.2d 140", "729 F. Supp. 101", "744 P.2d 1032", "75 Wn.2d 583", "750 P.2d 254", "83 Wn. App. 566", "834 P.2d 17", "835 P.2d 1012", "922 P.2d 184", "933 F.2d 853", "937 P.2d 154", "943 P.2d 1358", "957 P.2d 621", "958 P.2d 260", "96 Cal. Rptr. 2d 747", "96 Wn. App. 517", "982 P.2d 1176", "99 Wn.2d 878"]
+cites_cases: ["1 P.3d 63", "104 Wn.2d 181", "109 Wn.2d 107", "119 Wn.2d 519", "119 Wn.2d 584", "132 Wn.2d 103", "135 Wn.2d 278", "135 Wn.2d 734", "143 Wn.2d 895", "195 Ga. App. 72", "23 Cal. 4th 305", "240 Minn. 9", "25 P.3d 426", "250 Va. 12", "260 Ga. 658", "408 U.S. 564", "42 U.S.C. § 1983", "452 P.2d 737", "458 S.E.2d 454", "500 P.2d 1165", "521 N.W.2d 51", "53 Haw. 659", "60 N.W.2d 27", "665 P.2d 1337", "704 P.2d 140", "729 F. Supp. 101", "744 P.2d 1032", "75 Wn.2d 583", "750 P.2d 254", "83 Wn. App. 566", "834 P.2d 17", "835 P.2d 1012", "922 P.2d 184", "933 F.2d 853", "937 P.2d 154", "943 P.2d 1358", "957 P.2d 621", "958 P.2d 260", "96 Cal. Rptr. 2d 747", "96 Wn. App. 517", "982 P.2d 1176", "99 Wn.2d 878"]
 ---
 
 # Quinn Construction Co. v. King County Fire Protection District No. 26
