@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38549-6-I"
 decided: "1997-09-22"
-citations: ["89 Wash. App. 712", "87 Wash. App. 1070"]
+citations: ["89 Wash. App. 712"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Keith Pilgrim, et al., Appellants, v. State Farm Fire & Casualty Insu
 source_url: "https://static.case.law/wash-app/89/cases/0712-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 394948
-cites_cases: ["10 Wn. App. 661", "110 Wn.2d 643", "124 Wn.2d 789", "129 Wash. 576", "129 Wn.2d 464", "151 P.2d 598", "17 Wn. App. 121", "18 Wn. App. 59", "19 Wn. App. 195", "21 F.3d 741", "21 Wn.2d 470", "225 P. 651", "27 Wn. App. 872", "283 N.J. Super. 601", "30 Wn. App. 107", "42 Wn. App. 352", "517 P.2d 988", "535 P.2d 816", "54 Wn. App. 330", "562 P.2d 635", "566 P.2d 577", "574 P.2d 405", "583 N.E.2d 1041", "611 N.E.2d 944", "621 P.2d 155", "632 P.2d 904", "66 Ohio App. 3d 141", "711 P.2d 1066", "725 F.2d 179", "749 F. Supp. 230", "757 P.2d 499", "774 P.2d 30", "81 Ohio App. 3d 572", "82 Wn. App. 480", "83 Wn. App. 432", "85 Wn.2d 372", "855 F. Supp. 858", "881 P.2d 1020", "89 Wn. App. 712", "918 P.2d 923", "918 P.2d 937", "922 P.2d 126"]
+cites_cases: ["10 Wn. App. 661", "110 Wn.2d 643", "124 Wn.2d 789", "129 Wash. 576", "129 Wn.2d 464", "151 P.2d 598", "17 Wn. App. 121", "18 Wn. App. 59", "19 Wn. App. 195", "21 F.3d 741", "21 Wn.2d 470", "225 P. 651", "27 Wn. App. 872", "283 N.J. Super. 601", "30 Wn. App. 107", "42 Wn. App. 352", "517 P.2d 988", "535 P.2d 816", "54 Wn. App. 330", "562 P.2d 635", "566 P.2d 577", "574 P.2d 405", "583 N.E.2d 1041", "611 N.E.2d 944", "621 P.2d 155", "632 P.2d 904", "66 Ohio App. 3d 141", "711 P.2d 1066", "725 F.2d 179", "749 F. Supp. 230", "757 P.2d 499", "774 P.2d 30", "81 Ohio App. 3d 572", "82 Wn. App. 480", "83 Wn. App. 432", "85 Wn.2d 372", "855 F. Supp. 858", "881 P.2d 1020", "918 P.2d 923", "918 P.2d 937", "922 P.2d 126"]
 ---
 
 # Pilgrim v. State Farm Fire & Casualty Insurance
