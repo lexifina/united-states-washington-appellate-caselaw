@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51184-0-I"
 decided: "2003-08-11"
-citations: ["119 Wash. App. 262", "118 Wash. App. 1003"]
+citations: ["119 Wash. App. 262"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tiffany Family Trust Corporation, Appellant, v. The City of Kent, Res
 source_url: "https://static.case.law/wash-app/119/cases/0262-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350224
-cites_cases: ["102 Wn.2d 721", "108 Wn. App. 1", "108 Wn.2d 671", "115 Wn. App. 900", "119 Wn. App. 262", "121 Wn.2d 397", "150 P.2d 395", "151 Wn.2d 1018", "152 Wash. 523", "21 Wn.2d 248", "261 P.2d 122", "278 P. 423", "32 P.3d 286", "339 U.S. 306", "35 Wash. 366", "363 P.2d 816", "37 Wn. App. 434", "40 Wash. L. Rev. 100", "42 U.S.C. § 1983", "424 U.S. 319", "43 Wn.2d 326", "538 U.S. 216", "58 Wn.2d 420", "64 P.3d 71", "682 P.2d 913", "684 P.2d 1275", "741 P.2d 993", "77 P. 686", "851 P.2d 662", "868 S.W.2d 835", "93 Wn. App. 154", "94 L. Ed. 865", "968 P.2d 894"]
+cites_cases: ["102 Wn.2d 721", "108 Wn. App. 1", "108 Wn.2d 671", "115 Wn. App. 900", "121 Wn.2d 397", "150 P.2d 395", "151 Wn.2d 1018", "152 Wash. 523", "21 Wn.2d 248", "261 P.2d 122", "278 P. 423", "32 P.3d 286", "339 U.S. 306", "35 Wash. 366", "363 P.2d 816", "37 Wn. App. 434", "40 Wash. L. Rev. 100", "42 U.S.C. § 1983", "424 U.S. 319", "43 Wn.2d 326", "538 U.S. 216", "58 Wn.2d 420", "64 P.3d 71", "682 P.2d 913", "684 P.2d 1275", "741 P.2d 993", "77 P. 686", "851 P.2d 662", "868 S.W.2d 835", "93 Wn. App. 154", "94 L. Ed. 865", "968 P.2d 894"]
 ---
 
 # Tiffany Family Trust Corp. v. City of Kent
