@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48231-9-I"
 decided: "2002-02-11"
-citations: ["112 Wash. App. 18", "110 Wash. App. 1027"]
+citations: ["112 Wash. App. 18"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Orlin K. Kleven, Appellant, v. The King County Prosecutor, Respondent
 source_url: "https://static.case.law/wash-app/112/cases/0018-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719092
-cites_cases: ["112 Wn. App. 18", "114 Wn.2d 198", "120 Wn.2d 782", "131 Wn.2d 835", "136 Wn.2d 595", "143 Wn.2d 895", "147 Wn.2d 1006", "25 P.3d 426", "63 Wn. App. 35", "787 P.2d 30", "816 P.2d 1237", "824 P.2d 1237", "845 P.2d 995", "935 P.2d 611", "963 P.2d 869"]
+cites_cases: ["114 Wn.2d 198", "120 Wn.2d 782", "131 Wn.2d 835", "136 Wn.2d 595", "143 Wn.2d 895", "147 Wn.2d 1006", "25 P.3d 426", "63 Wn. App. 35", "787 P.2d 30", "816 P.2d 1237", "824 P.2d 1237", "845 P.2d 995", "935 P.2d 611", "963 P.2d 869"]
 ---
 
 # Kleven v. King County Prosecutor
