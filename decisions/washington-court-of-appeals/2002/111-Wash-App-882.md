@@ -1,0 +1,77 @@
+---
+court: "Washington Court of Appeals"
+docket: "20381-6-III; 20382-4-III; 20385-9-III"
+decided: "2002-05-28"
+citations: ["111 Wash. App. 882"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Appellant, v. Jacqueline Lansdowne, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/111/cases/0882-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1071992
+cites_cases: ["103 Wn. App. 152", "107 Wn.2d 346", "5 P.3d 1280", "60 Wn. App. 857", "729 P.2d 48", "808 P.2d 174", "82 Wn. App. 122", "82 Wn. App. 594", "916 P.2d 952", "918 P.2d 945"]
+---
+
+# State v. Lansdowne
+
+## Majority (Kurtz, J.)
+
+Kurtz, J.
+Jacqueline and Mark Lansdowne were separately charged with unlawful imprisonment. The charges arise out of their contact with an insurance inspector who unexpectedly appeared at their home. In a separate incident, Jacqueline Lansdowne was charged with one count of telephone harassment for calling her daughter’s school and threatening one of the teachers. The trial court granted the Lansdownes’ Knapstad motion to dismiss all of the charges ruling that, based upon the material undisputed facts, the State could not establish prima facie cases for the charges. We reverse both the dismissal of the unlawful imprisonment counts and the dismissal of the telephone harassment count.
+FACTS
+Allstate Insurance Company contracts with Gina Lohman as an independent insurance inspector. For that purpose, Allstate asked Ms. Lohman to inspect a house located at 199 Alpowa Creek Road, near the city of Pomeroy, Washington. Due to the property’s rural address, Ms. Lohman was unable to locate the house. Seeking assistance, she stopped in front of another house located on Alpowa Creek Road.
+She approached a man, who was gardening in front of the house. Before she could obtain any information from the man, Mark Lansdowne approached Ms. Lohman. Mr. Lansdowne reacted to her inquiry by becoming “very upset” and agitated. According to Ms. Lohman, Mr. Lansdowne said “[you’re] not leaving here without giving me your business card.” Mr. Lansdowne frightened Ms. Lohman because he was “so confrontational.”
+As it turned out, the Lansdownes were the owners of the house that Ms. Lohman was sent to inspect. The fact that Ms. Lohman had been sent to inspect the house infuriated Mr. Lansdowne. He stated “I want names [sic] of the people who told you to come out here and I want the names right fucking now.” Although Ms. Lohman’s initial contact with Mr. Lansdowne frightened her, she pulled into the Lansdownes’ driveway and accompanied him into the Lansdownes’ house. Jacqueline Lansdowne called her insurance agent, Nancy Martinez, and spoke to Ms. Martinez in Ms. Lohman’s presence.
+The content and tenor of this telephone call caused Ms. Lohman to become concerned that she would be harmed if she attempted to leave the house. Ms. Lohman stated:
+When I walked through into the living room Jacquie was on the phone with the Agent and was quite upset[.] Jacquie asked the Agent why they were not informed that I would be coming out[.] [S]he stated this girl is not leaving here alive if you cannot give me a damn good reason why she’s here. I was so scared at this point I felt like fainting. Jacquie looked at me and said set [sic] down. I sat down on the couch, and I was planning a way to escape if the situation got any worse. . . . Jacquie then tells the [A] gent why weren’t we told about this [home inspection], [“]you know I pack a gun, I’m a bitch, and you know the type of people we are.[”]
+Clerk’s Papers (CP) (No. 20381-6-III) at 48. She further stated, “these people said that I wasn’t going to leave the house alive” and, “I was thinking I’m not going to get out of here alive.”
+According to Ms. Lohman, Mr. Lansdowne heard his wife’s conversation with the insurance agent and he also talked to the insurance agent. While Mr. Lansdowne was on the phone, Ms. Lansdowne told Ms. Lohman that “she had been with the U.S. Marshals Service.” Ms. Lohman stated, “The first thing that came to my mind is she [knows] how to shoot and she [knows] how to hit a target. . . .” Although Ms. Lohman never saw anyone with a gun, this conversation and all that had preceded it convinced Ms. Lohman that the Lansdownes had access to guns.
+After the Lansdownes talked to their insurance agent, they agreed to have their property inspected. Ms. Lohman then followed Mr. Lansdowne in her car as he led her to the inspection site. Thereafter, Ms. Lohman reported the incident to her supervisor, who then called Kim Redmond, the supervisor at Allstate’s Regional Office. Mr. Redmond informed Ms. Martinez that one of his inspectors had called in tears, reporting that she had been threatened by the Lansdownes. The next day, Ms. Lohman called the police and filed a report.
+In a sworn statement submitted in support of the motion, Ms. Martinez confirmed that she had received a telephone call from Ms. Lansdowne regarding the insurance inspector’s unexpected visit, but her recollection of the call differed significantly from Ms. Lohman’s report. Specifically, she denied that there was anything threatening about her conversation with Ms. Lansdowne, which she recalled as “joking, laughing, sounded like they were having a big party.” CP (No. 20381-6-III) at 59. She denied talking to Mr. Lansdowne. In the findings of fact, the trial court noted that Ms. Martinez’s statement contradicted Ms. Lohman’s statement.
+In a separate incident, Ms. Lansdowne called her daughter’s school because one of the teachers had taken away her daughter’s cell phone. She spoke to Del McKinley, a school secretary. Ms. Lansdowne stated that if the teacher, Toddette McGreevy, so much as touched that phone, she would “send someone to beat the shit out of Mrs. McGreevy.” She said she would “nail her to the cross and set fire to it” and “take care of that bitch.” She also said that “Mrs. McGreevy had better not touch my child or I will personally see that the bitch pays for it.”
+On April 4, 2001, Jacqueline and Mark Lansdowne were separately charged by informations with one count of unlawful imprisonment. On May 3, the informations were amended to add deadly weapon allegations, pursuant to former RCW 9.94A.125 (1983). Also on April 4, Ms. Lansdowne was charged by information with one count of telephone harassment. The trial court held a hearing on a defense’s motion to dismiss all three cases. The court subsequently granted the defense motions by written orders.
+The State appeals. This court ordered all three cases consolidated for appeal pursuant to RAP 3.3(b).
+ANALYSIS
+Dismissal of Unlawful Imprisonment Charges. The State challenges the orders of dismissal, contending that the trial court failed to comply with the requirements of a Knapstad hearing. In State v. Knapstad, 107 Wn.2d 346, 352, 729 P.2d 48 (1986), the Supreme Court noted that a trial court has inherent power to dismiss a criminal prosecution for insufficiency of the charge. In recognition of that power, the Knapstad court held that a trial court may entertain a pretrial motion to dismiss if there are no material disputed facts and the undisputed facts do not establish a prima facie case of guilt. State v. Dunn, 82 Wn. App. 122, 125, 916 P.2d 952 (1996) (citing Knapstad, 107 Wn.2d at 356). The court considers the evidence and the reasonable inferences in the light most favorable to the State when determining whether to grant a motion for dismissal under Knapstad. State v. Jackson, 82 Wn. App. 594, 608, 918 P.2d 945 (1996). Amotion for dismissal under Knapstad cannot be sustained if a rational fact finder could find the essential elements of the crime beyond a reasonable doubt. State v. Bradford, 60 Wn. App. 857, 862, 808 P.2d 174 (1991).
+The State argues that the court improperly considered material disputed facts. In its conclusions, the court states, “there is direct evidence to the contrary indicating the Defendants did not knowingly restrain Ms. Lohman, especially the statement of Mrs. Nancy Martinez.” Ms. Martinez’s and Ms. Lohman’s statements contradict one another on a dispositive issue — whether Ms. Lansdowne used threatening words in the presence of Ms. Lohman. To view the evidence in the light most favorable to the State, the court should have disregarded Ms. Martinez’s statement and accepted Ms. Lohman’s statement as true. The question now becomes, when viewing this evidence in the light most favorable to the State, could a rational fact finder find the essential elements of unlawful imprisonment beyond a reasonable doubt.
+A person commits the crime of unlawful imprisonment when “he knowingly restrains another person.” RCW 9A.40.040. To “restrain” means to restrict a person’s movements without consent and without legal authority in a manner which interferes substantially with his liberty. “ ‘Restraint is “without consent” if it is accomplished by (a) physical force, intimidation, or deception ....’” State v. Warfield, 103 Wn. App. 152, 156, 5 P.3d 1280 (2000) (quoting RCW 9A.40.010(1)).
+In dismissing the unlawful imprisonment charges, the trial court concluded that the evidence was insufficient to support the restraint and knowledge elements of the charge. However, viewed in the light most favorable to the State, the evidence indicates that the Lansdownes knowingly and intentionally restrained Ms. Lohman. Ms. Lansdowne made statements that “this girl is not leaving here alive if you cannot give me a damn good reason why she’s here” and “why weren’t we told about this, you know I pack a gun, I’m a bitch, and you know the type of people we are.” When Ms. Lohman reported the incident to her supervisor several hours later, she was “very upset” and “in tears.” For purposes of a Knapstad motion, the court should have inferred that Ms. Lansdowne’s words were serious and deliberately intended to intimidate Ms. Lohman and restrict her movements.
+A rational trier of fact could have found the essential elements of unlawful imprisonment. The superior court erred by dismissing the unlawful imprisonment charges. The case is remanded for trial.
+Dismissal of Telephone Harassment Charge. The telephone harassment statute under which Ms. Lansdowne was charged provides:
+Every person who, with intent to harass, intimidate, torment or embarrass any other person, shall make a telephone call to such other person:
+(1) Using any lewd, lascivious, profane, indecent, or obscene words or language, or suggesting the commission of any lewd or lascivious act; or
+(2) Anonymously or repeatedly or at an extremely inconvenient hour, whether or not conversation ensues; or
+(3) Threatening to inflict injury on the person or property of the person called or any member of his or her family or household;
+shall be guilty of a gross misdemeanor, except that the person is guilty of a class C felony if either of the following applies:
+(a) That person has previously been convicted of any crime of harassment, as defined in RCW 9A.46.060, with the same victim or member of the victim’s family or household or any person specifically named in a no-contact or no-harassment order in this or any other state; or
+(b) That person harasses another person under subsection (3) of this section by threatening to kill the person threatened or any other person.
+RCW 9.61.230. Specifically, the State alleges that Ms. Lansdowne violated subsection (1) by using indecent or obscene words with the intent to harass, intimidate, torment or embarrass Ms. McKinley. To overcome a Knapstad challenge under these circumstances, the State must produce evidence that the defendant (1) made a telephone call; (2) with the intent to intimidate the person called; and (3) used indecent language. RCW 9.61.230.
+The superior court dismissed the charge finding that the State could not prove the required elements of the crime. Specifically, the court reasoned, “[t]he only ‘off color’ words recalled by M[s.] McKinley were bitch and shit. These words cannot be considered to be lewd, lascivious, indecent or obscene. They are also not profane.” CP (No. 20385-9-III) at 11-12. The court further reasoned that the first section of the statute — every person who, with the intent to harass, intimidate, torment, or embarrass any other person, shall make a telephone call to such other person — requires that the telephone call be directed to the threatened person. In other words, unless subsection (3) is implicated, threatening someone other than the person to whom the call is made does not violate the statute.
+The evidence shows that Ms. Lansdowne called the school and spoke to Ms. McKinley, the school secretary. She stated that the purpose of her call was “to complain about a teacher.” In the course of her conversation with Ms. McKinley she stated, “she would send someone to beat the shit out of Mrs. McGreevy” and she would “nail her to the cross and set fire to it” and “take care of that bitch.” These statements contain threats that are directed to Ms. McGreevy and not Ms. McKinley. Nevertheless, they may evidence an intent to intimidate Ms. McKinley.
+The first issue is whether these statements evidence an intent to intimidate, a mental element of the statute. “Intimidate” is defined as: “to make timid or fearful: inspire or affect with fear: frighten ... to compel to action or inaction (as by threats).” Webster’s Third New International Dictionary 1184 (1993). Viewed in the light most favorable to the State, a reasonable fact finder could find that Ms. Lansdowne intended to intimidate Ms. McKinley and affect her conduct by using obscene language and threatening Ms. McGreevy.
+The second issue is whether the words “shit” and “bitch” are indecent or obscene language. “Indecent” is defined as: “not decent: . . . altogether unbecoming: contrary to what the nature of things for which circumstances would dictate as right or expected or appropriate: hardly suitable: unseemly.” Webster’s, supra, at 1147. “Obscene” is defined as: “marked by violation of accepted language inhibitions and by the use of words regarded as taboo in polite usage.” Webster’s, supra, at 1557. Ms. Lansdowne used the word “bitch” not in reference to a female dog, but in reference to a female human being. Such usage is both indecent and obscene as those words are commonly defined. A rational trier of fact could have determined that Ms. Lansdowne’s words were indecent or obscene.
+The superior court erred by dismissing the telephone harassment count. The case is remanded for trial.
+Brown, C.J., and Sweeney, J., concur.
+State v. Knapstad, 107 Wn.2d 346, 352, 729 P.2d 48 (1986).
+Clerk’s Papers (CP) (No. 20381-6-III) at 47.
+CP (No. 20381-6-III) at 47.
+CP (No. 20381-6-III) at 39.
+CP (No. 20381-6-III) at 48.
+CP (No. 20381-6-III) at 32.
+CP (No. 20381-6-III) at 43.
+CP (No. 20381-6-III) at 49.
+CP (No. 20381-6-111) at 49.
+CP (No. 20385-9-III) at 19.
+CP (No. 20385-9-III) at 18, 19.
+CP (No. 20385-9-III) at 20.
+State v. Knapstad, 107 Wn.2d 346, 729 P.2d 48 (1986).
+CP (No. 20381-6-III) at 7.
+CP (No. 20381-6-III) at 48.
+CP (No. 20381-6-III) at 65.
+RCW 9.61.230(3) does not apply because the person who received the telephone call, Ms. McKinley, is neither related to Ms. McGreevy nor a member of her household.
+Del McKinley is actually a woman.
+CP (No. 20385-9-III) at 19.
+CP (No. 20385-9-III) at 19.
+CP (No. 20385-9-III) at 18.
+CP (No. 20385-9-III) at 19.
