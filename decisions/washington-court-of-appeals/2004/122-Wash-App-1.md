@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50792-3-I"
 decided: "2004-04-19"
-citations: ["122 Wash. App. 1", "121 Wash. App. 1009"]
+citations: ["122 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Delaura Whitson Alishio, Appellant, v. The Department of Social and H
 source_url: "https://static.case.law/wash-app/122/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 499820
-cites_cases: ["102 Wn. App. 142", "113 Wn. App. 401", "121 Wn.2d 552", "122 Wn. App. 1", "122 Wn.2d 397", "123 Wn.2d 621", "149 Wn.2d 1017", "153 Wn.2d 1013", "43 Wn. App. 217", "54 P.3d 687", "588 P.2d 725", "6 P.3d 112", "716 P.2d 916", "72 P.3d 761", "75 Wn. App. 431", "852 P.2d 295", "858 P.2d 494", "869 P.2d 1034", "878 P.2d 1241", "91 Wn.2d 223", "92 Wn. App. 604", "965 P.2d 626"]
+cites_cases: ["102 Wn. App. 142", "113 Wn. App. 401", "121 Wn.2d 552", "122 Wn.2d 397", "123 Wn.2d 621", "149 Wn.2d 1017", "153 Wn.2d 1013", "43 Wn. App. 217", "54 P.3d 687", "588 P.2d 725", "6 P.3d 112", "716 P.2d 916", "72 P.3d 761", "75 Wn. App. 431", "852 P.2d 295", "858 P.2d 494", "869 P.2d 1034", "878 P.2d 1241", "91 Wn.2d 223", "92 Wn. App. 604", "965 P.2d 626"]
 ---
 
 # Alishio v. Department of Social & Health Services
