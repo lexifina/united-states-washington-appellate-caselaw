@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35256-3-I"
 decided: "1996-05-13"
-citations: ["82 Wash. App. 284", "81 Wash. App. 1038"]
+citations: ["82 Wash. App. 284"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Craig Christianson, et al., Appellants, v. Snohomish Health District,
 source_url: "https://static.case.law/wash-app/82/cases/0284-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043512
-cites_cases: ["114 S. Ct. 1216", "114 Wn.2d 320", "119 Wn.2d 1", "120 Wn. 2d 140", "120 Wn.2d 935", "121 Wn.2d 586", "121 Wn.2d 625", "126 Wn.2d 22", "130 Wn.2d 1007", "25 Wn. App. 823", "281 Minn. 524", "498 U.S. 911", "506 U.S. 1028", "512 U.S. 374", "609 P.2d 979", "787 P.2d 907", "82 Wn. App. 284", "829 P.2d 765", "839 P.2d 324", "845 P.2d 1331", "854 P.2d 1", "854 P.2d 23", "891 P.2d 29"]
+cites_cases: ["114 S. Ct. 1216", "114 Wn.2d 320", "119 Wn.2d 1", "120 Wn. 2d 140", "120 Wn.2d 935", "121 Wn.2d 586", "121 Wn.2d 625", "126 Wn.2d 22", "130 Wn.2d 1007", "25 Wn. App. 823", "281 Minn. 524", "498 U.S. 911", "506 U.S. 1028", "512 U.S. 374", "609 P.2d 979", "787 P.2d 907", "829 P.2d 765", "839 P.2d 324", "845 P.2d 1331", "854 P.2d 1", "854 P.2d 23", "891 P.2d 29"]
 ---
 
 # Christianson v. Snohomish Health District
