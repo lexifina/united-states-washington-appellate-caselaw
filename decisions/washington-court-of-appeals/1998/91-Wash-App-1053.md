@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "21688-4-II"
+decided: "1998-07-17"
+citations: ["91 Wash. App. 1053"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Steven Anthony Toro, Appellant."]
+source_url: "https://static.case.law/wash-app/91/cases/1053-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1681672
+---
+
+# State v. Toro
+
+## Majority
+
+Appeal from a judgment of the Superior Court for Pierce County, No. 96-1-02367-3, Arthur W. Verharen, J., entered February 13, 1997. Affirmed by unpublished opinion per Hunt, J., concurred in by Morgan and Seinfeld, JJ.
