@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23671-7-I; 23726-8-I"
 decided: "1990-04-23"
-citations: ["58 Wash. App. 18", "57 Wash. App. 1040"]
+citations: ["58 Wash. App. 18"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of P.D. Sandra Davis, Appellant, v. T
 source_url: "https://static.case.law/wash-app/58/cases/0018-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754233
-cites_cases: ["100 Wn.2d 508", "104 Wn.2d 412", "109 Wn.2d 1", "112 Wn.2d 1006", "115 Wn.2d 1019", "24 Wn. App. 398", "25 Wn. App. 726", "277 P.2d 335", "35 Wn. App. 741", "45 Wn. App. 528", "45 Wn.2d 654", "475 U.S. 1020", "513 P.2d 831", "52 Wn. App. 854", "545 P.2d 1193", "58 Wn. App. 18", "600 P.2d 1308", "610 P.2d 371", "664 P.2d 1245", "669 P.2d 1258", "671 P.2d 1212", "676 P.2d 557", "705 P.2d 1182", "726 P.2d 997", "743 P.2d 240", "765 P.2d 30", "82 Wn.2d 736", "86 Wn.2d 432", "94 Wn.2d 1002", "99 Wn.2d 842"]
+cites_cases: ["100 Wn.2d 508", "104 Wn.2d 412", "109 Wn.2d 1", "112 Wn.2d 1006", "115 Wn.2d 1019", "24 Wn. App. 398", "25 Wn. App. 726", "277 P.2d 335", "35 Wn. App. 741", "45 Wn. App. 528", "45 Wn.2d 654", "475 U.S. 1020", "513 P.2d 831", "52 Wn. App. 854", "545 P.2d 1193", "600 P.2d 1308", "610 P.2d 371", "664 P.2d 1245", "669 P.2d 1258", "671 P.2d 1212", "676 P.2d 557", "705 P.2d 1182", "726 P.2d 997", "743 P.2d 240", "765 P.2d 30", "82 Wn.2d 736", "86 Wn.2d 432", "94 Wn.2d 1002", "99 Wn.2d 842"]
 ---
 
 # Davis v. Department of Social & Health Services
