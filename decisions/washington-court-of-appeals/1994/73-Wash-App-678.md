@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "30113-6-I"
+decided: "1994-04-11"
+citations: ["73 Wash. App. 678"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Raymond Casey Carlisle, Appellant."]
+source_url: "https://static.case.law/wash-app/73/cases/0678-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1748157
+cites_cases: ["103 Wn.2d 1012", "119 Wn.2d 1003", "16 F.3d 1225", "28 Wn. App. 524", "373 U.S. 179", "38 Wn. App. 831", "388 U.S. 14", "409 U.S. 95", "432 P.2d 857", "471 U.S. 1067", "488 U.S. 867", "535 F.2d 223", "550 P.2d 507", "624 P.2d 1159", "63 Wn. App. 833", "690 P.2d 1175", "706 F.2d 1394", "711 F.2d 887", "72 Wn.2d 269", "822 P.2d 303", "850 F.2d 927", "87 Wn.2d 175", "935 F.2d 832", "95 Wn.2d 1028"]
+---
+
+# State v. Carlisle
+
+## Majority (Baker, J.)
+
+Baker, J.
+— Raymond Carlisle appeals his conviction of burglary in the first degree, alleging prosecutorial misconduct. He argues that a defense witness refused to testify after the prosecutor threatened him with prosecution if the witness testified, thus denying him his right to compulsory and due process. We find no misconduct, and affirm.
+Facts
+Carlisle, Nathan Wiley and others accompanied a friend to help him "beat up” another man. The victim’s apartment was entered and ransacked by some of the group.
+The jury found Carlisle guilty of burglary in the first degree, but returned a special verdict, finding that he was not armed with a deadly weapon at the time he committed the crime.
+I
+Carlisle claims the prosecutor threatened Nathan Wiley with prosecution if he testified for the defense. He argues that the prosecutor’s threats resulted in Wiley’s decision not to testify, denying him compulsory and due process.
+The right to compulsory attendance of material witnesses is a fundamental element of due process and goes directly to the right to present a defense. State v. Burri, 87 Wn.2d 175, 180-81, 550 P.2d 507 (1976) (citing Washington v. Texas, 388 U.S. 14, 19, 18 L. Ed. 2d 1019, 87 S. Ct. 1920 (1967)). If a defense witness is threatened and those threats effectively keep that witness off the stand, the defense is deprived of due process of law. Webb v. Texas, 409 U.S. 95, 98, 34 L. Ed. 2d 330, 93 S. Ct. 351 (1972); United States v. Morrison, 535 F.2d 223 (3d Cir. 1976).
+However, a prosecutor should advise a witness of the right against self-incrimination when the prosecutor knows or has reason to believe that the witness may be the subject of a criminal prosecution. 1 American Bar Ass’n, Standards for Criminal Justice, Std. 3-3.2(b) (2d ed. 1980). "Where the prosecutor simply provides the witness with a truthful warning, no constitutional violation occurs.” United States v. Jackson, 935 F.2d 832, 847 (7th Cir. 1991), denial of post-conviction relief aff’d sub nom. Davis v. Delaney, 16 F.3d 1225 (1994). Thus, a prosecutor’s warning to counsel advising of the client’s potential liabilities if the client’s testimony provides incriminating evidence is not improper.
+Here, Nathan Wiley faced a clear risk of criminal prosecution. One of the prosecutor’s principal theories was that Carlisle and Wiley were accomplices. A person may be held liable as an accomplice if he aids or agrees to aid another in the commission of a crime by associating himself with the undertaking, participating in it as something he desires to bring about. State v. Galisia, 63 Wn. App. 833, 839-40, 822 P.2d 303, review denied, 119 Wn.2d 1003 (1992). Nathan Wiley had driven Brady and the group to the victim’s apartment. He had given the police a statement admitting that he knew one of the group had a shotgun with him. Evidence also showed the group was armed with four taped clubs, and they intended to help "beat up” the victim. Testimony of witnesses put the whole group, including Nathan Wiley, in the area of the apartment. Under these facts, Wiley was subject to prosecution as an accomplice. If he testified about his activities on the night of this crime, his testimony would bear directly on his potential accomplice liability. See Eastham v. Arndt, 28 Wn. App. 524, 530-32, 624 P.2d 1159, review denied, 95 Wn.2d 1028 (1981).
+The prosecutor did not contact Wiley directly and did not state that she would in fact charge him if he testified. Rather, she advised Wiley’s counsel that if Wiley testified and incriminated himself she would relay that information to her office for appropriate action. Carlisle’s counsel did not dispute the prosecutor’s account to the court of what she had said in their conversation.
+It is reversible error when the prosecutor "makes a conscious and flagrant attempt to build its case out of inferences arising from use of the testimonial privilege.” State v. Nelson, 72 Wn.2d 269, 280, 432 P.2d 857 (1967) (quoting Namet v. United States, 373 U.S. 179, 186, 10 L. Ed. 2d 278, 83 S. Ct. 1151 (1963)). The prosecutor’s theory of the case was that Carlisle and Wiley were accomplices to the burglary. Wiley could validly assert the privilege against self-incrimination, and the prosecutor was rightfully concerned that he might selectively assert the Fifth Amendment before the jury.
+This concern was particularly appropriate because Wiley’s counsel frankly admitted he had no information in the case file or discovery from the prosecutor at the time he advised Wiley regarding his proposed testimony. Accordingly, since Wiley’s counsel was not present during preliminary proceedings, was unaware of the State’s theory of accomplice liability and was obviously unprepared, it . was proper for the prosecutor to discuss Wiley’s potential liability with his counsel. The prosecutor carefully limited her statements to accurately advising counsel of the charges Wiley might face, and warning that if Wiley incriminated himself on the stand, she would relay his statements to her office for appropriate action. She also took pains to point out that she would not be involved in any charging decision. Here, the prosecutor simply provided a truthful warning. This was not misconduct.
+II
+Carlisle also claims the trial court erred in ruling that it lacked authority to order the State to grant Wiley immunity. CrR 6.14 unambiguously vests the decision on whether to grant immunity with the prosecution. A defendant has no right to demand immunity for defense witnesses to obtain exculpatory testimony. Autry v. Estelle, 706 F.2d 1394, 1400-03 (5th Cir. 1983). State v. Toomey, 38 Wn. App. 831, 838, 690 P.2d 1175 (1984), review denied, 103 Wn.2d 1012, cert. denied, 471 U.S. 1067 (1985). Nonetheless, if the court finds that prosecutorial misconduct intimidated a witness into not testifying for the defense, the defendant is denied the right to compulsory process, and hence due process. Dismissal is required at a new trial unless the prosecutor requests use immunity for the witness. United States v. Lord, 711 F.2d 887, 891 (9th Cir. 1983); Morrison, 535 F.2d at 229. However, as previously discussed there was no prosecuto-rial misconduct here, and thus, Carlisle was not denied compulsory or due process.
+Affirmed.
+Scholfield and Aged, JJ., concur.
+See also United States v. Lord, 711 F.2d 887, 889 (9th Cir. 1983); United States v. Pinto, 850 F.2d 927, 933-34 (2d Cir.), cert. denied, 488 U.S. 867 (1988).
