@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12495-9-III"
 decided: "1995-01-31"
-citations: ["77 Wash. App. 304", "76 Wash. App. 1085"]
+citations: ["77 Wash. App. 304"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Fred D. Bright, Appellant."]
 source_url: "https://static.case.law/wash-app/77/cases/0304-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415879
-cites_cases: ["113 Wn.2d 631", "121 Wn.2d 317", "127 Wn.2d 1007", "54 Wn. App. 521", "55 Wash. L. Rev. 543", "64 Wn. App. 366", "65 Wn. App. 721", "663 P.2d 476", "77 Wn. App. 304", "774 P.2d 532", "781 P.2d 483", "824 P.2d 515", "829 P.2d 252", "849 P.2d 1216", "99 Wn.2d 538"]
+cites_cases: ["113 Wn.2d 631", "121 Wn.2d 317", "127 Wn.2d 1007", "54 Wn. App. 521", "55 Wash. L. Rev. 543", "64 Wn. App. 366", "65 Wn. App. 721", "663 P.2d 476", "774 P.2d 532", "781 P.2d 483", "824 P.2d 515", "829 P.2d 252", "849 P.2d 1216", "99 Wn.2d 538"]
 ---
 
 # State v. Bright
