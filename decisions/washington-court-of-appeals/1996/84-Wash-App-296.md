@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37183-5-I"
 decided: "1996-10-28"
-citations: ["84 Wash. App. 296", "83 Wash. App. 1056"]
+citations: ["84 Wash. App. 296"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Wilton Rabon, Appellant, v. The City of Seattle, Respondent."]
 source_url: "https://static.case.law/wash-app/84/cases/0296-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121845
-cites_cases: ["113 Wn.2d 213", "116 Wn.2d 556", "118 Wn.2d 133", "125 Wn.2d 146", "128 Wn.2d 341", "131 Wn.2d 1024", "166 U.S. 698", "2 Wn.2d 392", "324 P.2d 1099", "356 P.2d 292", "388 P.2d 926", "424 U.S. 319", "481 P.2d 9", "52 Wn.2d 317", "57 Wn.2d 106", "585 P.2d 784", "617 P.2d 713", "63 Wn.2d 664", "638 P.2d 1213", "665 P.2d 1337", "777 P.2d 1046", "78 Wn.2d 929", "807 P.2d 353", "821 P.2d 482", "84 Wn. App. 296", "881 P.2d 1040", "90 Wn.2d 722", "908 P.2d 359", "94 Wn.2d 376", "96 Wn.2d 785", "97 Utah 113", "98 P.2d 306", "99 Wn.2d 878"]
+cites_cases: ["113 Wn.2d 213", "116 Wn.2d 556", "118 Wn.2d 133", "125 Wn.2d 146", "128 Wn.2d 341", "131 Wn.2d 1024", "166 U.S. 698", "2 Wn.2d 392", "324 P.2d 1099", "356 P.2d 292", "388 P.2d 926", "424 U.S. 319", "481 P.2d 9", "52 Wn.2d 317", "57 Wn.2d 106", "585 P.2d 784", "617 P.2d 713", "63 Wn.2d 664", "638 P.2d 1213", "665 P.2d 1337", "777 P.2d 1046", "78 Wn.2d 929", "807 P.2d 353", "821 P.2d 482", "881 P.2d 1040", "90 Wn.2d 722", "908 P.2d 359", "94 Wn.2d 376", "96 Wn.2d 785", "97 Utah 113", "98 P.2d 306", "99 Wn.2d 878"]
 ---
 
 # Rabon v. City of Seattle
