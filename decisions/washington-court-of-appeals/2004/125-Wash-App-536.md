@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52919-6-I"
 decided: "2004-12-20"
-citations: ["125 Wash. App. 536", "124 Wash. App. 1040"]
+citations: ["125 Wash. App. 536"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ibrahim Faraj, et al., Respondents, v. Berhanu Chulisie, et al., Appe
 source_url: "https://static.case.law/wash-app/125/cases/0536-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270117
-cites_cases: ["10 P.3d 403", "100 Wn.2d 581", "105 Wn. App. 447", "108 Wn.2d 38", "108 Wn.2d 723", "114 Wn.2d 677", "120 Wn. App. 93", "122 Wn.2d 141", "125 Wn. App. 536", "133 Wn.2d 804", "139 Wn.2d 1023", "139 Wn.2d 659", "141 Wn.2d 1005", "150 Wn.2d 518", "20 P.3d 958", "641 F.2d 880", "675 P.2d 193", "738 P.2d 665", "742 P.2d 1224", "79 P.3d 1154", "790 P.2d 604", "84 P.3d 278", "84 Wn. App. 733", "859 P.2d 1210", "929 P.2d 1215", "947 P.2d 721", "95 Wn. App. 439", "97 Wn. App. 375", "97 Wn. App. 977", "975 P.2d 544", "984 P.2d 417", "988 P.2d 1009", "989 P.2d 1111"]
+cites_cases: ["10 P.3d 403", "100 Wn.2d 581", "105 Wn. App. 447", "108 Wn.2d 38", "108 Wn.2d 723", "114 Wn.2d 677", "120 Wn. App. 93", "122 Wn.2d 141", "133 Wn.2d 804", "139 Wn.2d 1023", "139 Wn.2d 659", "141 Wn.2d 1005", "150 Wn.2d 518", "20 P.3d 958", "641 F.2d 880", "675 P.2d 193", "738 P.2d 665", "742 P.2d 1224", "79 P.3d 1154", "790 P.2d 604", "84 P.3d 278", "84 Wn. App. 733", "859 P.2d 1210", "929 P.2d 1215", "947 P.2d 721", "95 Wn. App. 439", "97 Wn. App. 375", "97 Wn. App. 977", "975 P.2d 544", "984 P.2d 417", "988 P.2d 1009", "989 P.2d 1111"]
 ---
 
 # Faraj v. Chulisie
