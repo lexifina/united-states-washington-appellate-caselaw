@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51006-1-I"
 decided: "2003-09-22"
-citations: ["119 Wash. App. 644", "118 Wash. App. 1047"]
+citations: ["119 Wash. App. 644"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Marlon Howell, Appellant."]
 source_url: "https://static.case.law/wash-app/119/cases/0644-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1349871
-cites_cases: ["100 Wn.2d 188", "109 Wn.2d 222", "119 Wn. App. 644", "143 Wn.2d 731", "145 Wn.2d 352", "24 P.3d 1006", "37 P.3d 280", "384 U.S. 436", "466 U.S. 668", "56 Wn. App. 472", "576 P.2d 44", "586 P.2d 1168", "668 P.2d 571", "743 P.2d 816", "783 P.2d 1131", "81 Wn. App. 1", "87 Wn. App. 515", "89 Wn.2d 788", "91 Wn.2d 86", "914 P.2d 67", "93 Wn. App. 453", "94 Wn. App. 882", "942 P.2d 1013", "970 P.2d 313", "974 P.2d 855"]
+cites_cases: ["100 Wn.2d 188", "109 Wn.2d 222", "143 Wn.2d 731", "145 Wn.2d 352", "24 P.3d 1006", "37 P.3d 280", "384 U.S. 436", "466 U.S. 668", "56 Wn. App. 472", "576 P.2d 44", "586 P.2d 1168", "668 P.2d 571", "743 P.2d 816", "783 P.2d 1131", "81 Wn. App. 1", "87 Wn. App. 515", "89 Wn.2d 788", "91 Wn.2d 86", "914 P.2d 67", "93 Wn. App. 453", "94 Wn. App. 882", "942 P.2d 1013", "970 P.2d 313", "974 P.2d 855"]
 ---
 
 # State v. Howell
