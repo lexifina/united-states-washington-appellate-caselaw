@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "5218-4-III; 5362-8-III"
 decided: "1984-04-17"
-citations: ["37 Wash. App. 800", "37 Wash. App. 1027"]
+citations: ["37 Wash. App. 800"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["S. M. Jameel Hasan, Appellant, v. H. George Frederickson, et al, Resp
 source_url: "https://static.case.law/wash-app/37/cases/0800-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1784752
-cites_cases: ["12 Wn. App. 370", "196 Colo. 118", "211 P.2d 710", "24 Wn. App. 829", "274 P.2d 347", "287 P.2d 336", "29 Wn. App. 168", "29 Wn. App. 541", "29 Wn. App. 753", "35 Wn.2d 164", "37 Wn. App. 800", "375 F.2d 55", "45 Wn.2d 326", "47 Wn.2d 229", "529 P.2d 861", "534 P.2d 1365", "552 P.2d 175", "604 P.2d 191", "627 P.2d 1002", "630 P.2d 456", "631 P.2d 3", "643 P.2d 426", "663 P.2d 823", "85 Wn.2d 300", "87 Wn.2d 348", "97 Wn.2d 215", "99 Wn.2d 488"]
+cites_cases: ["12 Wn. App. 370", "196 Colo. 118", "211 P.2d 710", "24 Wn. App. 829", "274 P.2d 347", "287 P.2d 336", "29 Wn. App. 168", "29 Wn. App. 541", "29 Wn. App. 753", "35 Wn.2d 164", "375 F.2d 55", "45 Wn.2d 326", "47 Wn.2d 229", "529 P.2d 861", "534 P.2d 1365", "552 P.2d 175", "604 P.2d 191", "627 P.2d 1002", "630 P.2d 456", "631 P.2d 3", "643 P.2d 426", "663 P.2d 823", "85 Wn.2d 300", "87 Wn.2d 348", "97 Wn.2d 215", "99 Wn.2d 488"]
 ---
 
 # Hasan v. Frederickson
