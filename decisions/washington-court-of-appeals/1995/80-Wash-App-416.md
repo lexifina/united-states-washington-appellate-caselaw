@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17941-5-II"
 decided: "1995-12-19"
-citations: ["80 Wash. App. 416", "80 Wash. App. 1006"]
+citations: ["80 Wash. App. 416"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Harold Mayer, et al., Appellants, v. Pierce County Medical Bureau, In
 source_url: "https://static.case.law/wash-app/80/cases/0416-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 420995
-cites_cases: ["102 Wn.2d 219", "111 Wn.2d 374", "116 Wn.2d 563", "123 Wn.2d 15", "123 Wn.2d 160", "127 Wn.2d 1003", "183 P.2d 504", "205 So. 2d 17", "211 So. 2d 211", "221 P.2d 544", "258 P.2d 812", "28 Wn.2d 536", "332 P.2d 454", "36 Wn.2d 925", "405 P.2d 585", "42 Wn.2d 727", "53 Wn.2d 162", "66 Wn. App. 358", "66 Wn.2d 792", "661 P.2d 971", "685 P.2d 1081", "757 P.2d 1384", "76 Wn. App. 267", "77 Wn. App. 137", "80 Wn. App. 416", "807 P.2d 356", "832 P.2d 105", "864 P.2d 921", "866 P.2d 31", "883 P.2d 1387", "890 P.2d 1071", "99 Wn.2d 280"]
+cites_cases: ["102 Wn.2d 219", "111 Wn.2d 374", "116 Wn.2d 563", "123 Wn.2d 15", "123 Wn.2d 160", "127 Wn.2d 1003", "183 P.2d 504", "205 So. 2d 17", "211 So. 2d 211", "221 P.2d 544", "258 P.2d 812", "28 Wn.2d 536", "332 P.2d 454", "36 Wn.2d 925", "405 P.2d 585", "42 Wn.2d 727", "53 Wn.2d 162", "66 Wn. App. 358", "66 Wn.2d 792", "661 P.2d 971", "685 P.2d 1081", "757 P.2d 1384", "76 Wn. App. 267", "77 Wn. App. 137", "807 P.2d 356", "832 P.2d 105", "864 P.2d 921", "866 P.2d 31", "883 P.2d 1387", "890 P.2d 1071", "99 Wn.2d 280"]
 ---
 
 # Mayer v. Pierce County Medical Bureau, Inc.
