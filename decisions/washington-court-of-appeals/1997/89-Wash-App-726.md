@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38631-0-I"
 decided: "1997-11-03"
-citations: ["89 Wash. App. 726", "88 Wash. App. 1012"]
+citations: ["89 Wash. App. 726"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Joseph F. Baker, Appellant."]
 source_url: "https://static.case.law/wash-app/89/cases/0726-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 395301
-cites_cases: ["106 Wn.2d 772", "120 Wn.2d 631", "125 Wn.2d 847", "126 Wn.2d 1016", "131 Wn.2d 1007", "27 Cal. Rptr. 2d 646", "497 N.W.2d 235", "510 U.S. 944", "61 Wash. L. Rev. 1213", "7 Cal. 4th 380", "725 P.2d 951", "75 Wn. App. 808", "82 Wn. App. 680", "82 Wn. App. 688", "845 P.2d 289", "867 P.2d 757", "881 P.2d 268", "889 P.2d 487", "89 Wn. App. 726", "919 P.2d 123", "919 P.2d 128"]
+cites_cases: ["106 Wn.2d 772", "120 Wn.2d 631", "125 Wn.2d 847", "126 Wn.2d 1016", "131 Wn.2d 1007", "27 Cal. Rptr. 2d 646", "497 N.W.2d 235", "510 U.S. 944", "61 Wash. L. Rev. 1213", "7 Cal. 4th 380", "725 P.2d 951", "75 Wn. App. 808", "82 Wn. App. 680", "82 Wn. App. 688", "845 P.2d 289", "867 P.2d 757", "881 P.2d 268", "889 P.2d 487", "919 P.2d 123", "919 P.2d 128"]
 ---
 
 # State v. Baker
