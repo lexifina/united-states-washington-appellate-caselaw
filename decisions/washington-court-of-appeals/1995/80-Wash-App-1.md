@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13835-6-III"
 decided: "1995-11-02"
-citations: ["80 Wash. App. 1", "79 Wash. App. 1036"]
+citations: ["80 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James R. Holland, Appellant."
 source_url: "https://static.case.law/wash-app/80/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 420771
-cites_cases: ["105 Wn.2d 175", "119 Wn.2d 204", "121 Wn.2d 1024", "123 Wn.2d 1", "124 Wn.2d 1009", "378 U.S. 1", "53 Wn. App. 527", "68 Wn. App. 411", "713 P.2d 719", "718 P.2d 796", "72 Wn. App. 733", "768 P.2d 530", "80 Wn. App. 1", "829 P.2d 1096", "844 P.2d 438", "863 P.2d 1344", "866 P.2d 648"]
+cites_cases: ["105 Wn.2d 175", "119 Wn.2d 204", "121 Wn.2d 1024", "123 Wn.2d 1", "124 Wn.2d 1009", "378 U.S. 1", "53 Wn. App. 527", "68 Wn. App. 411", "713 P.2d 719", "718 P.2d 796", "72 Wn. App. 733", "768 P.2d 530", "829 P.2d 1096", "844 P.2d 438", "863 P.2d 1344", "866 P.2d 648"]
 ---
 
 # State v. Holland
