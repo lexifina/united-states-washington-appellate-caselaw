@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30998-0-II"
 decided: "2004-10-26"
-citations: ["124 Wash. App. 506", "123 Wash. App. 1055"]
+citations: ["124 Wash. App. 506"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Cheryl Showalter, Petitioner, v. Wild Oats, Respondent."]
 source_url: "https://static.case.law/wash-app/124/cases/0506-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684166
-cites_cases: ["100 Wn.2d 39", "103 Wn. App. 829", "103 Wn. App. 945", "106 Wn. App. 54", "110 Wn. App. 488", "112 Wn. App. 636", "116 Wn. App. 833", "124 Wn. App. 506", "14 P.3d 837", "148 Wn.2d 1003", "148 Wn.2d 1021", "15 P.3d 172", "150 Wn.2d 1020", "21 P.3d 1174", "41 P.3d 506", "438 P.2d 581", "46 Wn. App. 616", "50 P.3d 658", "58 Wn. App. 588", "599 P.2d 1289", "666 P.2d 888", "68 P.3d 1099", "73 Wn.2d 348", "731 P.2d 1094", "79 Wn. App. 93", "794 P.2d 526", "900 P.2d 595", "92 Wn.2d 576", "93 Wn. App. 682", "94 Wn. App. 20", "970 P.2d 755", "971 P.2d 58", "99 Wn. App. 118", "992 P.2d 1019"]
+cites_cases: ["100 Wn.2d 39", "103 Wn. App. 829", "103 Wn. App. 945", "106 Wn. App. 54", "110 Wn. App. 488", "112 Wn. App. 636", "116 Wn. App. 833", "14 P.3d 837", "148 Wn.2d 1003", "148 Wn.2d 1021", "15 P.3d 172", "150 Wn.2d 1020", "21 P.3d 1174", "41 P.3d 506", "438 P.2d 581", "46 Wn. App. 616", "50 P.3d 658", "58 Wn. App. 588", "599 P.2d 1289", "666 P.2d 888", "68 P.3d 1099", "73 Wn.2d 348", "731 P.2d 1094", "79 Wn. App. 93", "794 P.2d 526", "900 P.2d 595", "92 Wn.2d 576", "93 Wn. App. 682", "94 Wn. App. 20", "970 P.2d 755", "971 P.2d 58", "99 Wn. App. 118", "992 P.2d 1019"]
 ---
 
 # Showalter v. Oats
