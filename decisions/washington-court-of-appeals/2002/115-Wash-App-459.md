@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49188-1-I"
 decided: "2002-11-25"
-citations: ["115 Wash. App. 459", "114 Wash. App. 1047"]
+citations: ["115 Wash. App. 459"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John Citoli, Appellant, v. The City of Seattle, et al., Respondents."
 source_url: "https://static.case.law/wash-app/115/cases/0459-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 221897
-cites_cases: ["105 Wn.2d 302", "105 Wn.2d 579", "108 Wn.2d 262", "110 Wn.2d 355", "112 Wn.2d 216", "113 Wn.2d 479", "114 Wn.2d 271", "115 Wn. App. 459", "119 Wn.2d 1", "120 U.S. 227", "120 Wn.2d 120", "130 Wn.2d 726", "134 Wn.2d 491", "136 Wn.2d 87", "144 Wn.2d 556", "149 Wn.2d 1033", "192 F.3d 826", "29 P.3d 709", "344 U.S. 149", "395 U.S. 85", "40 Wn. App. 854", "42 U.S.C. § 1983", "436 U.S. 658", "443 U.S. 137", "477 U.S. 317", "490 U.S. 386", "530 P.2d 291", "55 Wn. App. 241", "56 Wn. App. 275", "63 Wn. App. 389", "647 P.2d 481", "66 Wn. App. 715", "701 P.2d 529", "707 F.2d 435", "714 P.2d 1176", "716 P.2d 879", "737 P.2d 1257", "753 P.2d 517", "770 P.2d 182", "776 P.2d 1377", "780 P.2d 1307", "783 P.2d 596", "787 P.2d 562", "79 Wn. App. 313", "819 P.2d 393", "829 P.2d 765", "834 P.2d 631", "839 P.2d 314", "85 Wn. App. 822", "85 Wn.2d 52", "88 Wn. App. 881", "901 P.2d 1065", "914 P.2d 1071", "935 P.2d 637", "94 Wn. App. 163", "947 P.2d 760", "951 P.2d 761", "960 P.2d 912", "97 L. Ed. 157", "97 Wn.2d 466", "972 P.2d 481"]
+cites_cases: ["105 Wn.2d 302", "105 Wn.2d 579", "108 Wn.2d 262", "110 Wn.2d 355", "112 Wn.2d 216", "113 Wn.2d 479", "114 Wn.2d 271", "119 Wn.2d 1", "120 U.S. 227", "120 Wn.2d 120", "130 Wn.2d 726", "134 Wn.2d 491", "136 Wn.2d 87", "144 Wn.2d 556", "149 Wn.2d 1033", "192 F.3d 826", "29 P.3d 709", "344 U.S. 149", "395 U.S. 85", "40 Wn. App. 854", "42 U.S.C. § 1983", "436 U.S. 658", "443 U.S. 137", "477 U.S. 317", "490 U.S. 386", "530 P.2d 291", "55 Wn. App. 241", "56 Wn. App. 275", "63 Wn. App. 389", "647 P.2d 481", "66 Wn. App. 715", "701 P.2d 529", "707 F.2d 435", "714 P.2d 1176", "716 P.2d 879", "737 P.2d 1257", "753 P.2d 517", "770 P.2d 182", "776 P.2d 1377", "780 P.2d 1307", "783 P.2d 596", "787 P.2d 562", "79 Wn. App. 313", "819 P.2d 393", "829 P.2d 765", "834 P.2d 631", "839 P.2d 314", "85 Wn. App. 822", "85 Wn.2d 52", "88 Wn. App. 881", "901 P.2d 1065", "914 P.2d 1071", "935 P.2d 637", "94 Wn. App. 163", "947 P.2d 760", "951 P.2d 761", "960 P.2d 912", "97 L. Ed. 157", "97 Wn.2d 466", "972 P.2d 481"]
 ---
 
 # Citoli v. City of Seattle
