@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19020-0-III"
 decided: "2001-04-12"
-citations: ["106 Wash. App. 12", "105 Wash. App. 1048"]
+citations: ["106 Wash. App. 12"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James Francis Lavigne, Appellant, v. Ron S. Green, et al., Respondent
 source_url: "https://static.case.law/wash-app/106/cases/0012-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240303
-cites_cases: ["106 Wn. App. 12", "275 P.2d 729", "35 Wn. App. 169", "45 Wn.2d 430", "665 P.2d 1383", "67 Wn. App. 176", "69 Wn. App. 865", "70 Wn. App. 734", "71 Wn. App. 35", "74 Wn. App. 81", "850 P.2d 1357", "855 P.2d 335", "856 P.2d 706", "858 P.2d 1110", "871 P.2d 1123", "93 Wn. App. 579", "969 P.2d 1106", "99 Wn. App. 692", "994 P.2d 911"]
+cites_cases: ["275 P.2d 729", "35 Wn. App. 169", "45 Wn.2d 430", "665 P.2d 1383", "67 Wn. App. 176", "69 Wn. App. 865", "70 Wn. App. 734", "71 Wn. App. 35", "74 Wn. App. 81", "850 P.2d 1357", "855 P.2d 335", "856 P.2d 706", "858 P.2d 1110", "871 P.2d 1123", "93 Wn. App. 579", "969 P.2d 1106", "99 Wn. App. 692", "994 P.2d 911"]
 ---
 
 # Lavigne v. Green
