@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33091-8-I"
 decided: "1995-01-30"
-citations: ["77 Wash. App. 294", "76 Wash. App. 1081"]
+citations: ["77 Wash. App. 294"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Charles W. Kloss, Respondent, v. Honeywell, Inc., Appellant."]
 source_url: "https://static.case.law/wash-app/77/cases/0294-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415726
-cites_cases: ["104 Wn.2d 105", "114 Wn.2d 572", "115 Ariz. 338", "117 Wn.2d 426", "123 Wn.2d 1012", "123 Wn.2d 93", "145 Tex. 399", "147 Kan. 31", "156 Colo. 341", "198 S.W.2d 729", "26 Wn. App. 172", "298 P.2d 1099", "328 P.2d 671", "33 Wn. App. 838", "38 A.L.R.3d 315", "423 P.2d 624", "439 U.S. 930", "49 Wn.2d 216", "52 Wn.2d 634", "527 A.2d 282", "574 P.2d 382", "575 N.E.2d 1026", "613 P.2d 138", "638 F. Supp. 224", "658 P.2d 42", "66 Wn. App. 510", "68 Wn. App. 427", "685 P.2d 1225", "70 Wn. App. 150", "70 Wn.2d 438", "702 P.2d 459", "753 F.2d 1269", "77 Wn. App. 294", "790 P.2d 124", "815 P.2d 1362", "832 P.2d 537", "842 P.2d 1047", "855 P.2d 680", "864 P.2d 937", "89 Wn.2d 606", "94 Wn.2d 1008", "99 Wn.2d 1012"]
+cites_cases: ["104 Wn.2d 105", "114 Wn.2d 572", "115 Ariz. 338", "117 Wn.2d 426", "123 Wn.2d 1012", "123 Wn.2d 93", "145 Tex. 399", "147 Kan. 31", "156 Colo. 341", "198 S.W.2d 729", "26 Wn. App. 172", "298 P.2d 1099", "328 P.2d 671", "33 Wn. App. 838", "38 A.L.R.3d 315", "423 P.2d 624", "439 U.S. 930", "49 Wn.2d 216", "52 Wn.2d 634", "527 A.2d 282", "574 P.2d 382", "575 N.E.2d 1026", "613 P.2d 138", "638 F. Supp. 224", "658 P.2d 42", "66 Wn. App. 510", "68 Wn. App. 427", "685 P.2d 1225", "70 Wn. App. 150", "70 Wn.2d 438", "702 P.2d 459", "753 F.2d 1269", "790 P.2d 124", "815 P.2d 1362", "832 P.2d 537", "842 P.2d 1047", "855 P.2d 680", "864 P.2d 937", "89 Wn.2d 606", "94 Wn.2d 1008", "99 Wn.2d 1012"]
 ---
 
 # Kloss v. Honeywell, Inc.
