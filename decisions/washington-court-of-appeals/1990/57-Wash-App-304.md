@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11907-2-II"
 decided: "1990-02-01"
-citations: ["57 Wash. App. 304", "56 Wash. App. 1061"]
+citations: ["57 Wash. App. 304"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Howard Coble, Appellant, v. Robert L. Hollister, Jr., Respondent."]
 source_url: "https://static.case.law/wash-app/57/cases/0304-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1756982
-cites_cases: ["102 Wn.2d 874", "103 Wn.2d 1025", "113 Wn.2d 1005", "39 Wn. App. 67", "459 U.S. 1106", "461 P.2d 538", "471 U.S. 1065", "52 Wn. App. 603", "57 Wn. App. 304", "575 P.2d 230", "634 P.2d 868", "646 P.2d 113", "691 P.2d 524", "692 P.2d 834", "762 P.2d 367", "77 Wn.2d 271", "89 Wn.2d 729", "96 Wn.2d 215", "97 Wn.2d 317"]
+cites_cases: ["102 Wn.2d 874", "103 Wn.2d 1025", "113 Wn.2d 1005", "39 Wn. App. 67", "459 U.S. 1106", "461 P.2d 538", "471 U.S. 1065", "52 Wn. App. 603", "575 P.2d 230", "634 P.2d 868", "646 P.2d 113", "691 P.2d 524", "692 P.2d 834", "762 P.2d 367", "77 Wn.2d 271", "89 Wn.2d 729", "96 Wn.2d 215", "97 Wn.2d 317"]
 ---
 
 # Coble v. Hollister
