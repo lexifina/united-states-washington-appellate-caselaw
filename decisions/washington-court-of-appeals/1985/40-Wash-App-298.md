@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14138-4-I"
 decided: "1985-03-04"
-citations: ["40 Wash. App. 298", "39 Wash. App. 1065"]
+citations: ["40 Wash. App. 298"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Roderick LaRue McPherson, App
 source_url: "https://static.case.law/wash-app/40/cases/0298-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1796434
-cites_cases: ["102 Wn.2d 432", "378 U.S. 108", "393 U.S. 410", "40 Wn. App. 298", "688 P.2d 136"]
+cites_cases: ["102 Wn.2d 432", "378 U.S. 108", "393 U.S. 410", "688 P.2d 136"]
 ---
 
 # State v. McPherson
