@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7030-1-III"
 decided: "1986-04-01"
-citations: ["43 Wash. App. 634", "43 Wash. App. 1019"]
+citations: ["43 Wash. App. 634"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Welfare of R. Churape, et al. Victor Churape, Ap
 source_url: "https://static.case.law/wash-app/43/cases/0634-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1806454
-cites_cases: ["101 Wn.2d 392", "43 Wn. App. 634", "455 U.S. 745", "611 P.2d 1245", "660 P.2d 758", "664 P.2d 1245", "679 P.2d 916", "93 Wn.2d 689", "99 Wn.2d 210", "99 Wn.2d 842"]
+cites_cases: ["101 Wn.2d 392", "455 U.S. 745", "611 P.2d 1245", "660 P.2d 758", "664 P.2d 1245", "679 P.2d 916", "93 Wn.2d 689", "99 Wn.2d 210", "99 Wn.2d 842"]
 ---
 
 # Churape v. Department of Social & Health Services
