@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28355-3-I"
 decided: "1992-07-27"
-citations: ["67 Wash. App. 539", "66 Wash. App. 1049"]
+citations: ["67 Wash. App. 539"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Truck Center Corporation, Appellant, v. General Motors Corporation, e
 source_url: "https://static.case.law/wash-app/67/cases/0539-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715335
-cites_cases: ["115 Wn.2d 657", "136 Mich. App. 90", "220 N.W.2d 664", "224 N.W.2d 53", "31 Wn. App. 542", "346 Mich. 106", "356 N.W.2d 281", "392 Mich. 195", "435 Mich. 791", "460 N.W.2d 207", "50 Wn. App. 1", "644 P.2d 680", "656 P.2d 1030", "67 Wn. App. 539", "747 P.2d 475", "77 N.W.2d 384", "801 P.2d 222", "98 Wn.2d 434"]
+cites_cases: ["115 Wn.2d 657", "136 Mich. App. 90", "220 N.W.2d 664", "224 N.W.2d 53", "31 Wn. App. 542", "346 Mich. 106", "356 N.W.2d 281", "392 Mich. 195", "435 Mich. 791", "460 N.W.2d 207", "50 Wn. App. 1", "644 P.2d 680", "656 P.2d 1030", "747 P.2d 475", "77 N.W.2d 384", "801 P.2d 222", "98 Wn.2d 434"]
 ---
 
 # Truck Center Corp. v. General Motors Corp.
