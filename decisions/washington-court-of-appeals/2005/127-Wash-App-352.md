@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31413-4-II"
 decided: "2005-04-05"
-citations: ["127 Wash. App. 352", "126 Wash. App. 1053"]
+citations: ["127 Wash. App. 352"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Shamarr Derrick Parker, Appel
 source_url: "https://static.case.law/wash-app/127/cases/0352-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2464329
-cites_cases: ["120 Wn.2d 631", "127 Wn. App. 352", "24 Wn. App. 908", "510 U.S. 944", "604 P.2d 1312", "691 F.2d 1159", "73 Wn. App. 644", "77 Wn. App. 222", "802 F.2d 115", "845 P.2d 289", "871 P.2d 621", "889 P.2d 956", "91 Wn. App. 35", "955 P.2d 805"]
+cites_cases: ["120 Wn.2d 631", "24 Wn. App. 908", "510 U.S. 944", "604 P.2d 1312", "691 F.2d 1159", "73 Wn. App. 644", "77 Wn. App. 222", "802 F.2d 115", "845 P.2d 289", "871 P.2d 621", "889 P.2d 956", "91 Wn. App. 35", "955 P.2d 805"]
 ---
 
 # State v. Parker
