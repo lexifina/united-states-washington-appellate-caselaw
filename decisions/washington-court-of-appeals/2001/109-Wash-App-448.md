@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26014-0-II"
 decided: "2001-11-09"
-citations: ["109 Wash. App. 448", "109 Wash. App. 1010"]
+citations: ["109 Wash. App. 448"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Russell O. Terry, et al., Appellants, v. The City of Tacoma, et al., 
 source_url: "https://static.case.law/wash-app/109/cases/0448-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1013722
-cites_cases: ["100 Wn. App. 324", "100 Wn.2d 788", "109 Wn. App. 448", "120 Wn.2d 585", "133 Wn.2d 804", "135 Wn.2d 193", "137 Wn.2d 84", "139 Wn.2d 1023", "141 Wn.2d 1005", "141 Wn.2d 1031", "146 Wn.2d 1012", "26 Wn. App. 391", "32 Wn. App. 150", "42 U.S.C. § 1983", "530 P.2d 309", "555 P.2d 1368", "612 P.2d 828", "646 P.2d 151", "674 P.2d 1251", "845 P.2d 971", "85 Wn.2d 133", "87 Wn.2d 626", "947 P.2d 721", "955 P.2d 791", "96 Wn. App. 636", "969 P.2d 446", "97 Wn. App. 375", "97 Wn. App. 977", "980 P.2d 311", "984 P.2d 417", "988 P.2d 1009", "995 P.2d 614"]
+cites_cases: ["100 Wn. App. 324", "100 Wn.2d 788", "120 Wn.2d 585", "133 Wn.2d 804", "135 Wn.2d 193", "137 Wn.2d 84", "139 Wn.2d 1023", "141 Wn.2d 1005", "141 Wn.2d 1031", "146 Wn.2d 1012", "26 Wn. App. 391", "32 Wn. App. 150", "42 U.S.C. § 1983", "530 P.2d 309", "555 P.2d 1368", "612 P.2d 828", "646 P.2d 151", "674 P.2d 1251", "845 P.2d 971", "85 Wn.2d 133", "87 Wn.2d 626", "947 P.2d 721", "955 P.2d 791", "96 Wn. App. 636", "969 P.2d 446", "97 Wn. App. 375", "97 Wn. App. 977", "980 P.2d 311", "984 P.2d 417", "988 P.2d 1009", "995 P.2d 614"]
 ---
 
 # Terry v. City of Tacoma
