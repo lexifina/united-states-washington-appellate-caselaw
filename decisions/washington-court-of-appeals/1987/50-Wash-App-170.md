@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18777-5-I"
 decided: "1987-10-05"
-citations: ["50 Wash. App. 170", "49 Wash. App. 1038"]
+citations: ["50 Wash. App. 170"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Everett Lee Jordan, Appellant
 source_url: "https://static.case.law/wash-app/50/cases/0170-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1706446
-cites_cases: ["105 Wn.2d 1015", "33 Wn. App. 853", "371 U.S. 471", "392 U.S. 1", "414 U.S. 218", "42 Wn. App. 573", "50 Wn. App. 170", "578 P.2d 527", "658 P.2d 53", "712 P.2d 319", "90 Wn.2d 45"]
+cites_cases: ["105 Wn.2d 1015", "33 Wn. App. 853", "371 U.S. 471", "392 U.S. 1", "414 U.S. 218", "42 Wn. App. 573", "578 P.2d 527", "658 P.2d 53", "712 P.2d 319", "90 Wn.2d 45"]
 ---
 
 # State v. Jordan
