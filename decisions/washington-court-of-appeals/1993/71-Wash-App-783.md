@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32464-1-I"
 decided: "1993-10-25"
-citations: ["71 Wash. App. 783", "71 Wash. App. 1041"]
+citations: ["71 Wash. App. 783"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James C. Schelinski, Respondent, v. Midwest Mutual Insurance Company,
 source_url: "https://static.case.law/wash-app/71/cases/0783-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787091
-cites_cases: ["103 Wn.2d 1027", "106 Wn.2d 1011", "111 Wn.2d 636", "113 Wn.2d 330", "119 Wn.2d 724", "121 Wn.2d 869", "39 Wn. App. 263", "42 Wn. App. 503", "43 Wn. App. 467", "43 Wn. App. 852", "517 P.2d 966", "693 P.2d 130", "71 Wn. App. 783", "711 P.2d 1105", "717 P.2d 793", "719 P.2d 1345", "762 P.2d 1141", "779 P.2d 249", "83 Wn.2d 353", "837 P.2d 1000", "854 P.2d 622"]
+cites_cases: ["103 Wn.2d 1027", "106 Wn.2d 1011", "111 Wn.2d 636", "113 Wn.2d 330", "119 Wn.2d 724", "121 Wn.2d 869", "39 Wn. App. 263", "42 Wn. App. 503", "43 Wn. App. 467", "43 Wn. App. 852", "517 P.2d 966", "693 P.2d 130", "711 P.2d 1105", "717 P.2d 793", "719 P.2d 1345", "762 P.2d 1141", "779 P.2d 249", "83 Wn.2d 353", "837 P.2d 1000", "854 P.2d 622"]
 ---
 
 # Schelinski v. Midwest Mutual Insurance
