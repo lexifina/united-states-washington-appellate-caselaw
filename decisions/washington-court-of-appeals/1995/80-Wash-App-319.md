@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35363-2-I"
 decided: "1995-12-27"
-citations: ["80 Wash. App. 319", "80 Wash. App. 1012"]
+citations: ["80 Wash. App. 319"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Fred Thatcher, Appellant, v. The Department of Social and Health Serv
 source_url: "https://static.case.law/wash-app/80/cases/0319-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 420824
-cites_cases: ["112 Wn.2d 347", "15 U.S.C. § 1672", "417 U.S. 642", "586 F.2d 107", "771 P.2d 330", "80 Wn. App. 319"]
+cites_cases: ["112 Wn.2d 347", "15 U.S.C. § 1672", "417 U.S. 642", "586 F.2d 107", "771 P.2d 330"]
 ---
 
 # Thatcher v. Department of Social & Health Services
