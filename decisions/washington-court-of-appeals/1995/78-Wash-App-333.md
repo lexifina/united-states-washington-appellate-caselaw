@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35229-6-I"
 decided: "1995-05-30"
-citations: ["78 Wash. App. 333", "78 Wash. App. 1004"]
+citations: ["78 Wash. App. 333"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Concerned Citizens of Hospital District No. 304, Appellant, v. Board 
 source_url: "https://static.case.law/wash-app/78/cases/0333-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 426162
-cites_cases: ["104 Wn.2d 1", "108 Wn.2d 545", "112 Wn.2d 841", "113 S. Ct. 676", "114 Wn.2d 572", "118 Wn.2d 1", "119 Wn.2d 1", "119 Wn.2d 1008", "119 Wn.2d 34", "120 Wash. 372", "123 Wn.2d 1003", "127 Wn.2d 1024", "147 Wash. 242", "207 P. 607", "249 Ga 678", "26 Wn. App. 156", "265 P. 477", "292 S.E.2d 855", "339 A.2d 233", "346 A.2d 611", "37 Wn. App. 677", "406 P.2d 595", "419 F. Supp. 809", "42 U.S.C. § 1983", "44 Wn. App. 674", "49 Wn. App. 609", "503 P.2d 86", "521 P.2d 736", "552 P.2d 163", "552 P.2d 184", "576 P.2d 888", "612 P.2d 430", "64 Wn. App. 768", "655 P.2d 245", "656 P.2d 1030", "67 Wn.2d 132", "681 P.2d 1312", "69 Wn. App. 655", "700 P.2d 1143", "723 P.2d 475", "741 P.2d 11", "744 P.2d 1101", "774 P.2d 516", "78 Wn. App. 333", "790 P.2d 124", "81 Wn.2d 551", "820 P.2d 497", "827 P.2d 1017", "829 P.2d 765", "83 Wn.2d 618", "830 P.2d 318", "850 P.2d 546", "87 Wn.2d 232", "87 Wn.2d 338", "89 Wn.2d 855", "98 Wn.2d 375", "98 Wn.2d 434"]
+cites_cases: ["104 Wn.2d 1", "108 Wn.2d 545", "112 Wn.2d 841", "113 S. Ct. 676", "114 Wn.2d 572", "118 Wn.2d 1", "119 Wn.2d 1", "119 Wn.2d 1008", "119 Wn.2d 34", "120 Wash. 372", "123 Wn.2d 1003", "127 Wn.2d 1024", "147 Wash. 242", "207 P. 607", "249 Ga 678", "26 Wn. App. 156", "265 P. 477", "292 S.E.2d 855", "339 A.2d 233", "346 A.2d 611", "37 Wn. App. 677", "406 P.2d 595", "419 F. Supp. 809", "42 U.S.C. § 1983", "44 Wn. App. 674", "49 Wn. App. 609", "503 P.2d 86", "521 P.2d 736", "552 P.2d 163", "552 P.2d 184", "576 P.2d 888", "612 P.2d 430", "64 Wn. App. 768", "655 P.2d 245", "656 P.2d 1030", "67 Wn.2d 132", "681 P.2d 1312", "69 Wn. App. 655", "700 P.2d 1143", "723 P.2d 475", "741 P.2d 11", "744 P.2d 1101", "774 P.2d 516", "790 P.2d 124", "81 Wn.2d 551", "820 P.2d 497", "827 P.2d 1017", "829 P.2d 765", "83 Wn.2d 618", "830 P.2d 318", "850 P.2d 546", "87 Wn.2d 232", "87 Wn.2d 338", "89 Wn.2d 855", "98 Wn.2d 375", "98 Wn.2d 434"]
 ---
 
 # Concerned Citizens of Hospital District No. 304 v. Board of Commissioners of Public Hospital District No. 304
