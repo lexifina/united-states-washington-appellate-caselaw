@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47328-0-I"
 decided: "2001-07-16"
-citations: ["107 Wash. App. 748", "107 Wash. App. 1011"]
+citations: ["107 Wash. App. 748"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James W. Wilkerson, Petitione
 source_url: "https://static.case.law/wash-app/107/cases/0748-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543428
-cites_cases: ["107 Wn. App. 748", "375 P.2d 143", "400 U.S. 25", "60 Wn.2d 702", "97 Wn. App. 257", "983 P.2d 687"]
+cites_cases: ["375 P.2d 143", "400 U.S. 25", "60 Wn.2d 702", "97 Wn. App. 257", "983 P.2d 687"]
 ---
 
 # State v. Wilkerson
