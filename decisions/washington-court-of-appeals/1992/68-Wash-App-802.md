@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27542-9-I"
 decided: "1992-12-14"
-citations: ["68 Wash. App. 802", "68 Wash. App. 1003"]
+citations: ["68 Wash. App. 802"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James Flora, Petitioner."]
 source_url: "https://static.case.law/wash-app/68/cases/0802-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725234
-cites_cases: ["113 Wn.2d 346", "114 Wn.2d 828", "119 Wn.2d 178", "21 Wn. App. 855", "23 Wn. App. 301", "23 Wn. App. 826", "23 Wn. App. 869", "389 U.S. 347", "419 U.S. 849", "48 Wn. App. 48", "511 P.2d 1013", "559 P.2d 548", "587 P.2d 179", "597 P.2d 899", "598 P.2d 756", "598 P.2d 783", "613 P.2d 1139", "664 P.2d 466", "68 Wn. App. 803", "738 P.2d 281", "779 P.2d 697", "791 P.2d 897", "829 P.2d 1061", "83 Wn.2d 1003", "88 Wn.2d 221", "9 Wn. App. 260", "92 Wn.2d 1006", "93 Wn.2d 823", "99 Wn.2d 501"]
+cites_cases: ["113 Wn.2d 346", "114 Wn.2d 828", "119 Wn.2d 178", "21 Wn. App. 855", "23 Wn. App. 301", "23 Wn. App. 826", "23 Wn. App. 869", "389 U.S. 347", "419 U.S. 849", "48 Wn. App. 48", "511 P.2d 1013", "559 P.2d 548", "587 P.2d 179", "597 P.2d 899", "598 P.2d 756", "598 P.2d 783", "613 P.2d 1139", "664 P.2d 466", "738 P.2d 281", "779 P.2d 697", "791 P.2d 897", "829 P.2d 1061", "83 Wn.2d 1003", "88 Wn.2d 221", "9 Wn. App. 260", "92 Wn.2d 1006", "93 Wn.2d 823", "99 Wn.2d 501"]
 ---
 
 # State v. Flora
