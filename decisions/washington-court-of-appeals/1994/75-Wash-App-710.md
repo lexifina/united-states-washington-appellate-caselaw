@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15643-1-II"
 decided: "1994-06-27"
-citations: ["75 Wash. App. 710", "74 Wash. App. 1059"]
+citations: ["75 Wash. App. 710"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Sandra L. Watters, Appellant, v. Aberdeen Recreation, Inc., Responden
 source_url: "https://static.case.law/wash-app/75/cases/0710-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11978099
-cites_cases: ["100 Wn.2d 39", "116 Wn.2d 452", "118 Wn.2d 476", "121 Wn.2d 52", "122 Wn.2d 371", "123 Wn.2d 351", "509 U.S. 579", "666 P.2d 888", "70 Wn. App. 213", "75 Wn. App. 710", "805 P.2d 793", "824 P.2d 483", "847 P.2d 440", "853 P.2d 473", "858 P.2d 245", "869 P.2d 43"]
+cites_cases: ["100 Wn.2d 39", "116 Wn.2d 452", "118 Wn.2d 476", "121 Wn.2d 52", "122 Wn.2d 371", "123 Wn.2d 351", "509 U.S. 579", "666 P.2d 888", "70 Wn. App. 213", "805 P.2d 793", "824 P.2d 483", "847 P.2d 440", "853 P.2d 473", "858 P.2d 245", "869 P.2d 43"]
 ---
 
 # Watters v. Aberdeen Recreation, Inc.
