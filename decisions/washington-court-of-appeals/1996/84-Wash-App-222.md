@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18829-5-II"
 decided: "1996-10-04"
-citations: ["84 Wash. App. 222", "83 Wash. App. 1032"]
+citations: ["84 Wash. App. 222"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mary Harris, et al., Appellants, v. Pierce County, et al., Respondent
 source_url: "https://static.case.law/wash-app/84/cases/0222-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121480
-cites_cases: ["117 Wn.2d 1022", "118 Wn.2d 237", "119 Wn.2d 1012", "122 Wn.2d 244", "123 Wn.2d 1009", "125 Wn.2d 1025", "28 Wn. App. 230", "33 Wn. App. 677", "45 Wn. App. 248", "576 P.2d 401", "60 Wn. App. 787", "622 P.2d 898", "64 Wn. App. 380", "657 P.2d 790", "658 P.2d 1219", "70 Wn. App. 789", "724 P.2d 1110", "74 Wn. App. 668", "76 Wn. App. 44", "76 Wn. App. 661", "810 P.2d 507", "821 P.2d 1204", "824 P.2d 524", "84 Wn. App. 222", "855 P.2d 706", "857 P.2d 1039", "875 P.2d 681", "882 P.2d 807", "886 P.2d 1136", "89 Wn.2d 862", "98 Wn.2d 650"]
+cites_cases: ["117 Wn.2d 1022", "118 Wn.2d 237", "119 Wn.2d 1012", "122 Wn.2d 244", "123 Wn.2d 1009", "125 Wn.2d 1025", "28 Wn. App. 230", "33 Wn. App. 677", "45 Wn. App. 248", "576 P.2d 401", "60 Wn. App. 787", "622 P.2d 898", "64 Wn. App. 380", "657 P.2d 790", "658 P.2d 1219", "70 Wn. App. 789", "724 P.2d 1110", "74 Wn. App. 668", "76 Wn. App. 44", "76 Wn. App. 661", "810 P.2d 507", "821 P.2d 1204", "824 P.2d 524", "855 P.2d 706", "857 P.2d 1039", "875 P.2d 681", "882 P.2d 807", "886 P.2d 1136", "89 Wn.2d 862", "98 Wn.2d 650"]
 ---
 
 # Harris v. Pierce County
