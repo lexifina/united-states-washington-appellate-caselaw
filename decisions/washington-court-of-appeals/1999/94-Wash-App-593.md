@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23230-8-II"
 decided: "1999-02-12"
-citations: ["94 Wash. App. 593", "93 Wash. App. 1091"]
+citations: ["94 Wash. App. 593"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Overhulse Neighborhood Association, et al., Appellants, v. Thurston C
 source_url: "https://static.case.law/wash-app/94/cases/0593-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83079
-cites_cases: ["102 Wn.2d 874", "103 Wn.2d 383", "105 Wn.2d 133", "115 Wn.2d 194", "122 Wn.2d 738", "127 Wn.2d 614", "131 Wn.2d 547", "135 Wn.2d 1008", "135 Wn.2d 542", "504 P.2d 1124", "53 Wn. App. 330", "530 P.2d 298", "691 P.2d 524", "693 P.2d 683", "712 P.2d 296", "766 P.2d 1107", "796 P.2d 412", "81 Wn.2d 731", "85 Wn.2d 78", "863 P.2d 535", "87 Wn. App. 703", "902 P.2d 1247", "92 Wn. App. 146", "933 P.2d 1025", "94 Wn. App. 593", "943 P.2d 341", "958 P.2d 962", "960 P.2d 998"]
+cites_cases: ["102 Wn.2d 874", "103 Wn.2d 383", "105 Wn.2d 133", "115 Wn.2d 194", "122 Wn.2d 738", "127 Wn.2d 614", "131 Wn.2d 547", "135 Wn.2d 1008", "135 Wn.2d 542", "504 P.2d 1124", "53 Wn. App. 330", "530 P.2d 298", "691 P.2d 524", "693 P.2d 683", "712 P.2d 296", "766 P.2d 1107", "796 P.2d 412", "81 Wn.2d 731", "85 Wn.2d 78", "863 P.2d 535", "87 Wn. App. 703", "902 P.2d 1247", "92 Wn. App. 146", "933 P.2d 1025", "943 P.2d 341", "958 P.2d 962", "960 P.2d 998"]
 ---
 
 # Overhulse Neighborhood Ass'n v. Thurston County
