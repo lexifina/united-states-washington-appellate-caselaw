@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "43946-4-I"
+decided: "1999-09-20"
+citations: ["97 Wash. App. 1042"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Zachary Kincaid Tutwiler, Appellant."]
+source_url: "https://static.case.law/wash-app/97/cases/1042-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 183944
+---
+
+# State v. Tutwiler
+
+## Majority
+
+Appeal from a judgment of the Superior Court for King County, No. 98-1-02972-9, Charles W. Mertel, J., entered December 29, 1998. Remanded by unpublished per curiam opinion.
