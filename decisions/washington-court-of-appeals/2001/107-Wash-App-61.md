@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19224-5-III"
 decided: "2001-05-29"
-citations: ["107 Wash. App. 61", "106 Wash. App. 1033"]
+citations: ["107 Wash. App. 61"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Basin Paving Company, Plaintiff, v. Mike M. Johnson, Inc., Appellant,
 source_url: "https://static.case.law/wash-app/107/cases/0061-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543039
-cites_cases: ["107 Wn. App. 61", "116 P.2d 280", "135 Wn.2d 658", "145 Wn.2d 1018", "20 Wn. App. 321", "27 Wn. App. 86", "399 P.2d 611", "40 Wn. App. 98", "484 P.2d 399", "57 Wn. App. 170", "582 P.2d 511", "615 P.2d 1332", "65 Wn.2d 817", "67 Wn. App. 766", "696 P.2d 1270", "787 P.2d 58", "79 Wn.2d 214", "840 P.2d 198", "9 Wn.2d 666", "958 P.2d 301"]
+cites_cases: ["116 P.2d 280", "135 Wn.2d 658", "145 Wn.2d 1018", "20 Wn. App. 321", "27 Wn. App. 86", "399 P.2d 611", "40 Wn. App. 98", "484 P.2d 399", "57 Wn. App. 170", "582 P.2d 511", "615 P.2d 1332", "65 Wn.2d 817", "67 Wn. App. 766", "696 P.2d 1270", "787 P.2d 58", "79 Wn.2d 214", "840 P.2d 198", "9 Wn.2d 666", "958 P.2d 301"]
 ---
 
 # Basin Paving Co. v. Mike M. Johnson, Inc.
