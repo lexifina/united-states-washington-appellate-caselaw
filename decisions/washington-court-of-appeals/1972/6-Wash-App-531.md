@@ -1,0 +1,53 @@
+---
+court: "Washington Court of Appeals"
+docket: "595-1"
+decided: "1972-03-06"
+citations: ["6 Wash. App. 531"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Gary Wayne Toliver, Appellant."]
+source_url: "https://static.case.law/wash-app/6/cases/0531-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1864352
+cites_cases: ["1 Wn. App. 553", "10 A.L.R.3d 974", "2 Wn.2d 118", "235 P.2d 165", "3 Wn. App. 491", "3 Wn. App. 495", "3 Wn. App. 691", "30 L. Ed. 2d 259", "353 P.2d 155", "384 U.S. 436", "39 Wn.2d 258", "4 Wn. App. 321", "4 Wn. App. 614", "404 P.2d 469", "404 U.S. 944", "406 P.2d 941", "413 P.2d 965", "418 P.2d 246", "444 P.2d 796", "448 P.2d 505", "449 P.2d 107", "463 P.2d 205", "464 P.2d 723", "475 P.2d 797", "475 P.2d 887", "477 P.2d 182", "481 P.2d 20", "483 P.2d 642", "56 Wn.2d 368", "66 Wn.2d 687", "67 Wn.2d 185", "68 Wn.2d 517", "69 Wn.2d 295", "74 Wn.2d 269", "75 Wn.2d 57", "75 Wn.2d 92", "77 Wn.2d 593", "92 S. Ct. 296", "98 P.2d 647"]
+---
+
+# State v. Toliver
+
+## Majority (Callow, J.)
+
+Callow, J.
+The defendant was driving his automobile northbound on Aurora Avenue in the city of Seattle, a section of white picket fence dragging behind. A motorcycle officer of the Seattle Police Department saw this, stopped the car, and asked to see the defendant’s driver’s license. The defendant produced a California license issued to one Erdmann and then pointed a cocked revolver at the officer. The officer grabbed for the weapon and, placing his thumb in front of the hammer of the gun, pulled the defendant from the car with the other hand and placed him under arrest. The passenger in the automobile was the individual Erdmann who, at the time of the arrest of the defendant, departed forthwith.
+The defendant was convicted of assault in the second degree, with the jury finding that he had been armed with a deadly weapon.
+The defendant raises three assignments of error:
+1. The denial of a continuance;
+2. The admission of statements made by the defendant shortly after his arrest; and
+3. The wording of instruction No. 5 which defined assault in the second degree.
+Defense counsel learned of the whereabouts of Erdmann prior to trial and was informed that he could contact him through the defendant’s fiancee. When defense counsel contacted her, she assured him that the witness would testify. On the morning of the trial, the court recessed until following the noon hour to allow defense counsel to contact and speak with the witness. Erdmann told him that he would not testify if he might be arrested. Defense counsel candidly told the witness there were outstanding warrants for his arrest.
+When informed of this, the trial court caused a material witness warrant to issue but denied a further continuance. Trial proceeded that afternoon. Erdmann did not appear.
+A motion for continuance is addressed to the discretion of the trial court, and its decision will not be set aside except for manifest abuse. State v. Miles, 77 Wn.2d 593, 464 P.2d 723 (1970); State v. Parker, 74 Wn.2d 269, 444 P.2d 796 (1968). Due diligence must be exercised to secure the attendance of a witness, and that due diligence includes the issuance of a subpoena and the taking of necessary steps to enforce attendance. State v. Fortson, 75 Wn.2d 57, 448 P.2d 505 (1968). The defense counsel did not show that he had made timely use of the legal mechanisms available to compel the witness’ presence in court. State v. Smith, 56 Wn.2d 368, 353 P.2d 155 (1960).
+Further, unless there is compliance with RCW 10.46.080, which requires that a written affidavit support a motion for a continuance on the ground of absence of evidence, setting forth the materiality and substance of the evidence, the name and residence of the witness and that due diligence has been used, it cannot be said that the trial court has abused its discretion. State v. Baker, 4 Wn. App. 614, 483 P.2d 642 (1971).
+Following the arrest, the officer advised the defendant of his constitutional rights and transported him to the Public Safety Building in a patrol car. The officer testified: “En route to the station he was stating I was lucky, that I should have been a dead cop . . .” This statement was not in response to any question, but was volunteered. It is claimed that the prosecution, prior to the introduction of such evidence, must make an offer of proof, in the absence of the jury, that such a statement was freely given and not the product of force or influence. It is claimed further that, being a statement made in custody, it should have been excluded under the rules set forth in Miranda v. Arizona, 384 U.S. 436, 16 L. Ed. 2d 694, 86 S. Ct. 1602, 10 A.L.R.3d 974 (1966).
+Prior to introducing evidence of any custodial statement, the prosecution must offer to prove that the statement was freely given and not the product of coercion. State v. Ratow, 4 Wn. App. 321, 481 P.2d 20 (1971), cert. denied, 404 U.S. 944, 30 L. Ed. 2d 259, 92 S. Ct. 296 (1971); State v. Woods, 3 Wn. App. 691, 477 P.2d 182 (1970). The procedure for offering such proof is set out in CrR 101.20W.
+State v. Lopez, 67 Wn.2d 185, 188, 406 P.2d 941 (1965), set forth the objectives of a hearing under CrR 101.20W as:
+(1) to avoid the prejudicial impact upon the jury of a confession which, under the former practice, might be deemed involuntary by the court, but which, nevertheless, would be presented to the jury, and (2) to insure to the defendant all rights which he might have under the Fifth Amendment to refuse to testify in his own behalf.
+Defendant argues that this case must be remanded because no hearing was held. While the provisions of CrR 101.20W are mandatory, State v. Shelby, 69 Wn.2d 295, 418 P.2d 246 (1966); State v. Taplin, 66 Wn.2d 687, 404 P.2d 469 (1965), statements which would be otherwise admissible do not become inadmissible solely because a CrR 101.20W hearing was not held. State v. Baker, 68 Wn.2d 517, 413 P.2d 965 (1966). If a review of the record discloses that there can be no issue concerning voluntariness, rights have not been violated by failure to hold such a hearing. State v. Booth, 75 Wn.2d 92, 449 P.2d 107 (1968); State v. Lopez, supra.
+Statements which are freely given are voluntary. If they are likewise spontaneous, unsolicited and not the product of custodial interrogation, they are not coerced within the concept of Miranda. State v. Ratow, supra.
+Further, at the commencement of the proceedings a hearing was held in the absence of the jury concerning the admission of certain physical evidence. During this hearing, mention was made of similar spontaneous statements of the defendant’s made during the trip to the Public Safety Building. Defense counsel was thus on notice but did not pursue the issue and did not request a hearing on the admissibility of such statements. Under such circumstances counsel must be held to have knowingly and intentionally waived the formality of a CrR 101.20W hearing. State v. Woods, supra; State v. Haverty, 3 Wn. App. 495, 475 P.2d 887 (1970).
+Defendant assigns error to the court’s instruction No. 5 concerning assault in the second degree.
+RCW 9.11.020 reads in part as follows:
+Assault in the second degree — How punished. Every person who, under circumstances not amounting to assault in the first degree—
+(3) Shall wilfully inflict grievous bodily , harm upon another with or without a weapon; or
+(4) Shall wilfully assault another with a weapon or other instrument or thing likely to produce bodily harm; or . . .
+Instruction No. 5 read as follows:
+A statute of the state of Washington provides:
+“Under the law of this state, every person who shall assault another and thereby willfully inflict grievous bodily harm upon such other person with a weapon is guilty of assault in the second degree.”
+The law in relation to the above quoted statute as to this case is as follows:
+An Assault is an attempt intentionally to use force unlawfully or inflict bodily injury upon another, accompanied with the apparent present ability to give effect to the attempt if not prevented. There must be some power, actual, or apparent, of doing bodily harm, but apparent power is sufficient, and one who intentionally points at another an apparently loaded gun, if these facts have been proven beyond a reasonable doubt, commits an assault with a weapon likely to produce bodily harm, even though the gun was not fired.
+The instruction sets forth subsection (3) and then paraphrases, defines, elaborates upon and explains subsection (4) of the statute in the context of the case. The information charged the defendant under subsection (4) only. Defendant claims the instruction allowed the jury to find him guilty of a crime with which he was not charged.
+• Each instruction must be read in the light of all the instructions given, and the instructions considered as a whole. State v. Gilbert, 3 Wn. App. 491, 475 P.2d 797 (1970). The trial court gave three instructions which bear upon this issue. The first set forth the information which charged the defendant with assault in the second degree under subsection (4) of the statute. Next the jury was informed by instruction No. 3 that to convict the defendant of assault in the second degree, the state must prove the assault was committed with a weapon likely to produce bodily harm. Lastly, the court gave instruction No. 5, which is challenged.
+State v. Olds, 39 Wn.2d 258, 235 P.2d 165 (1951) and State v. Smith, 2 Wn.2d 118, 98 P.2d 647 (1939), cited by defendant, involved situations where an instruction defined a separate and distinct offense not specified in the information and evidence had been introduced which would sustain a conviction under such alternative. In the instant case, no evidence of grievous bodily harm was introduced and a possibly misleading alternative was absent. Hence, the first paragraph of the instruction clearly was surplus.
+The instruction in State v. Johnson, 1 Wn. App. 553, 463 P.2d 205 (1969), indicated the defendant could be convicted of driving under the influence of liquor or drugs. Since there was no contention that the defendant was under the influence of drugs and the error could not have affected the final outcome of the trial, the error in the instruction was deemed harmless. In this case, as in the Johnson case, it was not possible under the evidence to convict the defendant of a crime with which he was not charged; and therefore the error was trivial, formal and not prejudicial to his substantial rights.
+The judgment is affirmed.
+Horowitz, C. J., and Williams, J., concur.
