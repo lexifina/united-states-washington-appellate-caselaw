@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50192-5-I"
 decided: "2004-07-26"
-citations: ["124 Wash. App. 206", "122 Wash. App. 660"]
+citations: ["124 Wash. App. 206"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Michael Allen Halgren, Appellant."]
 source_url: "https://static.case.law/wash-app/124/cases/0206-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684177
-cites_cases: ["101 Wn.2d 566", "106 Wn. App. 85", "110 Wn. App. 651", "110 Wn.2d 403", "111 Wn. App. 168", "117 Wn. App. 611", "117 Wn.2d 772", "119 Wn.2d 294", "121 Wn.2d 220", "122 Wn. App. 621", "122 Wn.2d 1", "124 Wn.2d 206", "130 Wn.2d 244", "133 P. 1014", "135 Wn.2d 326", "136 Wn.2d 1021", "139 Wn.2d 341", "141 Wn.2d 431", "145 Wn.2d 275", "147 Wn.2d 476", "148 Wn.2d 1001", "149 Wn.2d 724", "150 Wn.2d 626", "154 Wn.2d 1002", "22 P.3d 283", "293 F. 1013", "36 P.3d 1034", "41 P.3d 1204", "43 P.3d 1258", "5 P.3d 1265", "509 U.S. 579", "521 U.S. 346", "541 U.S. 990", "55 P.3d 597", "553 P.2d 1328", "59 Wn. App. 651", "683 P.2d 173", "72 P.3d 186", "72 P.3d 708", "74 Wash. 510", "756 P.2d 105", "800 P.2d 1124", "81 P.3d 830", "819 P.2d 370", "831 P.2d 1060", "850 P.2d 495", "857 P.2d 989", "87 Wn.2d 374", "90 Wn. App. 890", "91 Wn. App. 219", "922 P.2d 1304", "94 P.3d 981", "954 P.2d 336", "957 P.2d 256", "957 P.2d 655", "986 P.2d 771"]
+cites_cases: ["101 Wn.2d 566", "106 Wn. App. 85", "110 Wn. App. 651", "110 Wn.2d 403", "111 Wn. App. 168", "117 Wn. App. 611", "117 Wn.2d 772", "119 Wn.2d 294", "121 Wn.2d 220", "122 Wn. App. 621", "122 Wn.2d 1", "130 Wn.2d 244", "133 P. 1014", "135 Wn.2d 326", "136 Wn.2d 1021", "139 Wn.2d 341", "141 Wn.2d 431", "145 Wn.2d 275", "147 Wn.2d 476", "148 Wn.2d 1001", "149 Wn.2d 724", "150 Wn.2d 626", "154 Wn.2d 1002", "22 P.3d 283", "293 F. 1013", "36 P.3d 1034", "41 P.3d 1204", "43 P.3d 1258", "5 P.3d 1265", "509 U.S. 579", "521 U.S. 346", "541 U.S. 990", "55 P.3d 597", "553 P.2d 1328", "59 Wn. App. 651", "683 P.2d 173", "72 P.3d 186", "72 P.3d 708", "74 Wash. 510", "756 P.2d 105", "800 P.2d 1124", "81 P.3d 830", "819 P.2d 370", "831 P.2d 1060", "850 P.2d 495", "857 P.2d 989", "87 Wn.2d 374", "90 Wn. App. 890", "91 Wn. App. 219", "922 P.2d 1304", "94 P.3d 981", "954 P.2d 336", "957 P.2d 256", "957 P.2d 655", "986 P.2d 771"]
 ---
 
 # In re the Detention of Halgren
