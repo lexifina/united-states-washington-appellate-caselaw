@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27882-7-I"
 decided: "1991-06-10"
-citations: ["62 Wash. App. 31", "61 Wash. App. 1027"]
+citations: ["62 Wash. App. 31"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Petitioner, v. Rodger P. Knutson, Respondent."]
 source_url: "https://static.case.law/wash-app/62/cases/0031-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1712204
-cites_cases: ["113 Wn.2d 823", "114 Wn.2d 724", "19 Wn. App. 860", "482 P.2d 775", "56 Wn. App. 499", "578 P.2d 74", "59 Wn. App. 763", "62 Wn. App. 31", "784 P.2d 161", "784 P.2d 554", "79 Wn.2d 12", "790 P.2d 138", "801 P.2d 274"]
+cites_cases: ["113 Wn.2d 823", "114 Wn.2d 724", "19 Wn. App. 860", "482 P.2d 775", "56 Wn. App. 499", "578 P.2d 74", "59 Wn. App. 763", "784 P.2d 161", "784 P.2d 554", "79 Wn.2d 12", "790 P.2d 138", "801 P.2d 274"]
 ---
 
 # City of Seattle v. Knutson
