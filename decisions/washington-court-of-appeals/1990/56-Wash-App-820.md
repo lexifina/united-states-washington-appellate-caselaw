@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21898-1-I"
 decided: "1990-01-03"
-citations: ["56 Wash. App. 820", "56 Wash. App. 1040"]
+citations: ["56 Wash. App. 820"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Michael P. Slattery, Appellan
 source_url: "https://static.case.law/wash-app/56/cases/0820-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1759956
-cites_cases: ["103 Wn.2d 594", "114 Wn.2d 1015", "28 Wn. App. 787", "395 U.S. 752", "403 U.S. 443", "43 Wn. App. 560", "469 U.S. 325", "52 Wn. App. 274", "558 P.2d 781", "56 Wn. App. 42", "56 Wn. App. 820", "626 P.2d 538", "694 P.2d 1078", "718 P.2d 837", "758 P.2d 1017", "782 P.2d 562", "88 Wn.2d 75"]
+cites_cases: ["103 Wn.2d 594", "114 Wn.2d 1015", "28 Wn. App. 787", "395 U.S. 752", "403 U.S. 443", "43 Wn. App. 560", "469 U.S. 325", "52 Wn. App. 274", "558 P.2d 781", "56 Wn. App. 42", "626 P.2d 538", "694 P.2d 1078", "718 P.2d 837", "758 P.2d 1017", "782 P.2d 562", "88 Wn.2d 75"]
 ---
 
 # State v. Slattery
