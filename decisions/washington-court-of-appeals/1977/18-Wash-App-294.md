@@ -1,0 +1,36 @@
+---
+court: "Washington Court of Appeals"
+docket: "4810-1"
+decided: "1977-08-01"
+citations: ["18 Wash. App. 294"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Williams and Callow, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Duane Edward Murdock, Appellant."]
+source_url: "https://static.case.law/wash-app/18/cases/0294-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 471675
+cites_cases: ["10 Wn. App. 942", "11 Wn. App. 342", "136 Wash. 312", "16 Wn. App. 77", "239 P. 1011", "312 U. S. 329", "389 U.S. 109", "395 U.S. 238", "397 U.S. 742", "426 U.S. 637", "521 P.2d 57", "522 P.2d 1159", "543 P.2d 325", "553 P.2d 1110", "86 Wn.2d 241"]
+---
+
+# State v. Murdock
+
+## Majority (Farris, C.J.)
+
+Farris, C.J.
+On July 18, 1975, a Seattle drug store was robbed by two individuals, one armed with a knife and the other with a pistol. Duane Murdock was one of the individuals. Following his arrest, he was charged by information with violations of RCW 9.75.010 (robbery) and RCW 9.95-.040 (felony while armed with a deadly weapon). A jury convicted him of robbery while armed with a deadly weapon.
+A supplemental information thereafter charged Murdock with habitual criminal status (RCW 9.92.090); a jury found him to be a habitual criminal. He appeals from judgment entered in each proceeding.
+Murdock's primary defense in his first trial was temporary insanity which he claimed was induced by heroin addiction. He argued that the overpowering compulsion to focus on the acquisition of drugs at the time of the robbery rendered him unable to distinguish either right from wrong or the moral quality of his acts. To buttress his argument, he called as a witness Dr. Laurence Halpern, a clinical consultant in neuropharmacology (the study of drugs which affect mood and behavior) at the pain clinic of the University of Washington school of medicine. Dr. Halpern holds a Ph.D. in pharmacology. He is neither a psychiatrist nor a psychologist but he was serving as a consultant to the department of anesthesiology at the medical school at the time of trial.
+Murdock's offer to elicit Dr. Halpern's opinion on the ultimate question of Murdock's sanity at the time of the robbery was denied. The State objected to the testimony on the ground that Dr. Halpern was not qualified to render the opinion. Murdock assigns error to the trial court's refusal to allow Dr. Halpern to answer the question.
+A trial court has broad discretion in determining the adequacy of an expert's qualifications. Barci v. Intalco Aluminum Corp., 11 Wn. App. 342, 522 P.2d 1159 (1974). Here, the court found Dr. Halpern qualified to testify as an expert on the effect of drugs on an individual but refused to allow him to testify on the question of Murdock's sanity at the time of the robbery. The record fails to support Murdock's allegation that in so doing the court abused its discretion. Even assuming Dr. Halpern had sufficient expertise to testify on the ultimate question of Murdock's sanity at the trial of the robbery, the offer of proof demonstrates that he was unable to render an opinion consistent with the requirements for proof of insanity currently applicable in Washington. Accordingly, his opinion was irrelevant to the issue before the jury and was properly excluded. See Aronson v. Everett, 136 Wash. 312, 239 P. 1011 (1925). Murdock also argues that the trial court erred in (1) refusing to allow him to collaterally attack the validity of prior felony convictions and (2) admitting into evidence copies of prior judgments which allegedly had not been properly authenticated and for which an inadequate foundation had been laid.
+It is generally the rule that judgments cannot be collaterally attacked. State v. Petersen, 16 Wn. App. 77, 553 P.2d 1110 (1976). There is, however, an exception to this rule which permits collateral attack when the judgment is challenged as void for lack of jurisdiction. Bresolin v. Morris, 86 Wn.2d 241, 543 P.2d 325 (1975); State v. Petersen, supra. Murdock contends that the guilty pleas entered in three previous convictions were not knowingly and intelligently made in that he was not advised of the "right he would be giving up" or of the elements of the offenses to which he was pleading guilty. He states that he simply followed his attorney's advice and pleaded guilty. He reasons that if those pleas were in fact rendered unconstitutionally, the trial court lacked jurisdiction to enter the judgments. Thus, he argues, collateral attack is permissible here because the judgments are void for lack of jurisdiction. See Burgett v. Texas, 389 U.S. 109, 19 L. Ed. 2d 319, 88 S. Ct. 258 (1967); State v. Alexander, 10 Wn. App. 942, 521 P.2d 57 (1974). See also Boykin v. Alabama, 395 U.S. 238, 23 L. Ed. 2d 274, 89 S. Ct. 1709 (1969); Brady v. United States, 397 U.S. 742, 25 L. Ed. 2d 747, 90 S. Ct. 1463 (1970); Henderson v. Morgan, 426 U.S. 637, 49 L. Ed. 2d 108, 96 S. Ct. 2253 (1976). We understand but reject the argument.
+In Henderson v. Morgan, supra, it was argued that a guilty plea entered in 1965 was involuntary because the defendant had been advised of neither the elements of the crime to which he was pleading guilty nor the penalty to which he could be sentenced. The action was commenced in United States District Court in 1970 by a petition for writ of error coram nobis. An evidentiary hearing ordered by the Court of Appeals resulted in findings that the defendant had been advised of the sentence that would be imposed but had not been advised of the elements of the offense to which he was pleading guilty. The Supreme Court upheld a reversal of the judgment entered upon the guilty plea. The court held that a plea is not voluntary unless
+the defendant received "real notice of the true nature of the charge against him, the first and most universally recognized requirement of due process." Smith v. O’Grady, 312 U. S. 329, 334.
+Henderson v. Morgan, supra at 645.
+Henderson is factually "unique" and distinguishable from the present case. Henderson v. Morgan, supra at 647. There, a trial court found that the defendant had not been properly advised, while here, the court presumed from the fact that Murdock was represented by counsel that the necessary information had been imparted. This presumption is specifically authorized in Henderson. Murdock has failed to raise a question regarding the jurisdiction of the court to enter the judgment.
+The final question then is whether the unauthenticated copies of the judgments upon which the State relied can support the finding that Murdock is a habitual criminal. The State concedes that the judgments it submitted were not authenticated as required by RCW 5.44.010, though it alleges that they comply with CR 44. Where the fact of prior conviction is contested, this failure is fatal. See State v. Alexander, supra. However, where, as here, the authenticity of the judgments is not challenged (the attack is upon the voluntariness of the guilty pleas), strict compliance with RCW 5.44.010 is waived.
+Affirmed.
+Williams and Callow, JJ., concur.
+Petition for rehearing denied September 28, 1977.
+Review granted by Supreme Court June 2, 1978.
