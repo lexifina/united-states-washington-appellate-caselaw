@@ -1,0 +1,29 @@
+---
+court: "Washington Court of Appeals"
+docket: "36291-7-I"
+decided: "1996-04-08"
+citations: ["81 Wash. App. 198"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Rickey Arlen Massey, Appellant."]
+source_url: "https://static.case.law/wash-app/81/cases/0198-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 310770
+cites_cases: ["103 Wn.2d 1", "111 Wn.2d 1006", "114 Wn.2d 1009", "42 Wn. App. 287", "45 Wn. App. 197", "45 Wn. App. 228", "471 U.S. 1094", "51 Wn. App. 202", "56 Wn. App. 236", "65 Wn. App. 239", "691 P.2d 929", "711 P.2d 1039", "723 P.2d 1209", "724 P.2d 1092", "752 P.2d 945", "783 P.2d 121", "828 P.2d 42"]
+---
+
+# State v. Massey
+
+## Majority (Coleman, J.)
+
+Coleman, J.
+Rickey Massey appeals the sentencing court’s order, which required that he submit to searches by a community corrections officer as a condition to community placement, but which did not state that searches must be based on reasonable suspicion. We affirm but strongly urge that sentencing courts include the reasonableness standard in the community placement orders.
+On October 28, 1994, Massey was charged with delivering cocaine in violation of RCW 69.5Q.401(a)(l)(i). Massey pleaded guilty by way of an Alford plea. On February 17, 1995, the court sentenced him to seven months, with credit given for 115 days served, and ordered 12 months of community supervision. The court ordered Massey not to purchase, possess, or use illegal drugs and to "submit to testing and searches of [his] person, residence and vehicle by the Community Corrections Officer to monitor compliance.” The court further ordered him not to associate with users or sellers of illegal drugs and not to "frequent areas known for drug activity, as defined in writing by the Community Corrections Officer.” Massey objected to the order at sentencing, arguing that searches must be based on reasonable cause. Massey has not been charged with violating the order.
+The sole issue on appeal is whether the sentencing court abused its discretion by ordering Massey to submit to searches without stating that a search must be based on a reasonable suspicion. Appellate review is limited to deciding whether the court abused its discretion in fashioning the order. See, e.g., State v. Morse, 45 Wn. App. 197, 199, 723 P.2d 1209 (1986).
+The unconstitutionality of a law is not ripe for review unless the person is harmfully affected by the part of the law alleged to be unconstitutional. State v. Langland, 42 Wn. App. 287, 292, 711 P.2d 1039 (1985); see State v. Phillips, 65 Wn. App. 239, 244, 828 P.2d 42 (1992) (issue of costs not ripe for review when costs imposed, but only when State attempts to collect). In Langland, the court refused to consider whether a suspended life sentence was constitutionally-prohibited cruel punishment if the suspended sentence were revoked and a life sentence imposed. Phillips, 42 Wn. App. at 292. Similarly, we hold that Massey’s claim is premature until he is subjected to a search that he deems unreasonable.
+Even if we were to reach the merits of the case, the court’s order did not violate Washington law. Washington courts have recognized an exception to the search warrant requirement to search parolees or probationers and their homes or effects. State v. Campbell, 103 Wn.2d 1, 22, 691 P.2d 929 (1984), cert. denied, 471 U.S. 1094 (1985). Warrantless searches of parolees or probationers must, however, be reasonable. RCW 9.94A.195. The search is reasonable if an officer has a well-founded suspicion that a violation has occurred. See State v. Lucas, 56 Wn. App. 236, 244, 783 P.2d 121 (1989), review denied, 114 Wn.2d 1009 (1990); State v. Lampman, 45 Wn. App. 228, 235, 724 P.2d 1092 (1986). In Lucas, the court ordered a probationer to " 'submit to a search of [his] person, residence, vehicle and other belongings when ordered to do so by the community corrections officer.’ ” Lucas, 56 Wn. App. at 237-38. When corrections officers who had recently seen marijuana in plain view and noted Lucas’s nervous, uneasy condition searched Lucas’s home, the court found that the officers had reasonable suspicion to conduct the search. Lucas, 56 Wn. App. at 244-45. Thus, officers must have a well-founded suspicion, not probable cause, to conduct searches of probationers and parolees. Lucas, 56 Wn. App. at 243-44.
+We have uncovered no Washington case, however, in which the court has required language referring to the reasonableness of a search in the order itself. In fact, the order in Lucas contained nearly identical language as the order in this case and did not include reasonableness language. See Lucas, 56 Wn. App. at 237-38. Rather, reasonableness or reasonable suspicion is a legal conclusion based upon the particular circumstances of a given case. See State v. Patterson, 51 Wn. App. 202, 204-08, 752 P.2d 945 (discussing fact-based inquiry as to reasonableness), review denied, 111 Wn.2d 1006 (1988). We note that, regardless of whether the sentencing court includes such language in its order, the standard for adjudicating a challenge to any subsequent search remains the same: Searches must be based on reasonable suspicion.
+While the failure to include the language does not affect the order’s constitutionality, we urge sentencing courts to state explicitly in the order that searches of parolees and probationers must be based on reasonable suspicion. The inclusion of such language would apprise parolees and probationers of their rights, insure the protection of those rights, and prevent confusion amongst judges, defendants, and community corrections officers concerning the applicable legal standard.
+The order of the trial court is affirmed.
+Agid and Cox, JJ., concur.
