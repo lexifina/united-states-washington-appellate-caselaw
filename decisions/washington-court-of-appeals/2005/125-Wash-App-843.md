@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53388-6-I"
 decided: "2005-01-10"
-citations: ["125 Wash. App. 843", "125 Wash. App. 1004"]
+citations: ["125 Wash. App. 843"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Martinez Melgoza & Associates, Inc., Appellant, v. The Department of 
 source_url: "https://static.case.law/wash-app/125/cases/0843-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270080
-cites_cases: ["104 Wn. App. 307", "104 Wn.2d 1004", "104 Wn.2d 662", "106 Wn. App. 333", "110 Wn.2d 128", "114 Wn.2d 454", "115 Wn.2d 1031", "116 Wn.2d 1034", "122 Wn.2d 1019", "125 Wn. App. 843", "130 Wn.2d 1009", "131 F.3d 1244", "143 Wn.2d 1020", "147 Wn.2d 114", "15 O.S.H. Cas. (BNA) 1851", "155 Wn.2d 1015", "16 P.3d 35", "168 F.3d 976", "17 O.S.H. Cas. (BNA) 1961", "17 O.S.H. Cas. (BNA) 1975", "18 O.S.H. Cas. (BNA) 1708", "182 F.3d 726", "1977 WL 8018", "1992 WL 224829", "1997 WL 197011", "1997 WL 197016", "1999 WL 236048", "20 O.S.H. Cas. (BNA) 1315", "2003 WL 21788885", "24 P.3d 424", "29 U.S.C. § 651", "29 U.S.C. § 654", "29 U.S.C. §§ 651-78", "3 F.3d 1", "381 P.2d 605", "40 Wn. App. 619", "42 Wn. App. 442", "448 U.S. 607", "5 O.S.H. Cas. (BNA) 1762", "513 F.2d 1032", "52 P.3d 472", "532 P.2d 278", "566 F.2d 596", "577 F.2d 534", "58 Wn. App. 686", "58 Wn. App. 692", "581 F.2d 493", "60 Wn. App. 125", "62 Wn.2d 136", "659 F.2d 706", "69 Wn. App. 117", "699 P.2d 814", "709 P.2d 774", "711 P.2d 1090", "728 F.2d 799", "750 P.2d 1257", "756 P.2d 142", "788 P.2d 545", "794 P.2d 859", "795 P.2d 1167", "803 P.2d 4", "81 Wn. App. 123", "847 P.2d 945", "85 Wn.2d 182", "913 P.2d 402"]
+cites_cases: ["104 Wn. App. 307", "104 Wn.2d 1004", "104 Wn.2d 662", "106 Wn. App. 333", "110 Wn.2d 128", "114 Wn.2d 454", "115 Wn.2d 1031", "116 Wn.2d 1034", "122 Wn.2d 1019", "130 Wn.2d 1009", "131 F.3d 1244", "143 Wn.2d 1020", "147 Wn.2d 114", "15 O.S.H. Cas. (BNA) 1851", "155 Wn.2d 1015", "16 P.3d 35", "168 F.3d 976", "17 O.S.H. Cas. (BNA) 1961", "17 O.S.H. Cas. (BNA) 1975", "18 O.S.H. Cas. (BNA) 1708", "182 F.3d 726", "1977 WL 8018", "1992 WL 224829", "1997 WL 197011", "1997 WL 197016", "1999 WL 236048", "20 O.S.H. Cas. (BNA) 1315", "2003 WL 21788885", "24 P.3d 424", "29 U.S.C. § 651", "29 U.S.C. § 654", "29 U.S.C. §§ 651-78", "3 F.3d 1", "381 P.2d 605", "40 Wn. App. 619", "42 Wn. App. 442", "448 U.S. 607", "5 O.S.H. Cas. (BNA) 1762", "513 F.2d 1032", "52 P.3d 472", "532 P.2d 278", "566 F.2d 596", "577 F.2d 534", "58 Wn. App. 686", "58 Wn. App. 692", "581 F.2d 493", "60 Wn. App. 125", "62 Wn.2d 136", "659 F.2d 706", "69 Wn. App. 117", "699 P.2d 814", "709 P.2d 774", "711 P.2d 1090", "728 F.2d 799", "750 P.2d 1257", "756 P.2d 142", "788 P.2d 545", "794 P.2d 859", "795 P.2d 1167", "803 P.2d 4", "81 Wn. App. 123", "847 P.2d 945", "85 Wn.2d 182", "913 P.2d 402"]
 ---
 
 # Martinez Melgoza & Associates, Inc. v. Department of Labor & Industries
