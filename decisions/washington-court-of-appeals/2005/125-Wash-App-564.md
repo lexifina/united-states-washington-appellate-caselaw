@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53085-2-I"
 decided: "2005-01-03"
-citations: ["125 Wash. App. 564", "124 Wash. App. 1055"]
+citations: ["125 Wash. App. 564"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Modern Sewer Corporation, et al., Respondents, v. Nelson Distributing
 source_url: "https://static.case.law/wash-app/125/cases/0564-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270238
-cites_cases: ["117 Wn.2d 263", "119 Wn.2d 423", "123 Wn.2d 621", "124 Wn.2d 749", "125 Wn. App. 564", "146 Wn.2d 1", "155 Wn.2d 1013", "298 F. Supp. 2d 930", "42 U.S.C. §§ 9601", "43 P.3d 4", "814 P.2d 652", "833 P.2d 375", "858 F. Supp. 1130", "869 P.2d 1034", "881 P.2d 216", "933 F. Supp. 431", "98 Wn. App. 165", "989 P.2d 1164"]
+cites_cases: ["117 Wn.2d 263", "119 Wn.2d 423", "123 Wn.2d 621", "124 Wn.2d 749", "146 Wn.2d 1", "155 Wn.2d 1013", "298 F. Supp. 2d 930", "42 U.S.C. §§ 9601", "43 P.3d 4", "814 P.2d 652", "833 P.2d 375", "858 F. Supp. 1130", "869 P.2d 1034", "881 P.2d 216", "933 F. Supp. 431", "98 Wn. App. 165", "989 P.2d 1164"]
 ---
 
 # Modern Sewer Corp. v. Nelson Distributing, Inc.
