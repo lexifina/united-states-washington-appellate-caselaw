@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27208-3-II"
 decided: "2002-04-12"
-citations: ["111 Wash. App. 566", "111 Wash. App. 1007"]
+citations: ["111 Wash. App. 566"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Paula Bond, Appellant, v. The Department of Social and Health Service
 source_url: "https://static.case.law/wash-app/111/cases/0566-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1071995
-cites_cases: ["103 Wn. App. 8", "111 Wn. App. 566", "119 Wn.2d 34", "122 Wn.2d 397", "122 Wn.2d 738", "137 Wn.2d 1028", "141 Wn.2d 1014", "19 P.3d 421", "830 P.2d 318", "858 P.2d 494", "863 P.2d 535", "92 Wn. App. 604", "965 P.2d 626", "98 Wn. App. 791", "99 Wn. App. 148", "990 P.2d 981", "992 P.2d 1023"]
+cites_cases: ["103 Wn. App. 8", "119 Wn.2d 34", "122 Wn.2d 397", "122 Wn.2d 738", "137 Wn.2d 1028", "141 Wn.2d 1014", "19 P.3d 421", "830 P.2d 318", "858 P.2d 494", "863 P.2d 535", "92 Wn. App. 604", "965 P.2d 626", "98 Wn. App. 791", "99 Wn. App. 148", "990 P.2d 981", "992 P.2d 1023"]
 ---
 
 # Bond v. Department of Social & Health Services
