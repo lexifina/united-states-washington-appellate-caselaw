@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44256-2-I"
 decided: "2000-03-06"
-citations: ["100 Wash. App. 189", "99 Wash. App. 1056"]
+citations: ["100 Wash. App. 189"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Brian Robert Beals, Appellant
 source_url: "https://static.case.law/wash-app/100/cases/0189-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363131
-cites_cases: ["100 Wn. App. 189", "113 Wn.2d 42", "117 S. Ct. 1563", "127 Wn.2d 322", "129 Wn.2d 652", "129 Wn.2d 697", "129 Wn.2d 736", "136 Wn.2d 1009", "137 L. Ed. 2d 709", "137 Wn.2d 472", "137 Wn.2d 490", "138 Wn.2d 680", "141 Wn.2d 1006", "520 U.S. 1201", "662 P.2d 853", "776 P.2d 114", "83 Wn. App. 803", "88 Wn. App. 485", "89 Wn. App. 702", "899 P.2d 1251", "921 P.2d 473", "921 P.2d 495", "921 P.2d 514", "924 P.2d 384", "945 P.2d 736", "950 P.2d 514", "973 P.2d 452", "981 P.2d 443", "99 Wn.2d 413"]
+cites_cases: ["113 Wn.2d 42", "117 S. Ct. 1563", "127 Wn.2d 322", "129 Wn.2d 652", "129 Wn.2d 697", "129 Wn.2d 736", "136 Wn.2d 1009", "137 L. Ed. 2d 709", "137 Wn.2d 472", "137 Wn.2d 490", "138 Wn.2d 680", "141 Wn.2d 1006", "520 U.S. 1201", "662 P.2d 853", "776 P.2d 114", "83 Wn. App. 803", "88 Wn. App. 485", "89 Wn. App. 702", "899 P.2d 1251", "921 P.2d 473", "921 P.2d 495", "921 P.2d 514", "924 P.2d 384", "945 P.2d 736", "950 P.2d 514", "973 P.2d 452", "981 P.2d 443", "99 Wn.2d 413"]
 ---
 
 # State v. Beals
