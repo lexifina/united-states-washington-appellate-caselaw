@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25015-2-II"
 decided: "2002-03-29"
-citations: ["111 Wash. App. 557", "110 Wash. App. 1078"]
+citations: ["111 Wash. App. 557"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Duke Ma’ele, Appellant, v. Florine Arrington, et al., Respondents."
 source_url: "https://static.case.law/wash-app/111/cases/0557-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1072014
-cites_cases: ["100 Wn.2d 188", "106 Wn. App. 260", "111 Wn. App. 557", "122 Wn.2d 299", "123 Wn.2d 93", "132 Wn.2d 193", "140 Wn.2d 1", "145 Wn.2d 1020", "154 Wash. 536", "23 P.3d 529", "282 P. 827", "289 P.2d 1007", "293 F. 1013", "304 P.2d 953", "361 P.2d 171", "365 P.2d 333", "367 P.2d 17", "404 P.2d 997", "422 P.2d 515", "440 P.2d 823", "47 Wn.2d 847", "49 Wn.2d 562", "500 P.2d 1255", "51 Wn. App. 561", "58 Wn.2d 106", "58 Wn.2d 879", "59 Wn.2d 133", "638 P.2d 566", "66 Wn.2d 738", "668 P.2d 571", "7 Wn. App. 584", "70 Wn.2d 173", "72 Wn. App. 632", "73 Wn.2d 814", "754 P.2d 1243", "858 P.2d 1054", "864 P.2d 937", "865 P.2d 527", "937 P.2d 597", "96 Wn.2d 659", "991 P.2d 1151"]
+cites_cases: ["100 Wn.2d 188", "106 Wn. App. 260", "122 Wn.2d 299", "123 Wn.2d 93", "132 Wn.2d 193", "140 Wn.2d 1", "145 Wn.2d 1020", "154 Wash. 536", "23 P.3d 529", "282 P. 827", "289 P.2d 1007", "293 F. 1013", "304 P.2d 953", "361 P.2d 171", "365 P.2d 333", "367 P.2d 17", "404 P.2d 997", "422 P.2d 515", "440 P.2d 823", "47 Wn.2d 847", "49 Wn.2d 562", "500 P.2d 1255", "51 Wn. App. 561", "58 Wn.2d 106", "58 Wn.2d 879", "59 Wn.2d 133", "638 P.2d 566", "66 Wn.2d 738", "668 P.2d 571", "7 Wn. App. 584", "70 Wn.2d 173", "72 Wn. App. 632", "73 Wn.2d 814", "754 P.2d 1243", "858 P.2d 1054", "864 P.2d 937", "865 P.2d 527", "937 P.2d 597", "96 Wn.2d 659", "991 P.2d 1151"]
 ---
 
 # Ma'ele v. Arrington
