@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30881-5-I; 31050-0-I; 31154-9-I"
 decided: "1992-11-09"
-citations: ["68 Wash. App. 411", "67 Wash. App. 1042"]
+citations: ["68 Wash. App. 411"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Mount Vernon, Petitioner, v. Gary M. Weston, Respondent. 
 source_url: "https://static.case.law/wash-app/68/cases/0411-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725668
-cites_cases: ["104 Wn.2d 497", "119 Wn.2d 251", "121 Wn.2d 1024", "52 Wn. App. 763", "661 P.2d 136", "68 Wn. App. 411", "707 P.2d 1306", "764 P.2d 653", "830 P.2d 646", "99 Wn.2d 270"]
+cites_cases: ["104 Wn.2d 497", "119 Wn.2d 251", "121 Wn.2d 1024", "52 Wn. App. 763", "661 P.2d 136", "707 P.2d 1306", "764 P.2d 653", "830 P.2d 646", "99 Wn.2d 270"]
 ---
 
 # City of Mount Vernon v. Weston
