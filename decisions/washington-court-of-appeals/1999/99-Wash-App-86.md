@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40507-1-I"
 decided: "1999-10-18"
-citations: ["99 Wash. App. 86", "97 Wash. App. 1057"]
+citations: ["99 Wash. App. 86"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Darrel D. Fish, Appellant."]
 source_url: "https://static.case.law/wash-app/99/cases/0086-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181379
-cites_cases: ["125 Wn.2d 825", "126 Wn.2d 244", "126 Wn.2d 283", "132 Wn.2d 529", "140 Wn.2d 1019", "33 Wn. App. 648", "341 U.S. 479", "406 U.S. 441", "50 Wn. App. 376", "507 P.2d 292", "64 Wn. App. 788", "641 P.2d 708", "656 P.2d 1137", "684 A.2d 331", "73 Wn. App. 678", "749 P.2d 173", "828 P.2d 1128", "871 P.2d 174", "889 P.2d 929", "892 P.2d 85", "893 P.2d 615", "940 P.2d 546", "95 L. Ed. 1118", "97 Wn.2d 159", "99 Wn. App. 86"]
+cites_cases: ["125 Wn.2d 825", "126 Wn.2d 244", "126 Wn.2d 283", "132 Wn.2d 529", "140 Wn.2d 1019", "33 Wn. App. 648", "341 U.S. 479", "406 U.S. 441", "50 Wn. App. 376", "507 P.2d 292", "64 Wn. App. 788", "641 P.2d 708", "656 P.2d 1137", "684 A.2d 331", "73 Wn. App. 678", "749 P.2d 173", "828 P.2d 1128", "871 P.2d 174", "889 P.2d 929", "892 P.2d 85", "893 P.2d 615", "940 P.2d 546", "95 L. Ed. 1118", "97 Wn.2d 159"]
 ---
 
 # State v. Fish
