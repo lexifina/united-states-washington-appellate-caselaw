@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31484-0-I"
 decided: "1993-12-30"
-citations: ["72 Wash. App. 720", "72 Wash. App. 342"]
+citations: ["72 Wash. App. 720"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kimberly Loveridge, Appellant, v. Fred Meyer, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/72/cases/0720-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1741675
-cites_cases: ["104 Wn.2d 1022", "109 S. Ct. 2180", "113 S. Ct. 1250", "113 S. Ct. 86", "121 L. Ed. 2d 49", "122 L. Ed. 2d 649", "124 Wn.2d 1013", "157 Cal. App. 3d 427", "203 Cal. Rptr. 638", "291 U.S. 431", "311 U.S. 32", "333 U.S. 591", "4 F.3d 319", "41 Wn. App. 675", "440 U.S. 147", "446 U.S. 318", "465 U.S. 1041", "479 U.S. 885", "490 U.S. 755", "498 U.S. 900", "53 Geo. Wash. L. Rev. 629", "60 Wash. L. Rev. 805", "614 F.2d 1389", "640 F.2d 484", "670 F. Supp. 75", "697 F.2d 582", "704 F.2d 241", "705 P.2d 1222", "72 Wn. App. 720", "750 F. Supp. 603", "77 Cornell L. Rev. 189", "775 F. Supp. 165", "78 L. Ed. 2d 894", "794 F.2d 754", "805 F.2d 682", "813 F. Supp. 977", "85 L. Ed. 2d 22", "891 F.2d 1555", "900 F.2d 736", "902 F.2d 918", "92 L. Ed. 898", "945 F.2d 770", "959 F.2d 594", "968 F.2d 427", "973 F.2d 490"]
+cites_cases: ["104 Wn.2d 1022", "109 S. Ct. 2180", "113 S. Ct. 1250", "113 S. Ct. 86", "121 L. Ed. 2d 49", "122 L. Ed. 2d 649", "124 Wn.2d 1013", "157 Cal. App. 3d 427", "203 Cal. Rptr. 638", "291 U.S. 431", "311 U.S. 32", "333 U.S. 591", "4 F.3d 319", "41 Wn. App. 675", "440 U.S. 147", "446 U.S. 318", "465 U.S. 1041", "479 U.S. 885", "490 U.S. 755", "498 U.S. 900", "53 Geo. Wash. L. Rev. 629", "60 Wash. L. Rev. 805", "614 F.2d 1389", "640 F.2d 484", "670 F. Supp. 75", "697 F.2d 582", "704 F.2d 241", "705 P.2d 1222", "750 F. Supp. 603", "77 Cornell L. Rev. 189", "775 F. Supp. 165", "78 L. Ed. 2d 894", "794 F.2d 754", "805 F.2d 682", "813 F. Supp. 977", "85 L. Ed. 2d 22", "891 F.2d 1555", "900 F.2d 736", "902 F.2d 918", "92 L. Ed. 898", "945 F.2d 770", "959 F.2d 594", "968 F.2d 427", "973 F.2d 490"]
 ---
 
 # Loveridge v. Fred Meyer, Inc.
