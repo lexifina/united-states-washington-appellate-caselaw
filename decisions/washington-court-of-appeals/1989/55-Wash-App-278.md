@@ -1,0 +1,54 @@
+---
+court: "Washington Court of Appeals"
+docket: "23172-3-I"
+decided: "1989-08-14"
+citations: ["55 Wash. App. 278"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swanson, J., and Revelle, J. Pro Tern., concur."]
+parties: ["Ervin R. Zimbelman, et al, Appellants, v. Chaussee Corporation, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/55/cases/0278-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 8847806
+cites_cases: ["105 Wn.2d 302", "108 Wn.2d 262", "111 Wn.2d 159", "114 Wn.2d 1007", "496 P.2d 512", "530 P.2d 234", "54 Wn. App. 682", "574 P.2d 1190", "714 P.2d 1176", "737 P.2d 1257", "753 P.2d 523", "759 P.2d 447", "775 P.2d 967", "80 Wn.2d 547", "85 Wn.2d 1", "89 Wn.2d 673"]
+---
+
+# Zimbelman v. Chaussee Corp.
+
+## Majority (Forrest, J.)
+
+Forrest, J.
+Ervin Zimbelman, et al, appeal from the trial court's orders dismissing their tort actions against King County and dismissing a negligence per se claim against Chaussee Corporation, An-Co Roofing and Miner Corporation. We affirm.
+On January 12, 1979, the King County Department of Building and Land Development (BALD) received an application for a building permit from Chaussee Corporation accompanied by two sets of plans and specifications for construction of the 136-unit Woodside Terrace Condominiums. A BALD employee reviewed the plans, noting deviations from Uniform Building Code (UBC) requirements. Several buildings lacked fire alarm systems, several did not conform with exit requirements, several were lacking fire-resistant materials in required locations, and the flooring did not meet minimum fire resistance standards. BALD returned the plans with the necessary corrections to Chaus-see and issued a building permit.
+On July 17, 1979, a BALD inspector visited the building site. Although the building permit had been issued only 4 days earlier, construction was approximately 40 percent complete. The inspector did not note any deficiencies. He did not attempt to verify if the previously noted deviations from the UBC had been corrected. After construction was completed, BALD issued individual certificates of occupancy for each condominium building.
+In 1983, Michael Stanley, the property manager of the Woodside Terrace Condominium Homeowner Association, sued Chaussee Corporation, two subcontractors (An-Co Roofing and Miner Corporation), King County, and eight named individuals, alleging the condominiums had been negligently and defectively constructed. In February 1986, Ervin Zimbelman and 34 other individuals filed a separate, but virtually identical suit against Chaussee, its subcontractors, King County and others. The County moved for summary judgment in both cases.
+In June 1986, the trial court dismissed Stanley's claims against the County. In March 1987, the court entered an identical order dismissing the Zimbelman plaintiffs' claims against the County. The trial court subsequently entered several additional orders. First, the court granted Chaus-see's motion for partial summary judgment dismissing the plaintiffs' negligence per se claim. Second, the court found no just reason to delay entry of final judgment dismissing the claims against the County and entered a final judgment to that effect. Finally, after the plaintiffs settled their claims against Chaussee, Miner, and An-Co Roofing, the court found no just reason for delay and directed entry of final judgment on its previously nonfinal orders.
+A county's responsibility for the administration of its building code is delineated in Taylor v. Stevens Cy. The Taylor court held that building codes impose upon municipalities obligations owed to the public at large. It relied upon the public duty doctrine to decide that the "duty to ensure that buildings comply with county and municipal building codes rests with individual builders, developers and permit applicants, not local government." However, the court identified two narrow exceptions to the general rule of nonliability.
+A "special relationship", giving rise to a duty of reasonable care when a public official provides information, is created between a plaintiff and official when: (1) there is direct contact between the public official and the plaintiff; (2) the official, in response to a specific inquiry, provides express assurances that a building or structure is in compliance with the building code; and (3) the plaintiff justifiably relies on the representations of the official. Appellants do not satisfy any of the three conditions and, therefore, do not fall under this exception.
+The second exception was articulated by the Taylor court as follows:
+As to the performance of building code inspections, a duty shall continue to be recognized where a public official knew of an inherently dangerous and hazardous condition, is under a duty to correct the problem and fails to meet this duty.
+Appellants claim they fall within this exception because King County officials knew of inherently dangerous and hazardous conditions in this multi-building project, yet failed to correct them.
+More specifically, appellants argue that the requirement in Taylor that a public official know of an inherently dangerous condition before a duty is imposed under the building code implicitly includes what the official should have known. We disagree. Although this is a familiar and well-recognized rule in general tort law, it does not apply in this context. Such an interpretation of this phrase would contravene the policy rationales, set forth in Taylor, for narrowing the liability of municipalities. It would also expose local governments to enormous potential liability, which the Taylor court sought to reduce.
+Under Taylor, a public official must possess actual knowledge of a hazardous condition before any duty is imposed. Knowledge does not include what an official might have known if he had performed his duties more effectively or vigilantly. Each of the cases cited in Taylor in support of this exception involved actual personal knowledge. Hence, personal knowledge of an inherently dangerous and hazardous condition by one enforcing the building code is required to create a duty to act.
+The determinative factual issue is what knowledge did the County have? The appellants claim that the submission of plans showing a lack of safeguards against fire demonstrates actual knowledge of an inherently dangerous and hazardous condition. We disagree.
+The County denies that these conditions are inherently dangerous. We assume appellants' contrary allegations create an issue of fact on motion for summary judgment as to whether the conditions were "inherently dangerous". However, we do not decide the issue on this basis since the submission of defective plans to the County did not constitute actual knowledge, as required by Taylor.
+Here, the county official properly indicated on the plans the corrections necessary to conform to code. The plans were then returned to the contractor. Awareness of code violations in the plans as submitted only establishes knowledge of defective plans, not knowledge of defective construction. The County cannot be charged with knowing that the contractor would fail to correct the deficiencies identified by the County in the plans. If the County instead had required submission of amended plans which incorporated the noted corrections, the approval of such corrected plans would not be actual knowledge of the contractor's subsequent failure to build in compliance with code requirements. Even if the County failed to note some defects in the plans, this would not constitute actual knowledge of inherently dangerous and hazardous conditions created by the contractor.
+We find nothing in the record to establish actual knowledge by county agents of inherently dangerous and hazardous conditions in the buildings as actually constructed. The affidavit of the county building inspector explicitly denies any knowledge of code violations in the condominiums. This was not controverted. The appellants have failed to establish a factual dispute as to the County's actual knowledge of any inherently dangerous and hazardous conditions. Such knowledge is required by Taylor as a basis for liability. Summary judgment was proper.
+Appellants also claim the trial court erred in dismissing their negligence per se claim against the non-County defendants. The appellants, however, have settled with these parties. A question is moot when it presents no actual controversy or where the issues have ceased to exist. Hence, the issue is not properly before us and, in any event, is immaterial in light of our foregoing discussion.
+The judgment is affirmed.
+Swanson, J., and Revelle, J. Pro Tern., concur.
+Review denied at 114 Wn.2d 1007 (1990).
+111 Wn.2d 159, 161, 759 P.2d 447 (1988).
+Taylor, at 165.
+See Bailey v. Forks, 108 Wn.2d 262, 268, 737 P.2d 1257 (1987).
+Taylor, at 161.
+Taylor, at 171.
+Taylor, at 171-72.
+Taylor, at 168-70.
+Taylor, at 170-71.
+See Halvorson v. Dahl, 89 Wn.2d 673, 678, 574 P.2d 1190 (1978) (allegations that the City had been aware of code violations in the building for 6 years and had undertaken to force compliance on several occasions); Campbell v. Bellevue, 85 Wn.2d 1, 13, 530 P.2d 234 (1975) ("[T]he City's electrical inspector . . . knew of the nonconforming underwater lighting system and of the extreme danger created thereby . . .”); Bailey v. Forks, 108 Wn.2d 262, 269, 737 P.2d 1257, 753 P.2d 523 (1987) ("[T]he police officer took no corrective action and possessed actual knowledge of statutory violations.").
+We disagree with the County's contention that Taylor negates any duty, absent a statutory mandate, to enforce the building code. Such an interpretation would destroy the exception permitting imposition of liability when a public official breaches a duty to correct a known, inherently dangerous condition. As articulated in Taylor, when an official charged with enforcing the UBC has actual knowledge of an "inherently dangerous and hazardous condition", the law imposes a duty to act. Taylor, at 171-72. See also Halvorson v. Dahl, 89 Wn.2d 673, 677-78, 574 P.2d 1190 (1978) (appellant had to demonstrate culpable neglect or indifference by the City regarding nonenforcement of the municipal housing code to state a claim upon which relief could be granted), cited in Taylor, at 172.
+See Hontz v. State, 105 Wn.2d 302, 311, 714 P.2d 1176 (1986).
+See Waite v. Whatcom Cy., 54 Wn. App. 682, 775 P.2d 967 (1989) (circumstantial evidence presented a genuine issue of fact as to whether a county inspector had actual knowledge of a mechanical code violation, thus making the failure to enforce exception to the public duty doctrine potentially applicable, and, hence, summary judgment was erroneous).
+See Sorenson v. Bellingham, 80 Wn.2d 547, 558, 496 P.2d 512 (1972).
