@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41957-9-I"
 decided: "1999-08-30"
-citations: ["98 Wash. App. 270", "97 Wash. App. 1009"]
+citations: ["98 Wash. App. 270"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Frank Madrid, Appellant, v. Lakeside Industries, et al., Respondents.
 source_url: "https://static.case.law/wash-app/98/cases/0270-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155933
-cites_cases: ["114 Wn.2d 542", "122 Wn.2d 527", "789 P.2d 75", "859 P.2d 592", "98 Wn. App. 270"]
+cites_cases: ["114 Wn.2d 542", "122 Wn.2d 527", "789 P.2d 75", "859 P.2d 592"]
 ---
 
 # Madrid v. Lakeside Industries
