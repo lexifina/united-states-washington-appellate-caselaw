@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27751-1-I"
 decided: "1992-06-15"
-citations: ["67 Wash. App. 419", "66 Wash. App. 1004"]
+citations: ["67 Wash. App. 419"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bruce A. Morrison, Respondent, v. The Department of Retirement System
 source_url: "https://static.case.law/wash-app/67/cases/0419-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715299
-cites_cases: ["103 Wn.2d 484", "105 Wn.2d 499", "113 Wn.2d 1014", "189 Wash. 555", "34 Wn. App. 873", "459 U.S. 1106", "493 P.2d 775", "53 Wn. App. 809", "646 P.2d 113", "66 P.2d 307", "664 P.2d 1256", "67 Wn. App. 419", "694 P.2d 16", "716 P.2d 869", "770 P.2d 1071", "80 Wn.2d 242", "97 Wn.2d 317"]
+cites_cases: ["103 Wn.2d 484", "105 Wn.2d 499", "113 Wn.2d 1014", "189 Wash. 555", "34 Wn. App. 873", "459 U.S. 1106", "493 P.2d 775", "53 Wn. App. 809", "646 P.2d 113", "66 P.2d 307", "664 P.2d 1256", "694 P.2d 16", "716 P.2d 869", "770 P.2d 1071", "80 Wn.2d 242", "97 Wn.2d 317"]
 ---
 
 # Morrison v. Department of Retirement Systems
