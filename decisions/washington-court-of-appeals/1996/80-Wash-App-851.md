@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17803-6-II"
 decided: "1996-02-09"
-citations: ["80 Wash. App. 851", "80 Wash. App. 1043"]
+citations: ["80 Wash. App. 851"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Renee Melina Reynolds, Appell
 source_url: "https://static.case.law/wash-app/80/cases/0851-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 421049
-cites_cases: ["1 Wn. App. 540", "106 Wn.2d 514", "108 Wn.2d 1013", "108 Wn.2d 419", "108 Wn.2d 458", "114 Wn.2d 1020", "115 S. Ct. 1149", "115 Wn.2d 275", "120 Wn.2d 327", "121 Wn.2d 1031", "123 Wn.2d 1019", "123 Wn.2d 51", "125 Wn.2d 1004", "125 Wn.2d 1021", "125 Wn.2d 893", "402 P.2d 673", "45 Wn. App. 755", "463 P.2d 207", "55 Wn. App. 852", "64 Wn. App. 65", "66 Wn. App. 548", "66 Wn.2d 341", "69 Wn. App. 195", "70 Wn. App. 541", "71 Wn. App. 556", "72 Wn. App. 619", "723 P.2d 1117", "727 P.2d 258", "739 P.2d 683", "74 Wn. App. 346", "74 Wn. App. 87", "740 P.2d 824", "75 Wn. App. 47", "783 P.2d 1068", "796 P.2d 1266", "80 Wn. App. 851", "822 P.2d 1222", "832 P.2d 139", "841 P.2d 42", "848 P.2d 735", "854 P.2d 665", "861 P.2d 473", "864 P.2d 1371", "866 P.2d 41", "871 P.2d 673", "872 P.2d 1145", "876 P.2d 481", "890 P.2d 457"]
+cites_cases: ["1 Wn. App. 540", "106 Wn.2d 514", "108 Wn.2d 1013", "108 Wn.2d 419", "108 Wn.2d 458", "114 Wn.2d 1020", "115 S. Ct. 1149", "115 Wn.2d 275", "120 Wn.2d 327", "121 Wn.2d 1031", "123 Wn.2d 1019", "123 Wn.2d 51", "125 Wn.2d 1004", "125 Wn.2d 1021", "125 Wn.2d 893", "402 P.2d 673", "45 Wn. App. 755", "463 P.2d 207", "55 Wn. App. 852", "64 Wn. App. 65", "66 Wn. App. 548", "66 Wn.2d 341", "69 Wn. App. 195", "70 Wn. App. 541", "71 Wn. App. 556", "72 Wn. App. 619", "723 P.2d 1117", "727 P.2d 258", "739 P.2d 683", "74 Wn. App. 346", "74 Wn. App. 87", "740 P.2d 824", "75 Wn. App. 47", "783 P.2d 1068", "796 P.2d 1266", "822 P.2d 1222", "832 P.2d 139", "841 P.2d 42", "848 P.2d 735", "854 P.2d 665", "861 P.2d 473", "864 P.2d 1371", "866 P.2d 41", "871 P.2d 673", "872 P.2d 1145", "876 P.2d 481", "890 P.2d 457"]
 ---
 
 # State v. Reynolds
