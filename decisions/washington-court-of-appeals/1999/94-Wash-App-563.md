@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40970-1-I"
 decided: "1999-01-19"
-citations: ["94 Wash. App. 563", "93 Wash. App. 1057"]
+citations: ["94 Wash. App. 563"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Juan Almanza-Guzman, Appellan
 source_url: "https://static.case.law/wash-app/94/cases/0563-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83482
-cites_cases: ["118 Wn.2d 335", "134 Wn.2d 1", "392 U.S. 1", "422 U.S. 873", "61 Wn. App. 626", "684 F.2d 1286", "70 Wn. App. 13", "70 Wn. App. 437", "70 Wn. App. 706", "797 F.2d 700", "811 P.2d 241", "823 P.2d 1068", "851 P.2d 731", "853 P.2d 1379", "855 P.2d 699", "94 Wn. App. 563", "948 P.2d 1280"]
+cites_cases: ["118 Wn.2d 335", "134 Wn.2d 1", "392 U.S. 1", "422 U.S. 873", "61 Wn. App. 626", "684 F.2d 1286", "70 Wn. App. 13", "70 Wn. App. 437", "70 Wn. App. 706", "797 F.2d 700", "811 P.2d 241", "823 P.2d 1068", "851 P.2d 731", "853 P.2d 1379", "855 P.2d 699", "948 P.2d 1280"]
 ---
 
 # State v. Almanza-Guzman
