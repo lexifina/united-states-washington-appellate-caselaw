@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49522-4-I"
 decided: "2002-12-09"
-citations: ["115 Wash. App. 218", "114 Wash. App. 1059"]
+citations: ["115 Wash. App. 218"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Snohomish County, Respondent, v. Bruce Rugg, et al., Appellants."]
 source_url: "https://static.case.law/wash-app/115/cases/0218-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 221963
-cites_cases: ["110 Wn.2d 355", "115 Wn. App. 218", "118 Wn.2d 801", "121 Wn.2d 715", "13 P.3d 1065", "142 Wn.2d 450", "62 Wn. App. 839", "753 P.2d 517", "816 P.2d 75", "828 P.2d 549", "853 P.2d 1373"]
+cites_cases: ["110 Wn.2d 355", "118 Wn.2d 801", "121 Wn.2d 715", "13 P.3d 1065", "142 Wn.2d 450", "62 Wn. App. 839", "753 P.2d 517", "816 P.2d 75", "828 P.2d 549", "853 P.2d 1373"]
 ---
 
 # Snohomish County v. Rugg
