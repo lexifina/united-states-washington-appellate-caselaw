@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51621-3-I"
 decided: "2004-03-22"
-citations: ["121 Wash. App. 653", "120 Wash. App. 1055"]
+citations: ["121 Wash. App. 653"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Estate of Rudolph Krappes. Edwina R. Garten, as 
 source_url: "https://static.case.law/wash-app/121/cases/0653-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 863802
-cites_cases: ["107 Wn.2d 388", "108 Wn. App. 167", "120 Wn.2d 538", "121 Wn. App. 653", "122 Wn.2d 397", "131 Wn.2d 640", "132 Wn.2d 318", "152 Wn.2d 1033", "22 Wn. App. 373", "257 P.2d 203", "29 P.3d 1258", "30 Wn. App. 923", "4 Wn. App. 238", "42 Wn.2d 555", "48 Wn. App. 734", "480 P.2d 511", "491 P.2d 1050", "59 Wn. App. 1", "591 P.2d 784", "640 P.2d 28", "730 P.2d 45", "740 P.2d 884", "77 Wn. App. 474", "795 P.2d 1174", "80 Wn.2d 77", "83 Wn. App. 158", "843 P.2d 1050", "858 P.2d 494", "891 P.2d 747", "920 P.2d 1230", "935 P.2d 555", "937 P.2d 1062"]
+cites_cases: ["107 Wn.2d 388", "108 Wn. App. 167", "120 Wn.2d 538", "122 Wn.2d 397", "131 Wn.2d 640", "132 Wn.2d 318", "152 Wn.2d 1033", "22 Wn. App. 373", "257 P.2d 203", "29 P.3d 1258", "30 Wn. App. 923", "4 Wn. App. 238", "42 Wn.2d 555", "48 Wn. App. 734", "480 P.2d 511", "491 P.2d 1050", "59 Wn. App. 1", "591 P.2d 784", "640 P.2d 28", "730 P.2d 45", "740 P.2d 884", "77 Wn. App. 474", "795 P.2d 1174", "80 Wn.2d 77", "83 Wn. App. 158", "843 P.2d 1050", "858 P.2d 494", "891 P.2d 747", "920 P.2d 1230", "935 P.2d 555", "937 P.2d 1062"]
 ---
 
 # Garten v. Daley
