@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20446-1-II"
 decided: "1998-02-06"
-citations: ["90 Wash. App. 554", "89 Wash. App. 1009"]
+citations: ["90 Wash. App. 554"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,8 +10,8 @@ parties: ["Stanley J. Trohimovich, Appellant, v. The State of Washington, et al.
 source_url: "https://static.case.law/wash-app/90/cases/0554-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428783
-cites_cases: ["114 Wn.2d 271", "116 Wn.2d 923", "127 Wn.2d 614", "136 Wn.2d 1018", "4 U.S.C. § 101", "53 Wn. App. 739", "54 Wn. App. 841", "656 P.2d 1030", "69 Wn. App. 148", "770 P.2d 659", "776 P.2d 695", "787 P.2d 562", "809 P.2d 1377", "848 P.2d 733", "90 Wn. App. 554", "902 P.2d 1247", "98 Wn.2d 434"]
-cites_law: ["united-states/federal/usc/title-4/101.md"]
+cites_cases: ["114 Wn.2d 271", "116 Wn.2d 923", "127 Wn.2d 614", "136 Wn.2d 1018", "4 U.S.C. § 101", "53 Wn. App. 739", "54 Wn. App. 841", "656 P.2d 1030", "69 Wn. App. 148", "770 P.2d 659", "776 P.2d 695", "787 P.2d 562", "809 P.2d 1377", "848 P.2d 733", "902 P.2d 1247", "98 Wn.2d 434"]
+cites_law: ["united-states/federal/usc/title-4/101.md", "united-states/federal/usc/title-4/102.md"]
 ---
 
 # Trohimovich v. State
