@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8858-8-III"
 decided: "1988-11-03"
-citations: ["52 Wash. App. 778", "52 Wash. App. 1064"]
+citations: ["52 Wash. App. 778"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["John Galladora, Appellant, v. Richard E. Richter, et al, Respondents.
 source_url: "https://static.case.law/wash-app/52/cases/0778-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1708525
-cites_cases: ["103 Wn.2d 768", "105 Wn.2d 499", "107 Wn.2d 427", "108 Wn.2d 723", "111 Wn.2d 1005", "166 P.2d 165", "173 P.2d 977", "24 Wn.2d 519", "26 Wn.2d 246", "358 P.2d 550", "455 P.2d 946", "503 P.2d 108", "51 Wn. App. 530", "51 Wn. App. 635", "52 Wn. App, 778", "521 P.2d 711", "57 Wn.2d 571", "61 Wash. L. Rev. 803", "638 P.2d 1213", "656 P.2d 1030", "698 P.2d 77", "716 P.2d 869", "730 P.2d 653", "742 P.2d 1224", "754 P.2d 1033", "754 P.2d 697", "76 Wn.2d 220", "81 Wn.2d 528", "83 Wn.2d 630", "96 Wn.2d 785", "98 Wn.2d 434"]
+cites_cases: ["103 Wn.2d 768", "105 Wn.2d 499", "107 Wn.2d 427", "108 Wn.2d 723", "111 Wn.2d 1005", "166 P.2d 165", "173 P.2d 977", "24 Wn.2d 519", "26 Wn.2d 246", "358 P.2d 550", "455 P.2d 946", "503 P.2d 108", "51 Wn. App. 530", "51 Wn. App. 635", "521 P.2d 711", "57 Wn.2d 571", "61 Wash. L. Rev. 803", "638 P.2d 1213", "656 P.2d 1030", "698 P.2d 77", "716 P.2d 869", "730 P.2d 653", "742 P.2d 1224", "754 P.2d 1033", "754 P.2d 697", "76 Wn.2d 220", "81 Wn.2d 528", "83 Wn.2d 630", "96 Wn.2d 785", "98 Wn.2d 434"]
 ---
 
 # Galladora v. Richter
