@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53823-3-I"
 decided: "2004-11-29"
-citations: ["125 Wash. App. 253", "124 Wash. App. 1024"]
+citations: ["125 Wash. App. 253"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Natalie Brooke, Appellant, v. James H. Robinson, et al., Respondents.
 source_url: "https://static.case.law/wash-app/125/cases/0253-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270150
-cites_cases: ["105 Wn. App. 80", "115 Wn. App. 1006", "120 Wn.2d 538", "125 Wn. App. 253", "18 P.3d 1144", "18 U.S.C. §§ 1961-68", "231 P.2d 613", "38 Wn.2d 723", "4 Wn. App. 238", "480 P.2d 511", "500 P.2d 779", "7 Wn. App. 545", "843 P.2d 1050"]
+cites_cases: ["105 Wn. App. 80", "115 Wn. App. 1006", "120 Wn.2d 538", "18 P.3d 1144", "18 U.S.C. §§ 1961-68", "231 P.2d 613", "38 Wn.2d 723", "4 Wn. App. 238", "480 P.2d 511", "500 P.2d 779", "7 Wn. App. 545", "843 P.2d 1050"]
 ---
 
 # Brooke v. Robinson
