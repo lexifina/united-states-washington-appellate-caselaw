@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26457-5-I"
 decided: "1991-04-22"
-citations: ["61 Wash. App. 385", "60 Wash. App. 1077"]
+citations: ["61 Wash. App. 385"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Herbert L. Rector, Respondent, v. The Department of Labor and Industr
 source_url: "https://static.case.law/wash-app/61/cases/0385-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1729524
-cites_cases: ["103 Wn.2d 1016", "105 A.L.R. 964", "115 P.2d 1014", "13 P.2d 39", "138 Wash. 685", "16 P.2d 623", "168 Wash. 677", "170 Wash. 380", "186 Wash. 505", "205 P.2d 896", "245 P. 20", "310 P.2d 880", "33 Wn.2d 399", "38 Wn. App. 553", "50 Wn.2d 273", "543 P.2d 338", "547 P.2d 1221", "58 P.2d 1025", "61 Wn. App. 385", "686 P.2d 509", "86 Wn.2d 215", "86 Wn.2d 607", "9 Wn.2d 621"]
+cites_cases: ["103 Wn.2d 1016", "105 A.L.R. 964", "115 P.2d 1014", "13 P.2d 39", "138 Wash. 685", "16 P.2d 623", "168 Wash. 677", "170 Wash. 380", "186 Wash. 505", "205 P.2d 896", "245 P. 20", "310 P.2d 880", "33 Wn.2d 399", "38 Wn. App. 553", "50 Wn.2d 273", "543 P.2d 338", "547 P.2d 1221", "58 P.2d 1025", "686 P.2d 509", "86 Wn.2d 215", "86 Wn.2d 607", "9 Wn.2d 621"]
 ---
 
 # Rector v. Department of Labor & Industries
