@@ -1,0 +1,55 @@
+---
+court: "Washington Court of Appeals"
+docket: "9850-4-II"
+decided: "1987-08-31"
+citations: ["49 Wash. App. 217"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Petrich and Alexander, JJ., concur."]
+parties: ["A-Line Equipment Company, Inc., Respondent, v. Lower Columbia College, Appellant."]
+source_url: "https://static.case.law/wash-app/49/cases/0217-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1739241
+cites_cases: ["11 Wash. 474", "145 Wash. 25", "17 Wn. App. 288", "258 P. 836", "31 A.L.R.2d 469", "37 P. 695", "39 P. 972", "434 P.2d 559", "452 P.2d 750", "502 P.2d 1197", "511 P.2d 52", "562 P.2d 271", "72 Wn.2d 577", "75 Wn.2d 575", "81 Wn.2d 565", "82 Wn.2d 396", "9 Wash. 518"]
+---
+
+# A-Line Equipment Co. v. Lower Columbia College
+
+## Majority (Reed, C.J.)
+
+Reed, C.J.
+Lower Columbia College appeals a judgment in favor of A-Line Equipment Co., Inc., in this action for breach of contract. We reverse.
+The defendant Lower Columbia College, solicited bids for automotive hoists to equip its new vocational building. The specifications in the invitation to bid were developed with the assistance of the plaintiff, A-Line Equipment Co., Inc. These called for "Gilbarco" brand hoists, the product line distributed by A-Line. The bid invitation specifically reserved the right to reject all bids, waive informalities and contract in the best interest of the State.
+Two distributors responded with bids for automotive hoists, A-Line and C & H Wholesalers. A-Line bid Gilbarco brand models, thus meeting all of the specifications set forth in the invitation to bid. C & H bid Rotary brand hoists. A-Line's bid was lower than the bid submitted by C & H even allowing for the difference in cash discount terms offered. The contract was not awarded to A-Line, however. The College decided to reject both bids and to rebid for automotive hoists with different specifications.
+The only explanation given to A-line for the rejection of its lowest bid was that the College was not satisfied with the cash discount terms offered by A-Line. At trial, however, there was testimony that the College had decided on further reflection that the Gilbarco brand hoists were not well suited for instructional purposes. Accordingly, the second invitation to bid did not specify a particular brand. It also differed from the first in other material respects. Although A-Line was again the lowest bidder, its bid did not meet the College's specifications in severed particulars. Accordingly, the College awarded the contract to C & H Wholesalers.
+A-Line sued the school for breach of contract arising out of the rejection of both of its bids. The trial court determined that, as to the second invitation to bid, the College properly could award the contract to C & H, because its bid more nearly met the specifications in that bid solicitation. However, the trial court awarded damages to A-Line, including lost profits, on the basis of the first bid solicitation, concluding that the College had no legitimate reason to reject A-Line's lowest bid. The College appeals. A-Line does not cross-appeal.
+The College was required to comply with the competitive bidding statutes. RCW 43.19.1911, governing purchases by state agencies, provides in relevant part: "When purchases are made through competitive bidding, the contract shall be let to the lowest responsible bidder ..." The pertinent regulation provides:
+The state purchasing division reserves the right to reject all bids or to cancel an invitation or request, however, every effort will be made to guard against such an occurrence. Examples of reasons for cancellation of an invitation, or request, or rejection of all bids are:
+(1) Inadequate or ambiguous specifications.
+(2) Specifications have been revised.
+(3) Supplies or services being purchased are no longer required.
+(4) Change in agency requirements.
+(5) All bids are deemed unreasonable or sufficient funds are not available.
+(6) Bids were not independently arrived at, or were submitted in bad faith.
+(7) A determination is made that all the necessary requirements of the bid process have not been met.
+(8) Insufficient competition.
+(9) For reasons which indicate that cancellation or rejection of all bids is clearly in the best interest of the state.
+(Italics ours.) WAC 236-48-131.
+The trial court concluded that the College had made no effort to guard against the rejection of all bids. Relying on this language in the regulation, the court awarded damages to A-Line. The finding that the College made no effort to avoid the rejection of all bids is supported by substantial evidence. The College solicited the bids before it was certain exactly what equipment would best fulfill its needs. There was no explanation given by the College as to why its officials did not take the time necessary to investigate thoroughly more adequate specifications. We must consider whether, as a matter of law, this failure of the College to get it right the first time creates a cause of action for contract damages in favor of the first lowest responsible bidder. We conclude that no cause of action arose in favor of A-Line and reverse.
+In Mottner v. Mercer Island, 75 Wn.2d 575, 578-79, 452 P.2d 750 (1969), in affirming a summary judgment for defendant, the court stated:
+Plaintiffs misinterpret the purpose of that statute. [RCW 35.23.352] Its mantle of protection was not intended to benefit the unsuccessful contractor seeking a public work contract, but rather the tax paying public from arbitrary, capricious, fraudulent conduct on the part of public officials who would favor, without legitimate cause, someone other than the low bidder. The statute, therefore, affords plaintiffs no remedy in damages.
+Plaintiffs' bid may only be considered as an offer to contract and, since it was not accepted, cannot then be the legal basis for a claim to damages. Even the motive for rejection is not a consideration when damages are sought.
+The Mottner court goes on to make it clear that the only procedure available to challenge the award of a public contract is a taxpayer's injunction restraining the state from entering into a contract beyond its authority. A cause of action for damages is never available to a disappointed bidder. Bellingham Am. Pub'g Co. v. Bellingham Pub'g Co., 145 Wash. 25, 258 P. 836 (1927); Goss v. State Capitol Comm'n, 11 Wash. 474, 39 P. 972 (1895); Times Pub’g Co. v. Everett, 9 Wash. 518, 37 P. 695 (1894); Annot., Right of Public Authorities To Reject All Bids for Public Work or Contract, 31 A.L.R.2d 469 (1953); 64 Am. Jur. Public Works and Contracts §§ 75, 76, 78, 86 (1972).
+Nevertheless the trial court awarded damages to A-Line, relying on Butler v. Federal Way Sch. Dist. 210, 17 Wn. App. 288, 562 P.2d 271 (1977). There, a dairy producer sought damages from a school district when the district rejected its low bid to supply dairy goods. The school district rejected all bids because of a threatened lawsuit over an irregularity in the bidding procedure. In our view the Butler court's determination that the bidder had a right to judicial review of the school district's actions runs counter to settled law in this state, as exemplified by the cases above cited. The court stated,
+The plaintiff fulfilled the statutory requirements for the submission of a bid and is recognized by the parties as the initial low bidder. Under those facts, the plaintiff has standing to challenge the award of the contract to another, allege violation of RCW 28A.58.135, and seek damages.
+Butler, 17 Wn. App. at 292-93.
+We disagree. The cases cited in Butler in support of this proposition are inapposite. For example, Ketcham v. King Cy. Med. Serv. Corp., 81 Wn.2d 565, 502 P.2d 1197 (1972), was a constitutional challenge to the optometrist reimbursement statute, former RCW 48.44.025, as working a deprivation of property without due process and an impairment of the right to contract. The case does not support the proposition that the lowest responsible bidder for a public contract obtains a fundamental right to the award of that contract and thus the right to judicial review of the award of that contract to another. Rather, case law existing at the time of Butler clearly stood for the opposite.
+The Butler court attempted to distinguish the Mottner and Bellingham Pub'g Co. cases on the basis that former RCW 28A.58.135, the bidding statute at issue in Butler, provided that "[a]ny or all bids may be rejected for good cause," while the statutes at issue in the previous cases contained no similar "good cause" requirement. We are not persuaded that the addition of this language was intended to change the fundamental rule that a taxpayer's suit is the exclusive remedy available for the improper award of a public contract. More likely that language was intended to provide added protection to the public through a stricter standard of judicial review of agency conduct within the taxpayer's suit. See Mottner v. Mercer Island, 75 Wn.2d at 578.
+Therefore, even if we assume, without deciding, that a "good cause" requirement is expressed by the language of WAC 236-48-131, "every effort will be made to guard against such an occurrence", we will not inquire into the College's motives for the rejection of all bids because ALine does not seek taxpayer relief. Instead, the company seeks a remedy that is not available to it: monetary damages. Mottner, 75 Wn.2d at 580.
+We adhere to the case law existing before Butler v. Federal Way Sch. Dist. 210, supra, and reverse the trial court.
+Petrich and Alexander, JJ., concur.
+rThe main difference appears to have been that, because the College had been informed that hoists with babbitt-lined bearing surfaces were superior to Gilbareo's teflon coated surfaces, the former were called for in the second bid invitation.
+RCW 28B.50.330, governing community colleges, requires competitive bidding for community college purchases; it states that "the contract shall be awarded to the lowest responsible bidder if in accordance with the bid specifications". RCW 43.19 and its regulations, which were incorporated by reference in the bid invitations, control actual bidding procedures.
+Similarly, Reagles v. Simpson, 72 Wn.2d 577, 434 P.2d 559 (1967) involved judicial review of actions of the state board of medical examiners. State ex rel. Hood v. State Personnel Bd., 82 Wn.2d 396, 511 P.2d 52 (1973) addressed judicial power to review an order of the State Personnel Board. Neither of these cases is relevant to the issue here presented.
+That the trial judge in the present case was led astray by Butler is evident from his findings that (1) the College is a state agency, (2) the College is not subject to the administrative procedure act (RCW 34.04), (3) the court has inherent power to review "a final action of an administrative agency such as [the College]," and (4) the standard of review is whether the College acted illegally, arbitrarily and/or capriciously.
