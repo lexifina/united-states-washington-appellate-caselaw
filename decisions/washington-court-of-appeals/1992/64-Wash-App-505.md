@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11268-3-III"
 decided: "1992-02-11"
-citations: ["64 Wash. App. 505", "63 Wash. App. 1065"]
+citations: ["64 Wash. App. 505"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Barrett Lee Remboldt, et al, R
 source_url: "https://static.case.law/wash-app/64/cases/0505-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722625
-cites_cases: ["102 Wn.2d 432", "103 Wn.2d 361", "111 Wn.2d 1010", "116 Wn.2d 1027", "13 Wn. App. 863", "338 U.S. 160", "438 U.S. 154", "449 U.S. 873", "488 U.S. 1008", "51 Wn. App. 33", "515 P.2d 496", "538 P.2d 861", "60 Wn. App. 298", "610 P.2d 869", "632 P.2d 44", "64 Wn. App. 505", "688 P.2d 136", "693 P.2d 81", "751 P.2d 1221", "803 P.2d 813", "83 Wn.2d 49", "93 L. Ed. 1879", "93 Wn.2d 329", "95 Wn.2d 898"]
+cites_cases: ["102 Wn.2d 432", "103 Wn.2d 361", "111 Wn.2d 1010", "116 Wn.2d 1027", "13 Wn. App. 863", "338 U.S. 160", "438 U.S. 154", "449 U.S. 873", "488 U.S. 1008", "51 Wn. App. 33", "515 P.2d 496", "538 P.2d 861", "60 Wn. App. 298", "610 P.2d 869", "632 P.2d 44", "688 P.2d 136", "693 P.2d 81", "751 P.2d 1221", "803 P.2d 813", "83 Wn.2d 49", "93 L. Ed. 1879", "93 Wn.2d 329", "95 Wn.2d 898"]
 ---
 
 # State v. Remboldt
