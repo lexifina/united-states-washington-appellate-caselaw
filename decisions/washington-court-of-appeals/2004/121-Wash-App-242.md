@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51658-2-I"
 decided: "2004-01-20"
-citations: ["121 Wash. App. 242", "119 Wash. App. 1081"]
+citations: ["121 Wash. App. 242"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Elizabeth F. Kinney, Appellant, v. The Space Needle Corporation, Resp
 source_url: "https://static.case.law/wash-app/121/cases/0242-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 864087
-cites_cases: ["114 Wn.2d 454", "116 Wn.2d 131", "121 Wn. App. 242", "129 Wn.2d 84", "147 Wn.2d 114", "399 P.2d 591", "47 Wash. 48", "52 P.3d 472", "582 P.2d 500", "60 Wn. App. 125", "65 Wn.2d 777", "656 P.2d 1030", "788 P.2d 545", "802 P.2d 790", "803 P.2d 4", "90 Wn.2d 323", "91 P. 549", "915 P.2d 1089", "98 Wn.2d 434"]
+cites_cases: ["114 Wn.2d 454", "116 Wn.2d 131", "129 Wn.2d 84", "147 Wn.2d 114", "399 P.2d 591", "47 Wash. 48", "52 P.3d 472", "582 P.2d 500", "60 Wn. App. 125", "65 Wn.2d 777", "656 P.2d 1030", "788 P.2d 545", "802 P.2d 790", "803 P.2d 4", "90 Wn.2d 323", "91 P. 549", "915 P.2d 1089", "98 Wn.2d 434"]
 ---
 
 # Kinney v. Space Needle Corp.
