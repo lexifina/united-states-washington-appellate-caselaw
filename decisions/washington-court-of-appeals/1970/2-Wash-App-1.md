@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "52-40569-2"
+decided: "1970-03-05"
+citations: ["2 Wash. App. 1"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Reinhold Lehne et al., Appellants, v. Raymond John Bishop et al., Defendants, Beneficial Fire & Casualty Insurance Company, Respondent."]
+source_url: "https://static.case.law/wash-app/2/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1847533
+cites_cases: ["65 Wn.2d 627", "65 Wn.2d 629"]
+---
+
+# Lehne v. Bishop
+
+## Majority (Armstrong, C. J.)
+
+Armstrong, C. J.
+Plaintiffs, Reinhold Lehne and Ros-swell Kinney, appeal from a dismissal of their garnishment action against defendant insurance company. Plaintiffs had secured a judgment against defendant Raymond John Bishop for property damage and personal injuries caused by a collision of defendant’s 1957 Ford with an automobile owned and driven by plaintiff Kinney on November 12, 1966. Plaintiff Lehne was riding in the Kinney vehicle as a passenger.
+The garnishee defendant, Beneficial Fire & Casualty Insurance Company, had denied insurance coverage because the automobile involved in the accident was not the automobile described in the policy. The described automobile was a 1956 Nash.
+Defendant Bishop owned both vehicles at the time of the accident. He purchased the Nash on September 19, 1966, from Louis Sculati, a used car salesman. At the same time he purchased the insurance policy in question from Mr. Sculati who operated an insurance business from his home under the name of Sculati Insurance Agency.
+The Ford had been inoperable and in a repair shop when defendant purchased the Nash. It was subsequently repaired. Whether there was liability insurance on the Ford during the month of November 1966 was disputed. We find no substantial evidence that it was insured at that time.
+Around the first part of November 1966, the starter burned out in the Nash. Defendant Bishop could operate the Nash only by having someone push the car to get it started. Mr. Bishop then started using the Ford. About 2 weeks before the accident he telephoned Mr. Sculati and asked him if he was covered when driving the Ford. Defendant testified on direct examination as follows:
+Q. Now, did you at any time prior to the accident [of November 12, 1966] have any conversation with your insurance agent, Mr. Sculati, with reference to the fact that you were substituting a vehicle for the Nash, which wouldn’t' run? . . .A. Before the accident? Q. Yes, before the accident. When you started using the Ford car. A. I asked him if I was insured with the Ford, and he said — ... He ‘said that I was insured as long as the • other car was .out of commission. Q. Can you give us an-approximate time when you had this conversation with Mr. Sculati, having in mind .that I have already advised you that this accident occurred November ,12, 1966? A. Well, when I started driving, when I was going to drive-th'e Ford after the Nash had the starter out, I asked Louie-if I was insured if I drove 'the Ford, and 'he said- yes.' . . . Q. How long before the accident did this conversation take place? A. A couple of weeks.
+(Italics ours.)
+One may reasonably infer that Mr. Bishop’s- reason for telephoning Mr. Sculati and inquiring as to the terms of his insurance policy with the garnishee defendant insurance company was that the insuring agreement, conditions and exclusions were printed in type so microscopic as to be unreadable by the average person without the aid of some optical device. Defendant Bishop said he couldn’t read it. The trial court stated that the minute type could be read only with a magnifying glass.
+Although the statements of defendant were disputed by Mr. Sculati, the trial court stated that it did not believe Mr. Sculati and would accept the statement made by defendant that Mr. Sculati told him he was insured while driving the Ford “as long as the other car was out of commission”.
+The assignments of error raise issues of interpretation of the policy and the question of whether or not the insurance company should be estopped from denying the policy coverage to the 1957 Ford automobile because of the microscopic type and the agent’s statement relied upon by the insured defendant.
+Plaintiffs contend that National Indem. Co. v. Giampapa, 65 Wn.2d 627, 399. P.2d 81 (1965), is squarely in point. In that case the “described automobile” became permanently inoperable and the insured commenced to use another automobile he owned at the time of taking out the insurance on the “described automobile”. The transmission went out on the “described automobile”. The car was never used again and was junked. Applying the “newly acquired automobile” provision of that policy our Supreme Court stated at 65 Wn.2d 629-30:
+Under the facts, as stated, and under the explicit findings of the trial court, Killmer did not commence his use of the 1956 Ford until March 11, 1961, which was after the 1949 Cadillac became inoperable, and, furthermore, the 1956 Ford was then his only operable car. There is no question here of.the insurance being used to cover two operable cars.
+It is the purpose of such policies, on the one hand, to protect other users of the highways and, on the other hand, to limit the liability of the insurance company to the operation of one car by the insured. Where an insured possesses several operable cars, there would always be the possibility that he could claim to have replaced the “Described Automobile” with whatever car he happened to be driving when he became involved in an accident. The cases, consequently, hold that in the absence of the notice of a replacement of the “Described Automobile,” if provided by the policy, there can be no replacement with another car so long as the “Described Automobile” is owned by the insured and remains operable.
+Our Supreme Court then held that the date of acquisition of an automobile is immaterial under the “newly acquired automobile” clause where the policy definition of that term was simply an automobile “ ‘ownership of which is acquired by the named insured ... if ... it replaces an automobile . . . covered by this policy. . . .’ ” National Indent. Co. v. Giampapa, supra, at 633.
+Such minute print as that which appears in the insuring agreement has been described by other courts as “Lilliputian” and “microprint”. We prefer to reproduce the pertinent sections of the insuring agreement in the actual size in which it appeared on the policy delivered to the insured defendant so that there may be no question as to its size and readability.
+This court would not enforce the provisions of an insurance policy against the insured when the policy delivered to the insured is printed in type too small for the average layman to read and understand. We would find such conduct unconscionable.
+We are not required, however, to determine the effect of concealing the conditions of the policy in print so small that it is unreadable to the average person because the trial court stated:
+Even though you accept Bishop’s testimony, which I’m inclined to do, because Sculati didn’t impress me at all the way he testified here, I’ve expressed myself clearly, I think he was lying, frankly. I don’t like to call a man a liar, but even if you accept that, then you can’t go any further than Bishop’s testimony, and Bishop’s testimony, as I saw it, didn’t go any further than the policy goes.
+The “newly acquired automobile” clause, as clearly set forth in larger, readable print, in the financing company’s copy of the insurance policy, is identically the same clause interpreted in National Indem. Co. v. Giampapa, supra.
+The trial court found that defendant’s car was not “out of commission” or inoperable, because, after the telephone conversation with the insurance agent and on numerous occasions up to the time of the accident, the insured defendant had the Nash pushed to start it and then drove it to and from work. On the night in question he drove the Ford. After the accident he installed a new starter at a cost of $15.75 and continued driving the Nash.
+There was substantial evidence to the effect that defendant Bishop was alternating the operation of his two cars during the 2 weeks prior to the accident. This supports the trial court’s conclusion that defendant Bishop had two operable cars even though one had to be pushed in order to get it started. National Indem. Co. v. Giampapa, supra, is not applicable to a situation in which the insurance on one car is being used to cover two operable cars.
+The judgment is affirmed.
+Pearson and Petrie, JJ., concur.
