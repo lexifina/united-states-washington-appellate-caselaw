@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41761-4-I"
 decided: "1999-05-24"
-citations: ["96 Wash. App. 678", "95 Wash. App. 1051"]
+citations: ["96 Wash. App. 678"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Alonzo Bradley, Appellant."]
 source_url: "https://static.case.law/wash-app/96/cases/0678-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128450
-cites_cases: ["101 Wn.2d 612", "103 Wn.2d 426", "104 Wn.2d 1010", "112 Wn.2d 347", "119 Wn.2d 192", "121 Wn.2d 220", "125 Wn.2d 1016", "127 Wn.2d 322", "128 Wn.2d 896", "13 Wn. App. 460", "131 Wn.2d 469", "132 Wn.2d 1", "135 Wn.2d 863", "139 Wn.2d 1009", "397 U.S. 358", "40 Wn. App. 483", "466 U.S. 668", "536 P.2d 20", "55 Wn. App. 30", "616 P.2d 628", "67 Wn. App. 442", "683 P.2d 1069", "693 P.2d 89", "698 P.2d 1123", "71 Wn. App. 837", "74 Wn. App. 715", "77 A.L.R.3d 270", "771 P.2d 330", "776 P.2d 727", "829 P.2d 1068", "837 P.2d 628", "85 Wn.2d 1014", "850 P.2d 495", "863 P.2d 102", "876 P.2d 916", "89 Wn. App. 364", "899 P.2d 1251", "913 P.2d 369", "932 P.2d 1237", "935 P.2d 1294", "94 Wn.2d 216", "949 P.2d 821", "959 P.2d 1061", "96 Wn. App. 678"]
+cites_cases: ["101 Wn.2d 612", "103 Wn.2d 426", "104 Wn.2d 1010", "112 Wn.2d 347", "119 Wn.2d 192", "121 Wn.2d 220", "125 Wn.2d 1016", "127 Wn.2d 322", "128 Wn.2d 896", "13 Wn. App. 460", "131 Wn.2d 469", "132 Wn.2d 1", "135 Wn.2d 863", "139 Wn.2d 1009", "397 U.S. 358", "40 Wn. App. 483", "466 U.S. 668", "536 P.2d 20", "55 Wn. App. 30", "616 P.2d 628", "67 Wn. App. 442", "683 P.2d 1069", "693 P.2d 89", "698 P.2d 1123", "71 Wn. App. 837", "74 Wn. App. 715", "77 A.L.R.3d 270", "771 P.2d 330", "776 P.2d 727", "829 P.2d 1068", "837 P.2d 628", "85 Wn.2d 1014", "850 P.2d 495", "863 P.2d 102", "876 P.2d 916", "89 Wn. App. 364", "899 P.2d 1251", "913 P.2d 369", "932 P.2d 1237", "935 P.2d 1294", "94 Wn.2d 216", "949 P.2d 821", "959 P.2d 1061"]
 ---
 
 # State v. Bradley
