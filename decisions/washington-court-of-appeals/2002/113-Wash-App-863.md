@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49205-5-I; 49817-7-I"
 decided: "2002-09-09"
-citations: ["113 Wash. App. 863", "113 Wash. App. 1031"]
+citations: ["113 Wash. App. 863"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Cynthia L. Burrill, Appellant, and D
 source_url: "https://static.case.law/wash-app/113/cases/0863-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764578
-cites_cases: ["10 P.3d 417", "102 Wn. App. 422", "105 Wn. App. 683", "110 Wn. App. 370", "113 Wn. App. 863", "115 Wn.2d 60", "142 Wn.2d 1018", "149 Wn.2d 1007", "20 P.3d 972", "40 P.3d 1192", "53 Wn. App. 579", "583 P.2d 621", "770 P.2d 197", "78 Wn. App. 287", "794 P.2d 850", "897 P.2d 388", "90 Wn.2d 384"]
+cites_cases: ["10 P.3d 417", "102 Wn. App. 422", "105 Wn. App. 683", "110 Wn. App. 370", "115 Wn.2d 60", "142 Wn.2d 1018", "149 Wn.2d 1007", "20 P.3d 972", "40 P.3d 1192", "53 Wn. App. 579", "583 P.2d 621", "770 P.2d 197", "78 Wn. App. 287", "794 P.2d 850", "897 P.2d 388", "90 Wn.2d 384"]
 ---
 
 # In re the Marriage of Burrill
