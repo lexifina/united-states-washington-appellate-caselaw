@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52713-4-I"
 decided: "2004-05-03"
-citations: ["121 Wash. App. 879", "121 Wash. App. 1031"]
+citations: ["121 Wash. App. 879"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Allstate Insurance Company, Appellant, v. Gregory L. Bowen, et al., R
 source_url: "https://static.case.law/wash-app/121/cases/0879-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 863800
-cites_cases: ["1 P.3d 1167", "102 Wn.2d 477", "103 Wn.2d 594", "106 Wn.2d 901", "117 Wn.2d 37", "119 Wn.2d 724", "121 Wn. App. 879", "121 Wn.2d 810", "136 Wn.2d 1005", "140 Wn.2d 1013", "141 Wn.2d 55", "142 Wn.2d 654", "147 Wn.2d 751", "148 Wn.2d 929", "15 P.3d 115", "26 Kan. App. 2d 183", "42 U.S.C. § 1983", "44 Wn. App. 327", "54 Wn. App. 400", "58 P.3d 276", "64 P.3d 1239", "656 P.2d 1077", "661 P.2d 971", "687 P.2d 1139", "694 P.2d 1078", "721 P.2d 34", "726 P.2d 439", "773 P.2d 906", "81 Wn. App. 293", "811 P.2d 673", "837 P.2d 1000", "854 P.2d 1072", "90 Wn. App. 234", "914 P.2d 119", "932 S.W.2d 732", "951 P.2d 367", "97 Wn. App. 335", "97 Wn. App. 417", "98 Wn.2d 533", "983 P.2d 1155", "983 P.2d 707", "99 Wn.2d 280"]
+cites_cases: ["1 P.3d 1167", "102 Wn.2d 477", "103 Wn.2d 594", "106 Wn.2d 901", "117 Wn.2d 37", "119 Wn.2d 724", "121 Wn.2d 810", "136 Wn.2d 1005", "140 Wn.2d 1013", "141 Wn.2d 55", "142 Wn.2d 654", "147 Wn.2d 751", "148 Wn.2d 929", "15 P.3d 115", "26 Kan. App. 2d 183", "42 U.S.C. § 1983", "44 Wn. App. 327", "54 Wn. App. 400", "58 P.3d 276", "64 P.3d 1239", "656 P.2d 1077", "661 P.2d 971", "687 P.2d 1139", "694 P.2d 1078", "721 P.2d 34", "726 P.2d 439", "773 P.2d 906", "81 Wn. App. 293", "811 P.2d 673", "837 P.2d 1000", "854 P.2d 1072", "90 Wn. App. 234", "914 P.2d 119", "932 S.W.2d 732", "951 P.2d 367", "97 Wn. App. 335", "97 Wn. App. 417", "98 Wn.2d 533", "983 P.2d 1155", "983 P.2d 707", "99 Wn.2d 280"]
 ---
 
 # Allstate Insurance v. Bowen
