@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52196-9-I; 52367-8-I"
 decided: "2004-06-01"
-citations: ["123 Wash. App. 161", "121 Wash. App. 1064"]
+citations: ["123 Wash. App. 161"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Chevron U.S.A., Inc., Appellant, v. The Central Puget Sound Growth Ma
 source_url: "https://static.case.law/wash-app/123/cases/0161-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1118029
-cites_cases: ["112 Wn. App. 354", "116 Wn. App. 48", "123 Wn. App. 161", "136 Wn.2d 38", "138 Wn.2d 161", "148 Wn.2d 1017", "150 Wn.2d 1007", "153 Wn.2d 1023", "382 P.2d 628", "49 P.3d 142", "510 P.2d 1166", "62 Wn.2d 324", "65 P.3d 337", "9 Wn. App. 109", "904 F.2d 497", "94 Wn. App. 645", "959 P.2d 1091", "972 P.2d 543", "979 P.2d 374", "98 Wn. App. 275", "990 P.2d 405"]
+cites_cases: ["112 Wn. App. 354", "116 Wn. App. 48", "136 Wn.2d 38", "138 Wn.2d 161", "148 Wn.2d 1017", "150 Wn.2d 1007", "153 Wn.2d 1023", "382 P.2d 628", "49 P.3d 142", "510 P.2d 1166", "62 Wn.2d 324", "65 P.3d 337", "9 Wn. App. 109", "904 F.2d 497", "94 Wn. App. 645", "959 P.2d 1091", "972 P.2d 543", "979 P.2d 374", "98 Wn. App. 275", "990 P.2d 405"]
 ---
 
 # Chevron U.S.A., Inc. v. Central Puget Sound Growth Management Hearings Board
