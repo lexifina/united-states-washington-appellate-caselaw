@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19153-5-I"
 decided: "1987-10-05"
-citations: ["49 Wash. App. 842", "49 Wash. App. 1039"]
+citations: ["49 Wash. App. 842"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Harley Hudgens, Appellant, v. The City of Renton, Respondent."]
 source_url: "https://static.case.law/wash-app/49/cases/0842-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739032
-cites_cases: ["105 Wn.2d 606", "36 Wn. App. 25", "44 Wn. App. 882", "49 Wn. App. 842", "588 P.2d 1164", "671 P.2d 280", "717 P.2d 1353", "724 P.2d 379", "91 Wn.2d 482"]
+cites_cases: ["105 Wn.2d 606", "36 Wn. App. 25", "44 Wn. App. 882", "588 P.2d 1164", "671 P.2d 280", "717 P.2d 1353", "724 P.2d 379", "91 Wn.2d 482"]
 ---
 
 # Hudgens v. City of Renton
