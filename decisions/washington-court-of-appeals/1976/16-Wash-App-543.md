@@ -1,0 +1,34 @@
+---
+court: "Washington Court of Appeals"
+docket: "3610-1; 3736-1"
+decided: "1976-12-20"
+citations: ["16 Wash. App. 543"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["T. G. Chambers, et al, Appellants, v. James W. Cranston, et al, Defendants, Citizens Savings & Loan Association, Respondent."]
+source_url: "https://static.case.law/wash-app/16/cases/0543-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1771033
+cites_cases: ["104 P. 639", "173 P.2d 977", "26 Wn.2d 246", "338 P.2d 757", "358 P.2d 550", "385 P.2d 41", "4 Wn. App. 500", "425 P.2d 891", "452 P.2d 222", "455 P.2d 946", "482 P.2d 336", "54 Wn.2d 161", "55 Wash. 336", "57 Wn.2d 571", "62 Wn.2d 884", "70 Wn.2d 915", "73 A.L.R.2d 1400", "75 Wn.2d 456", "76 Wn.2d 220"]
+---
+
+# Chambers v. Cranston
+
+## Majority (Williams, C.J.)
+
+Williams, C.J.
+T. G. and Phyllis Chambers brought this action against James W. and Carolyn Cranston to adjudicate termination of the Cranstons’ interest as purchasers in a real estate contract, and against Citizens Savings and Loan Association to quiet title to the property involved. In its answer, Citizens admitted the complaint against the Cranstons, alleged tender of payment and a willingness to cure any default in the terms of the contract, and cross-complained against the Cranstons for foreclosure of the mortgage it held against the Cranstons’ interest in the contract. The Cranstons defaulted, and both Chambers and Citizens moved for summary judgment. The court granted Citizens’ motion and entered judgment declaring the Cranstons’ interest forfeited and establishing Citizens as the contract purchaser. The Chambers appeal; we reverse.
+The undisputed facts may be summarized as follows: In the fall of 1972, the Chambers sold a piece of land in San Juan County to the Cranstons on a contract calling for annual payments of $5,000 each October 15. The Cranstons built a house on the property and, in November 1973, mortgaged their purchasers’ interest to Citizens to secure the payment of $50,000.
+The Cranstons did not make the annual $5,000 payment on October 15, 1974. Citizens offered to pay off the contract at a 10 percent discount. The Chambers declined and on October 25, 1974, sent the Cranstons and Citizens a “notice of intention to declare forfeiture of contract” which required, the $5,000 payment to be made by November 15, 1974. No payment was made, and on November 18, 1974, the Chambers instituted this action. On November 26, Citizens tendered $5,000 to the Chambers’ attorney on the following basis:
+Here is our client’s check for $5,000 endorsed to your order, sent to you in trust until the court rules that our client succeeds to Cranstons’ rights under the ChambersCranston contract by reason of this payment. You are requested to place these funds in an interest-bearing account.
+You will receive our answer and cross-complaint by the end of next week.
+Exhibit 4.
+On December 10, 1974, Citizens filed an answer and cross complaint in which it prayed for judgment that the Cranstons’ interest in the real estate contract be “assumed” by it, for a money judgment against the Cranstons and the property, and for foreclosure and sale. The Cranstons did not appear. On January 28,1975, the court ordered foreclosure of Citizens’ mortgage and sale of the property. On April 14, 1975, the court entered judgment requiring the Chambers to accept the $5,000 which had been tendered to their attorney and, upon its return by the attorney, deposited in court. The judgment also substituted Citizens for the Cranstons as the contract purchaser.
+The rules governing the relative rights of the parties are as follows: Forfeiture provisions in contracts of sale are recognized, but they are not favored in law and are never enforced in equity unless the right to do so is clear. Dill v. Zielke, 26 Wn.2d 246, 173 P.2d 977 (1946). A forfeiture can be avoided by a tender of overdue payments bringing the contractual relationship to date, unless the financial stability of the seller is threatened through recurring default or otherwise. Hansen, Inc. v. Pacific Int’l Corp., 76 Wn.2d 220, 455 P.2d 946 (1969); State ex rel. Foley v. Superior Court, 57 Wn.2d 571, 358 P.2d 550 (1961); Will Rogers Farm Agency, Inc. v. Stafford, 4 Wn. App. 500, 482 P.2d 336 (1971). The purchaser in an executory real estate contract has an interest which he can mortgage. Sigman v. Stevens-Norton, Inc., 70 Wn.2d 915, 425 P.2d 891 (1967); Nelson v. Bailey, 54 Wn.2d 161, 338 P.2d 757, 73 A.L.R.2d 1400 (1959). If the purchaser has mortgaged his interest, the mortgagee is entitled to notice of forfeiture if the seller knows of the mortgage, and the mortgagee has the right to tender payments to the seller necessary to protect his security, i.e., to keep the contract in effect. Scott v. Farnam, 55 Wash. 336, 104 P. 639 (1909). A mortgagee has no right to possession of mortgaged real property unless there is a “foreclosure and sale according to law”. RCW 7.28.230; Howard v. Edgren, 62 Wn.2d 884, 385 P.2d 41 (1963). Until the foreclosure and sale, the mortgagee of the contract purchaser has a lien right, only. Kendrick v. Davis, 75 Wn.2d 456, 452 P.2d 222 (1969).
+Accordingly, Citizens did have the right to protect its security interest by keeping the contract in effect. The sole issue is whether it did so. We believe it did not, because the tender of the $5,000 payment was conditioned upon Citizens’ succession to the Cranstons’ rights. This could be accomplished by a conveyance from the Cranstons or by a foreclosure and sale. Until one of these events' transpired, however, Citizens had no right to possession and was not entitled to a transfer of the Cranstons’ full interest to itself.
+There is no question as to Citizens’ ability to pay—that was demonstrated by the conditional tender of the $5,000 —it is simply that Citizens did not intend to release its money until the lien on the Cranstons’ interest was converted into the full position of purchaser under the contract. Equity seeks fairly to protect all parties who act fairly. Citizens’ jockeying for legal position for its own benefit was unfair to the Chambers, who had commenced the forfeiture action to enforce the contract, not to adjudicate the relative rights between the Cranstons and Citizens. Citizens had the right to notice of default and to an opportunity to keep the contract in effect, no more.
+The judgment is reversed, with direction to grant the Chambers’ motion for summary judgment forfeiting the purchasers’ interest in the contract and quieting title in them.
+James and Andersen, JJ., concur.
+Petition for rehearing denied April 29, 1977.
+Review by Supreme Court pending September 29, 1977.
