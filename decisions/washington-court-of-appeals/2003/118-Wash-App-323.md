@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28363-8-II"
 decided: "2003-07-01"
-citations: ["118 Wash. App. 323", "117 Wash. App. 1045"]
+citations: ["118 Wash. App. 323"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Duane Alan Dolan, Jr., Appell
 source_url: "https://static.case.law/wash-app/118/cases/0323-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352606
-cites_cases: ["104 P. 275", "104 Wn.2d 412", "113 Wn.2d 1002", "116 Wn.2d 1025", "116 Wn.2d 1026", "117 Wn.2d 211", "118 Wn. App. 323", "118 Wn.2d 1021", "119 Wn.2d 1007", "127 Wn.2d 322", "13 P.2d 53", "133 Wn.2d 1019", "140 Wn.2d 1022", "144 Wn.2d 753", "152 P.2d 314", "168 Wash. 669", "21 Wn.2d 581", "30 P.3d 1278", "386 U.S. 18", "40 Wn. App. 698", "415 U.S. 308", "469 U.S. 45", "475 U.S. 1020", "48 Wash. 218", "488 U.S. 227", "53 Wn. App. 754", "55 Wash. 302", "56 F.R.D. 183", "60 Wn. App. 289", "60 Wn. App. 60", "63 Wn. App. 336", "64 Wn. App. 641", "700 P.2d 323", "705 P.2d 1182", "71 Wn. App. 444", "770 P.2d 662", "80 Wn. App. 116", "802 P.2d 803", "803 P.2d 808", "813 P.2d 1238", "818 P.2d 1369", "826 P.2d 698", "859 P.2d 60", "86 Wn. App. 312", "88 Wn. App. 26", "899 P.2d 1251", "906 P.2d 999", "92 Wn. App. 254", "93 P. 317", "936 P.2d 426", "943 P.2d 692", "966 P.2d 327", "97 Wn. App. 832", "98 A.L.R. 3d 1060", "988 P.2d 977"]
+cites_cases: ["104 P. 275", "104 Wn.2d 412", "113 Wn.2d 1002", "116 Wn.2d 1025", "116 Wn.2d 1026", "117 Wn.2d 211", "118 Wn.2d 1021", "119 Wn.2d 1007", "127 Wn.2d 322", "13 P.2d 53", "133 Wn.2d 1019", "140 Wn.2d 1022", "144 Wn.2d 753", "152 P.2d 314", "168 Wash. 669", "21 Wn.2d 581", "30 P.3d 1278", "386 U.S. 18", "40 Wn. App. 698", "415 U.S. 308", "469 U.S. 45", "475 U.S. 1020", "48 Wash. 218", "488 U.S. 227", "53 Wn. App. 754", "55 Wash. 302", "56 F.R.D. 183", "60 Wn. App. 289", "60 Wn. App. 60", "63 Wn. App. 336", "64 Wn. App. 641", "700 P.2d 323", "705 P.2d 1182", "71 Wn. App. 444", "770 P.2d 662", "80 Wn. App. 116", "802 P.2d 803", "803 P.2d 808", "813 P.2d 1238", "818 P.2d 1369", "826 P.2d 698", "859 P.2d 60", "86 Wn. App. 312", "88 Wn. App. 26", "899 P.2d 1251", "906 P.2d 999", "92 Wn. App. 254", "93 P. 317", "936 P.2d 426", "943 P.2d 692", "966 P.2d 327", "97 Wn. App. 832", "98 A.L.R. 3d 1060", "988 P.2d 977"]
 ---
 
 # State v. Dolan
