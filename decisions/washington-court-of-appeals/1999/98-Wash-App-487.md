@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41128-4-I"
 decided: "1999-06-01"
-citations: ["98 Wash. App. 487", "95 Wash. App. 1060"]
+citations: ["98 Wash. App. 487"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tina Van Noy, et al., Appellants, v. State Farm Mutual Automobile Ins
 source_url: "https://static.case.law/wash-app/98/cases/0487-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155729
-cites_cases: ["105 Wn.2d 381", "105 Wn.2d 778", "114 Wn.2d 907", "121 Wn.2d 243", "121 Wn.2d 869", "123 Wn.2d 131", "123 Wn.2d 891", "128 Wn.2d 26", "136 Wn.2d 269", "139 Wn.2d 1022", "180 P.2d 815", "27 Wn.2d 829", "379 P.2d 724", "44 A.L.R.4th 905", "61 Wn.2d 636", "715 P.2d 1133", "719 P.2d 531", "75 Wn. App. 452", "79 Wn. App. 798", "792 P.2d 520", "84 Wn. App. 577", "850 P.2d 1298", "854 P.2d 622", "865 P.2d 507", "874 P.2d 142", "880 P.2d 558", "904 P.2d 731", "905 P.2d 404", "929 P.2d 484", "961 P.2d 933", "98 Wn. App. 487"]
+cites_cases: ["105 Wn.2d 381", "105 Wn.2d 778", "114 Wn.2d 907", "121 Wn.2d 243", "121 Wn.2d 869", "123 Wn.2d 131", "123 Wn.2d 891", "128 Wn.2d 26", "136 Wn.2d 269", "139 Wn.2d 1022", "180 P.2d 815", "27 Wn.2d 829", "379 P.2d 724", "44 A.L.R.4th 905", "61 Wn.2d 636", "715 P.2d 1133", "719 P.2d 531", "75 Wn. App. 452", "79 Wn. App. 798", "792 P.2d 520", "84 Wn. App. 577", "850 P.2d 1298", "854 P.2d 622", "865 P.2d 507", "874 P.2d 142", "880 P.2d 558", "904 P.2d 731", "905 P.2d 404", "929 P.2d 484", "961 P.2d 933"]
 ---
 
 # Van Noy v. State Farm Mutual Automobile Insurance
