@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "1960-3"
+decided: "1976-06-21"
+citations: ["15 Wash. App. 672"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Bradley William Henkel, Petitioner, Fred R. Staples, Judge of the Superior Court for Franklin County, Respondent."]
+source_url: "https://static.case.law/wash-app/15/cases/0672-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1776202
+---
+
+# State v. Henkel
+
+## Majority (Munson, J.)
+
+Munson, J.
+Can an indigent person, having been committed as criminally insane, obtain an independent psychiatric examination as a matter of right prior to petitioning for conditional release as provided for by RCW 10.77.150? Not as a matter of right.
+Bradley Henkel is presently confined to the mental health unit of the Washington State Reformatory. In January of 1976, he applied to the Franklin County Superior Court for an order appointing a psychiatrist to conduct an independent psychiatric examination at state expense. The petitioner’s request was denied; the court stated that it would not approve the petitioner’s request until such time as the petitioner had demonstrated: (1) that a current and timely mental examination report was not on file as required by the provisions of RCW 10.77.140, or (2) that the currently filed mental examination was either inadequate or unsuitable to support the petitioner’s application for conditional release. Petitioner seeks a writ of mandamus direefing the Franklin County Superior Court to grant his application for an appointment of a psychiatrist to conduct an independent examination.
+Petitioner contends that the Superior Court must appoint a psychiatrist to conduct an independent examination upon the request of the indigent petitioner, because RCW 10.77.020 (2), which provides in part,
+Whenever any person is subjected to an examination pursuant to any provision of this chapter, he may retain an expert or professional person to perform an examination in his behalf. In the case of a person who is indigent, the court shall upon his request assist the person in obtaining an expert or professional person to perform an examination or participate in the hearing on his behalf.
+(Italics ours.) is controlling as to any examination conducted pursuant to the provisions of RCW 10.77. We disagree.
+The legislature expressly provided in RCW. 10.77.150 that persons examined pursuant to RCW 10.77.140 could make application for a conditional release. RCW 10.77.140 provides that, as to an indigent seeking an independent examination, the court “may appoint” a qualified expert. We' believe the legislature intended the discretionary language contained in RCW 10.77.140 be made applicable to persons seeking a conditional release as expressly provided for in RCW 10.77.150.
+The trial court properly exercised its statutory discretion. We do not deem the conditions placed upon the petitioner’s request to be unreasonable or an abuse of the Court’s discretion. The petitioner is entitled as a matter of law to. an examination at least once every 6 months. Should such examination be conducted and be favorable to the petitioner, it would be an unnecessary state expense to provide an, additional examination. If the examination was unfavorable or less than supportive of petitioner’s request for a conditional release, he may reapply to the Superior Court for appointment of an independent expert.
+The petition for a writ of mandamus is denied.
+McInturff, C.J., and Green, J., concur.
+Petition for rehearing denied September 21,1976.
+Review denied by Supreme Court February 7, 1977.
+“(1) Persons examined pursuant to RCW 10.77.140, as now or hereafter amended, may make application to the secretary for conditional release. The secretary shall, after considering the reports of experts or professional persons conducting the examination pursuant to RCW 10.77.140, forward to the court of the county which ordered his commitment the person’s application for conditional release as well as his recommendations concerning the application and any proposed terms and conditions upon which he reasonably believes the person can be conditionally released. Conditional release may also contemplate partial release for work, training, or educational purposes.
+“(2) The court of the county which ordered his commitment, upon receipt of an application for conditional release with the secretary’s recommendation for conditional release, shall within thirty days schedule a hearing. The court may schedule a hearing on applications recommended for disapproval by the secretary. The prosecuting attorney shall represent the state at such hearings and shall have the right to have the patient examined by an expert or professional person of his choice. If the committed person is indigent, and he so requests, the court shall appoint a qualified expert or professional person to examine him on his behalf. The issue to be determined at such a hearing is whether or not the person may be released conditionally without substantial danger to other persons, or substantial likelihood of committing felonious acts jeopardizing public safety or security. The court, after the hearing, shall rule on the secretary’s recommendations, and if it disapproves of conditional release, may do so only on the basis of substantial evidence. The court may modify the suggested terms and conditions on which the person is to be conditionally released. Pursuant to the determination of the court after hearing, the committed person shall thereupon be released on such conditions as the court determines to be necessary, or shall be remitted to the custody of the secretary.
+“(3) Any person, whose application for conditional release has been denied, may reapply after a period of six months from the date of denial.”
+This confinement is pursuant to a judgment of acquittal and order of commitment dated December 20, 1973, acquitting petitioner of robbery on the grounds of mental disorder or defect, but finding him a substantial danger to himself or others and in need of control by the court. RCW 10.77.080.
+“Each person committed to a hospital or other facility or conditionally released pursuant to this chapter shall have a current examination of his mental condition made by one or more experts or professional persons at least once every six months. Said person may retain, or if he is indigent and so requests, the court may appoint a qualified expert or professional person to examine him, and such expert or professional person shall have access to all hospital records concerning the person. The secretary, upon receipt of the periodic report, shall provide written notice to the court of commitment of compliance with the requirements' of this section.”
+The language of RCW 10.77.020 provides that the court shall “assist the person in obtaining an expert,” as opposed to the language in RCW 10.77:140, which provides the court may “appoint” a qualified' expert. We do not equate the language of these two provisions of RCW 10.77; The appointment of a qualified expert within RCW 10.77.140 is within the sound discretion of the trial court.
+An examination conducted in February 1976, pursuant to RCW 10.77.140, but subsequent to petitioner’s January hearing on his application, recommended transfer to a state hospital.
