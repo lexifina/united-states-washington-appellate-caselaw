@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20360-3-III"
 decided: "2002-04-04"
-citations: ["111 Wash. App. 789", "110 Wash. App. 1086"]
+citations: ["111 Wash. App. 789"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Brian Lee Benefiel, Appellant
 source_url: "https://static.case.law/wash-app/111/cases/0789-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1071856
-cites_cases: ["106 Wn.2d 514", "107 Wn. App. 450", "111 Wn. App. 789", "117 Wn.2d 701", "120 Wn.2d 327", "121 Wn.2d 787", "129 Wn.2d 1", "130 Wn.2d 464", "133 Wn.2d 847", "147 Wn.2d 1014", "27 P.3d 639", "58 Wn. App. 740", "62 Wn. App. 135", "723 P.2d 1117", "74 Wn. App. 346", "76 Wn. App. 174", "78 Wn. App. 134", "794 P.2d 1316", "813 P.2d 146", "818 P.2d 1088", "841 P.2d 42", "854 P.2d 637", "872 P.2d 1145", "883 P.2d 341", "896 P.2d 91", "914 P.2d 57", "925 P.2d 183", "947 P.2d 1192"]
+cites_cases: ["106 Wn.2d 514", "107 Wn. App. 450", "117 Wn.2d 701", "120 Wn.2d 327", "121 Wn.2d 787", "129 Wn.2d 1", "130 Wn.2d 464", "133 Wn.2d 847", "147 Wn.2d 1014", "27 P.3d 639", "58 Wn. App. 740", "62 Wn. App. 135", "723 P.2d 1117", "74 Wn. App. 346", "76 Wn. App. 174", "78 Wn. App. 134", "794 P.2d 1316", "813 P.2d 146", "818 P.2d 1088", "841 P.2d 42", "854 P.2d 637", "872 P.2d 1145", "883 P.2d 341", "896 P.2d 91", "914 P.2d 57", "925 P.2d 183", "947 P.2d 1192"]
 ---
 
 # State v. Benefiel
