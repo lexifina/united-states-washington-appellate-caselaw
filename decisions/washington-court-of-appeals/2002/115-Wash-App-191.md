@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27826-0-II"
 decided: "2002-12-06"
-citations: ["115 Wash. App. 191", "114 Wash. App. 1055"]
+citations: ["115 Wash. App. 191"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Adam Nelson Craig, Appellant.
 source_url: "https://static.case.law/wash-app/115/cases/0191-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 221922
-cites_cases: ["110 Wn. App. 604", "113 Wn. App. 657", "115 Wn. App. 191", "128 Wn.2d 431", "139 Wn.2d 486", "37 Am. Crim. L. Rev. 1143", "43 P.3d 522", "46 Wn. App. 388", "56 P.3d 587", "731 P.2d 1101", "909 P.2d 293", "91 Wn. App. 554", "958 P.2d 1017", "987 P.2d 73"]
+cites_cases: ["110 Wn. App. 604", "113 Wn. App. 657", "128 Wn.2d 431", "139 Wn.2d 486", "37 Am. Crim. L. Rev. 1143", "43 P.3d 522", "46 Wn. App. 388", "56 P.3d 587", "731 P.2d 1101", "909 P.2d 293", "91 Wn. App. 554", "958 P.2d 1017", "987 P.2d 73"]
 ---
 
 # State v. Craig
