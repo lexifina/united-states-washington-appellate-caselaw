@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24083-1-II"
 decided: "2000-01-28"
-citations: ["100 Wash. App. 324", "99 Wash. App. 1014"]
+citations: ["100 Wash. App. 324"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Earnestine Sunderland, et al., Respondents, v. Allstate Indemnity Com
 source_url: "https://static.case.law/wash-app/100/cases/0324-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1362987
-cites_cases: ["100 Wn. App. 324", "121 Wn.2d 1024", "133 Wn.2d 804", "137 Wn.2d 84", "141 Wn.2d 1031", "68 Wn. App. 411", "844 P.2d 438", "947 P.2d 721", "95 Wn. App. 439", "95 Wn. App. 83", "969 P.2d 446", "97 Wn. App. 977", "974 P.2d 365", "975 P.2d 544", "988 P.2d 1009"]
+cites_cases: ["121 Wn.2d 1024", "133 Wn.2d 804", "137 Wn.2d 84", "141 Wn.2d 1031", "68 Wn. App. 411", "844 P.2d 438", "947 P.2d 721", "95 Wn. App. 439", "95 Wn. App. 83", "969 P.2d 446", "97 Wn. App. 977", "974 P.2d 365", "975 P.2d 544", "988 P.2d 1009"]
 ---
 
 # Sunderland v. Allstate Indemnity Co.
