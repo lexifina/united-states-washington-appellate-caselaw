@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49174-1-I; 50496-7-I"
 decided: "2003-03-31"
-citations: ["117 Wash. App. 1", "116 Wash. App. 1024"]
+citations: ["117 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Richard Parnell Wilson, Appel
 source_url: "https://static.case.law/wash-app/117/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 653048
-cites_cases: ["10 P.3d 358", "100 Wn. App. 512", "103 Wn. App. 325", "107 Wn. App. 361", "108 Wn.2d 419", "109 Wn.2d 222", "110 Wn. App. 741", "111 Wn.2d 353", "116 Wn.2d 238", "117 Wn. App. 1", "117 Wn.2d 175", "118 Wn.2d 876", "12 P.3d 1030", "123 Wn.2d 488", "127 Wn.2d 460", "129 Wn.2d 512", "136 Wn.2d 467", "139 Wn.2d 107", "139 Wn.2d 186", "141 Wn.2d 731", "143 Wn.2d 658", "144 Wn.2d 442", "144 Wn.2d 665", "150 Wn.2d 1016", "23 P.3d 462", "27 P.3d 622", "28 P.3d 729", "29 Wn. App. 807", "30 P.3d 1245", "378 U.S. 347", "39 P.3d 294", "43 P.3d 1246", "497 U.S. 37", "533 U.S. 289", "586 P.2d 1168", "609 P.2d 1353", "61 Wn. App. 595", "610 P.2d 1322", "63 Wn. App. 688", "631 P.2d 413", "657 P.2d 1384", "66 Wn. App. 586", "739 P.2d 683", "743 P.2d 816", "759 P.2d 436", "803 P.2d 319", "811 P.2d 965", "814 P.2d 635", "821 P.2d 1248", "828 P.2d 1086", "832 P.2d 1339", "869 P.2d 1062", "901 P.2d 286", "91 Wn.2d 86", "919 P.2d 580", "93 Wn.2d 301", "93 Wn.2d 510", "965 P.2d 593", "98 Wn.2d 725", "985 P.2d 365", "985 P.2d 384", "997 P.2d 1000"]
+cites_cases: ["10 P.3d 358", "100 Wn. App. 512", "103 Wn. App. 325", "107 Wn. App. 361", "108 Wn.2d 419", "109 Wn.2d 222", "110 Wn. App. 741", "111 Wn.2d 353", "116 Wn.2d 238", "117 Wn.2d 175", "118 Wn.2d 876", "12 P.3d 1030", "123 Wn.2d 488", "127 Wn.2d 460", "129 Wn.2d 512", "136 Wn.2d 467", "139 Wn.2d 107", "139 Wn.2d 186", "141 Wn.2d 731", "143 Wn.2d 658", "144 Wn.2d 442", "144 Wn.2d 665", "150 Wn.2d 1016", "23 P.3d 462", "27 P.3d 622", "28 P.3d 729", "29 Wn. App. 807", "30 P.3d 1245", "378 U.S. 347", "39 P.3d 294", "43 P.3d 1246", "497 U.S. 37", "533 U.S. 289", "586 P.2d 1168", "609 P.2d 1353", "61 Wn. App. 595", "610 P.2d 1322", "63 Wn. App. 688", "631 P.2d 413", "657 P.2d 1384", "66 Wn. App. 586", "739 P.2d 683", "743 P.2d 816", "759 P.2d 436", "803 P.2d 319", "811 P.2d 965", "814 P.2d 635", "821 P.2d 1248", "828 P.2d 1086", "832 P.2d 1339", "869 P.2d 1062", "901 P.2d 286", "91 Wn.2d 86", "919 P.2d 580", "93 Wn.2d 301", "93 Wn.2d 510", "965 P.2d 593", "98 Wn.2d 725", "985 P.2d 365", "985 P.2d 384", "997 P.2d 1000"]
 ---
 
 # State v. Wilson
