@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46369-1-I"
 decided: "2001-09-10"
-citations: ["108 Wash. App. 378", "108 Wash. App. 1009"]
+citations: ["108 Wash. App. 378"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Miguel T. Pierre, Appellant."
 source_url: "https://static.case.law/wash-app/108/cases/0378-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 320848
-cites_cases: ["104 N.H. 443", "108 Wn. App. 378", "118 Cal. App. 2d 611", "129 Wn.2d 61", "130 Cal. App. 2d 687", "130 Wn.2d 1008", "156 P.2d 672", "162 Tex. Crim. 502", "189 A.2d 475", "22 Wn.2d 497", "241 Or. 404", "258 P.2d 557", "279 P.2d 784", "287 S.W.2d 478", "510 U.S. 266", "63 Wn. App. 833", "80 Wn. App. 916", "822 P.2d 303", "91 Idaho 808", "912 P.2d 1068", "917 P.2d 563"]
+cites_cases: ["104 N.H. 443", "118 Cal. App. 2d 611", "129 Wn.2d 61", "130 Cal. App. 2d 687", "130 Wn.2d 1008", "156 P.2d 672", "162 Tex. Crim. 502", "189 A.2d 475", "22 Wn.2d 497", "241 Or. 404", "258 P.2d 557", "279 P.2d 784", "287 S.W.2d 478", "510 U.S. 266", "63 Wn. App. 833", "80 Wn. App. 916", "822 P.2d 303", "91 Idaho 808", "912 P.2d 1068", "917 P.2d 563"]
 ---
 
 # State v. Pierre
