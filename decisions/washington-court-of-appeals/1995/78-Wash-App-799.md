@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34337-8-I"
 decided: "1995-06-19"
-citations: ["78 Wash. App. 799", "78 Wash. App. 1024"]
+citations: ["78 Wash. App. 799"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In re the Dependency of M.R. Peter Rogulj, Appellant, v. The Departme
 source_url: "https://static.case.law/wash-app/78/cases/0799-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 426271
-cites_cases: ["117 Wn.2d 263", "117 Wn.2d 460", "123 Wn.2d 1", "56 Wn. App. 356", "78 Wn. App. 799", "783 P.2d 615", "814 P.2d 652", "815 P.2d 1380", "863 P.2d 1344"]
+cites_cases: ["117 Wn.2d 263", "117 Wn.2d 460", "123 Wn.2d 1", "56 Wn. App. 356", "783 P.2d 615", "814 P.2d 652", "815 P.2d 1380", "863 P.2d 1344"]
 ---
 
 # Rogulj v. Department of Social & Health Services
