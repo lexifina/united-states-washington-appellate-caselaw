@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38912-2-I"
 decided: "1997-06-30"
-citations: ["87 Wash. App. 205", "86 Wash. App. 1079"]
+citations: ["87 Wash. App. 205"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["D.E. Bale, et al., Appellants, v. The City of Auburn, et al., Respond
 source_url: "https://static.case.law/wash-app/87/cases/0205-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 565912
-cites_cases: ["124 Wn.2d 205", "20 Wn. App. 808", "30 Wn. App. 240", "400 P.2d 789", "584 P.2d 393", "633 P.2d 892", "66 Wn.2d 33", "78 Wn. App. 654", "87 Wn. App. 205", "875 P.2d 1213", "898 P.2d 864", "96 Wn.2d 1027"]
+cites_cases: ["124 Wn.2d 205", "20 Wn. App. 808", "30 Wn. App. 240", "400 P.2d 789", "584 P.2d 393", "633 P.2d 892", "66 Wn.2d 33", "78 Wn. App. 654", "875 P.2d 1213", "898 P.2d 864", "96 Wn.2d 1027"]
 ---
 
 # Bale v. City of Auburn
