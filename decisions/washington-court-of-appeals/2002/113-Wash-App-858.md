@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23362-2-II"
 decided: "2002-08-30"
-citations: ["113 Wash. App. 858", "113 Wash. App. 1001"]
+citations: ["113 Wash. App. 858"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ray Johnson, et al., Appellants, v. Express Rent & Own, Inc., et al.,
 source_url: "https://static.case.law/wash-app/113/cases/0858-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764731
-cites_cases: ["104 F.3d 267", "113 Wn. App. 858", "144 Wn.2d 1015", "144 Wn.2d 172", "23 P.3d 440", "411 U.S. 792", "450 U.S. 248", "530 U.S. 133", "963 F.3d 173", "97 Wn. App. 657", "98 Wn. App. 1066", "986 P.2d 137"]
+cites_cases: ["104 F.3d 267", "144 Wn.2d 1015", "144 Wn.2d 172", "23 P.3d 440", "411 U.S. 792", "450 U.S. 248", "530 U.S. 133", "963 F.3d 173", "97 Wn. App. 657", "98 Wn. App. 1066", "986 P.2d 137"]
 ---
 
 # Johnson v. Express Rent & Own, Inc.
