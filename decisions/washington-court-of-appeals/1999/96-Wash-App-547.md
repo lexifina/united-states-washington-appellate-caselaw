@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41263-9-I"
 decided: "1999-07-12"
-citations: ["96 Wash. App. 547", "96 Wash. App. 1033"]
+citations: ["96 Wash. App. 547"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Washington State Bank, Respondent, v. Medalia Healthcare L.L.C., Appe
 source_url: "https://static.case.law/wash-app/96/cases/0547-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128507
-cites_cases: ["105 Wis. 2d 171", "11 U.S.C. § 101", "11 U.S.C. § 362", "12 Wn.2d 308", "12 Wn.2d 58", "120 P.2d 548", "121 P.2d 360", "134 Wn.2d 692", "140 Wn.2d 1007", "167 U.S. 178", "18 U.S.C. §§ 152", "19 Ill. Dec. 21", "2 Wash. 117", "26 P. 76", "296 P.2d 305", "30 Wn. App. 549", "321 So. 2d 448", "328 P.2d 953", "33 Ill. Dec. 115", "376 P.2d 837", "378 N.E.2d 522", "396 N.E.2d 504", "396 P.2d 155", "445 P.2d 334", "48 Wn.2d 637", "490 P.2d 118", "5 Wn. App. 560", "50 Cal. 2d 594", "61 Ill. App. 3d 947", "61 Wn.2d 1", "626 S.W.2d 546", "635 P.2d 1109", "65 Wn.2d 205", "74 Wn.2d 519", "77 Ill. 2d 323", "80 Wn. App. 655", "910 P.2d 1308", "952 P.2d 590", "96 Wn. App. 547"]
+cites_cases: ["105 Wis. 2d 171", "11 U.S.C. § 101", "11 U.S.C. § 362", "12 Wn.2d 308", "12 Wn.2d 58", "120 P.2d 548", "121 P.2d 360", "134 Wn.2d 692", "140 Wn.2d 1007", "167 U.S. 178", "18 U.S.C. §§ 152", "19 Ill. Dec. 21", "2 Wash. 117", "26 P. 76", "296 P.2d 305", "30 Wn. App. 549", "321 So. 2d 448", "328 P.2d 953", "33 Ill. Dec. 115", "376 P.2d 837", "378 N.E.2d 522", "396 N.E.2d 504", "396 P.2d 155", "445 P.2d 334", "48 Wn.2d 637", "490 P.2d 118", "5 Wn. App. 560", "50 Cal. 2d 594", "61 Ill. App. 3d 947", "61 Wn.2d 1", "626 S.W.2d 546", "635 P.2d 1109", "65 Wn.2d 205", "74 Wn.2d 519", "77 Ill. 2d 323", "80 Wn. App. 655", "910 P.2d 1308", "952 P.2d 590"]
 cites_law: ["united-states/federal/usc/title-11/101.md", "united-states/federal/usc/title-11/362.md"]
 ---
 
