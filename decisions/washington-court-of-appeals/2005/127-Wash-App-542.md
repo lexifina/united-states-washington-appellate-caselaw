@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30085-1-II"
 decided: "2005-03-22"
-citations: ["127 Wash. App. 542", "126 Wash. App. 1034"]
+citations: ["127 Wash. App. 542"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Cowlitz Stud Company, Respondent, v. Dana Clevenger et al., Appellant
 source_url: "https://static.case.law/wash-app/127/cases/0542-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2462861
-cites_cases: ["112 Wn.2d 193", "117 Wn.2d 128", "12 Wn. App. 410", "120 Wn. App. 886", "121 Wn.2d 304", "122 Wn.2d 544", "125 Wn.2d 337", "127 Wn. App. 542", "152 Wn.2d 1032", "156 Wn.2d 1006", "18 Wn. App. 674", "393 P.2d 631", "490 P.2d 1342", "499 P.2d 255", "5 Wn. App. 726", "50 Wn. App. 91", "529 P.2d 1131", "571 P.2d 229", "64 Wn.2d 640", "7 Wn. App. 286", "746 P.2d 1244", "770 P.2d 1027", "814 P.2d 629", "849 P.2d 1209", "85 Wn.2d 1009", "859 P.2d 51", "86 P.3d 1231", "883 P.2d 1383"]
+cites_cases: ["112 Wn.2d 193", "117 Wn.2d 128", "12 Wn. App. 410", "120 Wn. App. 886", "121 Wn.2d 304", "122 Wn.2d 544", "125 Wn.2d 337", "152 Wn.2d 1032", "156 Wn.2d 1006", "18 Wn. App. 674", "393 P.2d 631", "490 P.2d 1342", "499 P.2d 255", "5 Wn. App. 726", "50 Wn. App. 91", "529 P.2d 1131", "571 P.2d 229", "64 Wn.2d 640", "7 Wn. App. 286", "746 P.2d 1244", "770 P.2d 1027", "814 P.2d 629", "849 P.2d 1209", "85 Wn.2d 1009", "859 P.2d 51", "86 P.3d 1231", "883 P.2d 1383"]
 ---
 
 # Cowlitz Stud Co. v. Clevenger
