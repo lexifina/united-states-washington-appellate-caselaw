@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23549-8-II; 23812-8-II"
 decided: "1999-05-28"
-citations: ["96 Wash. App. 31", "95 Wash. App. 1059"]
+citations: ["96 Wash. App. 31"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dexter A. Silver, Respondent, v. State Farm Mutual Automobile Insuran
 source_url: "https://static.case.law/wash-app/96/cases/0031-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128564
-cites_cases: ["133 Wn.2d 490", "82 Wn. App. 20", "916 P.2d 949", "946 P.2d 388", "96 Wn. App. 31"]
+cites_cases: ["133 Wn.2d 490", "82 Wn. App. 20", "916 P.2d 949", "946 P.2d 388"]
 ---
 
 # Silver v. State Farm Mutual Automobile Insurance
