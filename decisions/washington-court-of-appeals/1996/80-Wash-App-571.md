@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14357-1-III"
 decided: "1996-02-06"
-citations: ["80 Wash. App. 571", "80 Wash. App. 1040"]
+citations: ["80 Wash. App. 571"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Sabrina Rene Burnley, Appella
 source_url: "https://static.case.law/wash-app/80/cases/0571-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 420943
-cites_cases: ["224 P.2d 345", "331 P.2d 862", "37 Wn.2d 431", "389 U.S. 871", "413 P.2d 638", "423 P.2d 539", "492 P.2d 571", "53 Wn.2d 138", "6 Wn. App. 263", "68 Wn.2d 416", "70 Wn.2d 430", "80 Wn. App. 571"]
+cites_cases: ["224 P.2d 345", "331 P.2d 862", "37 Wn.2d 431", "389 U.S. 871", "413 P.2d 638", "423 P.2d 539", "492 P.2d 571", "53 Wn.2d 138", "6 Wn. App. 263", "68 Wn.2d 416", "70 Wn.2d 430"]
 ---
 
 # State v. Burnley
