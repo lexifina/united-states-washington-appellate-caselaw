@@ -1,0 +1,61 @@
+---
+court: "Washington Court of Appeals"
+docket: "3438-1-III"
+decided: "1980-12-30"
+citations: ["29 Wash. App. 507"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Richter, Wimberley & Ericson, P.S., Plaintiff, v. Mario Honore, Appellant, Grange Insurance Association, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/29/cases/0507-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1824362
+cites_cases: ["23 Wn. App. 277", "273 Or. 514", "581 P.2d 1349", "595 P.2d 61", "90 Wn.2d 355"]
+---
+
+# Richter, Wimberley & Ericson, P.S. v. Honore
+
+## Majority (McInturff, C.J.)
+
+McInturff, C.J.
+Mario Honore and Grange Insurance Association (Grange) appeal and cross-appeal the court's division of funds interpleaded by the law firm of Richter, Wimberly & Ericson.
+On November 7, 1975, Mr. Honoré was injured when his automobile was struck from behind by a vehicle operated by Mario Jasso. Mr. Jasso's liability for the collision was undisputed. At the time of the accident, Mr. Jasso was insured with State Farm Insurance Company (State Farm) with policy limits of $15,000/$30,000/$5,000. Aside from his insurance coverage, it was determined Mr. Jasso was judgment-proof. Mr. Honore's policy with Grange included a Personal Injury Protection Endorsement (PIP).
+Under the terms of the PIP endorsement, Grange paid Mr. Honoré $4,074.88 for his medical expenses. Mr. Honoré also retained Mr. Casey, of Richter, Wimberley & Ericson, to represent his interests resulting from the accident. He signed a contingent retainer agreement in which he agreed to pay counsel 33 Vz percent of any settlement. The amount of the settlement between Mr. Honoré and State Farm was $14,000 for general damages and medical expenses and $2,000 for automobile damage. On the advice of Mr. Casey, unknown to Grange, Mr. Honoré executed a general release on January 31, 1977.
+Mr. Casey requested Grange reduce its subrogation claim by one-third as Grange's share of the attorney's fees but Grange refused. Mr. Honoré has already paid one-third of the $14,000 recovery, or $4,666.67, as attorney's fees to Richter, Wimberley & Ericson. Grange's PIP interest of $4,074.88 was deducted from the $14,000 settlement by State Farm and paid in the form of a draft to Grange, Richter, Wimberley & Ericson, and Mr. Honoré. It was then deposited with the clerk of court pending the outcome of this action. The trial court determined Mr. Honoré was entitled to receive $1,358.30, which was one-third of the interpleaded funds, and Grange was entitled to the remaining two-thirds, or $2,716.58.
+There was never any agreement between Mr. Casey and Grange for the former to represent the latter's subrogation interests against Mr. Jasso for the PIP payments made by Grange. In fact, through telephone calls and correspondence with Mr. Casey, Grange clearly expressed its desire to handle the matter through intercompany arbitration pursuant to subsection 6(b) of the PIP endorsement.
+The initial issue is whether the trial court erred by ruling Mr. Honoré was entitled to one-third of the interpleaded funds as pro rata compensation for his attorney's fees. The trial court determined Mr. Honoré had not been made whole under the settlement to the extent he paid all attorney's fees.
+When the trial court decided this issue in 1978, it did not have the benefit of Pena v. Thorington, 23 Wn. App. 277, 595 P.2d 61 (1979). Both cases have similar facts. There we affirmed the trial court and adopted the following rule from Ridenour v. Nationwide Mut. Ins. Co., 273 Or. 514, 516, 541 P.2d 1377, 1378 (1975):
+[A]n insurer who makes a recovery from a third party for moneys paid its insured is only required to pay attorney fees which were "reasonably and necessarily incurred" to make the recovery. Absent an agreement to the contrary, an insurer is only obligated for attorney fees if it is benefited.
+(Italics ours.) Pena, supra at 281.
+However, Mr. Honore's policy did contain a valid agreement to the contrary:
+[63 (b) where the insured has incurred legal expenses in recovering from a third party, payments made by the Company, under this endorsement, and out of which recovery the Company is reimbursed for such payments under the Subrogation provision of the policy, the Company shall pay an equitable apportionment of such expense. This provision shall not apply as to amounts recovered or recoverable by the Company from any other insurer pursuant to the Inter-Company Arbitration Agreements;
+(Italics ours.) Pursuant to the above provision, the trial court noted in finding of fact No. 10 the sum of $4,074.88 was "recoverable" by Grange from State Farm. Substantial evidence indicates recognition of a subrogation interest between Grange and State Farm.
+Even absent an agreement to the contrary, whether the services of an attorney are necessary is a question of fact. Pena, supra at 281. In the instant case, that question of fact was resolved in favor of Grange by finding of fact No. 9: "Grange received no benefit from any actions taken by Honoré's attorneys." Substantial evidence indicates there was never any agreement between Mr. Casey and Grange for representation of the latter's interests. Grange specifically advised Mr. Casey it would pursue its subrogation interest with Mr. Jasso's insurance company and did not want his services in collecting any PIP moneys advanced by it. This is not a case where the insurance company sits idly by and acquiesces in the action of an insured's attorney. Under Pena attorney's fees can be recovered from an insurer if it is benefited unless there is an agreement to the contrary—here there was an agreement to the contrary and a supported finding that Grange received no benefit.
+Next, we address the issue of whether the PIP endorsement to Mr. Honore's policy violates the Washington Consumer Protection Act (RCW 19.86). Mr. Honoré contends the arbitration provision contained in paragraph 6(b) of the PIP endorsement entitled "Trust Agreement" is violative of the Consumer Protection Act under the rationale of Salois v. Mutual of Omaha Ins. Co., 90 Wn.2d 355, 581 P.2d 1349 (1978). It was there the court declared insurance matters "public interest" and the insurer's breach of good faith constituted an unfair trade practice. Here, Mr. Honoré contends the arbitration agreement is a condition deceptively affecting attorney's fees purported to be assumed. He additionally asserts the endorsement attempts to incorporate by reference the arbitration agreement in violation of RCW 48.18.190.
+These arguments are without merit. The PIP endorsement states the insurance company shall not be responsible for attorney's fees on any sums which it is able to recover through intercompany arbitration. We find no deception. Furthermore, the arbitration agreement and rules of arbitration neither conflict with nor modify the insurance policy. Rather, they merely establish a procedure through which arbitration may be initiated and conducted between the companies, not the insured and the insurer. Since the arbitration agreement does not conflict with the policy, the coverage under Mr. Honore's policy is not altered. The court properly dismissed this allegation.
+In light of our disposition we need not address the remaining assignments of error.
+Judgment of the Superior Court is reversed in part and affirmed in part.
+Munson and Roe, JJ., concur.
+Reconsideration denied January 29, 1981.
+Review denied by Supreme Court April 3, 1981.
+The Personal Injury Protection Endorsement (PIP) states in part:
+"6. Trust Agreement. In the event of payment to any person of any benefits under this endorsement
+"(a) the Company shall be entitled to the proceeds of any settlement or judgment that may result from the exercise of any rights or recovery of such person against any person or organization legally responsible for the bodily injury because of which such payment is made to the extent damages recovered include any expense, amount or payment for which such benefits were paid;
+" (b) where the insured has incurred legal expenses in recovering from a third party, payments made by the Company, under this endorsement, and out of which recovery the Company is reimbursed for such payments under the Subrogation Provision of the policy, the Company shall pay an equitable apportionment of such expense. This provision shall not apply as to amounts recovered or recoverable by the Company from another insurer pursuant to the Inter-Company Arbitration Agreements;
+"(c) such person shall hold in trust for the benefit of the Company all rights of recovery which he shall have against such other person or organization because of any expense, amount or payment which is the subject of claim made hereunder.;
+"(d) such person shall do whatever is proper to secure and shall do nothing after loss to prejudice such rights;
+"(e) such person shall execute and deliver to the Company such instruments and papers as may be appropriate to secure the rights and obligations of such person and the Company established by this provision.
+"7. Subrogation. In the event of any payment under this endorsement, the Company shall be entitled to reimbursement and subrogated to the extent of such payment, to all the rights of recovery therefor which the person to or on behalf of whom such payment is made may have against any person or organization, and such person shall execute and deliver instruments and papers and do whatever else is necessary to secure such rights. Such person shall do nothing after loss to prejudice such rights."
+In its memorandum opinion, the trial court stated:
+"It is the opinion of the Court that Mr. Honoré settled all of his claims when he signed the general and complete release, that is any and all monies he had coming in connection with his injury including all payment for pain and suffering, general damages, medical and loss of wages. Taking all of these factors into consideration it is the opinion of the Court that he has not been made whole to the extent that he has paid all attorney's fees. I am candid with all parties when I further state that this is an extremely close question in this case."
+Finding of fact No. 10 stated:
+"At all times material hereto, both Grange and State Farm were members of 'Inter-Company Arbitration Agreements', as the term is used in paragraph 6(b) of the Trust Agreement of the PIP endorsement. The sum of $4,074.88 was 'recoverable' by Grange from State Farm pursuant to paragraph 6(b) of the Trust Agreement."
+Additionally, Mr. Norman L. Hanson, representative of State Farm, testified:
+"I recall talking to the Grange Insurance Company representative prior to my conversations with Mr. Casey concerning the case.
+"If Mr. Casey hadn't requested the issuance of two drafts, I would have probably issued two drafts anyway. However, one of the drafts would have been . . . directly issued to Grange ... in the amount of approximately $4,000.00."
+Because the foregoing rationale results in a determination that attorney's fees cannot be recovered by Mr. Honoré, the fact the court indicated Mr. Honoré had not been made whole to the extent of those fees is immaterial. We note Mr. Honoré voluntarily entered into a contingent retainer agreement which required payment of 33Vs percent of "any settlement." There have been no contentions of invalidity concerning that agreement or that he was operating under any disability when he entered it. Additionally, the PIP endorsement was voluntarily bargained for by Mr. Honoré in order to have his medical bills promptly paid. He received the benefit of both bargains and should not now be heard to complain.
+RCW 19.86.020 states:
+"Unfair methods of competition and unfair or deceptive acts or practices in the conduct of any trade or commerce are hereby declared unlawful."
+We note the case at bench is factually distinguishable from Salois. In that case the insured was forced to incur attorney's fees in order to recover on a breach of a contractual obligation.
+RCW 48.18.190 states:
+"No agreement in conflict with, modifying, or extending any contract of insurance shall be valid unless in writing and made a part of the policy."
