@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31002-3-II"
 decided: "2004-09-08"
-citations: ["124 Wash. App. 257", "123 Wash. App. 1015"]
+citations: ["124 Wash. App. 257"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tom Pickford, et al., Appellants, v. Chrisie Masion, et al., Responde
 source_url: "https://static.case.law/wash-app/124/cases/0257-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684079
-cites_cases: ["110 Misc. 2d 1054", "124 Wn. App. 257", "133 Wn.2d 106", "139 So. 2d 779", "144 S.W.3d 554", "163 So. 2d 267", "368 S.W.2d 12", "372 Pa. Super. 405", "443 N.Y.S.2d 285", "553 P.2d 1096", "593 P.2d 1308", "656 P.2d 1030", "705 P.2d 454", "81 Wn. App. 603", "844 F. Supp. 151", "867 So. 2d 1195", "87 Wn. App. 722", "87 Wn.2d 424", "915 P.2d 564", "92 Wn.2d 40", "942 P.2d 968", "943 P.2d 364", "979 S.W.2d 730", "98 Wn.2d 434"]
+cites_cases: ["110 Misc. 2d 1054", "133 Wn.2d 106", "139 So. 2d 779", "144 S.W.3d 554", "163 So. 2d 267", "368 S.W.2d 12", "372 Pa. Super. 405", "443 N.Y.S.2d 285", "553 P.2d 1096", "593 P.2d 1308", "656 P.2d 1030", "705 P.2d 454", "81 Wn. App. 603", "844 F. Supp. 151", "867 So. 2d 1195", "87 Wn. App. 722", "87 Wn.2d 424", "915 P.2d 564", "92 Wn.2d 40", "942 P.2d 968", "943 P.2d 364", "979 S.W.2d 730", "98 Wn.2d 434"]
 ---
 
 # Pickford v. Masion
