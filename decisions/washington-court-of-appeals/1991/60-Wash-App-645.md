@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23736-5-I"
 decided: "1991-02-11"
-citations: ["60 Wash. App. 645", "60 Wash. App. 1034"]
+citations: ["60 Wash. App. 645"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Respondent, v. John Hall, Petitioner."]
 source_url: "https://static.case.law/wash-app/60/cases/0645-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1718977
-cites_cases: ["110 Wn.2d 1007", "113 Wn.2d 1030", "113 Wn.2d 679", "116 Wn.2d 466", "33 Wn. App. 507", "392 U.S. 1", "49 Wn. App. 596", "55 Wn. App. 376", "57 Wn. App. 488", "575 P.2d 210", "60 Wn. App. 645", "60 Wn. App. 87", "655 P.2d 1199", "744 P.2d 1096", "777 P.2d 583", "782 P.2d 552", "789 P.2d 766", "803 P.2d 1325", "89 Wn.2d 678"]
+cites_cases: ["110 Wn.2d 1007", "113 Wn.2d 1030", "113 Wn.2d 679", "116 Wn.2d 466", "33 Wn. App. 507", "392 U.S. 1", "49 Wn. App. 596", "55 Wn. App. 376", "57 Wn. App. 488", "575 P.2d 210", "60 Wn. App. 87", "655 P.2d 1199", "744 P.2d 1096", "777 P.2d 583", "782 P.2d 552", "789 P.2d 766", "803 P.2d 1325", "89 Wn.2d 678"]
 ---
 
 # City of Seattle v. Hall
