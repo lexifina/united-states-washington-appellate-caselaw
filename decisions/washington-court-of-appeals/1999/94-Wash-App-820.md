@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17028-4-III"
 decided: "1999-02-04"
-citations: ["94 Wash. App. 820", "93 Wash. App. 1082"]
+citations: ["94 Wash. App. 820"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jennifer Craig, Appellant, v. Washington Trust Bank, Respondent."]
 source_url: "https://static.case.law/wash-app/94/cases/0820-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 82853
-cites_cases: ["114 Wn.2d 1023", "114 Wn.2d 454", "114 Wn.2d 550", "116 Wn.2d 217", "127 Wn.2d 17", "133 Wn.2d 1020", "133 Wn.2d 192", "135 Wn.2d 658", "56 Wn. App. 625", "58 Wn. App. 674", "62 Wn. App. 839", "66 Wn. App. 350", "77 Wn. App. 568", "784 P.2d 1288", "788 P.2d 545", "789 P.2d 84", "794 P.2d 871", "802 P.2d 1360", "816 P.2d 75", "831 P.2d 1147", "86 Wn. App. 183", "892 P.2d 1112", "896 P.2d 665", "90 Wn. App. 89", "937 P.2d 612", "94 Wn. App. 820", "943 P.2d 286", "950 P.2d 1018", "958 P.2d 301"]
+cites_cases: ["114 Wn.2d 1023", "114 Wn.2d 454", "114 Wn.2d 550", "116 Wn.2d 217", "127 Wn.2d 17", "133 Wn.2d 1020", "133 Wn.2d 192", "135 Wn.2d 658", "56 Wn. App. 625", "58 Wn. App. 674", "62 Wn. App. 839", "66 Wn. App. 350", "77 Wn. App. 568", "784 P.2d 1288", "788 P.2d 545", "789 P.2d 84", "794 P.2d 871", "802 P.2d 1360", "816 P.2d 75", "831 P.2d 1147", "86 Wn. App. 183", "892 P.2d 1112", "896 P.2d 665", "90 Wn. App. 89", "937 P.2d 612", "943 P.2d 286", "950 P.2d 1018", "958 P.2d 301"]
 ---
 
 # Craig v. Washington Trust Bank
