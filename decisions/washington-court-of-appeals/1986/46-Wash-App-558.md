@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16957-2-I"
 decided: "1986-12-24"
-citations: ["46 Wash. App. 558", "46 Wash. App. 1021"]
+citations: ["46 Wash. App. 558"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Dennis Michael Robbers, Appel
 source_url: "https://static.case.law/wash-app/46/cases/0558-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1811880
-cites_cases: ["102 Wn.2d 348", "103 S. Ct. 1205", "22 Wn. App. 38", "431 U.S. 783", "434 U.S. 881", "45 Wn. App. 62", "459 U.S. 1211", "46 Wn. App. 558", "587 P.2d 613", "641 F.2d 659", "647 P.2d 6", "684 P.2d 1293", "723 P.2d 1182", "75 L. Ed. 2d 446", "97 Wn.2d 493"]
+cites_cases: ["102 Wn.2d 348", "103 S. Ct. 1205", "22 Wn. App. 38", "431 U.S. 783", "434 U.S. 881", "45 Wn. App. 62", "459 U.S. 1211", "587 P.2d 613", "641 F.2d 659", "647 P.2d 6", "684 P.2d 1293", "723 P.2d 1182", "75 L. Ed. 2d 446", "97 Wn.2d 493"]
 ---
 
 # State v. Robbers
