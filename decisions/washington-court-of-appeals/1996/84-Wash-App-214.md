@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18434-6-II"
 decided: "1996-10-04"
-citations: ["84 Wash. App. 214", "83 Wash. App. 1031"]
+citations: ["84 Wash. App. 214"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Duane Ottgen, et al., Appellants, v. Clover Park Technical College, R
 source_url: "https://static.case.law/wash-app/84/cases/0214-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121698
-cites_cases: ["1 Wn. App. 575", "114 Wn.2d 572", "115 Wn.2d 609", "117 Wn.2d 829", "221 P.2d 525", "27 Wn. App. 397", "32 Wn. App. 302", "37 Wn.2d 19", "38 Notre Dame Law. 174", "398 P.2d 1016", "459 P.2d 633", "460 U.S. 1013", "463 P.2d 217", "464 F. Supp. 784", "506 U.S. 856", "618 P.2d 106", "640 P.2d 1051", "648 P.2d 94", "65 Wn.2d 600", "661 F.2d 756", "77 Wn.2d 94", "78 Wn. App. 637", "79 Wn. App. 850", "790 P.2d 124", "801 P.2d 193", "822 P.2d 177", "84 Wn. App. 214", "898 P.2d 347", "905 P.2d 928", "95 Wn.2d 1002", "96 Wn.2d 939", "97 Wn.2d 1037"]
+cites_cases: ["1 Wn. App. 575", "114 Wn.2d 572", "115 Wn.2d 609", "117 Wn.2d 829", "221 P.2d 525", "27 Wn. App. 397", "32 Wn. App. 302", "37 Wn.2d 19", "38 Notre Dame Law. 174", "398 P.2d 1016", "459 P.2d 633", "460 U.S. 1013", "463 P.2d 217", "464 F. Supp. 784", "506 U.S. 856", "618 P.2d 106", "640 P.2d 1051", "648 P.2d 94", "65 Wn.2d 600", "661 F.2d 756", "77 Wn.2d 94", "78 Wn. App. 637", "79 Wn. App. 850", "790 P.2d 124", "801 P.2d 193", "822 P.2d 177", "898 P.2d 347", "905 P.2d 928", "95 Wn.2d 1002", "96 Wn.2d 939", "97 Wn.2d 1037"]
 ---
 
 # Ottgen v. Clover Park Technical College
