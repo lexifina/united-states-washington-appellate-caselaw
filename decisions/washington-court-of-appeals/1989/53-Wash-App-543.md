@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21014-9-I"
 decided: "1989-01-09"
-citations: ["53 Wash. App. 543", "53 Wash. App. 1025"]
+citations: ["53 Wash. App. 543"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. William Louis Downey, Appella
 source_url: "https://static.case.law/wash-app/53/cases/0543-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764226
-cites_cases: ["100 Wn.2d 814", "102 Wn.2d 1011", "11 U. Puget Sound L. Rev. 421", "227 Cal. Rptr. 654", "36 Wn. App. 707", "389 U.S. 347", "42 Cal. 3d 91", "468 U.S. 1206", "53 Wn. App. 543", "647 P.2d 489", "649 F. Supp. 1065", "676 P.2d 419", "677 P.2d 185", "681 S.W.2d 774", "694 F.2d 1217", "720 P.2d 2", "728 F.2d 1228", "795 F.2d 1487", "799 F.2d 1271", "97 Wn.2d 562"]
+cites_cases: ["100 Wn.2d 814", "102 Wn.2d 1011", "11 U. Puget Sound L. Rev. 421", "227 Cal. Rptr. 654", "36 Wn. App. 707", "389 U.S. 347", "42 Cal. 3d 91", "468 U.S. 1206", "647 P.2d 489", "649 F. Supp. 1065", "676 P.2d 419", "677 P.2d 185", "681 S.W.2d 774", "694 F.2d 1217", "720 P.2d 2", "728 F.2d 1228", "795 F.2d 1487", "799 F.2d 1271", "97 Wn.2d 562"]
 ---
 
 # State v. Downey
