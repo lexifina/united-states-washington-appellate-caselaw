@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41300-7-I"
 decided: "1998-11-09"
-citations: ["95 Wash. App. 817", "93 Wash. App. 1002"]
+citations: ["95 Wash. App. 817"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Snohomish County, Plaintiff, David Smith, Appellant, v. John Postema,
 source_url: "https://static.case.law/wash-app/95/cases/0817-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 255045
-cites_cases: ["104 Wn.2d 677", "110 P.2d 625", "125 Wn.2d 337", "133 Wn.2d 1002", "136 Wash. 481", "139 Wn.2d 1011", "156 P. 846", "158 P. 989", "239 P. 248", "241 P.2d 932", "28 Wash. 366", "36 Wn. App. 385", "369 So. 2d 523", "374 P.2d 250", "38 P. 147", "384 P.2d 122", "40 Wn.2d 147", "41 Wn. App. 887", "489 P.2d 923", "523 P.2d 186", "60 Wn.2d 404", "62 Wn.2d 545", "65 Wn. App. 71", "67 Wn. App. 409", "675 P.2d 607", "68 P. 869", "7 Wn.2d 557", "707 P.2d 1361", "709 P.2d 782", "79 Wn.2d 745", "828 P.2d 12", "83 Wn.2d 871", "836 P.2d 250", "85 Wn. App. 514", "883 P.2d 1383", "9 Wash. 576", "90 Wash. 678", "92 Wash. 153", "933 P.2d 443", "95 Wn. App. 817"]
+cites_cases: ["104 Wn.2d 677", "110 P.2d 625", "125 Wn.2d 337", "133 Wn.2d 1002", "136 Wash. 481", "139 Wn.2d 1011", "156 P. 846", "158 P. 989", "239 P. 248", "241 P.2d 932", "28 Wash. 366", "36 Wn. App. 385", "369 So. 2d 523", "374 P.2d 250", "38 P. 147", "384 P.2d 122", "40 Wn.2d 147", "41 Wn. App. 887", "489 P.2d 923", "523 P.2d 186", "60 Wn.2d 404", "62 Wn.2d 545", "65 Wn. App. 71", "67 Wn. App. 409", "675 P.2d 607", "68 P. 869", "7 Wn.2d 557", "707 P.2d 1361", "709 P.2d 782", "79 Wn.2d 745", "828 P.2d 12", "83 Wn.2d 871", "836 P.2d 250", "85 Wn. App. 514", "883 P.2d 1383", "9 Wash. 576", "90 Wash. 678", "92 Wash. 153", "933 P.2d 443"]
 ---
 
 # Snohomish County v. Postema
