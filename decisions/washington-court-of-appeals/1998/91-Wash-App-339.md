@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38456-2-I"
 decided: "1998-04-20"
-citations: ["91 Wash. App. 339", "90 Wash. App. 1028"]
+citations: ["91 Wash. App. 339"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Veranth, Respondent, v. The Department of Licensing, Appellan
 source_url: "https://static.case.law/wash-app/91/cases/0339-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681860
-cites_cases: ["11 Wn. App. 819", "130 Wn.2d 189", "16 Wn. App. 398", "525 P.2d 819", "556 P.2d 561", "70 Wn. App. 398", "72 Wn. App. 498", "854 P.2d 43", "865 P.2d 28", "91 Wn. App. 339", "922 P.2d 83"]
+cites_cases: ["11 Wn. App. 819", "130 Wn.2d 189", "16 Wn. App. 398", "525 P.2d 819", "556 P.2d 561", "70 Wn. App. 398", "72 Wn. App. 498", "854 P.2d 43", "865 P.2d 28", "922 P.2d 83"]
 ---
 
 # Veranth v. Department of Licensing
