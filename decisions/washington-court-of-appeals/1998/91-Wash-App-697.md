@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "39666-8-I"
+decided: "1998-07-20"
+citations: ["91 Wash. App. 697"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lloyd Enterprises, Inc., Respondent, v. Longview Plumbing & Heating Co., et al., Respondents, Wade M. Berry, Inc., Appellant. Longview Plumbing & Heating Co., Respondent, v. Wade M. Berry, et al., Appellants. Smith Tractor & Equipment Co., Plaintiff, v. Wade M. Berry, Inc., et al., Appellants, Federal Way School District No. 210, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/91/cases/0697-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1681895
+cites_cases: ["112 Nev. 541", "28 U.S.C. § 1654", "43 Wn. App. 217", "506 U.S. 194", "524 N.W.2d 605", "53 Wn. App. 11", "716 P.2d 916", "765 P.2d 905", "899 P.2d 243"]
+---
+
+# Lloyd Enterprises, Inc. v. Longview Plumbing & Heating Co.
+
+## Majority (Grosse, J.)
+
+Grosse, J.
+— A trial court is vested with discretion to continue a proceeding pending against a corporation that is party to a merger as if the merger did not occur. Because the rules permitting pro se representation do not apply to corporations, a corporation subject to such a ruling must continue to be represented by an attorney even if the result of the merger leaves a partnership as the surviving entity. The trial court, therefore, did not err in entering a default judgment in favor of Longview Plumbing & Heating Co., Inc., and Lloyd Enterprises, Inc., when Berry, Inc., failed to file an answer signed by an attorney. Accordingly, we affirm.
+FACTS
+The president of Berry, Inc., Wade M. Berry, entered into a contract with Longview Plumbing & Heating Co., Inc. (Longview Plumbing) to perform work as a subcontractor for the City of Federal Way and Federal Way School District No. 210. Following a contractual dispute between various participants, Berry, Inc., was named as a defendant in two separate legal actions.
+In the first action, an attorney for Berry, Inc. filed a cross claim against Longview Plumbing on behalf of Berry, Berry’s wife, and Berry, Inc. In Longview Plumbing’s answer, it filed a cross claim against Berry, Inc., for breach of contract. Prior to answering Longview Plumbing’s cross claim, the attorney representing Berry, Inc., withdrew from representation, and Wade Berry filed the answer pro se. Berry is not an attorney licensed to practice in the State of Washington.
+In the second action, Lloyd Enterprises, Inc., filed suit against Longview Plumbing and Berry, Inc., as well as other parties. Longview Plumbing filed a third party complaint against Wade Berry and Jane Doe Berry, and Berry, Inc. Here too, Wade Berry filed an answer to both complaints pro se.
+At some point the originating party for the first action settled, and the remaining cases were consolidated. Berry filed a motion to substitute as the real party in interest Edgewood Limited Partnership (Edgewood) for Berry, Inc. He stated that Edgewood and Berry, Inc. had merged, with Edgewood surviving the merger. He further asserted that Mrs. Berry assigned her interest and Edgewood assigned its claims to him. It appears that the court denied the motion, but the order was never filed. In any event, the case continued as originally filed.
+Later, Longview Plumbing and Lloyd Enterprises, Inc., requested that the court strike all documents submitted by Wade Berry acting pro se for the benefit of Mrs. Berry and Berry, Inc. The motion included all documents submitted by Berry in response to the cross complaint in the first action, and all documents submitted in the second action. The court granted the motion. The court then gave Berry, Inc. 20 days to file an answer signed by an attorney. When Berry, Inc. failed to comply, the court entered default judgments in favor of Longview Plumbing and Lloyd Enterprises, Inc. Longview Plumbing then voluntarily dismissed with prejudice its claims against Wade Berry and Mrs. Berry in their individual capacity. The court dismissed with prejudice claims of Berry, Inc. assigned to Berry against Longview Plumbing. Berry appeals the default judgment and the dismissal of Berry, Inc.’s claims.
+DISCUSSION
+I.
+The trial court never filed an order granting Berry’s motion to substitute Edgewood as the real party in interest. Nor was the court required to grant the motion simply because Berry, Inc. merged with Edgewood. RCW 25.10.830 permits a trial court, in its discretion, to continue an action against a corporation despite a merger between the corporation and another entity:
+(1) When a merger takes effect:
+(d) A proceeding pending against any limited partnership or corporation that is party to the merger may be continued as if the merger did not occur or the surviving limited partnership or corporation may be substituted in the proceeding for the limited partnership or corporation whose existence ceased[.]
+Berry fails to demonstrate that the court’s failure to grant his motion was an abuse of its discretion.
+Because the case continued as originally filed, Berry, Inc., as a corporation, was required to comply with the rules regarding representation of corporations in court proceedings. Washington law, with limited exception, requires individuals appearing before the court on behalf of another party to be licensed in the practice of law. Because corporations are artificial entities that can act only through their agents, we agree with the general common-law rule, recognized by courts in other jurisdictions, including all federal courts, that corporations appearing in court proceedings must be represented by an attorney.
+Because Berry, Inc. was required to be represented by an attorney, the trial court acted appropriately under Superior Court Civil Rule 11 when it struck those documents submitted by Berry on behalf of Berry, Inc.
+Every pleading, motion, and legal memorandum of a party represented by an attorney shall be dated and signed by at least one attorney of record in the attorney’s individual name, whose address and Washington State Bar Association membership number shall be stated .... If a pleading, motion, or legal memorandum is not signed, it shall be stricken unless it is signed promptly after the omission is called to the attention of the pleader or movant.
+Absent the stricken pleadings, Berry Inc. failed to timely and properly answer the complaints filed by Lloyd Enterprises, Inc., and Longview Plumbing. Berry, Inc.’s continued failure to file an answer when given extra time to comply justified the trial court’s exercise of its authority under CR 55 in entering a default judgment. Accordingly, we affirm.
+II.
+The court dismissed Berry, Inc.’s claims against Longview Plumbing assigned to Berry by Edgewood. The court’s ruling had no effect on the claims asserted by Berry or Mrs. Berry in their individual capacities. Berry contends that Edgewood’s assignment was valid and, as a result, his claims were improperly dismissed with prejudice on the basis that Berry was not entitled to pursue them pro se. Because the original merger and the subsequent assignment were designed to circumvent the rules prohibiting pro se representation of corporations, however, we hold that the trial court properly dismissed the claims.
+“A corporation may ‘distribute’ assets to a shareholder at any time, so long as creditors of the corporation are not prejudiced thereby.” “No particular words are required for a valid and binding assignment entitling the assignee to sue in the assignee’s own name.” A chose in action is considered an asset, subject to distribution.
+While the general rules of assignment support Berry’s argument, it would be inequitable to allow him to establish the protections of a corporation and then not require that he also face the burdens of incorporation. As a result, Berry’s claims as assignee of Berry, Inc. were properly treated as the claims of the corporation. And the corporation’s failure to pursue those claims through an individual licensed in the practice of law justified dismissal.
+Furthermore, while Berry, Inc.’s claims against Long-view Plumbing were cross claims against a coparty under CR 13(g), and therefore not compulsory, “[i]f coparties assert cross claims and are therefore adversaries, the principles of res judicata apply” to those claims that are asserted through cross pleadings. Berry, Inc.’s claims were originally filed in a complaint properly signed by an attorney. Berry, Inc. and Longview Plumbing were therefore adversaries. Accordingly, the trial court’s dismissal with prejudice was appropriate.
+We affirm.
+Kennedy, C.J., and Webster, J., concur.
+Admission to Practice Rule 1(b).
+See Rowland v. California Men’s Colony, Unit II Men’s Advisory Council, 506 U.S. 194, 202, 113 S. Ct. 716, 121 L. Ed. 2d 656 (1993) (holding that “save in a few aberrant cases, the lower courts have uniformly held that 28 U.S.C. § 1654, providing that ‘parties may plead and conduct their own cases personally or by counsel,’ does not allow corporations, partnerships, or associations to appear in federal court otherwise than through a licensed attorney.” (Footnote omitted.)); Sunde v. Contel of Cal., 112 Nev. 541, 915 P.2d 298 (1996) (requiring entities to be represented by an attorney); E&A Assocs. v. First Nat’l Bank, 899 P.2d 243, 245 (Colo. Ct. App. 1994) (prohibiting partners from representing the partnership pro se); United Accounts, Inc., v. Teladvantage, Inc., 524 N.W.2d 605, 607 (N.D. 1994).
+Zimmerman v. Kyte, 53 Wn. App. 11, 17, 765 P.2d 905 (1988).
+Id. at 17.
+Id. at 18 (holding, “A shareholder who owns all or practically all of a corporation’s stock is not entitled to sue as an individual because the shareholder ‘cannot employ the corporate form to his advantage in the business world and then choose to ignore its separate entity when he gets to the courthouse.’ ” (citation omitted)).
+Krikava v. Webber, 43 Wn. App. 217, 221, 716 P.2d 916 (1986).
