@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44279-1-I"
 decided: "2000-07-03"
-citations: ["101 Wash. App. 629", "101 Wash. App. 1062"]
+citations: ["101 Wash. App. 629"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Boeing Company, Respondent, v. Virginia Key, Appellant."]
 source_url: "https://static.case.law/wash-app/101/cases/0629-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170553
-cites_cases: ["101 Wn. App. 629", "127 Wn.2d 401", "137 Wn.2d 1002", "140 Wn.2d 1008", "140 Wn.2d 1017", "142 Wn.2d 1017", "63 Wn. App. 471", "659 P.2d 1097", "75 Wn. App. 60", "820 P.2d 62", "877 P.2d 703", "91 Wn. App. 138", "955 P.2d 822", "97 Wn. App. 435", "97 Wn. App. 557", "983 P.2d 1167", "984 P.2d 1070", "99 Wn.2d 95"]
+cites_cases: ["127 Wn.2d 401", "137 Wn.2d 1002", "140 Wn.2d 1008", "140 Wn.2d 1017", "142 Wn.2d 1017", "63 Wn. App. 471", "659 P.2d 1097", "75 Wn. App. 60", "820 P.2d 62", "877 P.2d 703", "91 Wn. App. 138", "955 P.2d 822", "97 Wn. App. 435", "97 Wn. App. 557", "983 P.2d 1167", "984 P.2d 1070", "99 Wn.2d 95"]
 ---
 
 # Boeing Co. v. Key
