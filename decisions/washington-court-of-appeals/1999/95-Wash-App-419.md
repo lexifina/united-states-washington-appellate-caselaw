@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42617-6-I"
 decided: "1999-04-12"
-citations: ["95 Wash. App. 419", "95 Wash. App. 1009"]
+citations: ["95 Wash. App. 419"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Nancy Ellwein, et al., Appellants, v. Hartford Accident and Indemnity
 source_url: "https://static.case.law/wash-app/95/cases/0419-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254716
-cites_cases: ["105 Wn.2d 381", "114 Wn.2d 907", "118 Wn.2d 383", "124 Wn.2d 277", "135 Wn.2d 658", "136 Wn.2d 240", "139 Wn.2d 1008", "26 Wn. App. 933", "27 Wn. App. 715", "614 P.2d 693", "620 P.2d 137", "715 P.2d 1133", "792 P.2d 520", "81 Wn. App. 624", "823 P.2d 499", "83 Wn. App. 464", "876 P.2d 896", "915 P.2d 1140", "921 P.2d 1098", "95 Wn. App. 419", "958 P.2d 301", "961 P.2d 350"]
+cites_cases: ["105 Wn.2d 381", "114 Wn.2d 907", "118 Wn.2d 383", "124 Wn.2d 277", "135 Wn.2d 658", "136 Wn.2d 240", "139 Wn.2d 1008", "26 Wn. App. 933", "27 Wn. App. 715", "614 P.2d 693", "620 P.2d 137", "715 P.2d 1133", "792 P.2d 520", "81 Wn. App. 624", "823 P.2d 499", "83 Wn. App. 464", "876 P.2d 896", "915 P.2d 1140", "921 P.2d 1098", "958 P.2d 301", "961 P.2d 350"]
 ---
 
 # Ellwein v. Hartford Accident & Indemnity Co.
