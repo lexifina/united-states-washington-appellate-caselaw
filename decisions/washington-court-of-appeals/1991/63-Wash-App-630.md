@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25921-1-I"
 decided: "1991-10-07"
-citations: ["63 Wash. App. 630", "62 Wash. App. 1031"]
+citations: ["63 Wash. App. 630"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Brandon Rhode, Appellant."]
 source_url: "https://static.case.law/wash-app/63/cases/0630-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1733097
-cites_cases: ["110 Wn.2d 1007", "113 Wn.2d 679", "117 Wn.2d 93", "118 Wn.2d 1022", "35 Wn. App. 552", "49 Wn. App. 596", "59 Wn. App. 127", "60 Wn. App. 813", "63 Wn. App. 630", "667 P.2d 1139", "744 P.2d 1096", "782 P.2d 552", "796 P.2d 434", "808 P.2d 167", "812 P.2d 86"]
+cites_cases: ["110 Wn.2d 1007", "113 Wn.2d 679", "117 Wn.2d 93", "118 Wn.2d 1022", "35 Wn. App. 552", "49 Wn. App. 596", "59 Wn. App. 127", "60 Wn. App. 813", "667 P.2d 1139", "744 P.2d 1096", "782 P.2d 552", "796 P.2d 434", "808 P.2d 167", "812 P.2d 86"]
 ---
 
 # State v. Rhode
