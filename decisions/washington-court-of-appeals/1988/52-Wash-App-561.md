@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21760-7-I"
 decided: "1988-08-10"
-citations: ["52 Wash. App. 561", "52 Wash. App. 1021"]
+citations: ["52 Wash. App. 561"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, on the Relation of Scott Eugene Slusser, Res
 source_url: "https://static.case.law/wash-app/52/cases/0561-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1708552
-cites_cases: ["100 Wn.2d 26", "104 Wn.2d 392", "343 P.2d 183", "38 Wn. App. 388", "52 Wn. App. 561", "54 Wn.2d 570", "545 P.2d 1193", "583 P.2d 621", "617 P.2d 704", "663 P.2d 1330", "666 P.2d 351", "685 P.2d 1109", "706 P.2d 212", "86 Wn.2d 432", "90 Wn.2d 384", "94 Wn.2d 359", "99 Wn.2d 515"]
+cites_cases: ["100 Wn.2d 26", "104 Wn.2d 392", "343 P.2d 183", "38 Wn. App. 388", "54 Wn.2d 570", "545 P.2d 1193", "583 P.2d 621", "617 P.2d 704", "663 P.2d 1330", "666 P.2d 351", "685 P.2d 1109", "706 P.2d 212", "86 Wn.2d 432", "90 Wn.2d 384", "94 Wn.2d 359", "99 Wn.2d 515"]
 ---
 
 # State ex rel. Slusser v. Billet
