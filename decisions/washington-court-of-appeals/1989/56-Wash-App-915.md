@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9377-8-III"
 decided: "1989-10-24"
-citations: ["56 Wash. App. 915", "55 Wash. App. 1047"]
+citations: ["56 Wash. App. 915"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
