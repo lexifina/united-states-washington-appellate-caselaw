@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17309-7-III"
 decided: "1999-11-23"
-citations: ["99 Wash. App. 324", "98 Wash. App. 1015"]
+citations: ["99 Wash. App. 324"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert Carlson, et al., Respondents, v. Loren K. Sharp, et al., Defen
 source_url: "https://static.case.law/wash-app/99/cases/0324-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 180901
-cites_cases: ["109 Wn.2d 406", "112 Wn.2d 847", "119 Wn.2d 334", "124 Wn.2d 816", "137 Wn.2d 1034", "745 P.2d 1284", "774 P.2d 1199", "779 P.2d 697", "831 P.2d 724", "881 P.2d 986", "93 Wn. App. 202", "969 P.2d 486", "99 Wn. App. 324"]
+cites_cases: ["109 Wn.2d 406", "112 Wn.2d 847", "119 Wn.2d 334", "124 Wn.2d 816", "137 Wn.2d 1034", "745 P.2d 1284", "774 P.2d 1199", "779 P.2d 697", "831 P.2d 724", "881 P.2d 986", "93 Wn. App. 202", "969 P.2d 486"]
 ---
 
 # Carlson v. Sharp
