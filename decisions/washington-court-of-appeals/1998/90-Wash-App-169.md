@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39642-1-I"
 decided: "1998-01-12"
-citations: ["90 Wash. App. 169", "89 Wash. App. 445"]
+citations: ["90 Wash. App. 169"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Federal Financial Company, Appellant, v. Donald S. Gerard, et al., Re
 source_url: "https://static.case.law/wash-app/90/cases/0169-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428867
-cites_cases: ["103 Stat. 183", "108 F.3d 46", "110 Wn.2d 1006", "111 Wn.2d 1014", "12 U.S.C. § 1821", "12 U.S.C. § 1823", "120 Wn.2d 490", "123 Wn.2d 284", "125 Wn.2d 337", "125 Wn.2d 456", "128 P.2d 661", "136 Wn.2d 1025", "14 Wn.2d 523", "160 P.2d 521", "165 P. 251", "189 Wash. 59", "196 Va. 686", "23 Wn.2d 270", "252 Va. 418", "279 Ill. App. 3d 660", "329 P.2d 210", "47 F.2d 52", "477 S.E.2d 521", "48 Wn. App. 712", "49 Wn. App. 223", "51 Wn. App. 692", "512 U.S. 79", "519 U.S. 872", "520 U.S. 1167", "522 U.S. 858", "53 Cal. App. 4th 1016", "55 Wn.2d 400", "62 Cal. Rptr. 2d 182", "63 Colo. 152", "63 P.2d 518", "645 P.2d 697", "659 So. 2d 729", "665 N.E.2d 573", "740 P.2d 363", "741 P.2d 1054", "754 P.2d 1262", "82 F.3d 102", "82 F.3d 886", "844 P.2d 403", "85 S.E.2d 228", "856 F. Supp. 1076", "868 P.2d 127", "883 P.2d 1383", "883 S.W2d 171", "886 P.2d 556", "90 Wn. App. 169", "918 P.2d 400", "930 F. Supp. 446", "943 F. Supp. 962", "948 F. Supp. 567", "960 F. Supp. 62", "97 Wn.2d 385", "989 F.2d 805"]
+cites_cases: ["103 Stat. 183", "108 F.3d 46", "110 Wn.2d 1006", "111 Wn.2d 1014", "12 U.S.C. § 1821", "12 U.S.C. § 1823", "120 Wn.2d 490", "123 Wn.2d 284", "125 Wn.2d 337", "125 Wn.2d 456", "128 P.2d 661", "136 Wn.2d 1025", "14 Wn.2d 523", "160 P.2d 521", "165 P. 251", "189 Wash. 59", "196 Va. 686", "23 Wn.2d 270", "252 Va. 418", "279 Ill. App. 3d 660", "329 P.2d 210", "47 F.2d 52", "477 S.E.2d 521", "48 Wn. App. 712", "49 Wn. App. 223", "51 Wn. App. 692", "512 U.S. 79", "519 U.S. 872", "520 U.S. 1167", "522 U.S. 858", "53 Cal. App. 4th 1016", "55 Wn.2d 400", "62 Cal. Rptr. 2d 182", "63 Colo. 152", "63 P.2d 518", "645 P.2d 697", "659 So. 2d 729", "665 N.E.2d 573", "740 P.2d 363", "741 P.2d 1054", "754 P.2d 1262", "82 F.3d 102", "82 F.3d 886", "844 P.2d 403", "85 S.E.2d 228", "856 F. Supp. 1076", "868 P.2d 127", "883 P.2d 1383", "883 S.W2d 171", "886 P.2d 556", "918 P.2d 400", "930 F. Supp. 446", "943 F. Supp. 962", "948 F. Supp. 567", "960 F. Supp. 62", "97 Wn.2d 385", "989 F.2d 805"]
 ---
 
 # Federal Financial Co. v. Gerard
