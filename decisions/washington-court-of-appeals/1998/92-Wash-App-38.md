@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21106-8-II"
 decided: "1998-08-14"
-citations: ["92 Wash. App. 38", "91 Wash. App. 1077"]
+citations: ["92 Wash. App. 38"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Verley Hawkins, Respondent, v. Yukie Marshall, et al., Appellants."]
 source_url: "https://static.case.law/wash-app/92/cases/0038-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853341
-cites_cases: ["120 Wn.2d 246", "127 Wn.2d 67", "133 Wn.2d 250", "18 Wn. App. 197", "246 P.2d 853", "275 P.2d 736", "35 A.L.R.2d 302", "40 Wn.2d 894", "45 Wn.2d 433", "490 P.2d 436", "549 P.2d 483", "559 P.2d 548", "567 P.2d 253", "58 Wn. App. 904", "79 Wn.2d 844", "795 P.2d 722", "83 Wn. App. 255", "840 P.2d 860", "87 Wn.2d 85", "88 Wn.2d 221", "896 P.2d 682", "92 Wn. App. 38", "921 P.2d 585", "944 P.2d 1005"]
+cites_cases: ["120 Wn.2d 246", "127 Wn.2d 67", "133 Wn.2d 250", "18 Wn. App. 197", "246 P.2d 853", "275 P.2d 736", "35 A.L.R.2d 302", "40 Wn.2d 894", "45 Wn.2d 433", "490 P.2d 436", "549 P.2d 483", "559 P.2d 548", "567 P.2d 253", "58 Wn. App. 904", "79 Wn.2d 844", "795 P.2d 722", "83 Wn. App. 255", "840 P.2d 860", "87 Wn.2d 85", "88 Wn.2d 221", "896 P.2d 682", "921 P.2d 585", "944 P.2d 1005"]
 ---
 
 # Hawkins v. Marshall
