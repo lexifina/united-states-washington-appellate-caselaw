@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43165-0-I"
 decided: "2000-03-27"
-citations: ["101 Wash. App. 223", "100 Wash. App. 1004"]
+citations: ["101 Wash. App. 223"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Edgar Dennis III, Appellant."
 source_url: "https://static.case.law/wash-app/101/cases/0223-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170750
-cites_cases: ["10 A.L.R.3d 974", "101 Wn. App. 223", "129 Wn. 2d 554", "136 Wn. 2d 1021", "137 Wn. 2d 490", "137 Wn. 2d 675", "139 Wn. 2d 1014", "384 U.S. 436", "57 Wn. App. 921", "67 Wn. App. 486", "791 P.2d 250", "836 P.2d 257", "86 Wn. App. 158", "90 Wn. App. 904", "919 P.2d 79", "936 P.2d 419", "953 P.2d 834", "96 Wn. App. 36", "96 Wn. App. 813", "969 P.2d 1064", "97 Wn. App. 161", "973 P.2d 461", "974 P.2d 828", "979 P.2d 442", "981 P.2d 25", "984 P.2d 421", "99 Wn. App. 251", "99 Wn. App. 435", "991 P.2d 1216", "998 P.2d 330"]
+cites_cases: ["10 A.L.R.3d 974", "129 Wn. 2d 554", "136 Wn. 2d 1021", "137 Wn. 2d 490", "137 Wn. 2d 675", "139 Wn. 2d 1014", "384 U.S. 436", "57 Wn. App. 921", "67 Wn. App. 486", "791 P.2d 250", "836 P.2d 257", "86 Wn. App. 158", "90 Wn. App. 904", "919 P.2d 79", "936 P.2d 419", "953 P.2d 834", "96 Wn. App. 36", "96 Wn. App. 813", "969 P.2d 1064", "97 Wn. App. 161", "973 P.2d 461", "974 P.2d 828", "979 P.2d 442", "981 P.2d 25", "984 P.2d 421", "99 Wn. App. 251", "99 Wn. App. 435", "991 P.2d 1216", "998 P.2d 330"]
 ---
 
 # State v. Dennis
