@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39161-5-I"
 decided: "1997-07-07"
-citations: ["87 Wash. App. 609", "86 Wash. App. 1089"]
+citations: ["87 Wash. App. 609"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John Bruff, et al., Appellants, v. David Main, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/87/cases/0609-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 565886
-cites_cases: ["100 Wn.2d 1026", "122 Wn.2d 471", "126 Wash. 661", "219 P. 429", "35 Wn. App. 622", "510 P.2d 233", "52 Wn. App. 576", "668 P.2d 614", "67 Wn. App. 548", "74 Wn. App. 781", "762 P.2d 24", "82 Wn.2d 265", "833 P.2d 437", "84 Wn. App. 432", "860 P.2d 1009", "87 Wn. App. 609", "875 P.2d 647", "927 P.2d 1154"]
+cites_cases: ["100 Wn.2d 1026", "122 Wn.2d 471", "126 Wash. 661", "219 P. 429", "35 Wn. App. 622", "510 P.2d 233", "52 Wn. App. 576", "668 P.2d 614", "67 Wn. App. 548", "74 Wn. App. 781", "762 P.2d 24", "82 Wn.2d 265", "833 P.2d 437", "84 Wn. App. 432", "860 P.2d 1009", "875 P.2d 647", "927 P.2d 1154"]
 ---
 
 # Bruff v. Main
