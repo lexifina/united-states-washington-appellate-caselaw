@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21940-2-III"
 decided: "2004-02-10"
-citations: ["121 Wash. App. 251", "120 Wash. App. 1014"]
+citations: ["121 Wash. App. 251"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["BP Land & Cattle, L.L.C., et al., Appellants, v. Balcom & Moe, Inc., 
 source_url: "https://static.case.law/wash-app/121/cases/0251-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 863888
-cites_cases: ["114 Wn. App. 268", "117 Wn. App. 694", "121 Wn. App. 251", "173 P.2d 991", "26 Wn.2d 297", "405 P.2d 585", "54 P.3d 1270", "66 Wn.2d 792", "72 P.3d 1093", "80 Wn. App. 416", "88 Wn. App. 586", "909 P.2d 1323", "945 P.2d 752"]
+cites_cases: ["114 Wn. App. 268", "117 Wn. App. 694", "173 P.2d 991", "26 Wn.2d 297", "405 P.2d 585", "54 P.3d 1270", "66 Wn.2d 792", "72 P.3d 1093", "80 Wn. App. 416", "88 Wn. App. 586", "909 P.2d 1323", "945 P.2d 752"]
 ---
 
 # BP Land & Cattle, L.L.C. v. Balcom & Moe, Inc.
