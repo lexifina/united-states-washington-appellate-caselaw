@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42584-6-I"
 decided: "1999-08-02"
-citations: ["97 Wash. App. 226", "96 Wash. App. 1061"]
+citations: ["97 Wash. App. 226"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["National Union Fire Insurance Company of Pittsburgh, Respondent, v. N
 source_url: "https://static.case.law/wash-app/97/cases/0226-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 183806
-cites_cases: ["108 Wn.2d 20", "111 Wn.2d 452", "111 Wn.2d 636", "122 Wn.2d 157", "124 Wn.2d 865", "125 Wn.2d 277", "129 Wn.2d 43", "134 Wn.2d 437", "135 Wn.2d 255", "137 Wn.2d 1013", "139 Wn.2d 1020", "191 Ariz. 344", "367 P.2d 21", "37 Wn. App. 621", "432 P.2d 537", "46 Wn. App. 45", "49 Wn. App. 655", "496 P.2d 512", "59 Wn.2d 173", "681 P.2d 875", "72 Wn.2d 211", "728 P.2d 1097", "735 P.2d 673", "745 P.2d 526", "760 P.2d 337", "762 P.2d 1141", "80 Wn.2d 547", "856 P.2d 1095", "88 Wn. App. 613", "881 P.2d 1001", "892 P.2d 1067", "91 Wn. App. 887", "914 P.2d 728", "945 P.2d 1159", "951 P.2d 782", "956 P.2d 312", "960 P.2d 475", "97 Wn. App. 226"]
+cites_cases: ["108 Wn.2d 20", "111 Wn.2d 452", "111 Wn.2d 636", "122 Wn.2d 157", "124 Wn.2d 865", "125 Wn.2d 277", "129 Wn.2d 43", "134 Wn.2d 437", "135 Wn.2d 255", "137 Wn.2d 1013", "139 Wn.2d 1020", "191 Ariz. 344", "367 P.2d 21", "37 Wn. App. 621", "432 P.2d 537", "46 Wn. App. 45", "49 Wn. App. 655", "496 P.2d 512", "59 Wn.2d 173", "681 P.2d 875", "72 Wn.2d 211", "728 P.2d 1097", "735 P.2d 673", "745 P.2d 526", "760 P.2d 337", "762 P.2d 1141", "80 Wn.2d 547", "856 P.2d 1095", "88 Wn. App. 613", "881 P.2d 1001", "892 P.2d 1067", "91 Wn. App. 887", "914 P.2d 728", "945 P.2d 1159", "951 P.2d 782", "956 P.2d 312", "960 P.2d 475"]
 ---
 
 # National Union Fire Insurance v. Northwest Youth Services
