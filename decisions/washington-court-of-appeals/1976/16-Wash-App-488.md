@@ -1,0 +1,51 @@
+---
+court: "Washington Court of Appeals"
+docket: "1555-3"
+decided: "1976-12-08"
+citations: ["16 Wash. App. 488"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Stanley Oneal, Appellant, v. Colton Consolidated School Dist. No. 306, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/16/cases/0488-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1771002
+cites_cases: ["13 Wn. App. 341", "15 Wn. App. 730", "339 P.2d 694", "409 P.2d 865", "457 P.2d 586", "466 P.2d 515", "522 P.2d 843", "524 P.2d 918", "534 P.2d 1031", "537 P.2d 789", "54 Wn.2d 259", "551 P.2d 1046", "67 Wn.2d 778", "76 Wn.2d 466", "77 Wn.2d 785", "83 Wn.2d 777", "84 Wn.2d 120", "85 Wn.2d 575"]
+---
+
+# Oneal v. Colton Consolidated School Dist. No. 306
+
+## Majority (McInturff, C.J.)
+
+McInturff, C.J.
+Stanley Oneal appeals his discharge and denial of sick leave benefits by the Colton Consolidated School District No. 306 (District). We reverse the discharge and affirm denial of sick leave benefits.
+Mr. Oneal and the District entered into a teacher employment contract in April 1974, for the 1974-75 school year, to commence August 29, 1974. As a result of deteriorating diabetic eyesight, Mr. Oneal tendered his written resignation to the District on July 24,1974:
+It is with great regret that I must ask to be released from my 1974-75 teaching contract after my 27% days sick leave are used up. For personal reasons, which I have discussed with Mr. Swanson, I feel I must do this for the benefit of the students.
+Though his resignation had not been accepted by the District before commencement of the school year, Mn Oneal did not report for work. His offer of resignation, conditioned upon receipt of 27% days accumulated sick leave benefits, was not acted upon until September 20, 1974, when the District, by letter, refused the offer. Mr. Oneal remained adamant in his demand that he receive sick leave as a condition of resignation in a letter dated September 25, 1974. The District then discharged Mr. Oneal, with notice of probable cause, at their regular meeting on October 3, 1974. The District further accepted his resignation but refused to pay accumulated sick leave benefits. We find this course of events, the coexistence of discharge and resignation, confusing, to say the least.
+Mr. Oneal appealed his discharge directly to the Superior Court, pursuant to RCW 28A.58.515, and sought damages including sick leave. The action of the District was upheld by the Superior Court, resulting in the present appeal.
+We are asked to determine by what method the teaching contract between the parties was terminated, whether through resignation by Mr. Oneal, discharge of Mr. Oneal by the District, or discharge of the contract by operation of law. In resolving the employment relationship between this teacher and his school district, we are governed by general principles of contract law.
+We hold that the contractual duty of Mr. Oneal to teach during the 1974-75 school year was discharged by operation of law through impossibility of performance. As regards impossibility, the trial court entered the following findings:
+That for several years plaintiff suffered from deteriorating eyesight which was the result of diabetis.
+That following the completion of the 1973-74 school year and prior to the 24th day of July, 1974, plaintiff became aware of the fact that his eyesight had deteriorated to a point where plaintiff believed he would be unable to perform his teaching duties during the 1974-75 school year.
+That the court was finding as fact an impossibility of performance by Mr. Oneal in the 1974-75 school year, is made apparent by the court’s memorandum opinion wherein the court states:
+After the completion of the spring semester in 1974, during the summer recess, plaintiff became aware that his eyesight had deteriorated to the point where he would be unable to perform his teaching duties for the following year. The deterioration of plaintiff’s eyesight had reached the state where he was then physically incapacitated for teaching duties and the plaintiff knew and understood this to be a fact. . . . The plaintiff did make a final decision, prior to the beginning of the contract year, that he would not abide by the contract. It is true that he made this decision because he was physically unable to abide by the contract.
+The court’s findings of impossibility of performance are substantially supported by testimony in the record, and will be accepted on appeal. It was the testimony of Robert P. Reilly, Assistant Director of the Washington State Teacher’s Retirement System that Mr. Oneal had been found “disabled” from teaching duties in a medical report, and that he was thus eligible for receipt of disability benefits. His diabetic eyesight was found to be a continuing and progressively deteriorating condition existing in March 1974, onward. Mr. Oneal’s difficulty with class preparation was corroborated by Darrell Woodside, a fellow teacher in the District. Mr. Oneal was forced to hold papers very close to his eyes and write in large letters. He was unable to use a regular grade book, and found it necessary to record grades on a second piece of paper to make them more easily read. Conduct of reading classes was made even more difficult by older textbooks in use at that time. Frustration with inability to prepare lesson plans during the summer of 1974 was echoed by Mrs. Oneal.
+Mr. Oneal’s contractual duty was thus discharged by operation of law, by virtue of impossibility of performance. For these purposes, impossibility may be defined not only as strict impossibility, but also impracticality arising from extreme and unreasonable difficulty, expense, injury, or loss involved. Here, performance was impossible through greatly deteriorated eyesight.
+The court concluded there had been a breach of contract by Mr. Oneal and probable cause for his discharge. But because his duty was discharged by operation of law, there remained no contract capable of breach. Therefore, Mr. Oneal’s discharge by the District was without “probable” or “sufficient” cause within the meaning of RCW 28A.58.450, and shall be expunged from his employment record.
+We now turn to examine Mr. Oneal’s renewed argument on appeal that he be awarded accumulated sick leave benefits for that period commencing August 29, 1974, the start of the 1974-75 school year. RCW 28A.58.100(2) (f) provides:
+Every board of directors, unless otherwise specially provided by law, shall:
+(2) Adopt written policies granting leaves to persons under contracts of employment with the school district (s) . . . Provided, That the board of directors shall adopt written policies granting to such persons annual leave with compensation for illness, injury and emergencies as follows:
+(f) Accumulated leave under this proviso not taken at the time such person retires or ceases to be employed in the public schools shall not be compensable except in the following manner: Any leave for injury or illness accumulated up to a maximum of forty-five days shall be creditable as service rendered for the purpose of determining the time at which an employee is eligible to retire;
+(Italics ours.) A review of the present case shows Mr. Oneal’s contractual duty was discharged by operation of law prior to commencement of the 1974-75 school year. The complete failure of Mr. Oneal to perform under his 1974-75 contract, though discharged by operation of law, also discharged the contractual duty of the District, including that provision in the contract for payment of sick leave. With complete discharge of the contract before time of performance, the employment relationship of the parties ceased to° exist. Mr. Oneal therefore “cease [d] to be employed" within the meaning of RCW 28A.58.100(2) (f) before August 29, 1974, ending his entitlement to receipt of accumulated sick leave benefits. Sick leave benefits were properly withheld by the District and the Superior Court.
+Mr. Oneal also assigns error to denial of his áttorney fees by the Superior Court. Statute provides for the discretionary award of attorney fees to an employee of. a school district adversely affected in his employment status by some action of the district. The decision of the Superior Court in the present case to have each party bear its own costs and attorney fees does not of itself show abuse of discretion, discretion exercised upon grounds or to an extent clearly untenable and manifestly unreasonable.
+We feel the same treatment of costs and attorney fees on appeal is amply justified. The parties have each prevailed upon major issues and have lost on others. Costs and attorney fees on appeal will likewise be compromised, with each party bearing its own burden.
+Disposition of the case upon a finding of impossibility of performance obviates our consideration of appellant’s remaining assignments of error.
+• Judgment of the Superior Court affirming the discharge of Mr. Oneal is reversed, with order by this court that the discharge be expunged from his employment record. Denial of sick leave benefits to Mr. Oneal by the Superior Court is affirmed.
+Green and Munson, JJ., concur.
+Francisco v. Board of Directors, 85 Wn.2d 575, 580, 537 P.2d 789 (1975); Kirk v. Miller, 83 Wn.2d 777, 781, 522 P.2d 843 (1974).
+Dickson v. United States Fidelity & Guar. Co., 77 Wn.2d 785, 791, 466 P.2d 515 (1970).
+Dudley v. Boise Cascade Corp., 76 Wn.2d 466, 471, 457 P.2d 586 (1969); Scott Paper Co. v. Burlington Northern, Inc., 13 Wn. App. 341, 343-44, 534 P.2d 1031 (1975); Restatement of Contracts § 459, illustration 6 (1932).
+Restatement of Contracts § 454 (1932); see Cannon v. Huhndorf, 67 Wn.2d 778, 782, 409 P.2d 865 (1966); Scott Paper Co. v. Burlington Northern, Inc., 13 Wn. App. 341, 344, 534 P.2d 1031 (1975).
+Schuddakopf v. Tacoma School Dist. 10, 54 Wn.2d 259, 261-62, 339 P.2d 694 (1959); Restatement of Contacts § 274(2), comment (c) (1932).
+Goodman v. Bethel School Dist. 403, 84 Wn.2d 120, 128-30, 524 P.2d 918 (1975).
+McCollough v. Cashmere School Dist. 222, 15 Wn. App. 730, 736, 551 P.2d 1046 (1976).
