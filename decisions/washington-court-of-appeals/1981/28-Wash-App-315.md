@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "3414-3-III; 3538-7-III"
+decided: "1981-01-29"
+citations: ["28 Wash. App. 315"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["United Pacific Insurance Company, Appellant, v. Guaranty National Insurance Company, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/28/cases/0315-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1829206
+cites_cases: ["18 Wn. App. 510", "399 P.2d 81", "549 P.2d 9", "569 P.2d 1206", "65 Wn.2d 627", "87 Wn.2d 70"]
+---
+
+# United Pacific Insurance v. Guaranty National Insurance
+
+## Majority (Green, J.)
+
+Green, J.
+On January 31, 1978, Kenneth Jones, a passenger in a car owned by the Yakima Indian Nation and driven by Leonard Rabanal, was allegedly injured in a single-car accident. He submitted a claim to Guaranty National Insurance Company, the insurance carrier for the Confederated Tribes and Bands of the Yakima Indian Nation. Guaranty denied coverage based upon a passenger exclusion endorsement to the policy. The Joneses then presented the claim to their own insurance carrier, United Pacific Insurance Company, under the uninsured motorist provision of its policy. United Pacific then commenced this declaratory judgment action against Guaranty National, the Joneses and the Rabanals to declare the extent to which coverage existed under the two insurance policies. United Pacific alleged the accident was covered by the Guaranty policy, and therefore, the uninsured motorist provision did not apply. Guaranty National obtained an order requiring United Pacific to join the Yakima Indian Nation as additional defendants. Both insurance companies moved for summary judgment which was entered in favor of United Pacific, declaring coverage under the Guaranty policy. Incidental to this ruling, the court dismissed the Yakima Indian Nation on the ground of "sovereign immunity" but held there was jurisdiction over Leonard Rabanal who was alleged to be an employee of the Indian Nation. Guaranty appeals.
+The basic question presented is whether the court erred when it construed the Guaranty policy to afford coverage for the incident giving rise to Mr. Jones' injuries. We reverse. Guaranty contends coverage was excluded by the following endorsement to its policy:
+Passenger Hazard Excluded Commercial
+It is agreed that such insurance as is afforded by the policy for Bodily Injury Liability does not apply to Bodily Injury, sickness or disease, including death at any time resulting therefrom, sustained by any person while in or upon or while entering into or alighting from the automobile.
+The court concluded that the term "Commercial" in the heading modified the word "Passenger", so the heading, in effect, would read, "Commercial Passenger Hazard Excluded". Based on this conclusion, the court reasoned that since Mr. Jones was not a commercial passenger, a passenger for hire, the exclusion did not apply.
+Guaranty assigns error to the court's conclusion, contending that the use of the word "Commercial" merely explains that the endorsement is attached to a commercial policy covering commercial vehicles. Consequently, Guaranty asserts that the term does not concern nor is it intended to limit the term "passenger." On the other hand, United Pacific argues the trial court was correct.
+The general rules to be applied in the construction of insurance contracts were summarized in Farmers Ins. Co. v. Miller, 87 Wn.2d 70, 73, 549 P.2d 9 (1976):
+[I]t must be recognized that insurance policies are to be construed in accordance with the general rules applicable to all other contracts. . . . The courts in construing the contract, must interpret them according to the intent of the parties. . . . However, the court cannot rule out of the contract language which the parties thereto have put into it, nor can the court revise the contract under the theory of construing it, nor can the court create a contract for the parties which they did not make themselves, nor can the court impose obligations which never before existed. . . . The terms of the policy must be understood in their plain, ordinary, and popular sense. . . . Clear and unambiguous language is not to be modified under the guise of construing the policy.
+Further, a caption in a policy should never of itself be taken to override the intention of the parties as shown by the provisions and clauses inserted thereunder. National Indem. Co. v. Giampapa, 65 Wn.2d 627, 633, 399 P.2d 81 (1965). However, the captions are part of the policy and should be construed with the detailed provisions. 13 J. Appleman, Insurance Law and Practice § 7387 (1976). Each section of a policy should be construed in light of the whole agreement. Federal Old Line Ins. Co. v. McClintick, 18 Wn. App. 510, 515, 569 P.2d 1206 (1977).
+We examine the policy in question in light of these principles. The policy was issued to the Confederated Tribes and Bands of the Yakima Indian Nation for "Basic Automobile Liability Insurance" and "Uninsured Motorist Insurance." More specifically, the attachment to the policy for basic liability lists the amount of the premiums for "Bodily Injury Liability" and "Property Damage Liability" with respect to each insured vehicle. This coverage applies to the named insured and "any other person while using an owned automobile". Over 130 vehicles of various types are listed in the attachment and each vehicle is covered for "commercial" as contrasted to pleasure and business purposes. The word "Commercial" is in lower case type, whereas the letters in the words "Passenger Hazard Excluded" are capitalized.
+When the passenger hazard exclusion endorsement is read in the context of the entire policy, it becomes apparent that the use of the term "Commercial" merely indicates the type of policy to which the endorsement should be appended.
+The trial court reasoned that unless the exclusion was limited to a commercial passenger, the Indian Nation would not receive any coverage for its premium payment. We disagree. The policy covers bodily injury or property damage liability to anyone who is not a passenger in but is injured by a covered vehicle. It also protects the Indian Nation from damages caused by an uninsured vehicle. Therefore, there is consideration for the Indian Nation's premium payment.
+For the foregoing reasons, we hold that the "Passenger Hazard Exclusion" operates to exclude coverage for Mr. Jones' injuries and the trial court erred in holding to the contrary.
+Since the exclusion in the Guaranty National policy applies, we do not reach the question of whether Guaranty is entitled to claim the defenses of its insured Indian Nation.
+Reversed.
+McInturff, C.J., and Munson, J., concur.
+Reconsideration denied March 4, 1981.
+Review granted by Supreme Court May 8, 1981.
+United Pacific claimed that if the Joneses were entitled to uninsured motorist coverage, the amount payable under the policy should be reduced by the amount received by the Joneses from various worker's compensation programs. This matter was settled between these parties and mandated. It presents no issue on appeal.
+The record is void of any evidence showing whether Mr. Jones was a commercial or noncommercial passenger.
+"'Commercial' means used principally in the business occupation of the named insured as stated in the schedule, including occasional use for personal, pleasure, family and other business purposes."
+"'Pleasure and business' means personal, pleasure, family and business use."
+The parties indicated during oral argument and later by letter that the issues between United Pacific and Guaranty National have been resolved, but, nevertheless, sought this court's decision on the correctness of the trial court's application of the exclusion. It is pointed out that Mr. Jones still has a claim pending against the Indian Nation and Mr. Rabanal. In light of these representations, this court was inclined to rule that the issue raised by the appeal is moot. However, in view of the lack of documentation of the settlement, the dismissal of the appeal, and the fact that another action is pending which will ultimately require an appellate determination, this court has proceeded to review the matter. Since the issue of jurisdiction over the Indian Nation is not directly before us in this action for declaratory judgment between the two insurance companies, we do not decide that issue. That issue must be determined in the action by the Joneses against Mr. Rabanal and the Indian Nation.
