@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26501-6-I"
 decided: "1992-03-30"
-citations: ["66 Wash. App. 178", "64 Wash. App. 1041"]
+citations: ["66 Wash. App. 178"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Arthur Donald Watkins, et al, Appellants, v. Restorative Care Center,
 source_url: "https://static.case.law/wash-app/66/cases/0178-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1703242
-cites_cases: ["102 Wn.2d 395", "103 Wn.2d 686", "105 Wn.2d 1015", "105 Wn.2d 878", "106 N.Y.S.2d 107", "11 Wn. App. 738", "112 Wn.2d 140", "115 Wn.2d 657", "116 Wn.2d 725", "12 F.2d 437", "120 Wn.2d 1007", "137 P.2d 113", "147 P.2d 310", "17 Wn.2d 686", "191 P.2d 858", "20 Wn.2d 337", "278 A.D. 1016", "30 Wn.2d 390", "328 P.2d 700", "376 P.2d 433", "416 U.S. 964", "42 Wn. App. 269", "514 P.2d 1052", "52 Wn.2d 701", "524 P.2d 927", "560 P.2d 353", "60 Wn. App. 556", "60 Wn.2d 825", "66 Wn. App. 178", "676 S.W.2d 461", "679 S.W.2d 823", "687 P.2d 841", "694 P.2d 1071", "711 P.2d 361", "719 P.2d 120", "769 P.2d 295", "801 P.2d 222", "805 P.2d 245", "807 P.2d 863", "82 Wn.2d 872", "88 Wn.2d 331"]
+cites_cases: ["102 Wn.2d 395", "103 Wn.2d 686", "105 Wn.2d 1015", "105 Wn.2d 878", "106 N.Y.S.2d 107", "11 Wn. App. 738", "112 Wn.2d 140", "115 Wn.2d 657", "116 Wn.2d 725", "12 F.2d 437", "120 Wn.2d 1007", "137 P.2d 113", "147 P.2d 310", "17 Wn.2d 686", "191 P.2d 858", "20 Wn.2d 337", "278 A.D. 1016", "30 Wn.2d 390", "328 P.2d 700", "376 P.2d 433", "416 U.S. 964", "42 Wn. App. 269", "514 P.2d 1052", "52 Wn.2d 701", "524 P.2d 927", "560 P.2d 353", "60 Wn. App. 556", "60 Wn.2d 825", "676 S.W.2d 461", "679 S.W.2d 823", "687 P.2d 841", "694 P.2d 1071", "711 P.2d 361", "719 P.2d 120", "769 P.2d 295", "801 P.2d 222", "805 P.2d 245", "807 P.2d 863", "82 Wn.2d 872", "88 Wn.2d 331"]
 ---
 
 # Watkins v. Restorative Care Center, Inc.
