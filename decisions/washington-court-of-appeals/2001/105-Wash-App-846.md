@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45519-2-I"
 decided: "2001-03-19"
-citations: ["105 Wash. App. 846", "105 Wash. App. 1023"]
+citations: ["105 Wash. App. 846"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Peter A. Saluteen-Maschersky, Appellant, v. Countrywide Funding Corpo
 source_url: "https://static.case.law/wash-app/105/cases/0846-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358663
-cites_cases: ["100 Wn.2d 476", "105 Wn. App. 846", "110 Wn.2d 355", "137 Wn.2d 500", "140 Wn.2d 88", "25 Wn. App. 552", "33 Wn. App. 838", "36 Wn. App. 576", "45 Wn. App. 192", "482 P.2d 775", "608 P.2d 266", "631 P.2d 366", "658 P.2d 42", "670 P.2d 648", "675 P.2d 1266", "724 P.2d 425", "753 P.2d 517", "78 Wn. App. 115", "79 Wn.2d 12", "87 Wn. App. 495", "897 P.2d 365", "95 Wn. App. 1", "95 Wn.2d 853", "962 P.2d 824", "974 P.2d 316", "988 P.2d 967", "993 P.2d 259"]
+cites_cases: ["100 Wn.2d 476", "110 Wn.2d 355", "137 Wn.2d 500", "140 Wn.2d 88", "25 Wn. App. 552", "33 Wn. App. 838", "36 Wn. App. 576", "45 Wn. App. 192", "482 P.2d 775", "608 P.2d 266", "631 P.2d 366", "658 P.2d 42", "670 P.2d 648", "675 P.2d 1266", "724 P.2d 425", "753 P.2d 517", "78 Wn. App. 115", "79 Wn.2d 12", "87 Wn. App. 495", "897 P.2d 365", "95 Wn. App. 1", "95 Wn.2d 853", "962 P.2d 824", "974 P.2d 316", "988 P.2d 967", "993 P.2d 259"]
 ---
 
 # Saluteen-Maschersky v. Countrywide Funding Corp.
