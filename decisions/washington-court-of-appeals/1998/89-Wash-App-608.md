@@ -1,0 +1,29 @@
+---
+court: "Washington Court of Appeals"
+docket: "16158-7-III"
+decided: "1998-01-22"
+citations: ["89 Wash. App. 608"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Floyd Takesgun, Appellant."]
+source_url: "https://static.case.law/wash-app/89/cases/0608-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 395173
+cites_cases: ["107 Wn.2d 1", "118 Wn.2d 1007", "371 U.S. 471", "439 U.S. 128", "440 U.S. 648", "499 U.S. 924", "510 U.S. 1204", "6 F.3d 1088", "6 F.3d 1447", "61 Wn. App. 626", "726 P.2d 445", "811 P.2d 241", "875 F.2d 268", "908 F.2d 1032", "912 F.2d 441"]
+---
+
+# State v. Takesgun
+
+## Majority (Schultheis, C.J.)
+
+Schultheis, C.J.
+Police officers found cocaine on a passenger while they were conducting a search incident to the illegal arrest of the vehicle’s driver. We are asked whether the passenger had standing to challenge the legality of the search and to suppress the fruits of that search.
+Floyd Takesgun was a passenger in a vehicle pulled over in July 1994 for failure to dim its bright lights. The officer ascertained the vehicle’s lights were merely out of adjustment, but because the driver seemed nervous and his eyes were bloodshot, the trooper engaged him in conversation. He asked if there was alcohol in the car, where the car was going, and where it had been. During this contact, the trooper noticed Mr. Takesgun also had bloodshot eyes and appeared nervous.
+The trooper suspected the two young men were up to something. He had the driver step out of the car, obtained permission to search the vehicle and found cocaine in the trunk. Both driver and passenger were placed under arrest. Before being transported to jail, Mr. Takesgun admitted he had cocaine in his shoe.
+The court found that the detention of the driver was illegal, but denied Mr. Takesgun’s motion to suppress. Sua sponte, the court ruled Mr. Takesgun lacked standing to challenge the driver’s detention and found him guilty of illegal possession of the cocaine in his shoe. Mr. Takesgun contends the evidence should have been suppressed as fruit of an illegal search and seizure. We reverse and vacate the conviction.
+Fourth Amendment rights are personal, and a proponent of a motion to suppress must prove that the challenged governmental action infringed upon his own Fourth Amendment rights. United States v. Soule, 908 F.2d 1032, 1034 (1st Cir. 1990) (citing Rakas v. Illinois, 439 U.S. 128, 131 n.1, 99 S. Ct. 421, 424 n.1, 58 L. Ed. 2d 387 (1978)). Here, the trial court accepted the State’s argument that this case is indistinguishable from Rakas, in which the Court held that passengers without a possessory interest in the stopped vehicle had no legitimate privacy interest in it and could not, therefore, challenge its search. In that case, however, as the concurring opinion emphasizes, the passengers did not challenge the constitutionality of the stop. Thus, the Court’s decision was limited to the issue of whether the passenger’s legitimate expectation of privacy was invaded by a search of the vehicle, and not the stop thereof. Rakas, 439 U.S. at 150-51 (Powell, J., concurring). Here, Mr. Takesgun did challenge the stop. And that is a crucial difference.
+A police officer’s act of stopping a vehicle and detaining its occupants constitutes a seizure under the Fourth Amendment that must be reasonable. Delaware v. Prouse, 440 U.S. 648, 653, 99 S. Ct. 1391, 59 L. Ed. 2d 660 (1979); see also State v. Kennedy, 107 Wn.2d 1, 4, 726 P.2d 445 (1986); State v. Tijerina, 61 Wn. App. 626, 628-29, 811 P.2d 241, review denied, 118 Wn.2d 1007 (1991). A passenger has standing to challenge the stop that constitutes his own seizure, regardless whether he has standing to challenge a subsequent search of the vehicle. “[Standing to challenge a stop presents issues separate and distinct from standing to challenge a search.” United States v. Erwin, 875 F.2d 268, 269 (10th Cir. 1989); United States v. Arango, 912 F.2d 441 (10th Cir. 1990), cert. denied, 499 U.S. 924 (1991). In other words, “[wjhereas the search of an automobile does not implicate a passenger’s fourth amendment rights, a stop results in the seizure of the passenger and driver alike. Thus, the passenger of a stopped automobile does have standing to challenge the seizure as unconstitutional.” United States v. Roberson, 6 F.3d 1088, 1091 (5th Cir. 1993) (footnote omitted), cert. denied, 510 U.S. 1204 (1994). If the stop was unreasonable, the seized contraband is subject to exclusion under the “fruit of the poison tree” doctrine. United States v. McKneely, 6 F.3d 1447, 1450 (10th Cir. 1993); Roberson, 6 F.3d at 1091; Erwin, 875 F.2d at 269 n.2; see also Arango, 912 F.2d at 446; Tijerina, 61 Wn. App. at 629-30.
+Here, the trial court found that the initial stop was warranted, as was a further brief detention to determine whether the driver was intoxicated. But the continued detention of the driver ripened into an unlawful seizure, which tainted his consent to search the vehicle. The court acknowledged the driver was entitled to suppression of the cocaine in the trunk, but concluded Mr. Takesgun was not because he could not assert the driver’s constitutional rights. The court’s analysis ignores the fact that Mr. Takes-gun’s detention also became unlawful when the trooper exceeded the scope of the investigatory stop. The fruits of the unreasonable seizure of the car’s occupants, i.e., the cocaine in the trunk, both arrests and the cocaine in Mr. Takesgun’s shoe, were all inadmissible and should have been suppressed. Wong Sun v. United States, 371 U.S. 471, 484-85, 83 S. Ct. 407, 9 L. Ed. 2d 441 (1963).
+Reversed and the conviction is vacated.
+Sweeney and Kato, JJ., concur.
