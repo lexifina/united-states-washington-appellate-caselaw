@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15355-0-III"
 decided: "1997-05-22"
-citations: ["86 Wash. App. 521", "86 Wash. App. 1021"]
+citations: ["86 Wash. App. 521"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Department of Corrections, Appellant, v. The City of Kennewick, e
 source_url: "https://static.case.law/wash-app/86/cases/0521-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278945
-cites_cases: ["101 Wn.2d 1021", "111 P. 879", "116 Wash. 648", "116 Wash. 661", "127 Wn.2d 782", "134 Wn.2d 1002", "200 P. 336", "203 P. 40", "233 Cal. App. 3d 130", "284 Cal. Rptr. 427", "37 Wn. App. 295", "59 Wn. App. 795", "61 Wash. 47", "634 P.2d 853", "680 P.2d 439", "71 Wn. App. 367", "801 P.2d 985", "859 P.2d 610", "86 Wn. App. 521", "903 P.2d 986", "96 Wn.2d 201"]
+cites_cases: ["101 Wn.2d 1021", "111 P. 879", "116 Wash. 648", "116 Wash. 661", "127 Wn.2d 782", "134 Wn.2d 1002", "200 P. 336", "203 P. 40", "233 Cal. App. 3d 130", "284 Cal. Rptr. 427", "37 Wn. App. 295", "59 Wn. App. 795", "61 Wash. 47", "634 P.2d 853", "680 P.2d 439", "71 Wn. App. 367", "801 P.2d 985", "859 P.2d 610", "903 P.2d 986", "96 Wn.2d 201"]
 ---
 
 # Department of Corrections v. City of Kennewick
