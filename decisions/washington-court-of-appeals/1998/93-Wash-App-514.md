@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22813-1-II"
 decided: "1998-12-11"
-citations: ["93 Wash. App. 514", "93 Wash. App. 1033"]
+citations: ["93 Wash. App. 514"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Heilig Trust, et al., Appellants, v. First Interstate Bank of Was
 source_url: "https://static.case.law/wash-app/93/cases/0514-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 49143
-cites_cases: ["118 Wn.2d 476", "125 Wn.2d 337", "505 P.2d 467", "656 P.2d 1030", "8 Wn. App. 245", "824 P.2d 483", "883 P.2d 1383", "93 Wn. App. 514", "98 Wn.2d 434"]
+cites_cases: ["118 Wn.2d 476", "125 Wn.2d 337", "505 P.2d 467", "656 P.2d 1030", "8 Wn. App. 245", "824 P.2d 483", "883 P.2d 1383", "98 Wn.2d 434"]
 ---
 
 # Heilig Trust v. First Interstate Bank
