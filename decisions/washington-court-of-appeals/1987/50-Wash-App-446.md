@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18670-1-I"
 decided: "1987-12-14"
-citations: ["50 Wash. App. 446", "50 Wash. App. 1002"]
+citations: ["50 Wash. App. 446"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Brian William York, Appellant
 source_url: "https://static.case.law/wash-app/50/cases/0446-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1706342
-cites_cases: ["102 Wn.2d 140", "103 Wn.2d 1015", "104 Wn.2d 1016", "104 Wn.2d 1019", "105 Wn.2d 632", "106 Wn.2d 772", "107 Wn.2d 97", "108 Wn.2d 1035", "108 Wn.2d 627", "240 P.2d 251", "3 Wn. App. 579", "331 F.2d 85", "36 Wn. App. 176", "36 Wn. App. 746", "38 Wn. App. 871", "39 Wn. App. 273", "40 Wn. App. 340", "40 Wn. App. 601", "40 Wn.2d 18", "408 U.S. 934", "41 Wn. App. 133", "446 P.2d 571", "459 U.S. 1211", "46 Wn. App. 223", "466 U.S. 668", "476 P.2d 544", "48 Wn. App. 121", "48 Wn. App. 187", "50 Wn. App. 446", "502 P.2d 470", "603 P.2d 1258", "647 P.2d 6", "655 P.2d 697", "672 P.2d 772", "677 P.2d 202", "684 P.2d 699", "691 P.2d 213", "693 P.2d 145", "698 P.2d 598", "699 P.2d 804", "7 Wn. App. 773", "703 P.2d 309", "716 P.2d 295", "725 P.2d 951", "727 P.2d 239", "730 P.2d 98", "737 P.2d 1308", "738 P.2d 316", "74 Wn.2d 744", "741 P.2d 24", "82 Wn.2d 1002", "92 Wn.2d 967", "97 Wn.2d 493", "98 Wn.2d 358"]
+cites_cases: ["102 Wn.2d 140", "103 Wn.2d 1015", "104 Wn.2d 1016", "104 Wn.2d 1019", "105 Wn.2d 632", "106 Wn.2d 772", "107 Wn.2d 97", "108 Wn.2d 1035", "108 Wn.2d 627", "240 P.2d 251", "3 Wn. App. 579", "331 F.2d 85", "36 Wn. App. 176", "36 Wn. App. 746", "38 Wn. App. 871", "39 Wn. App. 273", "40 Wn. App. 340", "40 Wn. App. 601", "40 Wn.2d 18", "408 U.S. 934", "41 Wn. App. 133", "446 P.2d 571", "459 U.S. 1211", "46 Wn. App. 223", "466 U.S. 668", "476 P.2d 544", "48 Wn. App. 121", "48 Wn. App. 187", "502 P.2d 470", "603 P.2d 1258", "647 P.2d 6", "655 P.2d 697", "672 P.2d 772", "677 P.2d 202", "684 P.2d 699", "691 P.2d 213", "693 P.2d 145", "698 P.2d 598", "699 P.2d 804", "7 Wn. App. 773", "703 P.2d 309", "716 P.2d 295", "725 P.2d 951", "727 P.2d 239", "730 P.2d 98", "737 P.2d 1308", "738 P.2d 316", "74 Wn.2d 744", "741 P.2d 24", "82 Wn.2d 1002", "92 Wn.2d 967", "97 Wn.2d 493", "98 Wn.2d 358"]
 ---
 
 # State v. York
