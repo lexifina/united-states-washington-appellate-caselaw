@@ -1,0 +1,36 @@
+---
+court: "Washington Court of Appeals"
+docket: "4342-II"
+decided: "1981-08-05"
+citations: ["30 Wash. App. 115"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Guardianship of Willis R. Heath. William N. Mathias, as Executor, Appellant, v. Seattle-First National Bank, as Guardian, Respondent."]
+source_url: "https://static.case.law/wash-app/30/cases/0115-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1826498
+cites_cases: ["140 P.2d 272", "163 P. 758", "18 Wn.2d 546", "23 Wn. App. 694", "492 P.2d 1047", "598 P.2d 731", "6 Wn. App. 345", "95 Wash. 256"]
+---
+
+# Mathias v. Seattle-First National Bank
+
+## Majority (Petrich, J.)
+
+Petrich, J.
+— The parties have submitted this case on an agreed statement of facts.
+The trust department of the Olympia branch of Seattle-First National Bank was appointed limited guardian of the estate of Dr. Willis R. Heath, an incompetent, on September 13, 1977. On December 28, 1978, Bayless Enterprises, Inc. mailed a check in the amount of $5,891.14 to Dr. Heath. The check, No. 241, represented the yearly installment payment due to Dr. Heath under a purchase and sale agreement.
+The limited guardian did not become aware that it had not received the installment due January 1, 1979 until January 24, 1979. On January 24, the limited guardian called Bayless Enterprises to inquire about the payment. Bayless Enterprises advised the guardian that it had sent the check directly to Dr. Heath. Upon being so advised, the guardian asked Mr. Bayless to request his bank, the Sixth and Denny branch of Seattle-First National Bank, to stop payment on the check. Mr. Bayless agreed to take such action and filed his stop payment request at approximately 4 p.m. on the 24th. The bank officer accepting the request assured Mr. Bayless that payment on the check would be stopped if the check had not already cleared the bank.
+Early on the morning of January 25, 1979, Dr. Heath and a third person presented check No. 241 to the Sixth and Denny branch for payment. The teller verified that there were sufficient funds in the Bayless Enterprises, Inc. account to cover the check, received authorization from a bank officer to cash the check and paid Dr. Heath the amount of the check in cash. Because of a computer malfunction, the teller was unaware that a stop payment order had been placed on the check.
+On the afternoon of January 25, 1979, an officer of the Sixth and Denny branch telephoned Mr. Bayless, told him that payment had been stopped on check No. 241, and asked him to issue a second check. Mr. Bayless complied with such request and issued a check in the amount of $5,891.14 payable to the trust department of the Olympia branch of Seattle-First National Bank. This check, No. 252, was properly deposited into Heath's guardianship account on January 31, 1979. Seattle-First's request for return of the funds was refused by the ward, Willis Heath. The agreed statement is silent as to the disposition of the funds by the ward and as to whether or not any of the funds were traced to his estate after he died.
+Dr. Heath died testate on May 16, 1979. In its petition for approval of its final accounting and termination of the limited guardianship, the trust department of the Olympia branch sought a credit for the $5,891.14 loss absorbed by the Sixth and Denny branch. The trial court granted the credit over the objection of the executor of Dr. Heath's estate.
+The executor of Dr. Heath's estate challenges the trial court's order on the ground that the trial court lacked jurisdiction to order payment of a claim made against the guardianship estate after the ward's death. We find that the trial court did lack jurisdiction and reverse.
+A limited guardianship automatically terminates upon the death of the ward. RCW 11.88.140(l)(c). After the death of the ward, the guardian's powers are limited to rendering a final accounting and distributing the property under his control to the proper person. State ex rel. Nat'l Bank of Commerce v. Frater, 18 Wn.2d 546, 140 P.2d 272 (1943); In re Mayou, 6 Wn. App. 345, 492 P.2d 1047 (1972). The guardian (unless the guardian is administering the estate of an intestate deceased ward under RCW 11.88.150), has no power to pay debts or obligations owed by the ward's estate. Id. Those creditors whose claims were not paid by the guardian before the death of the ward must submit their claims to the decedent's personal representative. State ex rel. Nat'l Bank of Commerce v. Frater, supra; In re Mayou, supra. As the Supreme Court stated in Eisenhower v. Vaughn, 95 Wash. 256, 257, 163 P. 758 (1917):
+The death of the ward having terminated the guardianship, it follows that all unsettled claims, either legal or equitable, created against the estate under the guardianship must be settled out of the estate in the hands of the administrator in due course of administration.
+In this case Seattle-First National Bank, acting as limited guardian, attempted to avoid the operation of the above rules by characterizing the $5,891.14 as a credit instead of a creditor's claim. Such a characterization is improper. Credits are allowed only for those amounts actually paid by the guardian prior to the ward's death or for costs incurred in administering the guardianship. See State ex rel. Nat'l Bank of Commerce v. Frater, supra. The $5,891.14 here at issue is neither an amount paid by the guardian prior to the ward's death nor a cost incurred in administering the estate.
+Seattle-First has played two roles in this action. Its primary role is that of limited guardian. Its secondary role is that of depositary bank for Bayless Enterprises, Inc. Although in its primary role Seattle-First is entitled to credit for amounts actually paid prior to Willis Heath's death, as well as for costs it has incurred in administering the guardianship estate, in its secondary role it has only those rights that any other creditor would have had against Dr. Heath. The honoring of the first check contrary to the stop payment order was done as the depositary of Bayless Enterprises and was not a payment as guardian during the ward's lifetime. In its secondary role, Seattle-First National Bank is a creditor of the guardianship estate. As such, it was required to file its claim with the personal representative of the Heath estate.
+Having found that the trial court did not have jurisdiction to order payment of a creditor's claim submitted after the ward's death, we find it unnecessary to discuss the executor's other assignments of error. The judgment of the trial court is reversed.
+Reed, C.J., and Pearson, J., concur.
+Reconsideration denied September 4, 1981.
+Although not part of the agreed statement of facts, it appears that the Bay-less account was charged only once by the Sixth and Denny branch of Seattle-First National Bank.
+This issue was raised for the first time on appeal. Although this court will not normally consider claims of error not raised in the trial court, lack of jurisdiction can be asserted at any time. RAP 2.5(a); State v. Williams, 23 Wn. App. 694, 598 P.2d 731 (1979).
