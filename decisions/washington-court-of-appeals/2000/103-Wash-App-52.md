@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46038-2-I"
 decided: "2000-09-18"
-citations: ["103 Wash. App. 52", "102 Wash. App. 1040"]
+citations: ["103 Wash. App. 52"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mutual of Enumclaw Insurance Company, Respondent, v. Kirk Cross, et a
 source_url: "https://static.case.law/wash-app/103/cases/0052-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102588
-cites_cases: ["102 Wn.2d 665", "103 Wn. App. 52", "121 Wn.2d 715", "134 Wn.2d 713", "135 Wis. 2d 245", "135 Wn.2d 777", "142 Wn.2d 1025", "178 Wis. 2d 719", "1997 ME 3", "251 Kan. 689", "346 Md. 217", "398 Mass. 240", "496 N.E.2d 158", "505 N.W.2d 421", "518 N.W.2d 179", "54 Wn. App. 195", "603 S.W.2d 490", "656 P.2d 1030", "689 P.2d 68", "773 P.2d 105", "788 P.2d 748", "853 P.2d 1373", "912 S.W.2d 531", "941 S.W.2d 625", "952 P.2d 157", "958 P.2d 990", "970 S.W.2d 876", "98 Wn. App. 565", "98 Wn.2d 434", "989 P.2d 1233"]
+cites_cases: ["102 Wn.2d 665", "121 Wn.2d 715", "134 Wn.2d 713", "135 Wis. 2d 245", "135 Wn.2d 777", "142 Wn.2d 1025", "178 Wis. 2d 719", "1997 ME 3", "251 Kan. 689", "346 Md. 217", "398 Mass. 240", "496 N.E.2d 158", "505 N.W.2d 421", "518 N.W.2d 179", "54 Wn. App. 195", "603 S.W.2d 490", "656 P.2d 1030", "689 P.2d 68", "773 P.2d 105", "788 P.2d 748", "853 P.2d 1373", "912 S.W.2d 531", "941 S.W.2d 625", "952 P.2d 157", "958 P.2d 990", "970 S.W.2d 876", "98 Wn. App. 565", "98 Wn.2d 434", "989 P.2d 1233"]
 ---
 
 # Mutual of Enumclaw Insurance v. Cross
