@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11570-7-I"
 decided: "1985-04-01"
-citations: ["40 Wash. App. 639", "40 Wash. App. 1007"]
+citations: ["40 Wash. App. 639"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sharon L. Prater, Appellant, v. The City of Kent, et al, Respondents.
 source_url: "https://static.case.law/wash-app/40/cases/0639-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1796390
-cites_cases: ["102 Wn.2d 68", "23 Wn. App. 88", "247 P.2d 233", "29 U.S.C. § 801", "37 Wn. App. 386", "40 Wn. App. 639", "41 Wn.2d 81", "411 U.S. 792", "411 U.S. 945", "438 U.S. 567", "450 U.S. 248", "460 U.S. 711", "501 P.2d 290", "583 P.2d 621", "596 P.2d 1074", "615 P.2d 1279", "681 P.2d 845", "684 P.2d 692", "81 Wn.2d 259", "90 Wn.2d 384", "92 Wn.2d 1032", "94 Wn.2d 119"]
+cites_cases: ["102 Wn.2d 68", "23 Wn. App. 88", "247 P.2d 233", "29 U.S.C. § 801", "37 Wn. App. 386", "41 Wn.2d 81", "411 U.S. 792", "411 U.S. 945", "438 U.S. 567", "450 U.S. 248", "460 U.S. 711", "501 P.2d 290", "583 P.2d 621", "596 P.2d 1074", "615 P.2d 1279", "681 P.2d 845", "684 P.2d 692", "81 Wn.2d 259", "90 Wn.2d 384", "92 Wn.2d 1032", "94 Wn.2d 119"]
 ---
 
 # Prater v. City of Kent
