@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16149-8-III"
 decided: "1997-04-17"
-citations: ["86 Wash. App. 165", "85 Wash. App. 1072"]
+citations: ["86 Wash. App. 165"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mount Spokane Skiing Corporation, Appellant, v. Spokane County, et al
 source_url: "https://static.case.law/wash-app/86/cases/0165-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1279121
-cites_cases: ["103 Wn.2d 215", "104 Wn.2d 621", "105 Wn.2d 78", "108 Wn.2d 679", "116 Wn.2d 1", "117 Wn.2d 382", "118 Wn.2d 639", "118 Wn.2d 826", "127 Wn.2d 194", "133 Wn.2d 1021", "153 P. 347", "160 P. 755", "187 Cal. 181", "201 P. 120", "249 P.2d 236", "284 P.2d 1099", "3 Wn.2d 31", "304 P.2d 676", "351 P.2d 493", "379 P.2d 925", "380 P.2d 735", "41 Wn.2d 310", "418 P.2d 443", "44 Wash. 602", "445 P.2d 1017", "46 Wn.2d 747", "49 Wn.2d 520", "548 P.2d 310", "555 P.2d 993", "556 P.2d 936", "558 P.2d 211", "56 Wn.2d 86", "576 P.2d 54", "586 P.2d 860", "61 Wn.2d 658", "61 Wn.2d 772", "611 P.2d 396", "621 P.2d 127", "634 P.2d 877", "647 P.2d 6", "656 P.2d 1030", "664 P.2d 1240", "69 Wn.2d 392", "691 P.2d 571", "707 P.2d 1348", "711 P.2d 993", "74 Wn.2d 659", "743 P.2d 793", "802 P.2d 784", "816 P.2d 18", "826 P.2d 167", "827 P.2d 1374", "86 Wn. App. 165", "86 Wn.2d 624", "87 P. 932", "87 Wn.2d 618", "87 Wn.2d 717", "88 Wash. 583", "88 Wn.2d 93", "89 Wn.2d 804", "897 P.2d 358", "91 Wn.2d 19", "93 Wash. 267", "93 Wn.2d 465", "94 Wn.2d 827", "96 Wn.2d 255", "97 Wn.2d 493", "98 Wn.2d 434", "99 P.2d 623", "99 Wn.2d 832"]
+cites_cases: ["103 Wn.2d 215", "104 Wn.2d 621", "105 Wn.2d 78", "108 Wn.2d 679", "116 Wn.2d 1", "117 Wn.2d 382", "118 Wn.2d 639", "118 Wn.2d 826", "127 Wn.2d 194", "133 Wn.2d 1021", "153 P. 347", "160 P. 755", "187 Cal. 181", "201 P. 120", "249 P.2d 236", "284 P.2d 1099", "3 Wn.2d 31", "304 P.2d 676", "351 P.2d 493", "379 P.2d 925", "380 P.2d 735", "41 Wn.2d 310", "418 P.2d 443", "44 Wash. 602", "445 P.2d 1017", "46 Wn.2d 747", "49 Wn.2d 520", "548 P.2d 310", "555 P.2d 993", "556 P.2d 936", "558 P.2d 211", "56 Wn.2d 86", "576 P.2d 54", "586 P.2d 860", "61 Wn.2d 658", "61 Wn.2d 772", "611 P.2d 396", "621 P.2d 127", "634 P.2d 877", "647 P.2d 6", "656 P.2d 1030", "664 P.2d 1240", "69 Wn.2d 392", "691 P.2d 571", "707 P.2d 1348", "711 P.2d 993", "74 Wn.2d 659", "743 P.2d 793", "802 P.2d 784", "816 P.2d 18", "826 P.2d 167", "827 P.2d 1374", "86 Wn.2d 624", "87 P. 932", "87 Wn.2d 618", "87 Wn.2d 717", "88 Wash. 583", "88 Wn.2d 93", "89 Wn.2d 804", "897 P.2d 358", "91 Wn.2d 19", "93 Wash. 267", "93 Wn.2d 465", "94 Wn.2d 827", "96 Wn.2d 255", "97 Wn.2d 493", "98 Wn.2d 434", "99 P.2d 623", "99 Wn.2d 832"]
 ---
 
 # Mount Spokane Skiing Corp. v. Spokane County
