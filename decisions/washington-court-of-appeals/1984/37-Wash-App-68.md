@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12970-8-I"
 decided: "1984-02-14"
-citations: ["37 Wash. App. 68", "36 Wash. App. 1069"]
+citations: ["37 Wash. App. 68"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. John Schweitzer, Appellant."]
 source_url: "https://static.case.law/wash-app/37/cases/0068-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1784750
-cites_cases: ["25 Wn. App. 185", "36 Wn. App. 463", "37 Wn. App. 68", "449 U.S. 843", "605 P.2d 1279", "674 P.2d 1268"]
+cites_cases: ["25 Wn. App. 185", "36 Wn. App. 463", "449 U.S. 843", "605 P.2d 1279", "674 P.2d 1268"]
 ---
 
 # State v. Schweitzer
