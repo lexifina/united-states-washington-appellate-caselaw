@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33489-1-I"
 decided: "1995-01-23"
-citations: ["77 Wash. App. 137", "76 Wash. App. 1077"]
+citations: ["77 Wash. App. 137"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Absher Construction Co., et al, Appellants, v. Kent School District N
 source_url: "https://static.case.law/wash-app/77/cases/0137-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415788
-cites_cases: ["107 Wn.2d 1029", "117 Wn.2d 1006", "118 Wn.2d 1023", "12 F.2d 28", "123 Wn.2d 160", "22 Ohio Misc. 71", "258 N.E.2d 264", "28 Wn. App. 10", "28 Wn. App. 59", "311 P.2d 420", "320 P.2d 635", "407 P.2d 429", "410 P.2d 796", "45 Wn. App. 663", "458 P.2d 1", "486 P.2d 1120", "5 Wn. App. 186", "50 Wn.2d 299", "51 Wn.2d 554", "514 Pa. 649", "524 A.2d 495", "57 Wn. App. 170", "59 Wn. App. 536", "60 Wn. App. 426", "62 Wn. App. 386", "621 P.2d 1299", "621 P.2d 791", "63 Wn. App. 355", "66 Wn. App. 358", "67 Wn.2d 153", "67 Wn.2d 910", "726 P.2d 1021", "76 Wn.2d 539", "77 Wn. App. 137", "787 P.2d 58", "799 P.2d 1183", "804 P.2d 642", "814 P.2d 255", "818 P.2d 1127", "832 P.2d 105", "866 P.2d 31", "95 Wn.2d 1012", "97 Pa. Commw. 31"]
+cites_cases: ["107 Wn.2d 1029", "117 Wn.2d 1006", "118 Wn.2d 1023", "12 F.2d 28", "123 Wn.2d 160", "22 Ohio Misc. 71", "258 N.E.2d 264", "28 Wn. App. 10", "28 Wn. App. 59", "311 P.2d 420", "320 P.2d 635", "407 P.2d 429", "410 P.2d 796", "45 Wn. App. 663", "458 P.2d 1", "486 P.2d 1120", "5 Wn. App. 186", "50 Wn.2d 299", "51 Wn.2d 554", "514 Pa. 649", "524 A.2d 495", "57 Wn. App. 170", "59 Wn. App. 536", "60 Wn. App. 426", "62 Wn. App. 386", "621 P.2d 1299", "621 P.2d 791", "63 Wn. App. 355", "66 Wn. App. 358", "67 Wn.2d 153", "67 Wn.2d 910", "726 P.2d 1021", "76 Wn.2d 539", "787 P.2d 58", "799 P.2d 1183", "804 P.2d 642", "814 P.2d 255", "818 P.2d 1127", "832 P.2d 105", "866 P.2d 31", "95 Wn.2d 1012", "97 Pa. Commw. 31"]
 ---
 
 # Absher Construction Co. v. Kent School District No. 415
