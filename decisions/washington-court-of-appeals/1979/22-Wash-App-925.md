@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "2548-3"
 decided: "1979-01-18"
-citations: ["22 Wash. App. 925", "22 Wash. App. 1007"]
+citations: ["22 Wash. App. 925"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
