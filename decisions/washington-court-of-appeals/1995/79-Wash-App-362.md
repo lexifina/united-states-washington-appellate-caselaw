@@ -1,0 +1,48 @@
+---
+court: "Washington Court of Appeals"
+docket: "34819-1-I"
+decided: "1995-09-18"
+citations: ["79 Wash. App. 362"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Paris Deshawn Alcantara, Appellant."]
+source_url: "https://static.case.law/wash-app/79/cases/0362-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 423555
+cites_cases: ["104 Wn.2d 1010", "116 Wn.2d 509", "121 Wn.2d 168", "392 U.S. 1", "40 Wn. App. 459", "64 Wn. App. 591", "640 P.2d 1061", "698 P.2d 1109", "77 Wn. App. 687", "806 P.2d 760", "825 P.2d 749", "847 P.2d 919", "893 P.2d 650", "97 Wn.2d 92"]
+---
+
+# State v. Alcantara
+
+## Majority (Scholfield, J.)
+
+Scholfield, J.
+Paris Alcantara appeals from an order of disposition entered following his juvenile court conviction for possession of cocaine. He argues the police lacked justification to conduct the search which produced drug evidence. We agree, reverse and remand.
+Officer Michael Korner testified that on the afternoon of March 21, 1994, he was working bicycle patrol in downtown Seattle when he encountered the defendant. The officer, who was fifty feet away on the west side of Second Avenue, was under the impression Alcantara may have just emerged from a vehicle in a parking lot on the east side of the street. Alcantara walked toward the officer on the opposite side of the street, "intently looking” at what appeared to be a plastic bag in his hand. The officer could not determine the contents of the hag.
+Officer Korner crossed the street toward Alcantara. When Alcantara saw him approaching, his eyes widened and he "immediately” turned away from the officer. Alcantara made shoving motions in the front of his pants or pocket. Korner testified he believed Alcantara was trying to conceal narcotics because he usually saw narcotics packaged in ziplock bags and balloons and had seen deliveries in this area of the city.
+Officer Korner stopped Alcantara and immediately patted him down, although he acknowledged that he had not observed any weapon prior to the stop. In Alcantara’s right front pants pocket, Korner felt an object he believed was the plastic he had seen in Alcantara’s hand. Korner removed the bag, which contained what he believed to be marijuana. After arresting Alcantara and taking him to the West Precinct station, Korner asked him if he had any more narcotics in his possession and Alcantara responded that he did. Korner then found in Alcantara’s pants another plastic bag containing what proved to be rock cocaine.
+Alcantara argued in a CrR 3.6 motion to suppress evidence that the search exceeded the proper scope of a Terry stop under the circumstances. Relying on State v. Pressley, 64 Wn. App. 591, 825 P.2d 749 (1992), the trial court denied the motion to suppress and found Alcantara guilty of possessing cocaine.
+" 'When police officers have a "well-founded suspicion not amounting to probable cause” to arrest, they may nonetheless stop a suspected person, identify themselves, and ask that person for identification and an explanation of his or her activities.’ ” State v. Glover, 116 Wn.2d 509, 513, 806 P.2d 760 (1991) (quoting State v. White, 97 Wn.2d 92, 105, 640 P.2d 1061 (1982)). An investigative stop is lawful if the officer can "point to specific and articulable facts which, taken together with rational inferences from those facts, reasonably warrant that intrusion.” Terry v. Ohio, 392 U.S. 1, 21, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968).
+Under Terry, police officers are empowered to conduct a limited search designed to discover potential weapons. Terry, 392 U.S. at 29. The State bears the burden of showing that the search was reasonable under the warrantless search exception set forth in Terry State v. Collins, 121 Wn.2d 168, 172, 847 P.2d 919 (1993).
+Alcantara concedes that the officer was justified in making the initial stop; he contends, however, that the search of his pocket exceeded the permissible scope of a Terry stop. He argues the officer was not concerned about the presence of weapons, but rather searched Alcantara’s pocket solely because he suspected drug activity. Relying on Pressley, the State responds that the search was lawful because the facts reasonably raised Korner’s suspicions that Alcantara was trying to conceal drugs. The State contends that under Pressley an officer may seize evidence where the actions of the person being detained give rise to a reasonable suspicion that the person possesses evidence which is in danger of being lost or destroyed. Pressley, 64 Wn. App. at 598.
+This court recently rejected the argument that such a suspicion alone justifies the search of a defendant’s pocket following a suspected drug transaction. State v. Rodriguez-Torres, 77 Wn. App. 687, 893 P.2d 650 (1995). In Rodriguez-Torres, the trial court denied a suppression motion, ruling that the furtive actions of the defendant gave rise to a reasonable suspicion that he possessed evidence which was in danger of being concealed, destroyed or lost. Rodriguez-Torres, 77 Wn. App. at 690. This court rejected this analysis, reasoning that the Terry rationale for limited searches for potential weapons was based on concern for officer safety. Terry, 392 U.S. at 29. Noting the officer in Rodriguez-Torres never suggested he was concerned that the defendant was armed, this court held that a search pursuant to a Terry stop is not justified on the sole basis that the officer has a reasonable suspicion that evidence is about to be destroyed. The court limited Pressley to circumstances where the "plain view” doctrine or probable causejustifi.es a more intrusive search. Rodriguez-Torres, 77 Wn. App. at 691.
+We conclude that the search in this case was not justified under the principles set forth in Terry. After stopping Alcantara, the officer proceeded to search him immediately. The officer’s actions strongly indicate the stop was made for the purpose of searching Alcantara’s right front pocket, where he suspected he might find evidence. The trial court did not find that the search was based on concern for a weapon, nor does the State advance such an argument in this court. There was no evidence that Alcantara gave any indication of being armed and dangerous. See Terry, 392 U.S. at 20. The plastic bag could not be mistaken for a weapon. The officer’s suspicion that evidence was about to be lost or destroyed was not in itself a sufficient basis for the search. Rodriguez-Torres, 77 Wn. App. at 691-92.
+Accordingly, the search in this case exceeded the permissible scope of a Terry stop and the court erred in denying the suppression motion. Furthermore, contrary to the State’s contentions during oral argument before this court, Alcantara’s actions did not give rise to probable cause to arrest which would have justified a search. To permit the warrantless search on the facts of the case would impermissibly blur the distinction between a patdown for weapons on a Terry stop from those cases where the evidence provides probable cause for an arrest. It is clear there was no basis for an arrest prior to the search.
+We reverse and remand for further proceedings consistent with this opinion.
+Kennedy, A.C.J., concurs.
+Judge Jack P. Scholfield is serving as a judge pro tempore of the Court of Appeals pursuant to CAR 21(c).
+Terry v. Ohio, 392 U.S. 1, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968).
+
+## Concurrence (Grosse, J.)
+
+Grosse, J.
+(concurring) — I concur, but write separately on the issue of the permissible scope of a search following a Terry stop. The majority opinion reads as if the state of the law until the court’s decision in State v. Rodriguez-Torres was that when the actions of a person being detained give rise to a reasonable suspicion that the person possesses evidence which is in danger of being lost or destroyed, the officer who initiated the Terry stop may take reasonable action, consistent with the initial stop, to further investigate and protect the possible evidence. According to the majority’s opinion, this was the holding of the court in State v. Pressley, and it was not until Rodriguez-Torres that this holding was limited "to circumstances where the 'plain view’ doctrine or probable cause justifies a more intrusive search. Rodriguez-Torres, 77 Wn. App. at 691.”
+I disagree. The permissible scope of a search under the circumstances described above has always been limited by the requirement that either the plain view doctrine or probable cause justifies a more intrusive search. In State v. Dorsey, we upheld a search incident to a Terry stop because we found that "[a]t the point of seizure, the elements of 'plain view’ were satisfied and no warrant for further examination of the evidence was required.” In fact, the court in Pressley specifically stated that if the investigating officer has a reasonable suspicion that the person detained possesses evidence which is in danger of being destroyed or lost, the officer may make further examination of the evidence if "probable cause exists or the elements of 'plain view’ are satisfied.” Thus, in my opinion, the majority’s statement that the court in Rodriguez-Torres placed the limitation upon the Pressley holding is inaccurate and should be clarified.
+Terry v. Ohio, 392 U.S. 1, 88 S. Ct. 1868, 20 L. Ed. 2d 889 (1968).
+77 Wn. App. 687, 893 P.2d 650 (1995).
+64 Wn. App. 591, 825 P.2d 749 (1992).
+Majority at 366.
+40 Wn. App. 459, 698 P.2d 1109, review denied, 104 Wn.2d 1010 (1985).
+Dorsey, 40 Wn. App. at 473.
+Pressley, 64 Wn. App. at 598.
