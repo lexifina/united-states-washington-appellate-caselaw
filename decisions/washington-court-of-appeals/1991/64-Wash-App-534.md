@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13683-0-II"
 decided: "1991-12-26"
-citations: ["64 Wash. App. 534", "63 Wash. App. 1037"]
+citations: ["64 Wash. App. 534"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Darrell E. Lee, Appellant, v. The Columbian, Inc., et al, Respondents
 source_url: "https://static.case.law/wash-app/64/cases/0534-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722717
-cites_cases: ["105 Wn.2d 529", "107 S. Ct. 3189", "107 Wn.2d 1020", "112 Wn.2d 193", "112 Wn.2d 762", "12 Wn. App. 215", "20 Wn. App. 229", "26 Wn. App. 430", "441 U.S. 945", "45 Wn. App. 29", "457 U.S. 1124", "477 U.S. 242", "482 U.S. 916", "493 U.S. 814", "529 P.2d 863", "530 P.2d 291", "54 Wn. App. 841", "546 P.2d 81", "580 P.2d 642", "59 Wn. App. 332", "60 L. Ed. 2d 1047", "61 Wn. App. 572", "61 Wn. App. 615", "613 P.2d 187", "635 P.2d 1081", "64 Wn. App. 534", "716 P.2d 842", "723 P.2d 1195", "75 A.L.R.3d 603", "77 A.L.R.3d 436", "770 P.2d 1027", "776 P.2d 695", "776 P.2d 98", "798 P.2d 1155", "811 P.2d 231", "811 P.2d 697", "85 Wn.2d 1003", "85 Wn.2d 52", "86 Wn.2d 439", "91 Wn.2d 1007", "914 F.2d 1136", "929 F.2d 1358", "94 Wn.2d 1014", "96 L. Ed. 2d 677", "96 Wn.2d 473", "99 S. Ct. 2164"]
+cites_cases: ["105 Wn.2d 529", "107 S. Ct. 3189", "107 Wn.2d 1020", "112 Wn.2d 193", "112 Wn.2d 762", "12 Wn. App. 215", "20 Wn. App. 229", "26 Wn. App. 430", "441 U.S. 945", "45 Wn. App. 29", "457 U.S. 1124", "477 U.S. 242", "482 U.S. 916", "493 U.S. 814", "529 P.2d 863", "530 P.2d 291", "54 Wn. App. 841", "546 P.2d 81", "580 P.2d 642", "59 Wn. App. 332", "60 L. Ed. 2d 1047", "61 Wn. App. 572", "61 Wn. App. 615", "613 P.2d 187", "635 P.2d 1081", "716 P.2d 842", "723 P.2d 1195", "75 A.L.R.3d 603", "77 A.L.R.3d 436", "770 P.2d 1027", "776 P.2d 695", "776 P.2d 98", "798 P.2d 1155", "811 P.2d 231", "811 P.2d 697", "85 Wn.2d 1003", "85 Wn.2d 52", "86 Wn.2d 439", "91 Wn.2d 1007", "914 F.2d 1136", "929 F.2d 1358", "94 Wn.2d 1014", "96 L. Ed. 2d 677", "96 Wn.2d 473", "99 S. Ct. 2164"]
 ---
 
 # Lee v. Columbian, Inc.
