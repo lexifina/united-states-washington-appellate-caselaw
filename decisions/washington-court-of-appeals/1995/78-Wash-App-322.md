@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16738-7-II"
 decided: "1995-05-19"
-citations: ["78 Wash. App. 322", "77 Wash. App. 1088"]
+citations: ["78 Wash. App. 322"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Rowan Northwestern Decorators, Inc., Appellant, v. Washington State C
 source_url: "https://static.case.law/wash-app/78/cases/0322-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 426287
-cites_cases: ["100 P.2d 8", "103 P.2d 1106", "106 Wn.2d 1", "108 Wn.2d 679", "112 Wn.2d 456", "15 U.S.C. § 1", "17 Wn. App. 861", "183 P.2d 802", "28 Wn.2d 476", "3 Wn.2d 152", "3 Wn.2d 167", "36 Wash. L. Rev. 239", "39 Wn. App. 21", "411 P.2d 405", "459 P.2d 633", "510 P.2d 818", "565 P.2d 1221", "597 P.2d 383", "611 P.2d 396", "649 P.2d 836", "656 P.2d 1030", "68 Wn.2d 70", "692 P.2d 182", "721 P.2d 1", "743 P.2d 793", "77 Wn.2d 94", "772 P.2d 481", "78 Wn. App. 322", "82 Wn.2d 367", "92 Wn.2d 789", "93 Wn.2d 465", "97 Wn.2d 748", "98 Wn.2d 434"]
+cites_cases: ["100 P.2d 8", "103 P.2d 1106", "106 Wn.2d 1", "108 Wn.2d 679", "112 Wn.2d 456", "15 U.S.C. § 1", "17 Wn. App. 861", "183 P.2d 802", "28 Wn.2d 476", "3 Wn.2d 152", "3 Wn.2d 167", "36 Wash. L. Rev. 239", "39 Wn. App. 21", "411 P.2d 405", "459 P.2d 633", "510 P.2d 818", "565 P.2d 1221", "597 P.2d 383", "611 P.2d 396", "649 P.2d 836", "656 P.2d 1030", "68 Wn.2d 70", "692 P.2d 182", "721 P.2d 1", "743 P.2d 793", "77 Wn.2d 94", "772 P.2d 481", "82 Wn.2d 367", "92 Wn.2d 789", "93 Wn.2d 465", "97 Wn.2d 748", "98 Wn.2d 434"]
 ---
 
 # Rowan Northwestern Decorators, Inc. v. Washington State Convention & Trade Center
