@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53043-7-I"
 decided: "2004-12-13"
-citations: ["125 Wash. App. 59", "124 Wash. App. 1035"]
+citations: ["125 Wash. App. 59"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Adrian Martel Davis, Appellan
 source_url: "https://static.case.law/wash-app/125/cases/0059-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270157
-cites_cases: ["1 N.Y.3d 532", "105 Wn. App. 318", "107 Wn.2d 403", "109 Wn. App. 244", "122 Wn. App. 448", "122 Wn. App. 725", "122 Wn.2d 73", "125 Wn. App. 59", "146 Wn.2d 1012", "148 Wash. 270", "19 P.3d 495", "268 P. 869", "302 A.D.2d 90", "33 Wn. App. 258", "34 P.3d 912", "371 P.2d 55", "379 F.3d 813", "59 Wn.2d 865", "62 Wn. App. 341", "654 P.2d 708", "728 P.2d 1049", "80 Wn. App. 50", "80 Wn. App. 802", "802 N.E.2d 1083", "814 P.2d 679", "856 P.2d 1076", "906 P.2d 377", "911 P.2d 1034", "94 P.3d 1002", "94 P.3d 345", "N.Y. Crim. Proc. Law § 220.60"]
+cites_cases: ["1 N.Y.3d 532", "105 Wn. App. 318", "107 Wn.2d 403", "109 Wn. App. 244", "122 Wn. App. 448", "122 Wn. App. 725", "122 Wn.2d 73", "146 Wn.2d 1012", "148 Wash. 270", "19 P.3d 495", "268 P. 869", "302 A.D.2d 90", "33 Wn. App. 258", "34 P.3d 912", "371 P.2d 55", "379 F.3d 813", "59 Wn.2d 865", "62 Wn. App. 341", "654 P.2d 708", "728 P.2d 1049", "80 Wn. App. 50", "80 Wn. App. 802", "802 N.E.2d 1083", "814 P.2d 679", "856 P.2d 1076", "906 P.2d 377", "911 P.2d 1034", "94 P.3d 1002", "94 P.3d 345", "N.Y. Crim. Proc. Law § 220.60"]
 ---
 
 # State v. Davis
