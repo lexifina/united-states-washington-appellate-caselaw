@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21495-4-II"
 decided: "1997-10-03"
-citations: ["88 Wash. App. 541", "87 Wash. App. 1086"]
+citations: ["88 Wash. App. 541"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Colleen B. Anderson, Appellan
 source_url: "https://static.case.law/wash-app/88/cases/0541-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592243
-cites_cases: ["103 Wn.2d 760", "514 F.2d 41", "516 U.S. 881", "52 F.3d 671", "64 Wn. App. 904", "697 P.2d 579", "721 F.2d 762", "785 F.2d 640", "827 P.2d 318", "88 Wn. App. 541", "918 F.2d 485", "984 F.2d 308"]
+cites_cases: ["103 Wn.2d 760", "514 F.2d 41", "516 U.S. 881", "52 F.3d 671", "64 Wn. App. 904", "697 P.2d 579", "721 F.2d 762", "785 F.2d 640", "827 P.2d 318", "918 F.2d 485", "984 F.2d 308"]
 ---
 
 # State v. Anderson
