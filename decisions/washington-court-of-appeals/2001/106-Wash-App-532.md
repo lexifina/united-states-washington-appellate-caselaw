@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25894-3-II"
 decided: "2001-05-04"
-citations: ["106 Wash. App. 532", "106 Wash. App. 1010"]
+citations: ["106 Wash. App. 532"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Justin R. Jennings, Appellant
 source_url: "https://static.case.law/wash-app/106/cases/0532-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240517
-cites_cases: ["106 Wn. App. 532", "106 Wn.2d 547", "108 Wn.2d 1024", "108 Wn.2d 419", "109 Wn.2d 1020", "11 Cal. Rptr. 2d 353", "110 Wn.2d 528", "115 Wn.2d 1003", "116 Wn.2d 1025", "116 Wn.2d 238", "117 Wn.2d 211", "118 Wn.2d 1030", "119 Wn.2d 390", "127 Wn.2d 281", "129 Wn.2d 1", "131 Wn.2d 558", "132 Wn.2d 182", "132 Wn.2d 834", "139 Wn.2d 107", "142 Wn.2d 631", "144 Wn.2d 1020", "15 P.3d 1271", "18 S.W.3d 75", "190 Misc. 413", "3 Cal. 4th 495", "42 Wn. App. 78", "47 Wn. App. 495", "48 Wn. App. 751", "51 Wn. App. 274", "53 Wn. App. 194", "56 Wn. App. 107", "57 Wn. App. 403", "59 Wn. App. 514", "60 Wn. App. 60", "63 Wn. App. 477", "64 Wn. App. 440", "64 Wn. App. 528", "709 P.2d 1209", "72 Wn. App. 207", "723 P.2d 1111", "73 N.Y.S.2d 475", "735 P.2d 1356", "739 P.2d 683", "740 P.2d 374", "75 Wn. App. 500", "753 P.2d 543", "756 P.2d 122", "766 P.2d 467", "782 P.2d 1076", "788 P.2d 24", "799 P.2d 736", "802 P.2d 803", "803 P.2d 319", "807 P.2d 1167", "81 Wn. App. 387", "812 P.2d 103", "813 P.2d 1238", "82 Wn. App. 153", "820 P.2d 65", "825 P.2d 729", "827 P.2d 290", "828 P.2d 564", "832 P.2d 481", "834 P.2d 1171", "84 Wn. App. 623", "86 Wn. App. 74", "866 P.2d 1258", "878 P.2d 497", "88 Wis. 2d 546", "898 P.2d 838", "914 P.2d 57", "914 P.2d 771", "916 P.2d 960", "929 P.2d 507", "933 P.2d 1019", "936 P.2d 20", "937 P.2d 575", "940 P.2d 633", "985 P.2d 365"]
+cites_cases: ["106 Wn.2d 547", "108 Wn.2d 1024", "108 Wn.2d 419", "109 Wn.2d 1020", "11 Cal. Rptr. 2d 353", "110 Wn.2d 528", "115 Wn.2d 1003", "116 Wn.2d 1025", "116 Wn.2d 238", "117 Wn.2d 211", "118 Wn.2d 1030", "119 Wn.2d 390", "127 Wn.2d 281", "129 Wn.2d 1", "131 Wn.2d 558", "132 Wn.2d 182", "132 Wn.2d 834", "139 Wn.2d 107", "142 Wn.2d 631", "144 Wn.2d 1020", "15 P.3d 1271", "18 S.W.3d 75", "190 Misc. 413", "3 Cal. 4th 495", "42 Wn. App. 78", "47 Wn. App. 495", "48 Wn. App. 751", "51 Wn. App. 274", "53 Wn. App. 194", "56 Wn. App. 107", "57 Wn. App. 403", "59 Wn. App. 514", "60 Wn. App. 60", "63 Wn. App. 477", "64 Wn. App. 440", "64 Wn. App. 528", "709 P.2d 1209", "72 Wn. App. 207", "723 P.2d 1111", "73 N.Y.S.2d 475", "735 P.2d 1356", "739 P.2d 683", "740 P.2d 374", "75 Wn. App. 500", "753 P.2d 543", "756 P.2d 122", "766 P.2d 467", "782 P.2d 1076", "788 P.2d 24", "799 P.2d 736", "802 P.2d 803", "803 P.2d 319", "807 P.2d 1167", "81 Wn. App. 387", "812 P.2d 103", "813 P.2d 1238", "82 Wn. App. 153", "820 P.2d 65", "825 P.2d 729", "827 P.2d 290", "828 P.2d 564", "832 P.2d 481", "834 P.2d 1171", "84 Wn. App. 623", "86 Wn. App. 74", "866 P.2d 1258", "878 P.2d 497", "88 Wis. 2d 546", "898 P.2d 838", "914 P.2d 57", "914 P.2d 771", "916 P.2d 960", "929 P.2d 507", "933 P.2d 1019", "936 P.2d 20", "937 P.2d 575", "940 P.2d 633", "985 P.2d 365"]
 ---
 
 # State v. Jennings
