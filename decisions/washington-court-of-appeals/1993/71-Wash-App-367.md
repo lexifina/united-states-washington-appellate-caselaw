@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30821-1-I"
 decided: "1993-07-19"
-citations: ["71 Wash. App. 367", "70 Wash. App. 1055"]
+citations: ["71 Wash. App. 367"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["LouAnn Freeburg, et al, Appellants, v. The City of Seattle, et al, Re
 source_url: "https://static.case.law/wash-app/71/cases/0367-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1787327
-cites_cases: ["101 Wn.2d 402", "112 Wn.2d 1021", "116 Wn.2d 477", "119 Wn.2d 1005", "119 Wn.2d 1008", "120 Wn.2d 1008", "32 Wn. App. 386", "33 Wn. App. 239", "35 Wn. App. 250", "501 P.2d 594", "52 Wn. App. 726", "548 P.2d 1093", "59 Wn. App. 29", "64 Wn. App. 257", "64 Wn. App. 768", "647 P.2d 540", "65 Wn. App. 614", "653 P.2d 1355", "666 P.2d 916", "680 P.2d 46", "71 Wn. App. 367", "763 P.2d 1244", "795 P.2d 753", "805 P.2d 800", "81 Wn.2d 312", "823 P.2d 1144", "827 P.2d 1017", "829 P.2d 217", "87 Wn.2d 19"]
+cites_cases: ["101 Wn.2d 402", "112 Wn.2d 1021", "116 Wn.2d 477", "119 Wn.2d 1005", "119 Wn.2d 1008", "120 Wn.2d 1008", "32 Wn. App. 386", "33 Wn. App. 239", "35 Wn. App. 250", "501 P.2d 594", "52 Wn. App. 726", "548 P.2d 1093", "59 Wn. App. 29", "64 Wn. App. 257", "64 Wn. App. 768", "647 P.2d 540", "65 Wn. App. 614", "653 P.2d 1355", "666 P.2d 916", "680 P.2d 46", "763 P.2d 1244", "795 P.2d 753", "805 P.2d 800", "81 Wn.2d 312", "823 P.2d 1144", "827 P.2d 1017", "829 P.2d 217", "87 Wn.2d 19"]
 ---
 
 # Freeburg v. City of Seattle
