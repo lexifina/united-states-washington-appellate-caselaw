@@ -1,0 +1,38 @@
+---
+court: "Washington Court of Appeals"
+docket: "16287-3-II"
+decided: "1994-08-15"
+citations: ["75 Wash. App. 440"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Morgan, C.J., and Houghton, J., concur."]
+parties: ["The State of Washington, Appellant, v. Tracy Lynn Zwiefelhofer, Respondent."]
+source_url: "https://static.case.law/wash-app/75/cases/0440-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 11975826
+cites_cases: ["118 Wn.2d 670", "15 Wn. App. 848", "164 Wash. 147", "2 P.2d 681", "395 U.S. 711", "411 P.2d 411", "447 U.S. 410", "490 U.S. 794", "506 P.2d 854", "552 P.2d 1095", "63 Wn. App. 743", "68 Wn.2d 50", "73 Wn. App. 219", "81 Wn.2d 947", "821 P.2d 1269", "826 P.2d 684", "868 P.2d 204", "88 Wn.2d 1003"]
+---
+
+# State v. Zwiefelhofer
+
+## Majority (Seinfeld, J.)
+
+Seinfeld, J.
+Six days after a jury returned verdicts finding Tracy Zwiefelhofer not guilty of the charged crimes of one count of possession and one count of delivery of a controlled substance, the trial court determined that the verdict form for the delivery charge did not reflect the jury’s decision. Consequently, it vacated the not guilty verdict and entered a judgment of conviction. The trial court then imposed an exceptional sentence below the standard range. The State appeals the exceptional sentence downward, and Zwiefelhofer cross-appeals, arguing that the trial court erred by vacating the not guilty verdict. We reverse.
+Facts
+The State charged Zwiefelhofer with one count of delivery and one count of possession of a controlled substance. It charged Ronald Jones, her codefendant, with two counts of delivery and one count of possession of a controlled substance. The trial of the two codefendants concluded on February 26, and the jury returned its verdicts that same day.
+The jury foreperson delivered the five verdict forms to the court clerk, who read the verdicts aloud. The verdict forms stated as follows: "not guilty” as to the two counts against Zwiefelhofer; "guilty” as to the first delivery count and the possession count against Jones; and "not guilty” as to the second delivery count against Jones. After the clerk polled the jury as to Jones’s two guilty verdicts and the jurors confirmed the verdicts, the trial court excused the jury. It then released Zwiefelhofer from custody, set a sentencing date for Jones, and ordered the filing of the jury verdicts.
+On February 28, the prosecuting attorney filed a motion for an order to show cause pursuant to CrR 7.8 along with a supporting affidavit. In his affidavit the prosecuting attorney stated that after the court discharged the jury, several jurors came forward to say that there was a mistake; they had in fact found Zwiefelhofer guilty of count 1, the delivery charge. He then contacted the foreperson who told him that she had mistakenly written "not guilty” on the verdict form for count 1. The prosecuting attorney requested a hearing to question the jury under oath and poll it to determine the correct verdict. The trial judge issued an order to show cause and a summons for Zwiefelhofer that same day.
+At the March 4 hearing on the motion to show cause, the jury foreperson testified that the verdict forms had confused her because they referred to "count” numbers but did not identify the charged crimes. She said that she had made a mistake in filling out the verdict form for the delivery count. After the court discharged the jury she had spoken with other jurors about her mistake, but no one had known what to do. She discussed this with the prosecuting attorney on February 27.
+The trial court then questioned each of the other 11 jurors. All agreed that the jury foreperson had made a mistake in completing the verdict form for the delivery charge. Several jurors acknowledged having discussed the problem among themselves following discharge. Several also admitted that they had discussed the matter with friends, police officers, or the prosecuting attorney.
+After hearing oral argument, the trial court concluded that the mistake was in the nature of a clerical error and thus amenable to correction. It then vacated the not guilty verdict as to the delivery charge and entered a judgment of conviction. Although Zwiefelhofer’s standard range was 21 to 27 months, the court sentenced her to 12 months, an exceptional sentence downward.
+The State appeals the sentence below the standard range and Zwiefelhofer cross-appeals, contending that the trial judge erred by vacating the not guilty verdict and by failing to instruct the jury on criminal predisposition. Due to our resolution of the verdict error issue, we do not reach the exceptional sentence or jury instruction issues.
+Vacation of Jury Verdict
+Zwiefelhofer argues that the vacation of the not guilty verdict violated state and federal constitutional protections against double jeopardy. The double jeopardy clause "protects against a second prosecution for the same offense after acquittal.” Illinois v. Vitale, 447 U.S. 410, 415, 65 L. Ed. 2d 228, 100 S. Ct. 2260 (1980); State v. Laviollette, 118 Wn.2d 670, 674, 826 P.2d 684 (1992) (each quoting North Carolina v. Pearce, 395 U.S. 711, 717, 726, 23 L. Ed. 2d 656, 89 S. Ct. 2072, 2089 (1969), overruled on other grounds by Alabama v. Smith, 490 U.S. 794, 104 L. Ed. 2d 865, 109 S. Ct. 2201 (1989)). When the court administers the oath to a newly selected jury, jeopardy attaches. State v. Rich, 63 Wn. App. 743, 747, 821 P.2d 1269 (1992).
+A judgment of acquittal terminates a criminal case. State v. Bastinelli, 81 Wn.2d 947, 950, 506 P.2d 854 (1973). Reconsideration of a verdict of acquittal following entry of the verdict places the defendant in double jeopardy, violating state and federal constitutional protections. Bastinelli, at 949-50.
+Only under limited circumstances may a trial court, upon determining that the verdict form is inaccurate, correct the verdict to conform to the actual finding of the jury. The jury must -not have passed from the trial court’s control, jurors must not have had an opportunity to mingle with nonjurors, and the jurors must not have renewed their deliberations or discussed the merits of the case. State v. Edwards, 15 Wn. App. 848, 851-52, 552 P.2d 1095 (1976), review denied, 88 Wn.2d 1003 (1977). The law presumes that the jury is contaminated when jurors "pass from the sterility of the court’s control and . . . separate or disperse and mingle with outsiders.” Edwards, at 850. A jury simply can no longer function as a jury after the court has received and recorded the verdict and discharged the jury. State v. Badda, 68 Wn.2d 50, 61, 411 P.2d 411 (1966) (quoting Beglinger v. Shield, 164 Wash. 147, 152, 2 P.2d 681 (1931)).
+Under the facts here, the correction of the jury verdict violated Zwiefelhofer’s constitutional rights against being placed in double jeopardy. Particularly, we note that the jury dispersed following discharge and jurors spent several days beyond the court’s control before the trial court called them back for a hearing; all of the jurors mingled with non-jurors before testifying about the verdict; and several jurors spoke about the case to friends, police officers, and the prosecuting attorney. We must presume contamination; more than a mere clerical error tainted the proceedings below.
+We reverse and remand for further proceedings consistent with this opinion.
+Morgan, C.J., and Houghton, J., concur.
+The Washington State Constitution, article 1, section 9, and the United States Constitution, amendment 5, double jeopardy clauses are subject to the same interpretation. State v. Crisler, 73 Wn. App. 219, 222, 868 P.2d 204 (1994).
