@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53261-8-I"
 decided: "2005-02-28"
-citations: ["126 Wash. App. 904", "126 Wash. App. 1007"]
+citations: ["126 Wash. App. 904"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dorothy M. Walker, Appellant, v. King County Metro et al., Respondent
 source_url: "https://static.case.law/wash-app/126/cases/0904-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016156
-cites_cases: ["119 Wn. App. 1", "125 Wn.2d 456", "126 Wn. App. 904", "138 Wn.2d 265", "141 P. 191", "146 Wn.2d 291", "207 P.2d 674", "316 P.2d 904", "33 Wn.2d 772", "390 P.2d 706", "45 P.3d 1068", "51 Wn.2d 187", "54 Wn. App. 861", "56 Wn. App. 625", "64 Wn.2d 94", "776 P.2d 705", "784 P.2d 1288", "80 Wash. 47", "84 P.3d 252", "886 P.2d 556", "979 P.2d 400"]
+cites_cases: ["119 Wn. App. 1", "125 Wn.2d 456", "138 Wn.2d 265", "141 P. 191", "146 Wn.2d 291", "207 P.2d 674", "316 P.2d 904", "33 Wn.2d 772", "390 P.2d 706", "45 P.3d 1068", "51 Wn.2d 187", "54 Wn. App. 861", "56 Wn. App. 625", "64 Wn.2d 94", "776 P.2d 705", "784 P.2d 1288", "80 Wash. 47", "84 P.3d 252", "886 P.2d 556", "979 P.2d 400"]
 ---
 
 # Walker v. King County Metro
