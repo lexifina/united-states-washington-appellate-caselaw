@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "20807-5-II"
+decided: "1996-12-13"
+citations: ["84 Wash. App. 290"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Personal Restraint of Jeromy Weaver."]
+source_url: "https://static.case.law/wash-app/84/cases/0290-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 121530
+cites_cases: ["527 P.2d 674", "591 P.2d 772", "604 P.2d 953", "80 Wn. App. 269", "83 Wn. App. 523", "84 Wn.2d 498", "908 P.2d 381", "91 Wn.2d 654", "922 P.2d 152", "93 Wn.2d 28"]
+---
+
+# In re the Personal Restraint of Weaver
+
+## Majority (Morgan, J.)
+
+Morgan, J.
+In 1992, at age 14, Jeromy Weaver was charged in juvenile court with two counts of first degree child rape. He successfully pled not guilty by reason of insanity. Relying on RCW 10.77, the juvenile court ordered that he "be hospitalized or placed in appropriate alternative treatment less restrictive than detention in a state mental hospital;” that the secretary of the Department of Social and Health Services (DSHS) "provide adequate in[-]custody care and individualized treatment . . . at one or several of the state institutions or facilities under his or her direction and control wherein persons committed as criminally insane may be confined;” and that Weaver "remain in the control and custody of [DSHS] . . . for a period not to exceed [his] 21st birthday.”
+When Weaver turned 18, DSHS transferred him from its Child Study and Treatment Center, where he had been housed, to Western State Hospital’s ward for adult mentally ill offenders. Weaver then filed this personal restraint petition, in which he argues that he was not subject to commitment under RCW 10.77. We agree and grant his petition.
+Preliminarily, we are concerned only with a juvenile court’s authority to commit someone who has successfully pled not guilty by reason of insanity. We are not concerned with pre-adjudication procedures employed to determine competency to stand trial. Thus, we have no occasion to consider Division One’s recent ruling in In re E.C.
+RCW 10.77 frequently authorizes commitment after a defendant has been acquitted of a felony by reason of insanity. RCW 10.77.110 states in part:
+(1) If a defendant is acquitted of a felony by reason of insanity, and it is found that he or she is not a substantial danger to other persons, and does not present a substantial likelihood of committing felonious acts jeopardizing public safety or security, unless kept under further control by the court or other persons or institutions, the court shall direct the defendant’s final discharge. If it is found that such defendant is a substantial danger to other persons, or presents a substantial likelihood of committing felonious acts jeopardizing public safety or security, unless kept under further control by the court or other persons or institutions, the court shall order his or her hospitalization, or any appropriate alternative treatment less restrictive than detention in a state mental hospital, pursuant to the terms of this chapter.
+RCW 10.77 does not authorize commitment after a defendant has been acquitted by reason of insanity of a crime that is not a felony. RCW 10.77.110(3) provides in part:
+If the defendant is acquitted by reason of insanity of a crime which is not a felony, the court shall order the defendant’s release or order the defendant’s continued custody only for a reasonable time to allow the county-designated mental-health professional to evaluate the individual and to proceed with civil commitment pursuant to chapter 71.05 RCW, if considered appropriate.
+A juvenile offense is not a felony. According to RCW 13.04.240, "[a]n order of court adjudging a child delinquent or dependent under the provisions of [RCW 13.04] shall in no case be deemed a conviction of crime.” According to RCW 13.40.020(19), a juvenile "offense” is "an act designated a violation or a crime if committed by an adult . . . .” According to RCW 13.40.020(15) and RCW 13.40.020(1), respectively, a juvenile "offender” is "any juvenile who has been found by the juvenile court to have committed an offense . . .,” and a "serious” juvenile offender is "a person fifteen years of age or older who has committed an offense which if committed by an adult would be . . . [a] class A felony . . . .” According to RCW 10.64.110, fingerprints are required on "every order adjudicating a juvenile to be a delinquent based upon conduct which would be a felony if committed by an adult . . . .” According to RCW 9.68A.105(l)(c), RCW 9A.88.120(3), RCW 43.43.690(2), and RCW 46.61.5054(l)(c), various penalties may be assessed against a juvenile for an offense which, if committed by an adult, would constitute a crime or violation. By negative implication if not expressly, all these statutes indicate that an act which would be a crime if committed by an adult is not a crime, and thus not a felony, if committed by a juvenile.
+The Supreme Court recognized the effect of these statutes in In re Frederick. There, a juvenile was convicted in juvenile court of second degree burglary. Later, he ran from his probation officer, and the State charged him with first degree escape. To prevail on that charge, the State had to show that the juvenile fled while being detained pursuant to a conviction for a felony. The question, then, was whether a juvenile court conviction for second degree burglary constituted a conviction for a felony. The answer, according to the Supreme Court, was no; "a juvenile has not committed a crime, including a felony, when he has committed an offense, 'an act designated as a crime if committed by an adult.’ ” Accordingly, we conclude that RCW 10.77 does not govern a post-acquittal commitment for insanity in a non-felony case; that a juvenile offense is not a felony; and that RCW 10.77 did not authorize Weaver’s commitment in this case.
+As Weaver points out, a contrary conclusion would be nonsensical. A juvenile has no right to a jury trial on the question of commitment in the first instance. If RCW 10.77 were to apply to juveniles, a juvenile would have a right to jury trial on the question of final discharge from a post-acquittal insanity commitment. This is an absurd result, and one that shows RCW 10.77 was not intended to authorize post-acquittal commitments in juvenile court.
+Nothing said herein is inconsistent with the juvenile court rules. JuCrR 7.6(b) provides that "[t]he taking of a plea ... is governed by CrR 4.2.”* Taking a plea, however, is different from ordering commitment after a plea; as the statutes illustrate, only some found not guilty by reason of insanity are thereafter committed. To take a plea is procedural, and thus the proper subject of a court rule. To commit, at least where the commitment may last for years, is obviously substantive, and thus not the proper subject of a court rule; rather, it is a long-term deprivation of liberty that must be effected in accordance with a method approved by the legislative representatives of the people. Apparently for this reason, JuCrR 7.6(b) does no more than apply RCW 10.77 to the taking of a plea.
+Weaver concedes that in 1992 he could have been committed pursuant to RCW 71.34, the juvenile involuntary treatment act. Now that he is over eighteen, however, his commitment, if any, must be pursuant to RCW 71.05. Holding that Weaver was not properly detained under RCW 10.77, we order his release unless, forthwith, the State detains him pursuant to RCW 71.05.
+Seinfeld, C.J., and Wood, J. Pro Tem., concur.
+Weaver was born October 4, 1977.
+If Weaver had pled guilty as charged, his standard range sentence would have been 21 to 28 weeks.
+Findings of Fact and conclusions of Law at 4-5.
+Weaver also argues that DSHS could not transfer him from a juvenile facility to an adult facility without a hearing. We do not reach that issue.
+83 Wn. App. 523, 922 P.2d 152 (1996). In E.C., Division One apparently ruled that a juvenile court should use RCW 10.77 as a nonbinding guideline when determining whether a juvenile is competent to stand trial in juvenile court. Noting that Washington courts relied on inherent authority to determine competency before the 1973 enactment of RCW 10.77, 83 Wn. App. at 527, Division One said:
+"Although RCW 10.77 should be followed in cases in which the needs of the juvenile offender do not conflict with that statute, it does not operate to limit the juvenile court’s authority to adequately respond to the needs of a particular juvenile offender when a conflict arises between the needs of that offender and the provisions of RCW 10.77.”
+83 Wn. App. at 530.
+See also RCW 7.68.035(1)(b); RCW 9A.44.130.
+93 Wn.2d 28, 30, 604 P.2d 953 (1980).
+93 Wn.2d at 30. Division One recently reiterated the same proposition. It said "that under Frederick and the [Juvenile Justice Act], a juvenile cannot be convicted of a crime or a felony.” State v. Cheatham, 80 Wn. App. 269, 273, 908 P.2d 381 (1996).
+See State v. Lawley, 91 Wn.2d 654, 591 P.2d 772 (1979) (juvenile has no right to jury trial on issue of guilt or innocence).
+RCW 10.77.200(2).
+CrR 4.2(c) provides in part, "All procedures concerning the defense of insanity or the competence of the defendant to stand trial are governed by RCW 10.77.” See also JuCrR 1.4(b), which states, "The Superior Court Criminal Rules shall apply in juvenile offense proceedings when not inconsistent with these rules and applicable statutes.”
+See RCW 10.77.110(1).
+See RCW 2.04.190-.200; cf. State v. Smith, 84 Wn.2d 498, 527 P.2d 674 (1974).
+Cf. Smith, 84 Wn.2d at 501 ("Substantive law prescribes norms for societal conduct and punishments for violations thereof. It thus creates, defines, and regulates primary rights. In contrast, practice and procedure pertain to the essentially mechanical operations of the courts by which substantive law, rights, and remedies are effectuated.”).
+RCW 71.34.190.
