@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7272-0-III; 7362-9-III"
 decided: "1986-06-12"
-citations: ["44 Wash. App. 604", "43 Wash. App. 1072"]
+citations: ["44 Wash. App. 604"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. A.N.W. Seed Corporation, et a
 source_url: "https://static.case.law/wash-app/44/cases/0604-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1800895
-cites_cases: ["167 N.E.2d 799", "26 Ill. App. 2d 102", "41 Wn. App. 323", "438 P.2d 581", "44 Wn. App. 604", "599 P.2d 1289", "704 P.2d 164", "73 Wn.2d 348", "92 Wn.2d 576"]
+cites_cases: ["167 N.E.2d 799", "26 Ill. App. 2d 102", "41 Wn. App. 323", "438 P.2d 581", "599 P.2d 1289", "704 P.2d 164", "73 Wn.2d 348", "92 Wn.2d 576"]
 ---
 
 # State v. A.N.W. Seed Corp.
