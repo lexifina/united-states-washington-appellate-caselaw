@@ -1,0 +1,38 @@
+---
+court: "Washington Court of Appeals"
+docket: "15892-9-I"
+decided: "1986-08-04"
+citations: ["44 Wash. App. 731"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Donald A. Sigurdson. Betty Sigurdson, Appellant, v. Anna Chester, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/44/cases/0731-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1800903
+cites_cases: ["589 P.2d 1235", "91 Wn.2d 591"]
+---
+
+# Sigurdson v. Chester
+
+## Majority (Scholfield, C.J.)
+
+Scholfield, C.J.
+Betty Sigurdson, the surviving partner of a wrecking yard business, appeals from the trial court's undertaking to administer the assets of the business in the probate of the deceased partner's estate. We reverse in part and affirm in part.
+Facts
+Betty and Donald Sigurdson were partners in the business known as Midway Auto Wrecking until Donald's death in November 1983. The business was then sold, and pending the outcome of litigation involving Donald's estate, the proceeds from the sale were deposited in two accounts, one for the business realty and one for the business personalty. Thereafter, the probate court determined that the realty was not a business asset, but was Donald's separate property subject to the partnership's right of reimbursement for funds expended toward its purchase.
+On July 24, 1984, Betty petitioned, based upon RCW 11.64.008, for an order releasing the funds in the personal property account to her as the surviving partner, in order to pay the outstanding partnership debts, wind up the business and render an accounting. The estate opposed the release of the funds, and the trial court denied Betty's motion.
+Rather than have the surviving partner administer the partnership estate pursuant to RCW 11.64.008, the trial court determined it would do so instead. Accordingly, the court ordered Betty to file a list of the current outstanding debts of the partnership to which the estate was given 5 days to respond. The court's order provided that, "without further hearing of the parties, [it would] enter an order determining the outstanding partnership debts and directing payment" of the partnership funds.
+Betty filed a list of the current partnership debts as the court had ordered, and the estate responded with its objections. In addition, the estate raised several "Misc. Issues for Complete Resolution of This Matter," including a request that the court order Betty to surrender several items, allegedly the decedent's separate personal property. The estate also claimed that a 1979 Ford truck, valued at $20,000 and sold with the other business property, was actually the decedent's separate property, and proceeds from its sale should not be included in the partnership accounting. Betty filed a response to the estate's claims concerning the partnership's debts, but specifically refused to address these additional matters, arguing that they were beyond the scope of the trial court's order.
+On November 28, 1984, the court entered its order concerning the partnership debts, without a further hearing as it had indicated. The court also ordered Betty to surrender the personal items claimed by the estate, however, and determined that the $20,000 proceeds from the sale of the 1979 Ford truck were not to be considered in the partnership accounting.
+Notice and Hearing
+Betty contends that the assets of the partnership were not subject to the court's administration in the probate proceeding absent notice and a hearing as required by RCW 11.64. Thus, she argues, the trial court denied her due process of law. We agree, at least to the extent that the trial court ruled upon the "Misc. Issues" raised by the estate.
+Under the general probate statutes, the superior court has original jurisdiction in probate matters and broad powers to administer and settle the estates of deceased persons. RCW 11.96.009, .020, .030. However, with regard to the probate of the decedent's interest in the partnership estate, RCW 11.64.008 specifically provides that the surviving partner may continue in possession, pay the partnership debts and settle its business. If the surviving partner should commit waste, or if it appears to the court that it would be in the best interest of the decedent's estate, the court may, "after a hearing", order the surviving partner to give security for the faithful settlement of the partnership affairs. RCW 11.64.016. Other provisions of the statute provide for additional rights and procedures to protect the interest of both the surviving partner as well as the decedent's estate. Thus, although the trial court has broad authority in probate matters generally, the surviving partner is specifically granted the power to administer a decedent's interest in the partnership estate.
+Where one statute deals with a subject in a general way and another deals with a part of the same subject in a more detailed fashion, the two should be harmonized if possible. 2A N. Singer, Statutory Construction § 51.05 (4th ed. 1984). If the two conflict, however, the more specific statute prevails. Pannell v. Thompson, 91 Wn.2d 591, 589 P.2d 1235 (1979).
+Whether or not the two statutes here are construed as being in conflict, it is clear that with regard to a decedent's assets in a partnership, the probate court is deprived by RCW 11.64 of what would otherwise be original jurisdiction. Moreover, specific procedures must be followed with respect to the administration of partnership assets, versus the court's otherwise broad discretion in the administration of probate proceedings generally. Consequently, in the case at bar, the trial court was bound to apply the more specific statutory provisions of RCW 11.64, addressed to the administration of Donald Sigurdson's interest in the partnership.
+However, Betty did not object to the trial court's decision not to do so, but instead filed a list of the outstanding partnership debts, knowing that the court would rule on the disbursement of funds for partnership debts "without further hearing of the parties". By her acquiescence in this procedure, therefore, she waived any objection to the court's ex parte determination of issues concerning the partnership's debts.
+When the estate responded to the list of debts that Betty submitted, however, it went beyond the scope of the trial court's order by raising issues which the court had not indicated that it intended to decide. Indeed, Betty specifically refused to respond to these "Misc. Issues" on that ground. As a consequence, when the trial court nevertheless ruled on those matters, it did so not only without notice of its intent to do so, but also without Betty even having pleaded her position on the estate's contentions to the court.
+In conclusion, although Betty cannot now object to the procedure adopted by the trial court to resolve the issues concerning the partnership's debts, additional issues were decided against her without notice or an opportunity to be heard. Accordingly, we affirm the trial court's decision respecting the partnership debts, but reverse and remand for a hearing on the additional issues raised by the estate.
+Swanson and Coleman, JJ., concur.
+RCW 11.64.008 provides:
+"The surviving partner or partners may continue in possession of the partnership estate, pay its debts, and settle its business, and shall account to the personal representative of the decedent and shall pay over such balances as may, from time to time, be payable to him."
