@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18576-1-III"
 decided: "2000-05-23"
-citations: ["101 Wash. App. 509", "100 Wash. App. 1063"]
+citations: ["101 Wash. App. 509"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sanford Lehrer, Appellant, v. The Department of Social and Health Ser
 source_url: "https://static.case.law/wash-app/101/cases/0509-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170373
-cites_cases: ["101 Wn. App. 509", "105 Wn.2d 551", "109 Wn.2d 691", "113 Wn.2d 346", "115 Wn.2d 657", "119 Wn.2d 724", "121 Wn.2d 715", "123 Wn.2d 678", "125 Wn.2d 500", "129 Wn.2d 368", "129 Wn.2d 565", "139 Wn.2d 546", "139 Wn.2d 824", "142 Wn.2d 1014", "149 P. 668", "18 Wn. App. 706", "3 Wn. App. 276", "37 Wn. App. 366", "474 P.2d 577", "486 P.2d 1074", "51 Wn. App. 423", "571 P.2d 591", "66 Wn. App. 691", "680 P.2d 448", "716 P.2d 863", "748 P.2d 224", "754 P.2d 120", "779 P.2d 697", "78 Wn. App. 707", "79 Wn.2d 432", "801 P.2d 222", "833 P.2d 417", "837 P.2d 1000", "853 P.2d 1373", "86 Wash. 185", "871 P.2d 146", "88 Wn. App. 669", "886 P.2d 160", "899 P.2d 6", "917 P.2d 116", "919 P.2d 594", "92 Wn. App. 644", "945 P.2d 1137", "966 P.2d 367", "988 P.2d 961", "991 P.2d 1126"]
+cites_cases: ["105 Wn.2d 551", "109 Wn.2d 691", "113 Wn.2d 346", "115 Wn.2d 657", "119 Wn.2d 724", "121 Wn.2d 715", "123 Wn.2d 678", "125 Wn.2d 500", "129 Wn.2d 368", "129 Wn.2d 565", "139 Wn.2d 546", "139 Wn.2d 824", "142 Wn.2d 1014", "149 P. 668", "18 Wn. App. 706", "3 Wn. App. 276", "37 Wn. App. 366", "474 P.2d 577", "486 P.2d 1074", "51 Wn. App. 423", "571 P.2d 591", "66 Wn. App. 691", "680 P.2d 448", "716 P.2d 863", "748 P.2d 224", "754 P.2d 120", "779 P.2d 697", "78 Wn. App. 707", "79 Wn.2d 432", "801 P.2d 222", "833 P.2d 417", "837 P.2d 1000", "853 P.2d 1373", "86 Wash. 185", "871 P.2d 146", "88 Wn. App. 669", "886 P.2d 160", "899 P.2d 6", "917 P.2d 116", "919 P.2d 594", "92 Wn. App. 644", "945 P.2d 1137", "966 P.2d 367", "988 P.2d 961", "991 P.2d 1126"]
 ---
 
 # Lehrer v. Department of Social & Health Services
