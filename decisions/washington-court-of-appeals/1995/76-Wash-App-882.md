@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32921-9-I"
 decided: "1995-01-23"
-citations: ["76 Wash. App. 882", "76 Wash. App. 1076"]
+citations: ["76 Wash. App. 882"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. John Patrick Gropper, Appella
 source_url: "https://static.case.law/wash-app/76/cases/0882-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490204
-cites_cases: ["119 Wn.2d 1011", "123 Wn.2d 641", "64 Wn. App. 227", "76 Wn. App. 882", "823 P.2d 1171", "870 P.2d 313", "92 AN 1"]
+cites_cases: ["119 Wn.2d 1011", "123 Wn.2d 641", "64 Wn. App. 227", "823 P.2d 1171", "870 P.2d 313", "92 AN 1"]
 ---
 
 # State v. Gropper
