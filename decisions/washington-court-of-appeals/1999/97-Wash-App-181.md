@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42662-1-I"
 decided: "1999-06-01"
-citations: ["97 Wash. App. 181", "95 Wash. App. 1066"]
+citations: ["97 Wash. App. 181"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Debra M. Sievers, Appellant, v. The City of Mountlake Terrace, Respon
 source_url: "https://static.case.law/wash-app/97/cases/0181-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184366
-cites_cases: ["110 Wn.2d 49", "118 Wn.2d 585", "121 Wn.2d 833", "124 Wn.2d 459", "134 Wn.2d 491", "68 Wn. App. 486", "750 P.2d 626", "76 Wn. App. 237", "826 P.2d 152", "83 Wn. App. 304", "843 P.2d 1109", "854 P.2d 1061", "880 P.2d 25", "885 P.2d 845", "921 P.2d 1084", "951 P.2d 761", "97 Wn. App. 181"]
+cites_cases: ["110 Wn.2d 49", "118 Wn.2d 585", "121 Wn.2d 833", "124 Wn.2d 459", "134 Wn.2d 491", "68 Wn. App. 486", "750 P.2d 626", "76 Wn. App. 237", "826 P.2d 152", "83 Wn. App. 304", "843 P.2d 1109", "854 P.2d 1061", "880 P.2d 25", "885 P.2d 845", "921 P.2d 1084", "951 P.2d 761"]
 ---
 
 # Sievers v. City of Mountlake Terrace
