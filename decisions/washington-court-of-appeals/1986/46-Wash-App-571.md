@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17090-2-I"
 decided: "1986-11-24"
-citations: ["46 Wash. App. 571", "45 Wash. App. 1052"]
+citations: ["46 Wash. App. 571"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Roger Paul Britten, Appellant
 source_url: "https://static.case.law/wash-app/46/cases/0571-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1811796
-cites_cases: ["37 Wn. App. 780", "443 U.S. 307", "46 Wn. App. 571", "616 P.2d 628", "683 P.2d 234", "94 Wn.2d 216"]
+cites_cases: ["37 Wn. App. 780", "443 U.S. 307", "616 P.2d 628", "683 P.2d 234", "94 Wn.2d 216"]
 ---
 
 # State v. Britten
