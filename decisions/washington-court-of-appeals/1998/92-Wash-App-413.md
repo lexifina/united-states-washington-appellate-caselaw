@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16906-5-III; 16960-0-III"
 decided: "1998-07-28"
-citations: ["92 Wash. App. 413", "91 Wash. App. 1061"]
+citations: ["92 Wash. App. 413"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Valley Fruit, Respondent, v. The Department of Revenue, Appellant. Do
 source_url: "https://static.case.law/wash-app/92/cases/0413-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853319
-cites_cases: ["112 Wn.2d 278", "122 Wn.2d 397", "132 Wn.2d 1004", "137 Wn.2d 1017", "245 P.2d 1164", "312 P.2d 816", "373 P.2d 483", "383 P.2d 905", "384 P.2d 862", "40 Wn.2d 763", "463 P.2d 626", "50 Wn.2d 492", "573 P.2d 793", "60 Wn.2d 169", "62 Wn.2d 553", "62 Wn.2d 829", "77 Wn.2d 487", "770 P.2d 624", "81 Wn. App. 403", "84 Wn. App. 663", "858 P.2d 494", "87 A.L.R.4th 627", "89 Wn.2d 505", "914 P.2d 750", "92 Wn. App. 413", "929 P.2d 510"]
+cites_cases: ["112 Wn.2d 278", "122 Wn.2d 397", "132 Wn.2d 1004", "137 Wn.2d 1017", "245 P.2d 1164", "312 P.2d 816", "373 P.2d 483", "383 P.2d 905", "384 P.2d 862", "40 Wn.2d 763", "463 P.2d 626", "50 Wn.2d 492", "573 P.2d 793", "60 Wn.2d 169", "62 Wn.2d 553", "62 Wn.2d 829", "77 Wn.2d 487", "770 P.2d 624", "81 Wn. App. 403", "84 Wn. App. 663", "858 P.2d 494", "87 A.L.R.4th 627", "89 Wn.2d 505", "914 P.2d 750", "929 P.2d 510"]
 ---
 
 # Valley Fruit v. Department of Revenue
