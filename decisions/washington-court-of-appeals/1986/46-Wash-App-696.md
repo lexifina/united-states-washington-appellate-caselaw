@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16414-7-I"
 decided: "1986-11-17"
-citations: ["46 Wash. App. 696", "45 Wash. App. 1049"]
+citations: ["46 Wash. App. 696"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Estate of Velma A. Norton."]
 source_url: "https://static.case.law/wash-app/46/cases/0696-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1811775
-cites_cases: ["102 A.L.R. 496", "183 Wash. 604", "191 Wash. 614", "454 P.2d 420", "46 Wn. App. 696", "49 P.2d 485", "593 P.2d 160", "71 P.2d 672", "75 Wn.2d 915", "92 Wn.2d 10"]
+cites_cases: ["102 A.L.R. 496", "183 Wash. 604", "191 Wash. 614", "454 P.2d 420", "49 P.2d 485", "593 P.2d 160", "71 P.2d 672", "75 Wn.2d 915", "92 Wn.2d 10"]
 ---
 
 # In re the Estate of Norton
