@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51359-1-I"
 decided: "2004-01-05"
-citations: ["120 Wash. App. 481", "119 Wash. App. 1072"]
+citations: ["120 Wash. App. 481"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lorena B. Anica, Appellant, v. Wal-Mart Stores, Inc., et al., Respond
 source_url: "https://static.case.law/wash-app/120/cases/0481-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422735
-cites_cases: ["102 Wn.2d 219", "103 F.3d 805", "112 Wn.2d 216", "113 Wn.2d 612", "118 Wn.2d 46", "118 Wn.2d 79", "120 Wn. App. 481", "121 Wn.2d 243", "124 Wn.2d 656", "127 Wn.2d 401", "127 Wn.2d 853", "128 Wn.2d 931", "129 Wn.2d 43", "13 P.3d 1065", "130 Wn.2d 97", "135 Wn.2d 658", "142 Wn.2d 450", "144 Wn.2d 172", "145 Wn.2d 379", "23 P.3d 440", "36 P.3d 1014", "411 U.S. 792", "450 U.S. 248", "51 Wn. App. 936", "519 P.2d 7", "53 F.3d 55", "656 P.2d 1030", "685 P.2d 1081", "756 P.2d 150", "770 P.2d 182", "782 P.2d 1002", "82 Wn. App. 736", "821 P.2d 18", "821 P.2d 34", "83 Wn.2d 491", "85 Wn. App. 405", "850 P.2d 1298", "880 P.2d 988", "899 P.2d 1265", "90 Wn. App. 110", "900 F.2d 164", "904 P.2d 278", "913 P.2d 377", "914 P.2d 728", "919 P.2d 620", "922 P.2d 43", "932 P.2d 1261", "951 P.2d 321", "958 P.2d 301", "971 P.2d 520", "98 Wn. App. 845", "98 Wn.2d 434", "991 P.2d 1182"]
+cites_cases: ["102 Wn.2d 219", "103 F.3d 805", "112 Wn.2d 216", "113 Wn.2d 612", "118 Wn.2d 46", "118 Wn.2d 79", "121 Wn.2d 243", "124 Wn.2d 656", "127 Wn.2d 401", "127 Wn.2d 853", "128 Wn.2d 931", "129 Wn.2d 43", "13 P.3d 1065", "130 Wn.2d 97", "135 Wn.2d 658", "142 Wn.2d 450", "144 Wn.2d 172", "145 Wn.2d 379", "23 P.3d 440", "36 P.3d 1014", "411 U.S. 792", "450 U.S. 248", "51 Wn. App. 936", "519 P.2d 7", "53 F.3d 55", "656 P.2d 1030", "685 P.2d 1081", "756 P.2d 150", "770 P.2d 182", "782 P.2d 1002", "82 Wn. App. 736", "821 P.2d 18", "821 P.2d 34", "83 Wn.2d 491", "85 Wn. App. 405", "850 P.2d 1298", "880 P.2d 988", "899 P.2d 1265", "90 Wn. App. 110", "900 F.2d 164", "904 P.2d 278", "913 P.2d 377", "914 P.2d 728", "919 P.2d 620", "922 P.2d 43", "932 P.2d 1261", "951 P.2d 321", "958 P.2d 301", "971 P.2d 520", "98 Wn. App. 845", "98 Wn.2d 434", "991 P.2d 1182"]
 ---
 
 # Anica v. Wal-Mart Stores, Inc.
