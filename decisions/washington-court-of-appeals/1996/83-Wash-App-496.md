@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15296-1-III"
 decided: "1996-08-08"
-citations: ["83 Wash. App. 496", "82 Wash. App. 1054"]
+citations: ["83 Wash. App. 496"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Snokist Growers, et al., Appellants, v. Washington Insurance Guaranty
 source_url: "https://static.case.law/wash-app/83/cases/0496-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1190540
-cites_cases: ["10 F.3d 1355", "115 Wn.2d 594", "123 Wn.2d 891", "124 Wn.2d 402", "131 Wn.2d 1010", "42 U.S.C.A. § 9607", "42 U.S.C.A. §§ 9601-9675", "641 F.2d 59", "800 P.2d 359", "83 Wn. App. 496", "874 P.2d 142", "879 P.2d 920"]
+cites_cases: ["10 F.3d 1355", "115 Wn.2d 594", "123 Wn.2d 891", "124 Wn.2d 402", "131 Wn.2d 1010", "42 U.S.C.A. § 9607", "42 U.S.C.A. §§ 9601-9675", "641 F.2d 59", "800 P.2d 359", "874 P.2d 142", "879 P.2d 920"]
 ---
 
 # Growers v. Washington Insurance Guaranty Ass'n
