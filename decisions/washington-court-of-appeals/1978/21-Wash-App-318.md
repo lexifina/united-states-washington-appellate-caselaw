@@ -1,0 +1,38 @@
+---
+court: "Washington Court of Appeals"
+docket: "5666-1"
+decided: "1978-09-18"
+citations: ["21 Wash. App. 318"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Gary W. Carson, Appellant."]
+source_url: "https://static.case.law/wash-app/21/cases/0318-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 469207
+cites_cases: ["12 Wn. App. 74", "15 Wn. App. 667", "374 U.S. 23", "455 P.2d 595", "515 P.2d 832", "528 P.2d 274", "552 P.2d 1089", "76 Wn.2d 212", "9 Wn. App. 909"]
+---
+
+# State v. Carson
+
+## Majority (Farris, C.J.)
+
+Farris, C.J.
+— The defendant, Gary Carson, was convicted of possession of heroin after trial on stipulated facts. He appeals, contending that his motion to suppress should have been granted by the trial court. Carson claims that the heroin seized by narcotics officers was obtained as a result of an uninvited entry which was in violation of statutory and state and federal constitutional prohibitions against unreasonable search and seizure, and that no exigent circumstances existed which would excuse compliance with the rule.
+The testimony of two of the officers involved in the entry and search disclosed the following: Seattle Police Department narcotics detectives received a tip from an undisclosed informant that a "white male known as Gary" was in possession of heroin and that he had been known to have a loaded shotgun behind the door to his room in a motel at 3938 Aurora Avenue North. The officer who signed the affidavit for the search warrant was notified by the informant that the informant had been in the motel room in the past 24 hours, that Carson had previously been known to have a gun in that location and that it was used for the purpose of protection while selling narcotics. The officers had no other previous knowledge of Carson.
+Three plainclothes detectives and several other officers proceeded with a search warrant to unit 19 of the motel which was rented by Carson. Prior to taking his position, one detective was told by another of the possible presence of a shotgun behind the door. One took a position next to the partially opened motel room window while the other two stood at the door. The officers at the door knocked and a male voice from within asked, "Who is it?" One detective answered, "Jim," and the other answered, "Bob." The question and response were repeated and, at this time, the third detective discerned a figure or "image" through the drapes walking toward the door. (Because the drapes were drawn, it was not possible to clearly identify the figure.) The door was opened slightly and quickly closed. The third detective then observed the figure walking away from the door and began to worry about the possibility of a firearm in the room. He quickly removed a screen from the window, slid the window open, pulled aside the drapes, aimed his revolver at Carson, and told him, "Freeze. Police officer. Freeze." Another then said, "Police officers with a search warrant," and simultaneously opened the door and entered the motel unit. The detective at the window then walked around from the window, entered the room through the door, and placed Carson and his wife under arrest. The officers found heroin on the premises. They did not discover a shotgun but did recover a .44 magnum revolver from a box next to the bed.
+RCW 10.31.040 provides:
+To make an arrest in criminal actions, the officer may break open any outer or inner door, or windows of a dwelling house or other building, or any other inclosure, if, after notice of his office and purpose, he be refused admittance.
+The statute applies to searches as well as arrests. State v. Young, 76 Wn.2d 212, 455 P.2d 595 (1969). Compliance with the statute may, however, be excused when "exigent and necessitous circumstances exist, ..." State v. Young, supra at 217; State v. Mueller, 15 Wn. App. 667, 670, 552 P.2d 1089 (1976).
+The trial court, noting possible danger to the officers and the possible destruction of evidence, found sufficient circumstances to excuse compliance with the "knock and wait" rule. The appeal challenges that determination.
+In State v. Wilson, 9 Wn. App. 909, 515 P.2d 832 (1973), we discussed whether officers' concern for their safety, together with a concern that evidence will be destroyed, can constitute exigent circumstances sufficient to justify forcible entry.
+As was pointed out in State v. Young [76 Wn.2d 212, 455 P.2d 595 (1969)], at 214, in Ker v. California, 374 U.S. 23, 10 L. Ed. 2d 726, 83 S. Ct. 1623 (1963), the Supreme Court first held that the constitution's guarantee of security against unreasonable searches and seizures required an announcement of identity and statement of purpose prior to a forcible entry. Young further points out that rather than draft comprehensive rules, the court opted to permit the states "to administer a 'standard of reasonableness.'" State v. Young, supra at 214.
+We reiterate that the reasonableness of a search is in the first instance a substantive determination to be made by the trial court from the facts and circumstances of the case and in the light of the "fundamental criteria" laid down by the Fourth Amendment and in opinions of this Court applying that Amendment. Findings of reasonableness, of course, are respected only insofar as consistent with federal constitutional guarantees.
+Ker v. California, supra at 33. In this case the trial judge made a substantive determination that the forcible entry was reasonable. Necessarily inherent in his determination was his conclusion that the officers were genuinely and reasonably apprehensive for their own safety. Such a determination requires an assessment of credibility and is therefore one for which the trial judge is uniquely qualified.
+State v. Wilson, supra at 915.
+The officers' claimed need to enter without giving notice of their identity and purpose raises a question of fact. State v. Wilson, supra at 916. The question here is whether the officers' testimony, if believed, constitutes substantial evidence to support the trial court's determination that sufficient circumstances existed to justify a forcible, no-knock entry.
+There must not only be substantial evidence to support the trial court's finding of exigent circumstances, but that evidence must be constitutionally sufficient. State v. Dugger, 12 Wn. App. 74, 81, 528 P.2d 274 (1974). We find that the facts, as presented at the suppression hearing, were constitutionally sufficient to support the trial court's determination. This is not a case like State v. Dugger, supra at 81, where the officers justified their no-knock entry on the basis of the general ease of disposal of narcotics and the general danger to officers executing warrants. While the question of whether, the officers had specific grounds for their noncompliance with RCW 10.31.040 is one upon which reasonable minds might differ, the officers' prior information that Carson kept a shotgun by his door for "protection" in selling narcotics and Carson's movement away from the door after opening and quickly closing it could reasonably be interpreted as creating a risk that evidence would be destroyed or that officers' lives were in danger. As the trial court noted, "neither common sense nor law requires an officer to ignore such a warning, ..." We cannot find that the trial court erred in denying Carson's motion to suppress. Even though we might have made a different ruling, there is evidence to support the ruling made.
+Affirmed.
+Callow and Ringold, JJ., concur.
+Reconsideration denied December 20, 1978.
+Review denied by Supreme Court April 20, 1979.
