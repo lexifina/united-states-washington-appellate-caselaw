@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35065-0-I"
 decided: "1996-08-19"
-citations: ["84 Wash. App. 85", "82 Wash. App. 1065"]
+citations: ["84 Wash. App. 85"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Rory James Chaten, Appellant.
 source_url: "https://static.case.law/wash-app/84/cases/0085-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121663
-cites_cases: ["117 Wn.2d 93", "118 Wn.2d 1031", "118 Wn.2d 151", "119 Wn.2d 657", "125 Wn.2d 782", "127 Wn.2d 1017", "62 Wn. App. 418", "77 Wn. App. 644", "812 P.2d 86", "814 P.2d 234", "822 P.2d 775", "835 P.2d 1039", "84 Wn. App. 85", "888 P.2d 1177", "893 P.2d 646"]
+cites_cases: ["117 Wn.2d 93", "118 Wn.2d 1031", "118 Wn.2d 151", "119 Wn.2d 657", "125 Wn.2d 782", "127 Wn.2d 1017", "62 Wn. App. 418", "77 Wn. App. 644", "812 P.2d 86", "814 P.2d 234", "822 P.2d 775", "835 P.2d 1039", "888 P.2d 1177", "893 P.2d 646"]
 ---
 
 # State v. Chaten
