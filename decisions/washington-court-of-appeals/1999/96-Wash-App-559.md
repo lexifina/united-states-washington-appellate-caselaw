@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41321-0-I"
 decided: "1999-07-12"
-citations: ["96 Wash. App. 559", "96 Wash. App. 1033"]
+citations: ["96 Wash. App. 559"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Allen J. Brower, et al., Appellants, v. Pierce County, Respondent."]
 source_url: "https://static.case.law/wash-app/96/cases/0559-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128581
-cites_cases: ["104 Wn.2d 1006", "116 Wn.2d 217", "118 Wn.2d 801", "121 Wn.2d 1016", "121 Wn.2d 810", "125 Wn.2d 337", "132 Wn.2d 1011", "132 Wn.2d 214", "134 Wn.2d 947", "40 Wn. App. 524", "42 U.S.C. §§ 1983", "521 P.2d 1181", "67 Wn. App. 588", "699 P.2d 782", "72 Wn. App. 1", "802 P.2d 1360", "828 P.2d 549", "83 Wn.2d 714", "839 P.2d 343", "85 Wn. App. 123", "854 P.2d 1072", "863 P.2d 578", "883 P.2d 1383", "89 Wn. App. 906", "935 P.2d 620", "937 P.2d 186", "951 P.2d 338", "954 P.2d 250", "96 Wn. App. 559"]
+cites_cases: ["104 Wn.2d 1006", "116 Wn.2d 217", "118 Wn.2d 801", "121 Wn.2d 1016", "121 Wn.2d 810", "125 Wn.2d 337", "132 Wn.2d 1011", "132 Wn.2d 214", "134 Wn.2d 947", "40 Wn. App. 524", "42 U.S.C. §§ 1983", "521 P.2d 1181", "67 Wn. App. 588", "699 P.2d 782", "72 Wn. App. 1", "802 P.2d 1360", "828 P.2d 549", "83 Wn.2d 714", "839 P.2d 343", "85 Wn. App. 123", "854 P.2d 1072", "863 P.2d 578", "883 P.2d 1383", "89 Wn. App. 906", "935 P.2d 620", "937 P.2d 186", "951 P.2d 338", "954 P.2d 250"]
 ---
 
 # Brower v. Pierce County
