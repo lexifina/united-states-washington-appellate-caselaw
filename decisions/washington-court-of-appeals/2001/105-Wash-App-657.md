@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45839-6-I"
 decided: "2001-02-12"
-citations: ["105 Wash. App. 657", "104 Wash. App. 1048"]
+citations: ["105 Wash. App. 657"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["J.H. Baxter & Company, Appellant, v. Central National Insurance Compa
 source_url: "https://static.case.law/wash-app/105/cases/0657-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358583
-cites_cases: ["105 Wn. App. 657", "115 Wn.2d 123", "330 U.S. 501", "454 U.S. 235", "555 P.2d 997", "68 Wn. App. 626", "794 P.2d 1272", "846 P.2d 542", "87 Wn.2d 577"]
+cites_cases: ["115 Wn.2d 123", "330 U.S. 501", "454 U.S. 235", "555 P.2d 997", "68 Wn. App. 626", "794 P.2d 1272", "846 P.2d 542", "87 Wn.2d 577"]
 ---
 
 # J.H. Baxter & Co. v. Central National Insurance
