@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43286-9-I; 43287-7-I"
 decided: "1999-11-22"
-citations: ["98 Wash. App. 712", "98 Wash. App. 1013"]
+citations: ["98 Wash. App. 712"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Creighton E. Miller, as Administrator, Appellant, v. Foster Wheeler C
 source_url: "https://static.case.law/wash-app/98/cases/0712-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155903
-cites_cases: ["169 F. Supp. 803", "207 F. Supp. 276", "237 U.S. 648", "271 U.S. 58", "280 U.S. 491", "283 U.S. 53", "300 U.S. 342", "45 U.S.C. § 51", "45 U.S.C. § 56", "45 U.S.C. § 59", "45 U.S.C. §§ 51-60", "46 U.S.C. § 688", "701 F.2d 1112", "72 A.L.R. 1311", "742 F.2d 890", "98 Wn. App. 712"]
+cites_cases: ["169 F. Supp. 803", "207 F. Supp. 276", "237 U.S. 648", "271 U.S. 58", "280 U.S. 491", "283 U.S. 53", "300 U.S. 342", "45 U.S.C. § 51", "45 U.S.C. § 56", "45 U.S.C. § 59", "45 U.S.C. §§ 51-60", "46 U.S.C. § 688", "701 F.2d 1112", "72 A.L.R. 1311", "742 F.2d 890"]
 ---
 
 # Miller v. Foster Wheeler Co.
