@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "17022-8-I; 17113-5-I; 17063-5-I"
+decided: "1986-03-31"
+citations: ["43 Wash. App. 288"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Boeing Company, Appellant, v. Sierracin Corporation, et al, Respondents. Sierracin Corporation, et al, Appellants, v. The Boeing Company, Respondent. Sierracin Corporation, et al, Appellants, v. Libbey-Owens-Ford, Respondent."]
+source_url: "https://static.case.law/wash-app/43/cases/0288-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1806345
+cites_cases: ["104 Wn.2d 159", "108 Wash. 183", "183 P. 74", "286 P.2d 702", "304 P.2d 682", "47 Wn.2d 124", "49 Wn.2d 605", "702 P.2d 1196"]
+---
+
+# Boeing Co. v. Sierracin Corp.
+
+## Majority (Grosse, J.)
+
+Grosse, J.
+This matter comes before the court on Boeing's motion to modify a commissioner's ruling permitting Sierracin Corporation and Sierracin Glass Transparencies, Inc. (hereinafter collectively Sierracin) to supersede, as of right, an injunction entered against them for violations of the Uniform Trade Secrets Act. For reasons set forth below, we modify the ruling.
+Boeing sued Sierracin claiming that Sierracin's use of Boeing's drawings and specifications for cockpit windows breached a confidential relationship and contract with Boeing and violated the Uniform Trade Secrets Act, RCW 19.108. Sierracin counterclaimed alleging violations of antitrust laws. The damages issues were tried to a jury which awarded damages to both parties. The trial court issued a permanent injunction against Sierracin's use of Boeing's data in the production of the windows or in any application to the Federal Aeronautics Administration for a Product Manufacturing Authorization (PMA), without which the products cannot be sold. The trial court stayed the injunction to allow Sierracin a 120-day grace period within which it was to obtain a PMA based on specifications and drawings other than Boeing's. Sierracin had indicated that they could obtain such a PMA without Boeing data through a process known as reverse engineering. During the grace period, Sierracin was ordered to pay Boeing a royalty on window sales. The 120-day period has lapsed and Sierracin has been unable to obtain an independent PMA despite continued efforts to do so. Thus, Sierracin moved this court for an order staying the injunction.
+Sierracin contends that the appellate court has authority to issue a stay under RAP 8.3 and that a stay should be issued because the injunction will force Sierracin out of business. It also contends that the injunction must be stayed as a matter of right under RAP 8.1. Boeing contends that only in extraordinary circumstances should an injunction be stayed, and that Sierracin's claim of economic or commercial disadvantage is not such a circumstance.
+RAP 8.1 reads in pertinent part as follows:
+(b) Supersedeas by Bond or Other Security. Except when prohibited by statute, a party may supersede the enforcement of a money judgment or decision affecting property by filing a supersedeas bond . . .
+(Italics ours.) RAP 8.1(b). RAP 8.1(a) indicates that super-sedeas by the trial court is in addition to the other means of delaying enforcement of a judgment contained in CR 62(a), (b), and (h). Those means are not applicable here but include the automatic 5-day stay after entry of a judgment, stays pending motions under CR 50, 52(b), 59, 60, and stays in cases involving multiple claims or parties under CR 54(b).
+RAP 8.1 provides for supersedeas as of right for money judgments and for decisions affecting property:
+If the decision determines the disposition of property in controversy, or if the property is in the custody of the sheriff, or if the proceeds of the property or a bond for its value are in the custody or control of the court, the amount of the supersedeas bond shall be fixed at such sum only as will secure any money judgment plus the amount of loss which a party may be entitled to recover as a result of the inability of the party to enforce the judgment during review.
+RAP 8.1(b)(2).
+The Comment to the rule indicates that RAP 8.1 was intended to supersede CR 62(c), (d), (e), (f), and (g) and that thereafter "[t]he authority to suspend, modify, restore, or grant an injunction after acceptance of review should rest solely with the appellate court." Comment, RAP 8.1, 3 Washington Court Rules Annotated (1977). The comments further clarify that if a decision is not among those super - sedable of right under RAP 8.1 then supersedeas is only available at the discretion of the appellate court.
+RAP 8.3 governs the exercise of such discretion:
+Except when prohibited by statute, the appellate court has authority to issue orders, before or after acceptance of review, to insure effective and equitable review, including authority to grant injunctive or other relief to a party. The appellate court will ordinarily condition the order on furnishing a bond or other security. A party seeking the relief provided by this rule should use the motion procedure provided in Title 17.
+Therefore, the issue is whether the decision in the instant matter enjoining Sierracin from manufacturing under a PMA obtained with Boeing data can be classified as one "affecting property." We do not believe that it can be so classified. To construe RAP 8.1(b)(2) to include the injunc-tive relief granted herein, i.e., prohibiting use of a trade secret, as "affecting property" because that relief involves an aspect of "property rights" would require the making of unnecessary abstractions from archaic principles of property law, and ignore the intent of the rules as that intent is expressed in the rules themselves and in the comments thereto. We hold that the authority to stay this injunction pending appeal rests solely with the appellate court under RAP 8.3 and that RAP 8.1 has no application to the trial court's decision in this case.
+RAP 8.3 allows us to stay an injunction if the movant can demonstrate that debatable issues are presented on appeal and that the stay is necessary to preserve the fruits of the appeal for the movant after considering the equities of the situation. Purser v. Rahm, 104 Wn.2d 159, 702 P.2d 1196 (1985); Kennett v. Levine, 49 Wn.2d 605, 304 P.2d 682 (1956). In actual application of this theory, courts apply a sliding scale such that the greater the inequity, the less important the inquiry into the merits of the appeal. Indeed if the harm is so great that the fruits of a successful appeal would be totally destroyed pending its resolution, relief should be granted, unless the appeal is totally devoid of merit. See Shamley v. Olympia, 47 Wn.2d 124, 286 P.2d 702 (1955). Consideration of the equities of the situation may also require conditioning the stay on the posting of a bond or the provision for some other form of security.
+We hold that a supersedeas or stay of this injunction should be granted. Sierracin has made the requisite showing that there are debatable issues on appeal and that the stay is necessary to preserve for Sierracin the fruits of a successful appeal. Purser v. Rahm, supra. We are convinced that without the stay, Sierracin would most probably be forced out of the cockpit window business at some time during the pendency of the appeal. We are equally convinced that a stay of the injunction will adversely affect Boeing but that the adverse effect can be measured in terms of a monetary amount. If the harm occasioned by the appellate delay can be met by a bond, supersedeas should always be granted. See State ex rel. Pioneer Mining & Ditch Co. v. Superior Court, 108 Wash. 183, 186, 183 P. 74 (1919).
+Because of the complexity of this case, the present lack of a record of the proceedings below and the far greater familiarity of the trial judge with the circumstances of the parties, we remand this case to the trial court to determine the amount of a bond or, if a bond is not appropriate, the nature of other security that should be provided.
+The commissioner's ruling is modified and the cause remanded for further proceedings in accordance with this opinion.
+Williams, J., concurs.
+
+## Concurrence (Ringold, A.C.J.)
+
+Ringold, A.C.J.
+(concurring)—I concur in the result staying the injunction in accord with RAP 8.3 but would deny the motion to modify the commissioner's ruling.
+As I view the record before us, Boeing's request for injunctive relief under RCW 19.108.020(1) and the court's general equity powers, was incidental to the primary action against Sierracin for wrongfully using Boeing's trade secrets. The jury awarded: to Boeing $1,635,333 for damages caused by Sierracin's action; to Sierracin, $1,062,442 for damages caused by Boeing's antitrust violations.
+I agree with the commissioner that RAP 8.1(b) is applicable as a "decision affecting property." A supersedeas requiring a monetary response is adequate here to protect every Boeing interest concerned.
