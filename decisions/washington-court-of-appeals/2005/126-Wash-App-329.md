@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52951-0-I"
 decided: "2005-02-07"
-citations: ["126 Wash. App. 329", "125 Wash. App. 1034"]
+citations: ["126 Wash. App. 329"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. David J. Iverson, Appellant."
 source_url: "https://static.case.law/wash-app/126/cases/0329-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016085
-cites_cases: ["113 Wn.2d 833", "114 Wn. App. 858", "126 Wn. App. 329", "130 Wn.2d 673", "149 Wn.2d 1034", "257 P.2d 179", "26 Wn. App. 184", "42 Wn.2d 590", "425 P.2d 885", "48 Wn. App. 139", "542 P.2d 782", "60 P.3d 677", "612 P.2d 11", "622 F.2d 1000", "70 Wn.2d 951", "738 P.2d 306", "76 Wn. App. 719", "784 P.2d 485", "85 Wn. App. 271", "86 Wn.2d 112", "87 Wn. App. 98", "887 P.2d 488", "926 P.2d 904", "932 P.2d 665", "941 P.2d 9"]
+cites_cases: ["113 Wn.2d 833", "114 Wn. App. 858", "130 Wn.2d 673", "149 Wn.2d 1034", "257 P.2d 179", "26 Wn. App. 184", "42 Wn.2d 590", "425 P.2d 885", "48 Wn. App. 139", "542 P.2d 782", "60 P.3d 677", "612 P.2d 11", "622 F.2d 1000", "70 Wn.2d 951", "738 P.2d 306", "76 Wn. App. 719", "784 P.2d 485", "85 Wn. App. 271", "86 Wn.2d 112", "87 Wn. App. 98", "887 P.2d 488", "926 P.2d 904", "932 P.2d 665", "941 P.2d 9"]
 ---
 
 # State v. Iverson
