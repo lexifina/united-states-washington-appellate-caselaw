@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25788-9-I"
 decided: "1992-02-10"
-citations: ["64 Wash. App. 780", "63 Wash. App. 1064"]
+citations: ["64 Wash. App. 780"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Kenneth Hackett, Appellant."]
 source_url: "https://static.case.law/wash-app/64/cases/0780-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722654
-cites_cases: ["100 Wn.2d 417", "102 Wn.2d 120", "110 Wn.2d 32", "30 Wn. App. 432", "39 Wn. App. 709", "439 P.2d 403", "46 Wn. App. 292", "489 P.2d 1130", "491 P.2d 1342", "6 Wn. App. 130", "635 P.2d 745", "64 Wn. App. 780", "670 P.2d 265", "683 P.2d 199", "695 P.2d 592", "70 A.L.R.4th 1021", "73 Wn.2d 533", "730 P.2d 706", "737 P.2d 670", "750 P.2d 632", "79 Wn.2d 805", "80 Wn.2d 1006", "97 Wn.2d 1007"]
+cites_cases: ["100 Wn.2d 417", "102 Wn.2d 120", "110 Wn.2d 32", "30 Wn. App. 432", "39 Wn. App. 709", "439 P.2d 403", "46 Wn. App. 292", "489 P.2d 1130", "491 P.2d 1342", "6 Wn. App. 130", "635 P.2d 745", "670 P.2d 265", "683 P.2d 199", "695 P.2d 592", "70 A.L.R.4th 1021", "73 Wn.2d 533", "730 P.2d 706", "737 P.2d 670", "750 P.2d 632", "79 Wn.2d 805", "80 Wn.2d 1006", "97 Wn.2d 1007"]
 ---
 
 # State v. Hackett
