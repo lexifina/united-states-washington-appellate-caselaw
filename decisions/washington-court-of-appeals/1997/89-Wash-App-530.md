@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38231-4-I"
 decided: "1997-12-08"
-citations: ["89 Wash. App. 530", "89 Wash. App. 56"]
+citations: ["89 Wash. App. 530"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Elve Robinson, Jr., Appellant
 source_url: "https://static.case.law/wash-app/89/cases/0530-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 394793
-cites_cases: ["100 F.3d 995", "101 Wn.2d 113", "115 S. Ct. 1389", "116 Wn.2d 531", "117 S. Ct. 1344", "120 Wn.2d 631", "123 Wn.2d 296", "128 Wn.2d 553", "129 Wn.2d 61", "130 Wn.2d 244", "131 L. Ed. 2d 241", "136 Wn.2d 1013", "137 L. Ed. 2d 502", "190 Wis. 2d 31", "2 Cal. 3d 205", "281 N.W.2d 877", "29 Wn. App. 701", "3 Hastings Const. L.Q. 517", "4 Cal. 4th 742", "466 P.2d 710", "466 U.S. 668", "469 U.S. 38", "483 U.S. 44", "488 U.S. 841", "499 U.S. 279", "501 U.S. 1249", "510 U.S. 877", "510 U.S. 944", "514 U.S. 1030", "520 U.S. 1160", "531 N.W.2d 326", "549 F.2d 971", "560 N.W2d 651", "563 N.W.2d 742", "572 F.2d 1071", "630 F. Supp. 1145", "630 P.2d 1362", "677 P.2d 131", "71 Wn. App. 902", "806 P.2d 1220", "812 P.2d 217", "842 P.2d 1192", "843 F.2d 258", "845 P.2d 289", "863 P.2d 124", "868 P.2d 835", "87 Wn. App. 937", "883 F.2d 750", "89 Wn. App. 530", "910 P.2d 475", "917 P.2d 563", "921 P.2d 439", "922 P.2d 1304", "928 F.2d 1470", "943 P.2d 395", "96 Wn.2d 1024"]
+cites_cases: ["100 F.3d 995", "101 Wn.2d 113", "115 S. Ct. 1389", "116 Wn.2d 531", "117 S. Ct. 1344", "120 Wn.2d 631", "123 Wn.2d 296", "128 Wn.2d 553", "129 Wn.2d 61", "130 Wn.2d 244", "131 L. Ed. 2d 241", "136 Wn.2d 1013", "137 L. Ed. 2d 502", "190 Wis. 2d 31", "2 Cal. 3d 205", "281 N.W.2d 877", "29 Wn. App. 701", "3 Hastings Const. L.Q. 517", "4 Cal. 4th 742", "466 P.2d 710", "466 U.S. 668", "469 U.S. 38", "483 U.S. 44", "488 U.S. 841", "499 U.S. 279", "501 U.S. 1249", "510 U.S. 877", "510 U.S. 944", "514 U.S. 1030", "520 U.S. 1160", "531 N.W.2d 326", "549 F.2d 971", "560 N.W2d 651", "563 N.W.2d 742", "572 F.2d 1071", "630 F. Supp. 1145", "630 P.2d 1362", "677 P.2d 131", "71 Wn. App. 902", "806 P.2d 1220", "812 P.2d 217", "842 P.2d 1192", "843 F.2d 258", "845 P.2d 289", "863 P.2d 124", "868 P.2d 835", "87 Wn. App. 937", "883 F.2d 750", "910 P.2d 475", "917 P.2d 563", "921 P.2d 439", "922 P.2d 1304", "928 F.2d 1470", "943 P.2d 395", "96 Wn.2d 1024"]
 ---
 
 # State v. Robinson
