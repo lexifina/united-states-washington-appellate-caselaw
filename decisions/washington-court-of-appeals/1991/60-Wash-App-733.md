@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10527-0-III"
 decided: "1991-02-07"
-citations: ["60 Wash. App. 733", "60 Wash. App. 1034"]
+citations: ["60 Wash. App. 733"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Henry Schinkelshoek, et al, Appellants, v. Empire Seed Company, et al
 source_url: "https://static.case.law/wash-app/60/cases/0733-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1719062
-cites_cases: ["110 Wn.2d 128", "110 Wn.2d 912", "112 Wn.2d 1020", "117 Wn.2d 1007", "430 P.2d 591", "53 Wn. App. 381", "60 Wn. App. 733", "71 Wn.2d 646", "750 P.2d 1257", "756 P.2d 142", "757 P.2d 507", "766 P.2d 1137"]
+cites_cases: ["110 Wn.2d 128", "110 Wn.2d 912", "112 Wn.2d 1020", "117 Wn.2d 1007", "430 P.2d 591", "53 Wn. App. 381", "71 Wn.2d 646", "750 P.2d 1257", "756 P.2d 142", "757 P.2d 507", "766 P.2d 1137"]
 ---
 
 # Schinkelshoek v. Empire Seed Co.
