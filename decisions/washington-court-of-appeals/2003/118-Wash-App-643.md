@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51144-1-I"
 decided: "2003-09-15"
-citations: ["118 Wash. App. 643", "118 Wash. App. 1038"]
+citations: ["118 Wash. App. 643"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of CM. The Department of Social and H
 source_url: "https://static.case.law/wash-app/118/cases/0643-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352724
-cites_cases: ["118 Wn. App. 643", "118 Wn.2d 801", "119 Wn.2d 600", "126 Wn.2d 1012", "149 Wn.2d 836", "263 P.2d 956", "316 P.2d 126", "43 Wn.2d 710", "507 U.S. 927", "51 Wn.2d 89", "553 P.2d 1339", "611 P.2d 1245", "72 P.3d 757", "76 Wn. App. 87", "828 P.2d 549", "836 P.2d 200", "87 Wn.2d 470", "882 P.2d 1180", "93 Wn.2d 689", "98 Wn. App. 600", "989 P.2d 1251"]
+cites_cases: ["118 Wn.2d 801", "119 Wn.2d 600", "126 Wn.2d 1012", "149 Wn.2d 836", "263 P.2d 956", "316 P.2d 126", "43 Wn.2d 710", "507 U.S. 927", "51 Wn.2d 89", "553 P.2d 1339", "611 P.2d 1245", "72 P.3d 757", "76 Wn. App. 87", "828 P.2d 549", "836 P.2d 200", "87 Wn.2d 470", "882 P.2d 1180", "93 Wn.2d 689", "98 Wn. App. 600", "989 P.2d 1251"]
 ---
 
 # Department of Social & Health Services v. McCracken
