@@ -1,0 +1,78 @@
+---
+court: "Washington Court of Appeals"
+docket: "28563-1-II"
+decided: "2003-05-13"
+citations: ["116 Wash. App. 876"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert Edelman, Appellant, v. The State of Washington on the relation of The Public Disclosure Commission, Respondent."]
+source_url: "https://static.case.law/wash-app/116/cases/0876-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 265989
+cites_cases: ["115 Wn. App. 164", "118 Wn.2d 801", "123 Wn.2d 621", "127 Wn.2d 759", "134 Wn.2d 413", "140 Wn.2d 615", "148 Wn.2d 887", "150 Wn.2d 1025", "54 Wn. App. 305", "610 P.2d 857", "62 P.3d 510", "621 P.2d 1293", "622 P.2d 826", "64 P.3d 606", "773 P.2d 421", "828 P.2d 549", "869 P.2d 1034", "903 P.2d 953", "93 Wn.2d 368", "95 Wn.2d 108", "951 P.2d 250", "999 P.2d 602"]
+---
+
+# Edelman v. State
+
+## Majority (Hunt, C.J.)
+
+Hunt, C.J.
+Robert Edelman appeals the trial court’s dismissal of his petition to repeal WAC 390-16-311. The Public Disclosure Commission (PDC) promulgated WAC 390-16-311 to resolve a perceived ambiguity in RCW 42.17.640 and RCW 42.17.660 relating to campaign contribution limits for large organizations. The legislature had enacted these statutes to implement voter-approved Initiative 134, the Fair Campaign Practices Act, chapter 42.17, RCW.
+Edelman argues that in promulgating WAC 390-16-311, the PDC exceeded its statutory authority. Finding RCW 42.17.640 and RCW 42.17.660 unambiguous, we hold that WAC 390-16-311 improperly modifies the statutes, we invalidate the rule, and we reverse the trial court.
+FACTS
+I. Background
+A. Initiative 134
+Washington voters passed Initiative 134 (I-134), the Fair Campaign Practices Act, on November 3, 1992. Laws of 1993, ch. 2, §§ 1-36. The legislature passed laws to implement this initiative in RCW 42.17.640 and RCW 42.17.660. Laws of 1993, ch. 2, §§ 4, 6. One of the initiative’s primary purposes was to establish campaign contribution limits and to reduce the influence of large organizational contributors. RCW 42.17.620.
+RCW 42.17.640(1) limits individual campaign contributions to $500 per candidate. RCW 42.17.660(2) provides that a contribution by a national, state, or single local unit of an organization or entity will be attributed to all other parts of the organization or entity for purposes of determining RCW 42.17.640’s $500 individual contribution limit to a political campaign in the State of Washington.
+B. Public Disclosure Commission
+The legislature has empowered the PDC to interpret, to implement, to investigate, and to determine violations of the state’s campaign finance requirements and contribution limits, lobbying, political advertising, and public officials’ financial affairs reports, and to adopt rules to carry out these tasks. RCW 42.17.370.
+In December 1992, the PDC began receiving inquiries about what rules it might adopt to implement RCW 42.17.660, especially RCW 42.17.660(2). The questions focused on (1) the effect on the individual campaign contribution limit when a parent or umbrella organization does not contribute to an election campaign governed by RCW 42.17.640 and RCW 42.17.660; and (2) what qualifies as an entity’s “affiliate” within the meaning of the statute for aggregation of contributions subject to a single $500 limit.
+After holding several public meetings and rulemaking hearings, the PDC concluded that RCW 42.17.660 was ambiguous because it did not address how the contribution limit applies to local units when a parent or umbrella organization makes no contributions. To clarify this perceived ambiguity, the PDC adopted WAC 390-16-309 and WAC 390-16-311. WAC 390-16-311 essentially released local affiliates from having to combine their contributions toward a single limit under RCW 42.17.640 and RCW 42.17.660 when the parent or umbrella of the organization makes no contribution to a particular campaign.
+II. Administrative and Judicial Review
+A. PDC
+In December 2000, Robert Edelman petitioned the PDC to amend WAC 390-16-309 and to repeal WAC 390-16-311. On February 27, 2001, the PDC conducted an open public hearing on Edelman’s petition.
+Edelman argued that (1) WAC 390-16-311 is arbitrary and capricious because it amends RCW 42.17.660 by adding an exception to the single entity requirement; (2) federal laws governing federal elections do not allow a controlled entity to maintain its own contribution limit; (3) WAC 390-16-311 grants exceptions to selected organizations without authority; and (4) because this rule illegally permits multiple units to have separate contribution limits, it thereby gives organizational contributors a disproportionate influence on elections, contrary to the purpose and intent of the initiative and the statute. The PDC countered that WAC 390-16-311 does not create an exception to the single entity rule but, rather, was a practical application of the statute.
+The PDC rejected Edelman’s petition, finding that (1) WAC 390-16-311 does not amend RCW 42.17.660 in an arbitrary and capricious manner; (2) federal law does not preempt the state’s implementation of its own rules; (3) the rule does not grant an “exception” but rather is a practical application of the actual statutory language, consistent with the scope of the PDC’s authority; and (4) Edelman’s petition sought to regulate large organizational contributors in a manner that the PDC deemed to be an unreasonable interpretation of RCW 42.17.660. The PDC recommended that Edelman ask the legislature to impose additional restrictions on large organizations’ ability to contribute to state political campaigns.
+Edelman sought review of the PDC’s decision by the governor, who rejected the same arguments that Edelman had presented to the PDC.
+B. Judicial Review
+Edelman next sought judicial review in Thurston County Superior Court. Edelman argued that (1) WAC 390-16-311 is contrary to 1-134; (2) the PDC had exceeded its statutory authority in adopting the rule; (3) the rule is arbitrary, capricious, and inconsistent with federal campaign laws and regulations; and (4) the PDC acted improperly and contrary to law when it denied his petition to repeal the rule.
+The superior court dismissed Edelman’s petition. Edel-man appeals.
+ANALYSIS
+I. Scope of PDC Authority
+An agency has only the authority that the legislature grants it by statute. Wash. Indep. Tel. Ass’n v. Wash. Utils. & Transp. Comm’n, 148 Wn.2d 887, 901, 64 P.3d 606, 613 (2003). The legislature created the PDC following voter approval of the public disclosure act. Laws of 1973, ch. 1, § 35. Its powers include adoption and promulgation of suitable administrative rules to carry out the policies and purposes of the public disclosure act. Laws of 1973, ch. 1, § 37.
+WAC 390-05-010 proclaims the PDC’s purpose in promulgating rules as follows:
+The purpose of these regulations is to implement the provisions of chapter 42.17 RCW (Initiative 276), hereinafter referred to as the Public Disclosure Act or act, by declaring the policies of the commission, particularly with regard to the interpretation and enforcement of the act by the commission.
+But an agency cannot promulgate rules that amend or change legislative enactments. And the courts must declare an agency’s rule invalid if the rule exceeds the agency’s statutory power. RCW 34.05.570(2)(c).
+II. Unambiguous Statute
+We first address whether RCW 42.17.660(2) is ambiguous and, therefore, in need of interpretation or rule promulgation by the PDC.
+A. Standard of Review
+An appellate court retains the authority to interpret a statute de novo. Waste Mgmt. of Seattle, Inc. v. Utils. & Transp. Comm’n, 123 Wn.2d 621, 627, 869 P.2d 1034 (1994). A statute is ambiguous if its language is capable of more than one reasonable interpretation. Vashon Island Comm, for Self-Gov’t v. Wash. State Boundary Review Bd., 127 Wn.2d 759, 771, 903 P.2d 953 (1995). Although we generally defer to an agency’s rule-making application of a statute, when a statute is unambiguous, we accord no such deference to an agency’s interpretation. Waste Mgmt., 123 Wn.2d at 628.
+B. Plain Language of Statute
+Edelman argues that because RCW 42.17.660(2) is not ambiguous, the PDC acted without authority in promulgating WAC 390-16-311 to clarify a perceived gap. The PDC counters that it was necessary to enact WAC 390-16-311 because the statutory language does not address what happens when a parent organization “stays out” of a state campaign and, thus, does not subject itself to PDC contribution limits.
+RCW 42.17.660 requires aggregation and attribution of contributions by affiliated entities. Subsection two provides that two or more entities are treated as a single entity for purposes of political campaign contribution limits:
+Two or more entities are treated as a single entity if one of the two or more entities is a subsidiary, branch, or department of a corporation or a local unit, branch, or affiliate of a trade association, labor union, or collective bargaining association. All contributions made by a person or political committee whose contribution or expenditure activity is financed, maintained, or controlled by a trade association, labor union, collective bargaining organization, or the local unit of a trade association, labor union, or collective bargaining organization are considered made by the same person or entity.
+RCW 42.17.660(2). As the PDC notes, the statute does not further elaborate on its effect when the parent organization does not contribute to a political campaign.
+The statute’s plain language already covers this situation. When read together with its related statutory subsections, RCW 42.17.660(2) clearly provides that where any subunit of a corporation or labor union makes a political campaign contribution, this contribution is considered to have been made by its affiliates as well for purposes of determining whether the $500 individual contribution limit of RCW 42.17.640(1) has been exceeded. The statute does not carve out an exemption for situations in which the parent organization does not participate in a particular campaign; rather, the focus is on the interrelationship of affiliated entities.
+There is no ambiguity in the statute that requires the PDC to read in such an exception, and “[w]e will not manufacture ambiguity where none exists.” H&H P’ship v. State, 115 Wn. App. 164, 171, 62 P.3d 510 (2003) (citing Am. Nat’l Fire Ins. Co. v. B&L Trucking & Constr. Co., 134 Wn.2d 413, 428, 951 P.2d 250 (1998)). We hold, therefore, that RCW 42.17.660(2) is not ambiguous and it needs no interpretation by the PDC.
+III. PDC Exceeds Statutory Authority
+We next address whether in promulgating WAC 390-16--311(1), the PDC exceeded its statutory authority under RCW 34.05.570(2)(c). The first sentence of WAC 390-16--311(1) accurately mirrors RCW 42.17.660(2) in reiterating that parent and subsidiary organizations share a single contribution limit:
+If two or more entities are affiliated pursuant to WAC 390-16--309(1), the parent corporation, national or international labor union or state body of such national or international labor union, trade association or state body of such trade association, national or state collective bargaining organization or national or state membership organization (hereinafter called the parent or umbrella organization) automatically shares a single contribution limit with each of its subsidiary corporations, corporate branches or departments or with each of its local units.
+WAC 390-16-311(1) (emphasis added).
+The second and third sentences, however, do not accurately mirror the statute. They read as follows:
+[A]bsent satisfying one of the affiliation factors set forth in WAC 390-16-309(3), a subsidiary corporation or local unit shall maintain its own contribution limit if the parent or umbrella organization does not participate in an election campaign with respect to a candidate defined in RCW 42.17.630(3). If the parent or umbrella organization engages in any of the following activities, a subsidiary corporation or local unit shares the contribution limit with the parent or umbrella organization with respect to a candidate.
+WAC 390-16-311(1) (emphasis added). In essence, these two sentences remove the single statutory contribution limit when the parent organization does not contribute to a political campaign, thus allowing multiple, affiliated, subsidiary units to make multiple contributions subject to multiple, individual, statutory limits.
+In other words, the second and third sentences of WAC 390-16-311(1) operate to graft the word “contributing” into RCW 42.17.660(2), to modify the large organizations listed in the first sentence, as follows:
+Two or more entities are treated as a single entity if one of the two or more entities is a subsidiary, branch, or department of a [contributing] corporation or a local unit, branch, or affiliate of a [contributing] trade association, labor union, or collective bargaining association.
+RCW 42.17.660(2) (emphasis added to illustrate how WAC 390-16-311(1) alters RCW 42.17.660(2)). This “grafting” effect of WAC 390-16-311(1) limits the statute’s aggregation of entities for a single contribution limit only when the parent corporation or employee organization makes a monetary contribution in a political campaign. In effect, WAC 390-16-311(1) not only negates the plain language of RCW 42.17.660(2) but also subverts the initiative’s purpose to reduce the influence of large organizational contributors on Washington state campaigns and elections. See RCW 42.17.620(2).
+In implementing 1-134, the legislature did not exempt affiliated entities from the single contribution limit when a parent or umbrella organizations opts out of a political campaign. RCW 42.17.660(2). Rather, the PDC created this exemption when it promulgated WAC 390-16-311, thereby impermissibly modifying and conflicting with the plain language of RCW 42.17.660(2). We do not defer to an agency determination that conflicts with a statute. H&H P’ship, 115 Wn. App. at 170 n.14 (citing Cowiche Canyon Conservancy v. Bosley, 118 Wn.2d 801, 815, 828 P.2d 549 (1992)). Moreover, an agency’s rule that conflicts with a statute is beyond that agency’s authority and requires invalidation of the rule. H&H P’ship, 115 Wn. App. at 170 (citing Wash. Fed’n of State Employees v. State Pers. Bd., 54 Wn. App. 305, 308, 773 P.2d 421 (1989)).
+Accordingly, we hold that in promulgating WAC 390-16--311, the PDC, however well-intentioned, exceeded its statutory authority. Following the legislature’s mandate in RCW 34.05.570(2)(c), we therefore declare WAC 390-16-311 invalid.
+Reversed.
+Morgan and Bridgewater, JJ., concur.
+Review granted at 150 Wn.2d 1025 (2004).
+The Public Disclosure Commission is a state agency governed by five citizen members. RCW 42.17.350(1).
+State ex rel. Evergreen Freedom Found, v. Wash. Educ. Ass’n, 140 Wn.2d 615, 634, 999 P.2d 602 (2000); Green River Cmty. Coll. v. Higher Educ. Pers. Bd., 95 Wn.2d 108, 112, 622 P.2d 826 (1980); Fahn v. Cowlitz County, 93 Wn.2d 368, 383, 610 P.2d 857, 621 P.2d 1293 (1980).
+RCW 34.05.570(2)(c) provides:
+In a proceeding involving review of a rule, the court shall declare the rule invalid only if it finds that: The rule violates constitutional provisions; the rule exceeds the statutory authority of the agency; the rule was adopted without compliance with statutory rule-making procedures; or the rule is arbitrary and capricious.
+RCW 42.17.640(1), .660(1).
+See H&H P’ship, 115 Wn. App. at 170-71 (although only a subsection was defective, the court held the entire WAC provision invalid).
