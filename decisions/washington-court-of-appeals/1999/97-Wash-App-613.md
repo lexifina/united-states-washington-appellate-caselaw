@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43192-7-I"
 decided: "1999-09-13"
-citations: ["97 Wash. App. 613", "97 Wash. App. 1032"]
+citations: ["97 Wash. App. 613"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Scott A. Swoboda, Appellant, v. The Town of La Conner, Respondent."]
 source_url: "https://static.case.law/wash-app/97/cases/0613-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 183927
-cites_cases: ["106 Wn.2d 868", "118 Wn.2d 596", "128 Wn.2d 869", "137 Wn.2d 1004", "22 Wn. App. 229", "269 U.S. 385", "557 P.2d 307", "588 P.2d 750", "70 Wn. App. 64", "725 P.2d 994", "826 P.2d 172", "837 P.2d 599", "851 P.2d 744", "87 Wn. App. 197", "87 Wn.2d 802", "90 Wn. App. 816", "913 P.2d 793", "940 P.2d 269", "95 Wn. App. 383", "960 P.2d 434", "97 Wn. App. 613", "972 P.2d 466", "974 P.2d 863"]
+cites_cases: ["106 Wn.2d 868", "118 Wn.2d 596", "128 Wn.2d 869", "137 Wn.2d 1004", "22 Wn. App. 229", "269 U.S. 385", "557 P.2d 307", "588 P.2d 750", "70 Wn. App. 64", "725 P.2d 994", "826 P.2d 172", "837 P.2d 599", "851 P.2d 744", "87 Wn. App. 197", "87 Wn.2d 802", "90 Wn. App. 816", "913 P.2d 793", "940 P.2d 269", "95 Wn. App. 383", "960 P.2d 434", "972 P.2d 466", "974 P.2d 863"]
 ---
 
 # Swoboda v. Town of La Conner
