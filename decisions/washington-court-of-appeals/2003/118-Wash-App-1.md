@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27785-9-II"
 decided: "2003-05-13"
-citations: ["118 Wash. App. 1", "116 Wash. App. 1073"]
+citations: ["118 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James Gary Blunt, Appellant."
 source_url: "https://static.case.law/wash-app/118/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352413
-cites_cases: ["105 Wn.2d 175", "115 Wn.2d 275", "118 Wn. App. 1", "123 Wn.2d 885", "131 Wn.2d 230", "137 Wn.2d 472", "2001 WY 129", "220 F.3d 1159", "247 Mich. App. 14", "313 Mont. 252", "523 U.S. 224", "526 U.S. 314", "530 U.S. 466", "536 U.S. 584", "63 S.W.3d 104", "634 N.W.2d 370", "713 P.2d 719", "73 Wn. App. 165", "770 So. 2d 477", "796 P.2d 1266", "807 A.2d 407", "82 Or. App. 222", "868 P.2d 179", "872 P.2d 1087", "930 P.2d 1213", "973 P.2d 452", "975 S.W.2d 630"]
+cites_cases: ["105 Wn.2d 175", "115 Wn.2d 275", "123 Wn.2d 885", "131 Wn.2d 230", "137 Wn.2d 472", "2001 WY 129", "220 F.3d 1159", "247 Mich. App. 14", "313 Mont. 252", "523 U.S. 224", "526 U.S. 314", "530 U.S. 466", "536 U.S. 584", "63 S.W.3d 104", "634 N.W.2d 370", "713 P.2d 719", "73 Wn. App. 165", "770 So. 2d 477", "796 P.2d 1266", "807 A.2d 407", "82 Or. App. 222", "868 P.2d 179", "872 P.2d 1087", "930 P.2d 1213", "973 P.2d 452", "975 S.W.2d 630"]
 ---
 
 # State v. Blunt
