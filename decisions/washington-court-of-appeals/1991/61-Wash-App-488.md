@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23669-5-I"
 decided: "1991-04-29"
-citations: ["61 Wash. App. 488", "61 Wash. App. 1004"]
+citations: ["61 Wash. App. 488"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of S.S. David Sampson, Appellant, v. 
 source_url: "https://static.case.law/wash-app/61/cases/0488-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1729489
-cites_cases: ["101 S. Ct. 1709", "103 Wn.2d 165", "104 Wn.2d 643", "105 Wn.2d 889", "107 Wn.2d 1009", "109 Wn.2d 1008", "109 Wn.2d 1014", "112 Wn.2d 1014", "113 Wn.2d 1007", "114 Wn.2d 1026", "114 Wn.2d 613", "31 Wn. App. 381", "400 U.S. 74", "424 P.2d 1021", "43 Wn. App. 605", "44 Wn. App. 611", "450 U.S. 1001", "48 Wn. App. 543", "48 Wn. App. 840", "53 Wn. App. 214", "53 Wn. App. 638", "57 Wn. App. 7", "60 Wn. App. 374", "61 Wn. App. 488", "633 F.2d 77", "638 P.2d 1231", "639 P.2d 761", "654 P.2d 77", "68 L. Ed. 2d 203", "691 P.2d 197", "70 Wn.2d 690", "709 P.2d 1185", "718 P.2d 846", "719 P.2d 554", "722 P.2d 1379", "740 P.2d 329", "741 P.2d 566", "766 P.2d 505", "769 P.2d 873", "779 F.2d 430", "786 P.2d 810", "790 P.2d 610", "804 P.2d 634", "96 Wn.2d 716", "97 Wn.2d 1021", "98 Wn.2d 140"]
+cites_cases: ["101 S. Ct. 1709", "103 Wn.2d 165", "104 Wn.2d 643", "105 Wn.2d 889", "107 Wn.2d 1009", "109 Wn.2d 1008", "109 Wn.2d 1014", "112 Wn.2d 1014", "113 Wn.2d 1007", "114 Wn.2d 1026", "114 Wn.2d 613", "31 Wn. App. 381", "400 U.S. 74", "424 P.2d 1021", "43 Wn. App. 605", "44 Wn. App. 611", "450 U.S. 1001", "48 Wn. App. 543", "48 Wn. App. 840", "53 Wn. App. 214", "53 Wn. App. 638", "57 Wn. App. 7", "60 Wn. App. 374", "633 F.2d 77", "638 P.2d 1231", "639 P.2d 761", "654 P.2d 77", "68 L. Ed. 2d 203", "691 P.2d 197", "70 Wn.2d 690", "709 P.2d 1185", "718 P.2d 846", "719 P.2d 554", "722 P.2d 1379", "740 P.2d 329", "741 P.2d 566", "766 P.2d 505", "769 P.2d 873", "779 F.2d 430", "786 P.2d 810", "790 P.2d 610", "804 P.2d 634", "96 Wn.2d 716", "97 Wn.2d 1021", "98 Wn.2d 140"]
 ---
 
 # Sampson v. Department of Social & Health Services
