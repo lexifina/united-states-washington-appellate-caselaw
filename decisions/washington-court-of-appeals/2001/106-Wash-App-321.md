@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46696-8-I"
 decided: "2001-04-02"
-citations: ["106 Wash. App. 321", "105 Wash. App. 1040"]
+citations: ["106 Wash. App. 321"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["University Village Ltd. Partners, Respondent, v. King County, et al.,
 source_url: "https://static.case.law/wash-app/106/cases/0321-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240587
-cites_cases: ["106 Wn. App. 321", "106 Wn.2d 760", "108 Wn.2d 26", "120 Wn.2d 246", "135 Wn.2d 913", "140 Wn.2d 1001", "145 Wn.2d 1002", "52 Wn. App. 303", "725 P.2d 987", "735 P.2d 1320", "759 P.2d 471", "840 P.2d 860", "86 Wn. App. 223", "935 P.2d 1384", "959 P.2d 1037", "96 Wn. App. 194", "978 P.2d 568"]
+cites_cases: ["106 Wn.2d 760", "108 Wn.2d 26", "120 Wn.2d 246", "135 Wn.2d 913", "140 Wn.2d 1001", "145 Wn.2d 1002", "52 Wn. App. 303", "725 P.2d 987", "735 P.2d 1320", "759 P.2d 471", "840 P.2d 860", "86 Wn. App. 223", "935 P.2d 1384", "959 P.2d 1037", "96 Wn. App. 194", "978 P.2d 568"]
 ---
 
 # University Village Ltd. Partners v. King County
