@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11290-0-III"
 decided: "1992-01-28"
-citations: ["64 Wash. App. 339", "63 Wash. App. 1055"]
+citations: ["64 Wash. App. 339"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Clyde L. Henderson, Appellant
 source_url: "https://static.case.law/wash-app/64/cases/0339-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722674
-cites_cases: ["105 Wn.2d 398", "115 Wn.2d 294", "42 Wn. App. 420", "466 U.S. 668", "47 Wn. App. 477", "479 U.S. 922", "616 P.2d 628", "64 Wn. App. 339", "64 Wn. App. 90", "711 P.2d 382", "717 P.2d 722", "735 P.2d 696", "797 P.2d 1141", "823 P.2d 523", "94 Wn.2d 216"]
+cites_cases: ["105 Wn.2d 398", "115 Wn.2d 294", "42 Wn. App. 420", "466 U.S. 668", "47 Wn. App. 477", "479 U.S. 922", "616 P.2d 628", "64 Wn. App. 90", "711 P.2d 382", "717 P.2d 722", "735 P.2d 696", "797 P.2d 1141", "823 P.2d 523", "94 Wn.2d 216"]
 ---
 
 # State v. Henderson
