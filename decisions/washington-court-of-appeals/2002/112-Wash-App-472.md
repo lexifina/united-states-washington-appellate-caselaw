@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48528-8-I"
 decided: "2002-06-10"
-citations: ["112 Wash. App. 472", "112 Wash. App. 1009"]
+citations: ["112 Wash. App. 472"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Johnny Frankenfield, Petition
 source_url: "https://static.case.law/wash-app/112/cases/0472-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719295
-cites_cases: ["109 Wn.2d 99", "112 Wn. App. 472", "120 Wn.2d 585", "141 Wn.2d 663", "28 Wn. App. 690", "45 Wn. App. 590", "626 P.2d 509", "726 P.2d 991", "743 P.2d 811", "845 P.2d 971", "87 Wn. App. 39", "9 P.3d 832", "940 P.2d 280"]
+cites_cases: ["109 Wn.2d 99", "120 Wn.2d 585", "141 Wn.2d 663", "28 Wn. App. 690", "45 Wn. App. 590", "626 P.2d 509", "726 P.2d 991", "743 P.2d 811", "845 P.2d 971", "87 Wn. App. 39", "9 P.3d 832", "940 P.2d 280"]
 ---
 
 # State v. Frankenfield
