@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50462-2-I"
 decided: "2003-07-28"
-citations: ["118 Wash. App. 746", "117 Wash. App. 1081"]
+citations: ["118 Wash. App. 746"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Russell Day, et al., Respondents, v. Julie Santorsola, et al., Appell
 source_url: "https://static.case.law/wash-app/118/cases/0746-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1352835
-cites_cases: ["102 Wn. App. 60", "103 Wn. App. 945", "106 Wn. App. 506", "112 Wn. App. 486", "112 Wn. App. 558", "118 Wn. App. 746", "131 Wn.2d 612", "131 Wn.2d 640", "135 Wn.2d 398", "137 Wn.2d 683", "141 Wn.2d 431", "143 Wn.2d 546", "145 Wn.2d 1016", "148 Wn.2d 1024", "148 Wn.2d 35", "149 Wn.2d 1008", "15 P.3d 172", "151 Wn.2d 1018", "23 P.3d 455", "24 P.3d 413", "49 P.3d 154", "5 P.3d 1265", "50 P.3d 284", "59 P.3d 611", "638 P.2d 1231", "7 P.3d 818", "89 Wn. App. 390", "93 Wn. App. 886", "934 P.2d 669", "935 P.2d 555", "948 P.2d 1338", "957 P.2d 632", "96 Wn.2d 716", "970 P.2d 825", "974 P.2d 836"]
+cites_cases: ["102 Wn. App. 60", "103 Wn. App. 945", "106 Wn. App. 506", "112 Wn. App. 486", "112 Wn. App. 558", "131 Wn.2d 612", "131 Wn.2d 640", "135 Wn.2d 398", "137 Wn.2d 683", "141 Wn.2d 431", "143 Wn.2d 546", "145 Wn.2d 1016", "148 Wn.2d 1024", "148 Wn.2d 35", "149 Wn.2d 1008", "15 P.3d 172", "151 Wn.2d 1018", "23 P.3d 455", "24 P.3d 413", "49 P.3d 154", "5 P.3d 1265", "50 P.3d 284", "59 P.3d 611", "638 P.2d 1231", "7 P.3d 818", "89 Wn. App. 390", "93 Wn. App. 886", "934 P.2d 669", "935 P.2d 555", "948 P.2d 1338", "957 P.2d 632", "96 Wn.2d 716", "970 P.2d 825", "974 P.2d 836"]
 ---
 
 # Day v. Santorsola
