@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30432-5-II"
 decided: "2004-07-20"
-citations: ["123 Wash. App. 551", "122 Wash. App. 1035"]
+citations: ["123 Wash. App. 551"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Paul Deschamps, Appellant, v. Mason County Sheriff’s Office, et al.
 source_url: "https://static.case.law/wash-app/123/cases/0551-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1117859
-cites_cases: ["105 Wn.2d 381", "110 Wn. App. 689", "111 Wn. App. 527", "112 Wn.2d 216", "120 Wn. App. 20", "121 Wn. App. 36", "123 Wn. App. 551", "132 Wn.2d 103", "136 Misc. 2d 1065", "148 Wn.2d 1003", "148 Wn.2d 602", "42 P.3d 440", "42 U.S.C. § 1983", "45 P.3d 1107", "477 U.S. 317", "519 N.Y.S.2d 928", "62 P.3d 470", "63 Wn. App. 232", "70 Wn. App. 827", "715 P.2d 1133", "770 P.2d 182", "818 P.2d 34", "84 P.3d 899", "855 P.2d 1200", "86 P.3d 1234", "87 Wn. App. 614", "90 Wn. App. 658", "90 Wn. App. 923", "937 P.2d 154", "94 Wn. App. 911", "943 P.2d 298", "954 P.2d 352", "956 P.2d 1100", "973 P.2d 1098"]
+cites_cases: ["105 Wn.2d 381", "110 Wn. App. 689", "111 Wn. App. 527", "112 Wn.2d 216", "120 Wn. App. 20", "121 Wn. App. 36", "132 Wn.2d 103", "136 Misc. 2d 1065", "148 Wn.2d 1003", "148 Wn.2d 602", "42 P.3d 440", "42 U.S.C. § 1983", "45 P.3d 1107", "477 U.S. 317", "519 N.Y.S.2d 928", "62 P.3d 470", "63 Wn. App. 232", "70 Wn. App. 827", "715 P.2d 1133", "770 P.2d 182", "818 P.2d 34", "84 P.3d 899", "855 P.2d 1200", "86 P.3d 1234", "87 Wn. App. 614", "90 Wn. App. 658", "90 Wn. App. 923", "937 P.2d 154", "94 Wn. App. 911", "943 P.2d 298", "954 P.2d 352", "956 P.2d 1100", "973 P.2d 1098"]
 ---
 
 # Deschamps v. Mason County Sheriff's Office
