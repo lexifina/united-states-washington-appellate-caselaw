@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17579-1-III"
 decided: "1999-04-15"
-citations: ["95 Wash. App. 563", "95 Wash. App. 1012"]
+citations: ["95 Wash. App. 563"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dennis Hayden, et al., Appellants, v. Mutual of Enumclaw Insurance Co
 source_url: "https://static.case.law/wash-app/95/cases/0563-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254702
-cites_cases: ["102 Wn.2d 477", "105 Wn.2d 1004", "123 Wn.2d 891", "129 Wn.2d 736", "134 Wn.2d 814", "134 Wn.2d 854", "138 Wn.2d 1021", "42 Wn. App. 58", "454 P.2d 229", "596 So. 2d 96", "64 Wn. App. 916", "687 P.2d 1139", "708 P.2d 657", "75 Wn.2d 856", "80 Wn. App. 157", "827 P.2d 321", "874 P.2d 142", "906 P.2d 1006", "92 Or. App. 609", "921 P.2d 514", "95 Wn. App. 563", "953 P.2d 1162", "953 P.2d 462"]
+cites_cases: ["102 Wn.2d 477", "105 Wn.2d 1004", "123 Wn.2d 891", "129 Wn.2d 736", "134 Wn.2d 814", "134 Wn.2d 854", "138 Wn.2d 1021", "42 Wn. App. 58", "454 P.2d 229", "596 So. 2d 96", "64 Wn. App. 916", "687 P.2d 1139", "708 P.2d 657", "75 Wn.2d 856", "80 Wn. App. 157", "827 P.2d 321", "874 P.2d 142", "906 P.2d 1006", "92 Or. App. 609", "921 P.2d 514", "953 P.2d 1162", "953 P.2d 462"]
 ---
 
 # Hayden v. Mutual of Enumclaw Insurance
