@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21475-6-I"
 decided: "1989-04-10"
-citations: ["54 Wash. App. 137", "53 Wash. App. 1075"]
+citations: ["54 Wash. App. 137"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Garrett Wade Linderman, Appel
 source_url: "https://static.case.law/wash-app/54/cases/0137-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1762148
-cites_cases: ["104 Wn.2d 798", "108 Wn.2d 1009", "113 Wn.2d 1004", "43 Wn. App. 622", "45 Wn. App. 658", "54 Wn. App. 137", "711 P.2d 319", "719 P.2d 154", "726 P.2d 1254"]
+cites_cases: ["104 Wn.2d 798", "108 Wn.2d 1009", "113 Wn.2d 1004", "43 Wn. App. 622", "45 Wn. App. 658", "711 P.2d 319", "719 P.2d 154", "726 P.2d 1254"]
 ---
 
 # State v. Linderman
