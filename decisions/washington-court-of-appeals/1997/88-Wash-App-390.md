@@ -1,0 +1,61 @@
+---
+court: "Washington Court of Appeals"
+docket: "19448-1-II"
+decided: "1997-10-24"
+citations: ["88 Wash. App. 390"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Public Utilities District No. 1 of Grays Harbor, Appellant, v. Timothy D. Crea, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/88/cases/0390-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1592235
+cites_cases: ["106 Wn.2d 826", "107 Wn.2d 785", "117 Wn.2d 829", "121 Wn.2d 52", "122 Wn.2d 141", "134 Wn.2d 1021", "23 Wn. App. 683", "25 Wn. App. 486", "43 Wn. App. 747", "57 Wn. App. 542", "598 P.2d 404", "607 P.2d 890", "66 Wn. App. 710", "719 P.2d 594", "726 P.2d 8", "733 P.2d 960", "789 P.2d 108", "802 P.2d 133", "822 P.2d 177", "832 P.2d 1353", "847 P.2d 440", "859 P.2d 1210"]
+---
+
+# Public Utilities District No. 1 v. Crea
+
+## Majority (Hunt, J.)
+
+Hunt, J.
+— The trial court assessed $8,870 in attorney’s fees against a Grays Harbor County public utilities district (PUD) that had unsuccessfully sued Timothy Crea for $6,570 in damages to a utility pole struck by Crea’s car. The PUD appeals the award, arguing that: (1) RCW 4.84.250 does not authorize an award of attorney’s fees because Crea did not give notice of his intent to seek such award; and (2) the amount of attorney’s fees was unreasonable. We affirm.
+FACTS
+On December 30, 1990, Timothy Crea was driving on Highway 12 in Grays Harbor County when his car hit a patch of ice, skidded out of control, and collided with a utility pole maintained by Grays Harbor PUD 1. In March 1993, the PUD sued Crea for negligence, seeking $6,570.24 in damages for repair of the pole.
+The case was set for mandatory arbitration. Reciting RCW 4.84.250, the PUD made a written oifer of settlement, which Crea rejected. The arbitrator ruled in favor of the PUD and awarded damages in the requested amount.
+Crea requested a trial de novo. The jury returned a verdict in Crea’s favor, finding that Crea was not negligent.
+After trial, Crea requested $9,307.19 in attorney’s fees under RCW 4.84.250. Deeming an award of attorney’s fees to the prevailing party to be mandatory under RCW 4.84.250, the trial court awarded Crea $8,870.19 in fees.
+ANALYSIS
+A. Award of Fees
+A court may award reasonable attorney’s fees to the prevailing party as provided by private agreement, statute, or a recognized ground of equity. Fisher Properties, Inc. v. Arden-Mayfair, Inc., 106 Wn.2d 826, 849-50, 726 P.2d 8 (1986). RCW 4.84.250 provides for an award of attorney’s fees to a prevailing party as follows:
+Attorneys’ fees as costs in damage actions of ten thousand dollars or less—Allowed to prevailing party. Notwithstanding any other provisions of chapter 4.84 RCW and RCW 12.20.060, in any action for damages where the amount pleaded by the prevailing party as hereinafter defined, exclusive of costs, is seven thousand five hundred dollars or less, there shall be taxed and allowed to the prevailing party as a part of the costs of the action a reasonable amount to be fixed by the court as attorneys’ fees. After July 1, 1985, the maximum amount of the pleading under this section shall be ten thousand dollars.
+RCW 4.84.270 defines "prevailing party” for purposes of the above statute, as follows:
+Attorneys’ fees as costs in damage actions of ten thousand dollars or less—When defendant deemed prevailing party. The defendant, or party resisting relief, shall be deemed the prevailing party within the meaning of RCW 4.84.250, if the plaintiff, or party seeking relief in an action for damages where the amount pleaded, exclusive of costs, is equal to or less than the maximum allowed under RCW 4.84.250, recovers nothing, or if the recovery, exclusive of costs, is the same or less than the amount offered in settlement by the defendant, or the party resisting relief, as set forth in RCW 4.84.280.
+Under these statutes, when a plaintiff seeks less than $10,000 in damages and recovers nothing, the defendant is entitled to attorney’s fees, regardless of whether an offer of settlement has been made by either party. Lowery v. Nelson, 43 Wn. App. 747, 719 P.2d 594 (1986).
+1. Notice
+The common law adds a prerequisite to an award of attorney’s fees under the statute: The party from whom fees are sought must have received notice prior to trial that it may be subject to fees under the statute. As explained by the Supreme Court:
+The purpose of RCW 4.84.250 is to encourage out-of-court settlements and to penalize parties who unjustifiably bring or resist small claims. Another appellate court referred to the statute’s purpose as: "[t]he obvious legislative intent is to enable a party to pursue a meritorious small claim without seeing his award diminished in whole or in part by legal fees.” Clearly, these purposes require some type of notice so that parties would realize the amount of the claim is small and that they should settle or else risk paying the prevailing party’s attorney’s fees.
+Beckmann v. Spokane Transit Auth., 107 Wn.2d 785, 788-89, 733 P.2d 960 (1987) (citations omitted) (emphasis added).
+This notice requirement does not require a party seeking attorney’s fees specifically to plead RCW 4.84.250 or to ask for attorney’s fees. Beckmann, 107 Wn.2d at 790. It is sufficient that the charged party receive actual notice of the statute prior to trial, thereby putting that party on notice of the risk of attorney fee assessment. Beckmann, 107 Wn.2d at 789.
+This case differs from Last Chance Riding Stable, Inc. v. Stephens, 66 Wn. App. 710, 832 P.2d 1353 (1992), in which Division III confronted a total lack of settlement offer or notice of intent to seek award of attorney’s fees prior to trial de novo. The court in Last Chance did not have before it the situation here, where the PUD had actual notice of the statute giving rise to an award of attorney’s fees to the prevailing party. The PUD itself cited RCW 4.84.250 in its letter to Crea offering to settle. The title of that statute reads: "Attorneys’ fees as costs in damage actions of ten thousand dollars or less—Allowed to prevailing party.” As its title announces, the statute clearly provides that in actions for damages amounting to $10,000 or less, "there shall be taxed and allowed to the prevailing party as part of the costs of the action a reasonable amount to be fixed by the court as attorneys’ fees.” RCW 4.84.250.
+Last Chance notes in the disjunctive two acceptable alternatives to achieve the objectives of RCW 4.84.250: an offer of settlement or other prior notice of intent to seek attorney’s fees. Last Chance, 66 Wn. App. at 713. Thus, although Division III did not have before it the facts here, it nevertheless contemplated that a settlement offer would be sufficient to fulfill the statute, in lieu of specific notice of intent to seek attorney’s fees. The legislative purpose, " 'to enable a party to pursue a meritorious small claim without seeing his award diminished ... by legal fees[,]’ ” is served here;* without an award of attorney’s fees to Crea, his damage award would have been consumed entirely by attorney’s fees.
+Under Last Chance, all that is required is "some type of notice so that parties would realize the amount of the claim is small and that they should settle or else risk paying the prevailing party’s attorney’s fees.” Last Chance, 66 Wn. App. at 714. Here, the PUD settlement letter, reciting RCW 4.84.250, provided such notice.
+The PUD had actual notice that it would be assessed attorney’s fees if its claim against Crea failed at trial. Recitation of RCW 4.84.250 in its own settlement document demonstrates knowledge of the potential for an adverse award of attorney’s fees if the PUD did not prevail. That Crea did not provide additional notice to the PUD is irrelevant. All that is required is "actual notice to [parties] prior to trial which [is] sufficient to give [the party] an opportunity to settle, thereby saving both sides considerable expense.” Beckmann, 107 Wn.2d at 789. Here, the trial court’s application of RCW 4.28.250 was neither unauthorized nor unfair. Beckmann, 107 Wn.2d at 788.
+2. Insurer
+The PUD argues that the trial court should not have awarded attorney’s fees under the statute because Crea’s fees were paid by an insurer that was not a party to the lawsuit. The PUD contends that the statute was not intended to benefit nonparties. This argument has no merit and ignores Harold Meyer Drug v. Hurd, 23 Wn. App. 683, 687, 598 P.2d 404 (1979), holding that a party’s free representation by a public legal services corporation was immaterial to an award of attorney’s fees under RCW 4.28.250.
+3. Meritorious Claim
+The PUD further argues that it should not be penalized because its claim was not frivolous. It cites no authority for its proposition that a court should examine the merits of a plaintiff’s claim before deciding whether to award fees under RCW 4.84.250. We therefore decline to address this issue. See State v. Lord, 117 Wn.2d 829, 853, 822 P.2d 177 (1992).
+B. Reasonableness of Attorney’s fees
+We will overturn a trial court’s award of attorney’s fees only for manifest abuse of discretion. Bowles v. Department of Retirement Sys., 121 Wn.2d 52, 71-72, 847 P.2d 440 (1993). The PUD’s assertion that the fee award exceeded the amount Crea requested is incorrect; the fee award was less than the amount Crea claimed. Crea’s attorneys submitted affidavits listing $9,307.19 in fees. The PUD did not contest the number of hours billed or the attorneys’ billing rates. The trial court awarded $8,870.19 in fees to Crea.
+The PUD also argues that the fee award was not reasonable because it exceeded the amount of damages in dispute. In Scott Fetzer Co. v. Weeks, 122 Wn.2d 141, 859 P.2d 1210 (1993), the Supreme Court stated that: "While the amount in dispute does not create an absolute limit on fees, that figure’s relationship to the fees requested or awarded is a vital consideration when assessing their reasonableness.” Fetzer, 122 Wn.2d at 150. This is particularly true where a fee award "grossly exceeds” the amount in controversy. Fetzer, 122 Wn.2d at 150.
+Here, the attorney fee award to Crea was only $2,300 more that the PUD’s claim for damages. The trial court did not abuse its discretion by assessing attorney’s fees that exceeded the claimed damages by such an amount.
+CONCLUSION
+We therefore affirm the trial court’s award of attorney’s fees to Crea in the amount of $8,870.19. Pursuant to RAP 18.1(a) and RCW 4.84.290, we also award attorney’s fees on appeal to respondents Crea.
+Houghton, C.J., and Morgan, J., concur.
+Review denied at 134 Wn.2d 1021 (1998).
+The commissioner’s Ruling Granting Motion on the Merits disposed of the PUD’s other claims.
+On February 11, 1994, during arbitration, the PUD made an offer of settlement, which read as follows: "Pursuant to RCW 4.84.250, et seq[.], we hereby offer to settle the claim of the plaintiff in the above action for $ 6,570.24.” The settlement letter was apparently filed with the trial court, although no copy was made a part of the record on appeal.
+Last Chance, 66 Wn. App. at 714 (quoting Northside Auto Serv., Inc. v. Consumers United Ins. Co., 25 Wn. App. 486, 492, 607 P.2d 890 (1980)).
+An offer of settlement made during arbitration does not lapse for purposes of awarding attorney’s fees after trial de novo. Singer v. Etherington, 57 Wn. App. 542, 789 P.2d 108, 802 P.2d 133 (1990). Thus, had the PUD prevailed at trial, it would have been entitled to fees under the statute pursuant to the notice given in its offer of settlement.
+RCW 4.84.290 states:
+If the case is appealed, the prevailing party on appeal shall be considered the prevailing party for the purpose of applying the provisions of RCW 4.84.250; Provided, That if, on appeal, a retrial is ordered, the court ordering the retrial shall designate the prevailing party, if any, for the purpose of applying the provisions of RCW 4.84.250.
+In addition, if the prevailing party on appeal would be entitled to attorneys’ fees under the provisions of RCW 4.84.250, the court deciding the appeal shall allow to the prevailing party such additional amount as the court shall adjudge reasonable as attorneys’ fees for the appeal.
