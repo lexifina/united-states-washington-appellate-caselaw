@@ -1,0 +1,58 @@
+---
+court: "Washington Court of Appeals"
+docket: "21980-8-II"
+decided: "1999-04-30"
+citations: ["95 Wash. App. 333"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Joseph Stuart Root, Appellant."]
+source_url: "https://static.case.law/wash-app/95/cases/0333-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 255121
+cites_cases: ["133 Wn.2d 15", "136 Wn.2d 629", "139 Wn.2d 1001", "31 Wn. App. 680", "349 U.S. 81", "609 P.2d 1364", "64 Wn. App. 76", "644 P.2d 710", "823 P.2d 513", "93 Wn.2d 288", "940 P.2d 1374", "965 P.2d 1072", "99 L. Ed. 905"]
+---
+
+# State v. Root
+
+## Majority (Houghton, J.)
+
+Houghton, J.
+— Joseph Root appeals his conviction of 6 counts of rape of a child in the first degree and 73 counts of sexual exploitation of a minor, arguing that he was improperly charged on multiple separate counts. We affirm.
+FACTS
+Joseph Root was convicted of rape of a child and sexual exploitation involving C, M and H. Root lived with M and H’s mother and from time to time would care for her two children and a friend’s child, C, so that the two mothers could go out together.
+On March 2, 1996, Root cared for C, M, and H. When the two women returned to Root’s residence at approximately 2:00 a.m., C ran to his mother and began clinging to her and crying. C told his mother that Root had hit him in the stomach and had pulled his hair.
+Root denied hitting C or pulling his hair, but told C’s mother that he had been watching a pornographic movie and that C had come into the room and had observed a scene in which a woman was performing oral sex upon a man. Root then told C’s mother that he believed her boyfriend, Todd, had molested C because C had told him, while viewing the pornographic scene, that Todd had done that to him.
+The next day, his mother asked C if Todd had ever touched his penis or hurt him in any way. C responded that Todd had not touched him or hurt him, but that Root hurt him. C repeated that Root had hit him in the stomach and pulled his hair.
+On May 15, 1996, C told his mother, “Joe did this to me and this to me and pulled my hair.” C demonstrated oral sex and masturbation. The following day, C’s mother made inquiries leading to her being interviewed by law enforcement officers in Vancouver, where they then lived. But C could not be interviewed because he was too withdrawn.
+C’s mother then made an appointment with child therapist, Wendy Mikota. After several sessions, C began voluntarily disclosing to his mother various acts committed by Root. C talked about Root putting a “temperature up his butt a lot.” Mikota referred the matter to the Port An-geles Police Department.
+C’s mother met with M and H’s mother and told her that she suspected Root had sexually molested C and was afraid that M and H had also been molested. The two mothers met with Detective Gallagher of the Port Angeles Police Department. After interviewing them, the detective asked to search M and H’s mother’s house, which she shared with Root, for evidence of sexual or drug abuse. The police obtained a search warrant to search the house and the attached garage.
+During the search, the police uncovered hundreds of photographs, rolls of film and videotapes depicting the children. They also found magazines, and other items that they confiscated from the garage along with the photographs, film and videotapes. Some of the items were located in an area of the garage that Root considered his own and many of the photographs were in a box with the words “Personal Paperwork J.S.R.” written on it. This box was not closed, taped or sealed.
+The police arrested Root and he gave a tape recorded statement. He made several admissions on the tape and several admissions after he requested the officers to stop the tape.
+Eventually, the State charged Root with 6 counts of rape of a child and 74 counts of sexual exploitation. A jury convicted Root of 6 counts of rape of a child in the first degree, and 73 counts of sexual exploitation of a minor. The trial court sentenced Root to an exceptional sentence of 460 months. Root appeals.
+ANALYSIS
+Multiple Separate Counts
+Root contends that the trial court erred in allowing the State to charge 74 counts of sexual exploitation when “[a]t most, 13 ‘sessions’ exist in which Joe Root took a number of photographs—one right after another.”
+The State has wide discretion in charging. State v. Pettitt, 93 Wn.2d 288, 609 P.2d 1364 (1980). “Whether a statute specifically permits multiple counts to be charged is a matter of statutory interpretation.” State v. Knutson, 64 Wn. App. 76, 80, 823 P.2d 513 (1991) (citations omitted).
+The Supreme Court recently addressed the issue of multiplicity of charges involving drug possession in State v. Adel, 136 Wn.2d 629, 965 P.2d 1072 (1998). In Adel, the inquiry was what “unit of prosecution” the Legislature intended as the punishable act under the specific criminal statute. In answering this inquiry, the Supreme Court reaffirmed that “[i]f the Legislature has failed to denote the unit of prosecution in a criminal statute, the United States Supreme Court has declared the ambiguity should be construed in favor of lenity.” Adel, 136 Wn.2d at 634-35 (citing Bell v. United States, 349 U.S. 81, 84, 75 S. Ct. 620, 99 L. Ed. 905 (1955)). But here, the Legislature has denoted the “unit of prosecution” intended as the punishable act under RCW 9.68A.01K1):
+To “photograph” means to make a print, negative, slide, motion picture, or video tape. . . .
+Knutson, 64 Wn. App. at 80 (citing RCW 9.68A.011(1)).
+In Knutson, Division One determined that the rule of lenity did not render “multiplicitous” multiple convictions under RCW 9.68A.011(1) because the statute was not ambiguous as to whether it permitted multiple counts to be charged. See Knutson, 64 Wn. App. at 80-81. Thus, the court held that each of the four counts of sexual exploitation against the defendant were not “multiplicitous” because each of the four counts charged a separate and distinct act of sexual exploitation of a minor as contemplated under the statute. Id. Although not using the language in Adel, the Knutson court nevertheless determined that the proper “unit of prosecution,” as contemplated by the Legislature, was “a print, negative, slide, motion picture, or video tape.” Knutson, 64 Wn. App. at 80.
+Here, over 200 individual Polaroid photographs and two videotapes were taken. The State charged Root with 74 counts of sexual exploitation of a minor: Counts 7-26 referred to M, Count 27 referred to H, and Counts 28-77 referred to C, and Counts 78-80 referred to C and M. Each count referenced a particular Polaroid photograph or movie. Root was acquitted of Count 27, but he was convicted of all other sexual exploitation counts. As in Knutson, each of the 74 counts charged a separate and distinct act of sexual exploitation against C, M and H.
+Contrary to Root’s assertion, Knutson does not imply that a defendant may be charged with only one count of sexual exploitation for each “session.” Rather, Knutson states that a person may be charged with one count of sexual exploitation of a minor if that person compels, aids, invites, or causes a minor to engage in sexually explicit conduct knowing that a photograph or videotape will be taken. Such conclusion is particularly appropriate as applied to Polaroids where each photograph is separately taken and developed.
+Thus, it was within the State’s discretion to charge Root with one count for each Polaroid photograph or videotape taken in violation of RCW 9.68A.040.
+Affirmed.
+A majority of the panel having determined that only the foregoing portion of this opinion will be printed in the Washington Appellate Reports and that the remainder shall be filed for public record pursuant to RCW 2.06.040, it is so ordered.
+Hunt, J., concurs.
+
+## Dissent (Armstrong, A.C.J.)
+
+Armstrong, A.C.J.
+(dissenting in part) — I dissent from the majority’s decision that the State could charge Root with a separate count for each photo.
+To determine whether Root may be punished for each photo, we must analyze the statute for the “unit of prosecution” the Legislature intended to punish. State v. Adel, 136 Wn.2d 629, 634, 965 P.2d 1072 (1998) (citing Bell v. United States, 349 U.S. 81, 83, 75 S. Ct. 620, 99 L. Ed. 905 (1955); State v. Mason, 31 Wn. App. 680, 685-87, 644 P.2d 710 (1982)). In doing so, we look for the “act or course of conduct” the Legislature has defined as the punishable act. Adel, 136 Wn.2d at 634. If the statute is ambiguous as to the unit of prosecution, we must construe the ambiguity in favor of the defendant under the rule of lenity. Adel, 136 Wn.2d at 634-35 (citing Bell, 349 U.S. at 84).
+Here, Root was charged with violating RCW 9.68A-.040(l)(a) and/or (b). Together, these sections prohibit conduct that “[c]ompels . . . [a]ids . . . authorizes, or causes a minor to engage in sexually explicit conduct, knowing that such conduct will be photographed . . . .” Thus, in general, the statute consists of two elements: (1) posing a minor in sexually explicit conduct, and (2) knowing that the conduct will be photographed. Arguably, actually photographing the minor is not an element of the crime. Rather, the crime is complete if the defendant poses, or causes the minor to be posed, with knowledge that the pose will be photographed. Yet, in affirming the State’s separate charges based upon separate photos, the majority necessarily concludes that the Legislature intended to punish the act of photographing, not the act of posing. I believe this result is inconsistent with both the statutory language and the Supreme Court’s decision in State v. Chester, 133 Wn.2d 15, 940 P.2d 1374 (1997).
+In Chester, the defendant was convicted of sexual exploitation of a minor for secretly photographing his partially nude stepdaughter. The court held that the defendant had not violated the statute because there was no evidence he aided, invited, employed, authorized or caused his stepdaughter to engage in sexually explicit conduct. Chester, 133 Wn.2d at 23. Thus, Chester tells us that a defendant does not violate the statute by merely photographing a minor in what may be sexually explicit conduct.
+And State v. Knutson, 64 Wn. App. 76, 823 P.2d 513 (1991), does not support the State’s position. In Knutson, the defendant was charged with and pleaded guilty to four counts of violating RCW 9.68A.040. The counts involved two victims, but Knutson stipulated that he posed and photographed each victim on two occasions. Knutson, 64 Wn. App. at 78-79. Because of this, the court held that the counts were not “multiplicitous” and that Knutson’s offender score was properly calculated. Id. at 80-81. Thus, Knutson did not hold that each photograph taken during one posing session is a separate crime under RCW 9.68A-.040.
+In conclusion, the statute is at least ambiguous as to whether the Legislature intended to punish the act of posing or the act of photographing, assuming the latter to be an element of the crime. Under the rule of lenity, we must construe the statute in favor of Root, i.e., the Legislature intended to punish posing. I would remand for a hearing to determine the number of separate counts Root committed. This finding would turn upon the number of poses Root caused with knowledge they would be photographed.
+Review granted at 139 Wn.2d 1001 (1999).
+The parties have not briefed or argued the issue of whether Root committed separate crimes with separate poses during each posing session. This issue should be addressed first by the trial court.
