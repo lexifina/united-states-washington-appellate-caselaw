@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44504-9-I"
 decided: "2000-08-21"
-citations: ["103 Wash. App. 1", "102 Wash. App. 1004"]
+citations: ["103 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James F. Ainslie, Petitioner.
 source_url: "https://static.case.law/wash-app/103/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102432
-cites_cases: ["103 Wn. App. 1", "115 Wn.2d 60", "121 Wn.2d 333", "129 Wn.2d 583", "135 Wn.2d 369", "137 Wn.2d 703", "64 Wn. App. 410", "794 P.2d 850", "824 P.2d 533", "851 P.2d 654", "919 P.2d 1218", "957 P.2d 741", "974 P.2d 832"]
+cites_cases: ["115 Wn.2d 60", "121 Wn.2d 333", "129 Wn.2d 583", "135 Wn.2d 369", "137 Wn.2d 703", "64 Wn. App. 410", "794 P.2d 850", "824 P.2d 533", "851 P.2d 654", "919 P.2d 1218", "957 P.2d 741", "974 P.2d 832"]
 ---
 
 # State v. Ainslie
