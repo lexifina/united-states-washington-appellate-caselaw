@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13476-1-I"
 decided: "1985-01-11"
-citations: ["39 Wash. App. 652", "39 Wash. App. 1046"]
+citations: ["39 Wash. App. 652"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Vincent M. R. Fitzgerald, App
 source_url: "https://static.case.law/wash-app/39/cases/0652-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1794333
-cites_cases: ["100 Wn.2d 131", "101 Wn.2d 1", "101 Wn.2d 349", "101 Wn.2d 566", "101 Wn.2d 713", "15 Wn. App. 39", "218 P.2d 300", "293 F. 1013", "305 S.E.2d 535", "309 N.C. 158", "31 Wn. App. 381", "33 Wn. App. 665", "36 Wn.2d 367", "383 Mass. 873", "39 Wn. App. 652", "403 N.E.2d 1191", "417 N.E.2d 438", "438 P.2d 620", "444 P.2d 661", "447 P.2d 727", "450 U.S. 1001", "454 U.S. 829", "458 P.2d 21", "547 P.2d 899", "585 P.2d 1185", "588 P.2d 1151", "604 F.2d 1199", "606 P.2d 1233", "633 F.2d 77", "639 P.2d 761", "640 P.2d 711", "643 F.2d 701", "655 P.2d 1185", "655 P.2d 697", "663 S.W.2d 235", "667 P.2d 68", "676 P.2d 975", "678 P.2d 332", "683 P.2d 173", "684 P.2d 651", "714 F.2d 765", "73 Wn.2d 360", "74 Wn.2d 386", "74 Wn.2d 888", "76 Wn.2d 513", "9 Mass. App. 680", "90 Wn.2d 808", "91 Wn.2d 342", "93 Wn.2d 173", "97 Wn.2d 83", "98 Wn.2d 358"]
+cites_cases: ["100 Wn.2d 131", "101 Wn.2d 1", "101 Wn.2d 349", "101 Wn.2d 566", "101 Wn.2d 713", "15 Wn. App. 39", "218 P.2d 300", "293 F. 1013", "305 S.E.2d 535", "309 N.C. 158", "31 Wn. App. 381", "33 Wn. App. 665", "36 Wn.2d 367", "383 Mass. 873", "403 N.E.2d 1191", "417 N.E.2d 438", "438 P.2d 620", "444 P.2d 661", "447 P.2d 727", "450 U.S. 1001", "454 U.S. 829", "458 P.2d 21", "547 P.2d 899", "585 P.2d 1185", "588 P.2d 1151", "604 F.2d 1199", "606 P.2d 1233", "633 F.2d 77", "639 P.2d 761", "640 P.2d 711", "643 F.2d 701", "655 P.2d 1185", "655 P.2d 697", "663 S.W.2d 235", "667 P.2d 68", "676 P.2d 975", "678 P.2d 332", "683 P.2d 173", "684 P.2d 651", "714 F.2d 765", "73 Wn.2d 360", "74 Wn.2d 386", "74 Wn.2d 888", "76 Wn.2d 513", "9 Mass. App. 680", "90 Wn.2d 808", "91 Wn.2d 342", "93 Wn.2d 173", "97 Wn.2d 83", "98 Wn.2d 358"]
 ---
 
 # State v. Fitzgerald
