@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7238-6-II"
 decided: "1984-03-29"
-citations: ["37 Wash. App. 378", "37 Wash. App. 1013"]
+citations: ["37 Wash. App. 378"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Personal Restraint of David V. Acosta, Petitione
 source_url: "https://static.case.law/wash-app/37/cases/0378-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1785041
-cites_cases: ["100 Wn.2d 508", "26 Wn. App. 486", "26 Wn. App. 526", "37 Wn. App. 378", "588 P.2d 1143", "599 P.2d 1275", "613 P.2d 1196", "616 P.2d 666", "627 P.2d 953", "671 P.2d 1212", "91 Wn.2d 336", "92 Wn.2d 555", "95 Wn.2d 551"]
+cites_cases: ["100 Wn.2d 508", "26 Wn. App. 486", "26 Wn. App. 526", "588 P.2d 1143", "599 P.2d 1275", "613 P.2d 1196", "616 P.2d 666", "627 P.2d 953", "671 P.2d 1212", "91 Wn.2d 336", "92 Wn.2d 555", "95 Wn.2d 551"]
 ---
 
 # In re the Personal Restraint of Acosta
