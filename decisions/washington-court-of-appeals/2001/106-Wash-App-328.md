@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45982-1-I"
 decided: "2001-04-23"
-citations: ["106 Wash. App. 328", "105 Wash. App. 1061"]
+citations: ["106 Wash. App. 328"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Karl Alan Schultz, Appellant.
 source_url: "https://static.case.law/wash-app/106/cases/0328-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240550
-cites_cases: ["100 Wn. App. 506", "106 Wn. App. 328", "11 P.3d 825", "145 Wn.2d 1001", "87 Wn. App. 305", "941 P.2d 697", "95 Wn. App. 751", "976 P.2d 1251", "997 P.2d 461"]
+cites_cases: ["100 Wn. App. 506", "11 P.3d 825", "145 Wn.2d 1001", "87 Wn. App. 305", "941 P.2d 697", "95 Wn. App. 751", "976 P.2d 1251", "997 P.2d 461"]
 ---
 
 # State v. Schultz
