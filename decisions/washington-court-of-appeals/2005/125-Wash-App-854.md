@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53111-5-I"
 decided: "2005-01-24"
-citations: ["125 Wash. App. 854", "125 Wash. App. 1018"]
+citations: ["125 Wash. App. 854"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Daniel H. McInally, Appellant
 source_url: "https://static.case.law/wash-app/125/cases/0854-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270116
-cites_cases: ["104 Wn.2d 73", "110 Wn.2d 528", "116 Wn.2d 563", "117 Wn.2d 829", "119 Wn.2d 572", "122 Wn.2d 738", "125 Wn. App. 854", "133 Wn.2d 828", "140 Wn.2d 250", "146 Wn.2d 339", "155 Wn.2d 1022", "32 Wn. App. 108", "46 P.3d 774", "56 Wn. App. 541", "640 P.2d 18", "645 P.2d 1143", "700 P.2d 1161", "756 P.2d 122", "784 P.2d 194", "79 Wn. App. 32", "79 Wn. App. 412", "807 P.2d 356", "822 P.2d 177", "835 P.2d 213", "863 P.2d 535", "899 P.2d 1312", "902 P.2d 678", "93 Wn. App. 120", "94 Wn. App. 57", "947 P.2d 1199", "96 Wn. App. 298", "96 Wn.2d 847", "966 P.2d 1279", "97 Wn. App. 750", "971 P.2d 94", "979 P.2d 911", "986 P.2d 836", "996 P.2d 610"]
+cites_cases: ["104 Wn.2d 73", "110 Wn.2d 528", "116 Wn.2d 563", "117 Wn.2d 829", "119 Wn.2d 572", "122 Wn.2d 738", "133 Wn.2d 828", "140 Wn.2d 250", "146 Wn.2d 339", "155 Wn.2d 1022", "32 Wn. App. 108", "46 P.3d 774", "56 Wn. App. 541", "640 P.2d 18", "645 P.2d 1143", "700 P.2d 1161", "756 P.2d 122", "784 P.2d 194", "79 Wn. App. 32", "79 Wn. App. 412", "807 P.2d 356", "822 P.2d 177", "835 P.2d 213", "863 P.2d 535", "899 P.2d 1312", "902 P.2d 678", "93 Wn. App. 120", "94 Wn. App. 57", "947 P.2d 1199", "96 Wn. App. 298", "96 Wn.2d 847", "966 P.2d 1279", "97 Wn. App. 750", "971 P.2d 94", "979 P.2d 911", "986 P.2d 836", "996 P.2d 610"]
 ---
 
 # State v. McInally
