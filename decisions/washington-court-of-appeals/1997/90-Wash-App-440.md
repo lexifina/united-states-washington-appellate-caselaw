@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38927-1-I"
 decided: "1997-12-22"
-citations: ["90 Wash. App. 440", "88 Wash. App. 1060"]
+citations: ["90 Wash. App. 440"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John M. Wascisin, et al., Petitioners, v. Steven Olsen, et al., Respo
 source_url: "https://static.case.law/wash-app/90/cases/0440-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428924
-cites_cases: ["105 Wn.2d 606", "108 Wn.2d 558", "120 Wn.2d 512", "136 Wn.2d 1003", "433 F.2d 1364", "67 Wn. App. 504", "717 P.2d 1353", "740 P.2d 1379", "837 P.2d 647", "844 P.2d 389", "90 Wn. App. 440"]
+cites_cases: ["105 Wn.2d 606", "108 Wn.2d 558", "120 Wn.2d 512", "136 Wn.2d 1003", "433 F.2d 1364", "67 Wn. App. 504", "717 P.2d 1353", "740 P.2d 1379", "837 P.2d 647", "844 P.2d 389"]
 ---
 
 # Wascisin v. Olsen
