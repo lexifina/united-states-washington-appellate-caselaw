@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52748-7-I"
 decided: "2004-08-23"
-citations: ["124 Wash. App. 238", "123 Wash. App. 1003"]
+citations: ["124 Wash. App. 238"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bellevue Square Managers, Inc., Respondent, v. GRS Clothing, Inc., De
 source_url: "https://static.case.law/wash-app/124/cases/0238-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684124
-cites_cases: ["100 Ark. 582", "100 Mass. 446", "103 Wn.2d 1036", "111 Wn. App. 118", "111 Wn.2d 1007", "112 Wash. 390", "112 Wn.2d 243", "124 Wn. App. 238", "14 S.E. 423", "140 S.W. 730", "148 A.L.R. 1361", "149 Wn.2d 1018", "15 L. Ed. 280", "150 F. 571", "16 S.E. 527", "160 Wash. 421", "168 P. 478", "17 Or. 532", "176 Wash. 436", "192 P. 622", "204 P.2d 831", "21 P. 871", "231 P.2d 335", "29 P.2d 684", "295 P. 179", "33 Wn.2d 126", "36 W. Va. 46", "37 W. Va. 215", "374 P.2d 546", "38 Wn.2d 649", "39 Wn. App. 688", "45 P.3d 562", "46 Wn. App. 517", "51 Wn. App. 285", "53 F.2d 58", "583 P.2d 621", "60 Wn.2d 543", "61 Wn. App. 678", "694 P.2d 1129", "731 P.2d 533", "753 P.2d 530", "770 P.2d 629", "811 P.2d 981", "9 Ga. 440", "90 Wn.2d 384", "92 Wn. App. 523", "93 Wn. App. 391", "963 P.2d 944", "968 P.2d 900", "98 Wash. 654"]
+cites_cases: ["100 Ark. 582", "100 Mass. 446", "103 Wn.2d 1036", "111 Wn. App. 118", "111 Wn.2d 1007", "112 Wash. 390", "112 Wn.2d 243", "14 S.E. 423", "140 S.W. 730", "148 A.L.R. 1361", "149 Wn.2d 1018", "15 L. Ed. 280", "150 F. 571", "16 S.E. 527", "160 Wash. 421", "168 P. 478", "17 Or. 532", "176 Wash. 436", "192 P. 622", "204 P.2d 831", "21 P. 871", "231 P.2d 335", "29 P.2d 684", "295 P. 179", "33 Wn.2d 126", "36 W. Va. 46", "37 W. Va. 215", "374 P.2d 546", "38 Wn.2d 649", "39 Wn. App. 688", "45 P.3d 562", "46 Wn. App. 517", "51 Wn. App. 285", "53 F.2d 58", "583 P.2d 621", "60 Wn.2d 543", "61 Wn. App. 678", "694 P.2d 1129", "731 P.2d 533", "753 P.2d 530", "770 P.2d 629", "811 P.2d 981", "9 Ga. 440", "90 Wn.2d 384", "92 Wn. App. 523", "93 Wn. App. 391", "963 P.2d 944", "968 P.2d 900", "98 Wash. 654"]
 ---
 
 # Bellevue Square Managers, Inc. v. GRS Clothing, Inc.
