@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39924-1-I"
 decided: "1998-06-29"
-citations: ["92 Wash. App. 743", "91 Wash. App. 1038"]
+citations: ["92 Wash. App. 743"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dixie L. Cole, Appellant, v. Red Lion, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/92/cases/0743-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853365
-cites_cases: ["102 Wn.2d 219", "111 Wn.2d 609", "117 Wn.2d 426", "118 Wn.2d 512", "124 Wn.2d 618", "131 Wn.2d 171", "617 P.2d 704", "685 P.2d 1081", "762 P.2d 1143", "79 Wn. App. 1", "815 P.2d 1362", "826 P.2d 664", "881 P.2d 201", "901 P.2d 313", "92 Wn. App. 743", "94 Wn.2d 359"]
+cites_cases: ["102 Wn.2d 219", "111 Wn.2d 609", "117 Wn.2d 426", "118 Wn.2d 512", "124 Wn.2d 618", "131 Wn.2d 171", "617 P.2d 704", "685 P.2d 1081", "762 P.2d 1143", "79 Wn. App. 1", "815 P.2d 1362", "826 P.2d 664", "881 P.2d 201", "901 P.2d 313", "94 Wn.2d 359"]
 ---
 
 # Cole v. Lion
