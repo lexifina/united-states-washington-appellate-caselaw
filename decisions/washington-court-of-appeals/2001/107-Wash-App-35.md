@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19254-7-III"
 decided: "2001-04-24"
-citations: ["107 Wash. App. 35", "106 Wash. App. 1001"]
+citations: ["107 Wash. App. 35"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Greg Wagg, Appellant, v. Estate of Bard A. Dunham, et al., Respondent
 source_url: "https://static.case.law/wash-app/107/cases/0035-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543368
-cites_cases: ["107 Wn. App. 35", "121 Wn.2d 833", "134 Wn.2d 267", "136 Wn.2d 195", "145 Wn.2d 1007", "492 P.2d 219", "65 Wn. App. 207", "80 Wn.2d 111", "828 P.2d 603", "854 P.2d 1061", "948 P.2d 1291", "961 P.2d 333", "98 Wn. App. 724", "991 P.2d 1169"]
+cites_cases: ["121 Wn.2d 833", "134 Wn.2d 267", "136 Wn.2d 195", "145 Wn.2d 1007", "492 P.2d 219", "65 Wn. App. 207", "80 Wn.2d 111", "828 P.2d 603", "854 P.2d 1061", "948 P.2d 1291", "961 P.2d 333", "98 Wn. App. 724", "991 P.2d 1169"]
 ---
 
 # Wagg v. Estate of Dunham
