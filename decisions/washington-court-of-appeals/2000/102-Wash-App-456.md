@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24091-2-II"
 decided: "2000-08-18"
-citations: ["102 Wash. App. 456", "102 Wash. App. 1001"]
+citations: ["102 Wash. App. 456"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Estate of Clarence Lester Peterson. Betty P. Ian
 source_url: "https://static.case.law/wash-app/102/cases/0456-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301308
-cites_cases: ["102 Wn. App. 456", "107 P. 191", "113 P.2d 54", "117 Wn.2d 1017", "124 Wn.2d 749", "135 P. 494", "135 Wn.2d 518", "138 Wn.2d 650", "138 Wn.2d 699", "139 P. 61", "142 Wn.2d 1021", "23 Wn. App. 761", "453 P.2d 631", "455 P.2d 585", "482 P.2d 775", "54 Wn. App. 225", "57 Wash. 477", "598 P.2d 7", "61 Wn. App. 195", "75 Wn.2d 660", "76 Wash. 27", "76 Wn. App. 863", "76 Wn.2d 59", "772 P.2d 1049", "78 Wash. 309", "79 Wn.2d 12", "8 Wn.2d 622", "810 P.2d 31", "818 P.2d 1099", "839 F.2d 1380", "881 P.2d 216", "889 P.2d 501", "89 Wn. App. 670", "95 Wn. App. 405", "950 P.2d 29", "957 P.2d 755", "974 P.2d 872", "981 P.2d 439", "985 P.2d 262"]
+cites_cases: ["107 P. 191", "113 P.2d 54", "117 Wn.2d 1017", "124 Wn.2d 749", "135 P. 494", "135 Wn.2d 518", "138 Wn.2d 650", "138 Wn.2d 699", "139 P. 61", "142 Wn.2d 1021", "23 Wn. App. 761", "453 P.2d 631", "455 P.2d 585", "482 P.2d 775", "54 Wn. App. 225", "57 Wash. 477", "598 P.2d 7", "61 Wn. App. 195", "75 Wn.2d 660", "76 Wash. 27", "76 Wn. App. 863", "76 Wn.2d 59", "772 P.2d 1049", "78 Wash. 309", "79 Wn.2d 12", "8 Wn.2d 622", "810 P.2d 31", "818 P.2d 1099", "839 F.2d 1380", "881 P.2d 216", "889 P.2d 501", "89 Wn. App. 670", "95 Wn. App. 405", "950 P.2d 29", "957 P.2d 755", "974 P.2d 872", "981 P.2d 439", "985 P.2d 262"]
 ---
 
 # Ianicelli v. Peterson
