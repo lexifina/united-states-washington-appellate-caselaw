@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9952-1-III"
 decided: "1990-03-15"
-citations: ["57 Wash. App. 682", "57 Wash. App. 1011"]
+citations: ["57 Wash. App. 682"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert Simmerman, Appellant, v. U-Haul Company of Inland Northwest, R
 source_url: "https://static.case.law/wash-app/57/cases/0682-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1757119
-cites_cases: ["104 Wn.2d 627", "106 Wn.2d 1", "107 Wn.2d 563", "109 Wn.2d 357", "111 Wn.2d 903", "203 N.W.2d 594", "23 Wn. App. 78", "56 Wn. App. 349", "568 P.2d 764", "57 Wn. App. 682", "596 P.2d 1069", "708 P.2d 393", "721 P.2d 1", "731 P.2d 497", "745 P.2d 34", "766 P.2d 1099", "783 P.2d 611", "88 Wn.2d 887", "92 Wn.2d 1026"]
+cites_cases: ["104 Wn.2d 627", "106 Wn.2d 1", "107 Wn.2d 563", "109 Wn.2d 357", "111 Wn.2d 903", "203 N.W.2d 594", "23 Wn. App. 78", "56 Wn. App. 349", "568 P.2d 764", "596 P.2d 1069", "708 P.2d 393", "721 P.2d 1", "731 P.2d 497", "745 P.2d 34", "766 P.2d 1099", "783 P.2d 611", "88 Wn.2d 887", "92 Wn.2d 1026"]
 ---
 
 # Simmerman v. U-Haul Co.
