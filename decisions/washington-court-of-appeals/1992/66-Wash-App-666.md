@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "13979-1-II"
+decided: "1992-07-27"
+citations: ["66 Wash. App. 666"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Juanita Korba, Appellant."]
+source_url: "https://static.case.law/wash-app/66/cases/0666-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1703251
+cites_cases: ["105 A.L.R. 1234", "105 Wn.2d 67", "11 Wash. 435", "116 P. 19", "116 Wn.2d 859", "120 Wash. 569", "145 P.2d 554", "150 Wash. 542", "185 P.2d 723", "187 Wash. 61", "192 Wash. 379", "20 Wn.2d 47", "208 P. 47", "273 P. 748", "277 P. 999", "29 Wn.2d 68", "39 P. 974", "48 Wn. App. 303", "59 P.2d 1117", "63 Wash. 457", "664 P.2d 1227", "711 P.2d 345", "73 P.2d 1334", "738 P.2d 1076", "810 P.2d 888", "99 Wn.2d 815"]
+---
+
+# State v. Korba
+
+## Majority (Petrich, C.J.)
+
+Petrich, C.J.
+Juanita Korba appeals her convictions for injury to record, misappropriation of record, and theft in the third degree. She contends that she was improperly charged because she was not a public officer under RCW 40.16.020. She also challenges the sufficiency of the evidence in support of the verdicts, the reasonableness of the search for evidence, the failure to provide her with union representation, and the fairness of the trial due to juror misconduct. We affirm.
+The Tacoma-Pierce County Department of Health employed Juanita Korba in its Vital Records Office where the County records birth and death certificates and provides copies of the same to the public. After suspecting that Korba was not properly ringing up her transactions, David Fiorino, Korba's supervisor, contacted the State Examiner's office and the Tacoma Police Department. Four Tacoma police detectives set up a surveillance operation and, eventually, a sting operation. In separate transactions two undercover officers, each with $22 in marked bills, the amount required for each to obtain two copies of birth certificates, applied for the certificates, and passed the money to Korba while she was tending the front counter and cash register. After reviewing the cash register tape, the cash receipts, and the applications for birth certificate records, the detectives could not find the applications they had filled out. Jean Bruneau, an office worker, located the records in Korba's wastebasket. The detectives then obtained a search warrant and searched Korba's purse. There they found an envelope containing five unfiled original certificates of five birth, which had been mailed to the office by a Sumner midwife, $43 in marked bills, and another $96, which they returned to Korba.
+A jury found Korba guilty of four counts of injury to record, RCW 40.16.020, one count of misappropriation of record, RCW 40.16.020, and one count of theft in the third degree, RCW 9A.56.050(1) and .020(1)(a). The jury acquitted Korba of two counts of injury to record.
+Officer or Public Officer
+Korba contends that the trial court erred in defining an officer and public officer for the jury according to RCW Title 9A and in refusing her requested instruction, which relied on RCW Titles 70 and 36. She contends that the State's evidence failed to show that she was a public officer under this proposed instruction.
+The trial court in instruction 6 instructed the jury as follows:
+Officer and public officer means [sic] a person holding office under a city, county, or state government, who performs a public function and in so doing is vested with the exercise of some sovereign power of government, and includes all assistants, deputies, clerks, and employees of any public officer and all persons lawfully exercising or assuming to exercise any of the powers or functions of a public officer.
+This instruction is substantially identical to the statute it derives from, RCW 9A.04.110(13), and WPIC 2.14.
+Relying upon civil cases, Korba contends that the trial court erred by ignoring the common law definition of a public officer, which is much more restrictive than that given by the trial court. Under the common law, neither a deputy nor an employee is a public officer. Nelson v. Troy, 11 Wash. 435, 39 P. 974 (1895); State ex rel. Allen v. Spokane, 150 Wash. 542, 547, 273 P. 748, 277 P. 999 (1929). Commissioners appointed by a municipality to make an assessment of benefits created by a public improvement are not officers of the municipality. Bilger v. State, 63 Wash. 457, 470, 116 P. 19 (1911). A teacher is an employee, not a public officer and therefore not entitled to a formal hearing before being discharged. State ex rel. Board of Directors of Sch. Dist. 306 v. Preston, 120 Wash. 569, 571, 208 P. 47 (1922). A court reporter, though an officer of the court, is not a public officer. State ex rel. Brown v. Blew, 20 Wn.2d 47, 145 P.2d 554 (1944). A legislative council is not a public office because there was no delegation of sovereign governmental functions. State ex rel. Hamblen v. Yelle, 29 Wn.2d 68, 185 P.2d 723 (1947). A budget director is neither an officer nor a deputy. Smith v. Board of Walla Walla Cy. Comm'rs, 48 Wn. App. 303, 308-09, 738 P.2d 1076 (1987). See also State v. Straka, 116 Wn.2d 859, 892-94, 810 P.2d 888 (1991) (Smith, J., dissenting, arguing that State toxicologist is a public officer). See generally State ex rel. Johnston v. Melton, 192 Wash. 379, 384, 73 P.2d 1334 (1937); State ex rel. McIntosh v. Hutchinson, 187 Wash. 61, 63-64, 59 P.2d 1117, 105 A.L.R. 1234 (1936).
+These cases, however, do not apply in the criminal context. An examination of the legislative history of RCW 9A.04-.110(13) explains why. The false premise in Korba's analysis is that the Legislature adopted this criminal definition in 1975 and, therefore, could not have intended for it to apply to crimes enacted in 1909. In 1909, the Legislature enacted Laws of 1909, ch. 249, entitled "Criminal Code." Chapter 1, section 51, a definition section, defined "public officer":
+24. The words "officer" and "public officer" shall include all assistants, deputies, clerks and employes of any public officer and all persons exercising or assuming to exercise any of the powers or functions of a public officer.
+The Legislature recodified this definition section later as RCW 9.01.010, which the Legislature repealed by Laws of 1975, 1st Ex. Sess, ch. 260, and enacted as RCW 9A.04.110(13). The 1909 Legislature entitled Laws of 1909, ch. 249, chapter 4 "Crimes by or Against Public Officers", and included the injury to and misappropriation of public records provisions that are the subject of the present case. Laws of 1909, ch. 249, §§ 95-96. Clearly, the 1909 Legislature intended for the criminal code definition of public officer to apply to the public records provisions as it was part of the same legislative act. Our duty is to give effect to the intent of the Legislature. Grant v. Spellman, 99 Wn.2d 815, 818, 664 P.2d 1227 (1983). If a statute is plain and clear, we will not read into it things that are not there. In re Taylor, 105 Wn.2d 67, 69, 711 P.2d 345 (1985). Thus, the trial court's use of WPIC 2.14 to define "public officer" as used in RCW 40.16.020 was proper.
+A majority of the panel having determined that only the foregoing portion of this opinion will be published in the Washington Appellate Reports and the remainder will be filed for public record pursuant to RCW 2.06.040, it is so ordered.
+Judgment affirmed.
+Alexander and Morgan, JJ., concur.
+Former RCW 40.16.020 provides:
+"Every officer who shall mutilate, destroy, conceal, erase, obliterate or falsify any record or paper appertaining to his office, or who shall fraudulently appropriate to his own use or to the use of another person, or secrete with intent to appropriate to such use, any money, evidence of debt or other property intrusted to him by virtue of his office, shall be punished by imprisonment in the state penitentiary for not more than ten years, or by a fine of not more than five thousand dollars, or by both." Laws of 1909, ch. 249, § 96.
+RCW 9A.56.050(1) provides:
+"A person is guilty of theft in the third degree if he commits theft of property or services which does not exceed two hundred and fifty dollars in value."
+RCW 9A.56.020(1)(a) provides:
+" 'Theft' means:
+"(a) To wrongfully obtain or exert unauthorized control over the property or services of another or the value thereof, with intent to deprive him of such property or services; . . ."
+Korba's proposed instructions provided:
+"You are instructed that in all cases where the duties of any county officer are greater than can be performed by the person elected to fill it, the officer may employ deputies and other necessary employees with the consent of the Board of Commissioners.
+"You are instructed that each local registrar, subject to the approval of the state Registrar, shall appoint, in writing, a sufficient number of deputy registrars to administer the law relating to vital statistics and shall certify the appointments of such deputies to the state Registrar."
