@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45825-6-I"
 decided: "2001-03-19"
-citations: ["106 Wash. App. 493", "105 Wash. App. 1023"]
+citations: ["106 Wash. App. 493"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. M.A., Appellant."]
 source_url: "https://static.case.law/wash-app/106/cases/0493-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240328
-cites_cases: ["103 Wn.2d 1012", "106 Wn. App. 493", "113 Wn.2d 1040", "115 Wn.2d 1021", "118 Wn.2d 1016", "122 Wn.2d 440", "136 Wn.2d 1024", "332 F. Supp. 1269", "38 Wn. App. 831", "383 U.S. 541", "440 P.2d 422", "442 P.2d 632", "453 P.2d 418", "471 U.S. 1067", "499 U.S. 960", "538 P.2d 1212", "55 Wn. App. 725", "60 Wn. App. 131", "63 Wn. App. 63", "656 P.2d 1056", "690 P.2d 1175", "73 Wn.2d 734", "74 Wn.2d 9", "75 Wn.2d 604", "780 P.2d 873", "803 P.2d 340", "817 P.2d 413", "85 Wn.2d 719", "858 P.2d 1092", "90 Wn. App. 852", "954 P.2d 360", "98 Wn.2d 507"]
+cites_cases: ["103 Wn.2d 1012", "113 Wn.2d 1040", "115 Wn.2d 1021", "118 Wn.2d 1016", "122 Wn.2d 440", "136 Wn.2d 1024", "332 F. Supp. 1269", "38 Wn. App. 831", "383 U.S. 541", "440 P.2d 422", "442 P.2d 632", "453 P.2d 418", "471 U.S. 1067", "499 U.S. 960", "538 P.2d 1212", "55 Wn. App. 725", "60 Wn. App. 131", "63 Wn. App. 63", "656 P.2d 1056", "690 P.2d 1175", "73 Wn.2d 734", "74 Wn.2d 9", "75 Wn.2d 604", "780 P.2d 873", "803 P.2d 340", "817 P.2d 413", "85 Wn.2d 719", "858 P.2d 1092", "90 Wn. App. 852", "954 P.2d 360", "98 Wn.2d 507"]
 ---
 
 # State v. M.A.
