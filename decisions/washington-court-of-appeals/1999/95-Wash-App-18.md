@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22060-1-II"
 decided: "1999-03-05"
-citations: ["95 Wash. App. 18", "94 Wash. App. 1027"]
+citations: ["95 Wash. App. 18"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William Dewey, Appellant, v. Tacoma School District No. 10, et al., R
 source_url: "https://static.case.law/wash-app/95/cases/0018-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254837
-cites_cases: ["100 Wn.2d 343", "107 Wn.2d 761", "108 Wn.2d 162", "109 Wn.2d 235", "114 Wn.2d 373", "123 Wn.2d 835", "125 Wn.2d 413", "131 Wn.2d 1", "371 U.S. 178", "45 Wn. App. 192", "515 P.2d 540", "586 P.2d 845", "59 Wn. App. 166", "65 Wn. App. 71", "670 P.2d 240", "71 Wn. App. 382", "724 P.2d 425", "733 P.2d 530", "736 P.2d 249", "744 P.2d 605", "787 P.2d 1366", "796 P.2d 1285", "828 P.2d 12", "84 Wn. App. 332", "859 P.2d 613", "872 P.2d 1080", "886 P.2d 172", "9 Wn. App. 797", "90 Wn.2d 846", "929 P.2d 396", "929 P.2d 448", "95 Wn. App. 18"]
+cites_cases: ["100 Wn.2d 343", "107 Wn.2d 761", "108 Wn.2d 162", "109 Wn.2d 235", "114 Wn.2d 373", "123 Wn.2d 835", "125 Wn.2d 413", "131 Wn.2d 1", "371 U.S. 178", "45 Wn. App. 192", "515 P.2d 540", "586 P.2d 845", "59 Wn. App. 166", "65 Wn. App. 71", "670 P.2d 240", "71 Wn. App. 382", "724 P.2d 425", "733 P.2d 530", "736 P.2d 249", "744 P.2d 605", "787 P.2d 1366", "796 P.2d 1285", "828 P.2d 12", "84 Wn. App. 332", "859 P.2d 613", "872 P.2d 1080", "886 P.2d 172", "9 Wn. App. 797", "90 Wn.2d 846", "929 P.2d 396", "929 P.2d 448"]
 ---
 
 # Dewey v. Tacoma School District No. 10
