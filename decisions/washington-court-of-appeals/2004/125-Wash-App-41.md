@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53418-1-I"
 decided: "2004-11-08"
-citations: ["125 Wash. App. 41", "124 Wash. App. 1007"]
+citations: ["125 Wash. App. 41"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Gerald A. Shellenbarger, et al., Appellants, v. Longview Fibre Compan
 source_url: "https://static.case.law/wash-app/125/cases/0041-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1269979
-cites_cases: ["108 Wn. App. 185", "119 Wn. App. 61", "125 Wn. App. 41", "127 Wn.2d 853", "135 Wn.2d 658", "154 Wn.2d 1021", "29 P.3d 1268", "453 Mich. 149", "551 N.W.2d 132", "79 P.3d 6", "80 Wn. App. 775", "904 P.2d 278", "912 P.2d 501", "95 Wn. App. 802", "958 P.2d 301", "977 P.2d 660"]
+cites_cases: ["108 Wn. App. 185", "119 Wn. App. 61", "127 Wn.2d 853", "135 Wn.2d 658", "154 Wn.2d 1021", "29 P.3d 1268", "453 Mich. 149", "551 N.W.2d 132", "79 P.3d 6", "80 Wn. App. 775", "904 P.2d 278", "912 P.2d 501", "95 Wn. App. 802", "958 P.2d 301", "977 P.2d 660"]
 ---
 
 # Shellenbarger v. Longview Fibre Co.
