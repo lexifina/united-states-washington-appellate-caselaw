@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26241-6-I"
 decided: "1992-08-17"
-citations: ["67 Wash. App. 448", "66 Wash. App. 1069"]
+citations: ["67 Wash. App. 448"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jorge Llamas-Villa, Appellant
 source_url: "https://static.case.law/wash-app/67/cases/0448-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715283
-cites_cases: ["102 Wn.2d 506", "106 Wn.2d 54", "110 Wn.2d 682", "111 Wn.2d 923", "113 Wn.2d 213", "151 Cal. App. 3d 1128", "199 Cal. Rptr. 357", "466 U.S. 668", "480 U.S. 79", "499 F.2d 1135", "518 F.2d 269", "52 Wn. App. 581", "53 Wn. App. 527", "67 Wn. App. 448", "688 P.2d 151", "720 P.2d 808", "757 P.2d 492", "76 A.L.R.4th 517", "762 P.2d 20", "767 P.2d 572", "768 P.2d 530", "777 P.2d 1046"]
+cites_cases: ["102 Wn.2d 506", "106 Wn.2d 54", "110 Wn.2d 682", "111 Wn.2d 923", "113 Wn.2d 213", "151 Cal. App. 3d 1128", "199 Cal. Rptr. 357", "466 U.S. 668", "480 U.S. 79", "499 F.2d 1135", "518 F.2d 269", "52 Wn. App. 581", "53 Wn. App. 527", "688 P.2d 151", "720 P.2d 808", "757 P.2d 492", "76 A.L.R.4th 517", "762 P.2d 20", "767 P.2d 572", "768 P.2d 530", "777 P.2d 1046"]
 ---
 
 # State v. Llamas-Villa
