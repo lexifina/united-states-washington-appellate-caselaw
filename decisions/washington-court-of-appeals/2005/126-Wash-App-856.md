@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53635-4-I"
 decided: "2005-01-24"
-citations: ["126 Wash. App. 856", "125 Wash. App. 1019"]
+citations: ["126 Wash. App. 856"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Graoch Associates #5 Limited Partnership, Plaintiff, v. Titan Constru
 source_url: "https://static.case.law/wash-app/126/cases/0856-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016519
-cites_cases: ["10 P.3d 417", "102 Wn. App. 422", "111 Wn. App. 725", "115 Wn. App. 1021", "117 Wn. App. 157", "118 Wn.2d 801", "123 Wn.2d 160", "123 Wn.2d 621", "123 Wn.2d 678", "125 Wn.2d 337", "126 Wn. App. 856", "129 Wn.2d 565", "134 Wn.2d 491", "137 Wn.2d 683", "148 Wn.2d 1005", "16 Wn. App. 660", "180 Wash. 230", "2003 WL 257282", "27 Ill. App. 3d 26", "326 N.E.2d 216", "39 P.2d 370", "43 Wn. App. 387", "45 P.3d 1142", "47 Wn. App. 767", "558 P.2d 276", "70 P.3d 966", "717 P.2d 285", "736 P.2d 1075", "828 P.2d 549", "866 P.2d 31", "869 P.2d 1034", "871 P.2d 146", "883 P.2d 1383", "919 P.2d 594", "93 Wn. App. 202", "951 P.2d 761", "969 P.2d 486", "974 P.2d 836", "98 Wn. App. 286", "991 P.2d 638"]
+cites_cases: ["10 P.3d 417", "102 Wn. App. 422", "111 Wn. App. 725", "115 Wn. App. 1021", "117 Wn. App. 157", "118 Wn.2d 801", "123 Wn.2d 160", "123 Wn.2d 621", "123 Wn.2d 678", "125 Wn.2d 337", "129 Wn.2d 565", "134 Wn.2d 491", "137 Wn.2d 683", "148 Wn.2d 1005", "16 Wn. App. 660", "180 Wash. 230", "2003 WL 257282", "27 Ill. App. 3d 26", "326 N.E.2d 216", "39 P.2d 370", "43 Wn. App. 387", "45 P.3d 1142", "47 Wn. App. 767", "558 P.2d 276", "70 P.3d 966", "717 P.2d 285", "736 P.2d 1075", "828 P.2d 549", "866 P.2d 31", "869 P.2d 1034", "871 P.2d 146", "883 P.2d 1383", "919 P.2d 594", "93 Wn. App. 202", "951 P.2d 761", "969 P.2d 486", "974 P.2d 836", "98 Wn. App. 286", "991 P.2d 638"]
 ---
 
 # Graoch Associates #5 Ltd. Partnership v. Titan Construction Corp.
