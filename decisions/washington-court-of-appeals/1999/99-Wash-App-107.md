@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43383-1-I"
 decided: "1999-12-06"
-citations: ["99 Wash. App. 107", "98 Wash. App. 1025"]
+citations: ["99 Wash. App. 107"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Laurie McCormick, Appellant, v. Lake Washington School District, Resp
 source_url: "https://static.case.law/wash-app/99/cases/0107-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181082
-cites_cases: ["109 Wn.2d 427", "11 Wn. App. 763", "118 Wn.2d 801", "121 Wn.2d 715", "124 Wn.2d 158", "125 Wn.2d 500", "40 Wn. App. 116", "408 U.S. 564", "419 P.2d 1002", "424 P.2d 290", "456 P.2d 322", "515 P.2d 977", "525 P.2d 278", "56 Wn. App. 181", "588 P.2d 729", "616 P.2d 644", "63 Wn. App. 170", "63 Wn. App. 355", "656 P.2d 1030", "69 Wn.2d 658", "697 P.2d 280", "70 Wn.2d 522", "745 P.2d 504", "75 Wn. App. 224", "76 Wn.2d 313", "782 P.2d 1107", "817 P.2d 861", "818 P.2d 1127", "828 P.2d 549", "83 Wn.2d 97", "853 P.2d 1373", "876 P.2d 435", "877 P.2d 231", "88 Wn. App. 586", "886 P.2d 160", "90 Wn. App. 186", "91 Wn.2d 173", "94 Wn.2d 255", "945 P.2d 752", "951 P.2d 280", "98 Wn.2d 434", "99 Wn. App. 107"]
+cites_cases: ["109 Wn.2d 427", "11 Wn. App. 763", "118 Wn.2d 801", "121 Wn.2d 715", "124 Wn.2d 158", "125 Wn.2d 500", "40 Wn. App. 116", "408 U.S. 564", "419 P.2d 1002", "424 P.2d 290", "456 P.2d 322", "515 P.2d 977", "525 P.2d 278", "56 Wn. App. 181", "588 P.2d 729", "616 P.2d 644", "63 Wn. App. 170", "63 Wn. App. 355", "656 P.2d 1030", "69 Wn.2d 658", "697 P.2d 280", "70 Wn.2d 522", "745 P.2d 504", "75 Wn. App. 224", "76 Wn.2d 313", "782 P.2d 1107", "817 P.2d 861", "818 P.2d 1127", "828 P.2d 549", "83 Wn.2d 97", "853 P.2d 1373", "876 P.2d 435", "877 P.2d 231", "88 Wn. App. 586", "886 P.2d 160", "90 Wn. App. 186", "91 Wn.2d 173", "94 Wn.2d 255", "945 P.2d 752", "951 P.2d 280", "98 Wn.2d 434"]
 ---
 
 # McCormick v. Lake Washington School District
