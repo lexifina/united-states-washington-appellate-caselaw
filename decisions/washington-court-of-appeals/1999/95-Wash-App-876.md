@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22750-9-II"
 decided: "1999-05-07"
-citations: ["95 Wash. App. 876", "95 Wash. App. 1031"]
+citations: ["95 Wash. App. 876"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Tacoma, Respondent, v. William P. Durham, Appellant."]
 source_url: "https://static.case.law/wash-app/95/cases/0876-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254728
-cites_cases: ["123 Wn.2d 296", "123 Wn.2d 737", "127 Wn.2d 322", "387 U.S. 294", "419 U.S. 808", "43 Wn. App. 547", "513 U.S. 849", "517 P.2d 585", "621 P.2d 1285", "718 P.2d 819", "83 Wn.2d 219", "868 P.2d 835", "899 P.2d 1251", "92 Wn. App. 307", "95 Wn. App. 876", "95 Wn.2d 265", "966 P.2d 915"]
+cites_cases: ["123 Wn.2d 296", "123 Wn.2d 737", "127 Wn.2d 322", "387 U.S. 294", "419 U.S. 808", "43 Wn. App. 547", "513 U.S. 849", "517 P.2d 585", "621 P.2d 1285", "718 P.2d 819", "83 Wn.2d 219", "868 P.2d 835", "899 P.2d 1251", "92 Wn. App. 307", "95 Wn.2d 265", "966 P.2d 915"]
 ---
 
 # City of Tacoma v. Durham
