@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17822-6-III"
 decided: "2000-02-15"
-citations: ["101 Wash. App. 43", "99 Wash. App. 1037"]
+citations: ["101 Wash. App. 43"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Nancy Hogan, Respondent, v. Sacred Heart Medical Center, et al., Appe
 source_url: "https://static.case.law/wash-app/101/cases/0043-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170635
-cites_cases: ["101 Wn. App. 43", "110 Wn.2d 483", "110 Wn.2d 695", "122 Wn.2d 426", "134 Wn.2d 131", "142 Wn.2d 1014", "529 P.2d 1068", "658 P.2d 1230", "68 Wn. App. 427", "71 Wn. App. 599", "756 P.2d 111", "756 P.2d 717", "80 Wn. App. 592", "842 P.2d 1047", "85 Wn.2d 95", "858 P.2d 503", "860 P.2d 423", "910 P.2d 522", "948 P.2d 828", "98 Wn.2d 708"]
+cites_cases: ["110 Wn.2d 483", "110 Wn.2d 695", "122 Wn.2d 426", "134 Wn.2d 131", "142 Wn.2d 1014", "529 P.2d 1068", "658 P.2d 1230", "68 Wn. App. 427", "71 Wn. App. 599", "756 P.2d 111", "756 P.2d 717", "80 Wn. App. 592", "842 P.2d 1047", "85 Wn.2d 95", "858 P.2d 503", "860 P.2d 423", "910 P.2d 522", "948 P.2d 828", "98 Wn.2d 708"]
 ---
 
 # Hogan v. Sacred Heart Medical Center
