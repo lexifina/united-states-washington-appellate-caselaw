@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11861-4-III"
 decided: "1993-12-28"
-citations: ["72 Wash. App. 265", "74 Wash. App. 917"]
+citations: ["72 Wash. App. 265"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["RCL Northwest, Inc., et al, Respondents, v. Colorado Resources, Inc.,
 source_url: "https://static.case.law/wash-app/72/cases/0265-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1741981
-cites_cases: ["108 Wn.2d 1008", "114 Wn.2d 153", "13 Wn. App. 378", "14 Wn. App. 939", "15 Wn. App. 223", "18 U.S.C. § 1961", "332 F. Supp. 536", "382 U.S. 1025", "383 U.S. 363", "403 P.2d 351", "414 U.S. 867", "44 Wn. App. 707", "475 F.2d 1112", "534 P.2d 1036", "546 P.2d 1230", "548 P.2d 558", "59 Wn. App. 332", "66 Wn.2d 469", "72 Wn. App 265", "723 P.2d 22", "786 P.2d 781", "798 P.2d 1155", "87 Wn.2d 1006"]
+cites_cases: ["108 Wn.2d 1008", "114 Wn.2d 153", "13 Wn. App. 378", "14 Wn. App. 939", "15 Wn. App. 223", "18 U.S.C. § 1961", "332 F. Supp. 536", "382 U.S. 1025", "383 U.S. 363", "403 P.2d 351", "414 U.S. 867", "44 Wn. App. 707", "475 F.2d 1112", "534 P.2d 1036", "546 P.2d 1230", "548 P.2d 558", "59 Wn. App. 332", "66 Wn.2d 469", "723 P.2d 22", "786 P.2d 781", "798 P.2d 1155", "87 Wn.2d 1006"]
 ---
 
 # RCL Northwest, Inc. v. Colorado Resources, Inc.
