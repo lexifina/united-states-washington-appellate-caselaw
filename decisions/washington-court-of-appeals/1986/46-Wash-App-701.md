@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16283-7-I"
 decided: "1986-12-22"
-citations: ["46 Wash. App. 701", "46 Wash. App. 1017"]
+citations: ["46 Wash. App. 701"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Lisa Jo Johnson, Appellant, v. The Department of Licensing, Responden
 source_url: "https://static.case.law/wash-app/46/cases/0701-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1811996
-cites_cases: ["402 U.S. 535", "403 P.2d 889", "46 Wn. App. 701", "551 P.2d 748", "561 P.2d 1085", "643 P.2d 441", "66 Wn.2d 585", "87 Wn.2d 217", "88 Wn.2d 385", "97 Wn.2d 203"]
+cites_cases: ["402 U.S. 535", "403 P.2d 889", "551 P.2d 748", "561 P.2d 1085", "643 P.2d 441", "66 Wn.2d 585", "87 Wn.2d 217", "88 Wn.2d 385", "97 Wn.2d 203"]
 ---
 
 # Johnson v. Department of Licensing
