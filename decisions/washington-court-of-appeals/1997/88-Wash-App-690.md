@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39891-1-I; 39892-0-I"
 decided: "1997-10-20"
-citations: ["88 Wash. App. 690", "87 Wash. App. 1108"]
+citations: ["88 Wash. App. 690"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of O. J., et al. Gwendolyn May, Appel
 source_url: "https://static.case.law/wash-app/88/cases/0690-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592261
-cites_cases: ["104 Wn.2d 142", "112 Wn.2d 1017", "118 Wn.2d 596", "118 Wn.2d 801", "126 Wn.2d 315", "128 Wn.2d 129", "135 Wn.2d 1002", "23 Wn. App. 767", "27 Wn. App. 549", "504 P.2d 1156", "53 Wn. App. 22", "598 P.2d 3", "619 P.2d 366", "70 A.L.R.4th 1021", "702 P.2d 1179", "72 Wn. App. 544", "765 P.2d 307", "8 Wn. App. 61", "826 P.2d 172", "828 P.2d 549", "837 P.2d 599", "86 Wn. App. 761", "865 P.2d 33", "88 Wn. App. 690", "893 P.2d 629", "904 P.2d 1132", "92 Wn.2d 1036", "938 P.2d 345"]
+cites_cases: ["104 Wn.2d 142", "112 Wn.2d 1017", "118 Wn.2d 596", "118 Wn.2d 801", "126 Wn.2d 315", "128 Wn.2d 129", "135 Wn.2d 1002", "23 Wn. App. 767", "27 Wn. App. 549", "504 P.2d 1156", "53 Wn. App. 22", "598 P.2d 3", "619 P.2d 366", "70 A.L.R.4th 1021", "702 P.2d 1179", "72 Wn. App. 544", "765 P.2d 307", "8 Wn. App. 61", "826 P.2d 172", "828 P.2d 549", "837 P.2d 599", "86 Wn. App. 761", "865 P.2d 33", "893 P.2d 629", "904 P.2d 1132", "92 Wn.2d 1036", "938 P.2d 345"]
 ---
 
 # May v. Department of Social & Health Services
