@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41843-2-I"
 decided: "1999-08-16"
-citations: ["97 Wash. App. 598", "96 Wash. App. 1074"]
+citations: ["97 Wash. App. 598"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Personal Restraint of Matthew S. Crowder, Petiti
 source_url: "https://static.case.law/wash-app/97/cases/0598-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 183736
-cites_cases: ["112 Wn.2d 546", "128 Wn.2d 56", "129 Wn.2d 279", "400 U.S. 25", "493 U.S. 1004", "515 U.S. 472", "772 P.2d 510", "904 P.2d 722", "916 P.2d 405", "97 Wn. App. 598"]
+cites_cases: ["112 Wn.2d 546", "128 Wn.2d 56", "129 Wn.2d 279", "400 U.S. 25", "493 U.S. 1004", "515 U.S. 472", "772 P.2d 510", "904 P.2d 722", "916 P.2d 405"]
 ---
 
 # In re the Personal Restraint of Crowder
