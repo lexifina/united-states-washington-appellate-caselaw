@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10270-6-II"
 decided: "1988-05-20"
-citations: ["51 Wash. App. 954", "51 Wash. App. 1040"]
+citations: ["51 Wash. App. 954"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lyle R. Sorenson, et al, Respondents, v. Raymark Industries, Inc., et
 source_url: "https://static.case.law/wash-app/51/cases/0954-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591890
-cites_cases: ["104 Wn.2d 1021", "104 Wn.2d 254", "107 Wn.2d 524", "108 S. Ct. 67", "112 P.2d 850", "149 Wash. 631", "272 P. 32", "3 Wn. App. 508", "344 P.2d 207", "40 Wn. App. 802", "41 Wn. App. 495", "432 P.2d 293", "476 P.2d 713", "51 Wn. App. 954", "54 Wn.2d 665", "545 P.2d 13", "622 P.2d 1246", "664 P.2d 474", "701 P.2d 518", "704 P.2d 1236", "704 P.2d 600", "72 Wn.2d 196", "730 P.2d 1299", "785 F.2d 79", "8 Wn.2d 447", "86 Wn.2d 293", "95 Wn.2d 306", "99 Wn.2d 609"]
+cites_cases: ["104 Wn.2d 1021", "104 Wn.2d 254", "107 Wn.2d 524", "108 S. Ct. 67", "112 P.2d 850", "149 Wash. 631", "272 P. 32", "3 Wn. App. 508", "344 P.2d 207", "40 Wn. App. 802", "41 Wn. App. 495", "432 P.2d 293", "476 P.2d 713", "54 Wn.2d 665", "545 P.2d 13", "622 P.2d 1246", "664 P.2d 474", "701 P.2d 518", "704 P.2d 1236", "704 P.2d 600", "72 Wn.2d 196", "730 P.2d 1299", "785 F.2d 79", "8 Wn.2d 447", "86 Wn.2d 293", "95 Wn.2d 306", "99 Wn.2d 609"]
 ---
 
 # Sorenson v. Raymark Industries, Inc.
