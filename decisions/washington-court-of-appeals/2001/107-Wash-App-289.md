@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45095-6-I"
 decided: "2001-05-21"
-citations: ["107 Wash. App. 289", "106 Wash. App. 1020"]
+citations: ["107 Wash. App. 289"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sandra Ruff, Appellant, v. The Department of Labor and Industries, Re
 source_url: "https://static.case.law/wash-app/107/cases/0289-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543121
-cites_cases: ["107 Wn. App. 289", "118 Wn.2d 801", "120 Wn.2d 1031", "125 Wn.2d 24", "126 Wn.2d 1025", "128 Wn.2d 300", "130 Wn.2d 244", "134 Wn.2d 795", "139 Wn.2d 64", "293 F. 1013", "450 P.2d 940", "514 U.S. 1129", "529 U.S. 1090", "66 Wn. App. 644", "75 Wn.2d 312", "77 Wn. App. 201", "828 P.2d 549", "833 P.2d 390", "882 P.2d 747", "890 P.2d 469", "907 P.2d 282", "92 Wn. App. 80", "922 P.2d 1304", "953 P.2d 800", "960 P.2d 980", "984 P.2d 1024"]
+cites_cases: ["118 Wn.2d 801", "120 Wn.2d 1031", "125 Wn.2d 24", "126 Wn.2d 1025", "128 Wn.2d 300", "130 Wn.2d 244", "134 Wn.2d 795", "139 Wn.2d 64", "293 F. 1013", "450 P.2d 940", "514 U.S. 1129", "529 U.S. 1090", "66 Wn. App. 644", "75 Wn.2d 312", "77 Wn. App. 201", "828 P.2d 549", "833 P.2d 390", "882 P.2d 747", "890 P.2d 469", "907 P.2d 282", "92 Wn. App. 80", "922 P.2d 1304", "953 P.2d 800", "960 P.2d 980", "984 P.2d 1024"]
 ---
 
 # Ruff v. Department of Labor & Industries
