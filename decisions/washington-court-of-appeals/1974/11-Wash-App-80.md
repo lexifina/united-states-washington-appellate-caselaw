@@ -1,0 +1,34 @@
+---
+court: "Washington Court of Appeals"
+docket: "2012-1"
+decided: "1974-04-22"
+citations: ["11 Wash. App. 80"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["George MacCormack et al., Respondents, v. Robins Construction et al., Appellants."]
+source_url: "https://static.case.law/wash-app/11/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853726
+cites_cases: ["3 Wn. App. 783", "395 P.2d 630", "477 P.2d 931", "500 P.2d 91", "65 Wn.2d 69", "81 Wn.2d 132"]
+---
+
+# MacCormack v. Robins Construction
+
+## Majority (Swanson, C.J.)
+
+Swanson, C.J.
+The Whatcom County Superior Court, acting sua sponte, transformed a suit brought under the Consumer Protection Act, RCW 19.86.010, et seq., into a claim for damages based on a common-law breach of warranty theory and granted monetary relief. Defendants Robins Construction and its agent Richard Fairbanks and his wife appeal from an $11,875 judgment entered against them.
+Plaintiffs brought suit after discovering deficiencies in houses located in a Whatcom County subdivision which had been constructed and sold to them by defendants. At the close of plaintiffs’ case, which involved only issues under RCW 19.86, the defendants moved for dismissal which was denied. On April 27, 1972, the court in its oral decision reviewed the evidence and concluded that although the plaintiffs were not entitled to relief under the Consumer Protection Act, substantial evidence had been presented relating to breach of warranty, and therefore plaintiffs were entitled to their respective judgments on that theory. Defendants countered by moving for a new trial which was refused, but the court did grant defendants’ alternative motion to reopen the trial. On June 16, 1972, the date of the reopened trial, the court, over plaintiffs’ objection, continued the matter to allow defendants more time to prepare for the presentation of additional evidence. On November 1, 1972, the defendants indicated they had no further evidence to present, whereupon plaintiffs were awarded judgment against the several defendants. This appeal followed.
+Appellants’ four assignments of error all relate to the failure of the trial court to dismiss the lawsuit at the close of plaintiffs’ case and the court’s refusal to award judgment to the defendants. The claims of error are based solely upon the argument that the Consumer Protection Act confers a limited statutory jurisdiction on the court analogous to that conferred by the unlawful detainer statutes (RCW 59.12), and therefore the trial court was without jurisdiction to enter judgment based upon breach of warranty. Appellants argue that if a suit brought under RCW 19.86 amounts to a grant of general jurisdiction, litigants routinely will begin their suits under that act in the hope of an award of treble damages and attorneys’ fees.
+We are not persuaded by appellants’ argument. We do not find any analogy to the limited jurisdiction conferred by the unlawful detainer statute to be applicable to the case at bar. The special summons authorized by such statutes is insufficient to grant a trial court general jurisdiction, but instead confers jurisdiction for the limited-statutory purpose of determining a tenant’s right to possession of real property owned by his landlord. Tuschoff v. Westover, 65 Wn.2d 69, 395 P.2d 630 (1964); Hill v. Hill, 3 Wn. App. 783, 477 P.2d 931 (1970). In contrast to the unlawful detainer statutes, the Consumer Protection Act offers potential plaintiffs a specific statutory remedy in addition to those previously available. Nothing in the act would lead us to conclude that the legislature intended it to provide an exclusive remedy founded in limited jurisdiction.
+Therefore, as respondents argue, CR 15 (b) as construed in Harding v. Will, 81 Wn.2d 132, 136, 500 P.2d 91 (1972), is applicable to the case at bar. As our state Supreme Court pointed out in Harding, CR 15 (b) is designed to avoid the “tyranny of formalism,” or necessity for a new trial which formerly often followed any deviation from the pleadings. The rule permits a court on its own motion to amend pleadings to reflect issues tried with the implied or express consent of the parties so long as any objecting party is allowed sufficient time to prepare his case on the new issues. As the court stated in Harding at page 136:
+To specifically apply CR 15 (b) to the instant case, it is clear that under CR 15 (b) pleadings may, in the discretion of the trial court, be amended to conform to the evidence at the conclusion of a trial, indeed even after judgment. CR 15 (b) allows a new cause of action, tried without objection, in the discretion of the trial court to be a basis for recovery.
+(Citations omitted.) In this connection, the court observed at page 137:
+A court may amend the pleadings to realign parties and issues as was done here. However, amendment under CR 15 (b) cannot be allowed if actual notice of the unpleaded issue is not given, if there is no adequate opportunity to cure surprise that might result from the change in the pleadings, or if the issues have not in fact been litigated with the consent of the parties.
+(Citation omitted.) In the case at bench, it is apparent from the record that the trial court allowed the defendants sufficient additional time and opportunity to present additional evidence and to cure any surprise defendants may have experienced as a result of the trial court’s disposition of the case and otherwise closely followed the procedure approved in Harding. We find no error.
+Judgment affirmed.
+James and Williams, JJ., concur.
+Plaintiffs originally brought suit against all of the named defendants, but only defendants Robins Construction and Richard Fairbanks and his wife are parties to this appeal.
+CR 15 (b) provides as follows:
+“When, issues not raised by the pleadings are tried by express or implied consent of the parties, they shall be treated in all respects as if they had been raised in the pleadings. Such amendment of the pleadings as may be necessary to cause them to conform to the evidence and to raise these issues may be made upon motion of any party at any time, even after judgment; but failure so to amend does not affect the result of the trial of these issues. If evidence is objected to at the trial on the ground that it is not within the issues made by the pleadings, the court may allow the pleadings to be amended and shall do so freely when the presentation of the merits of the action will be subserved thereby and the objecting party fails to satisfy the court that the admission of such evidence would prejudice him in maintaining his action or defense upon the merits. The court may grant a continuance to enable the objecting party to meet such evidence.”
