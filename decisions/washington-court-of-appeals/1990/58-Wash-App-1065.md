@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "12666-4-II"
+decided: "1990-08-20"
+citations: ["58 Wash. App. 1065"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["ITT Rayonier, Inc., Appellant, v. David Lene, Respondent."]
+source_url: "https://static.case.law/wash-app/58/cases/1065-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1754165
+---
+
+# ITT Rayonier, Inc. v. Lene
+
+## Majority
+
+Appeal from a judgment of the Superior Court for Grays Harbor County, No. 87-2-00151-9, David E. Foscue, J., entered February 14, 1989. Affirmed by unpublished opinion per Alexander, C.J., concurred in by Petrich and Wors-wick, JJ.
