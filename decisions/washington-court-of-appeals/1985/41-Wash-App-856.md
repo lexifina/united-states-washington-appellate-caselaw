@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "13895-2-I"
+decided: "1985-08-19"
+citations: ["41 Wash. App. 856"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Luis M. Lavaris, Appellant."]
+source_url: "https://static.case.law/wash-app/41/cases/0856-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1798519
+cites_cases: ["16 Wn. App. 254", "16 Wn. App. 929", "32 Wn. App. 559", "32 Wn. App. 769", "459 U.S. 1103", "459 U.S. 1211", "554 P.2d 1069", "561 P.2d 212", "647 P.2d 6", "648 P.2d 485", "649 P.2d 849", "664 P.2d 1234", "688 F.2d 224", "97 Wn.2d 493", "98 Wn.2d 1007", "99 Wn.2d 851"]
+---
+
+# State v. Lavaris
+
+## Majority (Williams, J.)
+
+Williams, J.
+Luis Lavaris and Francisco Castro were charged by amended information with first degree murder, committed while armed with a deadly weapon. They were tried separately. Castro's conviction was affirmed in State v. Castro, 32 Wn. App. 559, 648 P.2d 485, review denied, 98 Wn.2d 1007 (1982). Lavaris's conviction was affirmed in State v. Lavaris, 32 Wn. App. 769, 649 P.2d 849 (1982), but reversed and remanded in State v. Lavaris, 99 Wn.2d 851, 664 P.2d 1234 (1983). At Lavaris's second trial, he was found guilty by a jury, and judgment was entered. He appeals.
+On July 8, 1980, Jesus Perez, Lavaris and Castro spent the night in the apartment of Betty Haro Nichols. When Nichols awoke on July 9, she saw Lavaris and Castro standing over Perez, who was dead.
+Castro testified, once in the absence of the jury and once in its presence, that he was in Nichols's apartment on the night of July 8, but did not remember seeing Perez or Lavaris there and denied telling Detective Henry Gruber that he saw Lavaris kill Perez and that he was surprised Nichols slept through the killing. Over defense counsel's objection, Detective Gruber testified that Castro said that he, Lavaris and Perez spent the night at Nichols's apartment, that Lavaris killed Perez and that he was surprised Nichols slept through the killing. The trial court admonished the jury:
+It appears that certain statements which allegedly were made by the witness, Mr. Castro, are about to be introduced into evidence. I would strongly advise you that any prior statements made to Detective Gruber by the witness, Francisco Castro, if you find such prior statements were in fact made, are not to be considered by you as proof of the matters recited in such statements, but are admitted into evidence solely for the purpose of assisting you in evaluating the credibility of Mr. Castro as a witness in this trial.
+Verbatim Report of Proceedings, at 294.
+The principal contention advanced by Lavaris is that the State improperly called Castro as a witness, knowing that he would lie, thus enabling it to bring in for impeachment purposes Detective Gruber's damaging report of Castro's statement that Lavaris did the killing. Lavaris argues that the jury could not possibly have considered the impeachment evidence as bearing only on Castro's credibility and charges prosecutorial misconduct in the State's knowingly using perjured testimony and participating in the creation or preservation of false evidence. The issue posed by Lava-ris is whether the State should be permitted to call a witness for the primary, and ostensibly sole, purpose of impeaching him with a hearsay statement implicating the defendant.
+Although a criminal trial is an adversary proceeding in which counsel for each side is trying to win, the function of the prosecuting attorney is not restricted to presenting only that evidence which is most likely to bring victory. The holder of that office has a larger responsibility.
+A prosecutor must always remember that he or she does not conduct a vendetta when trying any case, but serves as an officer of the court and of the state with the object in mind that all admissible evidence and all proper argument be made, but that inadmissible evidence and improper argument be avoided. We recognize that the conduct of a trial is demanding and that if prosecutors are to perform as trial lawyers, a zeal and enthusiasm for their cause is necessary. However, each trial must be conducted within the rules and each prosecutor must labor within the restraints of the law to the end that defendants receive fair trials and justice is done. If prosecutors are permitted to convict guilty defendants by improper, unfair means, then we are but a moment away from the time when prosecutors will convict innocent defendants by unfair means. Courts must not permit this to happen, for when it does the freedom of each citizen is subject to peril and chance.
+State v. Torres, 16 Wn. App. 254, 263, 554 P.2d 1069 (1976).
+To perform its function, the jury must be apprised of all the material and relevant evidence, whether presented by the prosecution, the defense or both. State v. Sabbot, 16 Wn. App. 929, 931, 561 P.2d 212 (1977). Because Castro testified that he stayed in Nichols's apartment the night of Perez's homicide, the jury, to gain the fullest understanding of what occurred, was entitled to hear his version of the events. The jury, not the prosecutor, was charged with the duty of determining what did, in fact, happen. Contrary to the argument of defense counsel on appeal, the State does not vouch for the credibility of a witness in such circumstances. Castro was there and previously said that he had seen the killing. If he chose to deny that he knew anything about it, so be it; the jury was entitled to consider his testimony along with all the other evidence in determining the facts in the case.
+Because Castro chose to testify contrary to his statement to Detective Gruber, that statement was admissible for impeachment purposes. ER 607 provides, "The credibility of a witness may be attacked by any party, including the party calling him."
+There is seemingly nothing in Rule 607 to prevent a party from calling a witness for the unabashed purpose of enabling a second witness to relate the pretrial, inconsistent statements of the first witness where the statements would otherwise be inadmissible hearsay.
+Some commentators have suggested that this practice be curbed by returning to the prerule requirements of genuine surprise and prejudice before a party would be permitted to introduce the prior inconsistent statements of its witness. There is little in the text or history of Rule 607 to support this result, though it could perhaps be rationalized under Rule 403. Some courts have in essence agreed, but have stopped short of articulating a requirement of surprise and prejudice for all cases.
+Others have argued that the only legitimate approach under the rules is to balance the value of the evidence for impeachment against the danger of unfair prejudice on a case-by-case basis under Rule 403.
+Some courts have seemingly rejected both approaches, insisting that Rule 607 means exactly what it says and no less. The situation can only be described as unsettled.
+(Footnotes omitted.) 5 K. Tegland, Wash. Prac., Evidence § 229, at 476-78 (2d ed. 1982).
+The best approach is to interpret ER 607 to mean "exactly what it says and no less" and to balance the probative value of the evidence against its prejudicial effect under ER 403. See United States v. MacDonald, 688 F.2d 224, 233-34 (4th Cir. 1982), cert. denied, 459 U.S. 1103 (1983); 3 J. Weinstein & M. Berger, Evidence § 607[01], at 607-17 through 607-18 (1982).
+The official comment to ER 403 states that two factors to consider in evaluating the danger of unfair prejudice are the probable effectiveness of a limiting instruction and the availability of other means of proof. The trial court's limiting instruction was given immediately before the impeachment evidence was introduced and very clearly restricted the jury's use of this evidence. The jury is presumed to have followed the court's instruction. State v. Grisby, 97 Wn.2d 493, 509, 647 P.2d 6 (1982), cert. denied, 459 U.S. 1211 (1983). Other means of proving Castro's credibility, or lack thereof, were not available. The trial court did not abuse its discretion by admitting the impeachment evidence.
+Affirmed.
+Grosse and Webster, JJ., concur.
+Review granted by Supreme Court October 30, 1985.
+Obviously, the prosecuting attorney, as well as any trial counsel, has the duty not to knowingly use perjured testimony or false evidence to prove a case. CPR DR 7-102(A)(4).
