@@ -1,0 +1,62 @@
+---
+court: "Washington Court of Appeals"
+docket: "9628-1-I"
+decided: "1982-06-28"
+citations: ["32 Wash. App. 379"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Seattle, Respondent, v. Mark D. Davis, Appellant. The City of Seattle, Respondent, v. Marlys Mathis, Appellant. The City of Seattle, Respondent, v. Daniel Hurwitz, Appellant. The City of Seattle, Respondent, v. Larry Jackson, Appellant."]
+source_url: "https://static.case.law/wash-app/32/cases/0379-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1814599
+cites_cases: ["29 Wn. App. 455", "29 Wn. App. 936", "30 Wn. App. 666", "351 P.2d 127", "399 P.2d 319", "501 P.2d 184", "544 P.2d 729", "56 Wn.2d 48", "612 P.2d 792", "628 P.2d 829", "631 P.2d 993", "638 P.2d 95", "65 Wn.2d 660", "81 Wn.2d 234", "86 Wn.2d 339", "93 Wn.2d 728", "96 Wn.2d 1016"]
+---
+
+# City of Seattle v. Davis
+
+## Majority (Andersen, C.J.—)
+
+Andersen, C.J.—
+Facts of Case
+The defendants, Mark D. Davis, Marlys M. Mathis, Daniel L. Hurwitz and Larry E. Jackson, appeal their convictions of criminal trespass.
+The facts on appeal are not controverted. On March 27, 1980, the defendants, without invitation, license or permission, drove through a gate in a fence, past several "No Trespassing" signs and uniformed security personnel, and onto premises owned and operated by Bethlehem Steel Company. They then drove past a guard shack and proceeded into the interior of the plant. The guard shack had two posted signs instructing visitors to stop and obtain authorization before going further into the plant.
+The defendants' truck was fitted with sound equipment and slogans were broadcast therefrom. Defendants Davis and Hurwitz left the truck and attempted to distribute literature supporting the Revolutional Communist Party. Seattle police were summoned and the defendants were apprehended.
+In Seattle Municipal Court, each defendant was found guilty of violating the city's criminal trespass ordinance. The defendants subsequently exercised their right to a trial de novo in the Superior Court and their cases were consolidated for trial. The defendants' motions to dismiss the trespass charges, on the ground that the city trespass ordinance was unconstitutionally vague, were denied by the trial court. The case was tried to the court on stipulated facts. All defendants were found guilty of criminal trespass and appeal.
+Clarification of Citation to Seattle's Criminal Trespass Ordinance
+To refer to pertinent portions of an ordinance or code, no more is ordinarily required than to cite it by number and section. That is not the case, however, with reference to the City of Seattle's criminal trespass ordinance.
+Prior to 1980, City of Seattle ordinances were compiled in separate volumes according to the year of enactment. Then in 1980, the Seattle Municipal Code was published as the city's first official comprehensive compilation of its general and permanent ordinances. See Preface, Seattle Municipal Code; Seattle Municipal Code 1.01.010 (Supp. Sept. 1981; Supp. Dec. 1981). The criminal trespass ordinance at issue in the present case, Seattle City Ordinance No. 102843, § 12A.08.080, 1973, was therein renumbered and codified without change (other than the number) as Seattle Municipal Code 12A.08.040. In Seattle v. Rice, 93 Wn.2d 728, 612 P.2d 792 (1980), this same ordinance was referred to as "section 12A.08.240, Seattle Municipal Code", due apparently to a typographical error in the numbering. In the interest of convenience and accuracy of future reference, therefore, we will herein refer to the Seattle criminal trespass ordinance, past and present, as presently denominated in the Seattle Municipal Code, namely, as 12A.08-.040.
+These consolidated appeals present one determinative issue.
+Issue
+Did the decision of the State Supreme Court in Seattle v. Rice, 93 Wn.2d 728, 612 P.2d 792 (1980) invalidate the entire City of Seattle criminal trespass ordinance?
+Decision
+Conclusion. The criminal trespass ordinance under which the defendants in this case were tried and convicted was invalidated by the State Supreme Court only insofar as it pertained to trespasses in public buildings. The ordinance was not invalidated as it pertained to trespasses on private property. The defendants' convictions herein were under the portions of the ordinance pertaining to trespasses on private property and were not invalid.
+The ordinance involved in both Rice and this case is Seattle Municipal Code 12A.08.040 which at the time both Rice and the present case arose provided as follows:
+Criminal trespass.
+A. "Enter or remain unlawfully" means an unlicensed, uninvited or otherwise unprivileged entry into or remaining in or upon premises. A person who, regardless of his intent, enters or remains in or upon premises which are at the time open to the public does so with license and privilege unless he defies a lawful order not to enter or remain, personally communicated to him by the owner of the premises or some other authorized person. A license or privilege to enter or remain in a public building which is only partly open to the public is not a license or privilege to enter or remain in that part of the building which is not open to the public.
+B. A person is guilty of criminal trespass if he knowingly enters or remains unlawfully in or upon the premises of another.
+C. In any prosecution under subsection B it is an affirmative defense that the actor reasonably believed that:
+1. The premises involved at the time were open to members of the public and the actor complied with all lawful conditions imposed on access to or remaining on the premises; or
+2. The owner of the premises, or other person empowered to license access thereto, would have licensed him to enter or remain.
+(Italics ours.) This ordinance has since been amended to read as set forth in the margin.
+In the case before us, the Superior Court found as a fact that "[e]ach defendant’s entry into and remaining upon the interior plant premises beyond the guard shack, which premises were not at the time open to the public, was unlicensed, uninvited, and unprivileged, and was known to each defendant to be an unlicensed, uninvited, and unprivileged entry into and remaining on premises of another.” Based thereon, it concluded that each of the defendants was guilty of criminal trespass under Seattle Municipal Code 12A.08-.040(B).
+Here the defendants do not disagree with the facts found but assign error to the trial court's ruling that Rice invalidated only the second sentence of the criminal trespass ordinance (italicized in the ordinance set forth above) and to the conclusion of law that the defendants were guilty as charged. It is the position of the defendants that Rice held the entire ordinance unconstitutional. We disagree.
+Rice involved a defendant who had ignored a police officer's order to leave a public building, and as a consequence, was charged and convicted of criminal trespass in Seattle Municipal Court. In that case, the defendant appealed to the Superior Court. Following a jury trial de novo, the trial court granted an order in arrest of judgment, quoted the above italicized sentence of the criminal trespass ordinance and ruled that Seattle Municipal Code 12A.08.040(A) "is unconstitutional as applied to 'buildings owned by the public.’" (Italics ours.) The trial court in Rice also specifically held the first sentence of the ordinance to be constitutional. The City of Seattle appealed to the State Supreme Court which affirmed the dismissal of the charge. In its decision, the Supreme Court posed the issue before it thusly:
+The entire question here is whether the words "lawful order" are sufficiently specific to satisfy the due process requirements of the void for vagueness doctrine.
+(Italics ours.) Seattle v. Rice, supra at 731. After discussing the words "lawful order" (which are contained only in the sentence of the ordinance italicized above), the Supreme Court answered the question in the negative.
+As the defendants here point out, there is language in the Rice opinion which does arguably declare the entire ordinance invalid. When considering statements made in the course of judicial reasoning, however, it must be kept in mind "that general expressions in every opinion are to be confined to the facts then before the court and are to be limited in their relation to the case then decided and to the points actually involved." Peterson v. Hagan, 56 Wn.2d 48, 53, 351 P.2d 127 (1960). Accord, State ex rel. Wittier v. Yelle, 65 Wn.2d 660, 670, 399 P.2d 319 (1965). Based on the issue as posed by the Supreme Court in its decision in Rice (set out just above) and on the "lawful order" language of the ordinance which was the subject addressed by the Supreme Court in Rice, as well as on the issue as it was addressed by the Superior Court in Rice, we agree with the ruling of the Superior Court in the case before us and hold that Rice invalidated only the second sentence of Seattle Municipal Code 12A.08.040(A).
+Where, as here, one portion of an ordinance is declared invalid or unconstitutional, the issue then becomes whether the remaining portions survive and that in turn is primarily a question of legislative intent as viewed at the time the ordinance was enacted. See State v. Anderson, 81 Wn.2d 234, 236, 501 P.2d 184 (1972). If the lawmaking body which enacted an ordinance would have passed the remaining portion of the ordinance without the unconstitutional portion, then the remaining portion will be considered severable. Municipality of Metro Seattle v. O'Brien, 86 Wn.2d 339, 349, 544 P.2d 729 (1976).
+Unlike Gates v. Rosen, 29 Wn. App. 936, 631 P.2d 993, review granted, 96 Wn.2d 1016 (1981), relied on by the defendants, there is a severability clause applicable to the criminal trespass ordinance before us. Seattle Municipal Code Title 12A, at 12A-1. The presence of that severability clause "offers to the courts the necessary assurance that the remaining provisions would have been enacted without the portions which are contrary to the constitution." State v. Anderson, supra at 236.
+The trespass on private property portion of the ordinance, under which the defendants were charged and convicted, is severable from the trespass on public property portion of the ordinance which was invalidated in Rice. As severed, the trespass on private property portion of the ordinance defines the essential elements of the crime in clear and unambiguous terms and provides the public with fair notice of the prohibited conduct so that a person of ordinary intelligence need not guess at the meaning of the ordinance. The ordinance as severed is, therefore, not unconstitutionally vague. See State v. Prather, 30 Wn. App. 666, 669-70, 638 P.2d 95 (1981); State v. Langford, 29 Wn. App. 455, 459, 628 P.2d 829 (1980). See also RCW 9A.52.080; RCW 9A.52.010(3).
+We have reviewed the defendants' remaining arguments and, to the extent they may not be covered by the foregoing, they are deemed nonmeritorious.
+Affirmed.
+James and Callow, JJ., concur.
+Reconsideration denied July 30, 1982.
+Review denied by Supreme Court November 8, 1982.
+Seattle Municipal Code 12A.08.040, as amended in 1981, now reads as follows:
+"Criminal trespass.
+"A. A person is guilty of criminal trespass if he or she knowingly enters or remains in or upon the premises of another when he or she is not then licensed, invited, or otherwise privileged to so enter or remain.
+”B. A license or privilege to enter or remain in a building which is only partly open to the public is not a license or privilege to enter or remain in that part of a building which is not open to the public. A person who enters or remains upon unimproved and apparently unused land, which is neither fenced nor otherwise enclosed in a manner designed to exclude intruders, does so with license and privilege unless notice against trespass is personally communicated to him or her by the owner of the land or some other authorized person, or unless notice is given by posting in a conspicuous manner.
+"C. In any prosecution under subsection A it is an affirmative defense that:
+" 1. A building involved was abandoned; or
+"2. The actor reasonably believed that the owner of the premises, or other person empowered to license access thereto, would have licensed him or her to enter or remain."
