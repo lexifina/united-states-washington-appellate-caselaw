@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17822-2-II; 17668-8-II; 17871-1-II"
 decided: "1996-04-12"
-citations: ["82 Wash. App. 495", "81 Wash. App. 1010"]
+citations: ["82 Wash. App. 495"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Seatoma Convalescent Center, Appellant, v. The Department of Social a
 source_url: "https://static.case.law/wash-app/82/cases/0495-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043755
-cites_cases: ["113 Wn.2d 19", "114 Wn.2d 572", "115 Wn.2d 690", "119 Wn.2d 464", "122 Wn.2d 397", "123 Wn.2d 391", "130 Wn.2d 1023", "467 U.S. 837", "496 U.S. 498", "500 U.S. 173", "61 Wn. App. 630", "613 P.2d 1148", "647 P.2d 1021", "71 Wn. App. 311", "744 F. Supp. 1507", "77 Wn. App. 398", "775 P.2d 947", "790 P.2d 124", "801 P.2d 212", "812 P.2d 104", "82 Wn. App. 495", "832 P.2d 1310", "858 P.2d 280", "858 P.2d 494", "869 P.2d 28", "892 P.2d 749", "93 Wn.2d 843", "937 F.2d 443", "97 Wn.2d 620", "981 F.2d 1054"]
+cites_cases: ["113 Wn.2d 19", "114 Wn.2d 572", "115 Wn.2d 690", "119 Wn.2d 464", "122 Wn.2d 397", "123 Wn.2d 391", "130 Wn.2d 1023", "467 U.S. 837", "496 U.S. 498", "500 U.S. 173", "61 Wn. App. 630", "613 P.2d 1148", "647 P.2d 1021", "71 Wn. App. 311", "744 F. Supp. 1507", "77 Wn. App. 398", "775 P.2d 947", "790 P.2d 124", "801 P.2d 212", "812 P.2d 104", "832 P.2d 1310", "858 P.2d 280", "858 P.2d 494", "869 P.2d 28", "892 P.2d 749", "93 Wn.2d 843", "937 F.2d 443", "97 Wn.2d 620", "981 F.2d 1054"]
 ---
 
 # Seatoma Convalescent Center v. Department of Social & Health Services
