@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39497-5-I"
 decided: "1998-03-30"
-citations: ["91 Wash. App. 898", "90 Wash. App. 1006"]
+citations: ["91 Wash. App. 898"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William C. Stoops, Appellant, v. The Department of Retirement Systems
 source_url: "https://static.case.law/wash-app/91/cases/0898-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681848
-cites_cases: ["111 Wn.2d 854", "119 Wn.2d 373", "122 Wn.2d 397", "125 Wn.2d 305", "545 P.2d 5", "552 P.2d 674", "611 P.2d 1252", "646 P.2d 113", "70 Wn. App. 482", "76 Wn. App. 600", "765 P.2d 1297", "77 Wn. App. 741", "831 P.2d 738", "854 P.2d 46", "858 P.2d 494", "86 Wn.2d 310", "87 Wn.2d 267", "884 P.2d 920", "886 P.2d 1147", "893 P.2d 1132", "91 Wn. App. 898", "93 Wn.2d 682", "97 Wn.2d 317"]
+cites_cases: ["111 Wn.2d 854", "119 Wn.2d 373", "122 Wn.2d 397", "125 Wn.2d 305", "545 P.2d 5", "552 P.2d 674", "611 P.2d 1252", "646 P.2d 113", "70 Wn. App. 482", "76 Wn. App. 600", "765 P.2d 1297", "77 Wn. App. 741", "831 P.2d 738", "854 P.2d 46", "858 P.2d 494", "86 Wn.2d 310", "87 Wn.2d 267", "884 P.2d 920", "886 P.2d 1147", "893 P.2d 1132", "93 Wn.2d 682", "97 Wn.2d 317"]
 ---
 
 # Stoops v. Department of Retirement Systems
