@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "19355-8-II"
+decided: "1997-05-09"
+citations: ["85 Wash. App. 1099"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, et al., Plaintiffs, The City of Puyallup, Respondent, v. Edward Comenout, Jr., Appellant."]
+source_url: "https://static.case.law/wash-app/85/cases/1099-03.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277412
+---
+
+# State v. Comenout
+
+## Majority
+
+Appeal from a judgment of the Superior Court for Pierce County, No. 92-2-06381-1, Vicki L. Hogan, J., entered March 17, 1995. Affirmed by unpublished opinion per Bridgewater, A.C.J., concurred in by Morgan and Hunt, JJ.
