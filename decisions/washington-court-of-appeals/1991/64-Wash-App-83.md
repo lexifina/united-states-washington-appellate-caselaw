@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27784-7-I"
 decided: "1991-12-23"
-citations: ["64 Wash. App. 83", "63 Wash. App. 1035"]
+citations: ["64 Wash. App. 83"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Everett, Appellant, v. American Empire Surplus Lines Insu
 source_url: "https://static.case.law/wash-app/64/cases/0083-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722699
-cites_cases: ["105 Wn.2d 878", "106 Wn.2d 806", "111 Wn.2d 636", "112 Wn.2d 621", "115 Wn.2d 657", "44 Wn. App. 327", "52 Wn. App. 469", "54 Wn. App. 400", "545 P.2d 1193", "64 Wn. App. 83", "656 P.2d 1077", "719 P.2d 120", "721 P.2d 34", "725 P.2d 957", "760 P.2d 969", "762 P.2d 1141", "770 F.2d 487", "773 P.2d 413", "773 P.2d 906", "801 P.2d 222", "86 Wn.2d 432", "98 Wn.2d 533"]
+cites_cases: ["105 Wn.2d 878", "106 Wn.2d 806", "111 Wn.2d 636", "112 Wn.2d 621", "115 Wn.2d 657", "44 Wn. App. 327", "52 Wn. App. 469", "54 Wn. App. 400", "545 P.2d 1193", "656 P.2d 1077", "719 P.2d 120", "721 P.2d 34", "725 P.2d 957", "760 P.2d 969", "762 P.2d 1141", "770 F.2d 487", "773 P.2d 413", "773 P.2d 906", "801 P.2d 222", "86 Wn.2d 432", "98 Wn.2d 533"]
 ---
 
 # City of Everett v. American Empire Surplus Lines Insurance
