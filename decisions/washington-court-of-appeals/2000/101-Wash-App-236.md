@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24762-3-II"
 decided: "2000-06-09"
-citations: ["101 Wash. App. 236", "101 Wash. App. 1009"]
+citations: ["101 Wash. App. 236"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["National Merit Insurance Company, Respondent, v. Esther E. Yost, Appe
 source_url: "https://static.case.law/wash-app/101/cases/0236-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170417
-cites_cases: ["101 Wn. App. 236", "106 Wn.2d 901", "112 Wn.2d 1", "125 Wn.2d 164", "127 Wn.2d 409", "128 Wn.2d 207", "135 Wn.2d 799", "142 Wn.2d 1011", "43 Wn. App. 852", "59 A.L.R.5th 789", "61 Wn. App. 640", "67 Wn. App. 670", "719 P.2d 1345", "726 P.2d 439", "771 P.2d 701", "811 P.2d 968", "838 P.2d 693", "883 P.2d 308", "899 P.2d 787", "905 P.2d 379", "959 P.2d 657"]
+cites_cases: ["106 Wn.2d 901", "112 Wn.2d 1", "125 Wn.2d 164", "127 Wn.2d 409", "128 Wn.2d 207", "135 Wn.2d 799", "142 Wn.2d 1011", "43 Wn. App. 852", "59 A.L.R.5th 789", "61 Wn. App. 640", "67 Wn. App. 670", "719 P.2d 1345", "726 P.2d 439", "771 P.2d 701", "811 P.2d 968", "838 P.2d 693", "883 P.2d 308", "899 P.2d 787", "905 P.2d 379", "959 P.2d 657"]
 ---
 
 # National Merit Insurance v. Yost
