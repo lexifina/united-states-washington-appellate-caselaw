@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13835-9-I"
 decided: "1985-04-29"
-citations: ["41 Wash. App. 189", "40 Wash. App. 1030"]
+citations: ["41 Wash. App. 189"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Respondent, v. Annette Shirley Smiley, Petitione
 source_url: "https://static.case.law/wash-app/41/cases/0189-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1798429
-cites_cases: ["11 L. Ed. 2d 603", "151 U.S. 396", "27 Wn. App. 198", "37 Wn. App. 397", "37 Wn. App. 428", "376 U.S. 187", "380 U.S. 202", "382 P.2d 497", "397 U.S. 358", "41 Wn. App. 189", "414 U.S. 141", "442 U.S. 140", "589 P.2d 789", "610 P.2d 1322", "610 S.W.2d 382", "616 P.2d 693", "618 P.2d 82", "62 Wn.2d 362", "637 P.2d 961", "680 P.2d 1068", "680 P.2d 457", "84 S. Ct. 638", "91 Wn.2d 466", "93 Wn.2d 510", "94 Wn.2d 569", "96 Wn.2d 591"]
+cites_cases: ["11 L. Ed. 2d 603", "151 U.S. 396", "27 Wn. App. 198", "37 Wn. App. 397", "37 Wn. App. 428", "376 U.S. 187", "380 U.S. 202", "382 P.2d 497", "397 U.S. 358", "414 U.S. 141", "442 U.S. 140", "589 P.2d 789", "610 P.2d 1322", "610 S.W.2d 382", "616 P.2d 693", "618 P.2d 82", "62 Wn.2d 362", "637 P.2d 961", "680 P.2d 1068", "680 P.2d 457", "84 S. Ct. 638", "91 Wn.2d 466", "93 Wn.2d 510", "94 Wn.2d 569", "96 Wn.2d 591"]
 ---
 
 # City of Seattle v. Smiley
