@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44327-5-I"
 decided: "2000-03-27"
-citations: ["100 Wash. App. 649", "100 Wash. App. 1008"]
+citations: ["100 Wash. App. 649"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Carol Ann Fichtner, et al., Respondents, v. Mutual of Enumclaw Insura
 source_url: "https://static.case.law/wash-app/100/cases/0649-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363179
-cites_cases: ["100 Wn. App. 649", "117 Wn.2d 37", "128 Wn.2d 207", "133 Wn.2d 490", "29 Wn. App. 150", "370 U.S. 238", "44 Wn. App. 49", "59 A.L.R.5th 789", "627 P.2d 1330", "720 P.2d 858", "811 P.2d 673", "905 P.2d 379", "946 P.2d 388"]
+cites_cases: ["117 Wn.2d 37", "128 Wn.2d 207", "133 Wn.2d 490", "29 Wn. App. 150", "370 U.S. 238", "44 Wn. App. 49", "59 A.L.R.5th 789", "627 P.2d 1330", "720 P.2d 858", "811 P.2d 673", "905 P.2d 379", "946 P.2d 388"]
 ---
 
 # Fichtner v. Mutual of Enumclaw Insurance
