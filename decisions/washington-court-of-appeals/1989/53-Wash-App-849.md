@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20288-0-I"
 decided: "1989-03-20"
-citations: ["53 Wash. App. 849", "53 Wash. App. 1065"]
+citations: ["53 Wash. App. 849"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Bruce Clayton Burns, Appellan
 source_url: "https://static.case.law/wash-app/53/cases/0849-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764572
-cites_cases: ["109 Wn.2d 207", "110 Wn.2d 1024", "112 Wn.2d 1022", "444 P.2d 661", "45 Wn. App. 378", "47 Wn. App. 477", "50 Wn. App. 412", "53 Wn. App. 849", "725 P.2d 442", "735 P.2d 696", "74 Wn.2d 386", "743 P.2d 1237", "749 P.2d 160", "749 P.2d 702"]
+cites_cases: ["109 Wn.2d 207", "110 Wn.2d 1024", "112 Wn.2d 1022", "444 P.2d 661", "45 Wn. App. 378", "47 Wn. App. 477", "50 Wn. App. 412", "725 P.2d 442", "735 P.2d 696", "74 Wn.2d 386", "743 P.2d 1237", "749 P.2d 160", "749 P.2d 702"]
 ---
 
 # State v. Burns
