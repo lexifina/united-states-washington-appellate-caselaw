@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12211-1-II"
 decided: "1990-08-30"
-citations: ["60 Wash. App. 26", "58 Wash. App. 1071"]
+citations: ["60 Wash. App. 26"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michelle M. Gibson, et al, Respondents, v. The City of Tacoma, Respon
 source_url: "https://static.case.law/wash-app/60/cases/0026-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1719055
-cites_cases: ["108 Wn.2d 38", "110 Wn.2d 16", "111 Wn.2d 828", "116 Wn.2d 1002", "60 Wn. App. 26", "738 P.2d 665", "749 P.2d 1295", "766 P.2d 438"]
+cites_cases: ["108 Wn.2d 38", "110 Wn.2d 16", "111 Wn.2d 828", "116 Wn.2d 1002", "738 P.2d 665", "749 P.2d 1295", "766 P.2d 438"]
 ---
 
 # Gibson v. City of Tacoma
