@@ -1,0 +1,58 @@
+---
+court: "Washington Court of Appeals"
+docket: "1166-2"
+decided: "1973-11-26"
+citations: ["10 Wash. App. 1"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Clarence Lee Braxton, Appellant."]
+source_url: "https://static.case.law/wash-app/10/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1857765
+cites_cases: ["1 Wn. App. 152", "401 P.2d 340", "426 P.2d 854", "434 P.2d 10", "453 P.2d 655", "459 P.2d 812", "487 P.2d 1295", "66 Wn.2d 111", "71 Wn.2d 147", "72 Wn.2d 306", "75 Wn.2d 689", "79 Wn.2d 512"]
+---
+
+# State v. Braxton
+
+## Majority (Pearson, C.J.)
+
+Pearson, C.J.
+The defendant, Clarence Braxton, was convicted by a jury of second-degree burglary. (RCW 9.19.020.) On appeal from the judgment and sentence, he challenges the sufficiency of the circumstantial evidence to sustain the verdict and asserts error in the refusal of the trial court to dismiss the case at the conclusion of the state’s case and again at the conclusion of all the evidence.
+Defendant also challenges the adequacy of the instructions on aiding and abetting which, he contends, permitted a finding of guilt based solely upon his presence near the scene of the crime.
+For the reasons stated below, we conclude there was sufficient circumstantial evidence on which to sustain a conviction and the jury instructions were sufficient.
+The circumstances surrounding defendant’s implication in the burglary occurred on April 5, 1972, at approximately 2:30 a.m. at Jax’s Drive-in Restaurant, located at the intersection of Empire Way and Graham Street in Seattle.
+We consider the evidence in a light most favorable to'the state, which disclosed the following. The drive-in was located on the southwest corner of the intersection, in a well-lighted district. Visibility was good, although it may have been raining lightly.
+The front door of the drive-in faces Empire Way, which runs in a north-south direction. The building has large plate glass windows on the customer portions of three sides of the building. These windows extend from the the ceiling to within a short distance above the floor and afford an excellent view of the interior from Empire Way and Graham Street.
+Situated approximately 4 or 5 feet to the north of the doorway and under the drive-in’s overhanging roof was a bus stop bench, which presumably serviced a bus stop at the intersection
+At the time and place in question, two Seattle police officers were cruising north on Empire Way when they observed a Negro male standing near the doorway of the drive-in. This man was looking first north, then south. At about the same time, one of the officers observed a figure moving inside the drive-in, which was closed.
+Upon the approach of the police vehicle, the man standing near the doorway (the defendant) turned and started walking north. One of the officers described his manner as “nonchalant.” The other said he walked quickly, almost at a run. Defendant ignored three commands to halt, and was finally apprehended by the officers approximately 50 to 70 feet from where he had been standing.
+While one of the officers (Officer Thomas) turned his attention toward the occupant of the drive-in, the other (Officer Helms) ordered defendant to remain seated on the bus stop bench. As Officer Helms turned to the police vehicle to radio for assistance, defendant attempted to escape by running northward. A chase ensued and defendant was again apprehended, this time at gunpoint. He was then handcuffed and placed in the police vehicle.
+Meanwhile, other police officers arrived and during the confusion surrounding the capture of the occupant of the drive-in, defendant again attempted unsuccessfully to escape from custody.
+The occupant of the drive-in, also a Negro male (Larry Lee Brown) attempted to escape by crashing through a plate glass window fronting on Graham Street. In the pursuit and capture which followed, Brown was seriously wounded by police.
+There is no question that a burglary was in progress, and that defendant was at the scene under most unusual and suspicious circumstances.
+During the state’s case in chief, no testimony was presented which connected defendant to Brown, other than the circumstances outlined above. Defendant contends that these circumstances were insufficient to'allow the jury to infer that defendant was a lookout or was in any other way involved as a.principal or accessory to the crime. Our attention is called to the fact that the officers did not observe defendant make any signals to Brown as the police vehicle approached; and that logically defendant was innocently waiting at the scene for a bus. '
+At the conclusion of the state’s case in chief, defendant’s challenge tó the sufficiency of the evidence was denied.
+Defendant, who did not take the stand, called Larry Lee Brown as his only witness. Brown testified that'he intended to plead guilty to a charge of burglary. He also testified that he did not know defendant and thát defendant had no part in the crime.
+To impeach this testimony the state in rebuttal called Brown’s parole officer, who testified that he had visited Brown in the hospital on April 7, 1972. At that time, Brown told the parole officer that defendant and Brown had been together at Brown’s apartment “just prior to the burglary.” Shortly before the trial, Brown told the parole officer that defendant had nothing to do with the burglary. Defendant’s trial counsel did not object to this testimony, nor did he request that it be allowed only for impeachment purposes. It was, however, clearly offered by the state to impeach Brown. No error is assigned to the failure of the court to limit the purpose to impeachment, but, in any event, the failure to make a request that it be so limited is a waiver of the error.
+Wholly aside from the parole officer’s testimony, it is our view that the evidence presented by the state, viewed in a light most favorable to the state, meets the test of sufficiency for a case based upon circumstantial evidence. State v. Randecker, 79 Wn.2d 512, 487 P.2d 1295 (1971).
+The question of sufficiency of circumstantial evidence in. criminal cases was considered most- recently in-some detail in.State v. Randecker, supra. Synthesizing the rules as reiterated in that case, we find:
+(1) The function of the trial or appellate court in reviewing a sufficiency question is to determine whether there is “substantial evidence” to- support either the state’s .case or the particular element involved.
+(2) In considering the' evidence, we must assume the truth of the state’s evidence- and view it most' strongly against the defendant, allowing the state the benefit of all reasonable inferences.
+(3) Where the case is based entirely upon circumstantial evidence, the trial or appellate court’s function is not to determine whether the circumstances are consistent only with the hypothesis that the accused is guilty. Such determination is for the jury. The court’s only function is to determine whether there' is “substantial evidence” tending to establish circumstances on which a finding of guilt may be predicated. Applying these rules to the circumstances of this case, we are persuaded that the state established a prima facie case. .
+Since defendant was not the direct perpetrator of the burglary, and since a burglary did, in fact,-occur, the sole question for review is whether or not there was substantial evidence of circumstances on which defendant’s guilt could be determined as an aider or an abettor. (RCW 9.01.030.)
+In order for one to be an aider or abettor by his presence at the scene of a crime, a defendant must be ready to assist or must assist the perpetration of the crime by his presence. State v. Aiken, 72 Wn.2d 306, 349, 434 P.2d 10 (1967).
+According to State v. Redden, 71 Wn.2d 147, 426 P.2d 854 (1967), the statute requires proof of some overt act by the alleged aider or abettor in addition to his presence at the scene. The overt act is one of those acts described in the statute. (See note 2.) State v. Palmer, 1 Wn. App. 152, 459 P.2d 812 (1969).
+The pivotal issue is: Was there substantial evidence of an overt act demonstrating that defendant, by his presence, was ready to assist or did assist Brown in the perpetration of the burglary? In our view, under the totality of the circumstances existing at the time and place of the crime, an overt act was reasonably inferable by the jury.
+First, under the physical condition existing, it is reasonable to infer that defendant and Brown were in full sight of each other at all times after Brown entered the drive-in, and consequently were aware of each other’s presence. This fact negates an innocent explanation for defendant’s presence at the scene.
+Second, defendant was positioned in a strategic location to act as lookout, and it is reasonable to infer that by looking north and then south he was in fact carrying out that function. Furthermore, it is reasonable to infer that his act in quickly moving away from the door of the drive-in as the police vehicle approached, was in fact a signal to his confederate that danger was at hand. This act is totally consistent with the functioning of a lookout and inconsistent with the innocent explanation that defendant was waiting for a bus.
+Third, defendant’s three attempts to escape were diversions themselves, which, it is reasonable to infer, were designed to allow Brown to escape detection.
+These circumstances, together with the reasonable inferences to which we have alluded, meet the test of sufficiency to allow the jury to decide the factual question — whether or not they exclude every reasonable hypothesis consistent with defendant’s innocence. State v. Randecker, supra.
+We have also considered the assignments of error directed at the refusal of the trial court to give certain instructions requested by defendant. We find that the instructions given by the court were substantially in the language of RCW 9.01.030 and were sufficient to allow both parties to argue their respective theories. The law does not require a specific instruction on the requirement of an overt act. State v. Redden, supra.
+Judgment and sentence affirmed.
+Petrie and Armstrong, JJ., concur.
+Petition for rehearing denied January 10, 1974.
+The jury was given an appropriate instruction on circumstantial evidence. See State v. Dugger, 75 Wn.2d 689, 453 P.2d 655 (1969).
+A proper instruction was given, substantially, in the statutory language, RCW 9.01.030:
+“Every person, concerned' in the commission of a felony, gross misdemeanor or misdemeanor, whether he directly commits the act constituting the offense, or aids or abets in its commission, and whether present or absent; and every person who directly or indirectly counsels, encourages, hires, commands, induces or otherwise procures another to commit a felony, gross misdemeanor, or misdemeanor,, is a principal, and shall be proceeded against and punished as such. The fact that the person aided, ábetted, - counseled," encouraged, hired, commanded,' induced or procured, could not or did- not entertain a criminal-intent; Shall not be a defense. to- any person aiding, abetting, counseling-, encouraging, hiring, commanding, inducing or procuring him.”-
+The jury was instructed properly that flight from the scene of the crime was a circumstance which the jury could consider, along with all the other evidence, as bearing on defendant’s guilt. See State v. Bruton, 66 Wn.2d 111, 401 P.2d 340 (1965).
