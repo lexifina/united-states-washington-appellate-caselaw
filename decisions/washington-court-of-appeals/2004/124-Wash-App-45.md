@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52190-0-I"
 decided: "2004-08-09"
-citations: ["124 Wash. App. 45", "122 Wash. App. 1058"]
+citations: ["124 Wash. App. 45"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bellewood No. 1, L.L.C., et al., Appellants, v. LOMA, et al., Respond
 source_url: "https://static.case.law/wash-app/124/cases/0045-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684255
-cites_cases: ["124 Wn. App. 45", "124 Wn.2d 402", "154 Wn.2d 1004", "521 P.2d 1181", "54 Wn. App. 627", "62 Wn. App. 530", "69 Wn. App. 209", "774 P.2d 1244", "815 P.2d 790", "83 Wn.2d 714", "847 P.2d 963", "87 Wn. App. 361", "879 P.2d 920", "940 P.2d 286"]
+cites_cases: ["124 Wn.2d 402", "154 Wn.2d 1004", "521 P.2d 1181", "54 Wn. App. 627", "62 Wn. App. 530", "69 Wn. App. 209", "774 P.2d 1244", "815 P.2d 790", "83 Wn.2d 714", "847 P.2d 963", "87 Wn. App. 361", "879 P.2d 920", "940 P.2d 286"]
 ---
 
 # Bellewood No. 1, L.L.C. v. LOMA
