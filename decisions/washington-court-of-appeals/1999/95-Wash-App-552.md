@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42735-1-I"
 decided: "1999-04-12"
-citations: ["95 Wash. App. 552", "95 Wash. App. 1009"]
+citations: ["95 Wash. App. 552"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Harrison V. Barth, Appellant, v. Allstate Insurance Company, Responde
 source_url: "https://static.case.law/wash-app/95/cases/0552-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254770
-cites_cases: ["115 Wn.2d 107", "127 Wn.2d 409", "133 Wn.2d 954", "135 Wn.2d 799", "254 P.2d 494", "42 Wn. App. 503", "42 Wn.2d 256", "43 Wn. App. 852", "71 Wn. App. 783", "711 P.2d 1105", "719 P.2d 1345", "795 P.2d 126", "863 P.2d 564", "899 P.2d 787", "948 P.2d 1264", "95 Wn. App. 552", "959 P.2d 657"]
+cites_cases: ["115 Wn.2d 107", "127 Wn.2d 409", "133 Wn.2d 954", "135 Wn.2d 799", "254 P.2d 494", "42 Wn. App. 503", "42 Wn.2d 256", "43 Wn. App. 852", "71 Wn. App. 783", "711 P.2d 1105", "719 P.2d 1345", "795 P.2d 126", "863 P.2d 564", "899 P.2d 787", "948 P.2d 1264", "959 P.2d 657"]
 ---
 
 # Barth v. Allstate Insurance
