@@ -1,0 +1,82 @@
+---
+court: "Washington Court of Appeals"
+docket: "30847-5-I"
+decided: "1994-01-31"
+citations: ["73 Wash. App. 471"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Seafirst Center Limited Partnership, Appellant, v. Kargianis, Austin & Erickson, et al, Defendants, Ronald P. Erickson, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/73/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1748373
+cites_cases: ["1 Wn.2d 439", "100 Wn.2d 1015", "103 Wn.2d 800", "11 Wn. App. 195", "127 Wn.2d 355", "156 Wash. 117", "286 P. 95", "31 Wn. App. 98", "35 Wn. App. 169", "420 U.S. 984", "459 P.2d 930", "522 P.2d 515", "573 P.2d 1302", "639 P.2d 832", "665 P.2d 1383", "699 P.2d 217", "72 A.L.R.3d 1209", "77 Wn.2d 162", "84 Wn.2d 1011", "89 Wn.2d 539", "96 P.2d 473", "97 Wn.2d 1015"]
+---
+
+# Seafirst Center Ltd. Partnership v. Kargianis, Austin & Erickson
+
+## Majority (Forrest, J.)
+
+Forrest, J.
+— Seafirst Center Limited Partnership (Seafirst) appeals the summary judgment granted to Ronald P. Erickson, a partner of the dissolved Washington general partnership Kargianis, Austin & Erickson, contending the effect of Seafirst’s covenants not to sue five of Erickson’s former partners did not release Erickson from liability. Seafirst also requests attorney fees.
+Kargianis and Austin, a Washington general partnership, entered into a lease on March 8,1985, with Martin Selig for space on the 47th floor of the Columbia Seafirst Center. The lease was for 120 months, beginning June 1,1985. However, due to construction delays, the space was not available until August 1,1985, and the parties agreed the lease would commence that date, and extend through July 31,1995.
+Kargianis and Austin consisted of George Kargianis, P.S., Russell A. Austin, Jr., John I. Weston, Ronald P. Erickson, Bruce A. Wolf and Anthony W. Dougherty, according to a footnote on page 1 of the lease. All the partners signed the lease except Weston, who left the partnership prior to execution of the lease.
+In 1989, Martin Selig sold Columbia Seafirst Center to Seafirst Center Limited Partnership, including assigning his interest in the building’s leases. Seafirst is therefore Selig’s successor in interest with respect to the Kargianis and Austin lease. Kargianis and Austin changed its name to Kargianis, Austin & Erickson (hereafter, the Partnership) sometime after execution of the lease.
+On July 1, 1990, Seafirst served a 3-day notice to pay or vacate on the Partnership because of its failure to pay approximately $203,500 rent. Seafirst rescinded the notice based on a letter agreement with the Partnership to pay the arrearage on a fixed schedule. On October 1, 1990, Seafirst served a second 3-day notice to pay or vacate based on the Partnership’s continuing failure to timely pay rent and rent arrearages. Seafirst filed a complaint against the Partnership the following day seeking $218,460.82, the amount of rental arrearages, rent due to accrue for the remainder of the lease, interest, and attorney fees.
+Seafirst and the Partnership subsequently negotiated a settlement; the agreement provided the Partnership would pay all rent due through October 31, 1990, and granted Seafirst a security interest in the Partnership’s assets. The Partnership has paid all amounts due on the lease for the term prior to November 1,1990, and that portion of the parties’ lease is not at issue here.
+After the parties signed the settlement agreement, George Kargianis, P.S., and Russell A. Austin, Jr., moved for dismissal based on a lease term exempting them from personal liability after the fifth year of the lease. The trial court granted the motion, which Seafirst appealed. Eventually, Seafirst entered into covenants not to sue with George Kar-gianis, P.S., Russell A. Austin, Jr., Anthony Dougherty and Bruce Wolf, and their respective marital communities. Ronald P. Erickson is the only partner of the Partnership with whom Seafirst did not reach agreement.
+Although the Partnership vacated the premises prior to November 1,1990, Seafirst did not re-let the space until January 1,1992. The Partnership paid approximately $30,000 per month for the space; Seafirst re-let the space to its general partner, Seattle-First National Bank (the Bank), for $27,360 per month, beginning January 1, 1992. Moreover, Seafirst claims that a condition of its lease with the Bank required it to make approximately $310,000 of improvements to the space. A copy of the remodeling budget is included in the record, as is a copy of Seafirst’s lease with the Bank.
+In his motion for summary judgment, Erickson sought to be dismissed based on Seafirst’s covenants not to sue his former partners. In its motion for summary judgment against Erickson, Seafirst sought past-due rent payments from the Partnership from November 1, 1990, to December 31, 1991; prejudgment interest on each rental payment due; the difference between the Partnership’s rent and the Bank’s rent from January 1, 1992, through July 31, 1995; tenant improvement expenses; and attorney fees.
+The trial judge granted Erickson’s motion and denied Seafirst’s motion, and awarded attorney fees to Erickson. Seafirst timely appealed to this court.
+Joint Liability
+The parties agree that the effect on the liability of one joint obligor of a covenant not to sue given to another joint obligor is a question of first impression in Washington. The parties also agree that Erickson’s liability on the lease is joint, not joint and several. The Washington version of the uniform partnership act expressly recognizes the distinction between joint and several liability. Erickson urges that the release of one joint obligor releases the other joint obligors, citing J.E. Pinkham Lumber Co. v. Woodland State Bank and Restatement (Second) of Torts. Additionally, the Restatement (Second) of Contracts affirms the longstanding common law rule, as follows:
+(1) Except as stated in § 295, where the obligee of promises of the same performance discharges one promisor by release, rescission or accord and satisfaction,
+(a) co-promisors who are bound only by a joint duty are discharged unless the discharged promisor is a surety for the co-promisor[.]
+Restatement (Second) of Contracts § 294 (1981). We agree, but only when the release contains no reservation of rights against the other obligors. However, the issue before us is: when a creditor enters into a covenant not to sue with one joint obligor, which as a practical matter acts as a release, is the other joint obligor released as a matter of law?
+While the Washington Supreme Court has not expressly ruled on this issue, it has clearly indicated its view that a covenant not to sue as to one joint obligor will not release other joint obligors. Johnson v. Stewart, 1 Wn.2d 439, 96 P.2d 473 (1939). Although the underlying obligation in that case was joint and several, the following statements make the court’s views clear:
+The doctrine that one joint contract debtor is released from all obligations by the release of his co-debtor, even though the debt is not fully paid, is rather technical, and unless the interests of the unreleased debtor have somehow been prejudiced, is a principle which should not be extended.
+Johnson v. Stewart, 1 Wn.2d at 450. The court went on to say:
+We are convinced that the release which was filed herein, by its express terms, operated only to release the defendants Courtney from the judgment, and that the intent to limit the function of the release to this purpose clearly appears from the document itself.
+We are in accord with the trend of modern authority, which tends to modify the strict common law rule by which joint contract obligors were often released from the burden of their contract by an inadvertent or ill advised release of one of their number. In connection with such questions as this, the modern rule that the intent of the parties, as expressed by their acts, and particularly by their writings, should receive a greater measure of consideration in determining contract rights, is clearly expressed in standard texts and. judicial decisions. This principle tends to accomplish just and equitable results to a greater extent than did the strict rule of the common law.
+Johnson v. Stewart, supra at 452-53.
+These statements, although technically dicta, gain added force because they were expressly approved 30 years later:
+Some years ago we drew a distinction between situations involving the release of one of many joint contract debtors as distinguished from those involving the release of one of several joint tort-feasors. In Johnson v. Stewart, 1 Wn.2d 439, 96 P.2d 473 (1939) we said:
+The doctrine that one joint contract debtor is released from all obligations by the release of his codebtor, even though the debt is not fully paid, is rather technical, and unless the interests of the unreleased debtor have somehow been prejudiced, is a principle which should not be extended.
+We declare that the intention of the parties should be the controlling factor and we still adhere to that theory.
+United Pac. Ins. Co. v. Lundstrom, 77 Wn.2d 162, 168, 459 P.2d 930 (1969). Strong policy considerations support this view. Allowing the obligee to accept partial satisfaction promotes settlement, which the law strongly favors. Indeed, if Erickson’s view is correct, one recalcitrant obligor could force a trial regardless of the desires of the other parties. There is no unfairness to the nonsettling debtor. Prior to the settlement Erickson was liable for the full amount of the Partnership’s obligation. Because the law does not sanction a double recovery, his obligation is discharged pro tanto by the amount of the settlement. Contrary to the tort rule, any contribution rights Erickson may have are not eliminated.
+This is also the view taken by the Washington Partnership Law and Practice Handbook published by the "Washington State Bar Association. Finally, this is the view taken by the Restatement (Second) of Contracts.
+While recognizing the common law rule that a release of one joint obligor releases the others, Restatement (Second) of Contracts enunciates the rule that a covenant not to sue does not release the other joint obligors.
+(1) Where the obligee of promises of the same performance contracts not to sue one promisor, the other promisors are not discharged except to the extent required by the law of surety-ship.
+(2) Words which purport to release or discharge a promisor and also to reserve rights against other promisors of the same performance have the effect of a contract not to sue rather than a release or discharge.
+(3) Any consideration received by the obligee for a contract not to sue one promisor discharges the duty of each other promisor of the same performance to the extent of the amount or value received.
+Restatement (Second) of Contracts § 295 (1981), in part. The same rule is approved in 2 S. Williston, Contracts § 338 (3d ed. 1959):
+Accordingly, such a covenant [not to sue] given to one joint obligor does not have the effect of a release: The debt is not discharged; and the other joint obligors remain bound.
+The same effect is given to a release by the creditor which contains an express reservation of his rights against the other joint debtors.
+(Footnotes omitted.) In consonance with the views stated by the Washington Supreme Court, we adopt section 295 of the Restatement as the applicable rule. The agreements involved here are covenants not to sue which expressly reserve rights against the other joint obligors. They fall squarely within section 295.
+The trial court erred in granting summary judgment dismissing the suit as to Erickson and in denying Seafirst’s motion for summary judgment insofar as liability is concerned.
+Damages
+In the trial court, Seafirst moved for summary judgment as to liability and as to damages. The motion was denied and Seafirst has appealed. In the statement of issues pertaining to assignments of error, Seafirst did not identify the summary judgment denial of damages as an issue although it did proceed to argue the matter in the opening brief. Denials of summary judgment are rarely appealable, particularly when factual issues as to damages are involved.
+Because the issue may arise on remand, we note that the declaration of expert witness Rebecca Riesen is sufficient to generate material issues of fact as to the time it took to rent the premises, the reasonableness of the rent (particularly because Seafirst rented the space to its own general partner, Seattle-First National Bank), and the appropriateness and reasonableness of the leasehold improvements. Additionally, we note there may be an issue regarding an offset due to another law firm’s partial occupancy of the premises for a short period of time.
+Remand
+The court’s summary judgment dismissing the case as to Erickson is reversed and the award of attorney fees based on that dismissal at the trial level is vacated. Seafirst, having substantially prevailed on appeal, is entitled to attorney fees pursuant to the terms of the lease. The matter is remanded for trial on the issue of damages and an award of attorney fees for both trial and appeal to be established by the trial court.
+Grosse and Baker, JJ., concur.
+Reconsideration denied May 5,1994.
+Affirmed at 127 Wn.2d 355.
+Judge Marshall Forrest was a member of the Court of Appeals at the time oral argument was heard on this matter. He is now serving as a judge pro tempore of the court pursuant to CAR 21(c).
+Erickson contends that the failure to name the individual partners as parties to the lease somehow prevents individual liability from attaching to the partners.| The law does not support his position. RCW 25.04.150 provides that each partner is jointly liable for the partnership’s contract liabilities, and each partner is bound by each other partner’s actions on behalf of the partnership. Nuttal v. Dowell, 31 Wn. App. 98, 113, 639 P.2d 832, review denied, 97 Wn.2d 1015 (1982); Holman v. Coie, 11 Wn. App. 195, 201, 522 P.2d 515, 72 A.L.R.3d 1209, review denied, 84 Wn.2d 1011 (1974), cert. denied, 420 U.S. 984 (1975).
+The provision, in paragraph 51 of the Partnership lease, released Kargianis and Austin on August 1,1990.
+The lease between Seafirst and Seattle-First National Bank provides:
+"2.4 Condition of 47th Floor Space. Tenant hereby agrees to accept the 47th Floor Space in its existing condition on an 'AS-IS, WHERE-IS’ basis. Tenant acknowledges that Landlord has fulfilled all tenant improvement obligations with regard to the 47th Floor Space.” Nor do any other provisions of the lease require improvements to the leasehold.
+We use obligor to denote an obligation arising from contract as distinct from tort.
+"A11 partners are liable:
+"(1) Jointly and severally for everything chargeable to the partnership under RCW 25.04.130 [partner’s wrongful act] and 25.04.140 [partner’s breach of trust]; and
+"(2) Jointly for all other debts and obligations of the partnership; but any partner may enter into a separate obligation to perform a partnership contractf.]” RCW 25.04.150(1), (2).
+See RCW 25.04.150.
+156 Wash. 117, 286 P. 95 (1930).
+The Restatement (Second) of Contracts is the appropriate guide, not the Restatement (Second) of Torts.
+Again, the obligation at issue was joint and several so the language is technically dicta.
+Haller v. Wallis, 89 Wn.2d 539, 544, 573 P.2d 1302 (1978); Stottlemyre v. Reed, 35 Wn. App. 169, 173, 665 P.2d 1383, review denied, 100 Wn.2d 1015 (1983).
+RCW 4.22.040.
+See Washington State Bar Ass’n, Partnership Law and Practice Handbook § 5.4.5 (1984).
+We note that as to George Kargianis and Russell A. Austin, liability is terminated by the terms of the lease after the first 5 years. Pursuant to such provision the court entered summary judgment orders of dismissal prior to the execution of the covenant not to sue. That was not the case as to partners Wolf and Dougherty. Erickson did not argue to the trial court or in his briefs to this court that this circumstance affects the validity of the covenant not to sue or Erickson’s liability on the lease. Accordingly, we do not address the issue. However, nothing in the record suggests that these facts would require a different result.
+RAP 2.2(a); Sea-Pac Co. v. United Food & Comm’l Workers Local Union 44,103 Wn.2d 800, 801-02, 699 P.2d 217 (1985).
