@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23702-1-I"
 decided: "1990-05-21"
-citations: ["58 Wash. App. 222", "57 Wash. App. 1069"]
+citations: ["58 Wash. App. 222"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Guy Earl Baker, Appellant."]
 source_url: "https://static.case.law/wash-app/58/cases/0222-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754411
-cites_cases: ["101 Wn.2d 612", "115 Wn.2d 1018", "14 Wn. App. 584", "22 Wn. App. 862", "24 Wn. App. 270", "377 P.2d 449", "499 P.2d 263", "544 P.2d 38", "58 Wn. App. 222", "593 P.2d 554", "599 P.2d 522", "600 P.2d 677", "61 Wn.2d 138", "614 P.2d 654", "656 P.2d 1064", "683 P.2d 1069", "7 Wn. App. 329", "92 Wn.2d 541", "94 Wn.2d 108", "98 Wn.2d 484"]
+cites_cases: ["101 Wn.2d 612", "115 Wn.2d 1018", "14 Wn. App. 584", "22 Wn. App. 862", "24 Wn. App. 270", "377 P.2d 449", "499 P.2d 263", "544 P.2d 38", "593 P.2d 554", "599 P.2d 522", "600 P.2d 677", "61 Wn.2d 138", "614 P.2d 654", "656 P.2d 1064", "683 P.2d 1069", "7 Wn. App. 329", "92 Wn.2d 541", "94 Wn.2d 108", "98 Wn.2d 484"]
 ---
 
 # State v. Baker
