@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50941-1-I"
 decided: "2004-05-17"
-citations: ["122 Wash. App. 351", "121 Wash. App. 1043"]
+citations: ["122 Wash. App. 351"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Roger F. Peterson, et al., Respondents, v. Robert A. Koester, et al.,
 source_url: "https://static.case.law/wash-app/122/cases/0351-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 499790
-cites_cases: ["114 Wn.2d 613", "121 Wn.2d 52", "122 Wn. App. 351", "131 Wn.2d 612", "135 Wn.2d 398", "445 P.2d 648", "508 P.2d 628", "638 P.2d 1231", "74 Wn.2d 575", "76 Wn. App. 705", "790 P.2d 610", "8 Wn. App. 600", "847 P.2d 440", "887 P.2d 424", "934 P.2d 669", "95 Wn. App. 64", "957 P.2d 632", "96 Wn.2d 716", "966 P.2d 305", "975 P.2d 532"]
+cites_cases: ["114 Wn.2d 613", "121 Wn.2d 52", "131 Wn.2d 612", "135 Wn.2d 398", "445 P.2d 648", "508 P.2d 628", "638 P.2d 1231", "74 Wn.2d 575", "76 Wn. App. 705", "790 P.2d 610", "8 Wn. App. 600", "847 P.2d 440", "887 P.2d 424", "934 P.2d 669", "95 Wn. App. 64", "957 P.2d 632", "96 Wn.2d 716", "966 P.2d 305", "975 P.2d 532"]
 ---
 
 # Peterson v. Koester
