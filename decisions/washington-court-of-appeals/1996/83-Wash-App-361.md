@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "18191-6-II"
+decided: "1996-08-29"
+citations: ["83 Wash. App. 361"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Earl E. Dolen, Jr., Appellant."]
+source_url: "https://static.case.law/wash-app/83/cases/0361-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1190553
+cites_cases: ["110 Wn.2d 74", "114 Wn.2d 314", "118 Wn.2d 773", "121 Wn.2d 1032", "125 Wn.2d 407", "131 Wn.2d 1006", "69 Wn. App. 152", "69 Wn. App. 183", "750 P.2d 620", "788 P.2d 531", "827 P.2d 996", "847 P.2d 956", "848 P.2d 199", "885 P.2d 824"]
+---
+
+# State v. Dolen
+
+## Majority (Armstrong, J.)
+
+Armstrong, J.
+A jury convicted Earl Dolen of one count of child rape and one count of child molestation based upon evidence of six separate incidents of child abuse. Under the evidence, Dolen could have committed both crimes in a single incident or in separate incidents. But the verdict did not specify which incident formed the basis of each conviction. The sentencing statute requires that current crimes be treated as prior convictions in calculating the offender score except those encompassing the same criminal conduct. Here, we address two questions concerning Dolen’s sentence: (1) If the convictions were based upon the same incident, did they encompass the same criminal conduct? (2) If so, because the verdict does not specify whether the convictions were for the same incident or separate incidents, did the trial court err in finding that the crimes did not encompass the same criminal conduct? We hold that the two crimes, if committed in the same incident, encompassed the same criminal conduct; furthermore, because the verdict did not specify whether the crimes occurred in the same or separate incidents, the record does not support the finding that the crimes were not part of the same criminal conduct. We vacate the sentence and remand for resentencing.
+FACTS
+The State charged Earl Dolen, Jr., with one count of second degree child rape and one count of second degree child molestation of his stepdaughter ("the child”). The State alleged these incidents occurred between June 1, 1992, and June 1, 1993, while the child was 12 and 13 years old. At trial, the child testified to six different incidents in which Dolen engaged in some or all of the following conduct: placing her hand on his penis; inserting his penis in her mouth; rubbing her breasts and vagina; and inserting his finger into her vagina. Each incident was continuous and of relatively short duration. Typical were the events of the following incident: one evening, Do-len and the child were watching A Fish Called Wanda. Dolen rubbed the child’s breasts and vagina, and inserted his finger in her vagina. Dolen then placed her hands on his penis and rubbed back and forth.
+The jury convicted Dolen of both child rape and child molestation. The trial court then considered each count as a prior conviction in determining Dolen’s offender scores because, it reasoned, the two convictions did not encompass the same criminal conduct.
+ANALYSIS
+A. Offender Scores and Same Criminal Conduct
+Dolen maintains that the trial court erred in calculating his offender scores and the resulting child rape and molestation sentences. The court is required to determine the offender score, and sentence ranges, of a defendant convicted of two or more current offenses by using all other current and prior convictions as prior convictions. RCW 9.94A.400(l)(a). If some or all of the current offenses encompass "the same criminal conduct,” however, the court counts these offenses as one crime. RCW 9.94A.400(l)(a).
+The statute defines "same criminal conduct” as "two or more crimes that require the same criminal intent, are committed at the same time and place, and involve the same victim.” RCW 9.94A.400(l)(a). If one of these elements is missing, the multiple offenses do not encompass the same criminal conduct and, therefore, must be counted separately in calculating the offender score. State v. Lessley, 118 Wn.2d 773, 778, 827 P.2d 996 (1992). The trial court’s determination of what constitutes the same criminal conduct for purposes of calculating an offender score will be reversed only for an abuse of discretion or misapplication of the law. State v. Burns, 114 Wn.2d 314, 317, 788 P.2d 531 (1990).
+If the jury convicted Dolen of both child rape and child molestation for the same incident, the victim, time, and place of the crimes were the same. The question is whether Dolen had the same criminal intent. To answer this, we consider whether Dolen’s objective criminal intent changed from one crime to the next. State v. Vike, 125 Wn.2d 407, 411, 885 P.2d 824 (1994). This depends, in part, on whether one crime furthered the other. Vike, 125 Wn.2d at 411.
+In State v. Walden, 69 Wn. App. 183, 188, 847 P.2d 956 (1993), the court held that child rape and attempted child rape committed by forced masturbation and fellatio followed by attempted anal intercourse, in quick succession, involved the same criminal intent — sexual intercourse. Here, we hold that Dolen’s crimes, committed through continuous sexual behavior over a short period of time, also involved the same objective criminal intent — present sexual gratification. Furthermore, we believe that the child molestation furthered the child rape. In the incident described, the inappropriate rubbing and touching of the child led to the penetration of the child’s vagina.
+It follows that if the jury convicted Dolen of both offenses for the same incident, the crimes encompassed the same criminal conduct. But the record does not tell us whether the jury convicted Dolen of committing the two offenses in a single incident or in separate incidents. At sentencing, the State has the burden of proving the defendant’s criminal history by a preponderance of the evidence. RCW 9.94A.110; State v. Jones, 110 Wn.2d 74, 77, 750 P.2d 620 (1988). If the time an offense was committed affects the seriousness of the sentence, the State must prove the relevant time. State v. Gurrola, 69 Wn. App. 152, 158, 848 P.2d 199, review denied, 121 Wn.2d 1032 (1993).
+Here, the State failed to prove that Dolen committed the crimes in separate incidents. Consequently, the trial court’s finding that the two convictions did not constitute the same criminal conduct is unsupported. The trial court erred in treating each conviction as a prior offense in determining Dolen’s offender scores and criminal sentences. We vacate the sentences and remand for resentenc-ing.
+A majority of the panel having determined that only the foregoing portion of this opinion will be printed in the Washington Appellate Reports and that the remainder shall be filed for public record pursuant to RCW 2.06.040, it is so ordered.
+Houghton, A.C.J., and Bridgewater, J., concur.
+Review denied at 131 Wn.2d 1006 (1997).
