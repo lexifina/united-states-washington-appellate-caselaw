@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52484-4-I"
 decided: "2004-06-14"
-citations: ["122 Wash. App. 395", "121 Wash. App. 1081"]
+citations: ["122 Wash. App. 395"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jesse Quincy, Appellant."]
 source_url: "https://static.case.law/wash-app/122/cases/0395-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 499681
-cites_cases: ["122 Wn. App. 395", "132 Wn.2d 529", "133 Wn.2d 389", "153 Wn.2d 1028", "257 P.2d 179", "34 Wn. App. 600", "42 Wn.2d 590", "663 P.2d 156", "75 Wn. App. 256", "83 Wn. App. 509", "876 P.2d 979", "922 P.2d 168", "940 P.2d 546", "945 P.2d 1120"]
+cites_cases: ["132 Wn.2d 529", "133 Wn.2d 389", "153 Wn.2d 1028", "257 P.2d 179", "34 Wn. App. 600", "42 Wn.2d 590", "663 P.2d 156", "75 Wn. App. 256", "83 Wn. App. 509", "876 P.2d 979", "922 P.2d 168", "940 P.2d 546", "945 P.2d 1120"]
 ---
 
 # State v. Quincy
