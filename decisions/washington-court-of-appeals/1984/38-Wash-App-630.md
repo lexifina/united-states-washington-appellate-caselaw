@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10363-6-I"
 decided: "1984-07-16"
-citations: ["38 Wash. App. 630", "38 Wash. App. 1015"]
+citations: ["38 Wash. App. 630"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Francis L. Chaussee, Appellant, v. Snohomish County Council, et al, R
 source_url: "https://static.case.law/wash-app/38/cases/0630-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791609
-cites_cases: ["101 Idaho 407", "19 Wash. 333", "19 Wn. App. 571", "19 Wn. App. 780", "19 Wn. App. 932", "20 Wn. App. 571", "21 Wn. App. 566", "23 Wn. App. 142", "23 Wn. App. 522", "259 P.2d 838", "28 Wn. App. 230", "31 Wn. App. 615", "32 Wn. App. 386", "32 Wn. App. 959", "33 Wn. App. 310", "35 Wn. App. 539", "364 A.2d 1241", "38 Wn. App. 630", "42 Wn.2d 885", "443 P.2d 833", "492 P.2d 1374", "521 P.2d 1173", "527 P.2d 1377", "53 P. 368", "576 P.2d 447", "578 P.2d 50", "578 P.2d 875", "582 P.2d 534", "586 P.2d 509", "594 P.2d 1375", "597 P.2d 440", "622 P.2d 898", "635 P.2d 721", "641 P.2d 163", "643 P.2d 426", "644 P.2d 685", "647 P.2d 540", "650 P.2d 1138", "654 P.2d 720", "667 P.2d 1136", "74 Wn.2d 161", "80 Wn.2d 209", "83 Wn.2d 707", "84 Wn.2d 579", "96 Wn.2d 359", "97 Wn.2d 118", "97 Wn.2d 215"]
+cites_cases: ["101 Idaho 407", "19 Wash. 333", "19 Wn. App. 571", "19 Wn. App. 780", "19 Wn. App. 932", "20 Wn. App. 571", "21 Wn. App. 566", "23 Wn. App. 142", "23 Wn. App. 522", "259 P.2d 838", "28 Wn. App. 230", "31 Wn. App. 615", "32 Wn. App. 386", "32 Wn. App. 959", "33 Wn. App. 310", "35 Wn. App. 539", "364 A.2d 1241", "42 Wn.2d 885", "443 P.2d 833", "492 P.2d 1374", "521 P.2d 1173", "527 P.2d 1377", "53 P. 368", "576 P.2d 447", "578 P.2d 50", "578 P.2d 875", "582 P.2d 534", "586 P.2d 509", "594 P.2d 1375", "597 P.2d 440", "622 P.2d 898", "635 P.2d 721", "641 P.2d 163", "643 P.2d 426", "644 P.2d 685", "647 P.2d 540", "650 P.2d 1138", "654 P.2d 720", "667 P.2d 1136", "74 Wn.2d 161", "80 Wn.2d 209", "83 Wn.2d 707", "84 Wn.2d 579", "96 Wn.2d 359", "97 Wn.2d 118", "97 Wn.2d 215"]
 ---
 
 # Chaussee v. Snohomish County Council
