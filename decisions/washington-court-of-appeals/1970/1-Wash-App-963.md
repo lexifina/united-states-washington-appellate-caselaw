@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "106-40584-1"
+decided: "1970-02-24"
+citations: ["1 Wash. App. 963"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Virginia F. Rehak, Respondent, v. Lewis F. Rehak, Appellant."]
+source_url: "https://static.case.law/wash-app/1/cases/0963-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1861765
+cites_cases: ["1 Wn. App. 614", "110 P.2d 645", "115 P.2d 142", "124 F.2d 965", "178 P.2d 725", "223 P.2d 1055", "27 Wn.2d 456", "312 P.2d 661", "385 P.2d 50", "433 P.2d 209", "440 P.2d 182", "446 P.2d 340", "448 P.2d 926", "464 P.2d 742", "50 Wn.2d 439", "62 Wn.2d 917", "7 Wn.2d 562", "72 Wn.2d 404", "73 Wn.2d 671", "74 Wn.2d 736", "75 Wn.2d 36"]
+---
+
+# Rehak v. Rehak
+
+## Majority (Utter, J.)
+
+Utter, J.
+Virginia and Lewis Rehak were awarded divorces from each other. The husband appeals and the sole issue presented is whether the trial court abused its discretion in awarding all the community property to the wife.
+Each party had been previously married and no children were born of this marriage. Findings, to which no exceptions were taken, indicated during the marriage the husband had been employed as a carpenter or millwright earning approximately $7,500 to $8,000 a year and the wife employed as a cocktail waitress and barmaid earning between $3,000 to $4,000 a year.
+Community property was acquired consisting of a house with a $5,327 equity, furnishings worth $1,500, a 1962 Dodge worth $433, a 1968 Ford and 'a 1963 GMC truck, each with no equity. The husband obtained before marriage without substantial cost to him separate properties which he still held at the time of the divorce, valued at trial at $30,000.
+The decree awarded the wife the equity in the home subject to a lien for $1,500 in favor of the husband’s mother, the 1962 Dodge and most of the household furniture, for a total award of $5,760.
+Awarded to the husband was his separate property worth $30,000, the Ford automobile and GMC truck, certain keepsakes, items of personal use and some household furnishings. He was further directed to pay approximately $6,500 of outstanding community debts of which $4,922.20 was owed to his mother, and to pay the wife’s attorney’s fees.
+A manifest abuse of discretion must occur before the court will interfere with the trial court’s disposition of property in a divorce action. Mayo v. Mayo, 75 Wn.2d 36, 448 P.2d 926 (1968). Discretion has been defined as “The power exercised by courts to determine questions to which no strict rule of law is applicable but which, from their nature, and the circumstances of the case, are controlled by the personal judgment of the court.” 1 J. Bouvier’s Law Dictionary 884 (3d rev. 1914). The personal judgment of the court is based on an equitable decision of what is just and proper- under the circumstances. State ex rel. Nielsen v. Superior Court, 7 Wn.2d 562, 110 P.2d 645, 115 P.2d 142 (1941).
+In State v. Potts, 1 Wn. App. 614, 464 P.2d 742 (1970), the limits within which this-personal judgment-must be exercised were described where the court stated at 620:
+The judge,, even when he is free, is still not wholly free. He is not to innovate at pleasure. He is not a knight-errant roaming at will in pursuit of his own ideal of beauty or of goodness. He is to draw his inspiration from' consecrated principles. He is not to yield to spasmodic sentiment, to vague and unregulated benevolence. He is to exercise a discretion informed by tradition, methodized by analogy, disciplined by system, and subordinated to “the primordial necessity of order in the social life.” Wide enough in all conscience is the field of discretion that remains.
+(Footnote omitted.) Cardozo, The Nature of the Judicial Process, Yale University Press 141 (1921).
+In Delno v. Market St. Ry., 124 F.2d 965, 967 (9th Cir. 1942), discretion is said to be abused:
+when the judicial action is arbitrary, fanciful or unreasonable, which is another way of saying that discretion is abused only where no reasonable man would take the view adopted by the trial court. If reasonable men could differ as to the propriety of the action taken by the trial court, then it cannot be said that the trial court abused its discretion. ■
+In Holm v. Holm, 27 Wn.2d 456, 178 P.2d 725 (1947), our court stated substantially the same test at 463:
+The term “abuse of judicial discretion” does not mean simply the decision of a case by whim, caprice, arbitrary conduct, through ulterior motive, or in willful disregard of a-litigant’s rights, but contemplates as well a discretion exercised upon grounds, or to an extent, clearly untenable or manifestly unreasonable.
+Abuse of discretion is more-than disagreement with the trial court’s opinion or an honest difference of opinion. Rogstad v. Rogstad, 74 Wn.2d 736, 446 P.2d 340 (1968); Thoren v. Thoren, 73 Wn.2d 671, 440 P.2d 182 (1968).
+Some apparent reason must be present for the action of the court to constitute a proper exercise of discretion in this type of case. Berol v. Berol, 37 Wn.2d, 380, 223 P.2d 1055 (1950); State ex rel. Nielsen v. Superior Court, supra.
+In the disposition of the parties’ property in a divorce case, the judge does not have unfettered freedom to exercise his personal judgment and may exercise his discretion only within certain broad guidelines. The statute requires the court to make a just and equitable disposition of the properties, whether community or separate, having regard to the merits of the parties, to the condition in which they will be left by such divorce, the particular sources through which the property was acquired and the burdens imposed upon it for the benefit of the children. RCW26.08.110.
+These guidelines were amplified for the trial court in DeRuwe v. DeRuwe, 72 Wn.2d 404, 433 P.2d 209 (1967). The court there indicated we should also take into consideration in arriving at a just and equitable division the necessities of the wife and the financial ability of the husband, the age, health, education and employment history of the parties and their children, the future earning prospects of all of them, the sources and dates of acquisition of all property accumulated by the parties during the marriage and what properties each brought into or contributed to the community property, along with the amounts and kinds of property left to be divided at the divorce. Even when regard is had for the fault of the parties and the wrong inflicted by the one upon the other, it is the economic condition in which the decree will leave the parties that engenders the paramount concern in providing for child support and alimony and in making a property division.
+In the absence of significant statutory factors or equities, we have held that community property should be divided more equally than one-third to one party and two-thirds to the other. Wills v. Wills, 50 Wn.2d 439, 312 P.2d 661 (1957). The process of distribution of property is not a mechanical or mathematical one, however, and the law does not impel an exact division of community property between the parties. Where statutory factors or equities are present, the disposition need only be just and equitable and wide latitude and discretion is vested in the trial court. Robuck v. Robuck, 62 Wn.2d 917, 385 P.2d 50 (1963).
+It is apparent the trial court exercised its judgment with the statute and the guidelines of DeRuwe in mind. Although the decree does award substantially all the community property to the wife, this was thought by the court, as indicated in its oral opinion, to be necessary to provide her an economic position more comparable to the husband due to the difference in their incomes, employability and job security.
+The husband is not impoverished by the decree. His sole ownership of his substantial separate property, as well as the other distinguishing economic factors between the husband and wife, do not make the disposition of the assets and liabilities of the parties by the trial court appear to us to be a manifest abuse of discretion. This disparity in economic factors also supports the trial court’s award of attorney’s fees to the wife.
+We cannot conclude that no reasonable man would take the view adopted by the trial court. The judgment of the trial court is affirmed.
+Horowitz, A. C. J., and Williams, J., concur.
