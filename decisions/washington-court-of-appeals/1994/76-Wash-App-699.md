@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13427-0-III"
 decided: "1994-12-14"
-citations: ["76 Wash. App. 699", "76 Wash. App. 1042"]
+citations: ["76 Wash. App. 699"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, on the Relation of Danielle N. O’Brien, et
 source_url: "https://static.case.law/wash-app/76/cases/0699-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490024
-cites_cases: ["102 Wn.2d 1024", "110 Wn.2d 475", "126 Wn.2d 1018", "25 Wn. App. 762", "32 Wn. App. 606", "33 Wn. App. 629", "38 Wn. App. 288", "409 U.S. 535", "564 P.2d 795", "603 P.2d 373", "612 P.2d 1", "62 Wn. App. 378", "645 P.2d 1082", "648 P.2d 508", "658 P.2d 8", "687 P.2d 223", "72 Wn. App. 544", "754 P.2d 105", "76 Wn. App. 699", "814 P.2d 238", "865 P.2d 33", "88 Wn.2d 586", "92 Wn.2d 930", "94 Wn.2d 1009", "97 Wn.2d 445", "99 Wn.2d 1016"]
+cites_cases: ["102 Wn.2d 1024", "110 Wn.2d 475", "126 Wn.2d 1018", "25 Wn. App. 762", "32 Wn. App. 606", "33 Wn. App. 629", "38 Wn. App. 288", "409 U.S. 535", "564 P.2d 795", "603 P.2d 373", "612 P.2d 1", "62 Wn. App. 378", "645 P.2d 1082", "648 P.2d 508", "658 P.2d 8", "687 P.2d 223", "72 Wn. App. 544", "754 P.2d 105", "814 P.2d 238", "865 P.2d 33", "88 Wn.2d 586", "92 Wn.2d 930", "94 Wn.2d 1009", "97 Wn.2d 445", "99 Wn.2d 1016"]
 ---
 
 # State ex rel. O'Brien v. Cooperrider
