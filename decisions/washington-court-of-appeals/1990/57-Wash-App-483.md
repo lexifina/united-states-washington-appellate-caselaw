@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12673-7-II"
 decided: "1990-03-07"
-citations: ["57 Wash. App. 483", "57 Wash. App. 1009"]
+citations: ["57 Wash. App. 483"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dianna M. Everist, Respondent, v. The Department of Labor and Industr
 source_url: "https://static.case.law/wash-app/57/cases/0483-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1756938
-cites_cases: ["114 Wn.2d 1027", "121 Pa. Commw. 47", "132 Cal. Rptr. 527", "370 P.2d 582", "472 So. 2d 1223", "525 P.2d 774", "57 Wn. App. 483", "59 Wn.2d 772", "61 Cal. App. 3d 524", "656 P.2d 1030", "664 P.2d 1227", "7 Or. App. 470", "84 Wn.2d 271", "98 Wn.2d 434", "99 Wn.2d 815"]
+cites_cases: ["114 Wn.2d 1027", "121 Pa. Commw. 47", "132 Cal. Rptr. 527", "370 P.2d 582", "472 So. 2d 1223", "525 P.2d 774", "59 Wn.2d 772", "61 Cal. App. 3d 524", "656 P.2d 1030", "664 P.2d 1227", "7 Or. App. 470", "84 Wn.2d 271", "98 Wn.2d 434", "99 Wn.2d 815"]
 ---
 
 # Everist v. Department of Labor & Industries
