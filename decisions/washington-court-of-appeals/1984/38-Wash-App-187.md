@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12640-7-I"
 decided: "1984-06-18"
-citations: ["38 Wash. App. 187", "37 Wash. App. 1069"]
+citations: ["38 Wash. App. 187"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Ercell James Terrell, Appella
 source_url: "https://static.case.law/wash-app/38/cases/0187-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791805
-cites_cases: ["31 Wn. App. 554", "38 Wn. App. 187", "482 P.2d 775", "644 P.2d 677", "79 Wn.2d 12"]
+cites_cases: ["31 Wn. App. 554", "482 P.2d 775", "644 P.2d 677", "79 Wn.2d 12"]
 ---
 
 # State v. Terrell
