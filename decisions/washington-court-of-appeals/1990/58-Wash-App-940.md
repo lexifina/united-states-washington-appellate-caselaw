@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12501-3-II"
 decided: "1990-06-06"
-citations: ["58 Wash. App. 940", "58 Wash. App. 1009"]
+citations: ["58 Wash. App. 940"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James C. Stark, Appellant, v. Celotex Corporation, et al, Respondents
 source_url: "https://static.case.law/wash-app/58/cases/0940-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754217
-cites_cases: ["100 Wn.2d 421", "109 Wn.2d 923", "115 Wn.2d 1020", "58 Wn. App. 940", "671 P.2d 230", "750 P.2d 231"]
+cites_cases: ["100 Wn.2d 421", "109 Wn.2d 923", "115 Wn.2d 1020", "671 P.2d 230", "750 P.2d 231"]
 ---
 
 # Stark v. Celotex Corp.
