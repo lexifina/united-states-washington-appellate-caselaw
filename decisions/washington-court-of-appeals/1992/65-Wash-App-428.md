@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27079-6-I"
 decided: "1992-03-30"
-citations: ["65 Wash. App. 428", "64 Wash. App. 1041"]
+citations: ["65 Wash. App. 428"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Leander Bryant, Appellant."]
 source_url: "https://static.case.law/wash-app/65/cases/0428-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1735995
-cites_cases: ["10 Wn.2d 167", "104 Wn.2d 315", "105 Wn.2d 889", "107 Wn.2d 97", "109 Wn.2d 1027", "112 Wn.2d 1026", "113 Wn.2d 679", "114 Wn.2d 6", "115 Wn.2d 1025", "116 P.2d 346", "116 Wn.2d 831", "117 Wn.2d 93", "12 Wn. App. 416", "127 A.L.R. 1022", "129 Wash. 134", "192 Wash. 160", "200 Wash. 1", "21 Wn. App. 16", "224 P. 559", "26 Wn. App. 74", "31 Wn. App. 381", "39 Wn. App. 273", "4 Wn. App. 275", "424 P.2d 1021", "445 P.2d 1017", "457 P.2d 194", "480 P.2d 800", "49 Wn. App. 155", "497 U.S. 805", "498 U.S. 838", "51 Wash. 223", "514 P.2d 151", "529 P.2d 1124", "53 Wn. App. 709", "542 P.2d 445", "58 Wn. App. 478", "584 P.2d 948", "594 P.2d 442", "612 P.2d 812", "62 Wash. L. Rev. 705", "639 P.2d 761", "65 Wn. App. 428", "693 P.2d 145", "70 Wn.2d 690", "704 P.2d 1189", "719 P.2d 554", "721 F.2d 1229", "727 P.2d 239", "73 P.2d 735", "74 Wn.2d 659", "741 P.2d 589", "76 Wn.2d 398", "770 P.2d 646", "782 P.2d 552", "785 P.2d 440", "794 P.2d 38", "809 R2d 190", "812 P.2d 86", "82 Wn.2d 777", "85 Wn.2d 1009", "86 Wn.2d 58", "91 Wn.2d 1010", "92 P.2d 1113", "92 Wn.2d 95", "94 Wn.2d 1005", "97 Wn.2d 1021", "98 P. 659"]
+cites_cases: ["10 Wn.2d 167", "104 Wn.2d 315", "105 Wn.2d 889", "107 Wn.2d 97", "109 Wn.2d 1027", "112 Wn.2d 1026", "113 Wn.2d 679", "114 Wn.2d 6", "115 Wn.2d 1025", "116 P.2d 346", "116 Wn.2d 831", "117 Wn.2d 93", "12 Wn. App. 416", "127 A.L.R. 1022", "129 Wash. 134", "192 Wash. 160", "200 Wash. 1", "21 Wn. App. 16", "224 P. 559", "26 Wn. App. 74", "31 Wn. App. 381", "39 Wn. App. 273", "4 Wn. App. 275", "424 P.2d 1021", "445 P.2d 1017", "457 P.2d 194", "480 P.2d 800", "49 Wn. App. 155", "497 U.S. 805", "498 U.S. 838", "51 Wash. 223", "514 P.2d 151", "529 P.2d 1124", "53 Wn. App. 709", "542 P.2d 445", "58 Wn. App. 478", "584 P.2d 948", "594 P.2d 442", "612 P.2d 812", "62 Wash. L. Rev. 705", "639 P.2d 761", "693 P.2d 145", "70 Wn.2d 690", "704 P.2d 1189", "719 P.2d 554", "721 F.2d 1229", "727 P.2d 239", "73 P.2d 735", "74 Wn.2d 659", "741 P.2d 589", "76 Wn.2d 398", "770 P.2d 646", "782 P.2d 552", "785 P.2d 440", "794 P.2d 38", "809 R2d 190", "812 P.2d 86", "82 Wn.2d 777", "85 Wn.2d 1009", "86 Wn.2d 58", "91 Wn.2d 1010", "92 P.2d 1113", "92 Wn.2d 95", "94 Wn.2d 1005", "97 Wn.2d 1021", "98 P. 659"]
 ---
 
 # State v. Bryant
