@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11200-1-II"
 decided: "1988-12-02"
-citations: ["53 Wash. App. 140", "52 Wash. App. 1078"]
+citations: ["53 Wash. App. 140"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Christopher Doug Johnstun, Respondent, v. The Department of Social an
 source_url: "https://static.case.law/wash-app/53/cases/0140-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764060
-cites_cases: ["104 Wn.2d 1019", "106 Wn.2d 84", "110 Wn.2d 60", "20 Wn. App. 406", "41 Wn. App. 259", "53 Wn. App. 140", "581 P.2d 1060", "595 P.2d 926", "703 P.2d 1066", "720 P.2d 831", "749 P.2d 1299", "92 Wn.2d 265"]
+cites_cases: ["104 Wn.2d 1019", "106 Wn.2d 84", "110 Wn.2d 60", "20 Wn. App. 406", "41 Wn. App. 259", "581 P.2d 1060", "595 P.2d 926", "703 P.2d 1066", "720 P.2d 831", "749 P.2d 1299", "92 Wn.2d 265"]
 ---
 
 # Johnstun v. Department of Social & Health Services
