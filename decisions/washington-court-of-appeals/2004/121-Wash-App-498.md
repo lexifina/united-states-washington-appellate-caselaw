@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50154-2-I"
 decided: "2004-02-02"
-citations: ["121 Wash. App. 498", "120 Wash. App. 1001"]
+citations: ["121 Wash. App. 498"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Amado Delos Reyes, as Personal Representative, Appellant, v. The City
 source_url: "https://static.case.law/wash-app/121/cases/0498-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 864082
-cites_cases: ["101 Wn.2d 307", "105 Wn.2d 864", "110 Wn. App. 366", "116 Wn. App. 171", "118 Wn.2d 585", "121 Wn. App. 498", "121 Wn.2d 833", "124 Wn.2d 158", "140 Wn.2d 88", "152 Wn.2d 1031", "40 P.3d 1200", "61 Wn. App. 243", "64 P.3d 677", "678 P.2d 803", "68 Wn. App. 486", "719 P.2d 104", "76 Wn. App. 237", "809 P.2d 769", "826 P.2d 152", "83 Wn. App. 304", "843 P.2d 1109", "854 P.2d 1061", "876 P.2d 435", "885 P.2d 845", "921 P.2d 1084", "97 Wn. App. 181", "983 P.2d 1127", "993 P.2d 259"]
+cites_cases: ["101 Wn.2d 307", "105 Wn.2d 864", "110 Wn. App. 366", "116 Wn. App. 171", "118 Wn.2d 585", "121 Wn.2d 833", "124 Wn.2d 158", "140 Wn.2d 88", "152 Wn.2d 1031", "40 P.3d 1200", "61 Wn. App. 243", "64 P.3d 677", "678 P.2d 803", "68 Wn. App. 486", "719 P.2d 104", "76 Wn. App. 237", "809 P.2d 769", "826 P.2d 152", "83 Wn. App. 304", "843 P.2d 1109", "854 P.2d 1061", "876 P.2d 435", "885 P.2d 845", "921 P.2d 1084", "97 Wn. App. 181", "983 P.2d 1127", "993 P.2d 259"]
 ---
 
 # Delos Reyes v. City of Renton
