@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20415-4-III"
 decided: "2002-10-31"
-citations: ["114 Wash. App. 625", "114 Wash. App. 1018"]
+citations: ["114 Wash. App. 625"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Cameron Allstot, Appellant, v. Thomas Edwards, Individually and as Ch
 source_url: "https://static.case.law/wash-app/114/cases/0625-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 163495
-cites_cases: ["107 Wn.2d 761", "114 Wn. App. 625", "116 F.3d 482", "117 Wn.2d 426", "121 Wn.2d 479", "130 Wn.2d 486", "132 Wn.2d 318", "134 Wn.2d 232", "136 Wn.2d 152", "139 Wn.2d 659", "143 Wn.2d 514", "146 Wn.2d 29", "149 Wn.2d 1028", "22 P.3d 795", "285 F.3d 1174", "42 P.3d 1265", "442 P.2d 621", "456 P.2d 335", "568 P.2d 780", "733 P.2d 530", "74 Wn. App. 1021", "74 Wn.2d 25", "75 Wn. App. 110", "76 Wn.2d 255", "77 Wn. App. 867", "815 P.2d 1362", "852 P.2d 1055", "871 P.2d 590", "876 P.2d 944", "88 Wn.2d 933", "895 P.2d 6", "91 Wn. App. 919", "925 P.2d 194", "937 P.2d 1062", "950 P.2d 1", "959 P.2d 1130", "961 P.2d 371", "989 P.2d 1111"]
+cites_cases: ["107 Wn.2d 761", "116 F.3d 482", "117 Wn.2d 426", "121 Wn.2d 479", "130 Wn.2d 486", "132 Wn.2d 318", "134 Wn.2d 232", "136 Wn.2d 152", "139 Wn.2d 659", "143 Wn.2d 514", "146 Wn.2d 29", "149 Wn.2d 1028", "22 P.3d 795", "285 F.3d 1174", "42 P.3d 1265", "442 P.2d 621", "456 P.2d 335", "568 P.2d 780", "733 P.2d 530", "74 Wn. App. 1021", "74 Wn.2d 25", "75 Wn. App. 110", "76 Wn.2d 255", "77 Wn. App. 867", "815 P.2d 1362", "852 P.2d 1055", "871 P.2d 590", "876 P.2d 944", "88 Wn.2d 933", "895 P.2d 6", "91 Wn. App. 919", "925 P.2d 194", "937 P.2d 1062", "950 P.2d 1", "959 P.2d 1130", "961 P.2d 371", "989 P.2d 1111"]
 ---
 
 # Allstot v. Edwards
