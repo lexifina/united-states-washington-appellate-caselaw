@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7503-6-III"
 decided: "1987-05-28"
-citations: ["49 Wash. App. 457", "47 Wash. App. 1081"]
+citations: ["49 Wash. App. 457"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["William Ross Gillanders, Respondent, v. Georgine Helena Gillanders, A
 source_url: "https://static.case.law/wash-app/49/cases/0457-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1738923
-cites_cases: ["26 Wn. App. 843", "49 Wn. App. 457", "510 P.2d 814", "615 P.2d 508", "82 Wn.2d 360"]
+cites_cases: ["26 Wn. App. 843", "510 P.2d 814", "615 P.2d 508", "82 Wn.2d 360"]
 ---
 
 # Gillanders v. Gillanders
