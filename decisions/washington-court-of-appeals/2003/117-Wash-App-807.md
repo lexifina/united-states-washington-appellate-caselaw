@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49644-1-I"
 decided: "2003-05-12"
-citations: ["117 Wash. App. 807", "116 Wash. App. 1066"]
+citations: ["117 Wash. App. 807"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ellis Court Apartments Limited Partnership, Respondent, v. State Farm
 source_url: "https://static.case.law/wash-app/117/cases/0807-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 652624
-cites_cases: ["104 Wn. App. 597", "115 Wn.2d 679", "117 Wn. App. 807", "117 Wn.2d 37", "126 Wn.2d 50", "133 Wn.2d 751", "134 Wn.2d 413", "142 Wn.2d 654", "143 Wn.2d 1023", "144 Wn.2d 130", "15 P.3d 115", "17 P.3d 626", "205 Cal. App. 3d 1388", "253 Cal. Rptr. 277", "26 P.3d 910", "274 Cal. Rptr. 387", "51 Cal. 3d 674", "534 N.W.2d 28", "64 Wn. App. 838", "798 P.2d 1230", "801 P.2d 207", "811 P.2d 673", "827 P.2d 1024", "882 P.2d 703", "891 P.2d 718", "948 P.2d 796", "951 P.2d 250"]
+cites_cases: ["104 Wn. App. 597", "115 Wn.2d 679", "117 Wn.2d 37", "126 Wn.2d 50", "133 Wn.2d 751", "134 Wn.2d 413", "142 Wn.2d 654", "143 Wn.2d 1023", "144 Wn.2d 130", "15 P.3d 115", "17 P.3d 626", "205 Cal. App. 3d 1388", "253 Cal. Rptr. 277", "26 P.3d 910", "274 Cal. Rptr. 387", "51 Cal. 3d 674", "534 N.W.2d 28", "64 Wn. App. 838", "798 P.2d 1230", "801 P.2d 207", "811 P.2d 673", "827 P.2d 1024", "882 P.2d 703", "891 P.2d 718", "948 P.2d 796", "951 P.2d 250"]
 ---
 
 # Ellis Court Apartments Ltd. Partnership v. State Farm Fire & Casualty Co.
