@@ -1,0 +1,32 @@
+---
+court: "Washington Court of Appeals"
+docket: "531-1, 530-1"
+decided: "1971-03-01"
+citations: ["4 Wash. App. 356"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Larry Wendell Larsen, Appellant. The State of Washington, Respondent, v. Albert Lee Perryman, Appellant."]
+source_url: "https://static.case.law/wash-app/4/cases/0356-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1843512
+cites_cases: ["1 Wn. App. 415", "267 U.S. 132", "3 Wn. App. 491", "352 P.2d 189", "364 P.2d 930", "386 U.S. 18", "39 A.L.R. 790", "399 U.S. 42", "432 P.2d 654", "461 P.2d 569", "475 P.2d 797", "56 Wn.2d 283", "58 Wn.2d 746", "72 Wn.2d 264", "81 A.L.R.2d 1088"]
+---
+
+# State v. Larsen
+
+## Majority (Swanson, J.)
+
+Swanson, J.
+Larry Wendell Larsen and Albert Lee Perryman were charged with unlawful possession of marijuana with intent to sell. Both defendants were convicted by a King County jury, and they appeal.
+Appellants Perryman and Larsen first assign error to the trial court’s denial of their motion to suppress certain evidence, namely, a suitcase containing 14 white plastic bags of marijuana which was taken by the police from their yellow Chevrolet van at the time of their arrest. The appellants argue that the Seattle police officers did not have legal ground to arrest them or to search their vehicle. This is so, appellants say, because the police officers, lacking observation of a crime being committed and a warrant for their arrest, could legally arrest them only if they had reasonable grounds to believe that a felony had been committed. Appellants contend that the officers did not have reasonable grounds to so believe because the information they received did not specify whether or not the suitcase contained 40 grams of marijuana which, pursuant to RCW 69.40.070 (5), is prima facie evidence of intent to sell marijuana, a felony. Thus, appellants say, the police officers had no more than reasonable grounds to believe that a misdemeanor had been committed. And since it was not committed in their presence, a warrant was necessary for a valid arrest. This contention has no merit. The information given by the reliable informant was that he had seen a suitcase containing white plastic bags which he believed to be marijuana in the rear of a yellow Chevrolet van bearing California license No. 74255A. The informant also told the officers the van was occupied by two white males from California who planned to sell the marijuana and return immediately to the south. We believe a reasonably prudent 'and cautious narcotics agent would have been convinced that the marijuana, contained in white plastic bags carried in a suitcase by persons entering this state for the primary purpose of selling it, would weigh more than 40 grams, the amount necessary to presume an intent to sell marijuana, a felony. See State v. Bellows, 72 Wn.2d 264, 432 P.2d 654 (1967); State v. Isham, 1 Wn. App. 415, 418, 461 P.2d 569 (1969).
+Secondly, the search of the appellants’ vehicle was also permissible, independent of their arrest. The trial court found, and we think correctly, that, on the basis of the information received, the officers had reasonable cause to believe that the contents of the vehicle included dangerous drugs, namely, marijuana; thus, the search was warranted. Carroll v. United States, 267 U.S. 132, 69 L. Ed. 543, 45 S. Ct. 280, 39 A.L.R. 790 (1925) and Chambers v. Maroney, 399 U.S. 42, 26 L. Ed. 2d 419, 90 S. Ct. 1975 (1970).
+The appellants next contend that the trial court committed reversible error in admitting into evidence pictures of the appellants which portrayed their appearance on the day of their arrest. They argue that such exhibits had no purpose other than to inflame the prejudices of the jury members against them. The appellants assert, and it is not denied, that they had their beards shaved, their hair trimmed, 'and were dressed in neat conventional clothes at the time of the trial. Their argument has no merit for these reasons: First, it is not disputed that the pictures accurately portrayed their appearance at the time of the arrest. The police officers described the appellants’ appearance to the jury without objection. Therefore, the pictures simply corroborated the officers’ testimony and served to illustrate in a somewhat more graphic fashion the officers’ oral descriptions. Secondly, there is no showing, nor can we find, that the admission of such exhibits in any way prejudiced the jury against these appellants. We believe beyond a reasonable doubt that they would have been convicted even with the exclusion of the pictures. Thus, even if it was error to admit them, it was harmless error. Chapman v. California, 386 U.S. 18, 17 L. Ed. 2d 705, 87 S. Ct. 824 (1967).
+Appellants’ next three assignments of error contend that the trial court erred in instructing the jury on the presumption that possession of marijuana in excess of 40 grams shall be prima facie evidence that the possession was with intent to sell. Such an instruction was upheld in State v. Person, 56 Wn.2d 283, 352 P.2d 189, 81 A.L.R.2d 1088 (1960), State v. Thomas, 58 Wn.2d 746, 364 P.2d 930 (1961), and State v. Gilbert, 3 Wn. App. 491, 475 P.2d 797 (1970). Finally, appellants argue there was insufficient evidence to support a conviction. We have carefully examined the trial record and find ample evidence to support the conclusion that the defendants knowingly had possession of the marijuana.
+Judgment affirmed.
+Farris and James, JJ., concur.
+Petition for rehearing denied April 29, 1971.
+Review denied by Supreme Court June 9, 1971.
+RCW 69.40.070(5) “Except as provided in subsection (4) oí this section, for any sale of cannabis or for possession with intent to sell, the offender shall be guilty of a felony and shall be fined not more than five thousand dollars and be imprisoned in the state penitentiary not less than three nor more than ten years. In any prosecution under this section, proof that a person unlawfully possessed in excess of forty grams of cannabis shall be prima facie evidence that possession was with intent to sell.”
+Upon seizure the suitcase contained 13,500 grams of marijuana.
+The record shows that the change in the appellants’ appearance was due to counsel’s advice to make a concession to convention to demonstrate respect for authority and the court.
