@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18342-4-III"
 decided: "2000-02-08"
-citations: ["100 Wash. App. 7", "99 Wash. App. 1028"]
+citations: ["100 Wash. App. 7"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ernest G. Smith, Appellant, v. Okanogan County, Respondent."]
 source_url: "https://static.case.law/wash-app/100/cases/0007-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363029
-cites_cases: ["100 Wn. App. 7", "114 Wn.2d 1002", "120 Wn.2d 782", "125 Wn.2d 243", "126 Wn.2d 1019", "131 Wn.2d 25", "133 Wn.2d 565", "135 Wn.2d 734", "137 Wn.2d 1012", "26 A.L.R.4th 692", "421 U.S. 132", "5 U.S.C. § 552", "51 Wn. App. 908", "55 Wn. App. 706", "580 P.2d 246", "618 P.2d 76", "756 P.2d 174", "76 Wn. App. 470", "780 P.2d 272", "80 Wn. App. 296", "81 Wn. App. 696", "845 P.2d 995", "86 Wn. App. 688", "88 Wn. App. 925", "884 P.2d 592", "887 P.2d 431", "90 Wn.2d 123", "908 P.2d 914", "915 P.2d 1146", "92 Wn. App. 403", "929 P.2d 389", "937 P.2d 1176", "94 Wn.2d 559", "946 P.2d 1235", "947 P.2d 712", "958 P.2d 260", "960 P.2d 447"]
+cites_cases: ["114 Wn.2d 1002", "120 Wn.2d 782", "125 Wn.2d 243", "126 Wn.2d 1019", "131 Wn.2d 25", "133 Wn.2d 565", "135 Wn.2d 734", "137 Wn.2d 1012", "26 A.L.R.4th 692", "421 U.S. 132", "5 U.S.C. § 552", "51 Wn. App. 908", "55 Wn. App. 706", "580 P.2d 246", "618 P.2d 76", "756 P.2d 174", "76 Wn. App. 470", "780 P.2d 272", "80 Wn. App. 296", "81 Wn. App. 696", "845 P.2d 995", "86 Wn. App. 688", "88 Wn. App. 925", "884 P.2d 592", "887 P.2d 431", "90 Wn.2d 123", "908 P.2d 914", "915 P.2d 1146", "92 Wn. App. 403", "929 P.2d 389", "937 P.2d 1176", "94 Wn.2d 559", "946 P.2d 1235", "947 P.2d 712", "958 P.2d 260", "960 P.2d 447"]
 ---
 
 # Smith v. Okanogan County
