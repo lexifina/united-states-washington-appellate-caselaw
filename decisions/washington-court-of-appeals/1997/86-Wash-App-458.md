@@ -1,0 +1,53 @@
+---
+court: "Washington Court of Appeals"
+docket: "14819-6-II"
+decided: "1997-05-23"
+citations: ["86 Wash. App. 458"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marlene Winchester, as Personal Representative, Respondent, v. John Kenneth Stein, et al., Appellants. The State of Washington, on the Relation of Arthur D. Curtis, Respondent, v. John Kenneth Stein, et al., Appellants."]
+source_url: "https://static.case.law/wash-app/86/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1278846
+cites_cases: ["103 Wn.2d 831", "113 S. Ct. 2849", "120 Wn.2d 246", "125 L. Ed. 2d 556", "131 Wn.2d 1017", "133 Wn.2d 1010", "490 U.S. 435", "509 U.S. 688", "515 U.S. 389", "699 P.2d 1230", "84 Wn. App. 20", "840 P.2d 860", "924 P.2d 933"]
+---
+
+# Winchester v. Stein
+
+## Majority (Houghton, C. J.)
+
+Houghton, C. J.
+Jack Stein appeals from jury verdicts entered against him based upon wrongful death, survival, and criminal profiteering claims. We affirm all but a $250,000 civil penalty and remand for further proceedings.
+INTRODUCTION
+Stein, Thelma Lund, and Ned Hall were involved in a dispute regarding the last will and testament of Stein’s father. In April 1987, Thelma Lund was strangled to death in her Clark County home. In June 1987, several attempts were made on Ned Hall’s life.
+Stein and Michael Norberg were charged by information with murder, attempted murder, and conspiracy to commit murder arising out of the 1987 incidents. Stein was found not guilty on all charges relating to Lund’s death, but convicted on all counts relating to the attempts on Hall’s life.
+Lund’s estate brought suit against Stein and Norberg based upon wrongful death and survival actions. The State filed a criminal profiteering action against Stein and Norberg, and the trial court granted the State’s motion to consolidate the profiteering and civil actions. The trial court refused Stein’s demands to be tried separately from Norberg.
+At trial, Stein represented himself. Over Stein’s objections, the trial court allowed plaintiffs to elicit testimony from Stein’s psychologist, Dr. Lusky, about statements Stein made regarding hiring a "hit man” to kill Lund and Hall.
+The jury found in favor of the State and Lund’s estate. Based upon the verdict, the trial court entered judgment in favor of Lund’s estate for $4,000,000 and an additional $8,000,000 to be held in trust by the State for the benefit of Lund’s estate. Similarly, the trial court awarded $24,600, three times what the jury determined were Ned Hall’s actual damages, to be held in trust by the State for Hall. The damages held in trust by the State for Lund’s estate and for Hall were awarded pursuant to RCW 9A.82.100(4)(d).
+The State was awarded $223,894.19 for its costs in investigating and prosecuting Stein pursuant to former RCW 9A.82.100(4)(e). Further, the court ordered Stein to pay a civil penalty of $250,000 into the Washington Anti-Criminal Profiteering Revolving Fund and awarded the State $38,301 for its trial costs pursuant to RCW 9A.82.100(l)(d).
+In this appeal, Stein contends that: the State’s criminal profiteering action violated double jeopardy; the judgments were excessive; and the trial court erred in denying his request for a separate trial from Norberg, in consolidating the criminal profiteering and civil actions, and in admitting Dr. Lusky’s testimony. He also contends that the judgments against him should be reversed if his criminal convictions are vacated in a pending federal habeas corpus proceeding.
+ANALYSIS
+A. Double Jeopardy
+Stein argues for the first time on appeal that the judgments constitute multiple punishments and violate the double jeopardy clause. Because this is an issue of constitutional magnitude, we will consider Stein’s argument. RAP 2.5(a)(3). We review double jeopardy claims de novo. State v. Frodert, 84 Wn. App. 20, 25, 924 P.2d 933 (1996), review denied sub nom. State ex rel. Eikenberry v. Frodert, 131 Wn.2d 1017 (1997).
+The Double Jeopardy Clause protects a defendant from exposure to multiple punishments for the same offense. Witte v. United States, 515 U.S. 389, 115 S. Ct. 2199, 2204-05, 132 L. Ed. 2d 351 (1995). In order to establish that a civil judgment violates double jeopardy,, a defendant must show that: (1) it is punishment; and (2) it is for the same offense. United States v. Halper, 490 U.S. 435, 448-49, 109 S. Ct. 1892, 104 L. Ed. 2d 487 (1989). This court recently held that an award pursuant to RCW 9A.82.100(4)(g) does not violate double jeopardy so long as the amount of the award does not exceed the actual profits derived from criminal activity. Frodert, 84 Wn. App. at 28-29.
+Whether a civil penalty amounts to punishment is determined on a case by case basis. Halper, 490 U.S. at 448. Here, we must determine whether any of the awards, as applied in this particular case, serve the goals of punishment. Halper, 490 U.S. at 448. A civil sanction amounts to punishment where it "may not fairly be characterized as remedial, but only as a deterrent or retribution.” Halper, 490 U.S. at 449.
+The jury determined that the actual damages suffered by Thelma Lund amounted to $4 million. The purpose of this award was to compensate Lund’s estate for pain and suffering and other damages suffered by Thelma Lund. The court also awarded an additional $8 million to be held in trust by the State for Lund’s estate. Although the list of remedies in RCW 9A.82.100(4) does not specifically include establishing trusts for the benefit of the victims of organized crime, this list is not exclusive. See RCW 9A.82.100(4). Further, the statute expressly provides for treble damages. RCW 9A.82.100(4)(d). Because the $12 million in damages is not excessive and serves primarily to compensate Lund’s estate, we hold that it was not punishment.
+In regard to the State’s award under RCW 9A.82.100(4)(e) for costs incurred in Stein’s criminal prosecution, the State provided ample evidence to show that the $223,894.19 award was in close proportion to the actual costs incurred. Similarly, the State demonstrated that the award of $38,301 was reasonably related to the costs it incurred in its criminal profiteering action. Accordingly, these awards served only to reimburse the State for its expenses and are not punishment. Halper, 490 U.S. at 449.
+The $250,000 civil penalty, however, does not appear to bear any relation to the damages caused by Stein. The penalty is paid directly into the Washington Anti-Criminal Profiteering Revolving Fund. RCW 9A.82.100(l)(d). Further, we are unable to discern any remedial purpose served by this penalty. Because this penalty constitutes punishment, it may not be imposed for the same offense that was adjudicated in a prior criminal proceeding.
+Whether a second action is for the same offense is determined under the "same elements” test. United States v. Dixon, 509 U.S. 688, 697, 113 S. Ct. 2849, 125 L. Ed. 2d 556 (1993). This test is satisfied when "each offense contains an element not contained in the other.” Dixon, 509 U.S. at 696. In the original criminal action, Stein was charged with: conspiracy to commit murder; felony murder; aggravated murder; attempted murder in the first degree; and burglary in the first degree.
+In the subsequent criminal profiteering action, the State alleged that Stein had been involved in a pattern of criminal profiteering by committing the above listed acts. In order to constitute a "pattern of criminal activity” the predicate crimes must involve "the same or similar intent, results, accomplices, principals, victims, or methods of commission, or be otherwise interrelated by distinguishing characteristics . . . .” RCW 9A.82.010(15).
+Although this is an additional element not required in any of the predicate offenses, there is no element included in the predicate offenses not included in criminal profiteering. Consequently, criminal profiteering and the crimes adjudicated in the criminal trial satisfy the definition of "same offense.” Dixon, 509 U.S. at 696-97. Because the $250,000 fine, as applied in this case, would constitute additional punishment for the same offenses, we vacate the judgment of the trial court in this respect.
+B. Excessive Judgments
+Stein asserts that the judgments in favor of the State and Lund’s estate are unreasonably excessive. An appellate court will not disturb a jury’s damage award unless it is outside the range of substantial evidence in the record, shocks the conscience of the court, or appears to have been arrived at as the result of passion or prejudice. Bingaman v. Grays Harbor Community Hosp., 103 Wn.2d 831, 835, 699 P.2d 1230 (1985). Before passion or prejudice can justify reduction of a jury verdict, it must be of such manifest clarity as to make it unmistakable. Bingaman, 103 Wn.2d at 836.
+Stein fails to show that the jury’s verdict was, in any way, the product of passion or prejudice. He makes several comparisons between the verdict in this case and reported verdicts in other wrongful death cases. It is improper to assess the amount of a verdict based upon comparisons with other verdicts. Washburn v. Beatt Equip. Co., 120 Wn.2d 246, 268, 840 P.2d 860 (1992). The jury’s verdicts stand.
+A majority of the panel having determined that only the foregoing portion of this opinion will be printed in the Washington Appellate Reports and that the remainder shall be filed for public record pursuant to RCW 2.06.040, it is so ordered.
+Seinfeld and Armstrong, JJ., concur.
+Review granted at 133 Wn.2d 1010 (1997).
+Following a determination of liability for criminal profiteering, the court may, under RCW 9A.82.100(4)(d), order:
+payment of actual damages sustained to those persons injured by ... an act of criminal profiteering that is part of a pattern of criminal profiteering, and in the court’s discretion, increasing the payment to an amount not exceeding three times the actual damages sustained.
+Former RCW 9A.82.100(4)(e)(1985) provides that a court may order:
+payment of all costs and expenses of the prosecution and investigation of a pattern of criminal profiteering activity . . . incurred by the state or county ... as appropriate to the state general fund or the antiprofiteering revolving fund of the county.
+RCW 9A.82.100(l)(d) provides:
+In an action filed to prevent, restrain, or remedy a pattern of criminal profiteering activity . . . the court, upon proof of the violation, may impose a civil penalty not exceeding two hundred fifty thousand dollars, in addition to awarding the cost of the suit, including reasonable investigative and attorney’s fees.
+See infra Section B.
