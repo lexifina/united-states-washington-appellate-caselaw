@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28174-1-II"
 decided: "2003-04-09"
-citations: ["116 Wash. App. 636", "116 Wash. App. 1037"]
+citations: ["116 Wash. App. 636"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert N. Cochran, et al., Appellants, v. Great West Casualty Company
 source_url: "https://static.case.law/wash-app/116/cases/0636-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265679
-cites_cases: ["114 Wn.2d 271", "116 Wn. App. 636", "121 Wn.2d 243", "128 Wn.2d 1005", "128 Wn.2d 1007", "63 Wn. App. 187", "656 P.2d 1030", "76 Wn. App. 687", "78 Wn. App. 526", "787 P.2d 562", "816 P.2d 1278", "850 P.2d 1298", "887 P.2d 401", "897 P.2d 417", "98 Wn.2d 434"]
+cites_cases: ["114 Wn.2d 271", "121 Wn.2d 243", "128 Wn.2d 1005", "128 Wn.2d 1007", "63 Wn. App. 187", "656 P.2d 1030", "76 Wn. App. 687", "78 Wn. App. 526", "787 P.2d 562", "816 P.2d 1278", "850 P.2d 1298", "887 P.2d 401", "897 P.2d 417", "98 Wn.2d 434"]
 ---
 
 # Cochran v. Great West Casualty Co.
