@@ -1,0 +1,62 @@
+---
+court: "Washington Court of Appeals"
+docket: "753-3"
+decided: "1973-03-01"
+citations: ["8 Wash. App. 441"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Corning & Sons, Inc., Respondent, v. Tim McNamara, Petitioner."]
+source_url: "https://static.case.law/wash-app/8/cases/0441-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 475586
+cites_cases: ["110 Wash. 49", "113 Wash. 244", "156 Wash. 302", "166 P. 630", "168 P. 164", "187 P. 708", "191 Wash. 98", "193 P. 676", "237 U.S. 413", "286 P. 851", "395 U.S. 337", "396 P.2d 155", "407 U.S. 67", "497 P.2d 250", "499 P.2d 92", "6 Wn. App. 971", "65 Wn.2d 205", "7 Wn. App. 219", "71 P.2d 24", "97 Wash. 358", "98 Wash. 565"]
+---
+
+# Corning & Sons, Inc. v. McNamara
+
+## Majority (McInturff, J.)
+
+McInturff, J.
+Writ of certiorari was granted by this court on January 17, 1973 to review an order of the Superior Court of Douglas County, dated November 3, 1972, denying petitioner’s motion to quash temporary restraining order and motion for change of venue.
+On March 28, 1972 the respondent corporation as lessor, and petitioner as lessee, entered into a written sharecrop hay-farm agreement. Under the lease the petitioner had exclusive control over farming operations, including sale of its products. Respondent was to receive 40 percent of gross sale proceeds, to be paid in cash and chopped hay. No time was specified for payment under the lease.
+On October 27, 1972 respondent filed its summons and complaint in Douglas County, alleging irreparable damage to the realty and nonpayment of sums due under the lease, and simultaneously procured an ex parte temporary restraining order from the court commissioner. This order provided that petitioner be:
+restrained and enjoined from removing the products of the harvest from the leased premises and from disposing of the equipment removed from said leased premises, or disposing of the proceeds thereof;
+Bond was set at $2,500. Petitioner moved on November 2, 1972 to quash the temporary restraining order and to change venue to Grant County. Both motions were denied on November 3, 1972. Thereafter petitioner filed a writ of certiorari in this court to review the denial of the motion to quash the temporary restraining order and for change of venue. On November 10, 1972 petitioner was served with an amended complaint for an injunction and an accounting, and for damages. The amended complaint additionally alleges damage to the sprinkler system, damages to land resulting from poor farming practices, and damages from fires of an unspecified nature.
+Petitioner contends the trial court erred in granting the restraining order prior to hearing when no emergency was alleged, in that by so doing petitioner was deprived of due process of law, in the style of Sniadach v. Family Fin. Corp., 395 U.S. 337, 23 L. Ed. 2d 349, 89 S. Ct. 1820 (1969); Fuentes v. Shevin, 407 U.S. 67, 32 L. Ed. 2d 556, 92 S. Ct. 1983 (1972); Lucas v. Stapp, 6 Wn. App. 971, 497 P.2d 250 (1972). The motion of respondent for the temporary restraining order is made “on the ground that the commission and continuance of such act [removing products of the harvest of leased premises] will produce great and irreparable injury to plaintiff.” No affidavit was filed in support of the motion.
+The statute authorizing temporary restraining orders is RCW 7.40.050. It provides that no injunction is to be issued without reasonable notice “except that in cases of emergency to be shown in the complaint, the court may grant a restraining order until notice can be given . . .” (Italics ours.)
+The due process clause of the fourteenth amendment to the United States Constitution, and article 1, section 3 of the Washington State Constitution void existing statutory or court rule provisions for any ex parte, prejudgment or premerit hearing orders which interfere with a party’s continued use and possession of property, unless there is an emergency or, as stated in Fuentes v. Shevin, supra, there are extraordinary circumstances. Prejudgment ex parte proceedings depriving use and/or possession of property was emphasized in 1969 when the Supreme Court of the United States decided Sniadach v. Family Fin. Corp., supra. The court held that the Wisconsin prejudgment garnishment procedure, whereby the defendant’s wages are frozen in the interim between the garnishment of wages and the culmination of the main suit without the defendant having a chance to be heard, violates the due process clause of the Fourteenth Amendment.
+The most significant recent United States Supreme Court case treating in a comprehensive way the taking of property under the due process clause of the constitution is Fuentes v. Shevin, supra. This case decided that the re-plevin laws of Florida and Pennsylvania violated the Fourteenth Amendment because they denied the right to a prior opportunity to be heard before chattels were taken from their possessor, notwithstanding that he could regain possession by posting his security bond, and even though he would have an opportunity for a postseizure hearing. In answering the contention that the petitioner is secured by a bond, the court said, at page 82: “ ‘This Court has not . . . embraced the general proposition that a wrong may be done if it can be undone.’ ”
+And, at page 87:
+The right to be heard does not depend upon an advance showing that one will surely prevail at the hearing. “To one who protests against the taking of his property without due process of law, it is no answer to say that in his particular case due process of law would have led to the same result because he had no adequate defense upon the merits.” Coe v. Armour Fertilizer Works, 237 U.S. 413, 424. It is enough to invoke the procedural safeguards of the Fourteenth Amendment that a significant property interest is at stake, whatever the ultimate outcome of a hearing on the contractual right to continued possession and use of the goods.
+(Footnote omitted.)
+The appellate courts of our state have faced similar cases in the recent past. Lucas v. Stapp, supra, held that other than in extraordinary situations involving special protection (B,CW 7.12.020(10)) prejudgment attachment was unconstitutional because it violated the due process clauses of the United States and Washington Constitutions. Lucas had performed labor on an automobile for Stapp, and not having received payment therefor attached the automobile pending trial on the merits. The court said the car was a “significant property interest” which one could not be deprived of without a meaningful hearing. Seattle Credit Bureau v. Hibbitt, 7 Wn. App. 219, 499 P.2d 92 (1972) followed Lucas v. Stapp, supra.
+In the instant case there is an allegation of irreparable injury or damage to the plaintiff, but the prayer of the complaint asks for nothing that will not be reduced to a money judgment. In the absence of a more specific comprehensive allegation of fact, we hold that this is not an emergency under RCW 7.40.050, and therefore the issuance of the restraining order was a deprivation of a significant property right without procedural due process of law.
+In Fuentes v. Shevin, supra at 91, the court set out some guidelines for the determination of what is an extraordinary situation. They are:
+First, in each case, the seizure has been directly necessary to secure an important governmental or general public interest. Second, there has been a special need for very prompt action. Third, the State has kept strict control over its monopoly of legitimate force: the person initiating the seizure has been a government official responsible for determining, under the standards of a narrowly drawn statute, that it was necessary and justified in the particular instance. Thus, the Court has allowed summary seizure of property to collect the internal revenue of the United States, to meet the needs of a national war effort, to protect against the economic disaster of a bank failure, and to protect the public from misbranded drugs and contaminated food.
+(Footnotes omitted.) The guidelines set out above for determining what is an extraordinary situation are not all-inclusive, but are indicative that a critical and immediate need for the protection of person or property must be shown before the court is justified in granting an ex parte temporary restraining order.
+Petitioner next contends the court erred in denying petitioner’s motion for a change of venue. RCW 4.12.010 provides in pertinent part:
+Actions for the following causes shall be commenced in the county in which the subject of the action, or some part thereof, is situated:
+(1) For . . . determination of all questions affecting the title, or for any injuries to real property.
+(2) All questions involving the rights to the possession or title to any specific article of personal property, in which last mentioned class of cases, damages may also be awarded for the detention and for injury to such personal property.
+RCW 4.12.025 provides in pertinent part:
+• An action may be brought in any county in which the defendant resides, . . .
+Paragraph 6 of respondent’s complaint for- an injunction and accounting reads in part: “defendant ... is now removing the products of the harvest from the leased premises and appropriating the proceeds to his own use . . .”
+Respondent contended to the trial court under the above paragraph that the petitioner was removing hay from the property, to which, under the lease, it has right to possession and title. Therefore, the venue of the action is in Douglas County under RCW 4.12.010 (2).
+The lease, in pertinent part, reads as follows:
+1. For rent the Lessee [petitioner] agrees to pay Lessor forty per cent (40%) of the gross proceeds of the sale of alfalfa hay as follows:
+b. To chop 1,000 tons of hay to Lessor’s specifications. . . . Lessee to furnish the hay of his choice,
+c. Price of chopped hay shall be determined
+d. All payments made under the terms of this paragraph shall be credited toward Lessee’s payment of the 40% of the gross proceeds due the Lessor.
+5. Lessee will be the sole judge of when and where to sell the hay.
+'7. Lessee shall have exclusive possession of leased land, except that Lessor may come on leased land at any reasonable time for inspection.
+The essence or nature of the present action is for breach of contract (lease), resulting in monetary damages only; therefore the judgment can in no way affect the land.
+The instant case is an action for a judgment in personam and is a transitory one. Therefore, one sued in a county other than that of his residence is entitled to a change of venue under RCW 4.12.025, 4.12.027 and 4.12.030, to the county in which the defendant resides as a matter of right. Andrews v. Cusin, 65 Wn.2d 205, 396 P.2d 155 (1964); State ex rel. Hand v. Superior Court, 191 Wash. 98, 71 P.2d 24 (1937); State ex rel. De Lape v. Superior Court, 156 Wash. 302, 286 P. 851 (1930); State ex rel. Redlinger v. Superior Court, 113 Wash. 244, 193 P. 676 (1920); State ex rel. Owen v. Superior Court, 110 Wash. 49, 187 P. 708 (1920); State ex rel. Poussier v. Superior Court, 98 Wash. 565, 168 P. 164 (1917); State ex rel. Martin v. Superior Court, 97 Wash. 358, 166 P. 630 (1917).
+The order denying petitioner’s motions to quash the temporary restraining order and to change venue to Grant County is set aside and the cause is remanded with directions to transfer the action to the Superior Court of Grant County.
+Green, C.J., concurs.
+
+## Concurrence (Munson, J.)
+
+Munson, J.
+(concurring) — I concur in the result. I do not believe we need reach the issues presented by Sniadach v. Family Fin. Corp., 395 U.S. 337, 23 L. Ed. 2d 349, 89 S. Ct. 1820 (1969), Fuentes v. Shevin, 407 U.S. 67, 32 L. Ed. 2d 556, 92 S. Ct. 1983 (1972) or Lucas v. Stapp, 6 Wn. App. 971, 497 P.2d 250 (1972). Plaintiff did not.comply with either RCW 7.40.050 or CR 65 (b) in seeking a temporary restraining order. Merely alleging “irreparable damage” in a complaint is an insufficient explanation of an “emergency” to warrant the granting of a restraining order, temporary or otherwise. Nothing more appears, neither in the body of the complaint nor by affidavit accompanying the motion, to.support such an order. This deficiency alone is sufficient to warrant reversal.
+Green, C.J., concurs with Munson, J.
