@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16634-4-I"
 decided: "1987-06-29"
-citations: ["49 Wash. App. 94", "48 Wash. App. 1032"]
+citations: ["49 Wash. App. 94"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Curtis L. Chapman, Respondent, v. William Black, et al, Appellants."]
 source_url: "https://static.case.law/wash-app/49/cases/0094-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739077
-cites_cases: ["10 Wn. App. 893", "105 P.2d 1107", "15 Wn. App. 782", "28 Wn. App. 669", "34 Wn. App. 495", "364 P.2d 796", "391 P.2d 987", "393 P.2d 621", "399 P.2d 591", "411 P.2d 431", "418 F.2d 727", "42 Wn. App. 442", "482 P.2d 775", "49 Wn. App. 94", "5 Wn.2d 584", "515 P.2d 821", "521 P.2d 946", "551 P.2d 1387", "575 P.2d 215", "58 Wn.2d 647", "582 P.2d 500", "606 P.2d 275", "626 P.2d 30", "64 Wn.2d 398", "64 Wn.2d 665", "65 Wn.2d 777", "663 P.2d 132", "68 Wn.2d 75", "711 P.2d 1090", "79 Wn.2d 12", "82 A.L.R.3d 1206", "83 Wn.2d 86", "89 Wn.2d 701", "90 Wn.2d 323", "93 Wn.2d 143"]
+cites_cases: ["10 Wn. App. 893", "105 P.2d 1107", "15 Wn. App. 782", "28 Wn. App. 669", "34 Wn. App. 495", "364 P.2d 796", "391 P.2d 987", "393 P.2d 621", "399 P.2d 591", "411 P.2d 431", "418 F.2d 727", "42 Wn. App. 442", "482 P.2d 775", "5 Wn.2d 584", "515 P.2d 821", "521 P.2d 946", "551 P.2d 1387", "575 P.2d 215", "58 Wn.2d 647", "582 P.2d 500", "606 P.2d 275", "626 P.2d 30", "64 Wn.2d 398", "64 Wn.2d 665", "65 Wn.2d 777", "663 P.2d 132", "68 Wn.2d 75", "711 P.2d 1090", "79 Wn.2d 12", "82 A.L.R.3d 1206", "83 Wn.2d 86", "89 Wn.2d 701", "90 Wn.2d 323", "93 Wn.2d 143"]
 ---
 
 # Chapman v. Black
