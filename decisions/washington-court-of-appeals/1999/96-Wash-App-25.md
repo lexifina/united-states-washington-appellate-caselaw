@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42191-3-I"
 decided: "1999-05-24"
-citations: ["96 Wash. App. 25", "95 Wash. App. 1052"]
+citations: ["96 Wash. App. 25"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Gerald A. Pray, Appellant."]
 source_url: "https://static.case.law/wash-app/96/cases/0025-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128588
-cites_cases: ["114 Wn.2d 828", "128 Wn.2d 1", "130 Wn.2d 313", "139 Wn.2d 1010", "37 Wn. App. 856", "683 P.2d 1125", "78 Wn. App. 566", "791 P.2d 897", "897 P.2d 437", "904 P.2d 754", "922 P.2d 1293", "95 Wn. App. 475", "96 Wn. App. 25", "975 P.2d 584"]
+cites_cases: ["114 Wn.2d 828", "128 Wn.2d 1", "130 Wn.2d 313", "139 Wn.2d 1010", "37 Wn. App. 856", "683 P.2d 1125", "78 Wn. App. 566", "791 P.2d 897", "897 P.2d 437", "904 P.2d 754", "922 P.2d 1293", "95 Wn. App. 475", "975 P.2d 584"]
 ---
 
 # State v. Pray
