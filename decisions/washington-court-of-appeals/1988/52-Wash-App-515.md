@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20331-2-I"
 decided: "1988-09-06"
-citations: ["52 Wash. App. 515", "52 Wash. App. 1034"]
+citations: ["52 Wash. App. 515"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Len Eserhut, Appellant, v. Steve Heister, et al, Respondents."]
 source_url: "https://static.case.law/wash-app/52/cases/0515-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1708514
-cites_cases: ["103 Wn.2d 750", "103 Wn.2d 800", "106 Wn.2d 614", "110 Wn.2d 1016", "125 Wash. 273", "216 P. 358", "302 Or. 616", "32 A.L.R. 767", "32 Wn. App. 722", "38 Wn. App. 812", "407 P.2d 956", "44 Wn. App. 690", "461 F. Supp. 894", "50 Wn. App. 67", "52 Wn. App. 515", "586 P.2d 482", "649 P.2d 181", "67 Wn.2d 409", "690 P.2d 603", "696 P.2d 1238", "699 P.2d 217", "723 P.2d 483", "724 P.2d 356", "747 P.2d 1103", "91 Wn.2d 36", "98 Wn.2d 1011"]
+cites_cases: ["103 Wn.2d 750", "103 Wn.2d 800", "106 Wn.2d 614", "110 Wn.2d 1016", "125 Wash. 273", "216 P. 358", "302 Or. 616", "32 A.L.R. 767", "32 Wn. App. 722", "38 Wn. App. 812", "407 P.2d 956", "44 Wn. App. 690", "461 F. Supp. 894", "50 Wn. App. 67", "586 P.2d 482", "649 P.2d 181", "67 Wn.2d 409", "690 P.2d 603", "696 P.2d 1238", "699 P.2d 217", "723 P.2d 483", "724 P.2d 356", "747 P.2d 1103", "91 Wn.2d 36", "98 Wn.2d 1011"]
 ---
 
 # Eserhut v. Heister
