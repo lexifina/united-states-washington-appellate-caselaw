@@ -1,0 +1,62 @@
+---
+court: "Washington Court of Appeals"
+docket: "6100-1-III"
+decided: "1984-06-07"
+citations: ["37 Wash. App. 773"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McInturff and Thompson, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. P, Appellant."]
+source_url: "https://static.case.law/wash-app/37/cases/0773-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1785092
+cites_cases: ["13 Wn. App. 59", "21 Wn. App. 841", "23 Wn. App. 789", "27 Wn. App. 422", "35 Wn. App. 658", "533 P.2d 147", "589 P.2d 314", "599 P.2d 20", "600 P.2d 1264", "618 P.2d 121", "620 P.2d 97", "640 F.2d 938", "655 P.2d 1145", "669 P.2d 891", "92 Wn.2d 755", "94 Wn.2d 791", "98 Wn.2d 384"]
+---
+
+# State v. P
+
+## Majority (Munson, C.J.)
+
+Munson, C.J.
+The State moves to modify the Court of Appeals commissioner's ruling which vacated the disposition of the juvenile court. See RAP 17.7. The State contends (1) the commissioner used the wrong standard of review, (2) the record supports the juvenile court finding of manifest injustice, and (3) the sentence imposed was not clearly excessive. We grant the motion to modify but remand for resentencing.
+P was 15 years old when he pleaded guilty to first degree rape. The victim was a mildly retarded 3-year-old girl whom he had been babysitting and whose misconduct had angered him. She suffered extensive injuries. P was characterized as being several years behind his peers in maturity and intelligence.
+Commissioner (now Judge) Hopkins accepted P's guilty plea and presided over his sentencing hearing. There, the State summarized the testimony presented to Judge Stauffacher at the declination hearing the previous day. Defense counsel agreed with the State's rendition of the facts and enlarged upon them.
+P was a "serious offender", because first degree rape is a class A felony if committed by an adult. RCW 13.40.020(1); 9A.44.040. The standard juvenile sentence for this offense is 103 to 129 weeks. The State notified P it was going to seek a finding of "manifest injustice", as evidenced by his statement on plea of guilty. See State v. Whittington, 27 Wn. App. 422, 618 P.2d 121 (1980). It contended a sentence within the standard range would not give the juvenile rehabilitation department sufficient time to treat P. Probation counselor Kirschenmann recommended 156 weeks.
+Commissioner Hopkins stated in his oral decision that counsel's arguments and a previous (unidentified) hearing had given him a grasp of the facts. He committed P until age 21, in order to protect the community and to give P an opportunity for effective treatment:
+I, because of the nature of the crime and the vulnerability of the victim, the age of the victim, I am concerned that, that the protection of the public from that type of nearly mindless behavior should ever be put—perpetrated on anyone else again.
+I believe that long term treatment is the only way, since he can not under the Juvenile system be forever kept from [the] public. And I believe that a commitment until age twenty-one is necessary. I do so because I am afraid that if he is not treated, and not all commitments to the department are successful, that this same thing could happen again. So that for as long as I can I will protect the public from that, from this type kind of outrageous behavior.
+Findings of fact were accordingly entered, and P was sentenced to 277 weeks (until age 21), with 48 days' credit for time served in detention.
+P then moved for revision of Commissioner Hopkins' ruling. See RCW 2.24.050. Judge Hettinger presided; based on arguments of counsel, the plea and sentencing hearing report of proceedings and the court file, he affirmed the sentence imposed by the commissioner.
+P appealed and our commissioner ruled there was insufficient evidence to convince a rational jurist beyond a reasonable doubt that a sentence within the standard range would present a "serious and clear" danger to society. The commissioner ordered the case remanded for a disposition within the standard range.
+The scope of appellate review is defined in RCW 13.40-.230:
+(1) Dispositions reviewed pursuant to RCW 13.40.160, as now or hereafter amended, shall be reviewed in the appropriate division of the court of appeals.
+An appeal under this section shall be heard solely upon the record that was before the disposition court.
+(2) To uphold a disposition outside the standard range, or which imposes confinement for a minor or first offender, the court of appeals must find (a) that the reasons supplied by the disposition judge are supported by the record which was before the judge and that those reasons clearly and convincingly support the conclusion that a disposition within the range, or nonconfinement for a minor or first offender, would constitute a manifest injustice, and (b) that the sentence imposed was neither clearly excessive nor clearly too lenient.
+(Italics ours.) The statute sets forth a 3-part test:
+(1) the reasons given by the trial court must be supported by the record; (2) those reasons must clearly and convincingly support the disposition; and (3) the disposition cannot be too excessive or too lenient.
+State v. Rhodes, 92 Wn.2d 755, 760, 600 P.2d 1264 (1979).
+First, are Commissioner Hopkins' reasons supported by the record before him? Those reasons, as set forth in the findings of fact, are:
+1. The victim was a retarded three (3) year old infant and was therefore grossly vulnerable to the type of violence perpetrated by the defendant.
+2. The defendant is a present and continuing threat to community safety, in that he has exhibited characteristics of violent sexual deviancy and has been evaluated to be a reoffender if not fully treated.
+3. Long term care beyond the standard range is necessary to effect a cure or, in the alternative, to protect community safety if a cure is not effected.
+When the guilty plea was entered, the record consisted primarily of counsel's summaries of the testimony given at the declination hearing. Defense counsel did not object to the State's characterization of the testimony; rather, he enlarged upon it. The record indicates the victim was a retarded 3-year-old whom P had been babysitting. It also indicates two experts believed P's behavior was triggered by anger, in the manner of an adult sexual deviant, and that he would reoffend if not properly treated. Probation counselor Kirschenmann recommended 156 weeks' confinement and related Dr. Montgomery's finding that P's problems probably could not be totally addressed within the time frame of a standard sentence. Commissioner Hopkins' reasons for finding manifest injustice are supported by the record; thus, the first test has been met.
+Next, do those reasons clearly and convincingly support the disposition? The "clear and convincing" standard is the same as the criminal "beyond a reasonable doubt" standard. State v. Rhodes, supra at 760. "[D]efendant must present, beyond a reasonable doubt, a clear danger to society." State v. Rhodes, supra at 760.
+In making its disposition, the trial court, in addition to "all relevant and material evidence" and recommendations, must consider the aggravating and mitigating factors enumerated in RCW 13.40.150. In re Luft, 21 Wn. App. 841, 847-49, 589 P.2d 314 (1979). The following aggravating factors appear from the record before Commissioner Hopkins:
+(i) In the commission of the offense, . . . the respondent inflicted . . . serious bodily injury to another;
+(ii) The offense was committed in an especially heinous, cruel, or depraved manner;
+(iii) The victim or victims were particularly vulnerable [.]
+RCW 13.40.150(3)(i), in part. The trial court must also consider the stated purposes of the Juvenile Justice Act of 1977, RCW 13.40. State v. Rhodes, supra at 759; In re Luft, supra at 850. These include protecting society from and providing necessary treatment for the juvenile offender. RCW 13.40.010(2)(a), (f). See also State v. Rice, 98 Wn.2d 384, 655 P.2d 1145 (1982) (juvenile rehabilitation is a compelling state interest).
+Our independent review of this record convinces us beyond a reasonable doubt that P is a clear danger to society. State v. Murphy, 35 Wn. App. 658, 662, 669 P.2d 891 (1983). This was a first, but extremely violent, attack by a boy of marginal intelligence and lagging maturity, responding to anger. All of the experts believed he needed extensive counseling and education. The probation counselor specifically recommended a disposition beyond the standard range. The second test is met.
+Lastly, was the sentence imposed "clearly excessive"? Once a determination of manifest injustice is found supportable, the trial court is vested with broad discretion in choosing an appropriate sentence. This discretion will be overturned only upon a showing of manifest abuse. State v. Strong, 23 Wn. App. 789, 794, 599 P.2d 20 (1979). See also State v. Murphy, supra. That is, "a sentence is excessive only when it cannot be justified by any reasonable view which may be taken of the record." State v. Strong, supra at 795.
+Commissioner Hopkins had before him evidence of the serious and violent nature of the offense, P's mental infirmities, and the grave need for treatment. The court's desire to afford the department the maximum time for treatment is understandable. However, the only evidence before Commissioner Hopkins regarding an appropriate sentence was the probation counselor's recommendation of 156 weeks. Under the sentence given, P is required to serve "no less than eighty percent of the maximum term", i.e., 221 weeks. See RCW 13.40.030(5) (c). There is nothing in the record to indicate a course of treatment would exceed 156 weeks.
+We remand the case for resentencing. Because we have upheld the manifest injustice findings and held only that the sentence imposed was clearly excessive in light of the record, the juvenile court will be free to exercise its discretion upon rehearing. Compare RCW 13.40.230(3) (if manifest injustice finding is reversed, case shall be remanded for disposition within the standard range or for community supervision) with RCW 13.40.230(4) (if court upholds manifest injustice finding but holds sentence to be clearly excessive, "it shall remand the case with instructions for further proceedings consistent with the provisions of this chapter."). Either party may produce additional relevant evidence at the rehearing, which may include testimony concerning P's behavior and diagnosis while in the custody of the department. See State v. Happy, 94 Wn.2d 791, 620 P.2d 97 (1980) (resentencing if no substantial hardship to defendant); United States v. Larios, 640 F.2d 938, 942-43 (9th Cir. 1981) (on remand, sentencing judge to consider trial transcript).
+The motion to modify the commissioner's ruling is granted. The disposition of the juvenile court is affirmed in part, reversed in part, and remanded for further proceedings to determine the appropriate length of the sentence.
+McInturff and Thompson, JJ., concur.
+Former RCW 13.40.020(12) provided:
+"Manifest injustice' means a disposition that would impose an excessive penalty on the juvenile or a clear danger to society in light of the purposes of this chapter[.]n Laws of 1981, ch. 299, § 2, p. 1339. Former RCW 13.40.160(1) provided:
+(1) When the respondent is found to be a serious offender, the court shall commit the offender to the department for the standard range of disposition for the offense.
+If the court concludes, and enters reasons for its conclusion, that disposition within the standard range would effectuate a manifest injustice the court shall impose a disposition outside the standard range.
+Laws of 1981, ch. 299, § 13, p. 1353.
+RCW 13.40 was substantially amended by Laws of 1983, ch. 191, p. 1018, effective July 24, 1983. This offense occurred April 28, 1983; the plea and sentencing hearing was held June 15, 1983.
+The record on appeal contains documents and the transcript of the testimony introduced at the declination hearing. This record was not before Commissioner Hopkins in this form at the disposition hearing. Although no objection was made, we are required to limit our review to the record made before the disposition judge. RCW 13.40.230(1). See also State v. Murphy, 35 Wn. App. 658, 662, 669 P.2d 891 (1983); State v. Armstead, 13 Wn. App. 59, 65-66, 533 P.2d 147 (1975).
