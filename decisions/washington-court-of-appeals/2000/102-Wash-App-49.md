@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44619-3-I"
 decided: "2000-05-30"
-citations: ["102 Wash. App. 49", "100 Wash. App. 1071"]
+citations: ["102 Wash. App. 49"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Roeder Company, Appellant, v. K&E Moving & Storage Company, Inc., et 
 source_url: "https://static.case.law/wash-app/102/cases/0049-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301169
-cites_cases: ["102 Wn. App. 49", "105 Wn.2d 269", "105 Wn.2d 567", "120 Wn.2d 727", "130 Wn.2d 430", "138 Wn.2d 561", "142 Wn.2d 1017", "225 P.2d 199", "37 Wn.2d 533", "510 U.S. 1047", "599 P.2d 526", "714 P.2d 1170", "716 P.2d 855", "844 P.2d 1006", "92 Wn.2d 570", "924 P.2d 908", "980 P.2d 1234"]
+cites_cases: ["105 Wn.2d 269", "105 Wn.2d 567", "120 Wn.2d 727", "130 Wn.2d 430", "138 Wn.2d 561", "142 Wn.2d 1017", "225 P.2d 199", "37 Wn.2d 533", "510 U.S. 1047", "599 P.2d 526", "714 P.2d 1170", "716 P.2d 855", "844 P.2d 1006", "92 Wn.2d 570", "924 P.2d 908", "980 P.2d 1234"]
 ---
 
 # Roeder Co. v. K&E Moving & Storage Co.
