@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31923-0-I"
 decided: "1995-04-24"
-citations: ["77 Wash. App. 803", "77 Wash. App. 1057"]
+citations: ["77 Wash. App. 803"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Brett Raymond Chaussee, Respon
 source_url: "https://static.case.law/wash-app/77/cases/0803-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415965
-cites_cases: ["102 Wn.2d 1013", "113 Wn.2d 1001", "120 Wn.2d 200", "121 Wn.2d 366", "125 Wn.2d 1001", "195 Wash. 81", "37 Wn. App. 761", "376 U.S. 75", "429 U.S. 6", "438 U.S. 154", "502 U.S. 1", "53 Wn. App. 894", "626 P.2d 504", "634 P.2d 868", "66 Wn. App. 10", "66 Wn. App. 308", "683 P.2d 611", "74 Wn. App. 126", "77 Wn. App. 803", "771 P.2d 364", "79 P.2d 688", "830 P.2d 392", "831 P.2d 1128", "840 P.2d 171", "849 P.2d 1225", "872 P.2d 64", "94 Wn.2d 754", "96 Wn.2d 215"]
+cites_cases: ["102 Wn.2d 1013", "113 Wn.2d 1001", "120 Wn.2d 200", "121 Wn.2d 366", "125 Wn.2d 1001", "195 Wash. 81", "37 Wn. App. 761", "376 U.S. 75", "429 U.S. 6", "438 U.S. 154", "502 U.S. 1", "53 Wn. App. 894", "626 P.2d 504", "634 P.2d 868", "66 Wn. App. 10", "66 Wn. App. 308", "683 P.2d 611", "74 Wn. App. 126", "771 P.2d 364", "79 P.2d 688", "830 P.2d 392", "831 P.2d 1128", "840 P.2d 171", "849 P.2d 1225", "872 P.2d 64", "94 Wn.2d 754", "96 Wn.2d 215"]
 ---
 
 # State v. Chaussee
