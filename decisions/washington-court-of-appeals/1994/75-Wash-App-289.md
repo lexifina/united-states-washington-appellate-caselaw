@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32658-9-I"
 decided: "1994-07-05"
-citations: ["75 Wash. App. 289", "74 Wash. App. 1063"]
+citations: ["75 Wash. App. 289"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Ronald L. Rismon, Appellant, v. The State of Washington, Respondent."
 source_url: "https://static.case.law/wash-app/75/cases/0289-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11973717
-cites_cases: ["100 Wn.2d 748", "108 Wn.2d 468", "122 Wn.2d 471", "269 P.2d 962", "399 P.2d 8", "44 Wn.2d 671", "455 U.S. 422", "46 Wn. App. 133", "471 U.S. 1015", "588 P.2d 185", "619 P.2d 977", "65 Wn.2d 573", "675 P.2d 592", "71 Wn. App. 311", "730 P.2d 70", "739 P.2d 1145", "75 Wn. App. 289", "858 P.2d 280", "860 P.2d 1009", "91 Wn.2d 135", "94 Wn.2d 695"]
+cites_cases: ["100 Wn.2d 748", "108 Wn.2d 468", "122 Wn.2d 471", "269 P.2d 962", "399 P.2d 8", "44 Wn.2d 671", "455 U.S. 422", "46 Wn. App. 133", "471 U.S. 1015", "588 P.2d 185", "619 P.2d 977", "65 Wn.2d 573", "675 P.2d 592", "71 Wn. App. 311", "730 P.2d 70", "739 P.2d 1145", "858 P.2d 280", "860 P.2d 1009", "91 Wn.2d 135", "94 Wn.2d 695"]
 ---
 
 # Rismon v. State
