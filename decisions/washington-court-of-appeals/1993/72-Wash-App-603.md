@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28440-1-I"
 decided: "1993-11-22"
-citations: ["72 Wash. App. 603", "71 Wash. App. 1061"]
+citations: ["72 Wash. App. 603"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Constantine B. Baruso, Appell
 source_url: "https://static.case.law/wash-app/72/cases/0603-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1741646
-cites_cases: ["10 A.L.R.3d 974", "101 Wn.2d 664", "102 Wn.2d 277", "103 Wn.2d 304", "104 Wn.2d 412", "107 Wn.2d 745", "110 Wn.2d 32", "114 Wn.2d 304", "118 Wn.2d 1012", "119 Wn.2d 1009", "121 Wn.2d 1033", "124 Wn.2d 1008", "171 A.D.2d 630", "176 Colo. 516", "284 U.S. 390", "331 U.S. 532", "380 F.2d 732", "384 U.S. 436", "399 U.S. 918", "41 Wn. App. 85", "424 F.2d 1311", "469 U.S. 831", "470 U.S. 298", "475 U.S. 1020", "488 U.S. 867", "496 U.S. 927", "585 N.Y.S.2d 222", "591 N.Y.S.2d 142", "62 Wn. App. 755", "64 Wn. App. 606", "664 P.2d 1234", "68 Wn. App. 657", "683 P.2d 571", "687 P.2d 172", "692 P.2d 823", "702 P.2d 481", "705 P.2d 1182", "72 Wn. App. 603", "726 F.2d 913", "733 P.2d 517", "750 P.2d 632", "787 P.2d 1347", "80 A.L.R. 161", "816 P.2d 43", "825 P.2d 350", "846 F.2d 1384", "847 P.2d 1", "893 F.2d 1512", "99 Wn.2d 851"]
+cites_cases: ["10 A.L.R.3d 974", "101 Wn.2d 664", "102 Wn.2d 277", "103 Wn.2d 304", "104 Wn.2d 412", "107 Wn.2d 745", "110 Wn.2d 32", "114 Wn.2d 304", "118 Wn.2d 1012", "119 Wn.2d 1009", "121 Wn.2d 1033", "124 Wn.2d 1008", "171 A.D.2d 630", "176 Colo. 516", "284 U.S. 390", "331 U.S. 532", "380 F.2d 732", "384 U.S. 436", "399 U.S. 918", "41 Wn. App. 85", "424 F.2d 1311", "469 U.S. 831", "470 U.S. 298", "475 U.S. 1020", "488 U.S. 867", "496 U.S. 927", "585 N.Y.S.2d 222", "591 N.Y.S.2d 142", "62 Wn. App. 755", "64 Wn. App. 606", "664 P.2d 1234", "68 Wn. App. 657", "683 P.2d 571", "687 P.2d 172", "692 P.2d 823", "702 P.2d 481", "705 P.2d 1182", "726 F.2d 913", "733 P.2d 517", "750 P.2d 632", "787 P.2d 1347", "80 A.L.R. 161", "816 P.2d 43", "825 P.2d 350", "846 F.2d 1384", "847 P.2d 1", "893 F.2d 1512", "99 Wn.2d 851"]
 ---
 
 # State v. Baruso
