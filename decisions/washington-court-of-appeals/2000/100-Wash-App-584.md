@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23780-6-II"
 decided: "2000-03-03"
-citations: ["100 Wash. App. 584", "99 Wash. App. 1050"]
+citations: ["100 Wash. App. 584"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Christina Nielson, Appellant, v. Eisenhower & Carlson, et al., Respon
 source_url: "https://static.case.law/wash-app/100/cases/0584-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363283
-cites_cases: ["100 Wn. App. 584", "104 Wn.2d 254", "115 Wn.2d 1025", "119 Wn.2d 251", "123 Wn.2d 1010", "134 Wn.2d 243", "136 Wn.2d 1015", "141 Wn.2d 1016", "28 U.S.C. § 2401", "29 Wn. App. 433", "333 U.S. 364", "444 U.S. 111", "455 U.S. 919", "470 U.S. 564", "525 P.2d 228", "57 Wn. App. 610", "628 P.2d 1336", "642 F.2d 328", "656 P.2d 1030", "673 F.2d 269", "70 Wn. App. 286", "704 P.2d 600", "766 F.2d 1416", "789 P.2d 792", "824 F.2d 799", "830 P.2d 646", "84 Wn.2d 239", "843 F.2d 329", "845 F.2d 1534", "852 P.2d 1092", "90 Wn. App. 157", "92 L. Ed. 746", "947 P.2d 223", "951 P.2d 817", "96 Wn.2d 1003", "98 Wn.2d 434"]
+cites_cases: ["104 Wn.2d 254", "115 Wn.2d 1025", "119 Wn.2d 251", "123 Wn.2d 1010", "134 Wn.2d 243", "136 Wn.2d 1015", "141 Wn.2d 1016", "28 U.S.C. § 2401", "29 Wn. App. 433", "333 U.S. 364", "444 U.S. 111", "455 U.S. 919", "470 U.S. 564", "525 P.2d 228", "57 Wn. App. 610", "628 P.2d 1336", "642 F.2d 328", "656 P.2d 1030", "673 F.2d 269", "70 Wn. App. 286", "704 P.2d 600", "766 F.2d 1416", "789 P.2d 792", "824 F.2d 799", "830 P.2d 646", "84 Wn.2d 239", "843 F.2d 329", "845 F.2d 1534", "852 P.2d 1092", "90 Wn. App. 157", "92 L. Ed. 746", "947 P.2d 223", "951 P.2d 817", "96 Wn.2d 1003", "98 Wn.2d 434"]
 ---
 
 # Nielson v. Eisenhower & Carlson
