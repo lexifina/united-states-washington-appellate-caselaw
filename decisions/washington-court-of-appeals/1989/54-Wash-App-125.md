@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20919-1-I"
 decided: "1989-03-13"
-citations: ["54 Wash. App. 125", "53 Wash. App. 1058"]
+citations: ["54 Wash. App. 125"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Thomas J. Layne, et al, Appellants, v. Frederick W. Hyde, Jr., et al,
 source_url: "https://static.case.law/wash-app/54/cases/0125-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1762079
-cites_cases: ["103 Wn.2d 768", "104 Wn.2d 181", "105 Wn.2d 1007", "105 Wn.2d 499", "105 Wn.2d 847", "105 Wn.2d 905", "106 Wn.2d 873", "107 Wn.2d 541", "111 Wn.2d 1007", "113 Wn.2d 1016", "13 Wn. App. 954", "171 Cal. Rptr. 590", "20 L. Ed. 646", "25 Wn. App. 243", "26 Wn. App. 450", "28 Cal. 3d 781", "289 U.S. 479", "38 Wn. App. 91", "386 U.S. 547", "387 P.2d 517", "410 P.2d 606", "42 U.S.C. §§ 1983", "42 Wn. App. 163", "424 P.2d 290", "438 U.S. 478", "44 Wn. App. 690", "45 Wn. App. 162", "45 Wn. App. 192", "482 P.2d 775", "51 Wn. App. 285", "51 Wn. App. 561", "51 Wn. App. 676", "538 P.2d 559", "54 Wn. App. 125", "545 F.2d 1260", "569 P.2d 1152", "606 P.2d 280", "61 F.2d 934", "613 P.2d 1188", "623 P.2d 151", "63 Wn.2d 404", "656 P.2d 1030", "663 P.2d 457", "67 Wn.2d 882", "684 P.2d 769", "698 P.2d 77", "70 Wn.2d 522", "704 P.2d 140", "709 P.2d 399", "716 P.2d 869", "719 P.2d 558", "719 P.2d 98", "723 P.2d 483", "724 P.2d 1069", "724 P.2d 425", "725 P.2d 966", "730 P.2d 1333", "753 P.2d 530", "754 P.2d 1243", "754 P.2d 1277", "79 Wn.2d 12", "793 F.2d 1072", "818 F.2d 1515", "827 F.2d 450", "89 Wn.2d 104", "98 Wn.2d 434", "99 Wn.2d 466"]
+cites_cases: ["103 Wn.2d 768", "104 Wn.2d 181", "105 Wn.2d 1007", "105 Wn.2d 499", "105 Wn.2d 847", "105 Wn.2d 905", "106 Wn.2d 873", "107 Wn.2d 541", "111 Wn.2d 1007", "113 Wn.2d 1016", "13 Wn. App. 954", "171 Cal. Rptr. 590", "20 L. Ed. 646", "25 Wn. App. 243", "26 Wn. App. 450", "28 Cal. 3d 781", "289 U.S. 479", "38 Wn. App. 91", "386 U.S. 547", "387 P.2d 517", "410 P.2d 606", "42 U.S.C. §§ 1983", "42 Wn. App. 163", "424 P.2d 290", "438 U.S. 478", "44 Wn. App. 690", "45 Wn. App. 162", "45 Wn. App. 192", "482 P.2d 775", "51 Wn. App. 285", "51 Wn. App. 561", "51 Wn. App. 676", "538 P.2d 559", "545 F.2d 1260", "569 P.2d 1152", "606 P.2d 280", "61 F.2d 934", "613 P.2d 1188", "623 P.2d 151", "63 Wn.2d 404", "656 P.2d 1030", "663 P.2d 457", "67 Wn.2d 882", "684 P.2d 769", "698 P.2d 77", "70 Wn.2d 522", "704 P.2d 140", "709 P.2d 399", "716 P.2d 869", "719 P.2d 558", "719 P.2d 98", "723 P.2d 483", "724 P.2d 1069", "724 P.2d 425", "725 P.2d 966", "730 P.2d 1333", "753 P.2d 530", "754 P.2d 1243", "754 P.2d 1277", "79 Wn.2d 12", "793 F.2d 1072", "818 F.2d 1515", "827 F.2d 450", "89 Wn.2d 104", "98 Wn.2d 434", "99 Wn.2d 466"]
 ---
 
 # Layne v. Hyde
