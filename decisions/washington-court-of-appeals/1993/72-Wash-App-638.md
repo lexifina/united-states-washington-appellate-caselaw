@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28826-1-I"
 decided: "1993-12-13"
-citations: ["72 Wash. App. 638", "72 Wash. App. 1003"]
+citations: ["72 Wash. App. 638"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. John Anthony Condon, Appellan
 source_url: "https://static.case.law/wash-app/72/cases/0638-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1741812
-cites_cases: ["105 Wn.2d 692", "106 Wn.2d 206", "114 Wn.2d 761", "116 Wn.2d 1027", "118 Wn.2d 596", "123 Wn.2d 1031", "127 N.H. 1", "162 Wis. 2d 978", "174 Wash. 528", "194 Conn. 530", "25 P.2d 104", "28 Wn. App. 33", "3 Wn. App. 946", "314 F.2d 251", "37 Wn. App. 157", "374 U.S. 842", "40 Wn. App. 771", "412 U.S. 291", "415 U.S. 308", "449 U.S. 873", "469 U.S. 1192", "478 P.2d 745", "479 U.S. 995", "482 A.2d 300", "49 Wn. App. 251", "498 A.2d 723", "51 Wn. App. 827", "515 P.2d 496", "542 P.2d 115", "59 Wn. App. 389", "60 Wn. App. 298", "610 P.2d 869", "621 P.2d 784", "659 P.2d 1102", "659 P.2d 514", "678 P.2d 1310", "700 P.2d 382", "718 P.2d 407", "72 Wn. App. 638", "720 P.2d 838", "742 P.2d 190", "755 P.2d 842", "791 P.2d 223", "797 P.2d 1160", "803 P.2d 813", "826 P.2d 172", "83 Wn.2d 49", "837 P.2d 599", "86 Wn.2d 91", "93 Wn.2d 329", "99 Wn.2d 1", "99 Wn.2d 158"]
+cites_cases: ["105 Wn.2d 692", "106 Wn.2d 206", "114 Wn.2d 761", "116 Wn.2d 1027", "118 Wn.2d 596", "123 Wn.2d 1031", "127 N.H. 1", "162 Wis. 2d 978", "174 Wash. 528", "194 Conn. 530", "25 P.2d 104", "28 Wn. App. 33", "3 Wn. App. 946", "314 F.2d 251", "37 Wn. App. 157", "374 U.S. 842", "40 Wn. App. 771", "412 U.S. 291", "415 U.S. 308", "449 U.S. 873", "469 U.S. 1192", "478 P.2d 745", "479 U.S. 995", "482 A.2d 300", "49 Wn. App. 251", "498 A.2d 723", "51 Wn. App. 827", "515 P.2d 496", "542 P.2d 115", "59 Wn. App. 389", "60 Wn. App. 298", "610 P.2d 869", "621 P.2d 784", "659 P.2d 1102", "659 P.2d 514", "678 P.2d 1310", "700 P.2d 382", "718 P.2d 407", "720 P.2d 838", "742 P.2d 190", "755 P.2d 842", "791 P.2d 223", "797 P.2d 1160", "803 P.2d 813", "826 P.2d 172", "83 Wn.2d 49", "837 P.2d 599", "86 Wn.2d 91", "93 Wn.2d 329", "99 Wn.2d 1", "99 Wn.2d 158"]
 ---
 
 # State v. Condon
