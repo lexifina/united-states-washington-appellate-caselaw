@@ -1,0 +1,67 @@
+---
+court: "Washington Court of Appeals"
+docket: "26605-9-II"
+decided: "2002-01-04"
+citations: ["109 Wash. App. 664"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Deborah D. Galbreath, Appellant."]
+source_url: "https://static.case.law/wash-app/109/cases/0664-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1013927
+cites_cases: ["120 Wn.2d 585", "121 Wn.2d 852", "130 Wn.2d 351", "130 Wn.2d 48", "145 Wn.2d 52", "32 P.3d 996", "390 U.S. 377", "418 F.2d 378", "439 U.S. 996", "444 U.S. 859", "48 Wn. App. 322", "52 Wn. App. 380", "557 P.2d 847", "567 F.2d 839", "568 F.2d 326", "581 F.2d 75", "619 P.2d 697", "738 P.2d 1081", "760 P.2d 947", "845 P.2d 971", "855 P.2d 671", "87 Wn.2d 870", "921 P.2d 538", "922 P.2d 1356", "94 Wn. App. 211", "94 Wn.2d 690", "972 P.2d 511"]
+---
+
+# State v. Galbreath
+
+## Majority (Morgan, J.)
+
+Morgan, J.
+— Deborah Galbreath appeals convictions of theft in the second degree and forgery. She claims that her CrR 3.3 right to speedy trial was violated because she was charged on January 31, 2000, but not arraigned until September 18, 2000. We affirm.
+On January 31, 2000, the State charged Galbreath with theft in the second degree and forgery committed in August 1998. The State obtained a warrant for her arrest that did not show her address or location. The record is completely silent on where she was and what she was doing at that time.
+On July 14, the State served Galbreath at an Oregon detention facility called NORCOR. She was incarcerated there on “multiple local charges,” and she remained there through September 6, 2000.
+On September 7, 2000, Galbreath was transported to Washington on an unrelated warrant issued by Clark County. At the Clark County jail, she was given a release date of December 22, 2000.
+On September 18, 2000, Galbreath wrote a letter to Skamania County in which she asked for a speedy trial in this case. On October 9, 2000, she was transported to the Skamania County Jail, and on October 12, 2000, she made her first appearance. At that hearing, she moved to dismiss the case with prejudice, arguing (1) that her 14-day arraignment period had commenced on January 31; (2) that her 60-day trial period had commenced on February 14; and (3) that “the matter cannot now be tried within the speedy trial rule.” The trial court backdated arraignment to September 18, 2000 and scheduled a hearing on the motion to dismiss for October 26, 2000.
+The hearing on October 26 was more notable for what was not proven than for what was proven. Galbreath did not show where she had been or what she had been doing between January 31 and July 13. Galbreath did not show whether she was available to Washington process while incarcerated at NORCOR in Oregon. The State did not show that it had tried to locate her between January 31 and July 14; it merely complained that it had not known where she was from January 31 to July 13, and that she had been incarcerated in Oregon from July 14 through September 6. Galbreath argued that the period from January 31 to September 18 was presumptively included within CrR 3.3; that the State bore the burden “to show why it should be excluded;” and that “the State hasn’t met its burden.”
+The trial court denied the motion to dismiss. It reasoned that even though the delay between filing and Galbreaths’s first appearance “is sufficient to require the Court to determine whether a constructive arraignment date should be established,” “the period from January 31, 2000, through July 14, 2000, should not be included” because “the defendant’s whereabouts were unknown”; the period from July 14, 2000, to September 6, 2000, should not be included because “the defendant was not available to the State”; and the period from September 6 to September 18 should not be included because “the defendant’s whereabouts were again unknown.”
+On November 2, 2000, Galbreath submitted to a bench trial on stipulated facts. She was found guilty and sentenced the same day.
+The sole issue on appeal is whether the trial court complied with CrR 3.3. The parties do not dispute that the trial court set a constructive arraignment date of September 18, and that it tried Galbreath within 60 days thereafter. The parties do dispute whether the trial court was required to count time that elapsed between January 31, the date charges were filed, and September 18, the constructive date of arraignment.
+According to CrR 3.3(a), the trial court is responsible for providing a speedy trial. Before it can exercise that responsibility, it must have both the defendant and charge before it; lacking either, it has no ability to proceed. As a result, CrR 3.3(c) is designed so that the period for arraignment, and in reality the period for trial also, commence on the first day that the trial court has both the defendant and a charge.
+State v. Striker and State v. Greenwood alter the rule’s design. Each holds that when there is “a long and unnecessary delay” between the filing of charges and the defendant’s first appearance in court, the trial court must compute the time for arraignment and trial from the date of filing, even though the trial court had no defendant (and thus no ability to proceed) on that date. Delay is “long” if it lasts 45 days or more. Delay is “unnecessary” if, while it was occurring, the defendant was amenable to process and the State failed to exercise due diligence to bring him or her before the court.
+A number of authorities describe or imply when a defendant is amenable to process. CrR 3.3(g)(2) implies that a defendant generally is not amenable to process while held for trial in another county, although he becomes amenable once his guilt or innocence has been adjudicated. State v. Hudson and State v. Stewart hold that a defendant generally is not amenable to process while at large in another state. CrR 3.3(g)(6) implies that a defendant generally is not amenable to process while incarcerated in jail or prison in another state — subject, however, to State v. Anderson. Anderson holds that a defendant is amenable to process when in jail or prison in another state; this state’s prosecutor is aware of that; and the defendant is actively demanding a speedy trial.
+A number of authorities describe when the State exercises due diligence. According to State v. Huffmeyer, “due diligence requires the expenditure of at least a minimal amount of effort to bring the defendant before the court in a timely manner.” According to State v. Greenwood, this determination “necessarily turns on the facts of each individual case.”
+In State v. Roman, we allocated the burdens of proving amenability to process and due diligence. We said:
+The defendant should have the burden of proving amenability, for he or she knows what he or she was doing during the relevant period; the State should have the burden of proving due diligence, for it knows what it was doing during the relevant period.[]
+We note in passing that the defendant who participates in a pretrial hearing held under CrR 3.3 should be protected against self-incrimination in the same manner as the defendant who participates in a pretrial hearing held under CrR 3.5 or CrR 3.6.
+This case involves three periods of time. One is January 31 through July 13, 2000; another is July 14 through September 6, 2000; and a third is September 7 through September 18, 2000.
+As far as the record shows, the period from January 31 through July 13 did not involve “unnecessary” delay. The record shows nothing about where Galbreath was or what she was doing during those months; she may have actively been hiding from the police, or living openly next door to a police station. She had the burden of showing amenability; she did not sustain her burden; and thus the first period does not count as part of the time for arraignment or trial.
+As far as the record shows, the second period did not involve “unnecessary” delay. The record shows that Galbreath was confined at NORCOR from July 14 through September 6, but it does not show whether she was claiming or waiving her Oregon extradition rights. If she was claiming those rights, she was not amenable to Washington process until the date, if any, on which she exhausted those rights. If she was waiving her rights, she was amenable to Washington process on the date, if any, on which her waiver was effective. It was her burden to show what she was doing; she has not sustained that burden; and the second period does not count as part of the time for arraignment or trial.
+The third period is immaterial. Galbreath was tried and sentenced on November 2, 2000. Assuming without holding that the third period involved “unnecessary” delay, and that her constructive arraignment date should have been September 7, she was tried 56 days later.
+Nothing herein constitutes acceptance of the State’s claim that it exercises due diligence merely by (a) obtaining a warrant, (b) putting the warrant into its computer system, then (c) doing nothing else. We leave that claim for another day.
+In summary, this record does not show that any of the time from January 31 through September 6 should be counted under Striker and Greenwood. Galbreath was tried within 60 days of September 7; her CrR 3.3 right to speedy trial was not violated; and the trial court did not err by denying her motion to dismiss.
+Affirmed.
+Bridgewater and Quinn-Brintnall, JJ., concur.
+A count charging unlawful issuance of bank checks was dismissed before trial. Accordingly, it is not pertinent here.
+Clerk’s Papers (CP) at 8.
+Report of Proceedings (RP) at 1.
+RP at 16.
+CP at 31.
+CrR 3.3(c).
+87 Wn.2d 870, 557 P.2d 847 (1976).
+120 Wn.2d 585, 845 P.2d 971 (1993).
+Greenwood, 120 Wn.2d at 599; see also State v. Roman, 94 Wn. App. 211, 216, 972 P.2d 511 (1999); State v. Stewart, 130 Wn.2d 351, 360, 922 P.2d 1356 (1996); State v. Hudson, 130 Wn.2d 48, 54, 921 P.2d 538 (1996).
+Stewart, 130 Wn.2d at 360; Hudson, 130 Wn.2d at 54 n.4; Greenwood, 120 Wn.2d at 599; State v. Carpenter, 94 Wn.2d 690, 694, 619 P.2d 697 (1980); Roman, 94 Wn. App. at 216.
+Greenwood, 120 Wn.2d at 590, 591, 593, 601; see also Roman, 94 Wn. App. at 216; Stewart, 130 Wn.2d at 360-61, 367; Hudson, 130 Wn.2d at 54, 55, 58; Carpenter, 94 Wn.2d at 693; Striker, 87 Wn.2d at 871-72; State v. Hunnel, 52 Wn. App. 380, 384, 760 P.2d 947 (1988); State v. Lee, 48 Wn. App. 322, 325, 738 P.2d 1081 (1987).
+Hudson, 130 Wn.2d at 54; Greenwood, 120 Wn.2d at 601; Roman, 94 Wn. App. at 216.
+State v. Huffmeyer, 145 Wn.2d 52, 63, 32 P.3d 996 (2001).
+State v. Hudson, 130 Wn.2d 48, 921 P.2d 538 (1996); State v. Stewart, 130 Wn.2d 351, 922 P.2d 1356 (1996); see also Roman, 94 Wn. App. at 217.
+State v. Anderson, 121 Wn.2d 852, 855 P.2d 671 (1993).
+Anderson, 121 Wn.2d at 864. The recent case of State v. Huffmeyer does not seem to alter this reading of Anderson. Huffmeyer states that “where a defendant is being held on charges in another county, due diligence requires the state to make efforts to bring the defendant to trial once the exclusions of CrR 3.3 no longer apply.” 145 Wn.2d at 64 (emphasis added). In light of CrR 3.3(g)(6), which excludes “time during which a defendant is detained in jail or prison outside the state of Washington,” it continues to be true that the State’s obligation to exercise due diligence is not triggered until it is notified that the defendant is available for pickup or, as in Anderson, that the defendant is demanding a speedy trial.
+Huffmeyer, 145 Wn.2d 52, 63, 32 P.3d 996 (2001).
+Greenwood, 120 Wn.2d at 601.
+State v. Roman, 94 Wn. App. 211.
+Roman, 94 Wn. App. at 216.
+See, e.g., Simmons v. United States, 390 U.S. 377, 394, 88 S. Ct. 967,19 L. Ed. 2d 1247 (1968) (defendant’s testimony at pretrial hearing on motion to suppress may not be used against defendant at trial); United States v. Inmon, 568 F.2d 326, 332 (3d Cir. 1977) (defendant’s testimony at pretrial hearing on double jeopardy claim may not be used against defendant at trial), cert. denied, 444 U.S. 859 (1979); cf. Gibson v. Zahradnick, 581 F.2d 75, 79-80 (4th Cir.), cert, denied sub nom. Mitchell v. Gibson, 439 U.S. 996 (1978) (competence); United States v. Anderson, 567 F.2d 839, 840-41 (8th Cir. 1977) (right to counsel); United States v. Branker, 418 F.2d 378, 380 (2d Cir. 1969) (right to counsel).
+The State announces in its brief that “for purposes of argument, [it] will accept that [Galbreath] was amenable to service from January 31, to July 14 of 2000.” Resp’t’s Br. at 6. This announcement is unsupported by anything in the record, so it seems both improvident and unreliable. If made at the trial court level, however, it might have misled Galbreath into not litigating her amenability to process. We can find no indication that it was made at the trial court level, and the transcript seems to show that each party had a full and fair opportunity to address all issues. To insure there was no prejudice, however, we invite Galbreath to show by motion for reconsideration — if she can — that she has evidence sufficient to support findings (a) that she was amenable to process from January 31 through July 13, and (b) that she was misled into not producing such evidence at the prior hearing. If she makes such a showing, we will reconsider whether the case should be remanded for further hearing.
+But see Huffmeyer, 145 Wn.2d at 60-65.
