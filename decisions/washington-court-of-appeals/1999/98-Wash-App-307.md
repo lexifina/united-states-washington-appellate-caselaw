@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40219-6-I"
 decided: "1999-11-08"
-citations: ["98 Wash. App. 307", "97 Wash. App. 1081"]
+citations: ["98 Wash. App. 307"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Edith Luckett, Appellant, v. Boeing Company, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/98/cases/0307-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155929
-cites_cases: ["104 Wn.2d 142", "130 Wn.2d 189", "133 Wn.2d 1019", "134 Wn.2d 769", "137 Wn.2d 1023", "140 Wn.2d 1026", "181 W. Va. 316", "257 Kan. 456", "425 A.2d 81", "438 P.2d 581", "491 F.2d 245", "595 P.2d 549", "599 P.2d 1289", "657 F.2d 1053", "702 P.2d 1179", "72 Wn. App. 302", "73 Wn. App. 393", "73 Wn.2d 348", "795 F.2d 601", "81 Wn. App. 102", "86 Wn. App. 761", "863 P.2d 1377", "869 P.2d 427", "889 F.2d 242", "912 P.2d 1040", "915 F.2d 1414", "92 Wn. App. 494", "92 Wn.2d 209", "92 Wn.2d 576", "922 P.2d 83", "938 P.2d 345", "948 P.2d 387", "954 P.2d 237", "963 P.2d 947", "98 Wn. App. 307", "980 P.2d 1282"]
+cites_cases: ["104 Wn.2d 142", "130 Wn.2d 189", "133 Wn.2d 1019", "134 Wn.2d 769", "137 Wn.2d 1023", "140 Wn.2d 1026", "181 W. Va. 316", "257 Kan. 456", "425 A.2d 81", "438 P.2d 581", "491 F.2d 245", "595 P.2d 549", "599 P.2d 1289", "657 F.2d 1053", "702 P.2d 1179", "72 Wn. App. 302", "73 Wn. App. 393", "73 Wn.2d 348", "795 F.2d 601", "81 Wn. App. 102", "86 Wn. App. 761", "863 P.2d 1377", "869 P.2d 427", "889 F.2d 242", "912 P.2d 1040", "915 F.2d 1414", "92 Wn. App. 494", "92 Wn.2d 209", "92 Wn.2d 576", "922 P.2d 83", "938 P.2d 345", "948 P.2d 387", "954 P.2d 237", "963 P.2d 947", "980 P.2d 1282"]
 ---
 
 # Luckett v. Boeing Co.
