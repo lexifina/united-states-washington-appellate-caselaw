@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25863-0-I"
 decided: "1991-05-20"
-citations: ["61 Wash. App. 630", "61 Wash. App. 1017"]
+citations: ["61 Wash. App. 630"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Cascade Vista Convalescent Center, Inc., et al, Appellants, v. The De
 source_url: "https://static.case.law/wash-app/61/cases/0630-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1729537
-cites_cases: ["100 Wn.2d 1030", "104 Wn.2d 844", "110 L. Ed. 2d 455", "115 Wn.2d 690", "35 Wn. App. 632", "42 U.S.C. §§ 1396", "61 Wn. App. 630", "669 P.2d 476", "710 P.2d 196", "744 F. Supp. 1507", "801 P.2d 212"]
+cites_cases: ["100 Wn.2d 1030", "104 Wn.2d 844", "110 L. Ed. 2d 455", "115 Wn.2d 690", "35 Wn. App. 632", "42 U.S.C. §§ 1396", "669 P.2d 476", "710 P.2d 196", "744 F. Supp. 1507", "801 P.2d 212"]
 ---
 
 # Cascade Vista Convalescent Center, Inc. v. Department of Social & Health Services
