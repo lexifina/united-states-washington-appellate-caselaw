@@ -1,0 +1,28 @@
+---
+court: "Washington Court of Appeals"
+docket: "952-3"
+decided: "1974-12-20"
+citations: ["12 Wash. App. 309"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Carl E. Johnson, Appellant."]
+source_url: "https://static.case.law/wash-app/12/cases/0309-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1855874
+cites_cases: ["10 Wn. App. 713", "12 Wn. App. 155", "3 Wn. App. 441", "3 Wn. App. 740", "357 U.S. 301", "399 P.2d 618", "424 P.2d 639", "455 P.2d 595", "475 P.2d 802", "477 P.2d 648", "508 P.2d 1035", "512 P.2d 1119", "515 P.2d 1307", "515 P.2d 832", "519 P.2d 1328", "528 P.2d 1010", "65 Wn.2d 808", "70 Wn.2d 552", "76 Wn.2d 212", "8 Wn. App. 684", "9 Wn. App. 399", "9 Wn. App. 909", "9 Wn.App. 970"]
+---
+
+# State v. Johnson
+
+## Majority (Munson, J.)
+
+Munson, J.
+Defendant appeals a conviction of: (1) illegal possession of a controlled substance, marijuana, in an amount less than 40 grams, and (2) illegal sale and delivery of a controlled substance, marijuana.
+On August 23, 1972, shortly before 12 p.m., Dave Palmer, a police agent for Okanogan County, made contact with two juveniles, and arranged to buy four lids of marijuana from them. He purchased two lids and was informed an additional two lids could be obtained at a particular apartment. He and the juveniles went to an upstairs apartment, entered and purchased two additional lids of marijuana with two marked $20 bills. Defendant handed the two lids to another occupant, who gave them to Palmer. The money was handed to the occupant, who gave it to the defendant. Upon leaving the apartment with the juveniles, Agent Palmer, by a prearranged signal, notified police officer Fitz-hugh that a purchase had been made. Officer Fitzhugh then accompanied Agent Palmer back to the apartment building and rang the doorbell. An individual opened the door; seeing the officers, he yelled “Here come the cops,” and ran upstairs. Agent Palmer and Officer Fitzhugh pursued him and entered an open door of the apartment in which the purchase had been made. At that time the defendant and the other occupant were arrested. A search of the defendant’s person revealed the two marked $20 bills.
+Appellant first contends that Officer Fitzhugh lacked probable cause to arrest this defendant. We do not agree. A police officer is entitled to make an arrest without a warrant, when he has probable cause to believe that a felony is being, or has been, committed. State v. Darst, 65 Wn.2d 808, 399 P.2d 618 (1965); State v. Cabigas, 3 Wn. App. 740, 477 P.2d 648 (1970). The sale of marijuana constitutes a felony. ROW 69.50.401; ROW 69.50.204. Officer Fitzhugh had been informed by Agent Palmer that the purchase had been made and that the seller was still in the. apartment. The facts and circumstances then known to Officer Fitzhugh were sufficient in themselves to warrant a man of reasonable caution to believe that an offense had been committed by an individual in that apartment.
+Appellant next contends that the officers’ entry into the premises was illegal; thereby requiring suppression of the two marked $20 bills found on the defendant. State v. Hatcher, 3 Wn. App. 441, 475 P.2d 802 (1970). We do not agree. Lawful entry into a private premises requires that the officer announce his identity, purpose, and demand admittance, unless exigent and necessitous circumstances exist which will justify a forceful entry. State v. Young, 76 Wn.2d 212, 455 P.2d 595 (1969); State v. Lowrie, 12 Wn. App. 155, 528 P.2d 1010 (1974); State v. Neff, 10 Wn. App. 713, 519 P.2d 1328 (1974); State v. Wilson, 9 Wn. App. 909, 515 P.2d 832 (1973); State v. Singleton, 9 Wn. App. 399, 512 P.2d 1119 (1973). The doorbell having been rung, the officers’ identity having been disclosed to the individual who answered the door, and the individual’s flight from the presence of the officer, provide the necessary exigent circumstances. Miller v. United States, 357 U.S. 301, 2 L. Ed. 2d 1332, 78 S. Ct. 1190 (1958); State v. Young, supra; Coleman v. Reilly, 8 Wn. App. 684, 508 P.2d 1035 (1973). The recent purchase, identity and immediate flight distinguish this case from the facts of State v. Lowrie, supra.
+Appellant next contends prejudicial error was committed in admitting exhibits Nos. 3 and 4, which consisted of the two bags of marijuana purchased in the apartment. Appellant contends that prejudicial error results because Officer Fitzhugh was unable to identify these exhibits as those purchased in the apartment. We find the appellants’ contentions to be without merit. Exhibits Nos. 3 and 4 were properly identified by Agent Palmer as those purchased in the apartment. He testified he gave them to Officer Fitzhugh who in turn testified to his disposition of them. They were properly admitted. State v. Russell, 70 Wn.2d 552, 424 P.2d 639 (1967).
+Appellant’s final contention is that exhibit No. 10, consisting of a manila envelope into which exhibits Nos. 3 and 4 were placed on the evening of the purchase, should not have been admitted; Officer Fitzhugh could not identify the contents of exhibit No. 10. We do not agree. Officer Fitz-hugh properly identified the manila envelope as the container into which he placed the two lids he received from Agent Palmer after the apartment purchase and testified as to its condition at the time of trial. Exhibit No. 10 was properly admitted. State v. Russell, supra; State v. Parker, 9 Wn.App. 970, 515 P.2d 1307 (1973).
+Judgment affirmed.
+Green, C.J., and McInturff, J., concur.
