@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "17374-0-I; 17567-0-I; 17568-8-I"
+decided: "1987-05-20"
+citations: ["47 Wash. App. 729"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Williams and Webster JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Randy Leon Brown, Appellant."]
+source_url: "https://static.case.law/wash-app/47/cases/0729-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1836414
+cites_cases: ["100 Wn.2d 832", "101 Wn.2d 490", "102 Wn.2d 300", "26 Wn. App. 783", "46 Wn. App. 52", "598 P.2d 395", "614 P.2d 234", "662 P.2d 828", "676 P.2d 444", "681 P.2d 223", "684 P.2d 1290", "728 P.2d 1102", "92 Wn.2d 474", "99 Wn.2d 373"]
+---
+
+# State v. Brown
+
+## Majority (Coleman, J.)
+
+Coleman, J.
+Randy Brown, a juvenile, appeals three orders of disposition. He argues that the "300 percent" rule of RCW 13.40.180(2) required the court to limit his sentence for all of the offenses to 300 percent of the term imposed for the most serious offense. We affirm.
+Randy Brown's appeal concerns offenses charged in three informations:
+1. Cause 85-8-02722-3. The information was filed on July 5, 1985, and charged theft in the third degree occurring on or about July 1, 1985;
+2. Cause 85-8-03039-9. The information was filed on July 31, 1985, and charged criminal trespass in the second degree and malicious mischief in the third degree, both occurring on or about July 16, 1985;
+3. Cause 85-8-03067-4. The information was filed on August 1, 1985, and charged two counts of burglary in the second degree, one occurring between July 12 and July 15, 1985, and the other occurring between July 26 and July 28, 1985.
+Brown entered a plea of guilty to all five offenses. The pleas were entered on a single statement which contained the prosecutor's recommendation on each offense.
+At the disposition hearing, the caseworker recommended that Brown serve 30 days on each of the five counts, for a total of 150 days. Brown's counsel objected that this sentence would exceed the maximum allowed under the 300 percent rule of RCW 13.40.180. He contended that the statutory limitation restricted the court to a maximum sentence for all five counts of 300 percent of the term imposed for the most serious offense. The prosecutor argued that the 150-day sentence would not violate RCW 13.40.180 because the court was sentencing the defendant on three different informations, and the sentences on each of those informa-tions satisfied the 300 percent rule of the statute. The court continued the hearing to the next day to allow Brown's counsel time to produce authority supporting his interpretation of the statute.
+When the parties came before the court the next day, Brown's counsel was unable to provide the court with any cases holding that the "disposition" referred to in RCW 13.40.180 covered all of the counts for which sentencing is imposed at a disposition hearing. He argued, however, that the clear language of the statute supported his interpretation, and if any ambiguity existed in the statute, the rule of lenity required the court to interpret the statute favorably to the defendant. The court determined that it would adopt the State's interpretation of the statute. It sentenced Brown to 30 days' confinement on each count, ordered him to spend 18 months on probation, and required him to attend school and counseling. A separate disposition order was entered for each information.
+In findings and conclusions, the court found that "[t]he three separate cause numbers were set for disposition on the same date for convenience of parties although they could have been set on different days." After considering the 300 percent rule, the court concluded "that the sentence imposed is permissible. The rule applies to a disposition for counts within one cause number. The court has made a separate disposition on each of the three separate cause numbers on which respondent was sentenced ..."
+Before we reach the merits of Brown's appeal, we must determine whether the appeal is moot. Brown concedes that "the sentences imposed in these matters have run, and the case is technically moot." He argues, however, that the court should consider this case despite its mootness because it involves matters of continuing and substantial public interest. See, e.g., Dunner v. McLaughlin, 100 Wn.2d 832, 838, 676 P.2d 444 (1984); In re Cross, 99 Wn.2d 373, 377, 662 P.2d 828 (1983). In its brief, the State contended that the issue is not one of substantial public interest, and the appeal should therefore be dismissed. At oral argument, however, the State represented that the issue is raised approximately once a week and joined in requesting that this court reach the merits. Based on counsel's representations that the question recurs frequently and because there are no appellate decisions directly on point, we address the issue.
+RCW 13.40.180 provides:
+Where a disposition is imposed on a youth for two or more offenses, the terms shall run consecutively, subject to the following limitations:
+(1) Where the offenses were committed through a single act or omission, omission, or through an act or omission which in itself constituted one of the offenses and also was an element of the other, the aggregate of all the terms shall not exceed one hundred fifty percent of the term imposed for the most serious offense;
+(2) The aggregate of all consecutive terms shall not exceed three hundred percent of the term imposed for the most serious offense; and
+(3) The aggregate of all consecutive terms of community supervision shall not exceed two years in length, or require payment of more than two hundred dollars in fines or the performance of more than two hundred hours of community service.
+Brown argues that the "disposition" referred to in RCW 13.40.180 encompassed all five counts which were set for sentencing at the disposition hearing. The State argues that the "disposition" referred to by the statute refers to each information, not to each disposition hearing.
+We note that the term "disposition" is not defined in the statute. RCW 13.40.020. Although the section heading of the codified version of RCW 13.40.180 reads "Disposition order—Consecutive terms when two or more offenses— Limitations", this heading is not contained in the original act, Laws of 1977, 1st Ex. Sess., ch. 291, § 72, p. 1038, and therefore is not part of the law. Sollenberger v. Cranwell, 26 Wn. App. 783, 787, 614 P.2d 234 (1980). In other sections of the act, the Legislature refers specifically to both "dispositional orders," RCW 13.40.150(3), .160(5), (6), and .190(1), and "disposition hearings," RCW 13.40.130(8) and .150(1), but does not indicate which of these more specific terms was intended to apply to the 300 percent rule.
+In determining the meaning of a term in a statute, the court will look to the subject matter in connection with which it is used and the context of the statute in which it is employed. State v. Garrison, 46 Wn. App. 52, 54, 728 P.2d 1102 (1986). An act must be construed as a whole, considering all provisions in relation to each other and, if possible, harmonizing all to insure proper construction of each provision. In re Piercy, 101 Wn.2d 490, 492, 681 P.2d 223 (1984). If a criminal statute is ambiguous, the rule of lenity requires the court to adopt the interpretation most favorable to the defendant. State v. Martin, 102 Wn.2d 300, 304, 684 P.2d 1290 (1984).
+After reading the whole statute, it is clear that the term "disposition" is not ambiguous and that it refers to a disposition order and not a disposition hearing. We come to this conclusion primarily because the statute does not require the State or the court to consolidate into a single disposition hearing different informations pending against the same youth. It is undisputed, therefore, that separate disposition hearings could have been held to sentence Brown on each information. Thus, if we accepted Brown's argument and held that the 300 percent rule applied to a disposition hearing, the State would nevertheless be entitled to avoid the effect of our decision merely by the scheduling of disposition hearings. Because the statute as a whole indicates that Brown's construction of the term "disposition" leads to absurd results, we conclude that the term refers to a disposition order. See State v. Burke, 92 Wn.2d 474, 478, 598 P.2d 395 (1979); Garrison, at 56.
+The judgment of the juvenile court is affirmed.
+Williams and Webster JJ., concur.
+Review denied by Supreme Court July 1, 1987.
