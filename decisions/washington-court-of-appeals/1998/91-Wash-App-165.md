@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38451-1-I"
 decided: "1998-03-23"
-citations: ["91 Wash. App. 165", "89 Wash. App. 1064"]
+citations: ["91 Wash. App. 165"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Leslie A. Lasher, as Guardian, Appellant, v. The University of Washin
 source_url: "https://static.case.law/wash-app/91/cases/0165-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681790
-cites_cases: ["10 Wn. App. 542", "123 Wn.2d 234", "125 Wn.2d 183", "13 Wn. App. 277", "173 P.2d 968", "24 Wn. App. 130", "26 Wn.2d 346", "30 A.L.R.5th 822", "40 Wn. App. 521", "46 Wn. App. 546", "519 P.2d 272", "534 P.2d 1038", "600 P.2d 625", "63 Wn. App. 193", "68 Wn. App. 339", "698 P.2d 1128", "731 P.2d 541", "817 P.2d 1380", "83 Wn.2d 1014", "842 P.2d 1015", "85 Wn.2d 1018", "867 P.2d 626", "883 P.2d 313", "91 Wn. App. 165", "94 A.L.R.3d 594"]
+cites_cases: ["10 Wn. App. 542", "123 Wn.2d 234", "125 Wn.2d 183", "13 Wn. App. 277", "173 P.2d 968", "24 Wn. App. 130", "26 Wn.2d 346", "30 A.L.R.5th 822", "40 Wn. App. 521", "46 Wn. App. 546", "519 P.2d 272", "534 P.2d 1038", "600 P.2d 625", "63 Wn. App. 193", "68 Wn. App. 339", "698 P.2d 1128", "731 P.2d 541", "817 P.2d 1380", "83 Wn.2d 1014", "842 P.2d 1015", "85 Wn.2d 1018", "867 P.2d 626", "883 P.2d 313", "94 A.L.R.3d 594"]
 ---
 
 # Lasher v. University of Washington
