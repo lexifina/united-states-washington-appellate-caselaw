@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27345-4-II"
 decided: "2002-04-12"
-citations: ["111 Wash. App. 578", "111 Wash. App. 1007"]
+citations: ["111 Wash. App. 578"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Gregory Levi Randoll, Appella
 source_url: "https://static.case.law/wash-app/111/cases/0578-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1072023
-cites_cases: ["100 Wn. App. 179", "107 Wn. App. 450", "111 Wn. App. 578", "123 Wn.2d 1030", "123 Wn.2d 885", "133 Wn.2d 847", "134 Wn.2d 176", "139 Wn.2d 1018", "143 Wn.2d 288", "145 Wn.2d 1013", "21 P.3d 262", "27 P.3d 639", "45 Wn. App. 712", "72 Wn. App. 62", "726 P.2d 1039", "83 Wn. App. 750", "863 P.2d 137", "872 P.2d 1087", "923 P.2d 721", "93 Wn. App. 783", "947 P.2d 1192", "96 Wn. App. 382", "970 P.2d 785", "980 P.2d 244", "997 P.2d 936"]
+cites_cases: ["100 Wn. App. 179", "107 Wn. App. 450", "123 Wn.2d 1030", "123 Wn.2d 885", "133 Wn.2d 847", "134 Wn.2d 176", "139 Wn.2d 1018", "143 Wn.2d 288", "145 Wn.2d 1013", "21 P.3d 262", "27 P.3d 639", "45 Wn. App. 712", "72 Wn. App. 62", "726 P.2d 1039", "83 Wn. App. 750", "863 P.2d 137", "872 P.2d 1087", "923 P.2d 721", "93 Wn. App. 783", "947 P.2d 1192", "96 Wn. App. 382", "970 P.2d 785", "980 P.2d 244", "997 P.2d 936"]
 ---
 
 # State v. Randoll
