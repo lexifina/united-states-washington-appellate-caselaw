@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52860-2-I"
 decided: "2004-11-01"
-citations: ["125 Wash. App. 14", "123 Wash. App. 1061"]
+citations: ["125 Wash. App. 14"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dale M. Hoel, et al., Respondents, v. Betty Jo Rose, et al., Appellan
 source_url: "https://static.case.law/wash-app/125/cases/0014-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270396
-cites_cases: ["105 Wn.2d 1009", "107 Wn.2d 388", "108 Wn.2d 69", "114 Wn.2d 817", "118 Wn.2d 801", "12 Wn.2d 672", "122 Wash. 550", "123 P.2d 332", "125 Wn. App. 14", "132 P. 746", "135 P.2d 834", "135 Wn.2d 820", "147 Wn.2d 536", "17 Wn.2d 457", "185 P.2d 109", "208 P.2d 1194", "211 P. 716", "29 Wn.2d 30", "301 P.2d 166", "34 Wn.2d 428", "42 Wn. App. 252", "43 Wn. App. 532", "49 Wn.2d 328", "54 Wn. App. 474", "55 P.3d 619", "565 P.2d 80", "711 P.2d 356", "718 P.2d 814", "730 P.2d 45", "736 P.2d 242", "74 Wash. 28", "773 P.2d 884", "792 P.2d 500", "828 P.2d 549", "88 Wn.2d 449", "959 P.2d 651"]
+cites_cases: ["105 Wn.2d 1009", "107 Wn.2d 388", "108 Wn.2d 69", "114 Wn.2d 817", "118 Wn.2d 801", "12 Wn.2d 672", "122 Wash. 550", "123 P.2d 332", "132 P. 746", "135 P.2d 834", "135 Wn.2d 820", "147 Wn.2d 536", "17 Wn.2d 457", "185 P.2d 109", "208 P.2d 1194", "211 P. 716", "29 Wn.2d 30", "301 P.2d 166", "34 Wn.2d 428", "42 Wn. App. 252", "43 Wn. App. 532", "49 Wn.2d 328", "54 Wn. App. 474", "55 P.3d 619", "565 P.2d 80", "711 P.2d 356", "718 P.2d 814", "730 P.2d 45", "736 P.2d 242", "74 Wash. 28", "773 P.2d 884", "792 P.2d 500", "828 P.2d 549", "88 Wn.2d 449", "959 P.2d 651"]
 ---
 
 # Hoel v. Rose
