@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23253-3-I"
 decided: "1990-05-14"
-citations: ["58 Wash. App. 215", "57 Wash. App. 1064"]
+citations: ["58 Wash. App. 215"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Stephen Kyle Payne, Appellant
 source_url: "https://static.case.law/wash-app/58/cases/0215-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754642
-cites_cases: ["106 Wn.2d 547", "23 Wn. App. 789", "35 Wn. App. 658", "37 Wn. App. 910", "46 Wn. App. 218", "58 Wn. App. 215", "599 P.2d 20", "600 P.2d 1264", "669 P.2d 891", "684 P.2d 87", "723 P.2d 1111", "729 P.2d 656", "92 Wn.2d 755"]
+cites_cases: ["106 Wn.2d 547", "23 Wn. App. 789", "35 Wn. App. 658", "37 Wn. App. 910", "46 Wn. App. 218", "599 P.2d 20", "600 P.2d 1264", "669 P.2d 891", "684 P.2d 87", "723 P.2d 1111", "729 P.2d 656", "92 Wn.2d 755"]
 ---
 
 # State v. Payne
