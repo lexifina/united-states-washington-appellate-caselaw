@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "5883-9-II"
+decided: "1983-11-10"
+citations: ["36 Wash. App. 66"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reed and Worswick, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Donald Gene Booth, Appellant."]
+source_url: "https://static.case.law/wash-app/36/cases/0066-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1782018
+cites_cases: ["11 Wn. App. 491", "17 Wn. App. 922", "21 Wn. App. 388", "261 P.2d 109", "28 Wn. App. 446", "28 Wn. App. 606", "31 Wn. App. 165", "31 Wn. App. 375", "31 Wn. App. 843", "327 P.2d 433", "390 U.S. 377", "409 U.S. 188", "43 Wn.2d 307", "432 U.S. 98", "52 Wn.2d 543", "524 P.2d 466", "567 P.2d 654", "584 P.2d 946", "594 P.2d 905", "624 P.2d 208", "625 P.2d 726", "633 P.2d 83", "639 P.2d 863", "642 P.2d 762", "644 P.2d 1224", "92 Wn.2d 143", "96 Wn.2d 1"]
+---
+
+# State v. Booth
+
+## Majority (Petrich, C.J.)
+
+Petrich, C.J.
+In this appeal, Donald Gene Booth presents two claims of error from his conviction for first degree robbery. First, Booth contends an eyewitness identification admitted at trial was improperly made and should have been suppressed. Second, he claims prejudicial error as a result of certain statements made by the bailiff to the jurors during deliberations. We find that the bailiff's statements resulted in prejudicial error and therefore reverse and remand for new trial.
+On May 27, 1981, at approximately 10:30 a.m., a branch of the Pacific Bank in Longview, Washington, was robbed by two men wearing Halloween masks. Shortly after the robbery, in a nearby area a mailman noticed a man with a brown paper bag remove his shirt and hurriedly enter a maroon car with Missouri license plates driven away by a female driver. Ms. Linda Thomas, a passerby in the same area, also noticed the man and the car. Ms. Thomas additionally observed that the man was running and had money in his hands. Both parties contacted the police with the information.
+Soon after receiving the information, a police car stopped a vehicle matching the description and driven by a female with a male passenger. Found in the vehicle were two masks which bank employees identified as similar if not identical to the masks worn by the holdup men. The police asked Ms. Thomas to accompany them to the scene for purposes of identifying the man. At the scene, Ms. Thomas noticed a man in the back of the police car and identified him as the man she had previously seen. The identified man was defendant Booth. The female driver was Jammie Lynn Scott. At a suppression hearing on July 23, 1981, the Superior Court denied a motion to suppress evidence of the identification.
+Trial began on September 23, 1981, and the jury began deliberations on the evening of September 24, 1981. During deliberations, defense counsel noticed the bailiff talking with the jurors. The court was notified and deliberations were ceased. The judge's inquiry revealed that the bailiff told jurors that Booth and Jammie Lynn Scott the driver (a codefendant not present at trial) had jumped bail. A curative instruction was given and the jury found Booth guilty of first degree robbery. The court denied a motion for mistrial based on the bailiff's comment.
+We first address the dispositive issue of the communication between the bailiff and jurors during deliberations. In response to the judge's questionnaire, jurors indicated the following conversation took place:
+Jurors: Can we ask any questions?
+Bailiff: What kind of questions?
+Jurors: What happened to Jamie [sic] Scott, and why didn't she testify?
+Bailiff: She took off!
+Jurors: What do you mean "she took off" she was booked according to this picture.
+Bailiff: She took off with him.
+Jurors: What do you mean she took off with him?
+Bailiff: They jumped bail.
+Jurors: Why didn't they tell us this?
+Bailiff: No response.
+Booth argues a mistrial should have been granted because the bailiff's statements were influential, prejudicial and incapable of cure by instruction. We agree. It is well established that a bailiff is forbidden to communicate with the jury during deliberations except to inquire if it has reached a verdict, or to make innocuous or neutral statements. RCW 4.44.300; State v. Smith, 43 Wn.2d 307, 311, 261 P.2d 109 (1953). The purpose of the statute is to protect the jury from communications that may prejudice its verdict. O'Brien v. Seattle, 52 Wn.2d 543, 327 P.2d 433 (1958).
+In State v. Christensen, 17 Wn. App. 922, 567 P.2d 654 (1977), this court emphasized the approach to be used in analyzing bailiff communications with the jury. The court stated:
+[N] either the trial court nor we can consider a juror's statements as to whether the conversation with the bailiff influenced the jury; such effects inhere in the verdict and cannot be used to impeach it. We can only attempt to discover what was said and examine the remarks for their possible prejudicial impact.
+(Citations omitted.) State v. Christensen, 17 Wn. App. at 925-26. Recently, the Supreme Court expressly affirmed and used this approach in State v. Crowell, 92 Wn.2d 143, 594 P.2d 905 (1979), reiterating the importance of only analyzing the statements themselves in deciding their impact upon the jury.
+Upon examining the bailiff's statements alone, we cannot say they qualify as innocuous or neutral. Rather, there is a strong likelihood the statements were influential and prejudiced the jury's verdict. Booth's defense was that he had no prior connections with the missing codefendant, Jammie Lynn Scott, and that he had been picked up by her while hitchhiking immediately prior to his arrest. Bailiff's statements that "she took off with him" and "they jumped bail" were contrary to Booth's defense, impermissibly connected him with Ms. Scott, and may well have been considered by the jury. Clearly, the bailiff's statements constituted error.
+However, on appeal, such errors do not require reversal if they are harmless. Since the claim of error has a constitutional impact — the right to a fair trial — the error must be harmless beyond a reasonable doubt. State v. Evans, 96 Wn.2d 1, 633 P.2d 83 (1981); State v. Roberts, 31 Wn. App. 375, 642 P.2d 762 (1982).
+After review of the entire record, we cannot say the error was harmless beyond a reasonable doubt. It is true the court gave a curative instruction which admonished the jury to consider only that evidence presented in the courtroom; that the jury was not to consider the presence or action of the woman after her arrest and that the defendant did not violate his bail conditions. Nevertheless, the bailiff's impermissible comments forged the damaging link between Booth and Jammie Lynn Scott and the masks found in the car driven by her. The curative instruction was insufficient to negate this connection and the inferences arising therefrom. Therefore we must reverse and remand for new trial.
+Although we remand for new trial, we address defendant's claimed error of the improperly admitted identification evidence which will again be made on retrial. Booth argues the evidence of the identification by Ms. Thomas should have been suppressed because it was a 1-man showup and hence impermissibly suggestive.
+The test for the inclusion of an identification is whether the identification procedure was so " ’impermissibly suggestive as to give rise to a very substantial likelihood of irreparable misidentification.'" State v. Cook, 31 Wn. App. 165, 171, 639 P.2d 863 (1982), quoting Simmons v. United States, 390 U.S. 377, 384, 19 L. Ed. 2d 1247, 88 S. Ct. 967 (1968). The key inquiry to admissibility of the identification is reliability. Manson v. Brathwaite, 432 U.S. 98, 53 L. Ed. 2d 140, 97 S. Ct. 2243 (1977); State v. Turner, 31 Wn. App. 843, 848, 644 P.2d 1224 (1982). Factors to consider in determining witness reliability include the opportunity to view the suspect, the degree of attention, the accuracy of the witness' prior description, the level of certainty demonstrated at the identification, and the time span of the identification. Neil v. Biggers, 409 U.S. 188, 34 L. Ed. 2d 401, 93 S. Ct. 375 (1972); State v. Burrell, 28 Wn. App. 606, 610, 625 P.2d 726 (1981).
+Our first inquiry is whether the identification procedure was suggestive. The facts support a conclusion that the procedure used was suggestive. Booth was not in a lineup, he was in the police car with his back to Ms. Thomas, and the police did not obtain a prior description from Ms. Thomas to verify her identification. However, a suggestive procedure such as a showup is not per se impermissibly suggestive. Neil v. Biggers, supra; State v. Kraus, 21 Wn. App. 388, 391-92, 584 P.2d 946 (1978). Showups held shortly after a crime is committed and in the course of a prompt search for the suspect have been found to be permissible. Kraus, 21 Wn. App. at 392; State v. Medley, 11 Wn. App. 491, 499, 524 P.2d 466 (1974). The test requires a balancing of the harm of the suggestiveness against the witness' reliability. State v. Springfield, 28 Wn. App. 446, 447, 624 P.2d 208 (1981).
+The facts provide several indicia of reliability. Ms. Thomas was driving slowly, it was a clear day and she observed Booth for approximately 45 seconds. Her attention was greater than average because he had money in his hands and was running. In addition, her attention was particularly drawn to the car with Missouri plates because she had lived in Missouri. Finally, the identification took place 30 to 40 minutes later and was unequivocal. On the basis of these facts, we find that reliability outweighed the harm of suggestiveness and the identification was properly admitted.
+Judgment is reversed and cause remanded for new trial.
+Reed and Worswick, JJ., concur.
