@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13288-5-II"
 decided: "1991-03-18"
-citations: ["60 Wash. App. 949", "60 Wash. App. 1057"]
+citations: ["60 Wash. App. 949"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tom Belcher, et al, Appellants, v. Kitsap County, et al, Respondents.
 source_url: "https://static.case.law/wash-app/60/cases/0949-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1719209
-cites_cases: ["14 Wn. App. 247", "18 Wn. App. 328", "19 Wn. App. 780", "34 Wn. App. 873", "45 Wn. App. 876", "510 P.2d 647", "539 P.2d 693", "552 P.2d 175", "569 P.2d 1183", "573 P.2d 359", "578 P.2d 50", "59 Wn. App. 29", "59 Wn. App. 795", "60 Wn. App. 949", "664 P.2d 1256", "728 P.2d 1057", "795 P.2d 753", "801 P.2d 985", "82 Wn.2d 321", "87 Wn.2d 1001", "87 Wn.2d 348", "89 Wn.2d 1016", "89 Wn.2d 454"]
+cites_cases: ["14 Wn. App. 247", "18 Wn. App. 328", "19 Wn. App. 780", "34 Wn. App. 873", "45 Wn. App. 876", "510 P.2d 647", "539 P.2d 693", "552 P.2d 175", "569 P.2d 1183", "573 P.2d 359", "578 P.2d 50", "59 Wn. App. 29", "59 Wn. App. 795", "664 P.2d 1256", "728 P.2d 1057", "795 P.2d 753", "801 P.2d 985", "82 Wn.2d 321", "87 Wn.2d 1001", "87 Wn.2d 348", "89 Wn.2d 1016", "89 Wn.2d 454"]
 ---
 
 # Belcher v. Kitsap County
