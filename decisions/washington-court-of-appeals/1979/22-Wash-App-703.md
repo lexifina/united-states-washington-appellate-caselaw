@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "2965-2"
+decided: "1979-02-21"
+citations: ["22 Wash. App. 703"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Michael S. Firven, Appellant."]
+source_url: "https://static.case.law/wash-app/22/cases/0703-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 467072
+cites_cases: ["18 Wn. App. 751", "448 P.2d 934", "545 P.2d 1201", "571 P.2d 963", "75 Wn.2d 67", "86 Wn.2d 487"]
+---
+
+# State v. Firven
+
+## Majority (Pearson, C.J.)
+
+Pearson, C.J.
+Defendant, Michael Firven, was convicted of the crimes of assault in the second degree and theft in the third degree. He now appeals from the judgment and sentence entered by the trial court. The sole issue on appeal is whether the trial court erred in allowing in evidence the pretrial depositions of the three complaining witnesses. We affirm.
+Ricky McMillan got drunk at an enlisted men's club on March 12, 1977, and stepped outside to engage in some horseplay with his friends, Lee Allen and Mike Parmalee. After some grabbing and laughing, McMillan yelled for someone "to kick Mike Parmalee's ass." Defendant, who was standing a few feet away, said that he would do it for $50. McMillan said, "all I have is $35," and pulled it out of his pocket as he approached defendant. Defendant grabbed the bills out of McMillan's hand, tearing off part of one bill, and ran. McMillan, Allen, and Parmalee chased defendant until he stopped abruptly and turned to them with a knife, yelling that he would cut them up. He ran towards Allen, who fled. Swinging the knife at Allen's back, defendant chased him; Parmalee and McMillan chased defendant. Defendant broke off and ran down an alley, where he was apprehended by a shore patrol officer. The $35 wad was found on the ground in the alley, and part of a $20 bill was torn off.
+The complaining witnesses — McMillan, Parmalee, and Allen — were Navy seamen scheduled to ship out on April 1 for San Diego. An order for their depositions was issued by the court on March 31, 1977, at 4:30 p.m., but the depositions were not taken until the following morning at 8 a.m. at defense counsel's request, to allow him time to interview the three witnesses. The witnesses were subpoenaed to appear at trial on May 2, but they did not appear. The trial court permitted their depositions to be read to the jury, over defendant's objection.
+Defendant's sole contention on appeal is that the trial court erred in permitting the depositions of the three complaining witnesses to be read into the record at trial, on the grounds that: first, there was not a sufficient showing of their unavailability to testify, and second, this procedure, denied him an adequate opportunity to cross-examine the complaining witnesses, in violation of the confrontation clause of the sixth amendment to the United States Constitution. We disagree.
+It should be noted that defendant does not assign error to the order that depositions be taken, although his argument includes criticism of that order. Further, we have no record of the proceeding in which depositions were ordered. The party seeking review of a lower court's ruling is responsible for designating the necessary clerk's papers and exhibits. RAP 9.6. Although the appellate court has the power to correct or supplement the record, RAP 9.10, it is not required to do so. Heilman v. Wentworth, 18 Wn. App. 751, 571 P.2d 963 (1977). Therefore, the only issue that we must address on this appeal is the admissibility of the depositions at trial. The case of State v. Roebuck, 75 Wn.2d 67, 448 P.2d 934 (1968), is controlling.
+In Roebuck the complaining witness was an elderly man who,, at the defendant's preliminary hearing for assault, testified under oath that the defendant had knocked him down and attempted to take his wallet. An officer corroborated this testimony. The defendant was present with his attorney.
+At the subsequent trial the complaining witness was brought into the courtroom on a stretcher, and after interrogation the court found that he lacked the capacity to testify and was not "available" to testify. The judge and police witness in the preliminary hearing were then called as witnesses in the trial and permitted to testify as to their recollections of the complaining witness' testimony in the preliminary hearing. The defendant was convicted.
+The Supreme Court affirmed his conviction, holding that testimony given at a preliminary hearing, like that given at a previous trial, is admissible when there is a satisfactory showing that (1) the witness is unavailable; (2) the witness was sworn to testify at a previous proceeding; (3) the accused was present at that time and had the opportunity to cross-examine; and (4) the person who seeks to relate the absent witness' testimony was present, heard the witness testify, and can state in substance the nature of the subject matter sought to be established.
+Defendant asserts that there was not a sufficient showing of unavailability of the complaining witnesses in the present case. All three witnesses were served with subpoenas on March 22, 1977, but they failed to appear at trial on May 2, 1977. Testimony in the depositions taken on April 1, 1977, indicated that the witnesses were scheduled to leave Bremerton that day on their ship, the U.S.S. Kitty Hawk. Their destination was San Diego. But their exact whereabouts on the day of trial were unknown.
+CrR 4.6(d) provides in part:
+At the trial or upon any hearing, a part or all of a deposition so far as otherwise admissible under the rules of evidence may be used if it appears: that the witness is dead; or that the witness is unavailable, unless it appears that his unavailability was procured by the party offering the depositions; or that the witness is unable to attend or testify because of sickness or infirmity; or that the party offering the deposition has been unable to procure the attendance of the witness by subpoena.
+(Italics ours.) The complaining witnesses in this case were physically unavailable to testify, and the prosecutor was unable to procure their attendance at trial by subpoena.
+Defendant next contends that he had insufficient time to prepare for cross-examination of the complaining witnesses, because their depositions were ordered on March 31, 1977, at 4:30 p.m. and taken at 8 a.m. the following day, leaving defense counsel a period of 15 hours for preparation.
+In State v. Roebuck, supra, the defendant was represented at the preliminary hearing by an attorney who had just been appointed by the court and had conferred with the defendant shortly before the hearing commenced. The defense attorney in Roebuck did not cross-examine either witness at the hearing, but the court held that it was sufficient that he had the opportunity to do so. We note that a period of only 4 1/2 hours for preparation was allowed under similar facts in State v. Hewett, 86 Wn.2d 487, 545 P.2d 1201 (1976).
+Defendant in the present case fails to specify any way in which his cross-examination could have been improved with more than 15 hours for preparation. Further, we are satisfied from our reading of the record that defendant not only had the opportunity to cross-examine, see State v. Roebuck, supra, but also made thorough use of his opportunity in questioning each witness.
+Affirmed.
+Petrie and Reed, JJ., concur.
