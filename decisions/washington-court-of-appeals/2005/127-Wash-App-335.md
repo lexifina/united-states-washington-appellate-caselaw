@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53489-1-I"
 decided: "2005-04-04"
-citations: ["127 Wash. App. 335", "126 Wash. App. 1048"]
+citations: ["127 Wash. App. 335"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Estate of Sandra LaMontagne et al., Appellants, v. Bristol-Myers Squi
 source_url: "https://static.case.law/wash-app/127/cases/0335-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2463258
-cites_cases: ["118 Wn.2d 801", "119 Wn.2d 167", "122 Wn.2d 299", "127 Wn. App. 335", "134 Wn.2d 491", "136 Wn.2d 87", "141 Wn.2d 493", "146 Wn.2d 370", "150 Wn.2d 478", "21 C.F.R. § 201.57", "298 F.3d 1114", "46 P.3d 789", "562 So. 2d 680", "573 P.2d 785", "577 P.2d 975", "594 P.2d 911", "695 F. Supp. 700", "7 P.3d 795", "729 F. Supp. 43", "753 F. Supp. 634", "78 P.3d 1274", "818 F. Supp. 1404", "828 P.2d 549", "829 P.2d 1082", "83 N.Y.2d 1", "831 F.2d 92", "858 P.2d 1054", "89 Wn.2d 474", "90 Wn.2d 9", "92 Wn.2d 118", "951 P.2d 761", "960 P.2d 912"]
+cites_cases: ["118 Wn.2d 801", "119 Wn.2d 167", "122 Wn.2d 299", "134 Wn.2d 491", "136 Wn.2d 87", "141 Wn.2d 493", "146 Wn.2d 370", "150 Wn.2d 478", "21 C.F.R. § 201.57", "298 F.3d 1114", "46 P.3d 789", "562 So. 2d 680", "573 P.2d 785", "577 P.2d 975", "594 P.2d 911", "695 F. Supp. 700", "7 P.3d 795", "729 F. Supp. 43", "753 F. Supp. 634", "78 P.3d 1274", "818 F. Supp. 1404", "828 P.2d 549", "829 P.2d 1082", "83 N.Y.2d 1", "831 F.2d 92", "858 P.2d 1054", "89 Wn.2d 474", "90 Wn.2d 9", "92 Wn.2d 118", "951 P.2d 761", "960 P.2d 912"]
 ---
 
 # Estate of LaMontagne v. Squibb
