@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "1346-2"
+decided: "1975-06-02"
+citations: ["13 Wash. App. 597"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Armstrong, C.J., and Pearson, J., concur."]
+parties: ["R. W. Rhine, Inc., et al, Appellants, v. The City of Tacoma, Respondent."]
+source_url: "https://static.case.law/wash-app/13/cases/0597-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1849582
+cites_cases: ["132 P. 48", "41 Wash. 77", "491 P.2d 684", "496 P.2d 512", "5 Wn. App. 887", "513 P.2d 1047", "73 Wash. 304", "80 Wn.2d 547", "83 P. 6", "9 Wn. App. 667"]
+---
+
+# R. W. Rhine, Inc. v. City of Tacoma
+
+## Majority (Petrie, J.)
+
+Petrie, J.
+Plaintiff, an unsuccessful bidder on a public contract let by the City of Tacoma, brings this appeal from a summary judgment dismissing its application for a permanent injunction restraining the City of Tacoma from awarding urban renewal demolition contract UR 11677 to the successful bidder, Center Dozing Company.
+The issue presented is whether the filing of an improper bid bond in a call for bids on a public construction contract, even though the proper bond has been validly executed, constitutes a material defect in the proper bid procedure, which cannot be waived as a mere informality and which requires the rejection of the defective bid. We hold that the improper filing, under the circumstances, could be waived by the municipality. ■ ■
+On June 6, 1974, the City filed a motion to dismiss this appeal on the grounds that all issues are now moot. We recognize that this defense is applicable but we are also aware that this dispute involves a public construction contract and the competitive bidding statutes. Because this appeal involves an issue of substantial public interest, and resolution of the issue will provide future guidance tó public officials, we consider the merits of this appeal. Sorenson v. Bellingham, 80 Wn.2d 547, 496 P.2d 512 (1972).
+On November 19, 1973, the City of Tacoma called for bids on contract UR 11677 for the demolition of certain buildings in the downtown urban renewal project. The bids were opened on December 10, 1973, the date designated in the call. Center Dozing submitted the lowest bid, with R. W. Rhine, Inc., submitting the next lowest bid. Two days later, a representative of Center Dozing contacted the City and explained that he had inadvertently mixed up two bid bonds and that he had submitted a bond for a Salem, Oregon project by mistake. He requested the Salem bond be returned as it was needed to complete a bid packet on the Oregon contract. The City returned the Salem bond and Center Dozing substituted the proper bond.
+The record indicates that the Tacoma bond was signed by Center Dozing and its surety on December 10, 1973, the date the bids were scheduled to be opened. In addition, the parties stipulated that the Tacoma bond was obtained prior to the submission of the Tacoma bid and, but for the mistake, would have been submitted with the Tacoma bid.
+On December 26, 1973, the Tacoma City Council, pursuant to resolution, waived the irregularity in Center Dozing’s bid and accepted it. Two days later, the appellants filed a complaint seeking (1) to have the resolution declared invalid and (2) to enjoin the City from awarding the contract to Center Dozing Company. The City successfully moved for summary judgment. Later the contract was executed by the City, and Center Dozing provided the performance bond required by the contract specifications. The contract was completed by June 1974, all work having been finished and all payments having been made.
+We turn briefly to review the pertinent contract provisions. The contract specifications require that all bids
+must be accompanied by a Bid Guaranty which shall not be less than ten percent (10%) of the total estimated cost of Demolition and Site Clearance . . . [and] [n]o Bid will be considered unless it is accompanied by the required guaranty.
+(Italics ours.) Another provision reserved to the City the right to reject any and all bids and to waive informalities in bids received whenever such rejection or waiver is in its interest. ■
+Turning now to the merits, it is well recognized that the general scheme of competitive bidding statutes is to obtain the advantage of free and fair competition. Bidders enter a fair forum for the award of public contracts, and the public enjoys the benefit of a contract let to a responsible bidder at the best available price. When bids are submitted, immaterial irregularities can be waived as informalities; however, bids with material defects must be rejected. A.A.B. Electric, Inc. v. Stevenson Pub. School Dist. 303, 5 Wn. App. 887, 491 P.2d 684 (1971); Eastside Disposal Co. v. Mercer Island, 9 Wn. App. 667, 513 P.2d 1047 (1973). The test of whether or not an irregularity is material is whether or not it gives a bidder a substantial advantage or benefit not enjoyed by other bidders. A.A.B. Electric, Inc. v. Stevenson Pub. School Dist. 303, supra.
+The plaintiff contends that Center Dozing enjoyed an advantage over the other bidders because it was not subject to any liability until December 12, the date the bond was finally delivered to the City of Tacoma. We disagree. When the surety parted with custody of the bond on December 10 by transmitting it to Center Dozing, the surety intended that this bond be passed to the City of Tacoma for the purpose for which it was written. This constituted a valid delivery. See Prosser Power Co. v. United States Fidelity & Guar. Co., 73 Wash. 304, 132 P. 48 (1913); Gritman v. United States Fidelity & Guar. Co., 41 Wash. 77, 83 P. 6 (1905). The delivery of a contractor’s bond to the contractor, together with an assumption that it is in the obligee’s possession, constitutes delivery, notwithstanding the contractor never in fact delivered the same to the obligee. 1 R. Anderson, Couch on Insurance 2d § 10:24 (1959).
+Here, the proper bid bond was in existence on the date the bid was submitted. The filing of the improper bond did not confer any advantage upon Center not enjoyed by the other bidders. Accordingly, the variance was an immaterial irregularity and properly could be waived by the City.
+Furthermore, we find nothing in the record nor do the parties contend that the City acted in bad faith in accepting Center’s bid. The City had the right to believe that Center did not intend to submit a void bid for the purpose of obtaining a nonexistent advantage over the other bidders. This is clearly reinforced by Center’s actions in having obtained the proper bond before submitting its bid and then voluntarily approaching the City to correct its mistake.
+The plaintiff also contends that the contract requires exact compliance with its specifications for the submission of the bid bond so that any variance from these specifications prevents the defective bid from being considered. We find no merit to this argument. We certainly agree that the contract requires exact compliance with its specifications or a bid may not be considered; however, we also recognize that the contract permits the City to waive informalities in the bids if such a waiver is in its best interest. By waiving this irregularity, the City was able to obtain the lowest responsible bid.
+Judgment affirmed.
+Armstrong, C.J., and Pearson, J., concur.
