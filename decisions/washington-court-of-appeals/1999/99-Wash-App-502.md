@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42570-6-I"
 decided: "1999-11-22"
-citations: ["99 Wash. App. 502", "98 Wash. App. 1010"]
+citations: ["99 Wash. App. 502"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Personal Restraint of Raymond McVay, Petitioner.
 source_url: "https://static.case.law/wash-app/99/cases/0502-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 180996
-cites_cases: ["100 Wn.2d 669", "112 Wn.2d 546", "114 Wn.2d 802", "138 Wn.2d 388", "418 U.S. 539", "472 U.S. 445", "675 P.2d 209", "772 P.2d 510", "792 P.2d 506", "978 P.2d 1083", "99 Wn. App. 502"]
+cites_cases: ["100 Wn.2d 669", "112 Wn.2d 546", "114 Wn.2d 802", "138 Wn.2d 388", "418 U.S. 539", "472 U.S. 445", "675 P.2d 209", "772 P.2d 510", "792 P.2d 506", "978 P.2d 1083"]
 ---
 
 # In re the Personal Restraint of McVay
