@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44432-8-I"
 decided: "2000-11-06"
-citations: ["104 Wash. App. 291", "103 Wash. App. 1019"]
+citations: ["104 Wash. App. 291"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of William L. True, Respondent, and Pen
 source_url: "https://static.case.law/wash-app/104/cases/0291-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700116
-cites_cases: ["104 Wn. App. 291", "271 P.2d 435", "44 Wn.2d 828", "47 Wn. App. 520", "482 P.2d 775", "736 P.2d 292", "79 Wn.2d 12"]
+cites_cases: ["271 P.2d 435", "44 Wn.2d 828", "47 Wn. App. 520", "482 P.2d 775", "736 P.2d 292", "79 Wn.2d 12"]
 ---
 
 # In re the Marriage of True
