@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20949-3-I"
 decided: "1988-06-20"
-citations: ["52 Wash. App. 411", "51 Wash. App. 1068"]
+citations: ["52 Wash. App. 411"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Farmers Insurance Company of Washington, Respondent, v. Ronald F. Edi
 source_url: "https://static.case.law/wash-app/52/cases/0411-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1708646
-cites_cases: ["102 Wn.2d 477", "105 Wn.2d 381", "107 Wn.2d 381", "22 Wn. App. 341", "52 Wn. App. 411", "589 P.2d 817", "687 P.2d 1139", "715 P.2d 1133", "729 P.2d 627"]
+cites_cases: ["102 Wn.2d 477", "105 Wn.2d 381", "107 Wn.2d 381", "22 Wn. App. 341", "589 P.2d 817", "687 P.2d 1139", "715 P.2d 1133", "729 P.2d 627"]
 ---
 
 # Farmers Insurance v. Edie
