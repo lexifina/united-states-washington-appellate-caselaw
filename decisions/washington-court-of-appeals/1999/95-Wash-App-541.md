@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41536-1-I"
 decided: "1999-04-12"
-citations: ["95 Wash. App. 541", "95 Wash. App. 1006"]
+citations: ["95 Wash. App. 541"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ira J. Woolfolk, Appellant."]
 source_url: "https://static.case.law/wash-app/95/cases/0541-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254666
-cites_cases: ["100 Wn.2d 757", "122 Wn.2d 270", "125 Wn.2d 24", "127 Wn.2d 749", "128 Wn.2d 805", "33 P. 389", "355 U.S. 184", "422 U.S. 853", "44 Wn. App. 444", "443 F.2d 712", "491 P.2d 1305", "504 F.2d 185", "6 Wash. 227", "6 Wn. App. 116", "61 A.L.R.2d 1119", "675 P.2d 1213", "723 P.2d 5", "75 Wn. App. 866", "80 Wn. App. 231", "858 P.2d 199", "880 P.2d 571", "882 P.2d 747", "903 P.2d 459", "907 P.2d 316", "912 P.2d 1016", "95 Wn. App. 541"]
+cites_cases: ["100 Wn.2d 757", "122 Wn.2d 270", "125 Wn.2d 24", "127 Wn.2d 749", "128 Wn.2d 805", "33 P. 389", "355 U.S. 184", "422 U.S. 853", "44 Wn. App. 444", "443 F.2d 712", "491 P.2d 1305", "504 F.2d 185", "6 Wash. 227", "6 Wn. App. 116", "61 A.L.R.2d 1119", "675 P.2d 1213", "723 P.2d 5", "75 Wn. App. 866", "80 Wn. App. 231", "858 P.2d 199", "880 P.2d 571", "882 P.2d 747", "903 P.2d 459", "907 P.2d 316", "912 P.2d 1016"]
 ---
 
 # State v. Woolfolk
