@@ -1,0 +1,32 @@
+---
+court: "Washington Court of Appeals"
+docket: "5561-1"
+decided: "1978-10-23"
+citations: ["21 Wash. App. 642"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Michael Francis Donovan, Appellant, v. The State of Washington, Respondent."]
+source_url: "https://static.case.law/wash-app/21/cases/0642-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 469087
+cites_cases: ["392 U.S. 40", "408 U.S. 471", "423 U.S. 147", "430 U.S. 941", "434 U.S. 944", "435 U.S. 912", "525 F.2d 540", "532 P.2d 614", "54 L. Ed. 2d 323", "540 F.2d 1156", "544 F.2d 82", "55 L. Ed. 2d 503", "556 F.2d 1143", "566 F.2d 375", "576 P.2d 392", "579 P.2d 1335", "85 Wn.2d 176", "89 Wn.2d 839", "90 Wn.2d 144", "98 S. Ct. 1464", "98 S. Ct. 469"]
+---
+
+# Donovan v. State
+
+## Majority (Callow, J.)
+
+Callow, J.
+— Michael Francis Donovan appeals from the denial of his petition for writ of habeas corpus wherein he sought review of his on-site parole revocation hearing. The petition was based on the alleged denial of his right to due process of law.
+In May 1976, Donovan was arrested and charged with two counts of statutory rape in the third degree, both felonies. Each count related to a different incident involving a young man, one occurring on May 7 and the other on May 10, 1976. Donovan pleaded not guilty on the basis that he thought the young man was 19 years of age.
+We will not reiterate the procedural steps that have taken place during the court proceedings or the claimed irregularities that are alleged to have taken place during the parole review hearings, as no useful purpose would be served by our doing so in view of our disposition of this case. Subsequent to the filing of this appeal, but in no way connected to such filing, the defendant was again paroled as of January 3, 1978. The board now reasserts its motion to dismiss this appeal on the basis that such new parole caused this appeal to be moot.
+The case as presented to us is moot. As was observed in Weinstein v. Bradford, 423 U.S. 147, 46 L. Ed. 2d 350, 96 S. Ct. 347 (1975), a petitioner for parole can have no litigable interest in the procedures followed by a parole board after his parole has been granted. We cannot grant any relief to Mr. Donovan as he has been released on parole, and we cannot remove the "collateral consequences" of this parole revocation as contemplated by Sibron v. New York, 392 U.S. 40, 20 L. Ed. 2d 917, 88 S. Ct. 1889, 1912 (1968), because the same facts form the basis of his conviction of soliciting a minor for immoral purposes. It is appropriate, however, to consider those aspects of moot cases which present questions of a public nature which are likely to recur and for which an authoritative determination is desirable for the future guidance of public officers. In re Patterson, 90 Wn.2d 144, 579 P.2d 1335 (1978); Hartman v. State Game Comm'n, 85 Wn.2d 176, 532 P.2d 614 (1975). The only issue in this case which presents a question of a public nature, likely to recur, is that of the access of a parolee to his parole file at a parole revocation hearing.
+Morrissey v. Brewer, 408 U.S. 471, 488-89, 33 L. Ed. 2d 484, 92 S. Ct. 2593 (1972), established the minimum due process requirements for a parole revocation hearing. These are stated as follows:
+[T]he minimum requirements of due process. . . . include (a) written notice of the claimed violations of parole; (b) disclosure to the parolee of evidence against him; (c) opportunity to be heard in person and to present witnesses and documentary evidence; (d) the right to confront and cross-examine adverse witnesses (unless the hearing officer specifically finds good cause for not allowing confrontation); (e) a "neutral and detached" hearing body such as a traditional parole board, members of which need not be judicial officers or lawyers; and (f) a written statement by the factfinders as to the evidence relied on and reasons for revoking parole.
+See further Williams v. Ward, 556 F.2d 1143, 1156 (2d Cir. 1977), cert. denied, 434 U.S. 944, 54 L. Ed. 2d 323, 98 S. Ct. 469 (1976).
+It is apparent that access by a parolee to his parole file will disclose to the parolee the evidence likely to be presented against him and will affect his ability to confront and cross-examine witnesses. United States ex rel. Carson v. Taylor, 540 F.2d 1156 (2d Cir. 1976). A parolee's access to his file is not automatic, however. A balance must be struck between (1) the parolee's interest in the proceedings, (2) the need for and usefulness of file access under the circumstances of the particular case, and (3) any burden which may be placed upon the parole officers and board by such access. The burden is on the parolee to show that he will suffer prejudice if he is denied access to his files, and that good cause exists for their release to him. Holup v. Gates, 544 F.2d 82 (2d Cir. 1976), cert. denied, 430 U.S. 941 (1977); Haymes v. Regan, 525 F.2d 540 (2d Cir. 1975).
+The resolution of the parolee's request to see his file is for the trial judge who must compare the need of the parolee to see his file with the burden which will be placed upon the State if it is required to examine or revise the file before releasing it. If the trial judge grants the parolee's request and directs the parole officer to surrender the file to the parolee, it is permissible for the state authorities to revise such files and delete references to confidential sources in order to protect them from retaliation. Coralluzzo v. New York State Parole Bd., 566 F.2d 375 (2d Cir. 1977), cert. dismissed, 435 U.S. 912, 55 L. Ed. 2d 503, 98 S. Ct. 1464 (1978).
+Further, the parolee must make a timely request to see his file prior to the commencement of the revocation hearing itself. Such requests were made in United States ex rel. Carson v. Taylor, supra, and are necessary for the parole officers to be able to evaluate the parolee's need for access to the file and to make any redactions necessary. Here, the trial court found that "No prehearing discovery requests were made by Petitioner or by anyone on Petitioner's behalf." As there is no challenge to this finding, we accept it as a verity on appeal. Lakeside Pump & Equip., Inc., v. Austin Constr. Co., 89 Wn.2d 839, 576 P.2d 392 (1978). The petitioner cannot complain of lack of access to his parole file.
+The judgment is affirmed.
+Reed and Dore, JJ., concur.
