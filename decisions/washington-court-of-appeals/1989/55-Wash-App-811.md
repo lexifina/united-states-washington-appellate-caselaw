@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9395-6-III"
 decided: "1989-07-11"
-citations: ["55 Wash. App. 811", "54 Wash. App. 1065"]
+citations: ["55 Wash. App. 811"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["William Messerly, et al, Appellants, v. Asamera Minerals, (U.S.) Inc.
 source_url: "https://static.case.law/wash-app/55/cases/0811-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8848542
-cites_cases: ["1 Wn. App. 673", "10 Wn. App. 7", "100 Wn.2d 221", "102 Wn.2d 219", "104 R.I. 549", "105 Wn.2d 653", "107 L. Ed. 2d 29", "107 Wn.2d 170", "108 Wn.2d 162", "111 Wn.2d 609", "112 Wn.2d 1025", "112 Wn.2d 193", "304 Md. 299", "33 Wn. App. 297", "398 N.W.2d 120", "45 Wn. App. 192", "46 Wn. App. 193", "463 P.2d 280", "498 A.2d 1185", "516 P.2d 522", "53 Wn. App. 554", "55 Wn. App. 811", "564 P.2d 1131", "603 P.2d 828", "615 F. Supp. 154", "63 Md. App. 24", "654 P.2d 1215", "664 P.2d 492", "666 F. Supp. 908", "667 P.2d 1104", "685 P.2d 1081", "704 F. Supp. 95", "717 P.2d 1371", "724 P.2d 425", "727 P.2d 982", "730 P.2d 95", "736 P.2d 249", "762 P.2d 1143", "768 P.2d 528", "770 P.2d 1027", "78 Wn.2d 992", "818 F.2d 380", "88 Wn.2d 473", "92 Wn.2d 956", "99 Wn.2d 582"]
+cites_cases: ["1 Wn. App. 673", "10 Wn. App. 7", "100 Wn.2d 221", "102 Wn.2d 219", "104 R.I. 549", "105 Wn.2d 653", "107 L. Ed. 2d 29", "107 Wn.2d 170", "108 Wn.2d 162", "111 Wn.2d 609", "112 Wn.2d 1025", "112 Wn.2d 193", "304 Md. 299", "33 Wn. App. 297", "398 N.W.2d 120", "45 Wn. App. 192", "46 Wn. App. 193", "463 P.2d 280", "498 A.2d 1185", "516 P.2d 522", "53 Wn. App. 554", "564 P.2d 1131", "603 P.2d 828", "615 F. Supp. 154", "63 Md. App. 24", "654 P.2d 1215", "664 P.2d 492", "666 F. Supp. 908", "667 P.2d 1104", "685 P.2d 1081", "704 F. Supp. 95", "717 P.2d 1371", "724 P.2d 425", "727 P.2d 982", "730 P.2d 95", "736 P.2d 249", "762 P.2d 1143", "768 P.2d 528", "770 P.2d 1027", "78 Wn.2d 992", "818 F.2d 380", "88 Wn.2d 473", "92 Wn.2d 956", "99 Wn.2d 582"]
 ---
 
 # Messerly v. Asamera Minerals, (U.S.) Inc.
