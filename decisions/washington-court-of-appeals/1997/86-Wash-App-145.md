@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18836-8-II"
 decided: "1997-03-28"
-citations: ["86 Wash. App. 145", "85 Wash. App. 1039"]
+citations: ["86 Wash. App. 145"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Gary Stevens, Appellant, v. The City of Centralia, Respondent."]
 source_url: "https://static.case.law/wash-app/86/cases/0145-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1279161
-cites_cases: ["106 Wn.2d 1", "11 U.S.C. § 554", "11 U.S.C. § 7", "121 Wn.2d 552", "122 Wn.2d 1018", "125 Wn.2d 337", "127 B.R. 82", "127 Wn.2d 401", "130 Wn.2d 1024", "133 Wn.2d 1001", "15 Wn. App. 559", "169 P. 979", "42 U.S.C. § 12112", "550 P.2d 699", "583 P.2d 621", "644 P.2d 1170", "656 P.2d 1030", "69 Wn. App. 852", "721 P.2d 1", "82 Wn. App. 401", "851 P.2d 716", "852 P.2d 295", "86 Wn. App. 145", "883 P.2d 1383", "899 P.2d 1265", "90 Wn.2d 384", "918 P.2d 186", "95 B.R. 104", "97 Wn.2d 351", "98 Wn.2d 434", "99 Wash. 593"]
+cites_cases: ["106 Wn.2d 1", "11 U.S.C. § 554", "11 U.S.C. § 7", "121 Wn.2d 552", "122 Wn.2d 1018", "125 Wn.2d 337", "127 B.R. 82", "127 Wn.2d 401", "130 Wn.2d 1024", "133 Wn.2d 1001", "15 Wn. App. 559", "169 P. 979", "42 U.S.C. § 12112", "550 P.2d 699", "583 P.2d 621", "644 P.2d 1170", "656 P.2d 1030", "69 Wn. App. 852", "721 P.2d 1", "82 Wn. App. 401", "851 P.2d 716", "852 P.2d 295", "883 P.2d 1383", "899 P.2d 1265", "90 Wn.2d 384", "918 P.2d 186", "95 B.R. 104", "97 Wn.2d 351", "98 Wn.2d 434", "99 Wash. 593"]
 cites_law: ["united-states/federal/usc/title-11/554.md"]
 ---
 
