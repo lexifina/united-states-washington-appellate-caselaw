@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47987-3-I"
 decided: "2002-03-25"
-citations: ["112 Wash. App. 442", "110 Wash. App. 1072"]
+citations: ["112 Wash. App. 442"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["A.A.R. Testing Laboratory, Inc., Plaintiff, v. New Hope Baptist Churc
 source_url: "https://static.case.law/wash-app/112/cases/0442-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719112
-cites_cases: ["1 P.3d 1167", "112 Wn. App. 442", "116 Wn.2d 217", "125 Wn.2d 337", "141 Wn.2d 55", "152 Wash. 342", "228 P.2d 466", "277 P. 984", "38 Wn.2d 190", "802 P.2d 1360", "883 P.2d 1383", "94 Wn. App. 899", "973 P.2d 1103"]
+cites_cases: ["1 P.3d 1167", "116 Wn.2d 217", "125 Wn.2d 337", "141 Wn.2d 55", "152 Wash. 342", "228 P.2d 466", "277 P. 984", "38 Wn.2d 190", "802 P.2d 1360", "883 P.2d 1383", "94 Wn. App. 899", "973 P.2d 1103"]
 ---
 
 # A.A.R. Testing Laboratory, Inc. v. New Hope Baptist Church
