@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "24231-1-II"
+decided: "1999-12-03"
+citations: ["98 Wash. App. 1024"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Bernardo Medina Rosales, Appellant."]
+source_url: "https://static.case.law/wash-app/98/cases/1024-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 155711
+---
+
+# State v. Rosales
+
+## Majority
+
+Appeal from a judgment of the Superior Court for Clark County, No. 98-1-01989-1, James E. Rulli, J., entered January 5, 1999. Affirmed by unpublished opinion per Morgan, J., concurred in by Armstrong, A.C.J., and Houghton, J.
