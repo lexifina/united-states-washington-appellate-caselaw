@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29637-0-I"
 decided: "1993-04-26"
-citations: ["69 Wash. App. 810", "69 Wash. App. 1057"]
+citations: ["69 Wash. App. 810"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Anita Jerome, Appellant, v. The Employment Security Department, Respo
 source_url: "https://static.case.law/wash-app/69/cases/0810-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1700749
-cites_cases: ["100 Wn.2d 1005", "110 Wn.2d 308", "34 Wn. App. 495", "350 P.2d 645", "42 Wn. App. 596", "425 P.2d 16", "543 P.2d 343", "55 Wn.2d 830", "663 P.2d 132", "69 Wn. App. 810", "70 Wn.2d 657", "712 P.2d 870", "752 P.2d 372", "86 Wn.2d 233"]
+cites_cases: ["100 Wn.2d 1005", "110 Wn.2d 308", "34 Wn. App. 495", "350 P.2d 645", "42 Wn. App. 596", "425 P.2d 16", "543 P.2d 343", "55 Wn.2d 830", "663 P.2d 132", "70 Wn.2d 657", "712 P.2d 870", "752 P.2d 372", "86 Wn.2d 233"]
 ---
 
 # Jerome v. Employment Security Department
