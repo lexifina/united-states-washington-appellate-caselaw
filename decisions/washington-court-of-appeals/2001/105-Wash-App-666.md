@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45505-2-I"
 decided: "2001-02-20"
-citations: ["105 Wash. App. 666", "104 Wash. App. 1055"]
+citations: ["105 Wash. App. 666"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Charles A. Seybold, et al., Appellants, v. Bruce Neu, et al., Respond
 source_url: "https://static.case.law/wash-app/105/cases/0666-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358671
-cites_cases: ["100 Wn.2d 26", "105 Wn. App. 666", "110 Wn.2d 912", "112 Wn.2d 127", "112 Wn.2d 216", "113 Wn.2d 701", "115 Wn.2d 34", "134 Wn.2d 854", "135 Wn.2d 658", "37 Wn. App. 644", "37 Wn. App. 650", "453 P.2d 619", "477 U.S. 317", "553 P.2d 107", "61 Wn. App. 163", "63 Wn. App. 876", "64 Wn. App. 353", "640 P.2d 711", "663 P.2d 113", "666 P.2d 351", "681 P.2d 1284", "681 P.2d 1305", "75 Wn.2d 629", "757 P.2d 507", "769 P.2d 298", "770 P.2d 182", "78 Wn. App. 902", "782 P.2d 1045", "793 P.2d 952", "810 P.2d 4", "824 P.2d 509", "825 P.2d 319", "87 Wn.2d 406", "902 P.2d 166", "953 P.2d 1162", "958 P.2d 301", "97 Wn.2d 83", "99 Wn.2d 438"]
+cites_cases: ["100 Wn.2d 26", "110 Wn.2d 912", "112 Wn.2d 127", "112 Wn.2d 216", "113 Wn.2d 701", "115 Wn.2d 34", "134 Wn.2d 854", "135 Wn.2d 658", "37 Wn. App. 644", "37 Wn. App. 650", "453 P.2d 619", "477 U.S. 317", "553 P.2d 107", "61 Wn. App. 163", "63 Wn. App. 876", "64 Wn. App. 353", "640 P.2d 711", "663 P.2d 113", "666 P.2d 351", "681 P.2d 1284", "681 P.2d 1305", "75 Wn.2d 629", "757 P.2d 507", "769 P.2d 298", "770 P.2d 182", "78 Wn. App. 902", "782 P.2d 1045", "793 P.2d 952", "810 P.2d 4", "824 P.2d 509", "825 P.2d 319", "87 Wn.2d 406", "902 P.2d 166", "953 P.2d 1162", "958 P.2d 301", "97 Wn.2d 83", "99 Wn.2d 438"]
 ---
 
 # Seybold v. Neu
