@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44245-7-I"
 decided: "2000-01-18"
-citations: ["100 Wash. App. 1", "98 Wash. App. 1065"]
+citations: ["100 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Gary Tanner, Jr., Appellant, v. The City of Federal Way, et al., Resp
 source_url: "https://static.case.law/wash-app/100/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363073
-cites_cases: ["100 Wn. App. 1", "129 Wn.2d 485", "131 Wn.2d 1026", "42 U.S.C. § 1983", "424 U.S. 409", "436 U.S. 658", "473 U.S. 159", "520 U.S. 397", "522 U.S. 118", "84 Wn. App. 498", "918 P.2d 916", "929 P.2d 475", "937 P.2d 1101"]
+cites_cases: ["129 Wn.2d 485", "131 Wn.2d 1026", "42 U.S.C. § 1983", "424 U.S. 409", "436 U.S. 658", "473 U.S. 159", "520 U.S. 397", "522 U.S. 118", "84 Wn. App. 498", "918 P.2d 916", "929 P.2d 475", "937 P.2d 1101"]
 ---
 
 # Tanner v. City of Federal Way
