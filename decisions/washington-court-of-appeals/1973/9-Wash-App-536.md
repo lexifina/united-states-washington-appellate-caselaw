@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "580-3"
+decided: "1973-08-17"
+citations: ["9 Wash. App. 536"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Ronald F. Crider, Appellant, v. The City of Othello, Respondent."]
+source_url: "https://static.case.law/wash-app/9/cases/0536-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1859944
+cites_cases: ["136 Wash. 63", "154 P. 465", "154 Wash. 617", "173 P.2d 526", "197 P.2d 105", "238 P. 992", "26 Wn.2d 211", "283 P. 170", "31 Wn.2d 374", "34 Wash. 625", "37 Wash. 434", "76 P. 267", "79 P. 959", "82 A.L.R.2d 668", "89 Wash. 356"]
+---
+
+# Crider v. City of Othello
+
+## Majority (Green, C.J.)
+
+Green, C.J.
+— On May 24, 1968, a default decree of foreclosure was entered against a lot owned by Inez Crider in the city of Othello. On September 20, 1968, the lot was sold to the City of Othello at a foreclosure sale for $202.37 — the amount of the unpaid assessment, penalty and interest. On October 7, 1970, the 2-year redemption period having expired, a local improvement assessment deed was issued to the city pursuant to RCW 35.50.190-.200. Thereafter, on December 23, 1972, this action was commenced by plaintiff, Ronald F. Crider, to cancel the deed and quiet title to the lot in himself as successor in interest to Inez Crider. From a judgment of dismissal, plaintiff appeals.
+One issue is presented:
+Did the trial court have jurisdiction to enter the default judgment of foreclosure and order a sale when there was no affidavit as to the mailing of notice of delinquency to Inez Crider on file when the judgment was entered, but such affidavit was subsequently made and filed in those proceedings after this action was brought to void the proceedings and cancel the deed?
+The trial court answered in the affirmative. We agree.
+Plaintiff contends the judgment of foreclosure and subsequent sale is void because the city failed to comply with RCW 35.50.030. This statute requires the city treasurer to mail a notice of delinquency to each property owner charged with assessments 30 days prior to commencement of foreclosure proceedings. In essence, this notice informs the owner of the amount due and the date after which proceedings will be commenced if the assessment remains unpaid. The statute also provides:
+The city or town treasurer shall file with the clerk of the superior court at the time of commencement of the foreclosure proceeding the affidavit of the person who mailed the notices. This affidavit shall be conclusive proof of compliance with the requirements of this section.
+(Italics ours.) Plaintiff contends the use of the word “shall” renders the filing of the affidavit mandatory and since it was not filed until this action was commenced, the filing was too late and the judgment is void.
+In considering plaintiff’s contention we bear in mind that the fact of mailing is not challenged, nor is plaintiff’s claim a direct attack upon the judgment by a party thereto. Cf. Case v. Bellingham, 31 Wn.2d 374, 197 P.2d 105 (1948).
+It has been held that where notice by publication or mailing has in fact been given, the failure to file proof of notice amounts to a mere irregularity. Washington Timber & Loan Co. v. Smith, 34 Wash. 625, 638-39, 76 P. 267 (1904) ; Twigg v. James, 37 Wash. 434, 436, 79 P. 959 (1905) ; see also Reese v. Thurston County, 154 Wash. 617, 622-23, 283 P. 170 (1929). Further, it has been held that the use of the word “shall” in a statute may be directory, rather than mandatory. In Faunce v. Carter, 26 Wn.2d 211, 173 P.2d 526 (1946), the court said:
+Whether the word “shall,” as contained in a particular statute, is to be construed in an imperative sense or as ’ merely directory depends upon the intent of the legislature in its use of that word, such intent to be derived from the general, as well as specific, legislation upon the subject, and to be determined by recourse to the ordinary rules of construction.
+It is our view that the legislature did not intend by the use of the word “shall” in RCW 35.50.030 to deprive the court of jurisdiction and render a judgment void for the mere failure to file proof of mailing when it in fact had been done. It is the fact of service, and not the proof of service, that gives the court jurisdiction. See Annot., 82 A.L.R.2d 668 (1962).
+Plaintiff was fully aware of the circumstances surrounding the lot in question. No error is assigned to the court’s finding that on April 29, 1969 plaintiff, through his attorney, requested and received in writing from the city treasurer information as to the delinquent assessments on the property and the date on which the redemption period would expire. During the winter months of 1969-1970, plaintiff telephoned the city treasurer’s office and was informed of the status of the delinquent assessments. On March 6, 1970, plaintiff called the city treasurer’s office and obtained the exact amount of the delinquent assessments and costs. On April 7, 1970, plaintiff purchased another lot owner’s interest (right of redemption) and redeemed that property. Notwithstanding, plaintiff did nothing with respect to the property involved in these proceedings until December 11, 1970, over 2 months after the assessment deed had been issued to the city. At this time he tendered the delinquent assessments and the city refused to accept the tender because the redemption period had expired on September 19, 1970 and the treasurer’s deed had issued. In these circumstances, plaintiff should not be allowed to set aside and cancel foreclosure proceedings upon a mere irregularity.
+It is our view that Rockwood v. Turner, 89 Wash. 356, 154 P. 465 (1916) (affidavit of publication made by one not authorized by statute); Title & Trust Co. v. Columbia Basin Land Co., 136 Wash. 63, 238 P. 992 (1925) (affidavit failed to state affiant aged 21 at time of service — failure to give notice to proper parties); and Case v. Bellingham, 31 Wn.2d 374, 197 P.2d 105 (1948) (affidavit of publication made by one not authorized by statute), relied upon by plaintiff, are not dispositive of the issue in this case. In each of those cases, the filed affidavits of service were defective. Here, no affidavit was filed; proper service in fact occurred. In Case v. Bellingham, supra, an attempt was made to correct the defective affidavit by filing a supplemental affidavit during the course of the appeal; however, as the court indicated, this procedure was improper and would not have been sanctioned even if the corrective affidavit had been filed in the trial court because it was an attempt to impeach an affidavit filed in the original proceeding. We do not have this problem in the instant case. Further, in Case v. Bellingham, supra, the owner of the property was engaged in a direct attack upon the judgment as contrasted to a collateral attack in the instant case.
+Finally, plaintiff contends the failure to file an affidavit of publication along with the report of sale voids the sale. RCW 35.50.160. We disagree for the previously stated reasons. It is not disputed that proper publication was in fact made.
+Judgment affirmed, each party to bear his own costs.
+Munson and McInturff, JJ., concur.
+Neither do we have before this court a copy of the judgment of foreclosure and the order of sale entered in the foreclosure proceeding.
