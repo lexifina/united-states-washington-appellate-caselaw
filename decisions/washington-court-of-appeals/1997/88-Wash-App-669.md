@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38010-9-I"
 decided: "1997-07-28"
-citations: ["88 Wash. App. 669", "86 Wash. App. 1115"]
+citations: ["88 Wash. App. 669"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Rolla W. Halbert, Jr., et al., Appellants, v. Helen Forney, Responden
 source_url: "https://static.case.law/wash-app/88/cases/0669-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592486
-cites_cases: ["101 Wn.2d 88", "121 Wn.2d 152", "121 Wn.2d 715", "125 Wn.2d 120", "125 Wn.2d 544", "212 P.2d 107", "246 P.2d 468", "289 P.2d 706", "30 Wn. App. 173", "35 Wn.2d 223", "368 P.2d 372", "368 P.2d 718", "40 Wn.2d 779", "47 Wn.2d 683", "59 Wn.2d 479", "59 Wn.2d 504", "62 Wn. App. 522", "632 P.2d 920", "675 P.2d 1218", "71 Wn. App. 537", "814 P.2d 1204", "849 P.2d 1201", "853 P.2d 1373", "861 P.2d 485", "88 Wn. App. 669", "881 P.2d 1035", "886 P.2d 564", "96 Wn.2d 1017"]
+cites_cases: ["101 Wn.2d 88", "121 Wn.2d 152", "121 Wn.2d 715", "125 Wn.2d 120", "125 Wn.2d 544", "212 P.2d 107", "246 P.2d 468", "289 P.2d 706", "30 Wn. App. 173", "35 Wn.2d 223", "368 P.2d 372", "368 P.2d 718", "40 Wn.2d 779", "47 Wn.2d 683", "59 Wn.2d 479", "59 Wn.2d 504", "62 Wn. App. 522", "632 P.2d 920", "675 P.2d 1218", "71 Wn. App. 537", "814 P.2d 1204", "849 P.2d 1201", "853 P.2d 1373", "861 P.2d 485", "881 P.2d 1035", "886 P.2d 564", "96 Wn.2d 1017"]
 ---
 
 # Halbert v. Forney
