@@ -1,0 +1,57 @@
+---
+court: "Washington Court of Appeals"
+docket: "14090-6-I"
+decided: "1986-04-28"
+citations: ["43 Wash. App. 511"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robin Sweitzer, Appellant, v. The Department of Employment Security, Respondent."]
+source_url: "https://static.case.law/wash-app/43/cases/0511-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1806429
+cites_cases: ["101 Wn.2d 435", "102 Wn.2d 385", "103 S. Ct. 730", "15 Wn. App. 590", "26 Wn. App. 778", "34 Wn. App. 857", "38 Wn. App. 566", "40 A.L.R.4th 296", "42 Wn. App. 596", "43 Wn. App. 92", "459 U.S. 1106", "550 P.2d 712", "583 P.2d 1197", "588 P.2d 1157", "614 P.2d 231", "646 P.2d 113", "658 P.2d 1240", "664 P.2d 1286", "680 P.2d 40", "686 P.2d 517", "687 P.2d 195", "712 P.2d 870", "715 P.2d 534", "74 L. Ed. 2d 954", "90 Wn.2d 395", "91 Wn.2d 559", "96 A.L.R.3d 187", "97 Wn.2d 317", "98 Wn.2d 846"]
+---
+
+# Sweitzer v. Department of Employment Security
+
+## Majority (Ringold, J.)
+
+Ringold, J.
+Robin Sweitzer appeals from the judgment of the Superior Court affirming the decision of the Commissioner of the Department of Employment Security (ESD) denying Sweitzer unemployment benefits. Sweitzer challenges the Commissioner's conclusion that Sweitzer acted unreasonably by quitting before attempting to resolve her job problems through complaints to management.
+Robin Sweitzer began working at Mount Baker Plywood, Inc., in early 1977. Mount Baker Plywood is a cooperative owned by some of its employees. Sweitzer was one of 187 equal shareholders. Sweitzer quit her job on September 10, 1982, and sold her share shortly thereafter. She resigned from her job, because she was dissatisfied with her job assignments and was being sexually harassed.
+During her employment at Mount Baker Plywood, Sweitzer worked under three different supervisors. She changed work shifts in 1980 because she was dissatisfied with the job assignments she received from her first supervisor. She again changed shifts in mid-1981. After this change she encountered what she felt were unfair job assignments from her third supervisor, Ernie Heffner.
+The job assignments Sweitzer received did not lower her pay, but she felt dissatisfaction with her job. Sweitzer testified at the hearing that "finally I just went to him [Heff-ner] and told him that he was discriminating against me and he said no, that he put me where he wanted to put me."
+Sweitzer also was subjected to sexual harassment on her job. On one occasion she complained to Heffner, and he told the offenders to stay away from Sweitzer and not repeat the sexual remarks. The harassment, however, continued, and 6 months later she quit.
+Mount Baker Plywood has a grievance committee made up of three shareholders to hear employee complaints. The plant superintendent oversees the supervisors and also frequently attends the meetings of the grievance committee. The grievance committee reports to the board of directors of the plant.
+Sweitzer never complained to the superintendent, because she thought he was difficult to talk to. She had spoken with a grievance committee member regarding unfair job assignments, but that member told her it would be useless to file a grievance. At an annual stockholders meeting, 20 stockholders, including Sweitzer, complained about unfair treatment from Heffner. Later Sweitzer again spoke to a board member and was told it would be useless to go to the grievance committee. It is unclear from the record whether Sweitzer spoke with the board member about Heffner's unfair job assignments, or the sexual harassment of female workers. Sweitzer also stated that one board member called her a whore.
+After Sweitzer quit her job she applied for unemployment compensation. The ESD determined that she failed to exhaust all reasonable remedies prior to resigning and her claim was denied. She appealed and appeared without counsel at a hearing before an administrative law judge (ALJ).
+The ALJ concluded that, even though Sweitzer was not assigned jobs she desired, it was not an appropriate reason to quit. In addition, the ALJ stated, "Since there was no difference in pay, the fact that she desired to work at other jobs does not connote discrimination." Finally, the ALJ found that there was sexual harassment, but that Sweitzer should "have attempted to resolve this problem through complaints to the administration prior to quitting." The ALJ's conclusions were adopted by the Commissioner, and Sweitzer appealed to the Superior Court.
+The Superior Court disagreed with the ALJ's conclusion that there could not be discrimination in job assignments if the pay were the same. Nonetheless, the Superior Court affirmed the Commissioner's ruling, because Sweitzer failed to exhaust all reasonable alternatives prior to quitting.
+Scope of Review
+Judicial review of decisions made by the Commissioner of the ESD may only be had in accordance with the procedural requirements of RCW 34.04.130. Devine v. Department of Empl. Sec., 26 Wn. App. 778, 780, 614 P.2d 231 (1980); RCW 50.32.120. RCW 34.04.130(6) provides:
+The court may affirm the decision of the agency or remand the case for further proceedings; or it may reverse the decision if the substantial rights of the petitioners may have been prejudiced because the administrative findings, inferences, conclusions, or decisions are:
+(a) in violation of constitutional provisions; or
+(b) in excess of the statutory authority or jurisdiction of the agency; or
+(c) made upon unlawful procedure; or
+(d) affected by other error of law; or
+(e) clearly erroneous in view of the entire record as submitted and the public policy contained in the act of the legislature authorizing the decision or order; or
+(f) arbitrary or capricious.
+There has been some confusion regarding the appropriate standard of review in a case concerning whether a claimant had "good cause" under RCW 50.20.050 to voluntarily leave employment. Hussa v. Department of Empl. Sec., 34 Wn. App. 857, 860, 664 P.2d 1286, 40 A.L.R.4th 296 (1984). The latest appellate cases are divided. Division Three recently held the error of law standard appropriate for these questions. Grier v. Department of Empl. Sec., 43 Wn. App. 92, 95, 715 P.2d 534 (1986). Division Two held the clearly erroneous standard, governing questions of fact, applicable. Johns v. Department of Empl. Sec., 38 Wn. App. 566, 569, 686 P.2d 517 (1984).
+[X, 2] Whether a claimant leaves employment for good cause, as used in RCW 50.20.050, is a mixed question of law and fact. See Safeco Ins. Co. v. Meyering, 102 Wn.2d 385, 390-91, 687 P.2d 195 (1984). The error of law standard is to be applied to mixed questions of law and fact. Rasmussen v. Department of Empl. Sec., 98 Wn.2d 846, 849-50, 658 P.2d 1240 (1983). Under this standard, the court is entitled to make a de novo review independent of the Commissioner's decision. Daily Herald Co. v. Department of Empl. Sec., 91 Wn.2d 559, 562, 588 P.2d 1157 (1979); Meyering, at 391. An appellate court, however, may not try facts de novo when reviewing an administrative decision. Franklin Cy. Sheriff's Office v. Sellers, 97 Wn.2d 317, 324-25, 646 P.2d 113 (1982), cert. denied, 459 U.S. 1106, 74 L. Ed. 2d 954, 103 S. Ct. 730 (1983).
+Thus, when reviewing an administrative decision concerning a mixed question of law and fact, the court determines the law independently of the agency's decision and applies it to the facts as found by the agency. Renton Educ. Ass'n v. Public Empl. Relations Comm'n, 101 Wn.2d 435, 441, 680 P.2d 40 (1984). "Under this standard, we must accept the agency's findings of fact unless they are clearly erroneous." Scully v. Department of Empl. Sec., 42 Wn. App. 596, 600, 712 P.2d 870 (1986).
+Dissatisfaction With Job Assignments
+Sweitzer was unhappy with the job assignments she received from her supervisor. That, however, is insufficient to demonstrate good cause under RCW 50.20.050 for leaving her job and does not warrant the payment of unemployment benefits. See Cowles Pub'g Co. v. Department of Empl. Sec., 15 Wn. App. 590, 596-97, 550 P.2d 712 (1976). If the job assignments she received were the result of sex discrimination, that would be inappropriate; however, neither the record nor the ALJ's findings support a claim that Sweitzer's job assignments were related to her sex.
+Exhaustion of Reasonable Alternatives Prior to Resignation
+Interpreting RCW 50.20.050 the ESD adopted WAC 192-16-009 which states in part:
+[I]n order for an individual to establish good cause within the meaning of RCW 50.20.050(1) for leaving work voluntarily it must be satisfactorily demonstrated:
+(c) That he or she first exhausted all reasonable alternatives prior to termination: Provided, That the individual asserting "good cause" may establish in certain instances that pursuit of the otherwise reasonable alternatives would have been a futile act, thereby excusing the failure to exhaust such reasonable alternatives.
+It is undenied that Sweitzer was the subject of sexual harassment. It is also agreed that sexual harassment is good cause for leaving employment. The dispute centers on whether Sweitzer should have submitted her complaints to the grievance committee and the board of directors before quitting.
+Agency regulations interpreting a statute which the agency has a duty to administer must be given great weight. Gross v. Lynnwood, 90 Wn.2d 395, 583 P.2d 1197, 96 A.L.R.3d 187 (1978). If the facts of a case indicate that complaints to management would be futile and that sexual harassment would continue, then a person has good cause under RCW 50.20.050 to leave employment. Hussa, 34 Wn. App. at 863-64.
+Sweitzer had complained to her supervisor, yet the sexual harassment continued. She had approached a grievance committee member claiming that her supervisor discriminated against her in job assignments because she was a woman. Yet the member told her not to submit a grievance. At least one board member called her a whore. These circumstances are similar to those in Hussa. We are aware that the trial court's decision was difficult because it did not have the benefit of the analysis in Hussa at the time of trial. We, however, make an independent review of the agency's decision and find Hussa persuasive.
+An ordinarily prudent woman in Sweitzer's position could be justified in believing that further complaints would be futile. Sweitzer's actions, therefore, were not unreasonable and fall within the rule that an individual may be excused from exhausting alternatives if such action would be futile. Hussa; WAC 192-16-009.
+We reverse and remand to the ESD. Sweitzer is awarded attorney fees under RCW 50.32.160 in the amount of $2,391.26.
+Scholfield, C.J., and Webster, J., concur.
+RCW 50.20.050 first establishes disqualification for benefits when the employee leaves work voluntarily without good cause.
+Section (3) provides in part:
+"In determining under this section whether an individual has left work voluntarily without good cause, the commissioner shall only consider work-connected factors such as the degree of risk involved to the individual's health, safety, and morals, the individual's physical fitness for the work, the individual's ability to perform the work, and such other work connected factors as the commissioner may deem pertinent..."
