@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15521-1-I"
 decided: "1986-08-27"
-citations: ["45 Wash. App. 869", "45 Wash. App. 1002"]
+citations: ["45 Wash. App. 869"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Chester L. Straw, Appellant, v. Esteem Construction Company, Inc., et
 source_url: "https://static.case.law/wash-app/45/cases/0869-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809134
-cites_cases: ["104 Wn.2d 1004", "18 Wn. App. 805", "359 P.2d 816", "364 P.2d 796", "399 P.2d 591", "40 Wn. App. 619", "45 Wn. App. 869", "513 P.2d 36", "57 Wn.2d 785", "573 P.2d 1336", "58 Wn.2d 647", "582 P.2d 500", "635 P.2d 426", "65 Wn.2d 777", "699 P.2d 814", "76 A.L.R.3d 360", "82 Wn.2d 475", "90 Wn.2d 323", "96 Wn.2d 274"]
+cites_cases: ["104 Wn.2d 1004", "18 Wn. App. 805", "359 P.2d 816", "364 P.2d 796", "399 P.2d 591", "40 Wn. App. 619", "513 P.2d 36", "57 Wn.2d 785", "573 P.2d 1336", "58 Wn.2d 647", "582 P.2d 500", "635 P.2d 426", "65 Wn.2d 777", "699 P.2d 814", "76 A.L.R.3d 360", "82 Wn.2d 475", "90 Wn.2d 323", "96 Wn.2d 274"]
 ---
 
 # Straw v. Esteem Construction Co.
