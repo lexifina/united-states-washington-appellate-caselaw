@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27303-5-I"
 decided: "1992-01-13"
-citations: ["63 Wash. App. 900", "63 Wash. App. 1045"]
+citations: ["63 Wash. App. 900"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Petition To Declare County Road. Primark, Inc., 
 source_url: "https://static.case.law/wash-app/63/cases/0900-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1732872
-cites_cases: ["102 Wash. 184", "102 Wn.2d 874", "116 Wn.2d 1026", "129 P. 884", "131 P.2d 943", "15 Wn.2d 673", "155 Wash. 341", "161 P. 363", "172 P. 869", "180 Wash. 420", "184 Wash. 254", "194 P.2d 357", "21 Wash. 536", "231 P.2d 322", "284 P. 92", "30 Wn. App. 240", "30 Wn.2d 847", "37 Wash. 119", "38 Wn.2d 685", "40 P.2d 125", "471 U.S. 1065", "49 Wn. App. 171", "50 P.2d 892", "58 P. 667", "60 Wn. App. 534", "63 Wn. App. 900", "633 P.2d 892", "638 P.2d 1231", "662 P.2d 828", "691 P.2d 524", "72 Wash. 99", "741 P.2d 1005", "79 R 615", "805 P.2d 237", "93 Wash. 508", "96 Wn.2d 1027", "96 Wn.2d 716", "99 Wn.2d 373"]
+cites_cases: ["102 Wash. 184", "102 Wn.2d 874", "116 Wn.2d 1026", "129 P. 884", "131 P.2d 943", "15 Wn.2d 673", "155 Wash. 341", "161 P. 363", "172 P. 869", "180 Wash. 420", "184 Wash. 254", "194 P.2d 357", "21 Wash. 536", "231 P.2d 322", "284 P. 92", "30 Wn. App. 240", "30 Wn.2d 847", "37 Wash. 119", "38 Wn.2d 685", "40 P.2d 125", "471 U.S. 1065", "49 Wn. App. 171", "50 P.2d 892", "58 P. 667", "60 Wn. App. 534", "633 P.2d 892", "638 P.2d 1231", "662 P.2d 828", "691 P.2d 524", "72 Wash. 99", "741 P.2d 1005", "79 R 615", "805 P.2d 237", "93 Wash. 508", "96 Wn.2d 1027", "96 Wn.2d 716", "99 Wn.2d 373"]
 ---
 
 # Primark, Inc. v. Burien Gardens Associates
