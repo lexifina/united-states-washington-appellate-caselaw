@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24541-8-II"
 decided: "2000-07-07"
-citations: ["102 Wash. App. 60", "101 Wash. App. 1035"]
+citations: ["102 Wash. App. 60"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington on the Relation of Nathan Daniel Coughlin, Re
 source_url: "https://static.case.law/wash-app/102/cases/0060-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301459
-cites_cases: ["102 Wn. App. 60", "118 Wn.2d 1022", "136 Wn.2d 1031", "161 A.L.R. 1057", "326 U.S. 310", "349 P.2d 1073", "55 Wn.2d 718", "62 Wn. App. 473", "638 P.2d 1231", "72 Wn. App. 40", "815 P.2d 269", "863 P.2d 573", "90 Wn. App. 992", "957 P.2d 247", "96 Wn.2d 716"]
+cites_cases: ["118 Wn.2d 1022", "136 Wn.2d 1031", "161 A.L.R. 1057", "326 U.S. 310", "349 P.2d 1073", "55 Wn.2d 718", "62 Wn. App. 473", "638 P.2d 1231", "72 Wn. App. 40", "815 P.2d 269", "863 P.2d 573", "90 Wn. App. 992", "957 P.2d 247", "96 Wn.2d 716"]
 ---
 
 # State ex rel. Coughlin v. Jenkins
