@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45491-9-I"
 decided: "2000-09-11"
-citations: ["103 Wash. App. 391", "102 Wash. App. 1033"]
+citations: ["103 Wash. App. 391"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Craig McKinney, et al., Appellants, v. The City of Tukwila, et al., R
 source_url: "https://static.case.law/wash-app/103/cases/0391-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102402
-cites_cases: ["103 Wn. App. 391", "103 Wn.2d 144", "112 Wn.2d 193", "112 Wn.2d 587", "134 Wn.2d 1", "134 Wn.2d 692", "139 Wn.2d 757", "178 F.3d 345", "39 Wn. App. 763", "392 U.S. 1", "42 U.S.C. § 1983", "457 U.S. 800", "469 U.S. 221", "483 U.S. 635", "490 U.S. 386", "520 U.S. 397", "664 P.2d 492", "690 P.2d 1163", "695 P.2d 999", "716 F.2d 701", "73 Wn. App. 225", "770 P.2d 1027", "773 P.2d 46", "84 Wn. App. 687", "868 P.2d 207", "929 P.2d 1182", "948 P.2d 1280", "952 P.2d 590", "99 Wn.2d 582", "991 P.2d 615"]
+cites_cases: ["103 Wn.2d 144", "112 Wn.2d 193", "112 Wn.2d 587", "134 Wn.2d 1", "134 Wn.2d 692", "139 Wn.2d 757", "178 F.3d 345", "39 Wn. App. 763", "392 U.S. 1", "42 U.S.C. § 1983", "457 U.S. 800", "469 U.S. 221", "483 U.S. 635", "490 U.S. 386", "520 U.S. 397", "664 P.2d 492", "690 P.2d 1163", "695 P.2d 999", "716 F.2d 701", "73 Wn. App. 225", "770 P.2d 1027", "773 P.2d 46", "84 Wn. App. 687", "868 P.2d 207", "929 P.2d 1182", "948 P.2d 1280", "952 P.2d 590", "99 Wn.2d 582", "991 P.2d 615"]
 ---
 
 # McKinney v. City of Tukwila
