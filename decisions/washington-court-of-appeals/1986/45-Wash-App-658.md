@@ -1,0 +1,38 @@
+---
+court: "Washington Court of Appeals"
+docket: "9236-1-II"
+decided: "1986-10-13"
+citations: ["45 Wash. App. 658"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Kathleen Joanne Huntley, Appellant."]
+source_url: "https://static.case.law/wash-app/45/cases/0658-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1809419
+cites_cases: ["102 Wn.2d 300", "37 Wn. App. 805", "571 P.2d 930", "572 P.2d 1085", "595 P.2d 912", "683 P.2d 1123", "684 P.2d 1290", "89 Wn.2d 256", "89 Wn.2d 321", "92 Wn.2d 193"]
+---
+
+# State v. Huntley
+
+## Majority (Petrich, J.)
+
+Petrich, J.
+—Kathleen (Huntley) Walmsley appeals a 9-month sentence for bail jumping on the basis that the court improperly ordered the sentence to run consecutively to simultaneously imposed sentences for multiple counts of theft and possession of stolen property. We affirm.
+On April 22,1985, Walmsley pleaded guilty to five counts of theft and two counts of possession of stolen property. Sentencing was set for June 7, 1985. She failed to appear, and on June 14, 1985, was charged by a separate information with additional counts of theft and bail jumping. On September 10, 1985 she pleaded guilty to bail jumping and the additional theft counts were dismissed. The court sentenced her to 9 months on the bail jumping conviction and ordered it to run consecutively to the 14-month concurrent terms imposed for the remaining convictions. The respective sentences were within the presumptive sentencing range and the court found there were no facts justifying an exceptional sentence.
+This case involves the interpretation of two subsections of RCW 9.94A.400, which in relevant portions provide:
+Consecutive/concurrent sentences. (1) (a) Except as provided in (b) of this subsection, whenever a person is convicted of two or more offenses, the sentence range for each offense shall be determined by using all other current and prior convictions as criminal history. All sentences so determined shall be served concurrently. . . .
+(b) [Provides means of determining criminal history and sentence range when a person is convicted of three or more violent offenses.] All sentences imposed under (b) of this subsection shall be served consecutively to each other and concurrently with sentences imposed under (a) of this subsection.
+(2) Whenever a person while under sentence of felony commits another felony and is sentenced to another term of imprisonment, the latter term shall not begin until expiration of all prior terms.
+(3) Subject to subsections (1) and (2) of this section, whenever a person is sentenced for a felony that was committed while the person was not under sentence of a felony, the sentence shall run consecutively with felony sentences previously imposed by any court in this or another state or by a federal court, unless the court pronouncing the subsequent sentence expressly orders that they be served concurrently.
+Relying on the rules of lenity and strict construction of criminal statutes Walmsley argues that the concurrent sentences of subsection (1) are mandated since subsection (3) refers "... back to the concurrent provision in every case and one would not reach the operative portion of 9.94A-.400(3).", Such an argument ignores fundamental rules of statutory construction.
+The primary object of statutory construction is the determination of legislative intent. State v. McDonald, 89 Wn.2d 256, 262, 571 P.2d 930 (1977). The court's duty is to ascertain and give effect to the legislative intent and purpose, as expressed in the act. In interpreting a statute the act must be construed as a whole, and effect should be given to all language used and all provisions of the act must be considered in their relation to each other and if possible, harmonized to insure proper construction of each provision. Burlington Northern, Inc. v. Johnston, 89 Wn.2d 321, 572 P.2d 1085 (1977).
+The portions of subsection (1), pertinent to this case, apply where an offender is convicted of two or more offenses. A conviction is defined in RCW 9.94A.030(6) as an "adjudication of guilt pursuant to Titles 10 or 13 RCW". RCW 10.01.060 provides that a person may be convicted of a criminal offense by his plea of guilty, his confession in open court or verdict of the jury. Walmsley's convictions on the five theft and two possession of stolen property offenses occurred in one session of the court on April 22, 1985. The 14-month sentences imposed on September 10, 1985, for these convictions were ordered to be served concurrently in accord with the provisions of subsection (1). The conviction on the bail jumping offense occurred September 10, 1985, by her plea of guilty entered more than 4 months after her convictions for theft and possession.
+Unless subsections (1) or (2) apply, the imposition of concurrent or consecutive sentences under subsection (3) essentially is at the discretion of the sentencing judge, consecutive sentences being favored, since an express declaration of concurrent sentences is required if the sentencing judge intends to impose concurrent sentences. Subsection (3) makes no mention of the convictions (adjudication of guilt proceeding). Its operative words are "whenever a person is sentenced . . ."In order to give effect to subsection (3), as we must, in such a way so as to harmonize it with other sections of the act, it must be interpreted to apply when the convictions are obtained in separate proceedings.
+Neither the rule of lenity nor the rule requiring that criminal statutes be strictly construed compels a different result. The rule of lenity comes into play only when there is an ambiguity in the statute. State v. Martin, 102 Wn.2d 300, 684 P.2d 1290 (1984). There is no ambiguity here. Although criminal statutes are to be strictly construed, the court will not construe statutes in a forced, narrow, or overly strict manner so as to defeat the obvious intent of the Legislature. State v. Cann, 92 Wn.2d 193, 595 P.2d 912 (1979); In re Arambul, 37 Wn. App. 805, 683 P.2d 1123 (1984).
+We conclude therefore that under the provisions of RCW 9.94A.400, when sentences are imposed on multiple felony offenses, other than serious violent ones, committed while the offender was not then subject to a felony conviction and an exceptional sentence is not warranted, concurrent sentences are required when the convictions are obtained in a single or consolidated proceeding. However, when the convictions are obtained in separate proceedings, the later imposed sentence shall be either concurrent or consecutive at the discretion of the sentencing judge. Here, the sentencing judge clearly intended to impose the sentence on the bail jumping offense to run consecutive to that sentence imposed on the previous convictions for theft and possession of stolen property.
+The judgment imposing sentence is affirmed.
+Reed, A.C.J., and Alexander, J., concur.
+Here, we are not dealing with violent offenses, nor was Walmsley under sentence of a felony when she committed any of the charged offenses.
+RCW 9.94A.400 has since been amended by Laws of 1986, ch. 257, § 28.
+The Legislature by Laws of 1986, ch. 257, § 28, has amended RCW 9.94A.400 by striking reference to the conviction process in subsection (1) (a) and providing for concurrent sentences when a person is sentenced to two or more current offenses without specifically defining what it meant by a current offense. We will not attempt to determine what was the legislative intent as applied to a similar fact pattern as the case before us. That determination must be deferred to another case and time.
