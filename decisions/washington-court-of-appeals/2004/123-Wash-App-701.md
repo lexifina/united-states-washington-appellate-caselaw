@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51959-0-I; 52202-7-I"
 decided: "2004-07-26"
-citations: ["123 Wash. App. 701", "122 Wash. App. 1038"]
+citations: ["123 Wash. App. 701"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John A. Halleran, et al., Appellants, v. Nu West, Inc., et al., Defen
 source_url: "https://static.case.law/wash-app/123/cases/0701-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1117996
-cites_cases: ["100 Wn.2d 299", "103 Wn.2d 768", "108 Wn.2d 262", "111 Wn.2d 159", "112 Wn. App. 277", "115 Wn.2d 506", "118 Wn.2d 476", "123 Wn. App. 701", "133 Wn.2d 534", "134 Wn.2d 692", "154 Wn.2d 1005", "17 Wn. App. 368", "48 P.3d 372", "50 Wn. App. 655", "530 P.2d 234", "54 Wn. App. 682", "55 Wn. App. 18", "563 P.2d 1270", "574 P.2d 1190", "59 Wn. App. 808", "595 P.2d 930", "669 P.2d 468", "698 P.2d 77", "737 P.2d 1257", "751 P.2d 1199", "759 P.2d 447", "775 P.2d 967", "776 P.2d 971", "799 P.2d 250", "802 P.2d 133", "824 P.2d 483", "85 Wn.2d 1", "89 Wn.2d 673", "92 Wn.2d 229", "946 P.2d 397", "952 P.2d 590"]
+cites_cases: ["100 Wn.2d 299", "103 Wn.2d 768", "108 Wn.2d 262", "111 Wn.2d 159", "112 Wn. App. 277", "115 Wn.2d 506", "118 Wn.2d 476", "133 Wn.2d 534", "134 Wn.2d 692", "154 Wn.2d 1005", "17 Wn. App. 368", "48 P.3d 372", "50 Wn. App. 655", "530 P.2d 234", "54 Wn. App. 682", "55 Wn. App. 18", "563 P.2d 1270", "574 P.2d 1190", "59 Wn. App. 808", "595 P.2d 930", "669 P.2d 468", "698 P.2d 77", "737 P.2d 1257", "751 P.2d 1199", "759 P.2d 447", "775 P.2d 967", "776 P.2d 971", "799 P.2d 250", "802 P.2d 133", "824 P.2d 483", "85 Wn.2d 1", "89 Wn.2d 673", "92 Wn.2d 229", "946 P.2d 397", "952 P.2d 590"]
 ---
 
 # Halleran v. Nu West, Inc.
