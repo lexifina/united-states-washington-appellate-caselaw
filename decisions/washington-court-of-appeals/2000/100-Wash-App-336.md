@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24280-0-II"
 decided: "2000-03-31"
-citations: ["100 Wash. App. 336", "100 Wash. App. 1014"]
+citations: ["100 Wash. App. 336"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of John H. Mathers, Appellant."]
 source_url: "https://static.case.law/wash-app/100/cases/0336-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363257
-cites_cases: ["100 Wn. App. 336", "122 Wn.2d 1", "135 Wn.2d 141", "77 Wn. App. 596", "857 P.2d 989", "892 P.2d 1091", "955 P.2d 377"]
+cites_cases: ["122 Wn.2d 1", "135 Wn.2d 141", "77 Wn. App. 596", "857 P.2d 989", "892 P.2d 1091", "955 P.2d 377"]
 ---
 
 # In re the Detention of Mathers
