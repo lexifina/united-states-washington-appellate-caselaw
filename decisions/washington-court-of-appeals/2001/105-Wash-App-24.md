@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19242-3-III"
 decided: "2001-02-15"
-citations: ["105 Wash. App. 24", "104 Wash. App. 1051"]
+citations: ["105 Wash. App. 24"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Raymond D. Birdsall, Appellant, v. Jerry D. Abrams, et al., Responden
 source_url: "https://static.case.law/wash-app/105/cases/0024-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358454
-cites_cases: ["100 Wash. 234", "104 F.2d 85", "105 Wn. App. 24", "116 Wn.2d 217", "129 P.2d 790", "129 P.2d 795", "129 Wn.2d 84", "135 Wash. 56", "135 Wn.2d 658", "139 Wash. 648", "144 Wn.2d 1009", "15 Wn.2d 119", "15 Wn.2d 130", "161 P. 834", "170 P. 590", "175 Wash. 263", "236 P. 801", "247 P. 951", "27 P.2d 118", "41 Wn. App. 343", "503 P.2d 134", "529 P.2d 1054", "65 Wn. App. 474", "7 Wn. App. 852", "704 P.2d 1193", "802 P.2d 1360", "828 P.2d 650", "84 Wn.2d 866", "915 P.2d 1089", "94 Wash. 32", "958 P.2d 301"]
+cites_cases: ["100 Wash. 234", "104 F.2d 85", "116 Wn.2d 217", "129 P.2d 790", "129 P.2d 795", "129 Wn.2d 84", "135 Wash. 56", "135 Wn.2d 658", "139 Wash. 648", "144 Wn.2d 1009", "15 Wn.2d 119", "15 Wn.2d 130", "161 P. 834", "170 P. 590", "175 Wash. 263", "236 P. 801", "247 P. 951", "27 P.2d 118", "41 Wn. App. 343", "503 P.2d 134", "529 P.2d 1054", "65 Wn. App. 474", "7 Wn. App. 852", "704 P.2d 1193", "802 P.2d 1360", "828 P.2d 650", "84 Wn.2d 866", "915 P.2d 1089", "94 Wash. 32", "958 P.2d 301"]
 ---
 
 # Birdsall v. Abrams
