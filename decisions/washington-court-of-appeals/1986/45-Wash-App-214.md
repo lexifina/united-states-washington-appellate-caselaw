@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16709-0-I"
 decided: "1986-07-07"
-citations: ["45 Wash. App. 214", "44 Wash. App. 1016"]
+citations: ["45 Wash. App. 214"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David Hansen, Respondent, v. The City of Seattle, Appellant."]
 source_url: "https://static.case.law/wash-app/45/cases/0214-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809099
-cites_cases: ["10 A.L.R.3d 974", "100 Wn.2d 660", "32 Wn. App. 959", "384 U.S. 436", "42 U.S.C. § 1983", "45 Wn. App. 214", "459 P.2d 947", "470 U.S. 532", "516 P.2d 1028", "521 P.2d 937", "650 P.2d 1138", "674 P.2d 165", "77 Wn.2d 110", "83 Wn.2d 157", "83 Wn.2d 698"]
+cites_cases: ["10 A.L.R.3d 974", "100 Wn.2d 660", "32 Wn. App. 959", "384 U.S. 436", "42 U.S.C. § 1983", "459 P.2d 947", "470 U.S. 532", "516 P.2d 1028", "521 P.2d 937", "650 P.2d 1138", "674 P.2d 165", "77 Wn.2d 110", "83 Wn.2d 157", "83 Wn.2d 698"]
 ---
 
 # Hansen v. City of Seattle
