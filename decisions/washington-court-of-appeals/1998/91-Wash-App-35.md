@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39739-7-I"
 decided: "1998-03-23"
-citations: ["91 Wash. App. 35", "89 Wash. App. 1065"]
+citations: ["91 Wash. App. 35"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Matthew Charles Stockton, App
 source_url: "https://static.case.law/wash-app/91/cases/0035-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681695
-cites_cases: ["118 Wn.2d 1021", "120 Wn.2d 631", "129 Wn.2d 1007", "129 Wn.2d 1012", "130 Wn.2d 1024", "27 Wn. App. 645", "458 P.2d 17", "510 U.S. 944", "621 P.2d 737", "63 Wn. App. 336", "69 Wn. App. 295", "76 Wn.2d 449", "77 Wn. App. 222", "79 Wn. App. 706", "80 Wn. App. 237", "818 P.2d 1369", "83 Wn. App. 546", "845 P.2d 289", "846 P.2d 564", "889 P.2d 956", "904 P.2d 324", "908 P.2d 374", "91 Wn. App. 35", "922 P.2d 188"]
+cites_cases: ["118 Wn.2d 1021", "120 Wn.2d 631", "129 Wn.2d 1007", "129 Wn.2d 1012", "130 Wn.2d 1024", "27 Wn. App. 645", "458 P.2d 17", "510 U.S. 944", "621 P.2d 737", "63 Wn. App. 336", "69 Wn. App. 295", "76 Wn.2d 449", "77 Wn. App. 222", "79 Wn. App. 706", "80 Wn. App. 237", "818 P.2d 1369", "83 Wn. App. 546", "845 P.2d 289", "846 P.2d 564", "889 P.2d 956", "904 P.2d 324", "908 P.2d 374", "922 P.2d 188"]
 ---
 
 # State v. Stockton
