@@ -1,0 +1,65 @@
+---
+court: "Washington Court of Appeals"
+docket: "2234-3"
+decided: "1978-04-18"
+citations: ["19 Wash. App. 794"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Green and McInturff, JJ., concur."]
+parties: ["Robert H. May, Respondent, v. Triple C Convalescent Centers, et al, Appellants."]
+source_url: "https://static.case.law/wash-app/19/cases/0794-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 474015
+cites_cases: ["201 P.2d 184", "236 Minn. 384", "32 Wn.2d 234", "382 P.2d 518", "481 P.2d 593", "488 P.2d 269", "53 N.W.2d 17", "62 Wn.2d 351", "70 A.L.R.2d 347", "79 Wn.2d 586"]
+---
+
+# May v. Triple C Convalescent Centers
+
+## Majority (Roe, J.)
+
+Roe, J.
+Plaintiff's decedent William May and his wife entered the Triple C nursing home on November 7, 1975. Because the nursing home was crowded, May was placed in a room with two other men, while his wife was placed in a separate room with other women. May had had cataract surgery the day before he entered the home, and was very confused about his new surroundings. He was put to bed in his room at about 8 p.m. At approximately 8:30 to 8:45 that same evening, a nurse went in and found that May and Leon Grandstaff, another occupant of the room, had been fighting; both had been injured. The injuries May received contributed to his death 3 weeks later.
+May's personal representative brought a wrongful death action claiming that defendants had negligently failed to supervise the patients and to protect May. The jury found damages of $50,000, but also found that May was 50 percent responsible; thus, plaintiff was awarded a judgment of $25,000.
+The first issue is whether the trial court correctly instructed the jury on the duty which the defendant owed to May. The instructions on this issue, Nos. 12 and 13, were based upon Restatement (Second) of Torts § 320 (1965). Ordinarily, the rule is that a hospital's duty to its patients is to exercise such reasonable care for their safety as their known mental and physical condition may require. Annot., 70 A.L.R.2d 347, 348 (1960); Hunt v. King County, 4 Wri. App. 14, 19-20, 481 P.2d 593 (1971), and cases cited.
+Hunt involved a patient who inflicted harm on himself while in the hospital's psychotic ward. Because the hospital knew of the patient's self-destructive tendencies, a broader duty arose, effectively absolving the patient of his duty of self-care. The court stated that the patient's self-destructive tendencies were a mental condition "the known existence of which creates a duty to safeguard the [patient] from the foreseeable consequences of its existence." Hunt v. King County, supra at 24. That known tendency of the patient brought the case within the principles of section 320 of the Restatement. See also Sylvester v. Northwestern Hosp., 236 Minn. 384, 53 N.W.2d 17 (1952).
+The instant case presents no such special circumstances to give rise to the same sort of duty as arose in Hunt. No evidence appears in the record to support plaintiff's contention that Grandstaff was . a belligerent, aggressive individual, likely to cause trouble. To the contrary, all the witnesses who testified about Grandstaff s character stated that he was not a troublemaker., was not belligerent, nor antagonistic, nor argumentative. Grandstaffs medical records indicate that he was constantly wandering, but he was never reported to have started a fight. Vernon Dronen, a nursing home owner who qualified as an expert witness, testified that there is no connection between wandering and belligerence.
+The two instructions at issue, and section 320 of the Restatement, do not apply to a case such as this. The duty owed by a nursing home is of ordinary care, but special facts and circumstances, either known or discoverable by exercising reasonable care, will give this duty a broader scope than it would otherwise have.
+Since there is no evidence to support the contention that Grandstaif was a belligerent or aggressive individual, then instruction No. 12 was improper because it is based on the assumption that the defendant either knew or should have known of a necessity of controlling him. There is no evidence to support such an instruction. Instruction No. 13 also was improper for the same reason.
+Next, defendant contends that the trial court erred in giving instruction No. 10 relating to circumstantial evidence and res ipsa loquitur. We agree.
+The doctrine of res ipsa loquitur has been summarized in Horner v. Northern Pac. Beneficial Ass'n Hosps., Inc., 62 Wn.2d 351, 359, 382 P.2d 518 (1963), with the following three-part formula:
+Further proof of negligence is not essential to take a case to the jury or to overcome challenges to the sufficiency of the evidence where (1) the accident or occurrence producing the injury is of a kind which ordinarily does not happen in the absence of someone's negligence, (2) the injuries are caused by an agency or instrumentality within the exclusive control of the defendant, and (3) the injury-causing accident or occurrence is not due to any voluntary action or contribution on the part of the plaintiff.
+The first part of this formula has been elaborated:
+[Sjome generalities can be gleaned from our cases. The most fundamental of these is that the inference of negligence must be legitimate. That is, the distinction between what is mere conjecture and what is reasonable inference from the facts and circumstances must be recognized. . . . Thus, it is not enough that plaintiff has suffered injury or damage, for such things may result without negligence. It is necessary that the manner and circumstances of the damage or injury be of a kind that do not ordinarily happen in the absence of someone's negligence.
+(Citations omitted.) Zukowsky v. Brown, 79 Wn.2d 586, 594-95, 488 P.2d 269 (1971).
+Plaintiff argues the applicability of this doctrine by claiming that a fight between two patients in a nursing home ordinarily would not happen unless someone was negligent. That reasoning is valid only if it be assumed that the defendant was responsible for the actions of its patients under the broader duty of care discussed above. Nor could it be said, in the absence of such broader duty, that Grand-staff was an agency or instrumentality within defendant's exclusive control.
+We believe that it was error for the trial court to give instruction No. 10. Not only did it assume a fact for which there was no substantial evidence, but it also prejudiced the defendant by effectively shifting the burden of persuasion away from the plaintiff. The instruction allowed the jury to infer, from the fact of the incident itself, that defendant was negligent and that such negligence caused' the plaintiff's damages.
+The third issue is whether the trial court was correct in excluding certain testimony of Ruth Mock because of the dead man's statute, RCW 5.60.030. Mock, a nurse, would have testified as to a statement made by May immediately after the incident. In an offer of proof, she testified as follows:
+Q Would you tell us now what Mr. May said in response to the question?
+A He just told Dennis he was afraid he had started it, that's all he said.
+The trial court excluded this testimony based on the statute, holding that the witness Mock, since she was still at the time of trial an employee of the nursing home, was a party in interest under the statute. This was error. In McLean v. Archer, 32 Wn.2d 234, 246, 201 P.2d 184 (1948), the court held that the predecessor statute, Rem. Rev. Stat. § 1211," "has no application to an employee of a corporation such as the witness ..." That witness was a secretary and bookkeeper for the corporation; Mock is a nurse for the defendant nursing home. McLean is not to be distinguished on the ground that the nursing home is a partnership rather than a corporation.
+Her testimony clearly was relevant to the question of who started the fight, which in turn is important in allocating responsibility. Excluding this testimony prejudiced the defendant.
+The plaintiff contends, however, that Mock's testimony would merely have been repetitive of others' testimony. Heimbecker, an orderly, testified:
+A Well, he [May] said he was sorry and that he didn't want to cause trouble, it was mainly that he was sorry.
+Howerton, a nurse, testified:
+I was just hearing bits and pieces, but what I did hear he was apologizing for causing any trouble that he may have caused. And he said that he really wasn't aware of what was happening, but that he was sorry if he had caused any trouble.
+Mock's testimony would have added something to these statements, namely, that May said that he had started the affray. This is not, then, merely redundant.
+In view of our disposition of the case, we need not discuss defendant's other assignments of error. Judgment is reversed, and the cause is remanded for a new trial.
+Green and McInturff, JJ., concur.
+Instruction No. 12 reads:
+"A nursing home and the employees of a nursing home which takes custody of another under circumstances such as to deprive the other of his normal power of self protection, or to subject him to association with persons likely to harm him, is under a duty to exercise reasonable care so as to control the conduct of third persons as to prevent them from intentionally harming the other, or to prevent them from so conducting themselves as to create an unreasonable risk of harm to him— if the nursing home and its employees:
+"a) knows or has reason to know that it has the ability to control the conduct of the third persons, and
+"b) it knows or should know the necessity and opportunity for exercising such control."
+Instruction No. 13 reads:
+"One who has taken custody of another is not only required to exercise reasonable care for the other's protection when he knows or has reason to know that the other is in immediate need of it, but also has the duty to make reasonable preparations to enable him to give effective protection when the need arises, and to exercise reasonable vigilance to ascertain the need of giving it."
+Restatement (Second) of Torts § 320 (1965):
+"One who is required by law to take or who voluntarily takes the custody of another under circumstances such as to deprive the other of his normal power of self-protection or to subject him to association with persons likely to harm him, is under a duty to exercise reasonable care so to control the conduct of third persons as to prevent them from intentionally harming the other or so conducting themselves as to create an unreasonable risk of harm to him, if the actor
+"(a) knows or has reason to know that he had the ability to control the conduct of the third persons, and
+"(b) knows or should know of the necessity and opportunity for exercising such control."
+Instruction No. 10 reads:
+"Evidence is of two kinds, direct and circumstantial. In giving direct evidence a witness testifies directly of his own knowledge concerning facts to be proved. Circumstantial is proof of certain facts and circumstances from which may be inferred other and connected facts which usually and reasonably follow according to the common experience of mankind.
+"The value and weight of circumstantial evidence are to be determined from its character and nature, and from its relation to all of the other facts otherwise established by the other evidence in the case. Nothing in the nature of circumstantial evidence renders it less valuable than other evidence.
+"In connection with the foregoing, you are instructed that it is for you to determine whether the manner of the occurrence of the injuries sustained by William L. May and the attendant circumstances connected therewith, are of such character as would, in your judgment, warrant an inference that the injury would not have occurred had due diligence and care been exercised by defendants' employees.
+"The rule is that when an agency or instrumentality which produces injury is under the control of a defendant or its employees, and injury occurred which would ordinarily not have resulted if those in control had used proper care, then in absence of satisfactory explanation you are at liberty to infer, though you are not required to so infer, that the defendant or its employees were at some point negligent and that such negligence produced the injury complained of by plaintiff.”
+RCW 5.60.030 provides in pertinent part:
+"No person offered as a witness shall be excluded from giving evidence by reason of his interest in the event of the action, as a party thereto or otherwise, but such interest may be shown to affect his credibility: Provided, however, That in an action or proceeding where the adverse party sues or defends as executor, administrator or legal representative of any deceased person, . . . then a party in interest or to the record, shall not be admitted to testify in his own behalf as to . . . any statement made to him, or in his presence, by any such deceased . . . person
