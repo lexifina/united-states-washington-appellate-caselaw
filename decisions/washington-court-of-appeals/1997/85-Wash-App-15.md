@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18902-0-II"
 decided: "1997-01-03"
-citations: ["85 Wash. App. 15", "84 Wash. App. 1059"]
+citations: ["85 Wash. App. 15"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Valerie L. Crisman, Appellant, v. Robert E. Crisman, et al., Responde
 source_url: "https://static.case.law/wash-app/85/cases/0015-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 277839
-cites_cases: ["107 Wn.2d 1022", "113 Wn.2d 1033", "114 Wn.2d 907", "117 Wn.2d 805", "118 Wn.2d 737", "118 Wn.2d 753", "125 Wn.2d 1023", "125 Wn.2d 521", "128 Wn.2d 366", "128 Wn.2d 521", "130 Wn.2d 486", "132 Wn.2d 1008", "18 Wn. App. 640", "199 P.2d 924", "21 Wn. App. 484", "31 Wn.2d 898", "411 P.2d 157", "422 P.2d 832", "45 Wn. App. 502", "453 P.2d 631", "53 Wn. App. 789", "543 P.2d 338", "552 P.2d 1053", "571 P.2d 212", "585 P.2d 812", "633 P.2d 1329", "663 P.2d 473", "67 Wn.2d 948", "7 A.L.R.5th 1014", "70 Wn.2d 290", "71 Wn. App. 194", "728 P.2d 597", "75 Wn. App. 340", "75 Wn.2d 660", "770 P.2d 686", "792 P.2d 520", "818 P.2d 1362", "826 P.2d 200", "826 P.2d 690", "85 Wn. App. 15", "859 P.2d 619", "86 Wn.2d 215", "87 Wn.2d 400", "877 P.2d 734", "886 P.2d 1121", "89 Wn.2d 1021", "907 P.2d 290", "910 P.2d 455", "925 P.2d 194", "96 Wn.2d 85", "99 Wn.2d 550"]
+cites_cases: ["107 Wn.2d 1022", "113 Wn.2d 1033", "114 Wn.2d 907", "117 Wn.2d 805", "118 Wn.2d 737", "118 Wn.2d 753", "125 Wn.2d 1023", "125 Wn.2d 521", "128 Wn.2d 366", "128 Wn.2d 521", "130 Wn.2d 486", "132 Wn.2d 1008", "18 Wn. App. 640", "199 P.2d 924", "21 Wn. App. 484", "31 Wn.2d 898", "411 P.2d 157", "422 P.2d 832", "45 Wn. App. 502", "453 P.2d 631", "53 Wn. App. 789", "543 P.2d 338", "552 P.2d 1053", "571 P.2d 212", "585 P.2d 812", "633 P.2d 1329", "663 P.2d 473", "67 Wn.2d 948", "7 A.L.R.5th 1014", "70 Wn.2d 290", "71 Wn. App. 194", "728 P.2d 597", "75 Wn. App. 340", "75 Wn.2d 660", "770 P.2d 686", "792 P.2d 520", "818 P.2d 1362", "826 P.2d 200", "826 P.2d 690", "859 P.2d 619", "86 Wn.2d 215", "87 Wn.2d 400", "877 P.2d 734", "886 P.2d 1121", "89 Wn.2d 1021", "907 P.2d 290", "910 P.2d 455", "925 P.2d 194", "96 Wn.2d 85", "99 Wn.2d 550"]
 ---
 
 # Crisman v. Crisman
