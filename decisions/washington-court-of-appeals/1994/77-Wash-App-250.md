@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33568-5-I"
 decided: "1994-12-27"
-citations: ["77 Wash. App. 250", "76 Wash. App. 1055"]
+citations: ["77 Wash. App. 250"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Phyllis A. Smith, Respondent, v. Washington Insurance Guaranty Associ
 source_url: "https://static.case.law/wash-app/77/cases/0250-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415639
-cites_cases: ["117 Wn.2d 1013", "120 Wn.2d 246", "123 Wn.2d 131", "124 Wn.2d 205", "4 Wn. App. 52", "46 A.L.R.3d 415", "480 P.2d 247", "60 Wn. App. 696", "611 N.E.2d 313", "62 Wn. App. 878", "63 Wn. App. 900", "66 Ohio St. 3d 209", "77 Wn. App. 250", "790 F. Supp. 1014", "807 P.2d 370", "816 P.2d 61", "823 P.2d 1116", "840 P.2d 860", "865 P.2d 507", "875 P.2d 1213", "942 F.2d 794"]
+cites_cases: ["117 Wn.2d 1013", "120 Wn.2d 246", "123 Wn.2d 131", "124 Wn.2d 205", "4 Wn. App. 52", "46 A.L.R.3d 415", "480 P.2d 247", "60 Wn. App. 696", "611 N.E.2d 313", "62 Wn. App. 878", "63 Wn. App. 900", "66 Ohio St. 3d 209", "790 F. Supp. 1014", "807 P.2d 370", "816 P.2d 61", "823 P.2d 1116", "840 P.2d 860", "865 P.2d 507", "875 P.2d 1213", "942 F.2d 794"]
 ---
 
 # Smith v. Washington Insurance Guaranty Ass'n
