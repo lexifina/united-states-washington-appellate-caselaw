@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40630-2-I"
 decided: "1998-07-06"
-citations: ["91 Wash. App. 764", "91 Wash. App. 1044"]
+citations: ["91 Wash. App. 764"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Pemco Mutual Insurance Company, Respondent, v. James W. Utterback, Ap
 source_url: "https://static.case.law/wash-app/91/cases/0764-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681665
-cites_cases: ["109 Nev. 133", "111 Wn.2d 452", "125 Wn.2d 164", "125 Wn.2d 337", "125 Wn.2d 697", "126 Wis. 2d 242", "128 Wn.2d 207", "137 Wn.2d 1009", "303 P.2d 659", "383 N.W.2d 63", "404 F.2d 880", "49 Wn.2d 465", "59 A.L.R.5th 789", "760 P.2d 337", "883 P.2d 1383", "883 P.2d 308", "887 P.2d 886", "905 P.2d 379", "91 Wn. App. 764"]
+cites_cases: ["109 Nev. 133", "111 Wn.2d 452", "125 Wn.2d 164", "125 Wn.2d 337", "125 Wn.2d 697", "126 Wis. 2d 242", "128 Wn.2d 207", "137 Wn.2d 1009", "303 P.2d 659", "383 N.W.2d 63", "404 F.2d 880", "49 Wn.2d 465", "59 A.L.R.5th 789", "760 P.2d 337", "883 P.2d 1383", "883 P.2d 308", "887 P.2d 886", "905 P.2d 379"]
 ---
 
 # Pemco Mutual Insurance v. Utterback
