@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42333-9-I"
 decided: "1999-07-12"
-citations: ["97 Wash. App. 360", "96 Wash. App. 1034"]
+citations: ["97 Wash. App. 360"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Girton, Appellant, v. The City of Seattle, Respondent."]
 source_url: "https://static.case.law/wash-app/97/cases/0360-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184295
-cites_cases: ["114 Wn.2d 320", "119 Wn.2d 1", "122 Wn.2d 648", "123 Wn.2d 864", "126 Wn.2d 22", "133 Wn.2d 647", "140 Wn.2d 1007", "242 P.2d 505", "40 Wn.2d 216", "498 U.S. 911", "506 U.S. 1028", "59 Wn. App. 795", "74 Wn. App. 467", "787 P.2d 907", "801 P.2d 985", "82 Wn. App. 284", "829 P.2d 765", "860 P.2d 1024", "872 P.2d 1090", "874 P.2d 853", "891 P.2d 29", "917 P.2d 1093", "946 P.2d 768", "97 Wn. App. 360"]
+cites_cases: ["114 Wn.2d 320", "119 Wn.2d 1", "122 Wn.2d 648", "123 Wn.2d 864", "126 Wn.2d 22", "133 Wn.2d 647", "140 Wn.2d 1007", "242 P.2d 505", "40 Wn.2d 216", "498 U.S. 911", "506 U.S. 1028", "59 Wn. App. 795", "74 Wn. App. 467", "787 P.2d 907", "801 P.2d 985", "82 Wn. App. 284", "829 P.2d 765", "860 P.2d 1024", "872 P.2d 1090", "874 P.2d 853", "891 P.2d 29", "917 P.2d 1093", "946 P.2d 768"]
 ---
 
 # Girton v. City of Seattle
