@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23357-6-II"
 decided: "1999-06-25"
-citations: ["96 Wash. App. 731", "96 Wash. App. 1017"]
+citations: ["96 Wash. App. 731"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Simpson Timber Company, Appellant, v. Cynthia Wentworth, Respondent."
 source_url: "https://static.case.law/wash-app/96/cases/0731-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128351
-cites_cases: ["104 Wn.2d 1029", "107 Wn.2d 524", "109 Wn.2d 467", "111 Wn.2d 569", "117 Wn.2d 242", "120 Wn.2d 1031", "123 Wn.2d 803", "18 Wn. App. 674", "35 Wn. App. 80", "41 Wn. App. 652", "484 U.S. 815", "571 P.2d 229", "58 Wn. App. 283", "600 P.2d 1015", "66 Wn. App. 644", "664 P.2d 1311", "705 P.2d 812", "730 P.2d 1299", "745 P.2d 1295", "75 Wn. App. 582", "761 P.2d 618", "792 P.2d 1269", "814 P.2d 1160", "833 P.2d 390", "872 P.2d 507", "880 P.2d 539", "92 Wn.2d 631", "96 Wn. App. 731"]
+cites_cases: ["104 Wn.2d 1029", "107 Wn.2d 524", "109 Wn.2d 467", "111 Wn.2d 569", "117 Wn.2d 242", "120 Wn.2d 1031", "123 Wn.2d 803", "18 Wn. App. 674", "35 Wn. App. 80", "41 Wn. App. 652", "484 U.S. 815", "571 P.2d 229", "58 Wn. App. 283", "600 P.2d 1015", "66 Wn. App. 644", "664 P.2d 1311", "705 P.2d 812", "730 P.2d 1299", "745 P.2d 1295", "75 Wn. App. 582", "761 P.2d 618", "792 P.2d 1269", "814 P.2d 1160", "833 P.2d 390", "872 P.2d 507", "880 P.2d 539", "92 Wn.2d 631"]
 ---
 
 # Simpson Timber Co. v. Wentworth
