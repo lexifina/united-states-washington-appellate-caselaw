@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13603-5-III"
 decided: "1995-04-18"
-citations: ["77 Wash. App. 875", "77 Wash. App. 1049"]
+citations: ["77 Wash. App. 875"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Roberta Isaacson, Appellant, v. DeMartin Agency, Inc., et al, Respond
 source_url: "https://static.case.law/wash-app/77/cases/0875-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415809
-cites_cases: ["113 Wn.2d 330", "124 Wn.2d 816", "140 Vt. 321", "144 P.2d 234", "19 Wn.2d 671", "229 P.2d 542", "25 Wn. App. 766", "270 A.2d 135", "29 A.L.R.2d 165", "299 So. 2d 192", "38 Wn.2d 370", "43 Colo. App. 337", "549 F. Supp. 802", "56 Wn. App. 181", "603 P.2d 972", "609 P.2d 456", "653 P.2d 280", "656 P.2d 1030", "77 Wn. App. 875", "779 P.2d 249", "782 P.2d 1107", "881 P.2d 986", "97 Wn.2d 929", "98 Wn.2d 434"]
+cites_cases: ["113 Wn.2d 330", "124 Wn.2d 816", "140 Vt. 321", "144 P.2d 234", "19 Wn.2d 671", "229 P.2d 542", "25 Wn. App. 766", "270 A.2d 135", "29 A.L.R.2d 165", "299 So. 2d 192", "38 Wn.2d 370", "43 Colo. App. 337", "549 F. Supp. 802", "56 Wn. App. 181", "603 P.2d 972", "609 P.2d 456", "653 P.2d 280", "656 P.2d 1030", "779 P.2d 249", "782 P.2d 1107", "881 P.2d 986", "97 Wn.2d 929", "98 Wn.2d 434"]
 ---
 
 # Isaacson v. DeMartin Agency, Inc.
