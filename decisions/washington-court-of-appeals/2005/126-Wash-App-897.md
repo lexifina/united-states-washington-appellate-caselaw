@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53367-3-I"
 decided: "2005-02-22"
-citations: ["126 Wash. App. 897", "125 Wash. App. 1048"]
+citations: ["126 Wash. App. 897"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Danae Claar et al., Appellants, v. Auburn School District No. 408 et 
 source_url: "https://static.case.law/wash-app/126/cases/0897-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016459
-cites_cases: ["103 Wn.2d 768", "126 Wn. App. 897", "167 Wash. 212", "195 Wash. 395", "217 P.2d 318", "219 P.2d 603", "259 P.2d 379", "350 P.2d 471", "36 Wn.2d 56", "36 Wn.2d 615", "37 Wn. App. 644", "42 Wn.2d 795", "525 P.2d 228", "55 Wn.2d 785", "681 P.2d 1284", "698 P.2d 77", "84 P.2d 1008", "84 Wn.2d 239", "9 P.2d 98"]
+cites_cases: ["103 Wn.2d 768", "167 Wash. 212", "195 Wash. 395", "217 P.2d 318", "219 P.2d 603", "259 P.2d 379", "350 P.2d 471", "36 Wn.2d 56", "36 Wn.2d 615", "37 Wn. App. 644", "42 Wn.2d 795", "525 P.2d 228", "55 Wn.2d 785", "681 P.2d 1284", "698 P.2d 77", "84 P.2d 1008", "84 Wn.2d 239", "9 P.2d 98"]
 ---
 
 # Claar v. Auburn School District No. 408
