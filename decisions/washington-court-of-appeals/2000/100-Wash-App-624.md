@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23273-1-II; 23714-8-II"
 decided: "2000-03-24"
-citations: ["100 Wash. App. 624", "100 Wash. App. 1002"]
+citations: ["100 Wash. App. 624"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Michael Pope, Appellant. The 
 source_url: "https://static.case.law/wash-app/100/cases/0624-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363338
-cites_cases: ["100 Wn. App. 624", "100 Wn.2d 607", "101 Wn.2d 355", "105 Wn.2d 1", "110 Wn.2d 682", "125 Wn.2d 707", "129 Wn.2d 497", "131 Wn.2d 258", "133 Wn.2d 15", "137 Wn.2d 712", "138 Wn.2d 1008", "138 Wn.2d 486", "141 Wn.2d 1018", "674 P.2d 145", "678 P.2d 798", "711 P.2d 1000", "75 Wn. App. 263", "757 P.2d 492", "877 P.2d 228", "88 Wn. App. 545", "887 P.2d 396", "919 P.2d 577", "930 P.2d 917", "94 Wn. App. 327", "940 P.2d 1374", "945 P.2d 269", "972 P.2d 112", "976 P.2d 1229", "98 Wn. App. 214", "980 P.2d 275", "989 P.2d 1184"]
+cites_cases: ["100 Wn.2d 607", "101 Wn.2d 355", "105 Wn.2d 1", "110 Wn.2d 682", "125 Wn.2d 707", "129 Wn.2d 497", "131 Wn.2d 258", "133 Wn.2d 15", "137 Wn.2d 712", "138 Wn.2d 1008", "138 Wn.2d 486", "141 Wn.2d 1018", "674 P.2d 145", "678 P.2d 798", "711 P.2d 1000", "75 Wn. App. 263", "757 P.2d 492", "877 P.2d 228", "88 Wn. App. 545", "887 P.2d 396", "919 P.2d 577", "930 P.2d 917", "94 Wn. App. 327", "940 P.2d 1374", "945 P.2d 269", "972 P.2d 112", "976 P.2d 1229", "98 Wn. App. 214", "980 P.2d 275", "989 P.2d 1184"]
 ---
 
 # State v. Pope
