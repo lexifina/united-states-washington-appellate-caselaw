@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37860-1-I"
 decided: "1996-12-30"
-citations: ["85 Wash. App. 1", "84 Wash. App. 1055"]
+citations: ["85 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Quincy Allen Koerber, Responde
 source_url: "https://static.case.law/wash-app/85/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 277701
-cites_cases: ["101 Wn.2d 507", "110 Wn.2d 1017", "113 Wn.2d 823", "114 Wn.2d 724", "116 Wn.2d 135", "119 Wn.2d 1014", "120 Wn.2d 822", "121 Wn.2d 524", "126 Wn.2d 315", "47 Wn. App. 600", "51 Wn. App. 116", "64 Wn. App. 705", "68 Wn. App. 396", "680 P.2d 762", "736 P.2d 302", "751 P.2d 1194", "784 P.2d 161", "790 P.2d 138", "803 P.2d 305", "829 P.2d 179", "844 P.2d 441", "845 P.2d 1017", "85 Wn. App. 1", "852 P.2d 294", "893 P.2d 629"]
+cites_cases: ["101 Wn.2d 507", "110 Wn.2d 1017", "113 Wn.2d 823", "114 Wn.2d 724", "116 Wn.2d 135", "119 Wn.2d 1014", "120 Wn.2d 822", "121 Wn.2d 524", "126 Wn.2d 315", "47 Wn. App. 600", "51 Wn. App. 116", "64 Wn. App. 705", "68 Wn. App. 396", "680 P.2d 762", "736 P.2d 302", "751 P.2d 1194", "784 P.2d 161", "790 P.2d 138", "803 P.2d 305", "829 P.2d 179", "844 P.2d 441", "845 P.2d 1017", "852 P.2d 294", "893 P.2d 629"]
 ---
 
 # State v. Koerber
