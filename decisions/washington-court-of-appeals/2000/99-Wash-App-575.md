@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43815-8-I"
 decided: "2000-01-31"
-citations: ["99 Wash. App. 575", "99 Wash. App. 1018"]
+citations: ["99 Wash. App. 575"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Michael Leif Hansen, Responden
 source_url: "https://static.case.law/wash-app/99/cases/0575-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181307
-cites_cases: ["123 Wn.2d 641", "129 Wn.2d 347", "134 Wn.2d 1", "136 Wn.2d 1030", "141 Wn.2d 1022", "42 Wn. App. 452", "446 U.S. 544", "52 Wn. App. 832", "711 P.2d 1096", "764 P.2d 1012", "870 P.2d 313", "91 Wn. App. 195", "917 P.2d 108", "948 P.2d 1280", "955 P.2d 420", "972 P.2d 467", "99 Wn. App. 575"]
+cites_cases: ["123 Wn.2d 641", "129 Wn.2d 347", "134 Wn.2d 1", "136 Wn.2d 1030", "141 Wn.2d 1022", "42 Wn. App. 452", "446 U.S. 544", "52 Wn. App. 832", "711 P.2d 1096", "764 P.2d 1012", "870 P.2d 313", "91 Wn. App. 195", "917 P.2d 108", "948 P.2d 1280", "955 P.2d 420", "972 P.2d 467"]
 ---
 
 # State v. Hansen
