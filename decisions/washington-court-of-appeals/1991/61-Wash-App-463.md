@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23805-1-I; 23902-3-I"
 decided: "1991-04-29"
-citations: ["61 Wash. App. 463", "61 Wash. App. 1001"]
+citations: ["61 Wash. App. 463"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William R. Styrk, et al, Appellants, v. Cornerstone Investments, Inc.
 source_url: "https://static.case.law/wash-app/61/cases/0463-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1729218
-cites_cases: ["100 Wn.2d 581", "103 Wn.2d 52", "107 Wn.2d 468", "107 Wn.2d 735", "111 Wn.2d 396", "115 Wn.2d 148", "442 P.2d 621", "506 P.2d 20", "61 Wn. App. 463", "675 P.2d 193", "691 P.2d 163", "730 P.2d 662", "733 P.2d 208", "74 Wn.2d 25", "759 P.2d 418", "795 P.2d 1143", "81 Wn.2d 886"]
+cites_cases: ["100 Wn.2d 581", "103 Wn.2d 52", "107 Wn.2d 468", "107 Wn.2d 735", "111 Wn.2d 396", "115 Wn.2d 148", "442 P.2d 621", "506 P.2d 20", "675 P.2d 193", "691 P.2d 163", "730 P.2d 662", "733 P.2d 208", "74 Wn.2d 25", "759 P.2d 418", "795 P.2d 1143", "81 Wn.2d 886"]
 ---
 
 # Styrk v. Cornerstone Investments, Inc.
