@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31054-6-II"
 decided: "2005-01-25"
-citations: ["126 Wash. App. 868", "125 Wash. App. 1022"]
+citations: ["126 Wash. App. 868"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ralph Gausvik, Appellant, v. Timothy Abbey et al., Respondents."]
 source_url: "https://static.case.law/wash-app/126/cases/0868-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016472
-cites_cases: ["1 P.3d 1148", "102 Wn. App. 142", "116 Wn.2d 596", "119 Wn.2d 34", "121 Wn. App. 36", "121 Wn.2d 1018", "126 Wn. App. 868", "129 Wn.2d 652", "135 Wn.2d 255", "136 Wn.2d 1004", "141 Wn.2d 68", "142 Wn.2d 1021", "146 Wn.2d 291", "148 Wn.2d 550", "150 Wn.2d 478", "155 Wn.2d 1006", "2 Wn. App. 888", "214 F. Supp. 2d 1103", "239 F. Supp. 2d 1047", "239 F. Supp. 2d 1067", "239 F. Supp. 2d 1108", "26 Wn. App. 922", "263 F.3d 1070", "309 F.2d 167", "345 F.3d 813", "383 U.S. 715", "42 U.S.C. § 1983", "45 P.3d 1068", "464 U.S. 957", "471 P.2d 103", "506 U.S. 1028", "520 U.S. 1117", "520 U.S. 1201", "533 U.S. 194", "547 P.2d 1221", "549 P.2d 721", "6 P.3d 112", "61 P.3d 1104", "615 P.2d 1316", "633 P.2d 1329", "637 F.2d 1350", "656 P.2d 1030", "664 P.2d 1202", "672 F. Supp. 1152", "68 Wn. App. 294", "78 P.3d 1274", "78 Wn.2d 994", "809 P.2d 143", "830 P.2d 318", "841 P.2d 1254", "86 P.3d 1234", "86 Wn.2d 607", "868 F.2d 1017", "87 Wn.2d 103", "89 Wn. App. 474", "92 Wn. App. 504", "921 P.2d 473", "949 P.2d 441", "956 P.2d 312", "96 Wn.2d 85", "963 P.2d 215", "98 Wn.2d 434", "99 F.3d 911", "99 Wn.2d 645"]
+cites_cases: ["1 P.3d 1148", "102 Wn. App. 142", "116 Wn.2d 596", "119 Wn.2d 34", "121 Wn. App. 36", "121 Wn.2d 1018", "129 Wn.2d 652", "135 Wn.2d 255", "136 Wn.2d 1004", "141 Wn.2d 68", "142 Wn.2d 1021", "146 Wn.2d 291", "148 Wn.2d 550", "150 Wn.2d 478", "155 Wn.2d 1006", "2 Wn. App. 888", "214 F. Supp. 2d 1103", "239 F. Supp. 2d 1047", "239 F. Supp. 2d 1067", "239 F. Supp. 2d 1108", "26 Wn. App. 922", "263 F.3d 1070", "309 F.2d 167", "345 F.3d 813", "383 U.S. 715", "42 U.S.C. § 1983", "45 P.3d 1068", "464 U.S. 957", "471 P.2d 103", "506 U.S. 1028", "520 U.S. 1117", "520 U.S. 1201", "533 U.S. 194", "547 P.2d 1221", "549 P.2d 721", "6 P.3d 112", "61 P.3d 1104", "615 P.2d 1316", "633 P.2d 1329", "637 F.2d 1350", "656 P.2d 1030", "664 P.2d 1202", "672 F. Supp. 1152", "68 Wn. App. 294", "78 P.3d 1274", "78 Wn.2d 994", "809 P.2d 143", "830 P.2d 318", "841 P.2d 1254", "86 P.3d 1234", "86 Wn.2d 607", "868 F.2d 1017", "87 Wn.2d 103", "89 Wn. App. 474", "92 Wn. App. 504", "921 P.2d 473", "949 P.2d 441", "956 P.2d 312", "96 Wn.2d 85", "963 P.2d 215", "98 Wn.2d 434", "99 F.3d 911", "99 Wn.2d 645"]
 ---
 
 # Gausvik v. Abbey
