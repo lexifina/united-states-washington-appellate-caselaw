@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50355-3-I"
 decided: "2003-03-10"
-citations: ["116 Wash. App. 746", "116 Wash. App. 1009"]
+citations: ["116 Wash. App. 746"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Andrew Preuett, Appellant."]
 source_url: "https://static.case.law/wash-app/116/cases/0746-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265865
-cites_cases: ["110 Wn. App. 741", "116 Wn. App. 746", "123 Wn.2d 488", "132 Wn.2d 54", "139 Wn.2d 186", "147 Wn.2d 1016", "150 Wn.2d 1012", "43 P.3d 1246", "514 P.2d 1052", "530 P.2d 317", "533 U.S. 289", "82 Wn.2d 872", "85 Wn.2d 45", "869 P.2d 1062", "89 Wn. App. 764", "935 P.2d 1321", "950 P.2d 10", "985 P.2d 384", "99 Wn. App. 287", "992 P.2d 1045"]
+cites_cases: ["110 Wn. App. 741", "123 Wn.2d 488", "132 Wn.2d 54", "139 Wn.2d 186", "147 Wn.2d 1016", "150 Wn.2d 1012", "43 P.3d 1246", "514 P.2d 1052", "530 P.2d 317", "533 U.S. 289", "82 Wn.2d 872", "85 Wn.2d 45", "869 P.2d 1062", "89 Wn. App. 764", "935 P.2d 1321", "950 P.2d 10", "985 P.2d 384", "99 Wn. App. 287", "992 P.2d 1045"]
 ---
 
 # State v. Preuett
