@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11880-1-III"
 decided: "1992-12-10"
-citations: ["68 Wash. App. 459", "67 Wash. App. 1063"]
+citations: ["68 Wash. App. 459"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Celia Farrare, Appellant, v. The City of Pasco, Respondent."]
 source_url: "https://static.case.law/wash-app/68/cases/0459-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725277
-cites_cases: ["103 Wn.2d 1009", "111 Wn.2d 499", "118 Wn.2d 737", "186 Or. 129", "223 P.2d 834", "37 Wn.2d 338", "38 Wn. App. 343", "68 Wn. App. 459", "685 P.2d 619", "760 P.2d 348", "826 P.2d 690"]
+cites_cases: ["103 Wn.2d 1009", "111 Wn.2d 499", "118 Wn.2d 737", "186 Or. 129", "223 P.2d 834", "37 Wn.2d 338", "38 Wn. App. 343", "685 P.2d 619", "760 P.2d 348", "826 P.2d 690"]
 ---
 
 # Farrare v. City of Pasco
