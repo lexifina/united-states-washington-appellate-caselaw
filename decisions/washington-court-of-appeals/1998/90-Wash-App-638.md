@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38366-3-I"
 decided: "1998-02-09"
-citations: ["90 Wash. App. 638", "89 Wash. App. 1011"]
+citations: ["90 Wash. App. 638"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert Syputa, Appellant, v. Druck, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/90/cases/0638-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428740
-cites_cases: ["10 Wn. App. 380", "109 Wn.2d 747", "115 Wn.2d 657", "120 Wn.2d 1014", "123 Wash. 488", "123 Wn.2d 678", "129 Wn.2d 565", "136 Wn.2d 1024", "147 P.2d 310", "20 Wn.2d 337", "212 P. 1077", "247 P.2d 237", "269 P.2d 828", "41 Wn.2d 1", "422 P.2d 293", "44 Wn.2d 680", "451 P.2d 296", "49 F.3d 308", "517 P.2d 1371", "65 Wn. App. 71", "652 S.W.2d 293", "70 Wn.2d 78", "74 F.3d 128", "74 Wn. App. 769", "748 P.2d 621", "75 Wn.2d 356", "80 Wn. App. 833", "801 P.2d 222", "828 P.2d 12", "871 P.2d 146", "875 P.2d 705", "90 Wn. App. 638", "911 P.2d 1358", "918 F.2d 1277", "919 P.2d 594"]
+cites_cases: ["10 Wn. App. 380", "109 Wn.2d 747", "115 Wn.2d 657", "120 Wn.2d 1014", "123 Wash. 488", "123 Wn.2d 678", "129 Wn.2d 565", "136 Wn.2d 1024", "147 P.2d 310", "20 Wn.2d 337", "212 P. 1077", "247 P.2d 237", "269 P.2d 828", "41 Wn.2d 1", "422 P.2d 293", "44 Wn.2d 680", "451 P.2d 296", "49 F.3d 308", "517 P.2d 1371", "65 Wn. App. 71", "652 S.W.2d 293", "70 Wn.2d 78", "74 F.3d 128", "74 Wn. App. 769", "748 P.2d 621", "75 Wn.2d 356", "80 Wn. App. 833", "801 P.2d 222", "828 P.2d 12", "871 P.2d 146", "875 P.2d 705", "911 P.2d 1358", "918 F.2d 1277", "919 P.2d 594"]
 ---
 
 # Syputa v. Druck, Inc.
