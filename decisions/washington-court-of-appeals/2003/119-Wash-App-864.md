@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50710-9-I"
 decided: "2003-11-24"
-citations: ["119 Wash. App. 864", "119 Wash. App. 1027"]
+citations: ["119 Wash. App. 864"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Nathalie J. Fuentes, et al., Appellants, v. The Port of Seattle, Resp
 source_url: "https://static.case.law/wash-app/119/cases/0864-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350211
-cites_cases: ["106 Wn.2d 658", "113 Wn.2d 479", "116 Wn.2d 217", "119 Wn. App. 864", "129 Wn.2d 84", "133 Wn.2d 192", "152 Wn.2d 1008", "255 P.2d 360", "42 Wn.2d 316", "53 Wn. App. 95", "724 P.2d 991", "765 P.2d 1312", "77 Wn. App. 934", "780 P.2d 1307", "802 P.2d 1360", "894 P.2d 1366", "915 P.2d 1089", "943 P.2d 286"]
+cites_cases: ["106 Wn.2d 658", "113 Wn.2d 479", "116 Wn.2d 217", "129 Wn.2d 84", "133 Wn.2d 192", "152 Wn.2d 1008", "255 P.2d 360", "42 Wn.2d 316", "53 Wn. App. 95", "724 P.2d 991", "765 P.2d 1312", "77 Wn. App. 934", "780 P.2d 1307", "802 P.2d 1360", "894 P.2d 1366", "915 P.2d 1089", "943 P.2d 286"]
 ---
 
 # Fuentes v. Port of Seattle
