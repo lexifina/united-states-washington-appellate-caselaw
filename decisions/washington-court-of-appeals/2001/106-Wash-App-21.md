@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24399-7-II"
 decided: "2001-04-13"
-citations: ["106 Wash. App. 21", "105 Wash. App. 1048"]
+citations: ["106 Wash. App. 21"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Wauna Khlee, Appellant."]
 source_url: "https://static.case.law/wash-app/106/cases/0021-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240429
-cites_cases: ["106 Wn. App. 21", "116 N.M. 565", "117 Wn.2d 93", "119 Wn.2d 143", "120 Wn.2d 196", "135 Wn.2d 359", "27 Wn. App. 703", "35 Wn. App. 216", "45 Wn. App. 761", "621 P.2d 165", "666 P.2d 381", "728 P.2d 613", "79 Wn. App. 701", "812 P.2d 86", "829 P.2d 1078", "840 P.2d 172", "85 Wn. App. 82", "902 P.2d 184", "930 P.2d 1235", "956 P.2d 1097", "96 Wn. App. 839", "982 P.2d 119"]
+cites_cases: ["116 N.M. 565", "117 Wn.2d 93", "119 Wn.2d 143", "120 Wn.2d 196", "135 Wn.2d 359", "27 Wn. App. 703", "35 Wn. App. 216", "45 Wn. App. 761", "621 P.2d 165", "666 P.2d 381", "728 P.2d 613", "79 Wn. App. 701", "812 P.2d 86", "829 P.2d 1078", "840 P.2d 172", "85 Wn. App. 82", "902 P.2d 184", "930 P.2d 1235", "956 P.2d 1097", "96 Wn. App. 839", "982 P.2d 119"]
 ---
 
 # State v. Khlee
