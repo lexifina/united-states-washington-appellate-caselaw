@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47988-1-I"
 decided: "2002-03-04"
-citations: ["110 Wash. App. 811", "110 Wash. App. 1047"]
+citations: ["110 Wash. App. 811"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Sara Jamar Malvern, Appellant
 source_url: "https://static.case.law/wash-app/110/cases/0811-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1123789
-cites_cases: ["100 Wn. App. 624", "109 Wn. App. 73", "110 Wn. App. 811", "131 Wn.2d 258", "141 Wn.2d 1018", "144 Wn.2d 236", "27 P.3d 184", "34 P.3d 254", "439 P.2d 403", "51 Wn. App. 436", "71 Wn. App. 400", "73 Wn.2d 533", "753 P.2d 1017", "859 P.2d 632", "930 P.2d 917", "999 P.2d 51"]
+cites_cases: ["100 Wn. App. 624", "109 Wn. App. 73", "131 Wn.2d 258", "141 Wn.2d 1018", "144 Wn.2d 236", "27 P.3d 184", "34 P.3d 254", "439 P.2d 403", "51 Wn. App. 436", "71 Wn. App. 400", "73 Wn.2d 533", "753 P.2d 1017", "859 P.2d 632", "930 P.2d 917", "999 P.2d 51"]
 ---
 
 # State v. Malvern
