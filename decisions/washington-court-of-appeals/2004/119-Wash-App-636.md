@@ -1,0 +1,64 @@
+---
+court: "Washington Court of Appeals"
+docket: "51727-9-I"
+decided: "2004-01-12"
+citations: ["119 Wash. App. 636"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Carlos R. Feliciano Rodriguez, Appellant, v. Joel Wong, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/119/cases/0636-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1350054
+cites_cases: ["137 Wn.2d 296", "139 Wn.2d 546", "140 Wn.2d 88", "358 U.S. 217", "450 U.S. 544", "520 U.S. 438", "93 Wn. App. 955", "971 P.2d 32", "971 P.2d 531", "988 P.2d 961", "993 P.2d 259"]
+---
+
+# Rodriguez v. Wong
+
+## Majority (Ellington, J.)
+
+Ellington, J.
+The question here is whether a state court has jurisdiction over a claim arising out of the employment of a non-Indian employee of the Muckleshoot Gaming Commission. Because the tribe exercised its sovereign authority over its relationship with its employees, state courts have no jurisdiction over this matter, and the trial court properly granted summary judgment to the defendants. We therefore affirm.
+BACKGROUND
+The Muckleshoot Gaming Commission (Commission) is a governmental subdivision of the federally recognized Muckleshoot Indian Tribe, and is responsible for regulating the tribe’s gaming operations. Both parties here are employees of the Gaming Commission. Carlos R. Feliciano Rodriguez is a gaming agent, and Joel Wong is the executive director. Neither party is a member of the tribe.
+The Gaming Commission grievance procedure is set forth in its personnel manual. Rodriguez believed he had been wrongly treated by Wong, and pursuant to the procedure in the manual, he filed a formal grievance alleging several instances of misconduct. The Commission’s Grievance Committee (Committee) held a hearing and issued a written report in which it found some, but not all, of Rodriguez’s allegations had merit. The Committee referred the matter “to the Tribal Council for its review and action.” The Tribal Council “decided to retain a Management Consultant to help resolve these difficulties.”
+Unsatisfied by this resolution, Rodriguez initiated a lawsuit against Wong and his marital community in King County Superior Court. Although he had not done so in his grievance, Rodriguez characterized Wong’s treatment as racially motivated, and asserted a claim of discrimination based upon race and ethnicity. Wong moved for summary judgment on the grounds that the superior court lacked subject matter jurisdiction, arguing that “[a]lthough cast as a case against the Wongs individually, the complaint reveals that the allegations are against Mr. Wong in his capacity as a tribal employee and that plaintiff seeks damages in the form of lost wages and promotion opportunities, which can be provided only by the Muckleshoot Tribe itself.” The tribe was granted permission to participate as amicus curiae, and argued lack of jurisdiction and sovereign immunity. After a hearing on Wong’s motion, the court concluded it lacked subject matter jurisdiction and dismissed the action. This appeal followed. We granted the Muckleshoot tribe leave to appear as amicus curiae.
+DISCUSSION
+We review de novo the trial court’s summary judgment decision and its conclusion that it lacked subject matter jurisdiction. To determine whether state courts have jurisdiction over civil claims arising between nonmembers concerning conduct occurring within an Indian reservation, we must consider the extent of tribal and state authority over the particular matter at hand.
+Generally speaking, a tribe cannot exercise civil authority over nonmembers because “the inherent sovereign powers of an Indian tribe do not extend to the activities of nonmembers of the tribe” in the civil context. Montana v. United States established two exceptions to this general rule. The first concerns nonmembers who enter into “consensual relationships” with the tribe or its members. The second exception is the tribe’s “inherent power to exercise civil authority over the conduct of non-Indians on fee lands within its reservation when that conduct threatens or has some direct effect on the political integrity, the economic security, or the health or welfare of the tribe.” The facts here place this litigation squarely within each of these exceptions.
+Consensual Relationship. At summary judgment, it was undisputed that Rodriguez’s claims arise from his consensual employment relationship with the tribe. Rodriguez specifically alleged in his complaint that the conduct giving rise to his claims occurred entirely within the employment context: “During his course of employment with the Muckleshoot Gaming Commission, Defendant Joel Wong has repeatedly subjected the Plaintiff to mistreatment based upon his race and ethnicity.” The description of the mistreatment alleged in Rodriguez’s initial grievance also indicates his claims arise exclusively from the employment relationship. He complains, for example, that Wong refused “to allow [him] to become a house trainer”; denied him “employment and advancement opportunities”; retaliated when Rodriguez raised the training issue with other superiors; and failed “to present an award at an appreciation award’s luncheon.” Further, Rodriguez seeks relief, including “lost wages [and] promotion opportunities,” which can come only from the tribe as his employer.
+Rodriguez agrees that employment constitutes a “consensual relationship[ ]” over which the tribe is presumed to retain authority. He contends however, that Wong’s conduct exceeded the scope of his duties and gave rise to nonemployment-related claims such as defamation. Rodriguez did not plead such claims, did not make this argument below, and submitted no supporting evidence at summary judgment. Instead, he chose to rest on the allegations of his complaint that Wong mistreated him “[during the course of his employment.” “[B]are assertions that a genuine material issue exists will not defeat a summary judgment motion in the absence of actual evidence.” The record contains no evidence that Rodriguez’s cause of action has any basis other than the consensual employment relationship. Upon the summary judgment record, therefore, the trial court did not err by granting the defendants’ motion.
+Inherent Power. The tribe also has jurisdiction over this matter under Montana's second exception, because state jurisdiction over Rodriguez’s claims would directly affect the tribe’s political integrity. The tribal government has taken official action to regulate its relationship with its employees. The Muckleshoot Tribal Council passed the Muckleshoot Gaming Act of 1992, which established the Gaming Commission and empowered it to “[h]ire . . . staff and support services as . . . necessary” and to “issue such regulations as it deems appropriate in order to implement the provisions of this Act.” In Resolution No. 95-338, the Tribal Council formally adopted the personnel policies and procedures promulgated by the Commission. The resolution recites that the Tribal Council, acting solely pursuant to its constitution and bylaws, reviewed the personnel manual adopted by the Muckleshoot Gaming Commission, found it “consistent with employment practices of the Tribal Council,” and resolved that it be “approved and adopted for use by the Commission.” The manual includes a nondiscrimination policy and sets out both informal and formal grievance procedures, culminating in a hearing before the Grievance Committee. The manual provides that the “Grievance Committee’s decision shall be final and binding on all parties.”
+Rodriguez nonetheless argues that the tribe has not exercised exclusive jurisdiction because of a provision in the manual stating, “Any Employee who takes their employment problems outside the grievance procedure without first attempting to resolve them in accordance with these procedures will be subject to disciplinary action.” Rodriguez contends this language contemplates recourse to state court. But we see nothing in the manual to support Rodriguez’s interpretation, and it is plainly inconsistent with the fact that the grievance process is both mandatory and “final and binding.”
+The tribe has thus exercised its authority to regulate its relationship with its gaming employees, and has established the rights and responsibilities of the Gaming Commission and its employees — members and nonmembers alike. Were the State to assert jurisdiction over Rodriguez’s claims because he is not a member of the tribe, the tribe would be forced either to abandon its own governance and submit to state jurisdiction for all employees, or to apply different sets of employment rules to members and nonmembers. Allowing Rodriguez to pursue this employment dispute in state court would thus directly affect the tribe’s political integrity. The tribe therefore retains inherent authority over this matter.
+For the same reason, we conclude the State lacks concurrent jurisdiction in this matter. Indian tribes retain the authority necessary “to protect tribal self-government or to control internal relations . . . .” In Williams v. Lee, the United States Supreme Court considered whether a non-Indian merchant operating within the Navajo reservation could bring an action in state court to collect for goods sold on credit to members of the tribe. The Court stated, “the question has always been whether the state action infringed on the right of reservation Indians to make their own laws and be ruled by them.” The Court noted that the tribe had strengthened and broadened its exercise of civil jurisdiction, which extended to suits by nonmembers. Under the circumstances, the Court concluded, “There can be no doubt that to allow the exercise of state jurisdiction here would undermine the authority of the tribal courts over Reservation affairs and hence would infringe on the right of the Indians to govern themselves.”
+Likewise, here the tribe has exercised its jurisdiction to develop its own nondiscrimination and other employment policies, and the State’s assertion of jurisdiction would impose state regulations on the tribe whenever nonmembers become employees of the tribe, and would undermine the right of the tribe to govern reservation affairs.
+The superior court’s determination that it lacked subject matter jurisdiction to determine a matter arising entirely from an employment relationship with the Muckleshoot Gaming Commission was correct and is affirmed.
+Becker, C.J., and Agid, J., concur.
+The Gaming Commission found that Rodriguez failed to establish that Wong used abusive language, and that Wong’s failure to present an award to Rodriguez was an inadvertent oversight, but that Wong’s conduct was “inappropriate” when he failed to respond to a request for training at the Criminal Justice Academy, denigrated Rodriguez’s certificate in defensive tactics training, reacted unfavorably to Rodriguez’s request that Criminal Justice Training Commission personnel review his ability to become an instructor at the casino, commented upon Rodriguez’s alleged relationship with a female former agent, improperly alleged Rodriguez failed to follow chain of command in a pull-tabs investigation, and had Rodriguez’s car towed from the casino parking lot because Rodriguez failed to display a valid permit.
+Clerk’s Papers at 82.
+Clerk’s Papers at 227.
+Rodriguez’s prayer for damages included “lost wages, promotion opportunities, pain, suffering and humiliation and his loss of reputation and such other relief as may be afforded by the law against malicious harassment and law against discrimination and the common law of the state,” as well as punitive damages. Clerk’s Papers at 5.
+Clerk’s Papers at 18.
+Enter. Leasing, Inc. v. City of Tacoma, 139 Wn.2d 546, 551, 988 P.2d 961 (1999); Crosby v. City of Spokane, 137 Wn.2d 296, 301, 971 P.2d 32 (1999).
+Montana v. United States, 450 U.S. 544, 565, 101 S. Ct. 1245, 67 L. Ed. 2d 493 (1981). The tribe’s adjudicative authority is coextensive with its regulatory jurisdiction. Strate v. A-1 Contractors, 520 U.S. 438, 453, 117 S. Ct. 1404, 137 L. Ed. 2d 661 (1997).
+450 U.S. 544, 101 S. Ct. 1245, 67 L. Ed. 2d 493 (1981).
+Id. at 565.
+Id. at 566.
+Clerk’s Papers at 4.
+Clerk’s Papers at 4-5.
+Clerk’s Papers at 5.
+See Cordova v. Holwegner, 93 Wn. App. 955, 968, 971 P.2d 531 (1999).
+Clerk’s Papers at 4.
+Trimble v. Wash. State Univ., 140 Wn.2d 88, 93, 993 P.2d 259 (2000).
+Clerk’s Papers at 43.
+Clerk’s Papers at 87.
+Clerk’s Papers at 175.
+Clerk’s Papers at 172.
+Clerk’s Papers at 175.
+See Montana, 450 U.S. at 566.
+Id. at 564.
+358 U.S. 217, 79 S. Ct. 269, 3 L. Ed. 2d 251 (1959).
+Id. at 220.
+Id. at 223.
+Because we conclude the state court lacks jurisdiction over Rodriguez’s claims, we do not reach the tribe’s arguments concerning sovereign immunity.
