@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30807-0-II"
 decided: "2004-06-02"
-citations: ["123 Wash. App. 6", "121 Wash. App. 1070"]
+citations: ["123 Wash. App. 6"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Deana Howland, et al., Appellants, v. Maybeth A. Grout, et al., Respo
 source_url: "https://static.case.law/wash-app/123/cases/0006-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1117914
-cites_cases: ["106 Wn. App. 26", "109 Wn.2d 1008", "119 Wash. 298", "123 Wn. App. 6", "127 Wn.2d 853", "13 Wn. App. 269", "132 Wn.2d 1010", "135 Wn.2d 658", "144 Wn.2d 1020", "153 Wn.2d 1027", "185 Wash. 284", "205 P. 379", "22 P.3d 810", "22 Wn. App. 163", "47 Wn. App. 352", "534 P.2d 596", "54 P.2d 235", "589 P.2d 250", "656 P.2d 1030", "71 Wn. App. 35", "734 P.2d 961", "85 Wn. App. 98", "85 Wn.2d 1013", "856 P.2d 706", "904 P.2d 278", "931 P.2d 200", "958 P.2d 301", "98 Wn.2d 434"]
+cites_cases: ["106 Wn. App. 26", "109 Wn.2d 1008", "119 Wash. 298", "127 Wn.2d 853", "13 Wn. App. 269", "132 Wn.2d 1010", "135 Wn.2d 658", "144 Wn.2d 1020", "153 Wn.2d 1027", "185 Wash. 284", "205 P. 379", "22 P.3d 810", "22 Wn. App. 163", "47 Wn. App. 352", "534 P.2d 596", "54 P.2d 235", "589 P.2d 250", "656 P.2d 1030", "71 Wn. App. 35", "734 P.2d 961", "85 Wn. App. 98", "85 Wn.2d 1013", "856 P.2d 706", "904 P.2d 278", "931 P.2d 200", "958 P.2d 301", "98 Wn.2d 434"]
 ---
 
 # Howland v. Grout
