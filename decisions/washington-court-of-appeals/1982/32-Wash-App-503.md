@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10162-5-I"
 decided: "1982-07-12"
-citations: ["32 Wash. App. 503", "32 Wash. App. 1022"]
+citations: ["32 Wash. App. 503"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
