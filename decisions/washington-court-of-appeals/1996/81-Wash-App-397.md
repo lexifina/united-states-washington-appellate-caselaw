@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37149-5-I"
 decided: "1996-04-08"
-citations: ["81 Wash. App. 397", "81 Wash. App. 1008"]
+citations: ["81 Wash. App. 397"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent v. Geraldine Hendrickson, Petitio
 source_url: "https://static.case.law/wash-app/81/cases/0397-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 310640
-cites_cases: ["101 Wn.2d 591", "115 Wn.2d 1018", "115 Wn.2d 1033", "123 Wn.2d 351", "14 Wn. App. 584", "24 Wn. App. 270", "31 Wn. App. 393", "544 P.2d 38", "58 Wn. App. 222", "58 Wn. App. 504", "600 P.2d 677", "641 P.2d 1207", "682 P.2d 312", "79 Wn. App. 605", "792 P.2d 542", "793 P.2d 1001", "81 Wn. App. 397", "869 P.2d 43", "87 Wn.2d 1001", "904 P.2d 308", "93 Wn.2d 1013"]
+cites_cases: ["101 Wn.2d 591", "115 Wn.2d 1018", "115 Wn.2d 1033", "123 Wn.2d 351", "14 Wn. App. 584", "24 Wn. App. 270", "31 Wn. App. 393", "544 P.2d 38", "58 Wn. App. 222", "58 Wn. App. 504", "600 P.2d 677", "641 P.2d 1207", "682 P.2d 312", "79 Wn. App. 605", "792 P.2d 542", "793 P.2d 1001", "869 P.2d 43", "87 Wn.2d 1001", "904 P.2d 308", "93 Wn.2d 1013"]
 ---
 
 # State v. Hendrickson
