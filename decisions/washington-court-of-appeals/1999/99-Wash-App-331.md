@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44373-9-I"
 decided: "1999-12-27"
-citations: ["99 Wash. App. 331", "98 Wash. App. 1049"]
+citations: ["99 Wash. App. 331"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Samuel Whitfield, Respondent."
 source_url: "https://static.case.law/wash-app/99/cases/0331-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181021
-cites_cases: ["101 Wn.2d 612", "108 Wn.2d 125", "108 Wn.2d 491", "120 Wn.2d 913", "133 Wn.2d 847", "137 Wn.2d 904", "683 P.2d 1069", "736 P.2d 1065", "740 P.2d 835", "845 P.2d 1325", "947 P.2d 1192", "976 P.2d 624", "99 Wn. App. 331"]
+cites_cases: ["101 Wn.2d 612", "108 Wn.2d 125", "108 Wn.2d 491", "120 Wn.2d 913", "133 Wn.2d 847", "137 Wn.2d 904", "683 P.2d 1069", "736 P.2d 1065", "740 P.2d 835", "845 P.2d 1325", "947 P.2d 1192", "976 P.2d 624"]
 ---
 
 # State v. Whitfield
