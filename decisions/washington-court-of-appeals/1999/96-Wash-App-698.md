@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17487-5-III"
 decided: "1999-06-08"
-citations: ["96 Wash. App. 698", "95 Wash. App. 1074"]
+citations: ["96 Wash. App. 698"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Cle Elum Bowl, Inc., et al., Appellants, v. North Pacific Insurance C
 source_url: "https://static.case.law/wash-app/96/cases/0698-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128552
-cites_cases: ["121 Wn.2d 869", "123 Wn.2d 131", "126 Wn.2d 50", "129 Wn.2d 368", "131 Wn.2d 1016", "133 Wn.2d 751", "134 Wn.2d 1001", "134 Wn.2d 558", "136 Wn.2d 567", "139 Wn.2d 1019", "44 A.L.R.5th 905", "57 Wn. App. 831", "75 Cornell L. Rev. 610", "790 P.2d 659", "83 Wn. App. 149", "854 P.2d 622", "865 P.2d 507", "88 Wn. App. 1", "882 P.2d 703", "891 P.2d 718", "917 P.2d 116", "920 P.2d 1223", "943 P.2d 665", "948 P.2d 796", "951 P.2d 1124", "96 Wn. App. 698", "964 P.2d 1173"]
+cites_cases: ["121 Wn.2d 869", "123 Wn.2d 131", "126 Wn.2d 50", "129 Wn.2d 368", "131 Wn.2d 1016", "133 Wn.2d 751", "134 Wn.2d 1001", "134 Wn.2d 558", "136 Wn.2d 567", "139 Wn.2d 1019", "44 A.L.R.5th 905", "57 Wn. App. 831", "75 Cornell L. Rev. 610", "790 P.2d 659", "83 Wn. App. 149", "854 P.2d 622", "865 P.2d 507", "88 Wn. App. 1", "882 P.2d 703", "891 P.2d 718", "917 P.2d 116", "920 P.2d 1223", "943 P.2d 665", "948 P.2d 796", "951 P.2d 1124", "964 P.2d 1173"]
 ---
 
 # Cle Elum Bowl, Inc. v. North Pacific Insurance
