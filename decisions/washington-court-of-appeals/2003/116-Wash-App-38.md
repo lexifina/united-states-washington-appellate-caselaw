@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49255-1-I"
 decided: "2003-02-03"
-citations: ["116 Wash. App. 38", "115 Wash. App. 1021"]
+citations: ["116 Wash. App. 38"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Petitioner, v. Boyd M. Derouin, Respondent."
 source_url: "https://static.case.law/wash-app/116/cases/0038-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 266079
-cites_cases: ["11 P.3d 304", "116 Wn. App. 38", "132 Wn.2d 94", "142 Wn.2d 1", "165 Vt. 89", "205 Mich. App. 1", "4 F.3d 1424", "47 Wn. App. 863", "518 N.W.2d 817", "737 P.2d 700", "89 Wn. App. 543", "935 P.2d 1353", "949 P.2d 831", "98 Mich. App. 529", "986 F.2d 1014"]
+cites_cases: ["11 P.3d 304", "132 Wn.2d 94", "142 Wn.2d 1", "165 Vt. 89", "205 Mich. App. 1", "4 F.3d 1424", "47 Wn. App. 863", "518 N.W.2d 817", "737 P.2d 700", "89 Wn. App. 543", "935 P.2d 1353", "949 P.2d 831", "98 Mich. App. 529", "986 F.2d 1014"]
 ---
 
 # State v. Derouin
