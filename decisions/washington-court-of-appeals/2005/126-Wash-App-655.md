@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31730-3-II"
 decided: "2005-02-23"
-citations: ["126 Wash. App. 655", "126 Wash. App. 1004"]
+citations: ["126 Wash. App. 655"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Carrie Marvik, Respondent, v. Mary Winkelman et al., Appellants."]
 source_url: "https://static.case.law/wash-app/126/cases/0655-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016080
-cites_cases: ["113 Wn.2d 154", "117 Wn.2d 747", "126 Wn. App. 655", "136 Wn.2d 1024", "148 P. 26", "165 Wash. 408", "23 Wn. App. 548", "376 P.2d 651", "384 P.2d 871", "422 P.2d 515", "454 A.2d 1376", "47 P.3d 316", "5 P.2d 523", "596 P.2d 314", "60 Wn.2d 836", "611 P.2d 1234", "62 Wn.2d 840", "70 Wn.2d 173", "776 P.2d 676", "818 P.2d 1337", "85 Wash. 333", "90 Wn. App. 980", "93 Wn.2d 670", "955 P.2d 406"]
+cites_cases: ["113 Wn.2d 154", "117 Wn.2d 747", "136 Wn.2d 1024", "148 P. 26", "165 Wash. 408", "23 Wn. App. 548", "376 P.2d 651", "384 P.2d 871", "422 P.2d 515", "454 A.2d 1376", "47 P.3d 316", "5 P.2d 523", "596 P.2d 314", "60 Wn.2d 836", "611 P.2d 1234", "62 Wn.2d 840", "70 Wn.2d 173", "776 P.2d 676", "818 P.2d 1337", "85 Wash. 333", "90 Wn. App. 980", "93 Wn.2d 670", "955 P.2d 406"]
 ---
 
 # Marvik v. Winkelman
