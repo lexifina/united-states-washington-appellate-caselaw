@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35301-2-I"
 decided: "1996-04-15"
-citations: ["82 Wash. App. 267", "81 Wash. App. 1015"]
+citations: ["82 Wash. App. 267"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donald L. Davis, Appellant, v. Bendix Corporation, Respondent."]
 source_url: "https://static.case.law/wash-app/82/cases/0267-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043620
-cites_cases: ["114 Wn.2d 271", "123 Wn.2d 1031", "130 Wn.2d 1004", "2 Wn. App. 315", "215 P.2d 416", "263 P.2d 586", "328 P.2d 663", "35 Wn.2d 763", "41 Wn. App. 233", "43 Wn.2d 696", "467 P.2d 879", "52 Wn.2d 706", "548 P.2d 1085", "656 P.2d 1030", "703 P.2d 1053", "71 Wn. App. 501", "787 P.2d 562", "82 Wn. App. 267", "859 P.2d 652", "87 Wn.2d 6", "98 Wn.2d 434"]
+cites_cases: ["114 Wn.2d 271", "123 Wn.2d 1031", "130 Wn.2d 1004", "2 Wn. App. 315", "215 P.2d 416", "263 P.2d 586", "328 P.2d 663", "35 Wn.2d 763", "41 Wn. App. 233", "43 Wn.2d 696", "467 P.2d 879", "52 Wn.2d 706", "548 P.2d 1085", "656 P.2d 1030", "703 P.2d 1053", "71 Wn. App. 501", "787 P.2d 562", "859 P.2d 652", "87 Wn.2d 6", "98 Wn.2d 434"]
 ---
 
 # Davis v. Bendix Corp.
