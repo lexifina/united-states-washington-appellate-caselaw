@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13450-7-I"
 decided: "1984-07-19"
-citations: ["38 Wash. App. 597", "38 Wash. App. 1021"]
+citations: ["38 Wash. App. 597"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Joseph W. Bradley, Respondent.
 source_url: "https://static.case.law/wash-app/38/cases/0597-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791628
-cites_cases: ["101 Wn.2d 349", "22 Wn. App. 38", "38 Wn. App. 597", "585 P.2d 66", "587 P.2d 613", "678 P.2d 332", "90 Wn.2d 423"]
+cites_cases: ["101 Wn.2d 349", "22 Wn. App. 38", "585 P.2d 66", "587 P.2d 613", "678 P.2d 332", "90 Wn.2d 423"]
 ---
 
 # State v. Bradley
