@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10877-1-II"
 decided: "1989-07-13"
-citations: ["55 Wash. App. 343", "54 Wash. App. 1066"]
+citations: ["55 Wash. App. 343"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Kaydon Carl Jones, Respondent.
 source_url: "https://static.case.law/wash-app/55/cases/0343-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8847906
-cites_cases: ["102 Wn.2d 432", "102 Wn.2d 733", "103 Wn.2d 1022", "103 Wn.2d 361", "23 Wn. App. 97", "371 U.S. 471", "39 Wn. App. 113", "438 U.S. 154", "445 U.S. 967", "55 Wn. App. 343", "596 P.2d 1080", "615 F.2d 318", "617 F.2d 677", "628 P.2d 806", "632 P.2d 44", "640 P.2d 1061", "688 P.2d 136", "689 P.2d 1065", "692 P.2d 208", "693 P.2d 81", "92 Wn.2d 1026", "95 Wn.2d 655", "95 Wn.2d 898", "97 Wn.2d 92"]
+cites_cases: ["102 Wn.2d 432", "102 Wn.2d 733", "103 Wn.2d 1022", "103 Wn.2d 361", "23 Wn. App. 97", "371 U.S. 471", "39 Wn. App. 113", "438 U.S. 154", "445 U.S. 967", "596 P.2d 1080", "615 F.2d 318", "617 F.2d 677", "628 P.2d 806", "632 P.2d 44", "640 P.2d 1061", "688 P.2d 136", "689 P.2d 1065", "692 P.2d 208", "693 P.2d 81", "92 Wn.2d 1026", "95 Wn.2d 655", "95 Wn.2d 898", "97 Wn.2d 92"]
 ---
 
 # State v. Jones
