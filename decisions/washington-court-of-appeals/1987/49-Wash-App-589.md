@@ -1,0 +1,32 @@
+---
+court: "Washington Court of Appeals"
+docket: "9760-5-II"
+decided: "1987-10-28"
+citations: ["49 Wash. App. 589"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Worswick and Alexander, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Daniel L. Brewton, Appellant."]
+source_url: "https://static.case.law/wash-app/49/cases/0589-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1739232
+cites_cases: ["186 Cal. Rptr. 94", "21 Gonz. L. Rev. 691", "295 N.W.2d 29", "32 Cal. 3d 504", "347 N.W.2d 668", "416 U.S. 985", "42 Wn. App. 586", "464 U.S. 831", "469 U.S. 884", "515 P.2d 172", "530 F.2d 43", "651 P.2d 338", "653 P.2d 1024", "66 Va. L. Rev. 597", "711 P.2d 1114", "83 Wn.2d 1005", "9 Wn. App. 821", "98 Wn.2d 1"]
+---
+
+# State v. Brewton
+
+## Majority (Reed, C.J.)
+
+Reed, C.J.
+Daniel Brewton appeals his conviction for first degree assault, based upon a shooting incident that occurred November 30,1985. We affirm.
+Before trial, Brewton indicated he would raise insanity and diminished capacity defenses. After the trial court granted the State's request for copies of his medical records, Brewton withdrew the insanity defense and sought return of the records. The court refused this request. Thus, the State had access to records of defendant's mid-September stay at Harrison Memorial Hospital, and his treatment at Harrison and the Seattle Veterans Administration Hospital shortly after the shooting.
+At trial, the State used notations from the record to cross-examine the defense expert and to rebut the expert's testimony that Brewton's depression impaired his ability to form the requisite mental state. However, the court carefully reviewed each notation before it was used, and excluded Brewton's confessional statements.
+Brewton now contends that the trial court erred in ordering disclosure of his records based upon a finding that he had waived his physician-patient and Fifth Amendment privileges by asserting the diminished capacity defense. In his argument, he attempts to distinguish between the diminished capacity and insanity defenses. Finding no valid distinction between the two defenses, we reject this contention.
+A Washington defendant who raises the insanity defense has "abandoned his right of medical privacy and waived the statutory physician-patient privilege as to any medical testimony which tends to contradict or impeach his medical evidence." Confidentiality remains important, but a patient who could select among various physicians' opinions, and claim privilege as to the remainder, would make a mockery of justice. State v. Tradewell, 9 Wn. App. 821, 824, 515 P.2d 172, review denied, 83 Wn.2d 1005 (1973), cert. denied, 416 U.S. 985 (1974). Similarly, one who raises the insanity defense also waives the Fifth Amendment and attorney-client privileges. State v. Bonds, 98 Wn.2d 1, 653 P.2d 1024 (1982), cert. denied, 464 U.S. 831 (1983). Statements uttered in a psychiatric examination are removed from the Fifth Amendment's reach because a defendant's silence may deprive the State of its only means to controvert his proof when he places his sanity in issue. Bonds, 98 Wn.2d at 20. The attorney-client privilege requires careful balancing of public policies, but disclosure in these cases is appropriate because the defense examination of a defendant may be more meaningful. It generally occurs nearer in time to the offense, before a defendant's condition changes, or he learns to provide self-serving responses. Bonds, 98 Wn.2d at 21, citing Saltzburg, Privileges and Professionals: Lawyers and Psychiatrists, 66 Va. L. Rev. 597 (1980).
+Brewton argues, however, that insanity is an affirmative defense requiring him to prove he should be acquitted, while a diminished capacity defense allows him to present evidence that he lacked the requisite intent, State v. Sam, 42 Wn. App. 586, 588, 711 P.2d 1114 (1986). This distinction is not relevant here. The diminished capacity defense injected the issue of Brewton's mental condition into the case and allowed him to present medical evidence. His assertion of a privilege would deprive the State, and ultimately the jury, of important evidence on that issue.
+Other jurisdictions have recognized the incongruity of a rule recognizing the privilege in such cases, and have required disclosure, e.g., State v. Cole, 295 N.W.2d 29, 35 (Iowa 1980) and People v. Arcega, 32 Cal. 3d 504, 651 P.2d 338, 186 Cal. Rptr. 94, 104 n.8 (1982), referring to a statutory exception to the physician-patient privilege for patients who place their medical condition in issue. As Saltzburg noted, there is a particular need for privacy to protect those who seek psychiatric help. 66 Va. L. Rev. at 619-20. However, privacy is lost when a patient chooses to place a mental or physical condition in issue, and a fair determination of the issue requires waiving the privilege. 66 Va. L. Rev. at 623. We note, however, that other courts have been careful to restrict the use of a defendant's incriminating statements. United States v. Cohen, 530 F.2d 43, 48 (5th Cir. 1976); State v. Craney, 347 N.W.2d 668, 673 (Iowa), cert. denied, 469 U.S. 884 (1984). Such an approach is necessary to safeguard a defendant's Fifth Amendment rights, and it should be applied in Washington.
+In this case, Brewton himself sought to put his mental condition before the jury and there was no justification to deprive the State of all relevant evidence on that issue. The trial court carefully protected his Fifth Amendment interests by refusing to permit cross examination on statements that might be considered confessional. Thus, it carefully and properly balanced the competing interests of full disclosure and truth seeking, with privacy and the right against self-incrimination. Accordingly, we affirm.
+Worswick and Alexander, JJ., concur.
+The distinction between the two defenses is further discussed in Trowbridge, Competency and Criminal Responsibility in Washington, 21 Gonz. L. Rev. 691, 729-43 (1986).
+This analysis is consistent with the recent amendment to the physician-patient privilege which requires plaintiffs who file wrongful death or personal injury claims, placing physical or mental condition in issue, to waive the physician-patient privilege. ROW 5.60.060(4)(b); Laws of 1987, ch. 212, § 1501.
