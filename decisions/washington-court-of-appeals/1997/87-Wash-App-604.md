@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38193-8-I"
 decided: "1997-03-10"
-citations: ["87 Wash. App. 604", "85 Wash. App. 1019"]
+citations: ["87 Wash. App. 604"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Victoria Roberts, Appellant, v. Safeco Insurance Company, Respondent.
 source_url: "https://static.case.law/wash-app/87/cases/0604-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 566342
-cites_cases: ["107 Wn.2d 721", "113 Wn.2d 366", "32 Wn. App. 630", "36 Wn. App. 838", "648 P.2d 929", "678 P.2d 339", "733 P.2d 213", "779 P.2d 722", "84 Wn. App. 640", "87 Wn. App. 604", "929 P.2d 1142"]
+cites_cases: ["107 Wn.2d 721", "113 Wn.2d 366", "32 Wn. App. 630", "36 Wn. App. 838", "648 P.2d 929", "678 P.2d 339", "733 P.2d 213", "779 P.2d 722", "84 Wn. App. 640", "929 P.2d 1142"]
 ---
 
 # Roberts v. Safeco Insurance
