@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33218-0-I"
 decided: "1994-06-20"
-citations: ["75 Wash. App. 174", "74 Wash. App. 1047"]
+citations: ["75 Wash. App. 174"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Melvin D. Helgeson, et al, Appellants, v. The City of Marysville, Res
 source_url: "https://static.case.law/wash-app/75/cases/0174-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11972826
-cites_cases: ["100 Wn.2d 221", "105 Wn.2d 878", "112 Wn.2d 841", "114 Wn.2d 907", "121 Wn.2d 304", "121 Wn.2d 52", "13 Wn. App. 401", "296 P.2d 536", "33 Wn. App. 297", "344 P.2d 718", "345 P.2d 1113", "44 A.L.R.3d 750", "443 P.2d 544", "452 P.2d 258", "459 P.2d 407", "468 P.2d 666", "48 Wn.2d 695", "491 P.2d 249", "5 Wn. App. 741", "535 P.2d 479", "54 Wn.2d 733", "55 Wn.2d 52", "635 F.2d 424", "654 P.2d 1215", "667 P.2d 1104", "7 A.L.R.5th 1014", "719 P.2d 120", "74 Wn.2d 126", "75 Wn. App. 174", "75 Wn.2d 478", "77 Wn.2d 12", "77 Wn.2d 911", "774 P.2d 516", "792 P.2d 520", "847 P.2d 440", "849 P.2d 1209"]
+cites_cases: ["100 Wn.2d 221", "105 Wn.2d 878", "112 Wn.2d 841", "114 Wn.2d 907", "121 Wn.2d 304", "121 Wn.2d 52", "13 Wn. App. 401", "296 P.2d 536", "33 Wn. App. 297", "344 P.2d 718", "345 P.2d 1113", "44 A.L.R.3d 750", "443 P.2d 544", "452 P.2d 258", "459 P.2d 407", "468 P.2d 666", "48 Wn.2d 695", "491 P.2d 249", "5 Wn. App. 741", "535 P.2d 479", "54 Wn.2d 733", "55 Wn.2d 52", "635 F.2d 424", "654 P.2d 1215", "667 P.2d 1104", "7 A.L.R.5th 1014", "719 P.2d 120", "74 Wn.2d 126", "75 Wn.2d 478", "77 Wn.2d 12", "77 Wn.2d 911", "774 P.2d 516", "792 P.2d 520", "847 P.2d 440", "849 P.2d 1209"]
 ---
 
 # Helgeson v. City of Marysville
