@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "1358-3"
+decided: "1975-06-26"
+citations: ["13 Wash. App. 736"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["McInturff, C.J., and Green, J., concur."]
+parties: ["In the Matter of the Adoption of Camille Chere Coggins."]
+source_url: "https://static.case.law/wash-app/13/cases/0736-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1849595
+cites_cases: ["10 Wn. App. 141", "11 Wn. App. 476", "12 Wn. App. 676", "126 P.2d 765", "13 Wn.2d 673", "137 Colo. 139", "2 Wn. App. 778", "262 U.S. 390", "29 A.L.R. 1446", "316 U.S. 535", "321 U.S. 158", "343 P.2d 183", "405 U.S. 645", "447 P.2d 601", "469 P.2d 993", "499 P.2d 1276", "513 P.2d 831", "516 P.2d 1063", "523 P.2d 969", "524 P.2d 906", "531 P.2d 303", "54 Wn.2d 570", "7 Wn. App. 476", "74 Wn.2d 878", "82 Wn.2d 736", "84 Wn.2d 135", "85 Wn.2d 1006", "86 L. Ed. 2d 1655"]
+---
+
+# In re the Adoption of Coggins
+
+## Majority (Munson, J.)
+
+Munson, J.
+Petitioner, Lawrence A. Hepfer, as the putative father, seeks review of an order decreeing that his consent to -the adoption of his alleged minor child was unnecessary.
+The following facts give rise to this appeal: On June 29, 1973, respondents filed a petition for adoption of a minor child, born out of wedlock, filing therewith the consent of the natural mother to the adoption. Subsequently, the mother filed a motion to withdraw that consent; her motion was denied. An appeal taken therefrom was dismissed in November 1974. In the interim, respondents moved that a notice be issued to the putative father, as required by RCW 26.32.050, cf. Stanley v. Illinois, 405 U.S. 645, 31 L. Ed. 2d 551, 92 S. Ct. 1208 (1972), to determine the necessity of petitioner’s consent to the adoption. Petitioner received the notice and filed an answer stating he would not consent. A hearing was held on November 27, 1974, at which time petitioner, although represented by an attorney, was not present because he was incarcerated in a Washington state reformatory. Petitioner’s counsel waived the presence of a court reporter, thereby negating the existence of a verbatim statement of facts. The only record of the trial court proceedings presently before this court is that contained in the clerk’s minutes.
+The trial court concluded that the petitioner’s consent to the adoption was unnecessary in that:
+Lawrence Arnold Hepfer has failed to express love or affection for the child; has failed to express personal concern over the health, education and general well-being of the child; has failed to supply the necessary food, clothing or medical care for the child; and has failed to provide an adequate home for the child.
+Finding of fact No. 2.3.
+The court, having entered its findings, concluded as a matter of law that:
+Lawrence Arnold Hepfer has deserted and abandoned the minor child under circumstances showing a wilful and substantial lack of regard for parental obligations.
+Conclusion of law No. 3.1.
+Petitioner raises five assignments of error, only two of which require our attention. First, he claims error in the court’s failure to order his appearance at the hearing. From the record available to us, the petitioner has never made such a request to his counsel or to the trial court. In the absence of such a request, the court was incapable of determining whether the petitioner was interested in appearing. We find no error.
+Secondly, petitioner contends that he is incapable of refuting the findings and conclusions of the trial court because the court failed to provide a means by which an adequate statement of facts could be prepared for review. We agree.
+Findings of fact, supported by substantial evidence, will not be reviewed on appeal. Thorndike v. Hesperian Orchards, Inc., 54 Wn.2d 570, 343 P.2d 183 (1959). Generally, in the absence of a statement of facts, an appellate court will assume there is sufficient evidence to support the trial court’s findings. Roller v. Blodgett, 74 Wn.2d 878, 879, 447 P.2d 601 (1968); Allied Stores Corp. v. North West Bank, 2 Wn. App. 778, 783, 469 P.2d 993 (1970).
+Furthermore, RCW 2.32.200 states:
+It shall be the duty of each official reporter ... to attend every term of the superior court ... at such times as the judge presiding may direct; and upon the trial of any cause in any court, if either party to the suit or action, or his attorney, request the services of the official reporter, the presiding judge shall grant such request, or upon his own motion such presiding judge may order a full report of the testimony, . . .
+This statute does not require an official court reporter to report all matters heard in open court, only those requested.
+Likewise, CAROA 34 provides several means by which a statement of facts may be prepared, i.e., a verbatim transcript, a short record, or an agreed statement of facts.
+Notwithstanding the above, the issue is so grave in a case of this nature that a trial court must provide some means of retaining the testimony to allow for adequate review. In In re Luscier, 84 Wn.2d 135, 524 P.2d 906 (1974), the court stated at 136-37:
+The fundamental nature of parental rights as a “liberty” protected by the due process clause of the Fourteenth Amendment was given expression in Meyer v. Nebraska, 262 U.S. 390, 399, 67 L. Ed. 1042, 43 S. Ct. 625, 29 A.L.R. 1446 (1923), . . . The essential right to procreate and raise children was acknowledged in Skinner v. Oklahoma, 316 U.S. 535, 541, 86 L. Ed. 2d 1655, 62 S. Ct. 1110 (1942), to be among “the basic civil rights of man.” “It is cardinal with us that the custody, care and nurture of the child reside first in the parents . . .” Prince v. Massachusetts, 321 U.S. 158, 166, 88 L. Ed. 645, 64 S. Ct. 438 (1944). . . .
+The courts of Washington have been no less zealous in their protection of familial relationships. Long ago, this court in In re Hudson, 13 Wn.2d 673, 678, 685, 126 P.2d 765 (1942), stated that a parent’s interest in the custody and control of minor children was a “sacred” right and recognized at common law. . . . Child deprivation hearings, in particular, have been the subject of close scrutiny and this court, on many occasions, has carefully scrutinized deprivation hearings to assure that the interested parties have been accorded the procedural fairness required by due process of law.
+Petitioner’s counsel, not counsel here, chose to waive the presence of the court reporter, but, in the absence of the client’s physical presence, or evidence of his express consent, we find that waiver is not binding upon the petitioner. An attorney is impliedly authorized to stipulate to, and waive, procedural matters in order to facilitate a hearing or trial; but, in his capacity as an attorney, he is without authority to waive any substantial right of his client unless specifically authorized to do so. Grossman v. Will, 10 Wn. App. 141, 516 P.2d 1063 (1973); In re Houts, 7 Wn. App. 476, 499 P.2d 1276 (1972).
+When presented with a similar issue, the Supreme Court of Colorado in Clerkin v. Geisendorfer, 137 Colo. 139, 142, 323 P.2d 633, 634 (1958), stated:
+In an adoption proceeding not only the custody, support and education of a minor is involved, but one or both the parents may be deprived of their rights as parents. In such cases the state has an obligation to see that the best interests of the child and its welfare are served by the decree of adoption.
+Such being the law in this jurisdiction we must hold that the state has a responsibility in cases of this kind. In view of the answer filed by the plaintiff in error denying his abandonment of the minor child, and the findings of the trial court that he “failed without cause to provide reasonable support for the said minor child, at a time prior to the filing of the petition” and “that the interest and welfare of the said minor child will best be served by the granting of the petition” we are of the opinion that a court reporter should have been present to take the testimony.
+We realize that our holding in the instant case is a departure from the ordinary civil procedure, but in view of the interest of the state in the welfare of all minors, and our duty to insure that justice shall be administered in every case within the limits of human frailty, we here announce that in all contested adoption cases the trial court shall provide a court reporter to the end that a reporter’s transcript will be available in the event the case comes to this court.
+We choose not to go to the extent of requiring the presence of the court reporter; however, if the contesting party is absent, and no express waiver given, some provision must be made by the trial court for the retention of verbatim testimony in these cases so it shall be available in the event of an appeal. Because of the impact of In re Luscier, supra, and In re Sego, 82 Wn.2d 736, 513 P.2d 831 (1973), an agreed statement of facts, pursuant to CAROA 34(5), would not be sufficient here when the hearing takes place in the absence of the contesting party and without a waiver.
+Here, petitioner contends there was no verbal testimony before the trial court; the clerk’s minutes reflect only a formal letter sent by petitioner to the trial judge prior to the hearing. The respondents have filed no brief, leaving petitioner’s contention undenied. Cf. Aquarian Foundation v. KTVW, Inc., 11 Wn. App. 476, 523 P.2d 969 (1974).
+Thus, we reverse and remand for new trial.
+McInturff, C.J., and Green, J., concur.
+"If the court in an adoption proceeding, after a hearing for that purpose upon notice thereof as hereinafter provided having been given to a parent, finds any of the conditions set forth in RCW 26.32.040 to be a fact as to the parent, the court may decree that consent of such parent shall not be required prior to adoption.”
+Contrast with review accorded in In re Dobbs, 12 Wn. App. 676, 531 P.2d 303, rev. denied, 85 Wn.2d 1006 (1975).
