@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37581-4-I"
 decided: "1997-02-10"
-citations: ["85 Wash. App. 354", "84 Wash. App. 1103"]
+citations: ["85 Wash. App. 354"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Alaska Pacific Trading Co., Appellant, v. Eagon Forest Products, Inc.
 source_url: "https://static.case.law/wash-app/85/cases/0354-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 277790
-cites_cases: ["120 Wn.2d 1010", "122 Wn.2d 426", "123 Wn.2d 160", "124 Wn.2d 881", "133 Wn.2d 1006", "18 Wn. App. 274", "24 Wn. App. 802", "30 Wn. App. 867", "32 Wn. App. 4", "38 Wn. App. 514", "390 P.2d 548", "396 A.2d 1024", "440 A.2d 1345", "460 N.E.2d 665", "478 N.W.2d 857", "536 F.2d 1167", "567 P.2d 678", "578 P.2d 1292", "604 P.2d 987", "63 Wn. App. 601", "638 P.2d 1267", "64 Wn.2d 1", "645 P.2d 716", "663 F.2d 189", "686 P.2d 1138", "751 F. Supp. 1038", "753 S.W.2d 845", "765 P.2d 1043", "821 P.2d 63", "85 Wn. App. 354", "858 P.2d 503", "866 P.2d 31", "880 F. Supp 1425", "881 P.2d 1010", "90 Wn.2d 19", "97 Wn.2d 1033"]
+cites_cases: ["120 Wn.2d 1010", "122 Wn.2d 426", "123 Wn.2d 160", "124 Wn.2d 881", "133 Wn.2d 1006", "18 Wn. App. 274", "24 Wn. App. 802", "30 Wn. App. 867", "32 Wn. App. 4", "38 Wn. App. 514", "390 P.2d 548", "396 A.2d 1024", "440 A.2d 1345", "460 N.E.2d 665", "478 N.W.2d 857", "536 F.2d 1167", "567 P.2d 678", "578 P.2d 1292", "604 P.2d 987", "63 Wn. App. 601", "638 P.2d 1267", "64 Wn.2d 1", "645 P.2d 716", "663 F.2d 189", "686 P.2d 1138", "751 F. Supp. 1038", "753 S.W.2d 845", "765 P.2d 1043", "821 P.2d 63", "858 P.2d 503", "866 P.2d 31", "880 F. Supp 1425", "881 P.2d 1010", "90 Wn.2d 19", "97 Wn.2d 1033"]
 ---
 
 # Alaska Pacific Trading Co. v. Eagon Forest Products, Inc.
