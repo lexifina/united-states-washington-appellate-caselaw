@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53558-7-I"
 decided: "2005-02-14"
-citations: ["126 Wash. App. 342", "125 Wash. App. 1042"]
+citations: ["126 Wash. App. 342"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Heike Werlinger, Individually and as Parent and Guardian, Appellant, 
 source_url: "https://static.case.law/wash-app/126/cases/0342-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016130
-cites_cases: ["101 Wn. App. 323", "110 Wn.2d 695", "116 Wn. App. 938", "126 Wn. App. 342", "146 Wn.2d 730", "147 Wn.2d 751", "155 Wn.2d 1025", "2 P.3d 1029", "49 P.3d 887", "58 P.3d 276", "60 Wn. App. 504", "658 P.2d 1230", "69 P.3d 881", "756 P.2d 717", "803 P.2d 1339", "98 Wn.2d 708"]
+cites_cases: ["101 Wn. App. 323", "110 Wn.2d 695", "116 Wn. App. 938", "146 Wn.2d 730", "147 Wn.2d 751", "155 Wn.2d 1025", "2 P.3d 1029", "49 P.3d 887", "58 P.3d 276", "60 Wn. App. 504", "658 P.2d 1230", "69 P.3d 881", "756 P.2d 717", "803 P.2d 1339", "98 Wn.2d 708"]
 ---
 
 # Werlinger v. Warner
