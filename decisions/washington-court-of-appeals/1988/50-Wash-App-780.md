@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17774-5-I"
 decided: "1988-01-13"
-citations: ["50 Wash. App. 780", "50 Wash. App. 1032"]
+citations: ["50 Wash. App. 780"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ronald L. Richter, Appellant, v. Donald J. Trimberger, et al, Respond
 source_url: "https://static.case.law/wash-app/50/cases/0780-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1706429
-cites_cases: ["101 Wn.2d 1021", "101 Wn.2d 307", "108 Wn.2d 723", "36 Wn. App. 762", "39 Wn. App. 188", "39 Wn. App. 466", "50 Wn. App. 780", "505 P.2d 790", "651 F. Supp. 307", "677 P.2d 773", "678 P.2d 803", "692 P.2d 867", "694 P.2d 1101", "742 P.2d 1224", "81 Wn.2d 863"]
+cites_cases: ["101 Wn.2d 1021", "101 Wn.2d 307", "108 Wn.2d 723", "36 Wn. App. 762", "39 Wn. App. 188", "39 Wn. App. 466", "505 P.2d 790", "651 F. Supp. 307", "677 P.2d 773", "678 P.2d 803", "692 P.2d 867", "694 P.2d 1101", "742 P.2d 1224", "81 Wn.2d 863"]
 ---
 
 # Richter v. Trimberger
