@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19129-0-III"
 decided: "2002-03-07"
-citations: ["111 Wash. App. 9", "110 Wash. App. 1052"]
+citations: ["111 Wash. App. 9"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Suzanne Marie Wagner, Appellant, and
 source_url: "https://static.case.law/wash-app/111/cases/0009-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1072004
-cites_cases: ["111 Wn. App. 9", "123 Wn.2d 593", "131 Wn.2d 1026", "139 Wn.2d 694", "246 P.2d 1107", "26 Wn. App. 430", "41 Wn.2d 22", "61 Wn. App. 725", "613 P.2d 187", "67 Wn. App. 755", "76 Wn. App. 848", "812 P.2d 488", "84 Wn. App. 498", "840 P.2d 223", "869 P.2d 1024", "888 P.2d 750", "89 Wn. App. 9", "929 P.2d 475", "94 Wn.2d 1014", "964 P.2d 359", "989 P.2d 1120"]
+cites_cases: ["123 Wn.2d 593", "131 Wn.2d 1026", "139 Wn.2d 694", "246 P.2d 1107", "26 Wn. App. 430", "41 Wn.2d 22", "61 Wn. App. 725", "613 P.2d 187", "67 Wn. App. 755", "76 Wn. App. 848", "812 P.2d 488", "84 Wn. App. 498", "840 P.2d 223", "869 P.2d 1024", "888 P.2d 750", "89 Wn. App. 9", "929 P.2d 475", "94 Wn.2d 1014", "964 P.2d 359", "989 P.2d 1120"]
 ---
 
 # In re the Marriage of Wagner
