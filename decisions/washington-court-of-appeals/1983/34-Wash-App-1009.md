@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "4566-4-II"
+decided: "1983-03-02"
+citations: ["34 Wash. App. 1009"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Aberdeen, Respondent, v. Herbert Fovargue, et al, Appellants."]
+source_url: "https://static.case.law/wash-app/34/cases/1009-02.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1817376
+---
+
+# City of Aberdeen v. Fovargue
+
+## Majority
+
+Appeal from a judgment of the Superior Court for Grays Harbor County, No. 70656, John H. Kirkwood, J., entered December 27, 1980. Affirmed by unpublished opinion per Petrie, J., concurred in by Petrich, C.J., and Worswick, J.
