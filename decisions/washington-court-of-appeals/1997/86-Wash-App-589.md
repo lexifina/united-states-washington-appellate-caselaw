@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20282-4-II; 21737-6-II"
 decided: "1997-05-23"
-citations: ["86 Wash. App. 589", "86 Wash. App. 1025"]
+citations: ["86 Wash. App. 589"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Terry Lee Keene, Appellant. I
 source_url: "https://static.case.law/wash-app/86/cases/0589-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278886
-cites_cases: ["10 A.L.R.3d 974", "104 Wn.2d 412", "110 Wn.2d 504", "129 Wn.2d 497", "130 Wn.2d 228", "130 Wn.2d 700", "16 L. Ed. 2d 695", "384 U.S. 436", "426 U.S. 610", "705 P.2d 1182", "755 P.2d 174", "86 Wn. App. 589", "919 P.2d 577", "922 P.2d 1285", "927 P.2d 235"]
+cites_cases: ["10 A.L.R.3d 974", "104 Wn.2d 412", "110 Wn.2d 504", "129 Wn.2d 497", "130 Wn.2d 228", "130 Wn.2d 700", "16 L. Ed. 2d 695", "384 U.S. 436", "426 U.S. 610", "705 P.2d 1182", "755 P.2d 174", "919 P.2d 577", "922 P.2d 1285", "927 P.2d 235"]
 ---
 
 # State v. Keene
