@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17711-7-I"
 decided: "1987-06-08"
-citations: ["48 Wash. App. 279", "48 Wash. App. 1011"]
+citations: ["48 Wash. App. 279"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Emery Frank Harris, Appellant
 source_url: "https://static.case.law/wash-app/48/cases/0279-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1838631
-cites_cases: ["100 Wn.2d 719", "101 Wn.2d 1013", "105 Wn.2d 257", "186 P.2d 634", "29 Wn. App. 701", "29 Wn.2d 182", "336 P.2d 937", "36 Wn. App. 536", "385 U.S. 874", "411 P.2d 419", "422 U.S. 806", "46 Wn. App. 672", "465 U.S. 168", "48 Wn. App. 279", "495 P.2d 351", "51 Cal. 2d 777", "590 P.2d 809", "6 Wn. App. 607", "620 P.2d 994", "630 P.2d 1362", "674 P.2d 171", "676 P.2d 1016", "68 Wn.2d 65", "714 P.2d 303", "731 P.2d 1133", "91 Wn.2d 603", "94 Wn.2d 810", "96 Wn.2d 1024"]
+cites_cases: ["100 Wn.2d 719", "101 Wn.2d 1013", "105 Wn.2d 257", "186 P.2d 634", "29 Wn. App. 701", "29 Wn.2d 182", "336 P.2d 937", "36 Wn. App. 536", "385 U.S. 874", "411 P.2d 419", "422 U.S. 806", "46 Wn. App. 672", "465 U.S. 168", "495 P.2d 351", "51 Cal. 2d 777", "590 P.2d 809", "6 Wn. App. 607", "620 P.2d 994", "630 P.2d 1362", "674 P.2d 171", "676 P.2d 1016", "68 Wn.2d 65", "714 P.2d 303", "731 P.2d 1133", "91 Wn.2d 603", "94 Wn.2d 810", "96 Wn.2d 1024"]
 ---
 
 # State v. Harris
