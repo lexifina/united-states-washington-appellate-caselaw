@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20870-2-III"
 decided: "2003-01-28"
-citations: ["116 Wash. App. 219", "115 Wash. App. 1019"]
+citations: ["116 Wash. App. 219"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Aaron Joseph Cunningham, Appe
 source_url: "https://static.case.law/wash-app/116/cases/0219-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265805
-cites_cases: ["102 Wn.2d 733", "110 Wn. App. 554", "111 Wn.2d 641", "116 Wn. App. 219", "118 Wn.2d 596", "123 Wn.2d 51", "133 Wn.2d 118", "136 Wn.2d 619", "144 Wn.2d 665", "30 P.3d 1245", "384 U.S. 436", "39 P.3d 294", "392 U.S. 1", "42 P.3d 436", "463 U.S. 1121", "468 U.S. 420", "49 Wn. App. 192", "53 Wn. App. 264", "67 Wn. App. 127", "67 Wn. App. 81", "689 P.2d 1065", "72 Wn. App. 603", "742 P.2d 160", "762 P.2d 1127", "766 P.2d 484", "79 Wn. App. 446", "826 P.2d 172", "834 P.2d 26", "834 P.2d 624", "837 P.2d 599", "864 P.2d 1371", "865 P.2d 512", "903 P.2d 999", "942 P.2d 363", "964 P.2d 1187"]
+cites_cases: ["102 Wn.2d 733", "110 Wn. App. 554", "111 Wn.2d 641", "118 Wn.2d 596", "123 Wn.2d 51", "133 Wn.2d 118", "136 Wn.2d 619", "144 Wn.2d 665", "30 P.3d 1245", "384 U.S. 436", "39 P.3d 294", "392 U.S. 1", "42 P.3d 436", "463 U.S. 1121", "468 U.S. 420", "49 Wn. App. 192", "53 Wn. App. 264", "67 Wn. App. 127", "67 Wn. App. 81", "689 P.2d 1065", "72 Wn. App. 603", "742 P.2d 160", "762 P.2d 1127", "766 P.2d 484", "79 Wn. App. 446", "826 P.2d 172", "834 P.2d 26", "834 P.2d 624", "837 P.2d 599", "864 P.2d 1371", "865 P.2d 512", "903 P.2d 999", "942 P.2d 363", "964 P.2d 1187"]
 ---
 
 # State v. Cunningham
