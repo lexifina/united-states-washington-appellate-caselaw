@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30166-1-II"
 decided: "2004-08-17"
-citations: ["124 Wash. App. 65", "122 Wash. App. 1075"]
+citations: ["124 Wash. App. 65"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James P. LeRoy, Individually and as Personal Representative, Appellan
 source_url: "https://static.case.law/wash-app/124/cases/0065-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684049
-cites_cases: ["115 Wn. App. 297", "117 Wn. App. 881", "119 Wn. App. 95", "120 Wn. App. 20", "124 Wn. App. 65", "125 Wn.2d 1", "125 Wn.2d 697", "138 Wn.2d 265", "138 Wn.2d 699", "146 Wn.2d 237", "149 Wn.2d 1035", "150 Wn.2d 905", "151 Wn.2d 1007", "332 P.2d 463", "381 P.2d 620", "44 P.3d 845", "47 Wn. App. 832", "53 Wn.2d 228", "541 U.S. 1087", "62 P.3d 533", "62 Wn.2d 163", "69 Wn. App. 366", "73 P.3d 1019", "737 P.2d 709", "79 P.3d 18", "84 P.3d 245", "84 P.3d 899", "848 P.2d 1298", "882 P.2d 157", "887 P.2d 886", "979 P.2d 400", "985 P.2d 262"]
+cites_cases: ["115 Wn. App. 297", "117 Wn. App. 881", "119 Wn. App. 95", "120 Wn. App. 20", "125 Wn.2d 1", "125 Wn.2d 697", "138 Wn.2d 265", "138 Wn.2d 699", "146 Wn.2d 237", "149 Wn.2d 1035", "150 Wn.2d 905", "151 Wn.2d 1007", "332 P.2d 463", "381 P.2d 620", "44 P.3d 845", "47 Wn. App. 832", "53 Wn.2d 228", "541 U.S. 1087", "62 P.3d 533", "62 Wn.2d 163", "69 Wn. App. 366", "73 P.3d 1019", "737 P.2d 709", "79 P.3d 18", "84 P.3d 245", "84 P.3d 899", "848 P.2d 1298", "882 P.2d 157", "887 P.2d 886", "979 P.2d 400", "985 P.2d 262"]
 ---
 
 # LeRoy v. State
