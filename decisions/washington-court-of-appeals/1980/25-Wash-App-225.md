@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "3124-II"
+decided: "1980-01-22"
+citations: ["25 Wash. App. 225"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Lynn Olson, Individually and as Administratrix, Appellant, v. Roberts & Schaeffer Company, et al, Defendants, Pacific Power & Light Company, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/25/cases/0225-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1845917
+cites_cases: ["10 Wn.2d 511", "117 P.2d 187", "15 Wn. App. 614", "158 F. Supp. 399", "300 P.2d 773", "323 U.S. 574", "339 F.2d 434", "340 U.S. 951", "348 P.2d 218", "478 F.2d 520", "49 Wn.2d 284", "498 P.2d 336", "55 Wn.2d 462", "550 P.2d 709", "559 F.2d 1102", "7 Wn. App. 134", "71 S. Ct. 570", "93 F. Supp. 164", "95 L. Ed. 685"]
+---
+
+# Olson v. Roberts & Schaeffer Co.
+
+## Majority (Reed, C.J.)
+
+Reed, C.J.
+On October 6, 1973, Raymond H. Olson was killed when the coal crushing machine he was repairing was accidentally energized. On September 17, 1976, plaintiff, Olson's widow and executrix of his estate, filed the instant wrongful death action.
+In her original complaint plaintiff alleged:
+That the Defendants Pacific Power & Light Company and Washington Water Power Company are the owners of the coal processing plant where the decedent, Raymond H. Olson, was killed on October 6, 1973. That as owners they have certain statutory responsibilities and obligations towards those who are anticipated as users of the premises.
+Defendant Washington Water Power Company answered and moved for an order of dismissal and/or summary judgment on the ground that it was not the owner of the plant at which Mr. Olson was killed, plaintiff's complaint failed to state a claim on which relief could be granted. On August 17, 1977, plaintiff moved for permission to amend her complaint to state:
+[TJhat Washington Water Power was involved with the design and construction of the coal processing plant. . . wherein decedent, Raymond H. Olson, was killed on October 6, 1973. That as the result of said involvement, the safety features of the design and construction of said plant were inadequate, which resulted in the death of Raymond H. Olson.
+The trial court denied plaintiffs motion for trial amendment and granted Washington Water Power's motions for dismissal and summary judgment. Plaintiff has appealed from the order denying her motion to amend and from the order dismissing her action for failure to state a claim on which relief can be granted. We reverse.
+At the time plaintiff made her motion to amend, the statute of limitation applicable to wrongful death actions had run. Thus, if plaintiff's amendment is to have any effect it must relate back to the date of her original pleadings. In arguing against plaintiff's motion, defendant has cited Hill v. Withers, 55 Wn.2d 462, 348 P.2d 218 (1960); Ennis v. Ring, 49 Wn.2d 284, 300 P.2d 773 (1956); Gilmour v. Longmire, 10 Wn.2d 511, 117 P.2d 187 (1941); cases holding that an amendment will not relate back if it changes the theory of the pleadings or adds a cause of action. These cases, although correct at the time the opinions were issued, no longer represent this state's rule on the relation back of amendments.
+The current rule is set forth in CR 15. CR 15(a) provides that after a responsive pleading has been filed, the plaintiff may amend his complaint only by leave of court, which shall be freely given, when justice so requires, or with the written consent of the adverse party. CR 15(c) provides that whenever the claim asserted in the amended pleadings arises out of the conduct, transaction or occurrence set forth in the original pleading, the amendment shall relate back to the date of the original pleading. The case law interpreting CR 15 provides that the rule should be liberally construed and that amendments should be allowed when the opposing party will be put to no disadvantage by the amendment. Lind v. Frick, 15 Wn. App. 614, 550 P.2d 709 (1976); Grant v. Morris, 7 Wn. App. 134, 498 P.2d 336 (1972).
+Applying the conduct, transaction or occurrence test set forth in CR 15(c), the federal courts have allowed amendments (1) adding additional grounds of negligence, Wall v. Chesapeake & Ohio Ry., 339 F.2d 434 (4th Cir. 1964); Tiller v. Atlantic Coast Line R.R., 323 U.S. 574, 89 L. Ed. 465, 65 S. Ct. 421 (1945); (2) changing the theory of the action from one based on contract to one sounding in tort; Nola Elec. Co. v. Reilly, 93 F. Supp. 164 (S.D.N.Y. 1948), cert. denied, 340 U.S. 951, 95 L. Ed. 685, 71 S. Ct. 570 (1951); (3) alleging that a defendant was liable not as a manufacturer but as a retailer; Fleming v. John Deere Plow Co., 158 F. Supp. 399 (W.D. Pa. 1958). Amendments stating new causes of action have not been allowed where the amendment involved an unrelated event occurring at a different time. See Barnes v. Callaghan & Co., 559 F.2d 1102 (7th Cir. 1977); Rosenberg v. Martin, 478 F.2d 520 (2d Cir. 1973).
+In this case plaintiff's original complaint is based on the accidental (wrongful) death of Raymond H. Olson on October 6, 1973, at a named coal crushing plant. Plaintiff's proposed amendment, though unartful, does appear to allege negligence by Washington Water Power in the "design and construction" of the plant. As plaintiff's amended complaint involves the same occurrence and defendant has not shown that it would have been prejudiced by the amendment, it was an abuse of discretion for the trial court to deny plaintiff's motion to amend. As was true in Tiller v. Atlantic Coast Line R.R., supra:
+Both of them [complaints] related to the same general conduct, transaction and occurrence which involved the death of the deceased. There was therefore no departure. The cause of action now, as it was in the beginning, is the same — it is a suit to recover damages for the alleged wrongful death of the deceased. "The effect of the amendment here was to facilitate a fair trial of the existing issues between plaintiff and defendant." There is no reason to apply a statute of limitations when, as here, the respondent has had notice from the beginning that petitioner was trying to enforce a claim against it because of the events leading up to the death of the deceased in the respondent's yard.
+(Footnote and citations omitted.) Tiller v. Atlantic Coast Line R.R., supra at 581.
+Because the trial court should have allowed plaintiff to amend her complaint, the order granting defendant's motions for dismissal and summary judgment cannot stand. Defendant's motions were directed not to plaintiff's amended complaint but to her original complaint. It does not appear from the record that the judge considered the challenges as being made to the complaint if and as amended. If defendant believes that it is entitled to an order of dismissal or summary judgment on the amended complaint, it must make its motions anew and plaintiff must be given an opportunity to respond to such motions. The trial court's orders are therefore reversed and the case is remanded for further action consistent with this opinion.
+Petrie and Soule, JJ., concur.
+Reconsideration denied February 14, 1980.
+Review denied by Supreme Court April 24,1980.
+The plant is in fact owned by Washington Irrigation & Development Company (WIDCO). Washington Water Power Company is the sole stockholder of WIDCO;
