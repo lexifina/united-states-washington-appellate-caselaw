@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20206-9-II"
 decided: "1998-02-06"
-citations: ["90 Wash. App. 297", "89 Wash. App. 1008"]
+citations: ["90 Wash. App. 297"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Lindsey L. Crumpton, Appellan
 source_url: "https://static.case.law/wash-app/90/cases/0297-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428778
-cites_cases: ["114 Wn.2d 485", "118 Wn.2d 876", "120 Wn.2d 365", "125 Wn.2d 173", "130 Wn.2d 1018", "132 Wn.2d 1004", "136 Wn.2d 1016", "520 U.S. 518", "576 P.2d 44", "634 P.2d 868", "789 P.2d 731", "82 Wn. App. 1015", "828 P.2d 1086", "842 P.2d 470", "85 Wn. App. 87", "883 P.2d 303", "89 Wn.2d 788", "90 Wn. App. 297", "931 P.2d 174", "96 Wn.2d 215"]
+cites_cases: ["114 Wn.2d 485", "118 Wn.2d 876", "120 Wn.2d 365", "125 Wn.2d 173", "130 Wn.2d 1018", "132 Wn.2d 1004", "136 Wn.2d 1016", "520 U.S. 518", "576 P.2d 44", "634 P.2d 868", "789 P.2d 731", "82 Wn. App. 1015", "828 P.2d 1086", "842 P.2d 470", "85 Wn. App. 87", "883 P.2d 303", "89 Wn.2d 788", "931 P.2d 174", "96 Wn.2d 215"]
 ---
 
 # State v. Crumpton
