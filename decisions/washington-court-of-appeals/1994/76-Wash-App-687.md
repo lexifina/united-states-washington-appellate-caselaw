@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32915-4-I"
 decided: "1994-11-21"
-citations: ["76 Wash. App. 687", "76 Wash. App. 1024"]
+citations: ["76 Wash. App. 687"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Melvin G. Corley, et al, Respondents, v. The Hertz Corporation, et al
 source_url: "https://static.case.law/wash-app/76/cases/0687-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490345
-cites_cases: ["117 Wn.2d 37", "117 Wn.2d 558", "120 Wn.2d 416", "121 Wn.2d 243", "128 Wn.2d 1007", "17 Wn. App. 477", "41 Wn. App. 49", "416 P.2d 680", "563 P.2d 1314", "586 P.2d 830", "63 Wn. App. 187", "67 Wn. App. 539", "68 Wn. App. 191", "69 Wn.2d 37", "702 P.2d 1214", "76 Wn. App. 687", "811 P.2d 673", "816 P.2d 1278", "817 P.2d 841", "837 P.2d 631", "841 P.2d 1244", "841 P.2d 1313", "850 P.2d 1298", "90 Wn.2d 680"]
+cites_cases: ["117 Wn.2d 37", "117 Wn.2d 558", "120 Wn.2d 416", "121 Wn.2d 243", "128 Wn.2d 1007", "17 Wn. App. 477", "41 Wn. App. 49", "416 P.2d 680", "563 P.2d 1314", "586 P.2d 830", "63 Wn. App. 187", "67 Wn. App. 539", "68 Wn. App. 191", "69 Wn.2d 37", "702 P.2d 1214", "811 P.2d 673", "816 P.2d 1278", "817 P.2d 841", "837 P.2d 631", "841 P.2d 1244", "841 P.2d 1313", "850 P.2d 1298", "90 Wn.2d 680"]
 ---
 
 # Corley v. Hertz Corp.
