@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26491-5-I"
 decided: "1991-12-18"
-citations: ["63 Wash. App. 917", "63 Wash. App. 1030"]
+citations: ["63 Wash. App. 917"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kevin Robert Michelsen, et al, Appellants, v. The Boeing Company, Res
 source_url: "https://static.case.law/wash-app/63/cases/0917-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1732825
-cites_cases: ["104 Wn.2d 627", "106 Wn.2d 1", "110 Wn.2d 355", "110 Wn.2d 912", "111 S. Ct. 53", "111 Wn.2d 903", "112 L. Ed. 2d 28", "112 Wn.2d 127", "114 Wn.2d 1023", "48 Wn. App. 511", "56 Wn. App. 349", "56 Wn. App. 625", "57 Wn. App. 682", "63 Wn. App. 917", "708 P.2d 393", "721 P.2d 1", "739 P.2d 737", "753 P.2d 517", "757 P.2d 507", "766 P.2d 1099", "769 P.2d 298", "783 P.2d 611", "784 P.2d 1288", "789 P.2d 763", "889 F.2d 869"]
+cites_cases: ["104 Wn.2d 627", "106 Wn.2d 1", "110 Wn.2d 355", "110 Wn.2d 912", "111 S. Ct. 53", "111 Wn.2d 903", "112 L. Ed. 2d 28", "112 Wn.2d 127", "114 Wn.2d 1023", "48 Wn. App. 511", "56 Wn. App. 349", "56 Wn. App. 625", "57 Wn. App. 682", "708 P.2d 393", "721 P.2d 1", "739 P.2d 737", "753 P.2d 517", "757 P.2d 507", "766 P.2d 1099", "769 P.2d 298", "783 P.2d 611", "784 P.2d 1288", "789 P.2d 763", "889 F.2d 869"]
 ---
 
 # Michelsen v. Boeing Co.
