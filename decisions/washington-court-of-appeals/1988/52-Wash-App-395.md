@@ -1,0 +1,53 @@
+---
+court: "Washington Court of Appeals"
+docket: "19935-8-I"
+decided: "1988-09-12"
+citations: ["52 Wash. App. 395"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Williams and Winsor, JJ., concur."]
+parties: ["Michael R. Haney, et al, Appellants, v. State Farm Insurance Company, Respondent."]
+source_url: "https://static.case.law/wash-app/52/cases/0395-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1708592
+cites_cases: ["105 Wn.2d 244", "107 Wn.2d 836", "197 F.2d 97", "42 Wn. App. 503", "43 Wn. App. 852", "467 A.2d 254", "517 P.2d 966", "545 P.2d 1193", "711 P.2d 1105", "713 P.2d 733", "719 P.2d 1345", "734 P.2d 17", "83 Wn.2d 353", "86 Wn.2d 432"]
+---
+
+# Haney v. State Farm Insurance
+
+## Majority (Schumacher, J.)
+
+Schumacher, J.
+Michael Haney and Jacqueline Nissen-Haney appeal from the trial court's order of dismissal granting State Farm's motion for summary judgment. We affirm in part and reverse in part.
+Michael Haney and his wife, Jacqueline Nissen-Haney, were seriously injured when their automobile, a 1970 Maverick, was struck by an underinsured driver. They also owned another vehicle, a 1979 Ford pickup, and both vehicles were insured by State Farm under separate policies. The insurance policy covering the Maverick contained underinsured motorist (UIM) limits of $100,000 per person and $300,000 per accident. State Farm has paid Mr. Haney and Mrs. Nissen-Haney each $100,000, representing the per person UIM limits.
+Appellants filed a declaratory judgment in Snohomish County on July 31, 1986, alleging that they were entitled to the $300,000 per accident limit of their UIM policy. The trial court dismissed their action on summary judgment, finding
+[t]hat the limits of liability under Coverage U (underinsured motorist coverage) of defendant's automobile policy number 1693-916-F06-47C issued to plaintiff Jacqueline Nissen-Haney have been paid to the plaintiffs by State Farm[.]
+The trial court also found that appellants could not stack their automobile policies to provide additional UIM coverage. This appeal timely ensued.
+We first address whether appellants are entitled to recover their damages up to the per accident limit of their UIM policy. Respondent claims appellants may only recover up to the per person limits of the policy. Appellants allege their damages exceed the $100,000 limit each has thus far recovered under the applicable UIM per person provision. The relevant policy language provides:
+Limits of Liability
+1. The amount of coverage is shown on the declarations page under "Limits of Liability—U—Each Person, Each Accident". Under "Each Person" is the amount of coverage for all damages due to bodily injury to one person. Under "Each Accident" is the total amount of coverage for all damages due to bodily injury to two or more persons in the same accident.
+The policy declarations page provides that under coverage U the limits of liability for each person are $100,000 and for each accident $300,000.
+The liability limits provision contains an inherent contradiction: the per person limit is $100,000, but the per accident limit is $300,000 for damages to "two or more persons". There is no language making the per accident limit subject to the per person limit. The existing language in the two clauses cannot be reconciled. The per accident limit directly implies that two people injured in one accident may recover up to $300,000 while the per person limit says each person is limited to $100,000. Indeed, at oral argument respondent conceded that the use of the word "two" in the per accident limit was an error.
+The law regarding the construction of insurance contracts is well established.
+Policy language is to be interpreted in accordance with the way it would be understood by the average man. Dairyland Ins. Co. v. Ward, 83 Wn.2d 353, 358, 517 P.2d 966 (1974). A clause in a policy is ambiguous when, on its face, it is fairly susceptible to two different interpretations, both of which are reasonable. Morgan v. Prudential Ins. Co. of Am., 86 Wn.2d 432, 435, 545 P.2d 1193 (1976). Furthermore, if any clause is ambiguous the court must apply a construction that is most favorable to the insured, even though the insurer may have intended another meaning.
+Vadheim v. Continental Ins. Co., 107 Wn.2d 836, 840-41, 734 P.2d 17 (1987). It is true that members of the legal profession, the insurance industry, and others familiar with the structure and operation of insurance contracts are generally aware that the per accident limits of the typical insurance contract are intended to operate subject to the per person limits. The question before this court, however, is not what people subjectively know about such clauses; the question is what the average reasonable insured would know from reading the clauses at issue in this policy. Dairyland Ins. Co. v. Ward, 83 Wn.2d 353, 358, 517 P.2d 966 (1974). The reasonable interpretations of the per person and per accident clauses in appellants' policy are inconsistent with each other, and thus the liability limits provision is ambiguous. Vadheim, at 841. The court must enforce the interpretation most favorable to the insured, in this case the per accident limits of $300,000. Vadheim, at 841; accord, Andrews v. Nationwide Mut. Ins. Co., 467 A.2d 254, 258 (N.H. 1983). In the Andrews case, multiple insureds were injured by an uninsured motorist. The court applied per occurrence limits of $300,000, not per person limits of $100,000, to the injured insureds' claim because the policy did not make per occurrence limits subject to per person limits. The court noted that a reasonable insured could conclude that "[i]f $300,000 is the limit when two persons sustain damages, then this appears to indicate that one person may be able to recover more than $100,000 in a case where two or more persons are injured in the same accident." Andrews, at 258.
+Respondent points out that under Washington case law, where multiple insureds are injured by an uninsured motorist, courts have cited principles of contract construction and sound public policy reasons to limit individual insureds to recovery of per person, not per accident, limits. Allstate Ins. Co. v. Ostenson, 105 Wn.2d 244, 247-48, 713 P.2d 733 (1986), citing with approval Standard Acc. Ins. Co. v. Winget, 197 F.2d 97, 104 (9th Cir. 1952) (per person limits facilitate insurance company determination of liability and settlement with multiple injured insureds). The reasoning in these cases, however hinges upon enforcing plain, unambiguous policy clauses that expressly make the per accident policy limits subject to the per person limits. Winget, at 104 n.2; Ostenson, at 247-48.
+In the instant case, however, the policy does not make the per accident limits subject to the per person limits. The policy limits provision is thus patently ambiguous, and must be construed in the insured's favor. Vadheim, at 840-41. We therefore reverse the trial court's finding that appellants were only entitled to per person limits.
+We next address whether appellants are entitled to stack the UIM policies on their household vehicles.
+The appellants owned two vehicles insured under separate State Farm policies and seek to stack the coverages, i.e., apply the UIM coverage provided on their 1979 truck to the damages sustained in the 1970 Maverick.
+The policy covering the 1979 truck contains an exclusion that prevents stacking.
+When Coverage U Does Not Apply
+There is no coverage:
+2. For bodily injury to an insured while operating or occupying:
+(b) A motor vehicle owned or available for the regular use of you, your spouse our any relative.
+If it is not insured under the liability coverage of this policy.
+Such exclusions are permitted by the UIM statute, which provides for mandatory UIM coverage
+except while operating or occupying a motor vehicle owned or available for the regular use by the named insured or any family member, and which is not insured under the liability coverage of the policy. . . .
+RCW 48.22.030(2). The 1970 Maverick was owned by appellants, and there is no contention it was not "available for the regular use” of either spouse. The Maverick was not insured under the policy covering the 1979 truck. Thus, it comes within the scope of this exclusion. Anderson v. American Economy Ins. Co., 43 Wn. App. 852, 856, 719 P.2d 1345 (1986). This exclusion is neither ambiguous nor in violation of public policy and is thus enforceable. Brown v. United Pac. Ins. Co., 42 Wn. App. 503, 506-07, 711 P.2d 1105 (1986).
+Appellant seeks to distinguish the Anderson and Brown cases. In both of those cases, the insureds were injured in one car and sought to invoke the coverage provided by a UIM policy on another family auto. In both of those cases the UIM policy on the nonaccident vehicle was provided by a different insurance company from that providing UIM coverage on the accident vehicle. Anderson, at 853; Brown, at 504-05. In the instant case, however, the insured bought separate policies from, and paid separate premiums to, the same company. This is a distinction without a difference.
+One rationale behind the stacking rule created by the "available for the regular use" exclusion is "to prevent an insured from receiving coverage on another household car by merely purchasing a single policy, but to provide coverage to the insured for infrequent use of nonowned vehicles." Brown, at 507. This rationale is sufficient to deny coverage where the insured seeks to invoke the policy covering another household vehicle not involved in the accident and issued by a different insurer. Anderson, at 859; Brown, at 507. This rationale is sufficient to deny coverage where the insured seeks to invoke the policy covering another household vehicle not involved in the accident and issued by a different insurer. Anderson, at 859; Brown, at 507. It applies with equal force where the separate policy is provided by the same insurer. For that reason, the trial court did not err in concluding that appellants' UIM coverage on the 1979 truck did not apply to the damages they incurred in the 1970 Maverick.
+For the reasons stated in this opinion, we affirm the trial court's order preventing appellants from stacking their UIM policies and reverse that portion of the trial court's order denying appellants' claim for the per accident limit of their UIM policy.
+Williams and Winsor, JJ., concur.
+Review denied by Supreme Court January 10, 1989.
+Judge John W. Schumacher is serving as a judge pro tempore of the Court of Appeals pursuant to RCW 2.06.150.
