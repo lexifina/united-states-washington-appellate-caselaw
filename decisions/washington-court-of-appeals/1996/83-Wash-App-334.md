@@ -1,0 +1,38 @@
+---
+court: "Washington Court of Appeals"
+docket: "35249-1-I"
+decided: "1996-08-26"
+citations: ["83 Wash. App. 334"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Marianne Rinks, Individually and as Personal Representative, et al., Respondents, v. Bernard Bearss, Defendant, Person & Person, Inc., et al., Appellants."]
+source_url: "https://static.case.law/wash-app/83/cases/0334-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1190399
+cites_cases: ["108 Wn.2d 220", "113 Wn.2d 479", "127 Wn.2d 31", "737 P.2d 661", "780 P.2d 1307", "80 Wn. App. 862", "896 P.2d 1245", "912 P.2d 1044"]
+---
+
+# Rinks v. Bearss
+
+## Majority (Baker, C.J.)
+
+Baker, C.J.
+Keith Uddenberg, Inc. (KUI) and Person & Person, Inc. (PPI) appeal a judgment finding them liable for proximately causing the death of Riley Rinks and injuries to Marianne Rinks. KUI sold beer to a minor, Covert, who gave it to another minor, Bearss. Bearss drove while intoxicated and collided with the Rinks’s van. KUI argues that the duty of care of a commercial vendor of alcohol does not extend to persons injured by a minor other than the minor who purchased the alcohol. Because it was foreseeable that Covert would share his large amount of beer with another minor who would then drive while intoxicated, and finding no error in the appellants’ remaining arguments or in the Rinks’s cross appeal, we affirm.
+FACTS
+Twenty-year-old Bernard Bearss was driving with a .16 blood alcohol content one morning on a two lane road. He crossed the center line and drove head on into a van driven by Marianne Rinks. Rinks survived her serious injuries but her husband died soon after he was airlifted to the hospital. Both vehicles were traveling at or below the speed limit at the time of the crash, and Rinks’s van was on its proper side of the road. Rinks individually and on behalf of her husband’s estate sued Bearss, several individuals who provided him beer, the bowling alley where Bearss was served beer (PPI), others who allowed him to drink alcohol in premises under their control, and the grocery store where another underaged person bought beer that was later drunk by Bearss (KUI).
+Testimony showed that Bearss began drinking at PPI’s bowling alley, Person Lanes, in the early evening. He ate a meal with another underaged companion, Chris White, and they shared two or three pitchers of beer. PPI did not ask them for proof of age. After bowling, Bearss went to White’s home and may have drunk beer furnished by White. The boys and some friends then brought beer to a party, where they continued to drink. When they ran out of beer late that night, they collected money and left to buy more. Another friend, Powell, arranged to have an underaged relative, Covert, buy the beer because he looked older and had successfully purchased beer before. Covert bought approximately twenty four beers at Stockmarket Foods, owned by KUI, while Bearss and Powell waited outside. They returned to the party, and Bearss may have consumed more beer there. When others eventually asked them to leave, they left with the beer and continued drinking. Powell eventually drove Bearss back to White’s house, and left him asleep in his truck with the keys under the seat. Bearss awoke the next morning, found his keys, and drove a short distance to the site of the accident.
+DUTY OF CARE OWED BY A COMMERCIAL VENDOR OF ALCOHOLIC BEVERAGES
+KUI argues that it was not liable as a matter of law because the sale of alcohol to one minor does not expose a retailer to liability for injuries caused by another minor who drinks the alcohol. It contends that exceptions to the common law rule against tort liability for commercial vendors of alcohol do not extend to such a situation because the harm was unforeseeable as a matter of law, or alternatively, because there is no legal causation under a proximate cause analysis.
+Since the 1955 repeal of the Dramshop Act in this state, there has been no tort liability for commercial vendors of alcohol for injuries sustained or caused by purchasers who become intoxicated, with two important common law exceptions: (1) injuries to third parties caused by furnishing liquor to a person who is obviously intoxicated, and (2) injuries sustained or caused by a minor who is provided with liquor. A third exception may exist where the imbiber has a special relationship to the furnisher. The Supreme Court has been reluctant to adopt further exceptions.
+KUI contends that its liability in this case is an impermissible extension of the common law exception for the protection of minors and persons injured by them. It reasons that past cases finding liability have concerned only the acts or injuries of the minors who actually purchased the alcohol. After KUI filed its briefs, Division Two of this court decided Schooley v. Pinch’s Deli Market, Inc. In that case, a teenager purchased a large quantity of beer and shared it with other underaged friends. One of the friends became intoxicated and was seriously injured when she dived into the shallow end of a swimming pool. The court reversed a summary judgment for the store, holding that the protected class to which vendors owe a duty of care is not limited to the actual purchaser. Rather, the court held that foreseeability is the touchstone by which to measure the extent of that duty. If a trier of fact could reasonably find it foreseeable that the negligent sale of alcohol to a minor risks exposing other minors to injury, then it may hold the vendor liable for injuries proximately caused by the sale. While it is true that the Schooleycourt did not decide whether the duty of care extends to innocent motorists or pedestrians using the public streets and highways, we see no logical or principled basis for excluding them from the protected class. If the injuries were foreseeable at the time of the negligent sale of alcohol to a minor, legal redress should be allowed.
+Foreseeability is a question of fact to be decided by the jury, but it may be determined as a matter of law where reasonable minds cannot differ. KUI contends that because there was no reason for Stockmarket Foods to believe that Covert might provide the beer to another minor, reasonable minds could not agree that the Rinks’s injuries were foreseeable. Foreseeability is established where the harm is "reasonably perceived as being within the general field of danger covered by the specific duty owed by the defendant.” Here, as in Schooley, the store sold a large quantity of beer to a minor. The sale was late at night and involved only beer. A jury could reasonably conclude that the seller should have foreseen that such a large amount of beer would be shared with other minors, and that intoxicated minors might attempt to drive, injuring third persons. We hold that the trial court properly found that the injuries were not unforeseeable as a matter of law.
+Because the remainder of this opinion has no preceden-tial value, it will not be published.
+Coleman and Ellington, JJ., concur.
+In re Estate of Kelly v. Falin, 127 Wn.2d 31, 36-37, 896 P.2d 1245 (1995).
+Christen v. Lee, 113 Wn.2d 479, 494, 780 P.2d 1307 (1989).
+Christen, 113 Wn.2d at 494.
+See Purchase v. Meyer, 108 Wn.2d 220, 228, 737 P.2d 661 (1987) (holding that the duty imposed by the statute prohibiting the sale of alcohol to minors extends not only to the minor but also to members of the general public injured by him).
+80 Wn. App. 862, 872-73, 912 P.2d 1044 (1996).
+Schooley, 80 Wn. App. at 868 n.15.
+Christen, 113 Wn.2d at 492.
