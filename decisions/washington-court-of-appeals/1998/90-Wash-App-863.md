@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39901-2-I"
 decided: "1998-03-23"
-citations: ["90 Wash. App. 863", "89 Wash. App. 1066"]
+citations: ["90 Wash. App. 863"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Vernon D. Clausing, D.O., Appellant, v. The State of Washington, et a
 source_url: "https://static.case.law/wash-app/90/cases/0863-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428614
-cites_cases: ["110 Wn.2d 308", "111 Wn.2d 91", "125 Wn.2d 305", "133 Wn.2d 1028", "136 Wn.2d 1020", "319 P.2d 824", "37 Wn. App. 199", "382 P.2d 639", "390 U.S. 544", "411 P.2d 138", "421 U.S. 35", "448 N.W.2d 321", "45 Wn. App. 623", "45 Wn. App. 672", "456 P.2d 322", "52 Wn.2d 8", "552 P.2d 175", "568 P.2d 783", "61 Wn. App. 888", "62 Wn.2d 319", "646 P.2d 113", "646 P.2d 129", "658 P.2d 1219", "663 P.2d 457", "679 P.2d 403", "68 Wn.2d 16", "726 P.2d 1024", "726 P.2d 474", "752 P.2d 372", "758 P.2d 480", "76 Wn. App. 666", "76 Wn.2d 313", "812 P.2d 527", "87 Wn. App. 131", "87 Wn. App. 715", "87 Wn.2d 348", "884 P.2d 920", "887 P.2d 411", "89 Wn.2d 16", "90 Wn. App. 863", "940 P.2d 698", "943 P.2d 337", "950 P.2d 478", "97 Wn.2d 317", "97 Wn.2d 481", "98 Wn.2d 650", "99 Wn.2d 466"]
+cites_cases: ["110 Wn.2d 308", "111 Wn.2d 91", "125 Wn.2d 305", "133 Wn.2d 1028", "136 Wn.2d 1020", "319 P.2d 824", "37 Wn. App. 199", "382 P.2d 639", "390 U.S. 544", "411 P.2d 138", "421 U.S. 35", "448 N.W.2d 321", "45 Wn. App. 623", "45 Wn. App. 672", "456 P.2d 322", "52 Wn.2d 8", "552 P.2d 175", "568 P.2d 783", "61 Wn. App. 888", "62 Wn.2d 319", "646 P.2d 113", "646 P.2d 129", "658 P.2d 1219", "663 P.2d 457", "679 P.2d 403", "68 Wn.2d 16", "726 P.2d 1024", "726 P.2d 474", "752 P.2d 372", "758 P.2d 480", "76 Wn. App. 666", "76 Wn.2d 313", "812 P.2d 527", "87 Wn. App. 131", "87 Wn. App. 715", "87 Wn.2d 348", "884 P.2d 920", "887 P.2d 411", "89 Wn.2d 16", "940 P.2d 698", "943 P.2d 337", "950 P.2d 478", "97 Wn.2d 317", "97 Wn.2d 481", "98 Wn.2d 650", "99 Wn.2d 466"]
 ---
 
 # Clausing v. State
