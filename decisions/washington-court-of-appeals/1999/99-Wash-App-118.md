@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17961-3-III"
 decided: "1999-12-16"
-citations: ["99 Wash. App. 118", "98 Wash. App. 1030"]
+citations: ["99 Wash. App. 118"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jeffrey M. Norton, Respondent, v. Loyal W. Brown, et al., Appellants.
 source_url: "https://static.case.law/wash-app/99/cases/0118-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181354
-cites_cases: ["104 Wn.2d 142", "113 Wn.2d 1028", "138 Wn.2d 595", "167 N.E.2d 799", "26 Ill. App. 2d 102", "349 P.2d 1073", "432 F.2d 689", "438 P.2d 581", "46 Wn. App. 616", "50 Wn. App. 309", "55 Wn. App. 157", "55 Wn.2d 718", "599 P.2d 1289", "70 A.L.R.4th 1021", "702 P.2d 1179", "73 Wn.2d 348", "731 P.2d 1094", "748 P.2d 241", "776 P.2d 991", "92 Wn.2d 576", "980 P.2d 1257", "99 Wn. App. 118"]
+cites_cases: ["104 Wn.2d 142", "113 Wn.2d 1028", "138 Wn.2d 595", "167 N.E.2d 799", "26 Ill. App. 2d 102", "349 P.2d 1073", "432 F.2d 689", "438 P.2d 581", "46 Wn. App. 616", "50 Wn. App. 309", "55 Wn. App. 157", "55 Wn.2d 718", "599 P.2d 1289", "70 A.L.R.4th 1021", "702 P.2d 1179", "73 Wn.2d 348", "731 P.2d 1094", "748 P.2d 241", "776 P.2d 991", "92 Wn.2d 576", "980 P.2d 1257"]
 ---
 
 # Norton v. Brown
