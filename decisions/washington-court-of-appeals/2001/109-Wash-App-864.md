@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46154-1-I"
 decided: "2001-12-24"
-citations: ["109 Wash. App. 864", "109 Wash. App. 1057"]
+citations: ["109 Wash. App. 864"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Bellingham, Respondent, v. Erick B. Struthers, Petitioner
 source_url: "https://static.case.law/wash-app/109/cases/0864-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1014067
-cites_cases: ["109 Wn. App. 864", "109 Wn.2d 484", "119 Wn.2d 192", "125 Wn.2d 782", "126 Wn.2d 324", "19 Wn. App. 200", "29 Wn. App. 218", "567 P.2d 1136", "574 P.2d 741", "60 Wn. App. 184", "627 P.2d 1339", "745 P.2d 854", "803 P.2d 17", "829 P.2d 1068", "88 Wn.2d 899", "888 P.2d 1177", "892 P.2d 1082"]
+cites_cases: ["109 Wn.2d 484", "119 Wn.2d 192", "125 Wn.2d 782", "126 Wn.2d 324", "19 Wn. App. 200", "29 Wn. App. 218", "567 P.2d 1136", "574 P.2d 741", "60 Wn. App. 184", "627 P.2d 1339", "745 P.2d 854", "803 P.2d 17", "829 P.2d 1068", "88 Wn.2d 899", "888 P.2d 1177", "892 P.2d 1082"]
 ---
 
 # City of Bellingham v. Struthers
