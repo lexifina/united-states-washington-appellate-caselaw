@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18995-6-I"
 decided: "1988-03-14"
-citations: ["51 Wash. App. 615", "50 Wash. App. 1064"]
+citations: ["51 Wash. App. 615"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Loveless J. Gooden, Appellant
 source_url: "https://static.case.law/wash-app/51/cases/0615-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591654
-cites_cases: ["101 Wn.2d 349", "101 Wn.2d 566", "105 Wn.2d 1003", "109 Wn.2d 1003", "115 Cal. App. 3d 227", "171 Cal. Rptr. 212", "39 Wn. App. 652", "41 Wn. App. 820", "42 Wn. App. 412", "48 Wn. App. 245", "51 Wn. App. 615", "675 F.2d 894", "678 P.2d 332", "683 P.2d 173", "694 P.2d 1117", "706 P.2d 1091", "711 P.2d 379", "738 P.2d 684"]
+cites_cases: ["101 Wn.2d 349", "101 Wn.2d 566", "105 Wn.2d 1003", "109 Wn.2d 1003", "115 Cal. App. 3d 227", "171 Cal. Rptr. 212", "39 Wn. App. 652", "41 Wn. App. 820", "42 Wn. App. 412", "48 Wn. App. 245", "675 F.2d 894", "678 P.2d 332", "683 P.2d 173", "694 P.2d 1117", "706 P.2d 1091", "711 P.2d 379", "738 P.2d 684"]
 ---
 
 # State v. Gooden
