@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43344-0-I"
 decided: "2000-01-18"
-citations: ["100 Wash. App. 318", "98 Wash. App. 1063"]
+citations: ["100 Wash. App. 318"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Kevin C. Leatherman, Appellan
 source_url: "https://static.case.law/wash-app/100/cases/0318-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363202
-cites_cases: ["100 Wn. App. 318", "101 Wn.2d 259", "106 Wn.2d 54", "106 Wn.2d 868", "111 Wn.2d 22", "113 Wn.2d 213", "115 Wn.2d 171", "117 Wn.2d 720", "118 Wn.2d 826", "122 Wn.2d 109", "127 Wn.2d 807", "133 Wn.2d 1021", "564 P.2d 323", "676 P.2d 996", "720 P.2d 808", "725 P.2d 994", "759 P.2d 366", "777 P.2d 1046", "78 A.L.R.4th 1115", "795 P.2d 693", "818 P.2d 1062", "827 P.2d 1374", "84 Wn. App. 166", "857 P.2d 270", "88 Wn.2d 546", "903 P.2d 979", "926 P.2d 344"]
+cites_cases: ["101 Wn.2d 259", "106 Wn.2d 54", "106 Wn.2d 868", "111 Wn.2d 22", "113 Wn.2d 213", "115 Wn.2d 171", "117 Wn.2d 720", "118 Wn.2d 826", "122 Wn.2d 109", "127 Wn.2d 807", "133 Wn.2d 1021", "564 P.2d 323", "676 P.2d 996", "720 P.2d 808", "725 P.2d 994", "759 P.2d 366", "777 P.2d 1046", "78 A.L.R.4th 1115", "795 P.2d 693", "818 P.2d 1062", "827 P.2d 1374", "84 Wn. App. 166", "857 P.2d 270", "88 Wn.2d 546", "903 P.2d 979", "926 P.2d 344"]
 ---
 
 # State v. Leatherman
