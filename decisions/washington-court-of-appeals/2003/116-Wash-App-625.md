@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26347-5-II"
 decided: "2003-03-18"
-citations: ["116 Wash. App. 625", "116 Wash. App. 1016"]
+citations: ["116 Wash. App. 625"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Evelyne Grundy, Appellant, v. The Brack Family Trust, et al., Respond
 source_url: "https://static.case.law/wash-app/116/cases/0625-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265685
-cites_cases: ["101 Wn.2d 307", "116 Wn. App. 625", "123 Wash. 504", "125 Wn.2d 488", "136 Wn.2d 865", "136 Wn.2d 946", "139 Wn.2d 1", "14 Wash. 75", "141 Wn.2d 169", "146 P. 171", "146 Wn.2d 904", "147 Wn.2d 440", "150 Wn.2d 1009", "212 P. 1048", "341 P.2d 499", "384 P.2d 122", "4 P.3d 123", "428 P.2d 531", "44 P. 113", "52 P.3d 1", "54 P.3d 1194", "54 Wn.2d 402", "62 Wn.2d 545", "678 P.2d 803", "71 Wn.2d 365", "81 Wn. App. 696", "84 Wash. 31", "87 Wn. App. 468", "886 P.2d 147", "915 P.2d 1146", "943 P.2d 306", "968 P.2d 871", "969 P.2d 10", "983 P.2d 643"]
+cites_cases: ["101 Wn.2d 307", "123 Wash. 504", "125 Wn.2d 488", "136 Wn.2d 865", "136 Wn.2d 946", "139 Wn.2d 1", "14 Wash. 75", "141 Wn.2d 169", "146 P. 171", "146 Wn.2d 904", "147 Wn.2d 440", "150 Wn.2d 1009", "212 P. 1048", "341 P.2d 499", "384 P.2d 122", "4 P.3d 123", "428 P.2d 531", "44 P. 113", "52 P.3d 1", "54 P.3d 1194", "54 Wn.2d 402", "62 Wn.2d 545", "678 P.2d 803", "71 Wn.2d 365", "81 Wn. App. 696", "84 Wash. 31", "87 Wn. App. 468", "886 P.2d 147", "915 P.2d 1146", "943 P.2d 306", "968 P.2d 871", "969 P.2d 10", "983 P.2d 643"]
 ---
 
 # Grundy v. Brack Family Trust
