@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15396-0-I"
 decided: "1986-10-20"
-citations: ["45 Wash. App. 916", "45 Wash. App. 1034"]
+citations: ["45 Wash. App. 916"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Glenn Alvin Fredrick, Defenda
 source_url: "https://static.case.law/wash-app/45/cases/0916-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809292
-cites_cases: ["1 Wn. App. 534", "101 Wn.2d 772", "103 Wn.2d 1042", "104 Wn.2d 412", "105 Wn.2d 398", "106 S. Ct. 1208", "189 Wash. 422", "25 Wn. App. 624", "27 Wn. App. 41", "33 Wn. App. 345", "353 U.S. 53", "385 P.2d 859", "39 Wn. App. 530", "39 Wn. App. 815", "4 Wn. App. 103", "45 Wn. App. 916", "456 U.S. 1206", "462 P.2d 966", "466 U.S. 668", "480 P.2d 794", "553 P.2d 1322", "588 P.2d 720", "611 P.2d 1282", "615 P.2d 526", "63 Wn.2d 176", "635 P.2d 435", "65 P.2d 1075", "655 P.2d 710", "684 P.2d 668", "694 P.2d 47", "696 P.2d 33", "705 P.2d 1182", "717 P.2d 722", "87 Wn.2d 447", "91 Wn.2d 145", "94 Wn.2d 1025", "96 Wn.2d 373"]
+cites_cases: ["1 Wn. App. 534", "101 Wn.2d 772", "103 Wn.2d 1042", "104 Wn.2d 412", "105 Wn.2d 398", "106 S. Ct. 1208", "189 Wash. 422", "25 Wn. App. 624", "27 Wn. App. 41", "33 Wn. App. 345", "353 U.S. 53", "385 P.2d 859", "39 Wn. App. 530", "39 Wn. App. 815", "4 Wn. App. 103", "456 U.S. 1206", "462 P.2d 966", "466 U.S. 668", "480 P.2d 794", "553 P.2d 1322", "588 P.2d 720", "611 P.2d 1282", "615 P.2d 526", "63 Wn.2d 176", "635 P.2d 435", "65 P.2d 1075", "655 P.2d 710", "684 P.2d 668", "694 P.2d 47", "696 P.2d 33", "705 P.2d 1182", "717 P.2d 722", "87 Wn.2d 447", "91 Wn.2d 145", "94 Wn.2d 1025", "96 Wn.2d 373"]
 ---
 
 # State v. Fredrick
