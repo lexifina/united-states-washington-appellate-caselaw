@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30738-3-II"
 decided: "2004-09-08"
-citations: ["124 Wash. App. 247", "123 Wash. App. 1014"]
+citations: ["124 Wash. App. 247"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mary A. Cummins, Individually, and as Personal Representative, Appell
 source_url: "https://static.case.law/wash-app/124/cases/0247-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684054
-cites_cases: ["100 Wn.2d 275", "111 Wn.2d 159", "111 Wn.2d 182", "124 Wn. App. 247", "134 Wn.2d 769", "144 Wn.2d 774", "145 Wn.2d 572", "148 Wn.2d 602", "148 Wn.2d 738", "154 Wn.2d 1030", "30 P.3d 1261", "39 P.3d 959", "62 P.3d 470", "64 P.3d 594", "669 P.2d 451", "759 P.2d 1188", "759 P.2d 447", "954 P.2d 237", "97 Wn. App. 64", "981 P.2d 891"]
+cites_cases: ["100 Wn.2d 275", "111 Wn.2d 159", "111 Wn.2d 182", "134 Wn.2d 769", "144 Wn.2d 774", "145 Wn.2d 572", "148 Wn.2d 602", "148 Wn.2d 738", "154 Wn.2d 1030", "30 P.3d 1261", "39 P.3d 959", "62 P.3d 470", "64 P.3d 594", "669 P.2d 451", "759 P.2d 1188", "759 P.2d 447", "954 P.2d 237", "97 Wn. App. 64", "981 P.2d 891"]
 ---
 
 # Cummins v. Lewis County
