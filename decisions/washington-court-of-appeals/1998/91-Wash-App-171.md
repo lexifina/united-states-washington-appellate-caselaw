@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21275-7-II"
 decided: "1998-04-17"
-citations: ["91 Wash. App. 171", "90 Wash. App. 1026"]
+citations: ["91 Wash. App. 171"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Frank Maxwell, Appellant, v. The Department of Corrections, Responden
 source_url: "https://static.case.law/wash-app/91/cases/0171-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681553
-cites_cases: ["104 Wn.2d 323", "104 Wn.2d 627", "111 Wn.2d 903", "121 Wn.2d 8", "127 Wn.2d 401", "136 Wn.2d 1022", "426 P.2d 476", "583 P.2d 621", "705 P.2d 249", "708 P.2d 393", "71 Wn.2d 1", "766 P.2d 1099", "846 P.2d 531", "899 P.2d 1265", "90 Wn.2d 384", "91 Wn. App. 171"]
+cites_cases: ["104 Wn.2d 323", "104 Wn.2d 627", "111 Wn.2d 903", "121 Wn.2d 8", "127 Wn.2d 401", "136 Wn.2d 1022", "426 P.2d 476", "583 P.2d 621", "705 P.2d 249", "708 P.2d 393", "71 Wn.2d 1", "766 P.2d 1099", "846 P.2d 531", "899 P.2d 1265", "90 Wn.2d 384"]
 ---
 
 # Maxwell v. Department of Corrections
