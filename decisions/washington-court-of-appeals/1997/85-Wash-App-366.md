@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15105-1-III"
 decided: "1997-02-20"
-citations: ["85 Wash. App. 366", "84 Wash. App. 1110"]
+citations: ["85 Wash. App. 366"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Kennewick, et al., Appellants, v. Board for Volunteer Fir
 source_url: "https://static.case.law/wash-app/85/cases/0366-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 277840
-cites_cases: ["118 Wn.2d 551", "119 Wn.2d 34", "123 Wn.2d 120", "825 P.2d 314", "830 P.2d 318", "85 Wn. App. 366", "864 P.2d 1382"]
+cites_cases: ["118 Wn.2d 551", "119 Wn.2d 34", "123 Wn.2d 120", "825 P.2d 314", "830 P.2d 318", "864 P.2d 1382"]
 ---
 
 # City of Kennewick v. Board for Volunteer Firefighters
