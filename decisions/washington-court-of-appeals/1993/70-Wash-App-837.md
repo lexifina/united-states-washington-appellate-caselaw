@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "11720-1-III"
+decided: "1993-08-05"
+citations: ["70 Wash. App. 837"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Eileen M. Bucklin, Appellant, and Russell L. Bucklin, Respondent."]
+source_url: "https://static.case.law/wash-app/70/cases/0837-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1745153
+cites_cases: ["114 Wn.2d 1", "114 Wn.2d 772", "57 Wn. App. 268", "58 Wn. App. 12", "63 Wn. App. 510", "784 P.2d 1266", "788 P.2d 564", "791 P.2d 253", "791 P.2d 519", "820 P.2d 519"]
+---
+
+# In re the Marriage of Bucklin
+
+## Majority (Shields, J.)
+
+Shields, J.
+Eileen Bucklin appeals the trial court's order reducing Russell Bucklin's child support obligation. She contends the court erred by failing to take into account all sources of Mr. Bucklin's income. We agree and reverse.
+On July 27, 1989, the court dissolved Russell and Eileen Bucklin's marriage. In the original dissolution decree, the court found Mr. Bucklin's net disposable income to be $6,923 per month and Ms. Bucklin's net disposable income to be $1,130 per month. The court ordered Mr. Bucklin to pay $1,163 per month in child support. He refused to pay any child support until he was found in contempt of court.
+Mr. Bucklin's principal livelihood comes from real estate holdings — motels, apartment complexes, and rental properties located in Washington. He is the sole owner of the Forest Crest Athletic Club, a tennis club in Mountlake Terrace, Washington, and also owns the majority capital interest in a hotel in the Virgin Islands.
+In August 1989, Mr. Bucklin organized Forest Crest Athletic Club, Inc., as its sole shareholder, to own and operate the tennis club and other rental properties. In the fall of 1989, Mr. Bucklin borrowed $200,000 from Seafirst Mortgage (the Seafirst loan) and secured it with a mortgage on some of his real property. He bought a $20,000 automobile, put $16,000 in his personal bank account, and used the balance to buy an interest in another real estate partnership. He claimed he transferred the property securing the Seafirst loan to the Forest Crest corporation.
+After Mr. Bucklin reorganized his real estate holdings, the Forest Crest corporation paid $2,856 per month on the Sea-first loan. The Forest Crest corporation also paid $1,000 per month to a Mr. Ring, whose interest in the tennis club Mr. Bucklin was buying.
+In December 1989, after these transactions and 5 months after the original decree, Mr. Bucklin filed a petition to modify his child support obligation. Mr. Bucklin claimed that a substantial change in circumstances had occurred because his hotel in the Virgin Islands had been destroyed by Hurricane Hugo, and other rental properties he held at the time of dissolution had been transferred to Ms. Bucklin and another ex-wife. Mr. Bucklin's evidence of his income came from his own testimony and handwritten notes. He did not provide independent records from which his income could be determined, despite protracted discovery attempts.
+The trial court granted Mr. Bucklin's petition to modify, concluding the destruction of the Virgin Islands property was • a substantial change and the payments which the Forest Crest corporation made to Seafirst and Mr. Ring were not income to Mr. Bucklin. The court ordered Mr. Bucklin's total child support obligation be reduced to $955.38 per month. Ms. Bucklin timely appealed the court's order.
+Ms. Bucklin contends the court erred in modifying Mr. Bucklin's child support obligation. She argues Mr. Bucklin: (1) failed to disclose all sources of his income, (2) admitted that some of the information he disclosed was false, and (3) failed to submit any verifiable evidence of his true income.
+To prevail on a petition to modify child support, except for circumstances not relevant in this case, the petitioner bears the burden of showing substantially changed circumstances. RCW 26.09.170(l)(b). Since Mr. Bucklin initiated the petition to modify the child support decree, he had the burden of proving a substantial change in circumstances. There is no dispute that the Virgin Islands hotel was destroyed or other rental properties were transferred as claimed. The court's memorandum opinion noted that after the Virgin Islands property was destroyed, Mr. Bucklin received at least $450,000 in insurance proceeds, which were spent to pay off the underlying real estate contract and rehabilitate the property. These facts alone do not reveal a substantial change in circumstances.
+In all proceedings which determine or modify child support, the uniform child support schedule applies. RCW 26.19-.035(l)(c); In re Marriage of Wayt, 63 Wn. App. 510, 512, 820 P.2d 519 (1991); In re Marriage of Lee, 57 Wn. App. 268, 274 n.3, 788 P.2d 564 (1990). The schedule bases the child support obligation on the combined monthly net incomes of both parents. RCW 26.19.020. It allocates each parent's burden according to his or her share of the combined monthly net income. RCW 26.19.080. Thus, whether a change in circumstances is substantial depends on its effect on a parent's monthly net income. Monthly net income, in turn, can only be determined in relation to monthly gross income. RCW 26.19.071(5).
+A parent's monthly gross income is determined by considering all income. RCW 26.19.071(1). "Except as specifically excluded in subsection (4) of this section, monthly gross income shall include income from any source . . .". RCW 26.19.071(3). A trial court's failure to include all sources of income not excluded by statute is reversible error. See In re Marriage of LaDouceur, 58 Wn. App. 12, 16, 791 P.2d 253 (1990). Income shall be verified by tax returns from the preceding 2 years and current pay stubs; income not appearing on tax returns and pay stubs must be verified by "other sufficient verification". RCW 26.19.071(2).
+The uniform child support schedule requires the court to make written findings of fact which must be supported by the evidence and in turn support the court's conclusion. RCW 26.19.035(2); In re Marriage of Sacco, 114 Wn.2d 1, 3-4, 784 P.2d 1266 (1990); Wayt, at 512. On appeal, we defer to the discretion of the trial court unless that discretion is exercised in an untenable or manifestly unreasonable way. In re Marriage of Griffin, 114 Wn.2d 772, 779, 791 P.2d 519 (1990); Wayt, at 513.
+Here, Mr. Bucklin could not verify his income by tax returns and pay stubs and failed to provide "other sufficient verification" of his income. The trial court made the following findings of fact, which Mr. Bucklin does not dispute:
+III.
+As was the case in the original trial, respondent's [Mr. Bucklin's] evidence of his actual income from his business ventures, investments and holdings . . . were not verified by documentary evidence.
+XV.
+Respondent's [Mr. Bucklin's] failure to produce adequate independent records from which his income could be determined unnecessarily protracted the discovery process and the trial of this matter and added substantial expense to the petitioner. The respondent has resources greater than those of the petitioner and therefore the respondent should be required to pay a portion of the petitioner's attorney fees incurred herein.
+(Italics ours.)
+The foregoing findings indicate Mr. Bucklin did not comply with the statutory requirements necessary to support a modification. Thus, the trial court's written findings regarding changed circumstances were not based on substantial evidence and did not support the modification of the decree. Despite explicitly finding that it had neither the statutorily mandated verification of Mr. Bucklin's income, nor adequate independent records to determine it, the court exercised its discretion in an untenable and manifestly unreasonable way by essentially guessing at his income. Without any clear idea of Mr. Bucklin's gross income, there was no way to determine whether his circumstances had substantially changed.
+We need not reach the question whether certain payments made by Mr. Bucklin's wholly owned corporation were income to him. If they were income, our conclusion would be the same; if they were not, Mr. Bucklin still has failed to meet his burden of proving a substantial change in circumstances.
+We reverse.
+Sweeney, A.C.J., and Munson, J., concur.
+Judge George T. Shields was a member of the Court of Appeals at the time oral argument was heard on this matter. He is now serving as a judge pro tempore of the court pursuant to RCW 2.06.150.
