@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52236-1-I"
 decided: "2004-05-24"
-citations: ["122 Wash. App. 374", "121 Wash. App. 1052"]
+citations: ["122 Wash. App. 374"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Olivine Corporation, Respondent, v. United Capitol Insurance Company,
 source_url: "https://static.case.law/wash-app/122/cases/0374-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 499670
-cites_cases: ["104 Wn.2d 353", "105 Wn. App. 194", "105 Wn. App. 370", "108 Wn.2d 299", "109 Wn.2d 107", "113 Wn.2d 330", "122 Wn. App. 374", "123 Wn.2d 131", "125 Wn.2d 337", "141 Wn.2d 121", "144 Wn.2d 1014", "144 Wn.2d 774", "147 Wn.2d 148", "153 Wn.2d 1011", "19 P.3d 1089", "1982 OK 61", "20 P.3d 430", "293 Ill. App. 3d 489", "30 P.3d 1261", "429 N.E.2d 111", "44 A.L.R.5th 683", "46 Wn. App. 517", "464 U.S. 806", "5 P.3d 658", "52 P.3d 494", "54 N.Y.2d 69", "57 Wn. App. 783", "646 P.2d 1262", "688 N.E.2d 675", "705 P.2d 1195", "713 P.2d 1109", "731 P.2d 533", "738 P.2d 254", "744 P.2d 1032", "750 P.2d 254", "779 P.2d 249", "790 P.2d 206", "865 P.2d 507", "883 P.2d 1383", "99 Nev. 93"]
+cites_cases: ["104 Wn.2d 353", "105 Wn. App. 194", "105 Wn. App. 370", "108 Wn.2d 299", "109 Wn.2d 107", "113 Wn.2d 330", "123 Wn.2d 131", "125 Wn.2d 337", "141 Wn.2d 121", "144 Wn.2d 1014", "144 Wn.2d 774", "147 Wn.2d 148", "153 Wn.2d 1011", "19 P.3d 1089", "1982 OK 61", "20 P.3d 430", "293 Ill. App. 3d 489", "30 P.3d 1261", "429 N.E.2d 111", "44 A.L.R.5th 683", "46 Wn. App. 517", "464 U.S. 806", "5 P.3d 658", "52 P.3d 494", "54 N.Y.2d 69", "57 Wn. App. 783", "646 P.2d 1262", "688 N.E.2d 675", "705 P.2d 1195", "713 P.2d 1109", "731 P.2d 533", "738 P.2d 254", "744 P.2d 1032", "750 P.2d 254", "779 P.2d 249", "790 P.2d 206", "865 P.2d 507", "883 P.2d 1383", "99 Nev. 93"]
 ---
 
 # Olivine Corp. v. United Capitol Insurance
