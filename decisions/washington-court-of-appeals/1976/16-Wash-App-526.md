@@ -1,0 +1,40 @@
+---
+court: "Washington Court of Appeals"
+docket: "4544-1"
+decided: "1976-12-13"
+citations: ["16 Wash. App. 526"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Appellant, v. Randall Irwin Henderson, Respondent."]
+source_url: "https://static.case.law/wash-app/16/cases/0526-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1771095
+cites_cases: ["1 Wn. App. 152", "174 P.2d 545", "26 Wn.2d 405", "459 P.2d 812", "511 P.2d 1013", "514 P.2d 170", "9 Wn. App. 260", "9 Wn. App. 691"]
+---
+
+# State v. Henderson
+
+## Majority (James, J.)
+
+James, J.
+Randall Irwin Henderson was charged with the second-degree assault of a police officer. RCW 9.11.020 (6) , At the close of the State’s case to a jury, the trial judge granted Henderson’s motion to dismiss the charge on the ground of insufficient evidence. The State appeals as authorized by CAROA 14(8) (5) .
+On appeal, the State assigns two errors: (1) the granting of Henderson’s motion to dismiss and (2) the overruling of the State’s objection to Henderson’s use, on cross-examination of the complainant police officer, of a transcribed tape recording of his conversation with the officer recorded without the officer’s knowledge shortly before trial. We reverse and remand for a new trial.
+The State’s evidence established that as a San Juan County deputy sheriff was driving home alone through Friday Harbor around 2:15 a.m., he noticed something unusual. A number of men were milling around on the sidewalk in front of a tavern. He slowed down to see what was going on. As he approached, he passed through an intersection. Glancing up the side street, he saw a car “parked at an angle, facing out instead of facing in.” The driver of the car gunned the engine. The wheels spun. The car skidded around, fishtailed, and headed toward the deputy’s car. The driver made a sharp turn, avoiding a collision, and headed around the intersection corner. Then the driver drove the car up over the curb a short distance from the tavern, backed up slightly, and stopped.
+The deputy parked behind the car and got out to investigate. As he did so, the driver of the car got out, ran toward the deputy and shouted, “This is no way to make an arrest.” He then shoved the deputy and struck him in the face. The men grappled. As they did, the deputy told the driver he was under arrest for drunk driving. During the struggle, three men, who had apparently been among the crowd near the tavern, approached and intervened. The deputy was forcibly “spun around” and one of the men shouted, “We’re going to teach this gray-haired old man how we do things on the Island.” One of the men struck the deputy on the jaw. He stumbled to the pavement dazed and bleeding. One of the three men restrained the deputy with a “headlock.” The deputy was struck many times during the ensuing scuffle. He testified,
+I couldn’t identify which at that time was throwing which punch there. I recall when this first started that all four of them were on top of me and that I knew I was in trouble.
+The struggle lasted several minutes. The deputy stated that at first he thought of using his gun but could not reach it and finally concluded he would not need it as the assailants had relented. He stated,
+They saw how serious it was, I believe, because I was bleeding profusely from a number of different places.
+The deputy was finally able to subdue the driver.
+Henderson was one of the three men who joined in the assault upon the deputy. While the assault was still in progress, the town marshal arrived. He heard Henderson swear at the deputy and heard him say, “You are going to get what you deserve. You shouldn’t have made the arrest.” On cross-examination, the deputy sheriff stated that he could not say that he ever saw Henderson actually strike him. On cross-examination, the marshal stated that he had not seen Henderson actually interfere with the deputy sheriff’s efforts to arrest the driver. He testified, however, that Henderson was one of the men in a “ball of people” and that the deputy sheriff was “at the . . . -bottom of the pile” when he arrived on the scene.
+The trial judge concluded on the basis of this evidence that there was insufficient evidence of an assault by Henderson. He stated,
+I will not let the jury ponder the circumstantial evidence which is infinitesimal and less than minimal.
+A criminal defendant’s challenge to the sufficiency of the evidence admits the truth of the State’s evidence and all inferences which can reasonably be drawn therefrom. State v. Palmer, 1 Wn. App. 152, 459 P.2d 812 (1969). Although the State’s witnesses were unable to state that they saw Henderson strike the deputy, Henderson’s conduct and his spoken threats were circumstantial evidence which would permit the jury to find that he did, in fact, commit a physical assault upon the deputy. But it was not necessary that the jury find that Henderson physically assaulted the deputy. The jury could have, under an appropriate instruction, found Henderson to be guilty of assault because he aided and abetted in the commission of the assault by one of the other men. RCW 9.01.030 provides that one who aids or abets “is a principal, and shall be proceeded against and punished as such.” The fact that Henderson was charged only as a principal would not bar his conviction if, in fact, his role was that of an aider or abettor. State v. Cooper, 26 Wn.2d 405, 174 P.2d 545 (1946); State v. Carothers, 9 Wn. App. 691, 514 P.2d 170 (1973).
+The State presented substantial evidence which would permit the jury to convict Henderson either as a principal or as an aider and abettor. The trial judge erred in sustaining Henderson’s challenge to the sufficiency of the evidence.
+In cross-examination, Henderson’s counsel ostensibly sought to impeach the deputy sheriff by use of a transcribed tape recording of a pretrial conversation between Henderson and the deputy which had been recorded by Henderson without the deputy’s knowledge or consent. But a careful reading of the record suggests that a more probable purpose was to discredit the deputy by confronting him with some ill-conceived statements which he made in an attempt to gain Henderson’s confidence. The deputy testified that he had taken a liking to Henderson and wished to befriend him if he would make a truthful statement concerning the incident.
+RCW 9.73.030 makes it “unlawful” to “intercept, record or divulge” any private conversation “without first obtaining the consent of all the persons engaged in the conversation.” RCW 9.73.030(2). “Any information” obtained in violation of RCW 9.73.030 is made “inadmissible” at trial, except in limited circumstances, not here relevant, by RCW 9.73.050. The record discloses that although the State apprised the trial judge of the provisions of RCW 9.73.030, it did not claim that Henderson’s use of the transcription was proscribed by RCW 9.73.050. The State asks that on remand, we rule that Henderson may not use the transcription for any purpose in the new trial.
+Although Henderson did not directly seek the admission of “[a]ny information obtained in violation of RCW 9.73.030” (RCW 9.73.050), his use of the transcription clearly violated the statute’s intended purpose of preventing “encroachment upon the privacy of the parties to a conversation.” State v. Grant, 9 Wn. App. 260, 265, 511 P.2d 1013 (1973). Upon retrial, the sanctions provided by RCW 9.73.050 should be enforced.
+Reversed and remanded for a new trial.
+Williams, C. J., and Andersen, J., concur.
+RCW 9.11.020 was repealed by Laws of 1975, 1st Ex. Sess., ch. 260, § 9A.92.010(28), p. 859, effective July 1, 1976. Assault in the second degree is presently proscribed by RCW 9A.36.020, effective July 1, 1976. Since the conduct complained of occurred prior to the date of repeal, Henderson is to be retried under RCW 9.11.020.
+Now RAP 2.2 (b) (1) which became effective July 1,1976.
