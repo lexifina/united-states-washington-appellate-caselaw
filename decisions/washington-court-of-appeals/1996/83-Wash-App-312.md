@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36187-2-I"
 decided: "1996-08-12"
-citations: ["83 Wash. App. 312", "82 Wash. App. 1059"]
+citations: ["83 Wash. App. 312"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. David Raines, Appellant."]
 source_url: "https://static.case.law/wash-app/83/cases/0312-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1190382
-cites_cases: ["111 Wn.2d 1010", "114 Wn.2d 1009", "118 Wn.2d 1015", "51 Wn. App. 404", "54 Wn. App. 760", "60 Wn. App. 837", "62 Wn. App. 628", "63 Wn. App. 117", "68 Wn. App. 329", "753 P.2d 1015", "775 P.2d 996", "809 P.2d 756", "815 P.2d 788", "816 P. 2d 1249", "827 P.2d 1011", "83 Wn. App. 312", "842 P.2d 1010"]
+cites_cases: ["111 Wn.2d 1010", "114 Wn.2d 1009", "118 Wn.2d 1015", "51 Wn. App. 404", "54 Wn. App. 760", "60 Wn. App. 837", "62 Wn. App. 628", "63 Wn. App. 117", "68 Wn. App. 329", "753 P.2d 1015", "775 P.2d 996", "809 P.2d 756", "815 P.2d 788", "816 P. 2d 1249", "827 P.2d 1011", "842 P.2d 1010"]
 ---
 
 # State v. Raines
