@@ -1,0 +1,38 @@
+---
+court: "Washington Court of Appeals"
+docket: "3795-II"
+decided: "1980-07-22"
+citations: ["26 Wash. App. 907"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Peggy de Carteret, Appellant, and Alex de Carteret, Respondent."]
+source_url: "https://static.case.law/wash-app/26/cases/0907-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1833883
+cites_cases: ["20 Wn. App. 686", "22 Wn. App. 652", "295 P.2d 1115", "393 P.2d 957", "46 Wash. 463", "48 Wn.2d 628", "502 P.2d 460", "576 S.W.2d 880", "576 S.W.2d 883", "580 P.2d 617", "581 P.2d 1085", "590 P.2d 1301", "64 Wn.2d 735", "81 Wn.2d 359", "90 P. 588", "90 Wn.2d 201"]
+---
+
+# In re the Marriage of de Carteret
+
+## Majority (Reed, C.J.)
+
+Reed, C.J.
+—Peggy de Carteret appeals from a trial court decision which denied her cotenancy rights in her ex-husband's retirement fund. We reverse.
+Peggy de Carteret petitioned the trial court, seeking modification of a previous decree of dissolution. Through the petition she sought an increase in child support as well as partition of her alleged cotenant interest in Alex de Carteret's retirement fund. Peggy originally obtained the decree of dissolution against her husband Alex by a default decree entered in early January 1976. At the time of dissolution Alex had accumulated an interest in a state retirement fund as a consequence of his employment as a teacher. Peggy also had accumulated retirement benefits through her employment, though the aggregate amount was significantly smaller than Alex's.
+Although Peggy was aware of the existence of these retirement funds prior to the time of the default decree, she had made no mention of them to her attorney and consequently the decree failed to dispose of them. Peggy sought by this action in August of 1978 to obtain judicial recognition and partition of her interest in Alex's retirement fund. Following a hearing, the trial court found that Alex's pension had been omitted from the decree inadvertently; that Peggy should have raised it at the time of the decree; and that Peggy had already received a disproportionate share of the community's personal property. Peggy appeals assigning error to these findings and the conclusion that she is barred from receiving a portion of Alex's retirement fund.
+It is well settled that community property not disposed of by the divorce court is held by the parties as tenants in common. Yeats v. Estate of Yeats, 90 Wn.2d 201, 580 P.2d 617 (1978); Seals v. Seals, 22 Wn. App. 652, 590 P.2d 1301 (1979). The decree of dissolution in the de Carteret marriage did not purport to dispose of the parties' retirement benefits either expressly or by reference. See RCW 41.32.590(3). Accordingly, the trial court's finding of "inadvertent" omission cannot support the conclusion that Alex received his pension by implication. See Yeats v. Estate of Yeats, supra.
+As a defense to Peggy's cotenancy claim, Alex argues that she should be denied those rights under the doctrines of equitable estoppel and res judicata. Res judicata, however, is not a proper defense for the very reason that the pension was not revealed to the court and was therefore not considered in the divorce proceedings. Pittman v. Pittman, 64 Wn.2d 735, 393 P.2d 957 (1964); Matthews v. Houtchens, 576 S.W.2d 880 (Tex. Civ. App. 1979). Equitable estoppel, on the other hand, requires as one of its elements acts or statements inconsistent with a subsequent claim. Witzel v. Tena, 48 Wn.2d 628, 295 P.2d 1115 (1956). Our reviéw of the record, however, reveals no act or statement indicating any inconsistency or impropriety in Peggy's representations. The record reflects that failure to consider the accrued retirement was merely an innocent oversight— shared by Alex—that Peggy is not now asserting an inconsistent position, and that the evidence does not support invocation of the equitable estoppel doctrine. See Mollett v. United Benefit Life Ins. Co., 81 Wn.2d 359, 502 P.2d 460 (1972).
+Our holding today is not inconsistent with that in Martin v. Martin, 20 Wn. App. 686, 581 P.2d 1085 (1978). There the wife had already received benefits from the husband's retirement plan under the original dissolution decree. In light of that fact we were unwilling to permit her later to change her position. Accordingly, we hold in the instant case that to the extent community funds, or efforts were used to obtain the retirement benefits, each party owns an undivided interest therein.
+Finally, despite Alex's argument to the contrary, the trial court's finding of a disparity in the divorce court's original division of property cannot be used as a basis for readjusting the parties' relative cotenancy interests.
+The power to dispose of the property of the husband and wife is a mere incident of the power to grant the divorce, and ordinarily that power cannot be exercised by another court at another time or in an independent action. Public policy and the policy of the law will be best sub-served by confining the inquiry into the merits of the divorced parties to the divorce court.
+Ambrose v. Moore, 46 Wash. 463, 466-67, 90 P. 588 (1907).
+In Matthews the Texas Court of Civil Appeals, addressing an identical situation, stated eloquently at 576 S.W.2d 883-84:
+[A]t time of the parties' divorce there existed community property in the form of defendant's contingent and conditional expectancy of entitlement, eventually, to military retirement benefits; and we furthermore know from the judgment granting the defendant a divorce that the divorce court did not take such into consideration upon rendition of its decree. Therefore, such property rights persisted, for an in rem adjudication, upon plaintiff's suit.
+We consider the law settled that because the parties' community interest in the retirement benefits were not in fact a part of the adjudication of the divorce court the matter of equitable apportionment ceased to be a matter of concern. Equitable considerations would not have thereafter mattered (save upon a re-entry into the same case as by proceedings in a bill of review case). What the apportionment might have been if made by the divorce court is of no importance. After divorce, if it develops that there was community property concealed or not adjudicated pursuant to the divorce proceedings, the former husband and wife become co-tenants or joint owners of the property just as if they had never been married; and they would own undivided interests in the property like unto the relation of tenants in common, subject to all the rules and regulations strangers bear to each other where they are in that relation.
+. . . [I]f such controversy is not made at the divorce trial the right to have it adjudicated as part of such proceedings is waived and lost.
+(Citations omitted. Last italics ours.)
+The judgment of the trial court is reversed and the matter is remanded for a determination of the extent, if any, to which the marital community contributed to the state Teachers Retirement Fund and for partition of the parties' cotenancy interest therein.
+Petrie and Petrich, JJ., concur.
+Neither party is currently collecting retirement benefits.
+2The issues in this case have been beclouded because the request for partition of the undistributed property was improperly addressed to the "divorce" court along with Mrs. de Carteret's request for increased support. The partition action should have been made the subject of an "independent action"; in any event we have treated it as such.
