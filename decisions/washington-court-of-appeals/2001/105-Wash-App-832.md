@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44364-0-I"
 decided: "2001-02-05"
-citations: ["105 Wash. App. 832", "104 Wash. App. 1039"]
+citations: ["105 Wash. App. 832"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Respondent, v. Burlington Northern Railroad Comp
 source_url: "https://static.case.law/wash-app/105/cases/0832-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358617
-cites_cases: ["105 Wn. App. 832", "144 Wn.2d 1001", "154 F.3d 1025", "463 U.S. 85", "49 U.S.C. § 10501", "49 U.S.C. § 20106", "49 U.S.C. §§ 20101-21311", "507 U.S. 658", "518 U.S. 470", "82 F.3d 989", "86 F.3d 626", "944 F. Supp. 1573"]
+cites_cases: ["144 Wn.2d 1001", "154 F.3d 1025", "463 U.S. 85", "49 U.S.C. § 10501", "49 U.S.C. § 20106", "49 U.S.C. §§ 20101-21311", "507 U.S. 658", "518 U.S. 470", "82 F.3d 989", "86 F.3d 626", "944 F. Supp. 1573"]
 ---
 
 # City of Seattle v. Burlington Northern Railroad
