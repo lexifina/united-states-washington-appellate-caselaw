@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19759-0-III"
 decided: "2001-04-24"
-citations: ["106 Wash. App. 333", "106 Wash. App. 1002"]
+citations: ["106 Wash. App. 333"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Inland Foundry Company, Inc., Appellant, v. The Department of Labor a
 source_url: "https://static.case.law/wash-app/106/cases/0333-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240701
-cites_cases: ["106 Wn. App. 333", "110 Wn.2d 128", "121 Wn.2d 513", "127 Wn.2d 1020", "135 Wn.2d 518", "136 Wn.2d 1004", "1979 WL 8494", "1980 WL 10217", "29 U.S.C. § 658", "43 Wn. App. 656", "489 F.2d 1257", "50 Wn. App. 611", "622 F.2d 1160", "645 F.2d 1096", "645 F.2d 822", "65 Wn. App. 461", "660 F.2d 439", "7 O.S.H. Cas. (BNA) 1709", "719 P.2d 576", "749 P.2d 691", "750 P.2d 1257", "756 P.2d 142", "77 Wn. App. 849", "8 O.S.H. Cas. (BNA) 1735", "828 P.2d 657", "852 P.2d 288", "89 Wn. App. 627", "89 Wn. App. 809", "894 P.2d 582", "93 Wn. App. 391", "949 P.2d 851", "951 P.2d 291", "957 P.2d 755", "968 P.2d 900"]
+cites_cases: ["110 Wn.2d 128", "121 Wn.2d 513", "127 Wn.2d 1020", "135 Wn.2d 518", "136 Wn.2d 1004", "1979 WL 8494", "1980 WL 10217", "29 U.S.C. § 658", "43 Wn. App. 656", "489 F.2d 1257", "50 Wn. App. 611", "622 F.2d 1160", "645 F.2d 1096", "645 F.2d 822", "65 Wn. App. 461", "660 F.2d 439", "7 O.S.H. Cas. (BNA) 1709", "719 P.2d 576", "749 P.2d 691", "750 P.2d 1257", "756 P.2d 142", "77 Wn. App. 849", "8 O.S.H. Cas. (BNA) 1735", "828 P.2d 657", "852 P.2d 288", "89 Wn. App. 627", "89 Wn. App. 809", "894 P.2d 582", "93 Wn. App. 391", "949 P.2d 851", "951 P.2d 291", "957 P.2d 755", "968 P.2d 900"]
 ---
 
 # Inland Foundry Co. v. Department of Labor & Industries
