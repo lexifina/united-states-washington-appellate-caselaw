@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12081-3-III"
 decided: "1992-12-10"
-citations: ["68 Wash. App. 514", "67 Wash. App. 1062"]
+citations: ["68 Wash. App. 514"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Synthia A. Koopman, Appellant
 source_url: "https://static.case.law/wash-app/68/cases/0514-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725722
-cites_cases: ["109 Wn.2d 777", "113 S. Ct. 65", "121 L. Ed. 2d 32", "121 Wn.2d 1012", "174 Colo. 504", "183 Colo. 399", "338 U.S. 160", "392 U.S. 1", "413 U.S. 920", "464 U.S. 831", "467 F.2d 630", "492 U.S. 195", "653 P.2d 1024", "662 P.2d 1081", "667 F. Supp. 911", "68 Wn. App. 514", "748 P.2d 616", "821 P.2d 905", "93 L. Ed. 1879", "954 F.2d 496", "98 Wn.2d 1", "Colo. Rev. Stat. § 16-3-104"]
+cites_cases: ["109 Wn.2d 777", "113 S. Ct. 65", "121 L. Ed. 2d 32", "121 Wn.2d 1012", "174 Colo. 504", "183 Colo. 399", "338 U.S. 160", "392 U.S. 1", "413 U.S. 920", "464 U.S. 831", "467 F.2d 630", "492 U.S. 195", "653 P.2d 1024", "662 P.2d 1081", "667 F. Supp. 911", "748 P.2d 616", "821 P.2d 905", "93 L. Ed. 1879", "954 F.2d 496", "98 Wn.2d 1", "Colo. Rev. Stat. § 16-3-104"]
 ---
 
 # State v. Koopman
