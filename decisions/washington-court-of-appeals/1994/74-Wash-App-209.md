@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30618-9-I"
 decided: "1994-03-28"
-citations: ["74 Wash. App. 209", "73 Wash. App. 1040"]
+citations: ["74 Wash. App. 209"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Robert Dean Hunsaker, Appella
 source_url: "https://static.case.law/wash-app/74/cases/0209-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 418746
-cites_cases: ["114 Wn.2d 1026", "120 Wn.2d 585", "557 P.2d 847", "56 Wn. App. 786", "619 P.2d 697", "660 P.2d 1117", "664 P.2d 466", "71 Wn. App. 444", "74 Wn. App. 209", "785 P.2d 850", "845 P.2d 971", "859 P.2d 60", "87 Wn.2d 870", "94 Wn.2d 690", "99 Wn.2d 166", "99 Wn.2d 501"]
+cites_cases: ["114 Wn.2d 1026", "120 Wn.2d 585", "557 P.2d 847", "56 Wn. App. 786", "619 P.2d 697", "660 P.2d 1117", "664 P.2d 466", "71 Wn. App. 444", "785 P.2d 850", "845 P.2d 971", "859 P.2d 60", "87 Wn.2d 870", "94 Wn.2d 690", "99 Wn.2d 166", "99 Wn.2d 501"]
 ---
 
 # State v. Hunsaker
