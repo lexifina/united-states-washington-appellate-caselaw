@@ -1,0 +1,40 @@
+---
+court: "Washington Court of Appeals"
+docket: "22431-7-III"
+decided: "2005-01-11"
+citations: ["125 Wash. App. 313"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Adam Larsen Trout, Appellant."]
+source_url: "https://static.case.law/wash-app/125/cases/0313-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1270187
+cites_cases: ["110 Wn.2d 682", "127 Wn.2d 322", "155 Wn.2d 1004", "384 U.S. 436", "664 P.2d 508", "67 Wn. App. 339", "757 P.2d 492", "76 Wn. App. 364", "835 P.2d 251", "884 P.2d 1348", "899 P.2d 1251", "99 Wn.2d 663"]
+---
+
+# State v. Trout
+
+## Majority (Sweeney, A.C.J.)
+
+¶1 — Adam L. Trout challenges his father’s authority to consent to the search of a trunk located in an apartment that he and his brother shared with their father. But Mr. Trout did not raise this issue in the trial court at any time despite a comment by the trial judge that he assumed the father had authority to consent to the search of the trunk. We refuse to review the error for the first time on appeal since, assuming it is error, it is hardly “manifest.” We therefore affirm the conviction.
+Sweeney, A.C.J.
+FACTS
+¶2 The essential facts here are not disputed. Mr. Trout lived with his brother and his father in a Kennewick apartment rented by the father. Three Kennewick police officers went to Mr. Trout’s apartment to execute a search warrant. The warrant authorized a search of the premises for a firearm described as a “ ‘black or blue finished revolver with a six-inch to eight-inch barrel and wood grips.’ ” Clerk’s Papers (CP) at 46. This firearm was sought in the investigation of an earlier robbery.
+¶3 Two officers conducted the search. The third officer, Gerry Shigeno, took Mr. Trout to the police station for an interview. The two officers executing the search warrant found a locked trunk in Mr. Trout’s bedroom. Mr. Trout shared the bedroom with his younger brother. The trunk belonged to Mr. Trout. Police searched the trunk and found a nine millimeter semiautomatic handgun. It did not meet the description of the revolver described in the search warrant. Officers examined the handgun and wrote down its serial number.
+¶4 At the station, Officer Shigeno gave Mr. Trout his Miranda warnings and asked him questions about the robbery when one of the officers called from Mr. Trout’s residence. The officer said that they had found a nine millimeter handgun in Mr. Trout’s trunk. Officer Shigeno then asked Mr. Trout whether he had access to a firearm during the robbery. Mr. Trout admitted that he had a nine millimeter handgun in his bedroom trunk. He said he had bought the firearm in September 2000 (two months before his 18th birthday and therefore a violation of former RCW 9.41.040(l)(b)(iii) (1997)), then traded it for drugs around his birthday, and bought it back later. The interview ended.
+¶5 Officer Shigeno returned to the apartment, as did Mr. Trout. Officer Shigeno asked Kerry Trout, Adam’s father, for consent to search for the handgun. The father agreed and signed a consent form authorizing a search of the trunk.
+¶6 The gun had been stolen. The State then charged Mr. Trout with one count of possession of a stolen firearm (RCW 9A.56.140, .310), or in the alternative, with one count of second degree unlawful possession of a firearm (former RCW 9.41.040(l)(b)(iii)).
+¶7 He moved to suppress the handgun. He argued that during the original search the officers illegally seized the nine millimeter handgun by copying its serial number. He also argued that Officer Shigeno should have asked Mr. Trout whether he had permission from his father to own a handgun—a defense to unlawful possession. RCW 9.41.042. No one challenged Kerry Trout’s authority to consent to the search of this trunk. The trial court denied the motion to suppress. It did so by memorandum decision. The trial judge highlighted consent as a potential issue in his memorandum decision of June 12, 2003: “Because it was not raised as an issue, the Court assumes that [Kerry] Trout had authority to give this consent.” CP at 48. Again, no one challenged the assumption. And an order denying the motion to suppress was entered on November 14, 2003. CP at 98. A jury found Mr. Trout guilty of possession of a stolen firearm.
+DISCUSSION
+¶8 For the first time on appeal, Mr. Trout challenges his father’s authority to consent to the search of this trunk.
+¶9 The general rule is that we will not review issues raised for the first time on appeal. State v. McFarland, 127 Wn.2d 322, 332-33, 899 P.2d 1251 (1995). There is an exception—a narrow exception—for certain constitutional questions, however. State v. Scott, 110 Wn.2d 682, 687, 757 P.2d 492 (1988). But the error must meet the criteria of a “ ‘manifest error affecting a constitutional right.’ ” McFarland, 127 Wn.2d at 333 (quoting RAP 2.5(a)(3)). This exception is not intended to swallow the rule, so that all asserted constitutional errors may be raised for the first time on appeal. Indeed, criminal law has become so largely constitutionalized that any error can easily be phrased in constitutional terms. Judge Marshall Forrest thoughtfully outlined the problem:
+RAP 2.5(a)(3) does not provide that all asserted constitutional claims may be raised for the first time on appeal. Criminal law is so largely constitutionalized that most claimed errors can be phrased in constitutional terms. Suppression motions involve the Fourth Amendment. Admissions and confessions involve the Fifth and Sixth Amendments. Instructional errors may implicate constitutional due process. Hearsay involves Sixth Amendment confrontation rights.
+State v. Lynn, 67 Wn. App. 339, 342-43, 835 P.2d 251 (1992).
+¶10 Moreover, “[i]f the facts necessary to adjudicate the claimed error are not in the record on appeal, no actual prejudice is shown and the error is not manifest.” McFarland, 127 Wn.2d at 333. The error must be “manifest” and not a constitutional issue that the appellant deliberately chose not to litigate below. State v. Valladares, 99 Wn.2d 663, 671-72, 664 P.2d 508 (1983); State v. Walton, 76 Wn. App. 364, 370, 884 P.2d 1348 (1994). The constitutional error here is hardly manifest.
+¶11 Neither Mr. Trout nor his lawyer questioned the father’s authority to consent to the search of his son’s bedroom, including this locked trunk. The police asked for permission and the father gave them permission both orally and in writing to search this trunk. The judge, following argument on the motion to suppress, then issued a memorandum decision pointing out that neither party had raised the authority of Mr. Trout’s father to give consent. Appropriate findings, conclusions, and order denying the motion were entered and signed. CP at 96-98. Mr. Trout did not object or take exception to the court’s conclusion that “Det. Shigeno properly seized the revolver after receiving consent to search the residence.” CP at 98. Mr. Trout, moreover, makes no suggestion here on appeal that his counsel was ineffective or inept for failing to raise this issue at trial.
+¶12 What is manifested by this record is hardly error of constitutional magnitude. It is rather agreement by the parties and their counsel that Kerry Trout, Adam Trout’s father, had authority to consent to this search in his own apartment. The judge all but invited the lawyers to address the very point Mr. Trout assigns error to on appeal. There may be an injustice here, but it has not been visited upon Mr. Trout. The injustice would be to allow him to let the court make this important assumption for its decision and then turn around and claim error to it here on appeal. This is not then error of constitutional magnitude. And we decline to review it.
+¶13 We affirm the conviction.
+Schultheis and Brown, JJ., concur.
+Review denied at 155 Wn.2d 1004 (2005).
+Miranda v. Arizona, 384 U.S. 436, 86 S. Ct. 1602, 16 L. Ed. 2d 694 (1966).
