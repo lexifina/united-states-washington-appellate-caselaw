@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53758-0-I"
 decided: "2005-02-14"
-citations: ["126 Wash. App. 891", "125 Wash. App. 1043"]
+citations: ["126 Wash. App. 891"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Personal Restraint of Gregorio Lopez, Petitioner
 source_url: "https://static.case.law/wash-app/126/cases/0891-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016172
-cites_cases: ["115 Wn.2d 339", "122 Wn.2d 738", "123 Wn.2d 138", "126 Wn. App. 891", "138 Wn.2d 460", "150 Wn.2d 29", "42 F.2d 788", "74 P.3d 134", "797 P.2d 504", "863 P.2d 535", "866 P.2d 8", "979 P.2d 850", "99 Wn. App. 673", "995 P.2d 83"]
+cites_cases: ["115 Wn.2d 339", "122 Wn.2d 738", "123 Wn.2d 138", "138 Wn.2d 460", "150 Wn.2d 29", "42 F.2d 788", "74 P.3d 134", "797 P.2d 504", "863 P.2d 535", "866 P.2d 8", "979 P.2d 850", "99 Wn. App. 673", "995 P.2d 83"]
 ---
 
 # In re the Personal Restraint of Lopez
