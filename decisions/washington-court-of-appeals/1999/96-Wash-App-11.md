@@ -1,0 +1,56 @@
+---
+court: "Washington Court of Appeals"
+docket: "22967-6-II"
+decided: "1999-05-14"
+citations: ["96 Wash. App. 11", "95 Wash. App. 1042"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Allstate Insurance Company, Respondent, v. Douglas Bauer, et al., Appellants."]
+source_url: "https://static.case.law/wash-app/96/cases/0011-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 128437
+cites_cases: ["113 Wn.2d 91", "119 Wn.2d 724", "130 Wn.2d 335", "131 Wn.2d 420", "20 Wn. App. 261", "579 P.2d 1015", "58 Wn. App. 546", "776 P.2d 123", "794 P.2d 521", "81 Wn. App. 293", "837 P.2d 1000", "914 P.2d 119", "922 P.2d 1335", "932 P.2d 1244", "96 Wn. App. 11"]
+---
+
+# Allstate Insurance v. Bauer
+
+## Majority (Seinfeld, J.)
+
+Seinfeld, J.
+Douglas Bauer appeals a trial court’s declaratory judgment in favor of Allstate Insurance Company. The trial court found that Bauer’s homeowner’s insurance policy did not obligate Allstate to defend Bauer in a wrongful death action arising out of an incident where Bauer deliberately shot the deceased in self-defense. Bauer claims that the shooting was an accident because he mistakenly believed that the deceased was armed. He also argues that the policy’s intentional acts exclusion is void or, alternatively, that the court should amend it to conform with RCW 9A.16.110, which provides that persons shall not “be placed in legal jeopardy of any kind” when they reasonably protect themselves or others from violent crime. Concluding that the death, which resulted from an intentional act, was not a covered loss, we affirm.
+FACTS
+Bauer returned home late one evening with his four-year-old son. During the drive, Sean Morgan had followed him, flashing his headlights. After Bauer parked his car, he encountered Morgan, who appeared to be intoxicated. Morgan purported to be an off-duty police officer and told Bauer that he had “created several violations” and that “I got the legal right to shoot you.” When Bauer attempted to take his son into his house to call 911, Morgan knocked them to the ground.
+While still lying on the ground, Bauer saw Morgan reaching toward his back for what Bauer believed was a gun. Fearing for himself and his son, Bauer fired multiple shots at Morgan, who was in fact unarmed. Bauer then grabbed his son, ran to his house, and yelled to his fiancée to call 911. Morgan died from the bullet wounds.
+The State charged Bauer with second degree manslaughter, RCW 9A.32.070, but a jury acquitted him, finding his actions to be in self-defense. Morgan’s wife and Morgan’s estate then brought a wrongful death lawsuit against Bauer, who tendered his defense to Allstate. Allstate accepted the defense under a full reservation of rights but, before trial, sought a declaratory judgment that neither Bauer’s automobile nor homeowner’s policy covered the wrongful death claims and that it did not have a duty to defend Bauer.
+Bauer’s homeowner’s policy contains the following provisions:
+Coverage X
+Family Liability Protection
+Losses We Cover Under Coverage X:
+Subject to the terms, conditions and limitations of this policy, Allstate will pay damages which an insured person becomes legally obligated to pay because of bodily injury or property damage arising from an occurrence to which this policy applies, and covered by this part of the policy.
+Losses We Do Not Cover Under Coverage X:
+1. We do not cover any bodily injury or property damage intended by, or which may reasonably be expected to result from the intentional or criminal acts or omissions of any insured person. . . .
+Clerk’s Papers at 46. The policy contains the following definition of occurrence:
+9. “Occurrence”—means an accident, including continuous or repeated exposure to substantially the same harmful conditions during the policy period, resulting in bodily injury or property damage.
+Clerk’s Papers at 21.
+The trial court granted Allstate’s motion for summary judgment, finding that the policy did not cover the losses alleged in the wrongful death lawsuit because Morgan’s death was neither an occurrence nor an accident and the intentional acts exclusion applied to the claim.
+DISCUSSION
+The interpretation of an insurance policy is an issue of law that appellate courts review de novo. Grange Ins. Co. v. Brosseau, 113 Wn.2d 91, 95, 776 P.2d 123 (1989); Schwindt v. Underwriters at Lloyd’s of London, 81 Wn. App. 293, 297-98, 914 P.2d 119 (1996). Courts view insurance contracts in their entirety and do not interpret phrases in isolation. Allstate Ins. Co. v. Peasley, 131 Wn.2d 420, 424, 932 P.2d 1244 (1997). Insurance policy language is interpreted as an average person would understand it and in a way that gives effect to each provision. Peasley, 131 Wn.2d at 424; Schwindt, 81 Wn. App. at 298.
+If a court finds an ambiguity in an exclusionary clause, the court construes the ambiguity against the insurer. Peasley, 131 Wn.2d at 424. But where the language in an insurance policy is clear, the court must enforce it as written and cannot modify the contract or create ambiguity where none exists. Peasley, 131 Wn.2d at 424. Absent an expression of public policy from either the Legislature or an earlier court decision, an appellate court will not invoke public policy to override an otherwise proper insurance contract even if its terms may be harsh and its necessity doubtful. Cary v. Allstate Ins. Co., 130 Wn.2d 335, 346-47, 922 P.2d 1335 (1996).
+“ ‘Determining whether coverage exists is a 2-step process. The insured must show the loss falls within the scope of the policy’s insured losses. To avoid coverage the insurer must then show the loss is excluded by specific policy language.’ ” Schwindt, 81 Wn. App. at 298 (quoting McDonald v. State Farm Fire & Cas. Co., 119 Wn.2d 724, 731, 837 P.2d 1000 (1992)).
+I. COVERED LOSSES
+Bauer claims that under his homeowner’s policy, Morgan’s death is a covered “occurrence.” He argues that his mistaken belief that Morgan was armed was an “unforeseen and independent” event that requires the characterization of his otherwise deliberate act as an accident. Allstate claims that the “unexpected, independent and unforseen happening” must follow rather than precede the deliberate act.
+For purposes of insurance coverage, an accident is “an unusual, unexpected, and unforeseen happening.” Brosseau, 113 Wn.2d at 95. Moreover,
+an accident is never present when a deliberate act is performed unless some additional unexpected, independent and unforeseen happening occurs which produces or brings about the result of injury or death. The means as well as the result must be unforeseen, involuntary, unexpected and unusual.
+Brosseau, 113 Wn.2d at 96 (footnotes omitted) (quoting Unigard Mut. Ins. Co. v. Spokane Sch. Dist. No. 81, 20 Wn. App. 261, 263-64, 579 P.2d 1015 (1978)). The fact that an insured performs a deliberate act in self-defense in no way negates the deliberate nature of the act. Brosseau, 113 Wn.2d at 96 (death was not the result of a covered “accident” where the insured shot and killed the deceased in self-defense).
+Here, as in Brosseau, Bauer’s act of shooting Morgan was deliberate. Thus, to determine whether Morgan’s death was the result of an “accident,” we consider whether there is evidence of an additional unexpected, independent and unforeseen happening that caused the death. See Brosseau, 113 Wn.2d at 96. The bullets striking Morgan’s body, not an unforeseen happening following a deliberate shooting, caused the death; thus, it was not the result of an accident. See Brosseau, 113 Wn.2d at 96-97 (under similar facts, the court found “nothing in the record even remotely suggests that any additional unexpected, independent and unforeseen happening” was the cause of death).
+We are not persuaded by Bauer’s attempt to distinguish Brosseau. Neither the State’s prosecution of him under a criminal negligence theory nor the allegations of negligence in the civil lawsuit change the deliberate nature of the shooting. See New York Underwriters Ins. Co. v. Doty, 58 Wn. App. 546, 549, 794 P.2d 521 (1990) (an insured does not avoid an intentional acts exclusionary clause by carefully crafting a complaint to avoid labeling the insured’s conduct as intentional).
+Further, evidence that Bauer mistakenly believed Morgan to be armed does not make the death accidental. We define an outcome as accidental only if both the means and the result were “unforeseen, involuntary, unexpected and unusual.” Brosseau, 113 Wn.2d at 96. Here, the means was deliberate; Bauer intentionally shot his gun at Morgan. And the result could be reasonably expected; firing a gun at a person multiple times at close range is likely to cause that person’s death.
+Nor do we find Bauer’s reliance on Justice Madsen’s concurrence and Justice Johnson’s dissent in Beasley persuasive. The Beasley case involved the applicability of a criminal acts exclusion to a nonfatal shooting, which both parties claimed was an accident although the shooter pleaded guilty to reckless endangerment. Beasley, 131 Wn.2d at 423. The criminal acts exclusion is not at issue here because the jury found that Bauer acted in self-defense. Thus, Morgan’s death was not the result of a criminal act. See RCW 9A.16.050. And unlike in Beasley, Morgan’s death was the result of a deliberate act.
+Finally, Bauer contends that Brosseau is not controlling because it did not consider the public policy established in RCW 9A.16.110, which provides that “[n]o person in the state shall be placed in legal jeopardy of any kind whatsoever” for protecting himself from violent crime by any reasonable means necessary. But it is the civil lawsuit itself that places Bauer in “legal jeopardy,” not the provision of Allstate’s insurance contract.
+II. INTENTIONAL ACTS EXCLUSION
+A court will not invoke public policy to override an otherwise proper insurance contract in the absence of an expression of public policy from either the Legislature or a precedential court decision. Cary, 130 Wn.2d at 345-47 (upholding an exclusion in a homeowner’s insurance contract for acts committed by an insured while insane despite the State’s policy of compensating crime victims); Brosseau, 113 Wn.2d at 98-100. The Brosseau court declined to rewrite an insurance contract that excluded intentional acts so as to make it cover acts performed in self-defense. 113 Wn.2d at 98-100. Although the Brosseau court did not address RCW 9A.16.110, it stated: “Nor, even if we perceived any public policy favoring coverage here, would we invoke such public policy to override the provision of these policies.” 113 Wn.2d at 100 (emphasis added).
+Thus, even assuming that RCW 9A.16.110 can he read to favor insurance coverage for acts committed in self-defense, we will not invoke public policy to override the clear language of the intentional acts exclusion in an insurance policy.
+We affirm.
+Houghton and Hunt, JJ., concur.
+Homicide is justifiable in defense of self “when there is reasonable ground to apprehend a design on the part of the person slain to commit a felony or to do some great personal injury to the slayer or to any such person, and there is imminent danger of such design being accomplished.” RCW 9A.16.050.
