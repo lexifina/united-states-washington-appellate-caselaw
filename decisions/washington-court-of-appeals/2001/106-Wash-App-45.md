@@ -1,0 +1,66 @@
+---
+court: "Washington Court of Appeals"
+docket: "45755-1-I"
+decided: "2001-04-30"
+citations: ["106 Wash. App. 45"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John E. Shelton, Appellant, v. Edward Strickland, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/106/cases/0045-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 240521
+cites_cases: ["100 Wn.2d 853", "112 Wn.2d 754", "133 Wn.2d 192", "145 Wn.2d 1003", "3 Wn. App. 393", "376 P.2d 528", "46 Wn. App. 409", "477 P.2d 210", "60 Wn.2d 847", "613 P.2d 1128", "62 Wn. App. 575", "676 P.2d 431", "731 P.2d 526", "774 P.2d 6", "80 Wn. App. 398", "814 P.2d 1212", "907 P.2d 305", "93 Wn.2d 766", "943 P.2d 286"]
+---
+
+# Shelton v. Strickland
+
+## Majority (Grosse, J.)
+
+Grosse, J.
+Adverse possession is ultimately a doctrine of repose. Its purpose is to make legal boundaries conform to boundaries that are long maintained on the ground even if it means depriving an owner of title. Here, title of an approximate 3 x 10 foot strip of land passed to Mabel Hitching and/or her estate long before John E. Shelton acquired his interest in the land. The decision of the trial court is affirmed.
+FACTS
+The parties to this case, John E. Shelton and Edward and Margaret Strickland, are owners of adjoining waterfront properties in Friday Harbor, Washington.
+Mabel Hitching acquired title to the land now owned by Edward and Margaret Strickland from her parents in November 1933. The Hitching lot was improved with a single-family residence. A shed/cottage was also constructed on the property. Cement work for the shed had a number “59” inscribed in it. The structure was shown to encroach upon the Shelton parcel in a survey of record in April of 1975. The structure was used by Hitching as a potting shed and painting studio during her life, and was built by her companion Arthur Hedman.
+Hitching died in 1982. Through her will she provided Mr. Hedman with a life estate in the premises, and he continued to reside on the property until his death in 1985. Jack Ridley, Hitching’s nephew and personal representative, filed Hitching’s will in San Juan County in September 1986, and recorded a conveyance from the estate to himself. Ridley resided in California and never used or occupied the house. In 1993 he sold the property to the Stricklands.
+Peter and Jenny Wangoe owned the Shelton lot from 1978 through 1985. Mr. Wangoe was aware of the shed/cottage as he had observed it over the years despite his infrequent visits to the property. He was not aware that the structure necessarily extended over the property line onto his property. The structure is visible from the street.
+Shelton purchased his property in February 1993. When purchased by Shelton, the property was overgrown and unimproved. Although aware of the existence of the shed/ cottage structure, he was not aware that it encroached onto his property until he obtained a survey before constructing his home.
+The encroaching shed was used as an office during construction of the Stricklands’ home. The Stricklands made some repairs to the structure but did not alter its location. They continue to use the shed. There was no evidence presented to suggest that anyone other than the predecessors of the Stricklands have ever used the encroaching structure.
+Shelton filed a complaint to quiet title to the property on which the shed stood and moved for summary judgment on that claim. The Stricklands answered and filed a cross motion for summary judgment alleging adverse possession of the area encumbered by the structure, which they admit essentially straddles the boundary line.
+The trial court heard argument on the cross motions and granted the Stricklands’ motion, awarding title to approximately 40 square feet of the Shelton lot, along with an exclusive easement of 2 feet around the perimeter of the structure for maintenance purposes.
+On appeal, Shelton alleges the trial court erred in determining that title had been held by adverse possession for 10 years and had ripened into original title prior to its transfer to Jack Ridley from the estate of Mabel Hitching. Further, he asserts that there was no privity in the chain of title from Mabel Hitching through Jack Ridley to the Stricklands. Finally, Shelton asserts that the trial court erred in determining that the Stricklands acquired the disputed property through the conveyance from Ridley.
+DISCUSSION
+The usual standard of review for summary judgment applies. In reviewing a grant of summary judgment, this court engages in the same inquiry as the trial court. Here the parties submitted cross motions for summary judgment, essentially conceding that there were no issues of material fact. “Where the facts in an adverse possession case are not in dispute, whether the facts constitute adverse possession is for the court to determine as a matter of law.” Thus the question is whether the legal conclusions of the court are correct.
+Shelton asserts there is insufficient evidence in the record that Mabel Hitching adversely possessed the disputed area for the requisite period of time. Additionally, he claims there is insufficient evidence that the use of the shed was “notorious.”
+To establish ownership of a piece of property through adverse possession, a claimant must prove that his or her possession of the property was: (1) open and notorious, (2) actual and uninterrupted, (3) exclusive, (4) hostile and under a claim of right, (5) for a period of 10 years. “As the presumption of possession is in the holder of legal title, the party claiming to have adversely possessed the property has the burden of establishing the existence of each element.” Possession is established if it is of such a character as a true owner would exhibit considering the nature and location of the land in question.
+The claim of right element of adverse possession requires only that the claimant or successors treated the land as his or her own as against the world throughout the statutory period. The nature of the possession will be determined on the basis of the manner in which the possessor treats the property. Subjective beliefs regarding a true interest in the land and any intent to dispossess or not dispossess another are irrelevant to the determination.
+A reasonable inference from the evidence led the trial court to believe that the structure was built in 1959. Evidence in the form of a survey clearly shows that the structure existed in early 1975. Hitching and her estate (life estate in Mr. Hedman) continued to occupy the disputed area until her personal representative conveyed the property to himself in May of 1987. At the very least, Mr. Hedman continued to live on the property until his death in 1985. This certainly meets the 10-year requirement of adverse possession.
+On urban property, the placement of structures on another’s land, or encroaching partially on another’s land, amounts to possession not only of the land covered by the structure but of a reasonable amount of the surrounding territory. In addition, the construction and maintenance of a structure on, or partially on the land of another, almost necessarily is exclusive, actual and uninterrupted, open and notorious, hostile and made under a claim of right.
+Shelton claims that the “minor encroachment” of the shed was not “notorious.” The open and notorious element of adverse possession requires proof that (1) the true owner has actual notice of the adverse use throughout the statutory period, or (2) the claimant (and/or predecessors) uses the land in a way that any reasonable person would assume that person to be the owner. Although there may be insufficient evidence that all of the previous owners of Shelton’s land had “actual notice” of Hitching’s adverse possession, there were certainly acts of ownership sufficient to prove that any reasonable person would assume that she was the owner. There is sufficient evidence to support the determination that the possession was open and notorious. The trial court did not err in determining that Hitching and her estate, through Mr. Hedman, adversely possessed the area at issue.
+Shelton claims that even if there were adverse possession, title to the encroaching area must be conveyed with the land and that the legal description here failed in that regard. Further, he asserts there was no privity of title. As stated by Professor Stoebuck:
+To understand tacking, it is useful to recall the concept of “inchoate title,” .... Before the statute has run, an adverse possessor has something which, though it is wrongful and cannot stand up against the true owner, is rightful and good against everyone else. This “shadow title,” ... is founded in possession; so, it makes sense that it can be transferred by transferring possession. There must be a relationship between the successive adverse possessors, one in which, at a minimum, the prior possessor willingly turns over possession to the succeeding one. This relationship the courts usually call “privity,” though, to avoid confusion with the several other meanings of that word, the word “nexus” is better.[]
+The “privity’ or “nexus” required to permit tacking of the adverse use of successive occupants of real property does not have to be more than such a reasonable connection between the successive occupants as will raise their claim of right above the status of wrongdoer or trespasser. A formal conveyance between the parties describing some or all of the property is not essential to establish such connection. “The requirement of privity had its roots in the notion that a succession of trespasses, even though there was no appreciable interval between them, should not, in equity, be allowed to defeat the record title.” However, there is a substantial difference between the squatter or trespasser and a property purchaser. “The deed running between the parties purporting to transfer the land possessed traditionally furnishes the privity of estate which connects the possession of the successive occupants.”
+Just as the intent of the adverse possessor is irrelevant to a determination of the element of hostility, it does not bar the application of privity to successors through documentary conveyances. “This is particularly true in light of the rule allowing tacking when an adversely possessed strip [of land] is physically ‘turned over’ in connection with the conveyance of adjoining land the possessor owns.” Where, as in this case, the successive inheritor and purchasers received record title to what was a mistaken belief as to the boundary line, but where possession of the area was open and notorious for over 10 years, there is sufficient privity of estate to permit tacking and thus establish adverse possession as a matter of law.
+Shelton has not shown any abandonment or an intervening occupation of the disputed land by any titleholder sufficient to stop the running of the 10-year statute of limitation required for adverse possession. Title passed to Mabel Hitching and/or her estate long before Shelton acquired an interest in the property.
+The decision of the trial court is affirmed.
+Webster and Appelwick, JJ., concur.
+Review denied at 145 Wn.2d 1003 (2001).
+See 17 William B. Stoebuck, Washington Practice: Real Estate § 8.11, at 501 (1995).
+Summary judgment is appropriate “if the pleadings, depositions, answer to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.” CR 56(c). The facts and all reasonable inferences therefrom are considered in the light most favorable to the nonmoving party. This court reviews questions of law de novo. Nivens v. 7-11 Hoagy’s Corner, 133 Wn.2d 192, 197-98, 943 P.2d 286 (1997).
+ITT Rayonier, Inc. v. Bell, 112 Wn.2d 754, 758, 774 P.2d 6 (1989) (citing Peeples v. Port of Bellingham, 93 Wn.2d 766, 772, 613 P.2d 1128 (1980), overruled on other grounds by Chaplin v. Sanders, 100 Wn.2d 853, 676 P.2d 431 (1984)).
+ITT Rayonier, Inc., 112 Wn.2d at 757 (citing Chaplin v. Sanders, 100 Wn.2d 853, 857, 676 P.2d 431 (1984)).
+ITT Rayonier, Inc., 112 Wn.2d at 757 (citations omitted).
+ITT Rayonier, Inc., 112 Wn.2d at 759.
+Chaplin, 100 Wn.2d at 860-62.
+See Howard v. Kunto, 3 Wn. App. 393, 397-99, 477 P.2d 210 (1970), overruled on other grounds by Chaplin, 100 Wn.2d at 861 n.2.
+El Cerrito, Inc. v. Ryndak, 60 Wn.2d 847, 853-54, 376 P.2d 528 (1962).
+Reitz v. Knight, 62 Wn. App. 575, 582, 814 P.2d 1212 (1991) (citing Chaplin, 100 Wn.2d at 857); see also Chaplin, 100 Wn.2d at 860-61.
+Anderson v. Hudak, 80 Wn. App. 398, 404-05, 907 P.2d 305 (1995) (citing Chaplin, 100 Wn.2d at 863).
+Stoebuck, supra note 1, § 8.18, at 513-14 (footnote omitted).
+Roy v. Cunningham, 46 Wn. App. 409, 414, 731 P.2d 526 (1986).
+Howard, 3 Wn. App. at 399-400.
+Howard, 3 Wn. App. at 399.
+Howard, 3 Wn. App. at 399.
+Howard, 3 Wn. App. at 398-99.
+Roy, 46 Wn. App. at 414 (citing Roger A. Cunningham, William B. Stoebuck & Dale A. Whitman, Law of Property § 11.7 (1984)).
+See Howard, 3 Wn. App. at 400-01; Stoebuck, supra note 1, § 8.18, at 515.
