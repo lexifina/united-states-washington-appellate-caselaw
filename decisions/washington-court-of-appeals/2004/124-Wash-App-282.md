@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52757-6-I"
 decided: "2004-09-27"
-citations: ["124 Wash. App. 282", "123 Wash. App. 1029"]
+citations: ["124 Wash. App. 282"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Des Moines Marina Association, et al., Respondents, v. The City of De
 source_url: "https://static.case.law/wash-app/124/cases/0282-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684077
-cites_cases: ["1 P.3d 1138", "106 Wn.2d 54", "107 Wn.2d 370", "109 Wn.2d 107", "115 Wn.2d 556", "119 Wn. App. 501", "124 Wn. App. 282", "131 Ill. 2d 79", "131 Wn.2d 779", "134 Wn.2d 491", "136 Ill. Dec. 106", "136 Wn.2d 136", "14 Wash. 288", "141 Wn.2d 1", "146 Wn.2d 207", "149 Wn.2d 29", "150 Wn.2d 791", "151 P. 117", "154 Wn.2d 1018", "160 P. 755", "397 U.S. 471", "42 F.3d 1185", "42 U.S.C. § 1983", "436 U.S. 371", "44 P. 655", "45 P.3d 186", "504 U.S. 555", "544 N.E.2d 792", "576 P.2d 401", "65 P.3d 1194", "651 F.2d 661", "720 P.2d 808", "730 P.2d 636", "744 P.2d 1032", "800 P.2d 367", "81 P.3d 876", "83 P.3d 419", "85 Wn. App. 240", "87 Wash. 1", "89 Wn.2d 862", "93 Wash. 267", "931 P.2d 170", "935 P.2d 1272", "951 P.2d 761", "960 P.2d 919"]
+cites_cases: ["1 P.3d 1138", "106 Wn.2d 54", "107 Wn.2d 370", "109 Wn.2d 107", "115 Wn.2d 556", "119 Wn. App. 501", "131 Ill. 2d 79", "131 Wn.2d 779", "134 Wn.2d 491", "136 Ill. Dec. 106", "136 Wn.2d 136", "14 Wash. 288", "141 Wn.2d 1", "146 Wn.2d 207", "149 Wn.2d 29", "150 Wn.2d 791", "151 P. 117", "154 Wn.2d 1018", "160 P. 755", "397 U.S. 471", "42 F.3d 1185", "42 U.S.C. § 1983", "436 U.S. 371", "44 P. 655", "45 P.3d 186", "504 U.S. 555", "544 N.E.2d 792", "576 P.2d 401", "65 P.3d 1194", "651 F.2d 661", "720 P.2d 808", "730 P.2d 636", "744 P.2d 1032", "800 P.2d 367", "81 P.3d 876", "83 P.3d 419", "85 Wn. App. 240", "87 Wash. 1", "89 Wn.2d 862", "93 Wash. 267", "931 P.2d 170", "935 P.2d 1272", "951 P.2d 761", "960 P.2d 919"]
 ---
 
 # Des Moines Marina Ass'n v. City of Des Moines
