@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49576-3-I"
 decided: "2003-06-02"
-citations: ["119 Wash. App. 1", "117 Wash. App. 1007"]
+citations: ["119 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Catherine Tortes, Appellant, v. King County, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/119/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1349908
-cites_cases: ["101 Wn. App. 158", "101 Wn.2d 226", "104 Wn. App. 393", "109 Wn. App. 140", "112 Wn.2d 216", "116 Wn.2d 217", "119 Wn. App. 1", "122 Wn.2d 299", "123 Wn.2d 819", "128 Wn.2d 300", "131 Wn.2d 39", "133 Wn.2d 192", "134 Wn.2d 947", "135 Wn.2d 658", "139 Wn.2d 757", "146 Wn.2d 370", "151 Wn.2d 1010", "16 P.3d 655", "2 P.3d 979", "223 F.3d 1135", "30 Wn. App. 193", "34 P.3d 835", "42 U.S.C. § 1983", "457 U.S. 800", "46 P.3d 789", "477 U.S. 317", "489 U.S. 378", "520 U.S. 397", "54 Wn. App. 861", "60 Wn. App. 189", "63 Wn. App. 389", "633 P.2d 122", "656 P.2d 1030", "677 P.2d 166", "77 Wn. App. 934", "770 P.2d 182", "776 P.2d 705", "802 P.2d 1360", "803 P.2d 47", "819 P.2d 393", "84 Wn. App. 332", "84 Wn. App. 787", "858 P.2d 1054", "872 P.2d 516", "894 P.2d 1366", "90 Wn. App. 304", "907 P.2d 282", "92 F.3d 831", "929 P.2d 1209", "929 P.2d 420", "929 P.2d 448", "94 Wn. App. 816", "943 P.2d 286", "950 P.2d 522", "954 P.2d 250", "958 P.2d 301", "975 P.2d 518", "98 Wn.2d 434", "991 P.2d 615"]
+cites_cases: ["101 Wn. App. 158", "101 Wn.2d 226", "104 Wn. App. 393", "109 Wn. App. 140", "112 Wn.2d 216", "116 Wn.2d 217", "122 Wn.2d 299", "123 Wn.2d 819", "128 Wn.2d 300", "131 Wn.2d 39", "133 Wn.2d 192", "134 Wn.2d 947", "135 Wn.2d 658", "139 Wn.2d 757", "146 Wn.2d 370", "151 Wn.2d 1010", "16 P.3d 655", "2 P.3d 979", "223 F.3d 1135", "30 Wn. App. 193", "34 P.3d 835", "42 U.S.C. § 1983", "457 U.S. 800", "46 P.3d 789", "477 U.S. 317", "489 U.S. 378", "520 U.S. 397", "54 Wn. App. 861", "60 Wn. App. 189", "63 Wn. App. 389", "633 P.2d 122", "656 P.2d 1030", "677 P.2d 166", "77 Wn. App. 934", "770 P.2d 182", "776 P.2d 705", "802 P.2d 1360", "803 P.2d 47", "819 P.2d 393", "84 Wn. App. 332", "84 Wn. App. 787", "858 P.2d 1054", "872 P.2d 516", "894 P.2d 1366", "90 Wn. App. 304", "907 P.2d 282", "92 F.3d 831", "929 P.2d 1209", "929 P.2d 420", "929 P.2d 448", "94 Wn. App. 816", "943 P.2d 286", "950 P.2d 522", "954 P.2d 250", "958 P.2d 301", "975 P.2d 518", "98 Wn.2d 434", "991 P.2d 615"]
 ---
 
 # Tortes v. King County
