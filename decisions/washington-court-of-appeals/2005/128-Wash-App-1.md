@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22761-8-III"
 decided: "2005-03-22"
-citations: ["128 Wash. App. 1", "126 Wash. App. 1036"]
+citations: ["128 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Stephen K. Eugster, Appellant, v. The City of Spokane et al., Respond
 source_url: "https://static.case.law/wash-app/128/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3273800
-cites_cases: ["107 Wn. App. 550", "110 Wn. App. 212", "119 Wn. App. 665", "128 Wn. App. 1", "144 Wn.2d 583", "152 Wn.2d 1023", "156 Wn.2d 1014", "27 P.3d 1208", "280 N.W.2d 559", "30 P.3d 474", "39 P.3d 380", "530 P.2d 313", "82 P.3d 1199", "85 Wn.2d 102", "89 Mich. App. 456"]
+cites_cases: ["107 Wn. App. 550", "110 Wn. App. 212", "119 Wn. App. 665", "144 Wn.2d 583", "152 Wn.2d 1023", "156 Wn.2d 1014", "27 P.3d 1208", "280 N.W.2d 559", "30 P.3d 474", "39 P.3d 380", "530 P.2d 313", "82 P.3d 1199", "85 Wn.2d 102", "89 Mich. App. 456"]
 ---
 
 # Eugster v. City of Spokane
