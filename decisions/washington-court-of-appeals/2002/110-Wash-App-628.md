@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26702-1-II"
 decided: "2002-02-08"
-citations: ["110 Wash. App. 628", "110 Wash. App. 1023"]
+citations: ["110 Wash. App. 628"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donald C. Milligan, Appellant, v. Richard Thompson, as Secretary of t
 source_url: "https://static.case.law/wash-app/110/cases/0628-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1124007
-cites_cases: ["104 Wn. App. 606", "110 Wn. App. 628", "114 Wn.2d 353", "118 Wn.2d 46", "119 Wn.2d 452", "122 Wn.2d 483", "141 Wn.2d 1017", "144 Wn.2d 1016", "144 Wn.2d 172", "15 P.3d 210", "23 P.3d 440", "42 U.S.C. § 1983", "45 Wn. App. 29", "530 U.S. 133", "60 Wn. App. 369", "69 Wn. App. 852", "723 P.2d 1195", "788 P.2d 1066", "79 Wn. App. 368", "80 Wn. App. 212", "803 P.2d 841", "821 P.2d 18", "832 P.2d 1303", "851 P.2d 716", "859 P.2d 26", "865 P.2d 507", "90 Wn. App. 586", "901 P.2d 1079", "907 P.2d 1223", "953 P.2d 112", "98 Wn. App. 845", "991 P.2d 1182"]
+cites_cases: ["104 Wn. App. 606", "114 Wn.2d 353", "118 Wn.2d 46", "119 Wn.2d 452", "122 Wn.2d 483", "141 Wn.2d 1017", "144 Wn.2d 1016", "144 Wn.2d 172", "15 P.3d 210", "23 P.3d 440", "42 U.S.C. § 1983", "45 Wn. App. 29", "530 U.S. 133", "60 Wn. App. 369", "69 Wn. App. 852", "723 P.2d 1195", "788 P.2d 1066", "79 Wn. App. 368", "80 Wn. App. 212", "803 P.2d 841", "821 P.2d 18", "832 P.2d 1303", "851 P.2d 716", "859 P.2d 26", "865 P.2d 507", "90 Wn. App. 586", "901 P.2d 1079", "907 P.2d 1223", "953 P.2d 112", "98 Wn. App. 845", "991 P.2d 1182"]
 ---
 
 # Milligan v. Thompson
