@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23081-0-II"
 decided: "1999-09-24"
-citations: ["98 Wash. App. 515", "97 Wash. App. 1044"]
+citations: ["98 Wash. App. 515"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Joseph Elmer Sunde, Appellant
 source_url: "https://static.case.law/wash-app/98/cases/0515-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155910
-cites_cases: ["118 Wn.2d 681", "127 Wn.2d 749", "80 Wn. App. 457", "826 P.2d 194", "903 P.2d 459", "909 P.2d 1333", "95 Wn. App. 167", "974 P.2d 912", "98 Wn. App. 515"]
+cites_cases: ["118 Wn.2d 681", "127 Wn.2d 749", "80 Wn. App. 457", "826 P.2d 194", "903 P.2d 459", "909 P.2d 1333", "95 Wn. App. 167", "974 P.2d 912"]
 ---
 
 # State v. Sunde
