@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47176-7-I"
 decided: "2002-08-19"
-citations: ["113 Wash. App. 482", "113 Wash. App. 1015"]
+citations: ["113 Wash. App. 482"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Anthony Paul Johnson, Appella
 source_url: "https://static.case.law/wash-app/113/cases/0482-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764686
-cites_cases: ["10 P.3d 977", "100 Wn. App. 776", "108 Wn. App. 702", "109 Wn. App. 817", "112 Wn. App. 390", "113 Wn. App. 482", "114 Wn.2d 6", "115 Wn.2d 1025", "116 Wn.2d 831", "12 P.3d 603", "120 Wn.2d 1025", "121 Wn.2d 494", "125 Wn.2d 378", "125 Wn.2d 570", "125 Wn.2d 769", "127 Wn.2d 322", "13 P.3d 1065", "132 Wn.2d 529", "133 Wn.2d 541", "134 Wn.2d 1008", "138 Wn.2d 460", "141 Wn.2d 798", "142 Wn.2d 1007", "142 Wn.2d 165", "149 Wn.2d 1010", "30 Wn. App. 156", "32 P.3d 1029", "37 P.3d 293", "382 P.2d 614", "446 U.S. 291", "466 U.S. 668", "470 U.S. 856", "49 P.3d 935", "498 U.S. 838", "516 U.S. 843", "523 U.S. 1007", "58 Wn. App. 478", "616 P.2d 628", "62 Wn.2d 259", "632 P.2d 917", "662 P.2d 853", "67 Wn. App. 228", "72 Wn. App. 429", "785 P.2d 440", "794 P.2d 38", "809 P.2d 190", "834 P.2d 671", "851 P.2d 678", "864 P.2d 990", "87 Wn. App. 268", "886 P.2d 123", "888 P.2d 1105", "888 P.2d 155", "89 Wn. App. 857", "899 P.2d 1251", "93 Wn. App. 442", "94 Wn.2d 216", "940 P.2d 546", "944 P.2d 397", "947 P.2d 700", "950 P.2d 1004", "96 Wn. App. 672", "96 Wn.2d 1023", "969 P.2d 501", "979 P.2d 850", "98 Wn. App. 179", "981 P.2d 16", "988 P.2d 1045", "99 Wn.2d 413", "998 P.2d 897"]
+cites_cases: ["10 P.3d 977", "100 Wn. App. 776", "108 Wn. App. 702", "109 Wn. App. 817", "112 Wn. App. 390", "114 Wn.2d 6", "115 Wn.2d 1025", "116 Wn.2d 831", "12 P.3d 603", "120 Wn.2d 1025", "121 Wn.2d 494", "125 Wn.2d 378", "125 Wn.2d 570", "125 Wn.2d 769", "127 Wn.2d 322", "13 P.3d 1065", "132 Wn.2d 529", "133 Wn.2d 541", "134 Wn.2d 1008", "138 Wn.2d 460", "141 Wn.2d 798", "142 Wn.2d 1007", "142 Wn.2d 165", "149 Wn.2d 1010", "30 Wn. App. 156", "32 P.3d 1029", "37 P.3d 293", "382 P.2d 614", "446 U.S. 291", "466 U.S. 668", "470 U.S. 856", "49 P.3d 935", "498 U.S. 838", "516 U.S. 843", "523 U.S. 1007", "58 Wn. App. 478", "616 P.2d 628", "62 Wn.2d 259", "632 P.2d 917", "662 P.2d 853", "67 Wn. App. 228", "72 Wn. App. 429", "785 P.2d 440", "794 P.2d 38", "809 P.2d 190", "834 P.2d 671", "851 P.2d 678", "864 P.2d 990", "87 Wn. App. 268", "886 P.2d 123", "888 P.2d 1105", "888 P.2d 155", "89 Wn. App. 857", "899 P.2d 1251", "93 Wn. App. 442", "94 Wn.2d 216", "940 P.2d 546", "944 P.2d 397", "947 P.2d 700", "950 P.2d 1004", "96 Wn. App. 672", "96 Wn.2d 1023", "969 P.2d 501", "979 P.2d 850", "98 Wn. App. 179", "981 P.2d 16", "988 P.2d 1045", "99 Wn.2d 413", "998 P.2d 897"]
 ---
 
 # State v. Johnson
