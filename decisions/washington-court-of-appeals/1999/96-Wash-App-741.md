@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24075-1-II"
 decided: "1999-06-25"
-citations: ["96 Wash. App. 741", "96 Wash. App. 1018"]
+citations: ["96 Wash. App. 741"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Stouffer & Knight, et al., Appellants, v. Continental Casualty Compan
 source_url: "https://static.case.law/wash-app/96/cases/0741-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128429
-cites_cases: ["100 P.2d 1024", "105 Wn.2d 381", "106 Wn.2d 901", "112 Wn.2d 1", "115 Wn.2d 609", "115 Wn.2d 679", "117 Wn.2d 37", "118 Wn.2d 383", "123 Wn.2d 678", "124 Wn.2d 121", "129 Wn.2d 368", "129 Wn.2d 43", "134 Wn.2d 558", "136 Wn.2d 269", "139 Wn.2d 1018", "266 Ga. 260", "281 Md. 371", "3 Wn.2d 423", "378 A.2d 1346", "44 Wn. App. 327", "485 So. 2d 1093", "54 Wn. App. 195", "54 Wn. App. 400", "631 P.2d 947", "656 P.2d 1077", "68 Wn. App. 573", "715 P.2d 1133", "721 P.2d 34", "726 P.2d 439", "771 P.2d 701", "773 P.2d 105", "773 P.2d 906", "801 P.2d 193", "801 P.2d 207", "811 P.2d 673", "823 P.2d 499", "83 Wn. App. 857", "843 P.2d 1133", "871 P.2d 146", "875 P.2d 621", "914 P.2d 728", "917 P.2d 116", "924 P.2d 940", "93 Wn. App. 484", "95 Wn.2d 909", "951 P.2d 1124", "96 Wn. App. 741", "961 P.2d 933", "969 P.2d 510", "975 P.2d 517", "98 Wn.2d 533"]
+cites_cases: ["100 P.2d 1024", "105 Wn.2d 381", "106 Wn.2d 901", "112 Wn.2d 1", "115 Wn.2d 609", "115 Wn.2d 679", "117 Wn.2d 37", "118 Wn.2d 383", "123 Wn.2d 678", "124 Wn.2d 121", "129 Wn.2d 368", "129 Wn.2d 43", "134 Wn.2d 558", "136 Wn.2d 269", "139 Wn.2d 1018", "266 Ga. 260", "281 Md. 371", "3 Wn.2d 423", "378 A.2d 1346", "44 Wn. App. 327", "485 So. 2d 1093", "54 Wn. App. 195", "54 Wn. App. 400", "631 P.2d 947", "656 P.2d 1077", "68 Wn. App. 573", "715 P.2d 1133", "721 P.2d 34", "726 P.2d 439", "771 P.2d 701", "773 P.2d 105", "773 P.2d 906", "801 P.2d 193", "801 P.2d 207", "811 P.2d 673", "823 P.2d 499", "83 Wn. App. 857", "843 P.2d 1133", "871 P.2d 146", "875 P.2d 621", "914 P.2d 728", "917 P.2d 116", "924 P.2d 940", "93 Wn. App. 484", "95 Wn.2d 909", "951 P.2d 1124", "961 P.2d 933", "969 P.2d 510", "975 P.2d 517", "98 Wn.2d 533"]
 ---
 
 # Stouffer & Knight v. Continental Casualty Co.
