@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27761-1-II"
 decided: "2002-12-20"
-citations: ["115 Wash. App. 511", "114 Wash. App. 1068"]
+citations: ["115 Wash. App. 511"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Randy Norris, et al., Appellants, v. Church & Company, Inc., Responde
 source_url: "https://static.case.law/wash-app/115/cases/0511-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 222025
-cites_cases: ["103 Wn. App. 945", "108 Wn. App. 1050", "115 Wn. App. 511", "115 Wn.2d 506", "118 Wn.2d 476", "146 Wn.2d 1021", "15 P.3d 172", "15 Wn. App. 866", "2001 WL 1301337", "353 P.2d 672", "415 P.2d 89", "42 Wn. App. 261", "479 S.W.2d 795", "552 P.2d 1076", "56 Wn.2d 449", "68 Wn.2d 707", "71 Wn. App. 5", "710 P.2d 809", "774 S.W.2d 535", "799 P.2d 250", "824 P.2d 483", "856 P.2d 410"]
+cites_cases: ["103 Wn. App. 945", "108 Wn. App. 1050", "115 Wn.2d 506", "118 Wn.2d 476", "146 Wn.2d 1021", "15 P.3d 172", "15 Wn. App. 866", "2001 WL 1301337", "353 P.2d 672", "415 P.2d 89", "42 Wn. App. 261", "479 S.W.2d 795", "552 P.2d 1076", "56 Wn.2d 449", "68 Wn.2d 707", "71 Wn. App. 5", "710 P.2d 809", "774 S.W.2d 535", "799 P.2d 250", "824 P.2d 483", "856 P.2d 410"]
 ---
 
 # Norris v. Church & Co.
