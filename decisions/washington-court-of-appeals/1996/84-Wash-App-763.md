@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36489-8-I"
 decided: "1996-12-23"
-citations: ["84 Wash. App. 763", "84 Wash. App. 1047"]
+citations: ["84 Wash. App. 763"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Corinne A. Wicklund, Respondent, and
 source_url: "https://static.case.law/wash-app/84/cases/0763-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121576
-cites_cases: ["100 Wn.2d 325", "121 Wn.2d 795", "129 Wn.2d 1003", "43 Wn. App. 518", "47 Wn. App. 754", "669 P.2d 886", "718 P.2d 7", "737 P.2d 680", "78 Wn. App. 482", "79 Wn. App. 786", "84 Wn. App. 763", "854 P.2d 629", "899 P.2d 803", "905 P.2d 922"]
+cites_cases: ["100 Wn.2d 325", "121 Wn.2d 795", "129 Wn.2d 1003", "43 Wn. App. 518", "47 Wn. App. 754", "669 P.2d 886", "718 P.2d 7", "737 P.2d 680", "78 Wn. App. 482", "79 Wn. App. 786", "854 P.2d 629", "899 P.2d 803", "905 P.2d 922"]
 ---
 
 # In re the Marriage of Wicklund
