@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51382-6-I"
 decided: "2004-05-03"
-citations: ["121 Wash. App. 872", "121 Wash. App. 1027"]
+citations: ["121 Wash. App. 872"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Kristin Tagas, Appellant."]
 source_url: "https://static.case.law/wash-app/121/cases/0872-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 864027
-cites_cases: ["106 Wn.2d 54", "11 P.3d 714", "114 Wn. App. 702", "121 Wn. App. 872", "136 Wn.2d 103", "137 Wn.2d 208", "138 Wn.2d 343", "138 Wn.2d 964", "142 Wn.2d 17", "145 Wn.2d 630", "148 Wn.2d 564", "149 Wn.2d 557", "150 Wn.2d 1001", "389 U.S. 347", "41 P.3d 1159", "412 U.S. 218", "60 P.3d 116", "62 P.3d 489", "69 P.3d 862", "720 P.2d 808", "960 P.2d 927", "970 P.2d 722", "979 P.2d 833", "983 P.2d 590"]
+cites_cases: ["106 Wn.2d 54", "11 P.3d 714", "114 Wn. App. 702", "136 Wn.2d 103", "137 Wn.2d 208", "138 Wn.2d 343", "138 Wn.2d 964", "142 Wn.2d 17", "145 Wn.2d 630", "148 Wn.2d 564", "149 Wn.2d 557", "150 Wn.2d 1001", "389 U.S. 347", "41 P.3d 1159", "412 U.S. 218", "60 P.3d 116", "62 P.3d 489", "69 P.3d 862", "720 P.2d 808", "960 P.2d 927", "970 P.2d 722", "979 P.2d 833", "983 P.2d 590"]
 ---
 
 # State v. Tagas
