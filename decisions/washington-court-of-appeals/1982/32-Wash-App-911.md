@@ -1,0 +1,34 @@
+---
+court: "Washington Court of Appeals"
+docket: "10103-0-I"
+decided: "1982-07-26"
+citations: ["32 Wash. App. 911"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Thomas John Penn, Appellant."]
+source_url: "https://static.case.law/wash-app/32/cases/0911-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1814506
+cites_cases: ["26 Wn. App. 45", "29 Wn. App. 372", "31 Wn. App. 226", "31 Wn. App. 843", "395 U.S. 711", "417 U.S. 21", "434 U.S. 357", "550 F.2d 1224", "591 P.2d 452", "600 P.2d 1249", "612 P.2d 801", "628 P.2d 515", "639 P.2d 1332", "640 P.2d 25", "644 P.2d 1224", "91 Wn.2d 638", "92 Wn.2d 671", "96 Wn.2d 926"]
+---
+
+# State v. Penn
+
+## Majority (Callow, J.)
+
+Callow, J.
+Thomas Penn appeals from a judgment and sentence following his conviction by a jury of five counts of robbery in the first degree and one count of taking a motor vehicle without the owner's permission. He argues that the State acted vindictively by adding two robbery counts on the day of trial, and that the charge of taking a motor vehicle without the owner's permission must merge with the one count of robbery when he took the wallet and the car at the same time from the same victim.
+The facts are undisputed. Penn and another individual were hitchhiking in south King County. When a passerby stopped to pick them up, the other man produced a gun and ordered the driver to follow his directions. The driver's wallet was taken, he was ordered out of the car, and the two of them drove off in the car. During the next 24 hours Penn and the other man robbed at gunpoint three persons at a convenience grocery store and another man at a nearby gasoline station. Shots were fired from a shotgun during both robberies. The defendant was arrested in the stolen car that same day.
+The State originally charged Penn by information with one count of robbery and one count of taking a motor vehicle without the owner's permission, relating to the taking of the car and the driver's wallet. Six days later an amended information was filed charging Penn additionally with the gasoline station robbery and one count of robbery stemming from the convenience store incident. On the day of trial the State again amended the complaint to add the two additional robberies at the convenience store. The jury found Penn guilty on all six counts.
+Penn contends that the State filed increased charges simply because he exercised his constitutional right to a trial. The State responds that there is no evidence on the record that an objection of this sort was ever made at trial, and that the issue was not preserved for appeal.
+The record submitted for consideration on appeal reflects that an objection was never lodged to the addition of new charges, nor was the trial court afforded an opportunity to determine if the State's motivation was vindictive. Issues not raised in the trial court will not be considered for the first time on appeal. State v. Wicke, 91 Wn.2d 638, 591 P.2d 452 (1979); State v. Smith, 31 Wn. App. 226, 640 P.2d 25 (1982).
+In any event the claim is without merit. Blackledge v. Perry, 417 U.S. 21, 40 L. Ed. 2d 628, 94 S. Ct. 2098 (1974), and North Carolina v. Pearce, 395 U.S. 711, 23 L. Ed. 2d 656, 89 S. Ct. 2072 (1969), relied upon by the appellant, impose limits upon prosecutorial discretion in seeking new indictments or retrials when such action is in retaliation for a defendant's exercise of a statutory or constitutional right. The restrictions imposed upon the addition of further counts against the defendant during a criminal proceeding exist to protect the right to fully present the defenses and to relieve a defendant of the fear of retaliation because of the legal assertion of rights. United States v. DeMarco, 550 F.2d 1224, 1227 (9th Cir. 1977). In Black-ledge and Pearce, the issue was the filing of more serious charges when a defendant was granted a new trial by the superior court or received a new trial after a successful appeal. In this case, however, the State added additional charges for which it believed there was evidence to convict. No showing was made that the actions of the prosecution were vindictive. The State is vested with considerable discretion in determining whether or not to charge, and what to charge, so long as the selection is not deliberately based upon unjustifiable standards. Bordenkircher v. Hayes, 434 U.S. 357, 54 L. Ed. 2d 604, 98 S. Ct. 663 (1978). There has been no demonstration of impermissible conduct here.
+Second, Penn asserts that under the facts of this case the automobile and the wallet were forcefully taken from the victim in a single act constituting one count of robbery.
+RCW 9A.56.070 prohibits both the taking of and the riding in a motor vehicle without the permission of the owner. RCW 9A.56.190-.200 prohibits the taking of personal property against the will of the victim through the use or threatened use of force. The merger doctrine precludes conviction for one or more offenses based on acts which are so much a part of another substantive crime that the substantive crime could not have been committed without such acts and that independent criminal responsibility may not be attributed to them. If such acts have no independent purpose or effect, they become merged into the completed substantive crime. State v. Johnson, 92 Wn.2d 671, 600 P.2d 1249 (1979); State v. Hoyt, 29 Wn. App. 372, 628 P.2d 515 (1981); State v. Ingham, 26 Wn. App. 45, 612 P.2d 801 (1980).
+In this case the taking of and the riding in the automobile was incidental to the taking of the wallet, and had the independent purpose and effect of enabling the defendant to flee the crime scene. The cases cited by the defendant all involved factual circumstances where one charged crime could not practically have been committed without the commission of the other charged crimes. The takings in this case were unrelated, notwithstanding their proximity in time and space, and it was not improper for the State to bring charges on the two crimes which are distinct and separable acts.
+Additionally, the record reflects that the defendant was sentenced concurrently on the two counts. He was therefore only punished once for his unlawful conduct since the disposition does not exceed the penalty for any one of the offenses of which he was properly convicted. State v. Johnson, 96 Wn.2d 926, 639 P.2d 1332 (1982); State v. Turner, 31 Wn. App. 843, 644 P.2d 1224 (1982). The defendant has not been prejudiced by his conviction of both charges in any event.
+The judgment and sentence is affirmed.
+Andersen, C.J., and Williams, J., concur.
+Reconsideration denied October 8, 1982.
+Review denied by Supreme Court December 17, 1982.
