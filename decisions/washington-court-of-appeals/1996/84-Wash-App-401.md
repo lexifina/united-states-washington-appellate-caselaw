@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19681-6-II"
 decided: "1996-12-06"
-citations: ["84 Wash. App. 401", "84 Wash. App. 1024"]
+citations: ["84 Wash. App. 401"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Superior Asphalt & Concrete Company, Appellant, v. The Department of 
 source_url: "https://static.case.law/wash-app/84/cases/0401-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121842
-cites_cases: ["106 Wn.2d 455", "109 Wn.2d 819", "114 Wn.2d 572", "119 Wn.2d 423", "124 Wn.2d 1029", "128 N.W.2d 1", "132 Wn.2d 1009", "153 Ill. 2d 570", "23 Wis. 2d 551", "250 Ill. App. 3d 955", "38 Op. Att'y Gen. 481", "406 Mass. 162", "546 N.E.2d 367", "586 P.2d 486", "620 N.E.2d 533", "624 N.E.2d 817", "656 P.2d 1030", "722 P.2d 808", "73 Wn. App. 576", "748 P.2d 1112", "790 P.2d 124", "833 P.2d 375", "84 Wn. App. 401", "870 P.2d 987", "91 Wn.2d 41", "98 Wn.2d 434"]
+cites_cases: ["106 Wn.2d 455", "109 Wn.2d 819", "114 Wn.2d 572", "119 Wn.2d 423", "124 Wn.2d 1029", "128 N.W.2d 1", "132 Wn.2d 1009", "153 Ill. 2d 570", "23 Wis. 2d 551", "250 Ill. App. 3d 955", "38 Op. Att'y Gen. 481", "406 Mass. 162", "546 N.E.2d 367", "586 P.2d 486", "620 N.E.2d 533", "624 N.E.2d 817", "656 P.2d 1030", "722 P.2d 808", "73 Wn. App. 576", "748 P.2d 1112", "790 P.2d 124", "833 P.2d 375", "870 P.2d 987", "91 Wn.2d 41", "98 Wn.2d 434"]
 ---
 
 # Superior Asphalt & Concrete Co. v. Department of Labor & Industries
