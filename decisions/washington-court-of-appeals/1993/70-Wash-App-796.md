@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30861-1-I"
 decided: "1993-06-14"
-citations: ["70 Wash. App. 796", "70 Wash. App. 1021"]
+citations: ["70 Wash. App. 796"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James Neff, et al, Appellants, v. Allstate Insurance Company, Respond
 source_url: "https://static.case.law/wash-app/70/cases/0796-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1745423
-cites_cases: ["100 Wn.2d 660", "103 Wn.2d 484", "109 Wn.2d 504", "111 Wn.2d 1012", "118 Wn.2d 1002", "123 Wn.2d 1004", "22 Wn. App. 583", "265 N.W.2d 86", "34 Wn. App. 372", "50 Wn. App. 869", "591 P.2d 834", "613 F. Supp. 226", "62 Wn. App. 92", "65 Wn. App. 419", "661 P.2d 987", "674 P.2d 165", "694 P.2d 16", "70 Wn. App. 796", "745 P.2d 858", "751 P.2d 329", "763 F.2d 1352", "81 Mich. App. 217", "813 P.2d 171", "828 P.2d 90"]
+cites_cases: ["100 Wn.2d 660", "103 Wn.2d 484", "109 Wn.2d 504", "111 Wn.2d 1012", "118 Wn.2d 1002", "123 Wn.2d 1004", "22 Wn. App. 583", "265 N.W.2d 86", "34 Wn. App. 372", "50 Wn. App. 869", "591 P.2d 834", "613 F. Supp. 226", "62 Wn. App. 92", "65 Wn. App. 419", "661 P.2d 987", "674 P.2d 165", "694 P.2d 16", "745 P.2d 858", "751 P.2d 329", "763 F.2d 1352", "81 Mich. App. 217", "813 P.2d 171", "828 P.2d 90"]
 ---
 
 # Neff v. Allstate Insurance
