@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16977-4-III"
 decided: "1999-03-16"
-citations: ["95 Wash. App. 33", "94 Wash. App. 1041"]
+citations: ["95 Wash. App. 33"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert McBride, et al., Appellants, v. Walla Walla County, Respondent
 source_url: "https://static.case.law/wash-app/95/cases/0033-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 255038
-cites_cases: ["105 Wn.2d 632", "110 Wn.2d 355", "114 Wn.2d 1023", "119 Wn.2d 1019", "120 Wn.2d 1031", "120 Wn.2d 439", "121 Wn.2d 552", "123 Wn.2d 819", "125 Wn.2d 337", "13 Wn. App. 1", "138 Wn.2d 1015", "23 Wn. App. 756", "42 U.S.C. § 1983", "42 U.S.C. § 1988", "46 Wn. App. 388", "499 U.S. 979", "515 P.2d 496", "533 P.2d 395", "56 Wn. App. 625", "598 P.2d 742", "622 P.2d 1240", "65 Wn. App. 218", "65 Wn. App. 661", "716 P.2d 295", "731 P.2d 1101", "753 P.2d 517", "784 P.2d 1288", "79 Wn. App. 850", "828 P.2d 49", "83 Wn. App. 532", "83 Wn.2d 49", "831 P.2d 1098", "842 P.2d 956", "852 P.2d 295", "872 P.2d 516", "883 P.2d 1383", "905 P.2d 928", "92 Wn.2d 1038", "922 P.2d 145", "95 Wn. App. 33", "95 Wn.2d 385"]
+cites_cases: ["105 Wn.2d 632", "110 Wn.2d 355", "114 Wn.2d 1023", "119 Wn.2d 1019", "120 Wn.2d 1031", "120 Wn.2d 439", "121 Wn.2d 552", "123 Wn.2d 819", "125 Wn.2d 337", "13 Wn. App. 1", "138 Wn.2d 1015", "23 Wn. App. 756", "42 U.S.C. § 1983", "42 U.S.C. § 1988", "46 Wn. App. 388", "499 U.S. 979", "515 P.2d 496", "533 P.2d 395", "56 Wn. App. 625", "598 P.2d 742", "622 P.2d 1240", "65 Wn. App. 218", "65 Wn. App. 661", "716 P.2d 295", "731 P.2d 1101", "753 P.2d 517", "784 P.2d 1288", "79 Wn. App. 850", "828 P.2d 49", "83 Wn. App. 532", "83 Wn.2d 49", "831 P.2d 1098", "842 P.2d 956", "852 P.2d 295", "872 P.2d 516", "883 P.2d 1383", "905 P.2d 928", "92 Wn.2d 1038", "922 P.2d 145", "95 Wn.2d 385"]
 ---
 
 # McBride v. Walla Walla County
