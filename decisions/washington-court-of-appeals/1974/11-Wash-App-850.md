@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "2078-1"
+decided: "1974-09-09"
+citations: ["11 Wash. App. 850"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Anthony Solesski, as Guardian, Appellant, v. Oregon Automobile Insurance Company, Respondent."]
+source_url: "https://static.case.law/wash-app/11/cases/0850-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1853620
+cites_cases: ["10 Wn. App. 350", "262 P.2d 202", "378 P.2d 413", "43 Wn.2d 574", "460 P.2d 272", "466 P.2d 159", "501 P.2d 1063", "517 P.2d 611", "61 Wn.2d 319", "77 Wn.2d 178", "77 Wn.2d 720", "81 Wn.2d 302"]
+---
+
+# Solesski v. Oregon Automobile Insurance
+
+## Majority (Williams, J.)
+
+Williams, J.
+— Linda, Victoria, and Michael Solesski, minors, by their guardian ad litem, brought this action against Oregon Automobile Insurance Company, under the uninsured motorist section of an automobile comprehensive insurance policy, to recover $7,500 for the wrongful death of their mother. The trial court determined that payment of the policy limits to the children’s stepfather fully acquitted the insurance company. The children, through their guardian ad litem, appeal.
+The agreed facts are that the insurance company issued its automobile insurance policy to Leslie A. Hartung and Patricia I. Hartung, husband and wife, as the named insured. Mrs. Hartung, who was mother of the children by a previous marriage, was killed in an automobile accident wrongfully caused by an uninsured motorist. Mr. Hartung notified the company of the loss and applied for the $10,000 available under Coverage H, which provided protection against uninsured motorists as required by RCW 48.22.030. The specific wording of the coverage is:
+To pay all sums which the insured or his legal representative shall be legally entitled to recover as damages from the owner or operator of an uninsured automobile because of bodily injury, sustained by the insured, caused by accident and arising out of the ownership, maintenance or use of such uninsured automobile; . . .
+The company paid Mr. Hartung the full' $10,000, 4 months after the accident.
+About 2 years after the payment to Mr. Hartung, the father of the children was appointed their guardian ad litem to pursue their claim. The company rejected it on the ground that Mr. Hartung, as surviving spouse, had been paid in full as authorized by subsection (c) of the following provision in the uninsured motorist payment of loss section of the policy:
+Coverage H. Any amount due under Coverage H is payable (a) to the insured, or (b) if the insured be a minor to his parent or guardián, or (c) if the insured be deceased to his surviving spouse, otherwise (d) to a person authorized by law to receive such payment or to a person legally entitled to recover the damages which the payment represents provided the Company may at its option pay any amount due in accordance with division (d) hereof.
+The sole question is whether payment of the policy limits to Mr. .Hartung forecloses the children from successfully claiming a share of the proceeds from the company. We hold that it did not.
+The general rule is that when the insurer pays insurance proceeds to a person who is by the terms of the policy a proper recipient, the insurer is discharged. This rule has been generally applied in life and disability policies. RCW 48.18.370. Miller v. Paul Revere Life Ins. Co., 81 Wn.2d 302, 501 P.2d 1063 (1972); 4 G. Couch, Insurance §§ 27:72, 27:85 (2d ed. 1960). There is no reason why the rule should not be applied to the uninsured motorist section of an automobile policy unless it restricts the protection of persons insured thereunder. State Farm Mut. Auto. Ins. Co. v. Bafus, 77 Wn.2d 720, 466 P.2d 159 (1970); Signal Ins. Co. v. Walden, 10 Wn. App. 350, 517 P.2d 611 (1973).
+The purpose of the uninsured motorist insurance coverage is to afford to the insured, in this case Mr. and Mrs. Hartung and the three children, protection against tortious motorists who are not financially responsible. The death of Mrs. Hartung created a claim by the insured, Mr. Hartung and the three children, against the erring motorist. When he proved to be uninsured, the claim of the four was then directed to the insurer, which stands in the shoes of the uninsured motorist. State Farm Mut. Auto. Ins. Co. v. Bafus, supra; Signal Ins. Co. v. Walden, supra.
+The evident purpose of the payment section above quoted is to specify the person to whom payment will be made. The person primarily entitled to the proceeds, in the event of a loss, is the insured under subsection (a); if the insured is a minor, then subsection (b) applies; if he is deceased, then subsection (c) applies. Subsection (d) gives the insurer the option of paying some other person who is authorized by law to receive payment or to recover for the damages sustained.
+Application of the payment plan to the facts of this case is difficult because of the use of the word “insured” therein. The “insured” is defined in the policy as follows:
+(1) if the insured named in Item 1 of the declarations is an individual or husband and wife, the named insured as stated therein and any person designated as an insured in Item 2 of the declarations while resident in the same household, the spouse of any such named insured and relatives of either, . . .
+(Italics ours.) Initially, the insured consisted of Mr. and Mrs. Hartung and the three children. If the policy definition is used, then the proceeds may not be paid under subsection (a) because three of the insured are minors. Subsection (b) is inappropriate because one of the insured is an adult. Subsection (c) is also inappropriate because four of the insured are not deceased. Consequently, only subsection (d) provides a proper means of disbursement to the insured because the beneficiaries are designated by statute. RCW 4.20.020.
+An additional reason why subsection (c) does not apply is that there is no surviving spouse of an insured who received a compensable injury. Although Mrs. Hartung was fatally injured, the cause of action which accrued was for the consequential damage to her husband and the children. Hutton v. Martin, 43 Wn.2d 574, 262 P.2d 202 (1953). It must be remembered that uninsured motorist coverage takes the place of insurance protection which is lacking because the erring motorist is uninsured. The validity of the claim is established by proof of the liability of the uninsured motorist. If the law were that a claim for wrongful death somehow belonged to the decedent, then payment to the surviving spouse would be reasonable under subsection (c). However, that is not the law. The cause of action for Mrs. Hartung’s wrongful death accrued only to her personal representative for the benefit of the surviving spouse and children. RCW 4.20.010. Warner v. McCaughan, 77 Wn.2d 178, 460 P.2d 272 (1969); Gray v. Goodson, 61 Wn.2d 319, 378 P.2d 413 (1963). The surviving spouse and children are the injured parties, and they are not the deceased.
+The judgment is reversed and the cause remanded for entry of judgment in the amount of $7,500 in favor of the guardian ad litem as the representative of the three children, the question of apportionment not being in issue.
+Horowitz and Callow, JJ., concur.
+Petition for rehearing denied November 18, 1974.
