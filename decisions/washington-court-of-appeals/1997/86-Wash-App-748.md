@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15147-6-III"
 decided: "1997-05-01"
-citations: ["86 Wash. App. 748", "85 Wash. App. 1089"]
+citations: ["86 Wash. App. 748"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Estevan Garcia, Appellant, v. The Department of Labor & Industries, R
 source_url: "https://static.case.law/wash-app/86/cases/0748-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278649
-cites_cases: ["106 Wn.2d 1003", "107 Wn.2d 388", "120 Wn.2d 461", "125 Wn.2d 1021", "126 Wn.2d 1004", "133 Wn.2d 1011", "43 Wn. App. 92", "457 U.S. 202", "525 P.2d 774", "715 P.2d 534", "730 P.2d 45", "74 Wn. App. 566", "75 Wn. App. 379", "804 P.2d 1", "84 Wn.2d 271", "843 P.2d 1056", "86 Wn. App. 748", "874 P.2d 876", "880 P.2d 543"]
+cites_cases: ["106 Wn.2d 1003", "107 Wn.2d 388", "120 Wn.2d 461", "125 Wn.2d 1021", "126 Wn.2d 1004", "133 Wn.2d 1011", "43 Wn. App. 92", "457 U.S. 202", "525 P.2d 774", "715 P.2d 534", "730 P.2d 45", "74 Wn. App. 566", "75 Wn. App. 379", "804 P.2d 1", "84 Wn.2d 271", "843 P.2d 1056", "874 P.2d 876", "880 P.2d 543"]
 ---
 
 # Garcia v. Department of Labor & Industries
