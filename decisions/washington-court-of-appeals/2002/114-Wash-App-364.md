@@ -1,0 +1,58 @@
+---
+court: "Washington Court of Appeals"
+docket: "50697-8-I"
+decided: "2002-11-18"
+citations: ["114 Wash. App. 364"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Primerica Life Insurance Company, Respondent, v. Richard Madison, Appellant, Linda Wells, et al., as Personal Representatives, Respondents."]
+source_url: "https://static.case.law/wash-app/114/cases/0364-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 163182
+cites_cases: ["103 Wn. App. 498", "109 Wn.2d 43", "111 Wn.2d 452", "12 P.3d 1048", "143 Wn.2d 1011", "189 Wash. 269", "197 P.2d 999", "31 Wn.2d 533", "64 P.2d 1050", "742 P.2d 1242", "760 P.2d 337"]
+---
+
+# Primerica Life Insurance v. Madison
+
+## Majority (Baker, J.)
+
+Baker, J.
+Richard Madison appeals a superior court ruling that he is not entitled to life insurance proceeds stemming from his ex-wife’s death. Because we decide that the automatic revocation provision of RCW 11.07.010 is inapplicable to the facts of this case, we reverse.
+I
+In the 1993 decree dissolving Richard Madison and Evangeline Carvine-Duncan’s marriage, the court awarded Madison all insurance policies on his life and awarded Carvine-Duncan all insurance policies on her life. Madison had a Primerica Life Insurance Company policy that included a spousal rider naming Carvine-Duncan as the spouse and himself as the beneficiary of the rider. After the dissolution, Madison continued to pay the premiums on his policy, including a sum for the rider. When Carvine-Duncan died, both Madison and Carvine-Duncan’s estate claimed the insurance proceeds from the rider. Primerica inter-pleaded and paid the proceeds into the court’s registry.
+The superior court ruled that the rider was a separate insurance policy and that it had been awarded to CarvineDuncan at divorce. Consequently, the automatic beneficiary revocation found in the probate statutes was held to apply, and Madison was no longer the beneficiary. The court awarded Carvine-Duncan’s estate the proceeds. Madison now appeals.
+II
+The rider in question was attached to a policy on Madison’s life. Because that policy was awarded to Madison in the decree of dissolution, he was the owner of the attached rider. If the issue had been addressed in the context of the dissolution proceeding, it may have been possible for that court to require the parties to sever the rider from the policy, and award it to Carvine-Duncan. That was not done, however, and no subsequent attempt was made to convert the rider into a separate policy of insurance.
+Riders which constitute a part of an insurance contract should be read and construed with the entire policy. Generally, “ ‘a lawful slip or rider which is properly attached to a policy and referred to therein is a part of the contract and should be construed in connection with the other provisions of the policy, and the entire contract should be harmonized therewith if possible.’ ” This rule is not absolute. Because each insurance policy is unique, whether a rider is part of the underlying policy or separable must be determined on a case-by-case basis.
+Here, the dissolution decree awarded Madison the underlying life insurance policy at issue. To determine if the attached rider was a separate policy, we must look to the policy itself. “ ‘Indorsements, riders, marginal references, and other writings which constitute a part of the contract of insurance are to be read and construed with the policy proper’ ” absent a contrary intent in the insurance endorsement.
+Where there is a conflict between the rider and the underlying policy, the intent of the insurance rider controls. Thus, if Madison’s rider contained language evidencing an intent to construe it separately, this language would control. The rider states that it terminates if the policy terminates, or if the rider is converted into a policy. But conversion into a separate policy is governed by express conditions under the policy, none of which were met here. The policy itself provides that the rider is part of the underlying contract unless converted to a full policy. Thus, the superior court contradicted the express terms of the policy in ruling that the rider was separately awarded to Carvine-Duncan upon dissolution.
+We do not suggest that if this matter had been properly brought before the dissolution court, it would be without means to compel the parties to sever the rider. But standard language in a dissolution decree that “each spouse gets his or her own insurance policies” does not purport to divide a policy or convert an attached rider into a separate policy without regard to the provisions of the insurance policy at issue. Rather, language in the policy itself provides for the rider’s severance. Many policies now contain spousal riders, and domestic relations attorneys should be aware that riders are not severed by such standard language. Because the dissolution decree did not sever the rider from the underlying policy that Madison was awarded on dissolution, he owned the rider.
+The automatic revocation statute found in RCW 11.07.010 applies only to assets in which a former spouse has an interest. The statute explains, “If a marriage is dissolved or invalidated, a provision made prior to that event that relates to the payment or transfer at death of the decedent’s interest in a nónprobate asset in favor of or granting an interest or power to the decedent’s former spouse is revoked.” Because the life insurance policy was Madison’s, Carvine-Duncan did not have an interest in the policy, and the revocation statute did not apply.
+The purpose of the revocation statute is to prevent an ex-spouse from recovering proceeds from a decedent’s policy when the decedent fails to name a new beneficiary after dissolution. Implicit in this purpose is that the decedent spouse must own the policy or have an interest in it.
+The estate cites Mearns v. Scharbach1 2**** to support its argument that RCW 11.07.010 automatically revokes the beneficiary designation naming a former spouse. It is true that RCW 11.07.010 provides that beneficiary designations made in favor of a spouse are revoked upon dissolution and that the nonprobate asset passes “as if the former spouse failed to survive the decedent, having died at the time of entry of the decree of dissolution or declaration of invalidity.” However, courts have applied this statute only to policies owned by the deceased spouse.
+In Mearns, the decedent’s ex-wife brought an action for the proceeds to his life insurance policy as the named beneficiary. There was compelling evidence that Mearns chose to leave her on at least one of his policies after the divorce. However, Mearns did not redesignate Scharbach as the beneficiary. The court ruled that Ms. Scharbach’s designation as primary beneficiary was revoked and the contingent beneficiaries were entitled to the insurance proceeds. Here, Carvine-Duncan was not the “insured,” Madison was. Instead, she was the “insured spouse” — a significant distinction.* Under the terms of the policy, an insured spouse is not the policyholder, nor may the insured spouse change the beneficiary.
+RCW 11.07.010 also prevents the automatic revocation statute from applying when “the decedent could not have effected the revocation by unilateral action because of the terms of the decree or declaration, or for any other reason, immediately after the entry of the decree of dissolution or declaration of invalidity.” As Madison argues, the terms of the policy would not have permitted CarvineDuncan to unilaterally change the designation of the beneficiary on the rider. For this additional reason, the statute does not apply.
+Reversed.
+Becker, C.J., and Agid, J., concur.
+See Lovato v. Liberty Mut. Fire Ins. Co., 109 Wn.2d 43, 45-46, 742 P.2d 1242 (1987) (recognizing that insurance rider is inseparable part of underlying policy); Holthe v. Iskowitz, 31 Wn.2d 533, 541, 197 P.2d 999 (1948) (underlying insurance contract should be construed and harmonized as single contract); see also RCW 48.18.520 (providing that insurance contracts shall be interpreted according to the entire terms and conditions of the contract and pursuant to any riders made part of that policy).
+Holthe, 31 Wn.2d at 541 (quoting 44 C.J.S. Insurance § 300, at 1206).
+Lovato, 109 Wn.2d at 45 (quoting 2 George J. Couch, Insurance § 15:30, at 227-29 (2d ed. 1984)).
+Miller v. Penn Mut. Life Ins. Co. of Phila., 189 Wash. 269, 275-77, 64 P.2d 1050 (1937). See also Transcont’l Ins. Co. v. Wash. Pub. Utils. Dists.’ Util. Sys., 111 Wn.2d 452, 760 P.2d 337 (1988).
+The rider provides:
+This Rider shall terminate and no longer be in force: (1) if any premium remains unpaid after the end of the Grace Period; (2) if the Policy terminates ... (3) if this Rider is converted to a new policy; (4) on or after the Rider Expiry Date; or (5) on and after the date as of which you cancel it.
+RCW 11.07.010(2)(a) (emphasis added). The relevant portion of RCW 11.07.010 reads:
+(1) This section applies to all nonprobate assets, wherever situated, held at the time of entry by a superior court of this state of a decree of dissolution of marriage or a declaration of invalidity.
+(2) (a) If a marriage is dissolved or invalidated, a provision made prior to that event that relates to the payment or transfer at death of the decedent’s interest in a nonprobate asset in favor of or granting an interest or power to the decedent’s former spouse is revoked. A provision affected by this section must be interpreted, and the nonprobate asset affected passes, as if the former spouse failed to survive the decedent, having died at the time of entry of the decree of dissolution or declaration of invalidity.
+(b) This subsection does not apply if and to the extent that:
+(i) The instrument governing disposition of the nonprobate asset expressly provides otherwise;
+(ii) The decree of dissolution or declaration of invalidity requires that the decedent maintain a nonprobate asset for the benefit of a former spouse or children of the marriage, payable on the decedent’s death either outright or in trust, and other nonprobate assets of the decedent fulfilling such a requirement for the benefit of the former spouse or children of the marriage do not exist at the decedent’s death; or
+(iii) If not for this subsection, the decedent could not have effected the revocation by unilateral action because of the terms of the decree or declaration, or for any other reason, immediately after the entry of the decree of dissolution or declaration of invalidity.
+103 Wn. App. 498, 12 P.3d 1048 (2000), review denied, 143 Wn.2d 1011 (2001).
+Mearns, 103 Wn. App. at 507.
+RCW 11.07.010(2)(a).
+The revocation statute codifies “the assumption that divorcing couples want to change the beneficiary designations on nonprobate assets upon dissolution or invalidity of their marriage.” Mearns, 103 Wn. App. at 507.
+On page 1 the rider defines “insured” as “[t]he person named in the Policy Schedule whose life is insured under the Policy,” and “insured spouse” as “[t]he spouse of the insured who is named in the Rider Schedule and whose life is insured under this Rider.”
+The rider policy states that to change the rider’s beneficiary, “[n]otice must be signed by you [defined as the insured] while the Insured Spouse is alive.”
+RCW 11.07.010(2)(b)(iii) (emphasis added).
+We express no opinion whether Carvine-Duncan may have been able to successfully seek a court’s aid to effect a postdissolution severance of the rider and a change of beneficiary.
