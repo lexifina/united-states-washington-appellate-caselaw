@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "5582-5-III"
 decided: "1984-06-07"
-citations: ["38 Wash. App. 590", "37 Wash. App. 1062"]
+citations: ["38 Wash. App. 590"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Bryan N. Kester, Appellant."]
 source_url: "https://static.case.law/wash-app/38/cases/0590-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791867
-cites_cases: ["16 Wn. App. 459", "30 Wn. App. 63", "314 P.2d 660", "32 Wn. App. 559", "38 Wn. App. 590", "403 U.S. 947", "421 U.S. 794", "423 P.2d 533", "458 P.2d 558", "50 Wn.2d 740", "535 P.2d 801", "558 P.2d 817", "588 P.2d 1370", "615 P.2d 440", "616 P.2d 628", "631 P.2d 1033", "648 P.2d 485", "659 P.2d 488", "70 Wn.2d 414", "76 Wn.2d 650", "85 Wn.2d 385", "91 Wn.2d 431", "94 Wn.2d 216", "94 Wn.2d 51", "98 Wn.2d 789"]
+cites_cases: ["16 Wn. App. 459", "30 Wn. App. 63", "314 P.2d 660", "32 Wn. App. 559", "403 U.S. 947", "421 U.S. 794", "423 P.2d 533", "458 P.2d 558", "50 Wn.2d 740", "535 P.2d 801", "558 P.2d 817", "588 P.2d 1370", "615 P.2d 440", "616 P.2d 628", "631 P.2d 1033", "648 P.2d 485", "659 P.2d 488", "70 Wn.2d 414", "76 Wn.2d 650", "85 Wn.2d 385", "91 Wn.2d 431", "94 Wn.2d 216", "94 Wn.2d 51", "98 Wn.2d 789"]
 ---
 
 # State v. Kester
