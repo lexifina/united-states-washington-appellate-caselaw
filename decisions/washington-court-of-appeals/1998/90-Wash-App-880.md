@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16621-0-III"
 decided: "1998-03-26"
-citations: ["90 Wash. App. 880", "89 Wash. App. 1068"]
+citations: ["90 Wash. App. 880"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mary Reynolds, et al., Respondents, v. Farmers Insurance Company of W
 source_url: "https://static.case.law/wash-app/90/cases/0880-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428825
-cites_cases: ["115 Wn.2d 657", "118 Wn.2d 801", "132 Wn.2d 318", "194 P.2d 397", "22 Wn. App. 781", "30 Wn.2d 877", "48 Wn. App. 180", "591 P.2d 1220", "737 P.2d 1312", "801 P.2d 222", "828 P.2d 549", "86 Wn. App. 259", "90 Wn. App. 880", "936 P.2d 48", "937 P.2d 1062"]
+cites_cases: ["115 Wn.2d 657", "118 Wn.2d 801", "132 Wn.2d 318", "194 P.2d 397", "22 Wn. App. 781", "30 Wn.2d 877", "48 Wn. App. 180", "591 P.2d 1220", "737 P.2d 1312", "801 P.2d 222", "828 P.2d 549", "86 Wn. App. 259", "936 P.2d 48", "937 P.2d 1062"]
 ---
 
 # Reynolds v. Farmers Insurance
