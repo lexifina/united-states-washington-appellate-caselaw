@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52038-5-I"
 decided: "2004-12-13"
-citations: ["125 Wash. App. 511", "124 Wash. App. 1033"]
+citations: ["125 Wash. App. 511"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["A.C., Appellant, v. Bellingham School District, Respondent."]
 source_url: "https://static.case.law/wash-app/125/cases/0511-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270407
-cites_cases: ["102 Wn.2d 188", "104 Wn. App. 160", "110 Wn.2d 128", "113 Wn. App. 673", "122 Wn.2d 1002", "125 Wn. App. 511", "125 Wn.2d 456", "135 Wn.2d 820", "136 Wn.2d 1021", "140 Wn.2d 517", "144 Wn.2d 1007", "146 Wn.2d 237", "149 Wn.2d 1017", "149 Wn.2d 431", "15 P.3d 664", "196 P.2d 744", "31 Wn.2d 282", "391 P.2d 964", "42 Wn. App. 147", "426 P.2d 824", "438 P.2d 829", "44 P.3d 845", "54 P.3d 233", "590 P.2d 809", "64 Wn.2d 350", "66 Wn. App. 196", "685 P.2d 564", "69 P.3d 324", "69 Wn. App. 167", "709 P.2d 1226", "71 Wn.2d 119", "73 Wn.2d 476", "750 P.2d 1257", "831 P.2d 744", "84 Wn. App. 787", "847 P.2d 953", "87 Wn. App. 515", "886 P.2d 556", "90 Wn. App. 890", "91 Wn. 2d 603", "929 P.2d 1209", "942 P.2d 1013", "954 P.2d 336", "959 P.2d 651", "998 P.2d 856"]
+cites_cases: ["102 Wn.2d 188", "104 Wn. App. 160", "110 Wn.2d 128", "113 Wn. App. 673", "122 Wn.2d 1002", "125 Wn.2d 456", "135 Wn.2d 820", "136 Wn.2d 1021", "140 Wn.2d 517", "144 Wn.2d 1007", "146 Wn.2d 237", "149 Wn.2d 1017", "149 Wn.2d 431", "15 P.3d 664", "196 P.2d 744", "31 Wn.2d 282", "391 P.2d 964", "42 Wn. App. 147", "426 P.2d 824", "438 P.2d 829", "44 P.3d 845", "54 P.3d 233", "590 P.2d 809", "64 Wn.2d 350", "66 Wn. App. 196", "685 P.2d 564", "69 P.3d 324", "69 Wn. App. 167", "709 P.2d 1226", "71 Wn.2d 119", "73 Wn.2d 476", "750 P.2d 1257", "831 P.2d 744", "84 Wn. App. 787", "847 P.2d 953", "87 Wn. App. 515", "886 P.2d 556", "90 Wn. App. 890", "91 Wn. 2d 603", "929 P.2d 1209", "942 P.2d 1013", "954 P.2d 336", "959 P.2d 651", "998 P.2d 856"]
 ---
 
 # A.C. v. Bellingham School District
