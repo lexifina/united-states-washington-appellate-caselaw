@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43257-5-I"
 decided: "2000-03-20"
-citations: ["100 Wash. App. 609", "99 Wash. App. 1067"]
+citations: ["100 Wash. App. 609"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sondra Goehle, Appellant, v. Fred Hutchinson Cancer Research Center, 
 source_url: "https://static.case.law/wash-app/100/cases/0609-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363291
-cites_cases: ["100 Wn. App. 609", "107 Wn.2d 427", "118 Wn.2d 801", "120 Wn.2d 1", "121 Wn.2d 214", "121 Wn.2d 697", "124 Wn.2d 158", "126 Wn.2d 50", "13 Wn. App. 229", "131 Wn.2d 484", "131 Wn.2d 640", "136 Wn.2d 195", "142 Wn.2d 1010", "247 P.2d 237", "41 Wn.2d 1", "50 Wn. App. 360", "513 U.S. 352", "534 P.2d 585", "730 P.2d 653", "749 P.2d 164", "828 P.2d 549", "838 P.2d 86", "848 P.2d 721", "853 P.2d 908", "876 P.2d 435", "882 P.2d 703", "891 P.2d 718", "93 Wn. App. 892", "933 P.2d 1036", "935 P.2d 555", "961 P.2d 333", "971 P.2d 67"]
+cites_cases: ["107 Wn.2d 427", "118 Wn.2d 801", "120 Wn.2d 1", "121 Wn.2d 214", "121 Wn.2d 697", "124 Wn.2d 158", "126 Wn.2d 50", "13 Wn. App. 229", "131 Wn.2d 484", "131 Wn.2d 640", "136 Wn.2d 195", "142 Wn.2d 1010", "247 P.2d 237", "41 Wn.2d 1", "50 Wn. App. 360", "513 U.S. 352", "534 P.2d 585", "730 P.2d 653", "749 P.2d 164", "828 P.2d 549", "838 P.2d 86", "848 P.2d 721", "853 P.2d 908", "876 P.2d 435", "882 P.2d 703", "891 P.2d 718", "93 Wn. App. 892", "933 P.2d 1036", "935 P.2d 555", "961 P.2d 333", "971 P.2d 67"]
 ---
 
 # Goehle v. Fred Hutchinson Cancer Research Center
