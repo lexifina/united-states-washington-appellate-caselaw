@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7278-9-III"
 decided: "1986-09-30"
-citations: ["45 Wash. App. 824", "45 Wash. App. 1021"]
+citations: ["45 Wash. App. 824"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Chuck P. Brooks, Appellant."]
 source_url: "https://static.case.law/wash-app/45/cases/0824-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809230
-cites_cases: ["17 Wn. App. 18", "24 Wn. App. 517", "45 Wn. App. 824", "558 P.2d 173", "560 P.2d 364", "601 P.2d 995", "616 P.2d 628", "87 Wn.2d 829", "94 Wn.2d 216"]
+cites_cases: ["17 Wn. App. 18", "24 Wn. App. 517", "558 P.2d 173", "560 P.2d 364", "601 P.2d 995", "616 P.2d 628", "87 Wn.2d 829", "94 Wn.2d 216"]
 ---
 
 # State v. Brooks
