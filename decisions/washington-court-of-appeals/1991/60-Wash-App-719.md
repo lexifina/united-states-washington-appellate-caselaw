@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24517-1-I"
 decided: "1991-01-28"
-citations: ["60 Wash. App. 719", "60 Wash. App. 1029"]
+citations: ["60 Wash. App. 719"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Robert Wallace Parker, Appell
 source_url: "https://static.case.law/wash-app/60/cases/0719-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1719246
-cites_cases: ["100 Wn.2d 1024", "112 Wn.2d 347", "116 Wn.2d 1025", "221 P.2d 472", "30 Wn. App. 131", "35 Wn. App. 216", "36 Wn.2d 846", "38 Wn. App. 357", "442 P.2d 629", "443 U.S. 307", "588 P.2d 1161", "60 Wn. App. 719", "616 P.2d 628", "633 P.2d 100", "653 P.2d 280", "666 P.2d 381", "684 P.2d 1385", "74 Wn.2d 36", "771 P.2d 330", "91 Wn.2d 487", "94 Wn.2d 216", "97 Wn.2d 929"]
+cites_cases: ["100 Wn.2d 1024", "112 Wn.2d 347", "116 Wn.2d 1025", "221 P.2d 472", "30 Wn. App. 131", "35 Wn. App. 216", "36 Wn.2d 846", "38 Wn. App. 357", "442 P.2d 629", "443 U.S. 307", "588 P.2d 1161", "616 P.2d 628", "633 P.2d 100", "653 P.2d 280", "666 P.2d 381", "684 P.2d 1385", "74 Wn.2d 36", "771 P.2d 330", "91 Wn.2d 487", "94 Wn.2d 216", "97 Wn.2d 929"]
 ---
 
 # State v. Parker
