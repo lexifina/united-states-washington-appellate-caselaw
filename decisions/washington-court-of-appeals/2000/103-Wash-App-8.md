@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24491-8-II"
 decided: "2000-08-25"
-citations: ["103 Wash. App. 8", "102 Wash. App. 1011"]
+citations: ["103 Wash. App. 8"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Veronica Williams-Batchelder, Appellant, v. Lyle Quasim, as Secretary
 source_url: "https://static.case.law/wash-app/103/cases/0008-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102596
-cites_cases: ["103 Wn. App. 8", "119 Wn.2d 34", "119 Wn.2d 504", "122 Wn.2d 397", "122 Wn.2d 738", "42 U.S.C. § 3604", "42 U.S.C. §§ 3601-3631", "46 F.3d 1491", "68 Wn. App. 12", "799 F. Supp. 450", "830 P.2d 318", "833 P.2d 381", "841 P.2d 803", "858 P.2d 494", "863 P.2d 535", "87 Wn. App. 197", "89 F.3d 285", "92 Wn. App. 604", "940 P.2d 269", "965 P.2d 626", "974 F.2d 43"]
+cites_cases: ["119 Wn.2d 34", "119 Wn.2d 504", "122 Wn.2d 397", "122 Wn.2d 738", "42 U.S.C. § 3604", "42 U.S.C. §§ 3601-3631", "46 F.3d 1491", "68 Wn. App. 12", "799 F. Supp. 450", "830 P.2d 318", "833 P.2d 381", "841 P.2d 803", "858 P.2d 494", "863 P.2d 535", "87 Wn. App. 197", "89 F.3d 285", "92 Wn. App. 604", "940 P.2d 269", "965 P.2d 626", "974 F.2d 43"]
 ---
 
 # Williams-Batchelder v. Quasim
