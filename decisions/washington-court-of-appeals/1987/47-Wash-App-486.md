@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9128-3-II"
 decided: "1987-03-25"
-citations: ["47 Wash. App. 486", "47 Wash. App. 1023"]
+citations: ["47 Wash. App. 486"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Kenneth Mulenex, Appellant, v. The Department of Employment Security,
 source_url: "https://static.case.law/wash-app/47/cases/0486-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1836200
-cites_cases: ["100 Wn.2d 1030", "102 Wn.2d 271", "142 P.2d 900", "19 Wn.2d 383", "35 Wn. App. 533", "47 Wn. App. 486", "621 P.2d 716", "667 P.2d 1133", "684 P.2d 709", "94 Wn.2d 889"]
+cites_cases: ["100 Wn.2d 1030", "102 Wn.2d 271", "142 P.2d 900", "19 Wn.2d 383", "35 Wn. App. 533", "621 P.2d 716", "667 P.2d 1133", "684 P.2d 709", "94 Wn.2d 889"]
 ---
 
 # Mulenex v. Department of Employment Security
