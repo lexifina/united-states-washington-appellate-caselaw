@@ -1,0 +1,69 @@
+---
+court: "Washington Court of Appeals"
+docket: "10626-1-I"
+decided: "1984-04-02"
+citations: ["37 Wash. App. 214"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Corbett, A.C.J., and Williams, J., concur."]
+parties: ["Keith Johnson, Appellant, v. The City of Mount Vernon, Respondent."]
+source_url: "https://static.case.law/wash-app/37/cases/0214-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1784705
+cites_cases: ["101 Wn.2d 280", "31 Wn. App. 489", "520 P.2d 1374", "527 P.2d 1377", "573 P.2d 359", "613 P.2d 1164", "643 P.2d 460", "676 P.2d 1006", "83 Wn.2d 566", "84 Wn.2d 579", "89 Wn.2d 454", "93 Wn.2d 870"]
+---
+
+# Johnson v. City of Mount Vernon
+
+## Majority (Swanson, J.)
+
+Swanson, J.
+Keith Johnson, a Skagit County land developer, appeals the order of the Superior Court dismissing his petition for a writ of review, thereby affirming the Mount Vernon City Council's denial of Johnson's application for a preliminary plat of a planned unit development (PUD).
+Johnson seeks to develop a 69-acre tract located within the boundaries of the City of Mount Vernon as a planned unit development. He applied to the City on March 31, 1980 for approval of a preliminary development plan for Timber line Park (Timberline), a proposed 69-acre mobile home subdivision. Johnson's preliminary plat as to phase I (45 lots) won the unanimous approval of the planning commission following public hearings and after initial rejection and submission of a revised plan. But despite the approval of the planning commission, the Mount Vernon City Council, by a divided vote on September 10, 1980, rejected Johnson's preliminary plat of Timberline.
+Johnson then petitioned the Superior Court for Skagit County for review of the City Council's decision, asserting generally that the Council denied approval of his plat because it was unpopular and not because of any technical deficiency. He claimed in his petition that the denial by the City was "arbitrary, capricious, and an abuse of discretion." Johnson also moved for summary judgment, requesting a remand to the Council for a clarification of the basis for its denial and a statement of the conditions for approval or absolute disapproval.
+The trial court denied the motion for summary judgment and proceeded to review the Council's actions. The following findings of fact entered by the trial court describe the pertinent portions of the Council's proceedings:
+V.
+On August 6, 1980, another public hearing was held by the Mount Vernon Planning Commission on the revised development plan referred back to the City Council. After further public input and Commission discussion, the Planning Commission voted to recommend approval of the project to the City Council, limiting the approval to only 45 lots.
+VI.
+On September 10, 1980, a final public hearing was held before the Mount Vernon City Council. There was continual public opposition to the proposal. Councilman Novotny moved to deny the proposal citing neighborhood opposition as the reason, but upon further explanation by Novotny, the Councilman indicated that the basis for the motion was the incompatibility of the proposal's density with the surrounding area. Councilman Bordner expressed similar concerns among others. The motion was adopted and the Plaintiff's proposal was denied.
+VII.
+On October 6, 1980, the City Council entertained the Plaintiff's request for reconsideration of their September 10, 1980, denial. A third Councilman, Mr. Nelson, reiterated the reason for the denial was due to the incompatibility of the high density proposal with that of the low density zoning surrounding it. The Council thereafter voted to not reconsider its earlier decision.
+VIII.
+Throughout the public hearings and meetings, numerous issues were raised and discussed by the public, the City and the Plaintiff such as the development's effects on sewer, traffic, city police and fire service, schools and drainage. Some of those issues were still not adequately addressed in the minds of some councilmen.
+ix.
+The primary reasons for neighborhood opposition and the City Council denial were the proposal's location being in the wrong part of the city as it relates to the incompatibility of density for the area.
+X.
+The proposed development was to be located in an area which is presently zoned by the City of Mount Vernon as "R-l-13.5". Such a zoning classification permits the construction of single family residences on lots having minimum lot size of 13,500 square feet. The surrounding city and county property is consistent with that zoning or lower in density.
+XII.
+Under a traditional subdivision (as opposed to a P.U.D.), the Plaintiffs development would not be permitted, absent a rezone, as it would fail to comply with the Comprehensive Plan and the minimum lot size under the zoning code. The lot size of the proposal would approximate 8,000 square feet.
+XIII.
+Under the P.U.D. provisions of the City of Mount Vernon, the Plaintiff is permitted to deviate from the strict zoning requirements of density if the project is harmonious with the surrounding area and consistent with the Comprehensive Plan. The P.U.D. provisions permit a maximum net density of four (4) dwelling units per acre, or when factoring out roads and required open space, equates to a minimum lot size of 8,168 square feet per lot.
+The trial court reached the following pertinent conclusions of law:
+m.
+Although a P.U.D. necessarily permits a higher density development than would normally be permitted in an area under traditional zoning, it is still a proper consideration and within the sole discretion of the City Council to determine to what degree of density variation they will permit, if any. Even if a P.U.D. proposal meets the maximum density per acre set forth in the City P.U.D. ordinance, the City Council has the right and duty to consider whether the proposal is harmonious with the surrounding area, whether it is consistent with the Comprehensive Plan and whether there has been a showing made that granting this "exception" to the zoning ordinance is necessary due to a change of circumstances in the area.
+IV.
+The Mount Vernon City Council had the right and duty to consider the views of the community in making their decision, whether favorable or unfavorable, and to give substantial weight to those views as expressed in the public hearings.
+V.
+The motion to deny the preliminary development plan was sufficient to state the reasons for denial, and the City Council's action was not motivated solely by the neighborhood opposition but included reasons based on sound land use concerns.
+VI.
+The Mount Vernon City Council's determination that the Timberline P.U.D. proposal was inconsistent with the Comprehensive Plan in terms of location and density was made after much deliberation and consideration of all the facts, and the Court concludes that there does exist room for two opinions on this matter.
+Based on these findings of fact and conclusions of law the court dismissed Johnson's petition and in effect affirmed the City Council's denial. This appeal followed.
+On appeal Johnson raises two issues: (1) whether the Council's action was arbitrary and capricious because the Council failed to either approve the plan or state the conditions that precluded approval, (2) whether the density of a PUD is determined on a per lot basis or a per acre basis.
+We must initially determine the proper standard of review for a denial of a PUD proposal. To determine that standard, it is necessary to ascertain the nature of the proceeding. The City emphasizes in its brief that Johnson's proposed plat is not a standard preliminary plat proposal but a specialized type authorized by the Mount Vernon Municipal Code and points out that a PUD subdivision proposal is in effect a request by the developer for a rezone. In other words, the City argues that if Johnson desires to develop lots under 13,500 square feet on his 69 acres that are presently zoned for single family residences with minimum 13,500-square-foot lots, he in essence desires a rezone, even if proceeding under the city code's PUD provisions which permit smaller lots.
+We agree. A request for a PUD is treated as a request for a rezone. As our Supreme Court stated in Lutz v. Longview, 83 Wn.2d 566, 568-69, 520 P.2d 1374 (1974):
+What is the legal nature and effect of the act of imposing a PUD upon a specific parcel of land? We hold that it is an act of rezoning which must be done by the city council because the council's zoning power comes from the statute and that is what the statute requires. It is inescapable that application of the PUD to this tract constituted an act of rezoning. Before the PUD was authorized, the tract here was limited to low density single family residences primarily. . . .
+The authorities are clear that such a change in permitted uses is a rezone or amendment of the zoning ordinance.
+We therefore review the City Council's denial of Johnson's PUD proposal as a denial of a rezone.
+An appellate court will overturn a governmental body's decision on a rezone only if that decision is arbitrary or capricious. See Hayden v. Port Townsend, 93 Wn.2d 870, 879, 613 P.2d 1164 (1980). Accordingly, because this is an appeal from a denial of a proposed PUD, and a proposed PUD is in the nature of a rezone application, we will only overturn the City Council's decision if it can be characterized as arbitrary or capricious.
+A governmental body's failure to enter written findings of fact and conclusions of law in a rezone action constitutes arbitrary or capricious action. Requirements for written findings of fact and conclusions were imposed on city councils and county commissioners by our Supreme Court in Parkridge v. Seattle, 89 Wn.2d 454, 573 P.2d 359 (1978). Parkridge involved a rezone of certain property by the Seattle City Council. The court noted the well recognized distinction between the legislative function of enacting the initial comprehensive plan and zoning ordinance and the adjudicatory function of a subsequent rezone, and emphasized the special necessity of an adequate record when a court is required to review adjudicatory proceedings. See Barrie v. Kitsap Cy., 84 Wn.2d 579, 527 P.2d 1377 (1974). In addition to the adequate record required by Barrie, the Parkridge court mandated the entry of specific findings of fact and conclusions or reasons. The court in Parkridge stated at page 464:
+Henceforth, we also require, founded upon and supported by the record, that findings of fact be made and conclusions or reasons based thereon be given for the action taken by the deciding entity (in this case, the city council).
+The Parkridge requirement established in January 1978 predated the hearing before the Mount Vernon City Council in the instant case which took place on September 10, 1980 and is therefore binding herein.
+We hold that in the instant case the City Council's decision was arbitrary or capricious because it entered no written findings indicating its reasons for denial of Johnson's application. While the Superior Court found adequate reasons from a review of the discussion by council members, the trial court in its oral opinion had to rely for its conclusion upon an evaluation of the comments made. The court said in its oral opinion:
+The petitioner maintains this action was faulty in that the action taken by the Council failed to indicate why the petition was being denied. The motion itself fails to set forth reasons. An explanation given following the motion, I believe, sets forth the basis upon which the motion was made, pinpointing density. I don't think it is a secret that some people vote for a motion even though it may be based on reasons and specific reasons other than those in the mind of the voter. I mean by saying that probably the basis here was density. Some of these people who voted for it may have voted because of traffic problems and other reasons.
+(Italics ours.) A review of the same record considered by the trial court reveals various reasons for the Council's decision. While some of the reasons expressed may justify the denial of Johnson's proposal, we do not know which reasons the Council relied upon for disapproval.
+There are two important reasons in this type of case for entering proper findings and conclusions. First, written findings and conclusions provide guidance to the developer. If the council does not provide reasons for the denial, the developer is unable to satisfy the council's objections or prepare another application. If, for example, the majority of the Council believe the mobile home subdivision designed pursuant to the PUD ordinance should never be placed on Johnson's tract merely because it involves mobile homes, that reason should be made clear. Second, the absence of written findings including a statement of reasons for the Council's action makes appellate review difficult if not impossible.
+We therefore vacate the trial court's order and direct that the matter be remanded to the Mount Vernon City Council for the entry of appropriate findings of fact and conclusions stating reasons as mandated in Parkridge.
+Corbett, A.C.J., and Williams, J., concur.
+We note that our Supreme Court recently overruled Hayden v. Port Townsend, 93 Wn.2d 870, 613 P.2d 1164 (1980) in part. Save a Neighborhood Env't v. Seattle, 101 Wn.2d 280, 676 P.2d 1006 (1984). That decision, however, did not affect the authority of Hayden for the proposition cited here.
+We note that the Skagit County Board of Commissioners in considering a rezone in 1979 (prior to the City Council's action herein) adopted resolutions which detailed the reasons for the denial permitting proper appellate review. See Buchsieb/Danard, Inc. v. Skagit Cy., 31 Wn. App. 489, 643 P.2d 460 (1982).
