@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8128-1-III"
 decided: "1987-12-08"
-citations: ["50 Wash. App. 309", "49 Wash. App. 1078"]
+citations: ["50 Wash. App. 309"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Wayne A. Berger, Appellant, v. Dishman Dodge, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/50/cases/0309-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1706313
-cites_cases: ["104 Wn.2d 392", "131 Ariz. 285", "142 Mich. App. 603", "170 Okla. 642", "278 Pa. Super. 59", "370 N.W.2d 4", "42 P.2d 119", "42 Wn. App. 771", "438 P.2d 581", "46 Wn. App. 616", "50 Wn. App. 309", "706 P.2d 212", "713 P.2d 1127", "73 Wn.2d 348", "731 P.2d 1094"]
+cites_cases: ["104 Wn.2d 392", "131 Ariz. 285", "142 Mich. App. 603", "170 Okla. 642", "278 Pa. Super. 59", "370 N.W.2d 4", "42 P.2d 119", "42 Wn. App. 771", "438 P.2d 581", "46 Wn. App. 616", "706 P.2d 212", "713 P.2d 1127", "73 Wn.2d 348", "731 P.2d 1094"]
 ---
 
 # Berger v. Dishman Dodge, Inc.
