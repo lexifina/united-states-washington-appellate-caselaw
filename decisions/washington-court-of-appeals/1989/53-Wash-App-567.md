@@ -1,0 +1,38 @@
+---
+court: "Washington Court of Appeals"
+docket: "9270-4-III"
+decided: "1989-03-09"
+citations: ["53 Wash. App. 567"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Darcy L. Linklater, Appellant, v. Walter D. Johnson, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/53/cases/0567-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1764305
+cites_cases: ["11 U.S.C. § 323", "11 U.S.C. § 350", "11 U.S.C. § 522", "11 U.S.C. § 541", "11 U.S.C. § 554", "12 Utah 2d 348", "135 A.D.2d 697", "196 U.S. 115", "505 N.E.2d 601", "513 N.Y.S.2d 91", "522 N.Y.S.2d 596", "522 S.W.2d 793", "610 F.2d 384", "640 F.2d 888", "69 N.Y.2d 191", "691 F.2d 885", "715 F.2d 859", "729 F.2d 977", "825 F.2d 1140"]
+cites_law: ["united-states/federal/usc/title-11/323.md", "united-states/federal/usc/title-11/350.md", "united-states/federal/usc/title-11/522.md", "united-states/federal/usc/title-11/541.md", "united-states/federal/usc/title-11/554.md"]
+---
+
+# Linklater v. Johnson
+
+## Majority (Green, J.)
+
+Green, J.
+—One dispositive question is presented: Does a party who has been discharged in bankruptcy have standing to bring an action for misrepresentation when that right of action accrued prior to the bankruptcy and was neither disclosed to nor administered by the trustee in bankruptcy? The trial court answered "no" and dismissed the action. We affirm.
+In April 1984, Darcy Linklater purchased a home in Walla Walla from Walter Johnson. Prior to purchase, Mr. Linklater noticed a "sponginess" in the floor and brought it to the attention of the realtor, Floyd Miller. According to Mr. Linklater, he was told by Mr. Miller that new flooring and a new cement foundation had been installed. He claims he relied on these representations and purchased the house. Mr. Miller, on the other hand, asserted there was a dry rot condition and it was fully disclosed to Mr. Linklater. After the purchase, the floors allegedly deteriorated. The home became uninhabitable and in August 1985 Mr. Linklater vacated the premises.
+In February 1986 Mr. Linklater commenced bankruptcy proceedings. The house was listed as an asset and valued at $30,000, subject to a mortgage for about the same amount. Mr. Linklater claimed an exemption for his negligible equity in the home under 11 U.S.C. § 522(d)(1). A discharge in bankruptcy was entered on June 24, 1986.
+In April 1987, he commenced this action against Messrs. Johnson and Miller and Jefferis Realty, Inc., alleging fraudulent concealment and misrepresentation concerning the condition of the home and violation of the Consumer Protection Act. When it was learned that Mr. Linklater had been discharged in bankruptcy, Mr. Miller and Jefferis Realty moved to dismiss the action on the ground Mr. Linklater lacked standing to bring it. Mr. Johnson moved for dismissal based on insufficient service of process. In the event the court determined he did not have standing, Mr. Linklater alternatively sought an order substituting in his stead the trustee in bankruptcy. The court ruled as follows:
+Defendant Johnson's motion to dismiss for failure of proper service of the summons and complaint will be denied.
+The motion of defendants Miller and Jefferis Realty, Inc., to dismiss because the plaintiff lacks standing to bring the action in his own right is well-taken and will be granted. Although the defendant Johnson has not moved for dismissal on the same ground, it would be a useless act to require such a motion since the plaintiff Linklater lacks standing because the only person who could bring the action is the trustee in bankruptcy.
+The conditional motion to substitute the trustee in bankruptcy in the place of the plaintiff is denied for the reason that there is no showing before this Court at this time that there is a trustee in bankruptcy, nor that if there were a trustee in bankruptcy that trustee would wish to pursue this claim.
+That is a determination to be made by the trustee in the event the bankruptcy is reopened.
+Therefore, since plaintiff lacks standing to bring this action, the same will be dismissed as to all defendants.
+A formal order of dismissal was entered on April 11 and Mr. Linklater appeals. Mr. Johnson cross-appeals.
+Mr. Linklater contends that since his equity in the home was determined to be exempt in the bankruptcy proceeding, the right of action for misrepresentation arising from his purchase of that property should also be exempt. Thus, it is urged the court erred in ruling that only the trustee had standing to bring the action. We disagree.
+When a bankruptcy is filed, the debtor is required to include "all legal or equitable interests ... in property as of the commencement of the case." 11 U.S.C. § 541(a)(1). This "'includes ... all property of the debtor, even that needed for a fresh start."' Tignor v. Parkinson, 729 F.2d 977, 980 (4th Cir. 1984) (quoting 1978 U.S. Code Cong. & Ad. News 5868, 6323); 4 W. Collier, Bankruptcy § 541.02[3], at 541-15, -16 (15th ed. 1988). See also In re Merlino, 62 Bankr. 836 (Bankr. W.D. Wash. 1986); In re Linderman, 20 Bankr. 826 (Bankr. W.D. Wash. 1982). All rights of action in which the debtor has an interest become property of the estate under 11 U.S.C. § 541. See In re Smith, 640 F.2d 888, 892 (7th Cir. 1981); 4 W. Collier § 541.10[1], at 541-63. Rights of action may be subject to exemption under 11 U.S.C. § 522(1), but the debtor must take affirmative steps to remove exempt property from the estate. See In re Patterson, 825 F.2d 1140, 1143 (7th Cir. 1987); Shirkey v. Leake, 715 F.2d 859, 863 (4th Cir. 1983); 11 U.S.C. §§ 522(1), 541; 4 W. Collier § 541.10[1], at 541-63, -64.
+When the trustee is unaware of an accrued right of action and, as a consequence, it is neither abandoned nor administered in the bankruptcy nor the subject of a court order, it remains the property of the estate. See 11 U.S.C. § 554(d); First Nat'l Bank v. Lasater, 196 U.S. 115, 118-19, 49 L. Ed. 408, 25 S. Ct. 206, 207-08 (1905); 4 W. Collier § 554.03, at 554-11, -12. Thus, a discharged debtor lacks legal capacity to subsequently assert title to and pursue an unscheduled claim simply because a trustee, without knowledge of the claim, took no action with respect to it. First Nat'l Bank, 196 U.S. at 119; Stein v. United Artists Corp., 691 F.2d 885, 891 (9th Cir. 1982); Management Investors v. United Mine Workers, 610 F.2d 384, 392 (6th Cir. 1979). See also State ex rel. Stifel, Nicolaus & Co. v. Clymer, 522 S.W.2d 793 (Mo. 1975); Dynamics Corp. of Am. v. Marine Midland Bank-New York, 69 N.Y.2d 191, 505 N.E.2d 601, 513 N.Y.S.2d 91 (1987); Quiros v. Polow, 135 A.D.2d 697, 522 N.Y.S.2d 596 (1987); Benson v. Probst, 12 Utah 2d 348, 366 P.2d 700 (1961). Mr. Linklater offers no authority to the contrary.
+These principles are controlling here. The record shows that any right of action with respect to Mr. Linklater's purchase of the house accrued prior to his vacating the house in 1985. The right of action was neither listed in the bankruptcy nor disclosed to the trustee. Consequently, Mr. Linklater does not have standing to bring this action and the court's ruling on this issue should be affirmed. We note a bankruptcy court has the power to reopen the bankruptcy to administer previously unadministered assets, see 11 U.S.C. § 350(b); 2 W. Collier § 350.03, at 350-7, and the trustee retains the capacity to bring suit. 11 U.S.C. § 323(b).
+In view of our holding, we do not reach the question of whether there was sufficient service of process on Mr. Johnson.
+Affirmed.
+Munson, A.C.J., and Shields, J., concur.
