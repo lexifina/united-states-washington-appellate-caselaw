@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25254-6-II"
 decided: "2000-12-08"
-citations: ["104 Wash. App. 328", "103 Wash. App. 1041"]
+citations: ["104 Wash. App. 328"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Deborah K. Kelley, Appellant, v. The Department of Corrections, Respo
 source_url: "https://static.case.law/wash-app/104/cases/0328-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700425
-cites_cases: ["100 Wn.2d 421", "104 Wn. App. 328", "118 Wn.2d 195", "137 Wn.2d 518", "138 Wn.2d 265", "144 Wn.2d 1021", "407 P.2d 798", "43 Wn. App. 223", "67 Wn.2d 322", "671 P.2d 230", "716 P.2d 925", "822 P.2d 243", "973 P.2d 465", "979 P.2d 400"]
+cites_cases: ["100 Wn.2d 421", "118 Wn.2d 195", "137 Wn.2d 518", "138 Wn.2d 265", "144 Wn.2d 1021", "407 P.2d 798", "43 Wn. App. 223", "67 Wn.2d 322", "671 P.2d 230", "716 P.2d 925", "822 P.2d 243", "973 P.2d 465", "979 P.2d 400"]
 ---
 
 # Kelley v. Department of Corrections
