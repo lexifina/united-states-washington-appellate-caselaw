@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28491-6-I"
 decided: "1992-03-09"
-citations: ["66 Wash. App. 196", "64 Wash. App. 1021"]
+citations: ["66 Wash. App. 196"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Elizabeth Las, Appellant, v. Yellow Front Stores, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/66/cases/0196-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1703131
-cites_cases: ["100 Wn.2d 39", "110 Wn.2d 355", "112 Wn.2d 216", "114 Wn.2d 42", "116 Wn.2d 452", "13 Wn. App. 815", "32 Wn. App. 647", "364 P.2d 952", "433 P.2d 863", "537 P.2d 850", "57 Wn. App. 424", "58 Wn.2d 789", "632 P.2d 504", "649 P.2d 135", "66 Wn. App. 196", "666 P.2d 888", "72 Wn.2d 446", "753 P.2d 517", "770 P.2d 182", "785 P.2d 815", "788 P.2d 1096", "805 P.2d 793", "85 A.L.R.3d 991", "86 Wn.2d 1002", "95 Wn.2d 773"]
+cites_cases: ["100 Wn.2d 39", "110 Wn.2d 355", "112 Wn.2d 216", "114 Wn.2d 42", "116 Wn.2d 452", "13 Wn. App. 815", "32 Wn. App. 647", "364 P.2d 952", "433 P.2d 863", "537 P.2d 850", "57 Wn. App. 424", "58 Wn.2d 789", "632 P.2d 504", "649 P.2d 135", "666 P.2d 888", "72 Wn.2d 446", "753 P.2d 517", "770 P.2d 182", "785 P.2d 815", "788 P.2d 1096", "805 P.2d 793", "85 A.L.R.3d 991", "86 Wn.2d 1002", "95 Wn.2d 773"]
 ---
 
 # Las v. Yellow Front Stores, Inc.
