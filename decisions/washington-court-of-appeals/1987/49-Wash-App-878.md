@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8668-2-III"
 decided: "1987-11-19"
-citations: ["49 Wash. App. 878", "49 Wash. App. 1065"]
+citations: ["49 Wash. App. 878"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["William F. Sinnott, Appellant, v. Skagit Valley College, Respondent."
 source_url: "https://static.case.law/wash-app/49/cases/0878-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739257
-cites_cases: ["103 S. Ct. 1528", "104 Wn.2d 1018", "105 Wn.2d 847", "106 Wn.2d 122", "106 Wn.2d 873", "32 Wn. App. 239", "37 Wn. App. 800", "391 U.S. 563", "392 F.2d 822", "408 U.S. 104", "41 Wn. App. 365", "413 U.S. 601", "416 U.S. 134", "425 F.2d 469", "425 F.2d 472", "429 U.S. 274", "459 U.S. 1106", "460 U.S. 1071", "461 P.2d 531", "461 U.S. 138", "49 Wn. App. 709", "49 Wn. App. 878", "535 P.2d 804", "562 F. Supp. 887", "576 P.2d 397", "591 F.2d 493", "623 P.2d 1156", "643 P.2d 426", "646 P.2d 113", "657 P.2d 496", "683 P.2d 203", "704 P.2d 648", "719 P.2d 98", "720 P.2d 824", "725 P.2d 966", "745 P.2d 1308", "75 L. Ed. 2d 950", "77 Wn.2d 255", "85 Wn.2d 348", "89 Wn.2d 874", "95 Wn.2d 424", "97 Wn.2d 215", "97 Wn.2d 317", "98 Wn.2d 1001"]
+cites_cases: ["103 S. Ct. 1528", "104 Wn.2d 1018", "105 Wn.2d 847", "106 Wn.2d 122", "106 Wn.2d 873", "32 Wn. App. 239", "37 Wn. App. 800", "391 U.S. 563", "392 F.2d 822", "408 U.S. 104", "41 Wn. App. 365", "413 U.S. 601", "416 U.S. 134", "425 F.2d 469", "425 F.2d 472", "429 U.S. 274", "459 U.S. 1106", "460 U.S. 1071", "461 P.2d 531", "461 U.S. 138", "49 Wn. App. 709", "535 P.2d 804", "562 F. Supp. 887", "576 P.2d 397", "591 F.2d 493", "623 P.2d 1156", "643 P.2d 426", "646 P.2d 113", "657 P.2d 496", "683 P.2d 203", "704 P.2d 648", "719 P.2d 98", "720 P.2d 824", "725 P.2d 966", "745 P.2d 1308", "75 L. Ed. 2d 950", "77 Wn.2d 255", "85 Wn.2d 348", "89 Wn.2d 874", "95 Wn.2d 424", "97 Wn.2d 215", "97 Wn.2d 317", "98 Wn.2d 1001"]
 ---
 
 # Sinnott v. Skagit Valley College
