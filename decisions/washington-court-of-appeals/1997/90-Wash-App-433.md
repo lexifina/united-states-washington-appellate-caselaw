@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38939-4-I"
 decided: "1997-12-08"
-citations: ["90 Wash. App. 433", "88 Wash. App. 1048"]
+citations: ["90 Wash. App. 433"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Richard Alan Dyson, Appellant
 source_url: "https://static.case.law/wash-app/90/cases/0433-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428913
-cites_cases: ["101 Wn.2d 612", "116 Wn.2d 1030", "449 U.S. 1035", "45 Wn. App. 640", "60 Wn. App. 561", "614 P.2d 1280", "622 P.2d 1240", "656 P.2d 1064", "683 P.2d 1069", "727 P.2d 683", "805 P.2d 815", "81 Wn. App. 397", "90 Wn. App. 433", "914 P.2d 1194", "94 Wn.2d 129", "95 Wn.2d 385", "98 Wn.2d 484"]
+cites_cases: ["101 Wn.2d 612", "116 Wn.2d 1030", "449 U.S. 1035", "45 Wn. App. 640", "60 Wn. App. 561", "614 P.2d 1280", "622 P.2d 1240", "656 P.2d 1064", "683 P.2d 1069", "727 P.2d 683", "805 P.2d 815", "81 Wn. App. 397", "914 P.2d 1194", "94 Wn.2d 129", "95 Wn.2d 385", "98 Wn.2d 484"]
 ---
 
 # State v. Dyson
