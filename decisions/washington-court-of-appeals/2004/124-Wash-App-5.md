@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52842-4-I"
 decided: "2004-07-12"
-citations: ["124 Wash. App. 5", "122 Wash. App. 1026"]
+citations: ["124 Wash. App. 5"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Elliott Bay Seafoods, Inc., Appellant, v. The Port of Seattle, Respon
 source_url: "https://static.case.law/wash-app/124/cases/0005-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684200
-cites_cases: ["112 Wn.2d 193", "115 Wn.2d 657", "124 Wn. App. 5", "124 Wn.2d 158", "125 Wn.2d 500", "135 Wn.2d 820", "14 Wn. App. 128", "140 Wn.2d 88", "147 Wn.2d 536", "25 Wn. App. 552", "421 P.2d 674", "424 P.2d 290", "539 P.2d 868", "55 P.3d 619", "60 Wn.2d 949", "608 P.2d 266", "616 P.2d 644", "656 P.2d 1030", "69 Wn.2d 949", "70 Wn.2d 522", "770 P.2d 1027", "801 P.2d 222", "876 P.2d 435", "886 P.2d 160", "94 Wn.2d 255", "959 P.2d 651", "98 Wn.2d 434", "993 P.2d 259"]
+cites_cases: ["112 Wn.2d 193", "115 Wn.2d 657", "124 Wn.2d 158", "125 Wn.2d 500", "135 Wn.2d 820", "14 Wn. App. 128", "140 Wn.2d 88", "147 Wn.2d 536", "25 Wn. App. 552", "421 P.2d 674", "424 P.2d 290", "539 P.2d 868", "55 P.3d 619", "60 Wn.2d 949", "608 P.2d 266", "616 P.2d 644", "656 P.2d 1030", "69 Wn.2d 949", "70 Wn.2d 522", "770 P.2d 1027", "801 P.2d 222", "876 P.2d 435", "886 P.2d 160", "94 Wn.2d 255", "959 P.2d 651", "98 Wn.2d 434", "993 P.2d 259"]
 ---
 
 # Elliott Bay Seafoods, Inc. v. Port of Seattle
