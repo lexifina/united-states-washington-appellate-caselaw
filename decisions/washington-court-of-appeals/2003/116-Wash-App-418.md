@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21028-6-III"
 decided: "2003-03-13"
-citations: ["116 Wash. App. 418", "116 Wash. App. 1014"]
+citations: ["116 Wash. App. 418"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Chrystal Rachael Reed, Appell
 source_url: "https://static.case.law/wash-app/116/cases/0418-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265843
-cites_cases: ["116 Wn. App. 418", "150 Wn.2d 1013", "371 U.S. 471", "384 U.S. 436", "470 U.S. 298", "664 P.2d 1234", "99 Wn.2d 851"]
+cites_cases: ["150 Wn.2d 1013", "371 U.S. 471", "384 U.S. 436", "470 U.S. 298", "664 P.2d 1234", "99 Wn.2d 851"]
 ---
 
 # State v. Reed
