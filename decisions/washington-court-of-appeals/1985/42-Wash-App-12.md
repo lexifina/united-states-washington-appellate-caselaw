@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14711-1-I"
 decided: "1985-09-30"
-citations: ["42 Wash. App. 12", "41 Wash. App. 1062"]
+citations: ["42 Wash. App. 12"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Martin Beck, Appellant."]
 source_url: "https://static.case.law/wash-app/42/cases/0012-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1803971
-cites_cases: ["102 Wn.2d 698", "31 Wn. App. 438", "348 P.2d 214", "42 Wn. App. 12", "47 A.L.R.2d 570", "511 P.2d 1374", "55 Wn.2d 469", "588 P.2d 1320", "642 P.2d 765", "677 P.2d 140", "687 P.2d 1152", "9 Wn. App. 246", "91 Wn.2d 301", "98 Wn.2d 1017"]
+cites_cases: ["102 Wn.2d 698", "31 Wn. App. 438", "348 P.2d 214", "47 A.L.R.2d 570", "511 P.2d 1374", "55 Wn.2d 469", "588 P.2d 1320", "642 P.2d 765", "677 P.2d 140", "687 P.2d 1152", "9 Wn. App. 246", "91 Wn.2d 301", "98 Wn.2d 1017"]
 ---
 
 # State v. Beck
