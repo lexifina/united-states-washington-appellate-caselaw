@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29870-8-II"
 decided: "2004-03-02"
-citations: ["121 Wash. App. 257", "120 Wash. App. 1034"]
+citations: ["121 Wash. App. 257"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["First Class Cartage, Ltd., Appellant, v. Fife Service and Towing, Inc
 source_url: "https://static.case.law/wash-app/121/cases/0257-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 863993
-cites_cases: ["106 Wn.2d 1", "120 Wn.2d 140", "121 Wn. App. 257", "130 Wn.2d 392", "143 Wn.2d 267", "144 Wn.2d 91", "146 Wn.2d 1", "146 Wn.2d 63", "147 Wn.2d 410", "147 Wn.2d 476", "148 Wn.2d 224", "148 Wn.2d 338", "148 Wn.2d 637", "148 Wn.2d 672", "19 P.3d 1030", "26 P.3d 257", "42 P.3d 968", "43 P.3d 4", "534 U.S. 1130", "538 U.S. 1057", "54 P.3d 147", "55 P.3d 597", "59 P.3d 655", "60 P.3d 586", "62 P.3d 462", "63 P.3d 765", "656 P.2d 1030", "721 P.2d 1", "839 P.2d 324", "923 P.2d 694", "98 Wn.2d 434"]
+cites_cases: ["106 Wn.2d 1", "120 Wn.2d 140", "130 Wn.2d 392", "143 Wn.2d 267", "144 Wn.2d 91", "146 Wn.2d 1", "146 Wn.2d 63", "147 Wn.2d 410", "147 Wn.2d 476", "148 Wn.2d 224", "148 Wn.2d 338", "148 Wn.2d 637", "148 Wn.2d 672", "19 P.3d 1030", "26 P.3d 257", "42 P.3d 968", "43 P.3d 4", "534 U.S. 1130", "538 U.S. 1057", "54 P.3d 147", "55 P.3d 597", "59 P.3d 655", "60 P.3d 586", "62 P.3d 462", "63 P.3d 765", "656 P.2d 1030", "721 P.2d 1", "839 P.2d 324", "923 P.2d 694", "98 Wn.2d 434"]
 ---
 
 # First Class Cartage, Ltd. v. Fife Service & Towing, Inc.
