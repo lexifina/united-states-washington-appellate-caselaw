@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13156-7-I"
 decided: "1986-01-06"
-citations: ["43 Wash. App. 81", "42 Wash. App. 1048"]
+citations: ["43 Wash. App. 81"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kenneth A. MacDonald, et al, Appellants, v. Jeannette C. Hayner, et a
 source_url: "https://static.case.law/wash-app/43/cases/0081-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1806180
-cites_cases: ["10 Wn. App. 406", "103 Wn.2d 79", "137 P.2d 97", "17 Wn.2d 591", "34 Wn. App. 235", "43 Wn. App. 81", "503 P.2d 108", "518 P.2d 212", "608 P.2d 631", "611 P.2d 1252", "621 P.2d 1279", "621 P.2d 1285", "656 P.2d 1030", "660 P.2d 1129", "690 P.2d 1153", "81 Wn.2d 528", "93 Wn.2d 249", "93 Wn.2d 682", "95 Wn.2d 265", "95 Wn.2d 94", "98 Wn.2d 434"]
+cites_cases: ["10 Wn. App. 406", "103 Wn.2d 79", "137 P.2d 97", "17 Wn.2d 591", "34 Wn. App. 235", "503 P.2d 108", "518 P.2d 212", "608 P.2d 631", "611 P.2d 1252", "621 P.2d 1279", "621 P.2d 1285", "656 P.2d 1030", "660 P.2d 1129", "690 P.2d 1153", "81 Wn.2d 528", "93 Wn.2d 249", "93 Wn.2d 682", "95 Wn.2d 265", "95 Wn.2d 94", "98 Wn.2d 434"]
 ---
 
 # MacDonald v. Hayner
