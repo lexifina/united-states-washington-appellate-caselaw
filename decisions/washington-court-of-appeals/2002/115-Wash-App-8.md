@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49305-1-I"
 decided: "2002-11-25"
-citations: ["115 Wash. App. 8", "114 Wash. App. 1047"]
+citations: ["115 Wash. App. 8"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Patrick Campbell, Appellant, v. Lockheed Shipbuilding Corporation, Re
 source_url: "https://static.case.law/wash-app/115/cases/0008-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 222285
-cites_cases: ["115 Wn. App. 8", "116 Wn.2d 749", "141 Wn.2d 431", "225 F.2d 137", "33 U.S.C. § 902", "33 U.S.C. § 904", "33 U.S.C. § 905", "33 U.S.C. § 933", "33 U.S.C. §§ 901-950", "5 P.3d 1265", "506 U.S. 153", "637 F.2d 1008", "682 F. Supp. 304", "807 P.2d 876"]
+cites_cases: ["116 Wn.2d 749", "141 Wn.2d 431", "225 F.2d 137", "33 U.S.C. § 902", "33 U.S.C. § 904", "33 U.S.C. § 905", "33 U.S.C. § 933", "33 U.S.C. §§ 901-950", "5 P.3d 1265", "506 U.S. 153", "637 F.2d 1008", "682 F. Supp. 304", "807 P.2d 876"]
 ---
 
 # Campbell v. Lockheed Shipbuilding Corp.
