@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25160-4-II"
 decided: "2001-01-19"
-citations: ["104 Wash. App. 783", "104 Wash. App. 1013"]
+citations: ["104 Wash. App. 783"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Linda Herman, Appellant, v. Safeco Insurance Company of America, Resp
 source_url: "https://static.case.law/wash-app/104/cases/0783-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 699902
-cites_cases: ["1 P.3d 1124", "101 Wash. 46", "104 Wn. App. 783", "106 Wn.2d 1", "123 Wn.2d 891", "124 Wn.2d 789", "125 Wn.2d 697", "131 Wn.2d 1002", "133 Wn.2d 192", "136 Wn.2d 214", "137 Wn.2d 1027", "141 Wn.2d 29", "171 P. 1030", "535 P.2d 816", "721 P.2d 1", "82 Wn. App. 480", "85 Wn.2d 372", "874 P.2d 142", "881 P.2d 1020", "887 P.2d 886", "89 Wn. App. 712", "918 P.2d 937", "92 Wn. App. 866", "943 P.2d 286", "950 P.2d 479", "961 P.2d 358", "967 P.2d 1"]
+cites_cases: ["1 P.3d 1124", "101 Wash. 46", "106 Wn.2d 1", "123 Wn.2d 891", "124 Wn.2d 789", "125 Wn.2d 697", "131 Wn.2d 1002", "133 Wn.2d 192", "136 Wn.2d 214", "137 Wn.2d 1027", "141 Wn.2d 29", "171 P. 1030", "535 P.2d 816", "721 P.2d 1", "82 Wn. App. 480", "85 Wn.2d 372", "874 P.2d 142", "881 P.2d 1020", "887 P.2d 886", "89 Wn. App. 712", "918 P.2d 937", "92 Wn. App. 866", "943 P.2d 286", "950 P.2d 479", "961 P.2d 358", "967 P.2d 1"]
 ---
 
 # Herman v. Safeco Insurance Co. of America
