@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "100-40784-2"
+decided: "1970-06-15"
+citations: ["2 Wash. App. 882"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Doris C. McKendry, Respondent, v. Lorne E. McKendry, Appellant."]
+source_url: "https://static.case.law/wash-app/2/cases/0882-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1847488
+cites_cases: ["12 Wn.2d 408", "121 P.2d 962", "172 P.2d 210", "178 P. (2d) 725", "234 P. (2d) 497", "247 P. (2d) 249", "25 Wn.2d 843", "266 P.2d 786", "27 Wn. (2d) 456", "39 Wn. (2d) 74", "397 P.2d 418", "40 Wn. (2d) 903", "434 P.2d 1", "44 Wn.2d 222", "444 P.2d 804", "65 Wn.2d 366", "72 Wn.2d 532", "74 Wn.2d 319"]
+---
+
+# McKendry v. McKendry
+
+## Majority (Pearson, J.)
+
+Pearson, J.
+The parties to this action were divorced on April 30, 1965, after 34 years of marriage. The decree ordered the plaintiff, Doris C. McKendry (wife) to pay alimony of $600 per month, commencing January 1, 1966, to the defendant, Lome E. McKendry (husband)
+On February 5, 1968, plaintiff petitioned the court for an order modifying the decree so as to terminate the alimony. The petition claimed that, even though able bodied, the defendant had made no effort to obtain employment and that her financial circumstances had changed in three respects. (1) Her income-producing stocks (which were her primary source of income) had been depleted because of annual stock redemptions; (2) She had borne all the expenses of maintaining and educating the two minor children; (3) Her capital assets had dwindled because of the construction of a new home and she had expended large sums of money in paying off debts which defendant had incurred and which the property settlement agreement had required her to pay.
+Defendant claimed in opposition to the petition (1) that the alimony really constituted property settlement, and (2) that there had been no substantial change of circumstance which would warrant modification of the decree so as to terminate the alimony award.
+After hearing the petition on oral testimony, the trial court entered findings of fact, conclusions of law, and a judgment modifying the decree by reducing the alimony to $400 per month for 1969, $200 per month for 1970, and terminating the alimony thereafter.
+Defendant’s appeal challenges several findings of fact and the conclusion to reduce and terminate the alimony. However, all of the assignments of error raise but a single issue: Does the evidence show a sufficient change of circumstances to support the modification?
+The criterion for the allowance of alimony upon a petition for modification depends upon two factors: (1) the necessities of the wife (in this case the husband); and (2) the financial ability of the husband (in this case the wife). Duncan v. Duncan, 25 Wn.2d 843, 172 P.2d 210 (1946); Gordon v. Gordon, 44 Wn.2d 222, 266 P.2d 786 (1954).
+The decree granting alimony can be modified only upon a showing of a material change in the conditions and circumstances of the parties relative to these factors. Bartow v. Bartow, 12 Wn.2d 408, 121 P.2d 962 (1942).
+The changed circumstances which will justify modification of alimony must be changed conditions which were not within the contemplation of the parties at the entry of the decree. Crosetto v. Crosetto, 65 Wn.2d 366, 397 P.2d 418 (1964).
+The scope of appellate review of an order modifying alimony provisions must also be considered. Those principles were discussed in Gordon v. Gordon, supra at 226 and 227, as follows:
+The question whether there has been a material change in such conditions and circumstances, arising subsequent to the entry of an order allowing alimony, and the question of the propriety and extent of a modification of such order, are questions which are addressed to, and rest within, the sound discretion of the trial court. Wages v. Wages, 39 Wn. (2d) 74, 234 P. (2d) 497. Unless it can be said that the trial court has abused its judicial discretion in this regard, its exercise thereof will not be disturbed. Warning v. Warning, 40 Wn. (2d) 903, 247 P. (2d) 249. The term “abuse of judicial discretion” does not mean simply the decision of a case by whim, caprice, or arbitrary conduct, through ulterior motives or in willful disregard of a litigant’s rights, but contemplates as well a discretion exercisecLupon grounds or to an extent clearly untenable or manifestly unreasonable. Holm v. Holm, 27 Wn. (2d) 456, 178 P. (2d) 725.
+Tt 'is appellant’s' contention in this case that the trial court erred in finding a substantial and material change in the conditions and circumstances of the parties since the entry of the decree and which were not within the contemplation of the parties at the time the decree was entered. We disagree.
+We believe that there were several circumstances shown by the evidence to have changed materially since the entry of the decree which would prevent us from holding that the modification of the provision pertaining to alimony was either “manifestly unreasonable or clearly untenable.” Hume v. Hume, 74 Wn.2d 319, 444 P.2d 804 (1968).
+There was no community property at the time of the divorce. The rather substantial assets awarded to plaintiff by the decree constituted her separate property, inherited more than 25 years earlier. For at least the last 15 years of the marriage, income from this separate inheritance was the sole support of plaintiff, defendant, and their five children.
+For reasons which are not apparent from the record, shortly after plaintiff received the inheritance, defendant ceased to be financially productive. Instead of engaging in steady employment as he had prior to that time, defendant engaged in several speculative ventures which failed and which plaintiff was required to save from financial disaster. Substantial debts (approximately $140,000) which the decree required plaintiff to pay, came from these ventures.
+The decree awarded defendant $10,000 in cash (from plaintiff’s separate property) and other personal effects as well as the alimony here under consideration.
+At the time of the decree, plaintiff’s income was largely dividend income from stock holdings in Hygrade Food Products Company. At the time of the divorce and subsequently to the present time, those stocks are being redeemed by the corporation, so as to reduce plaintiff’s dividend income at the rate of $1,800 per year. . '
+'The record also shows that since the divorce, plaintiff has been in the process of completing the support and education of the remaining two. children, of the parties and that college expenses for one of them at the University of the Pacific have been substantial.
+It also appears that since the entry of the decreé, plaintiff' has, in dn increasing degree, had to use her capital assets to meet her living expenses, debt obligations, and the alimony payments. . ■
+Furthermore, one of the assets awarded plaintiff in the decree was a contract for sale of a hospital in San Jose, California. The contract anticipated a profit to plaintiff of between $125,000 and $150,000. At the time she brought the present petition for modification, the contract had been sold and the anticipated profits lost.
+Turning to defendant’s circumstances since the entry of the decree, we find that although he is qualified to work in several fields of endeavor, and has had opportunity to work, he has, in fact, received no income of consequence other than the alimony, nor has he made any effort to be productive. His health is good.
+At the time of the decree, defendant was not employed. The finding of fact supporting the award of alimony did not establish that defendant was unable to support himself. Instead, it provided that he “is not capable of supporting himself in the manner to which he is accustomed . . .” (Italics ours.) (Finding of fact?.) •
+Defendant’s argument is that since he was unemployed at the time of the divorce and is still unemployed, there has been no change in his necessities to the extent that- alimony should be reduced or terminated.
+However, it is doubtful that such a finding established defendant’s need for alimony at the time of the divorce. The finding contemplated that he did have capabilities of supporting himself, even though perhaps not to the extent he was accustomed. For this reason we believe the trial court could properly consider his failure to furnish, any of his own support as a circumstance which was not within the contemplation of the parties at the entry of the decree.
+To hold otherwise, in the face of his ability to earn, is to give him a perpetual lien on his wife’s diminishing earnings, where no actual need exists. This is a policy we do not favor. We cannot conceive that the finding entered in this case contemplated perpetual alimony and consequently perpetual indolence. Berg v. Berg, 72 Wn.2d 532, 434 P.2d 1 (1967).
+Assuming arguendo, but without deciding, that the same standards for modifying alimony payments apply where a divorced wife is ordered to pay alimony to her divorced husband, as would apply to the converse, it is our view that the factors heretofore recited constitute substantial evidence of a material change of circumstances to support the judgment modifying the divorce decree. At least, we are unable to find a judicial abuse of discretion on a matter which “rests almost exclusively with the trial court.” See Hume v. Hume, 74 Wn.2d 319, 320, 444 P.2d 804 (1968).
+Judgment affirmed.
+Armstrong, C. J., and Petrie, J., concur.
+In concluding that defendant husband should receive alimony, the court noted that the awárd was “by virtue of” the property settlement agreement.
+The trial court found that the award was, in fact, alimony, and that finding is not challenged on appeal.
