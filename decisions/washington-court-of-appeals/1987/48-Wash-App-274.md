@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8999-8-II"
 decided: "1987-04-09"
-citations: ["48 Wash. App. 274", "47 Wash. App. 1035"]
+citations: ["48 Wash. App. 274"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Banner Realty, Inc., Appellant, v. The Department of Revenue, Respond
 source_url: "https://static.case.law/wash-app/48/cases/0274-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1838134
-cites_cases: ["100 Wn.2d 1030", "28 Wn. App. 119", "28 Wn. App. 319", "35 Wn. App. 533", "37 Wn. App. 196", "48 Wn. App. 274", "621 P.2d 716", "622 P.2d 1283", "623 P.2d 702", "643 P.2d 436", "667 P.2d 1133", "678 P.2d 1262", "94 Wn.2d 889", "97 Wn.2d 227"]
+cites_cases: ["100 Wn.2d 1030", "28 Wn. App. 119", "28 Wn. App. 319", "35 Wn. App. 533", "37 Wn. App. 196", "621 P.2d 716", "622 P.2d 1283", "623 P.2d 702", "643 P.2d 436", "667 P.2d 1133", "678 P.2d 1262", "94 Wn.2d 889", "97 Wn.2d 227"]
 ---
 
 # Banner Realty, Inc. v. Department of Revenue
