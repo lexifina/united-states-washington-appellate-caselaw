@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27856-8-I"
 decided: "1993-03-22"
-citations: ["69 Wash. App. 621", "69 Wash. App. 1013"]
+citations: ["69 Wash. App. 621"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Sula A. Olson, Respondent, and Norma
 source_url: "https://static.case.law/wash-app/69/cases/0621-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1700813
-cites_cases: ["100 Wn.2d 1013", "114 Wn.2d 1017", "12 Wn. App. 183", "226 P.2d 895", "34 Wn. App. 344", "37 Wn.2d 918", "391 U.S. 367", "42 U.S.C. § 12101", "423 U.S. 832", "475 U.S. 41", "529 P.2d 476", "56 Wn. App. 458", "581 So. 2d 1290", "583 P.2d 621", "661 P.2d 155", "69 Wn. App. 621", "784 P.2d 168", "85 Wn.2d 1003", "90 Wn.2d 384"]
+cites_cases: ["100 Wn.2d 1013", "114 Wn.2d 1017", "12 Wn. App. 183", "226 P.2d 895", "34 Wn. App. 344", "37 Wn.2d 918", "391 U.S. 367", "42 U.S.C. § 12101", "423 U.S. 832", "475 U.S. 41", "529 P.2d 476", "56 Wn. App. 458", "581 So. 2d 1290", "583 P.2d 621", "661 P.2d 155", "784 P.2d 168", "85 Wn.2d 1003", "90 Wn.2d 384"]
 ---
 
 # In re the Marriage of Olson
