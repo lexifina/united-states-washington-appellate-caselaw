@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15697-7-I"
 decided: "1987-04-13"
-citations: ["48 Wash. App. 647", "47 Wash. App. 1037"]
+citations: ["48 Wash. App. 647"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Mark Richard Moon, Appellant.
 source_url: "https://static.case.law/wash-app/48/cases/0647-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1838467
-cites_cases: ["102 Wn.2d 733", "104 Wn.2d 412", "30 Wn. App. 119", "390 U.S. 377", "40 Wn. App. 743", "409 U.S. 188", "432 U.S. 98", "45 Wn. App. 692", "475 U.S. 1020", "48 Wn. App. 647", "487 P.2d 255", "496 P.2d 343", "5 Wn. App. 299", "545 P.2d 1201", "573 P.2d 22", "6 Wn. App. 765", "633 P.2d 92", "65 A.L.R.3d 1299", "689 P.2d 1065", "700 P.2d 327", "705 P.2d 1182", "726 P.2d 1263", "86 Wn.2d 487", "89 Wn.2d 430"]
+cites_cases: ["102 Wn.2d 733", "104 Wn.2d 412", "30 Wn. App. 119", "390 U.S. 377", "40 Wn. App. 743", "409 U.S. 188", "432 U.S. 98", "45 Wn. App. 692", "475 U.S. 1020", "487 P.2d 255", "496 P.2d 343", "5 Wn. App. 299", "545 P.2d 1201", "573 P.2d 22", "6 Wn. App. 765", "633 P.2d 92", "65 A.L.R.3d 1299", "689 P.2d 1065", "700 P.2d 327", "705 P.2d 1182", "726 P.2d 1263", "86 Wn.2d 487", "89 Wn.2d 430"]
 ---
 
 # State v. Moon
