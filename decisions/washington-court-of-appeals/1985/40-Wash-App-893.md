@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11910-9-I"
 decided: "1985-05-09"
-citations: ["40 Wash. App. 893", "40 Wash. App. 1041"]
+citations: ["40 Wash. App. 893"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lou M. Hyatt, Appellant, v. Sellen Construction Company, Inc., Respon
 source_url: "https://static.case.law/wash-app/40/cases/0893-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1796174
-cites_cases: ["220 N.W.2d 641", "249 N.W.2d 411", "30 Wn. App. 221", "30 Wn. App. 787", "392 Mich. 91", "40 Wn. App. 893", "523 P.2d 872", "568 P.2d 771", "582 P.2d 500", "633 P.2d 897", "635 P.2d 426", "638 P.2d 605", "72 Mich. App. 330", "83 Wn.2d 797", "88 Wn.2d 917", "90 Wn.2d 323", "96 Wn.2d 274"]
+cites_cases: ["220 N.W.2d 641", "249 N.W.2d 411", "30 Wn. App. 221", "30 Wn. App. 787", "392 Mich. 91", "523 P.2d 872", "568 P.2d 771", "582 P.2d 500", "633 P.2d 897", "635 P.2d 426", "638 P.2d 605", "72 Mich. App. 330", "83 Wn.2d 797", "88 Wn.2d 917", "90 Wn.2d 323", "96 Wn.2d 274"]
 ---
 
 # Hyatt v. Sellen Construction Co.
