@@ -1,0 +1,47 @@
+---
+court: "Washington Court of Appeals"
+docket: "28652-8-I; 28916-1-I"
+decided: "1992-07-13"
+citations: ["66 Wash. App. 409"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Marc S. Wicker, Appellant."]
+source_url: "https://static.case.law/wash-app/66/cases/0409-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1703342
+cites_cases: ["104 Wn.2d 412", "106 S. Ct. 1208", "11 Wn. App. 491", "116 L. Ed. 2d 848", "448 U.S. 56", "475 U.S. 1020", "524 P.2d 466", "542 P.2d 782", "55 Wn. App. 591", "57 Wn. App. 277", "59 Wn. App. 678", "705 P.2d 1182", "779 P.2d 285", "787 P.2d 949", "800 P.2d 839", "84 Wn.2d 1006", "86 Wn.2d 112", "89 L. Ed. 2d 321"]
+---
+
+# State v. Wicker
+
+## Majority (Forrest, J.)
+
+Forrest, J.
+Marc Wicker appeals his conviction for second degree burglary, asserting that admission of evidence of a nontestifying expert's verification of a fingerprint analysis violated his constitutional right to confrontation. We agree and reverse.
+On January 2, 1991, Wicker was charged with one count of second degree burglary in connection with the burglary of a warehouse. The only witness to the burglary failed to identify Wicker in a police lineup. However, fingerprints were obtained from metal sheets leaning near the broken window identified as the point of entry.
+Six fingerprints were lifted from the metal sheets but only three were of comparison value. Those three were analyzed by Phil Anderson, an identification technician with the Seattle Police Department. Anderson concluded that one of the three fingerprints matched Wicker's left little finger and the other two matched Wicker's left thumb.
+At trial, Anderson testified to his conclusions as to the fingerprints taken from the metal sheets. He also testified that it was standard procedure for his comparison to be "verified" by another senior technician. The comparison is verified if the other technician agrees with the conclusions. Anderson testified that his identification in this case was verified by Karen Tando, demonstrated by the presence of her initials on the fingerprint card. The defense objected to this testimony as hearsay. The defense objections were overruled. Karen Tando was not called to testify.
+Wicker asserts that the evidence of Tando's verification was inadmissible hearsay. ER 801(c) defines hearsay as "a statement, other than one made by the declarant while testifying at the trial or hearing, offered in evidence to prove the truth of the matter asserted." ER 801(a) defines a statement as "an oral or written assertion". Pursuant to ER 802, hearsay is inadmissible except as provided for by rule or statute.
+It cannot be seriously questioned that in the context of this case the initials "K.T." are an out-of-court statement. Although meaningless in and of themselves, taken in conjunction with Anderson's testimony, the initials amount to an assertion of Tando's opinion that the two sets of prints match. As such, the evidence is classic hearsay, an out-of-court statement offered for the truth of what it asserts.
+The State urges that the initials and accompanying testimony were admitted not for the truth of the matter asserted, but in the course of explaining the police department procedures. We disagree. The police procedures were not challenged nor at issue in any way. The State cannot volunteer an unnecessary explanation as an excuse to introduce otherwise inadmissible hearsay.
+In the alternative, the State urges that if the evidence is hearsay, it was properly admissible pursuant to the business record exception to the hearsay rule, codified as RCW 5.45. RCW 5.45.020 provides:
+A record of an act, condition or event, shall in so far as relevant, be competent evidence if the custodian or other qualified witness testifies to its identity and the mode of its preparation, and if it was made in the regular course of business, at or near the time of the act, condition or event, and if, in the opinion of the court, the sources of information, method and time of preparation were such as to justify its admission.
+Absent Anderson's testimony we would agree that the exhibit meets the requirements of a business record. However, his testimony explaining the exhibit, combined with the initials, changes the character of the evidence. Considered with the testimony, the initials have the same net effect as if Tando had written on the exhibit, "I have compared the prints from the burglarized premises with the prints of the defendant, Mr. Wicker, and in my opinion the prints match". As such, the exhibit is not a record of an act, condition or event, but expert opinion which cannot constitute a business record.
+State v. Kreck permits a narrow exception to the rule that expert opinion cannot be admitted as part of a business record. Kreck allows admission of laboratoiy analyses of drugs as business records. The underlying rationale is that, although it requires an expert to analyze for drugs, the result and identification is in essence a fact as to which all experts would agree. The routine nature of the test means that the expert would be unlikely to recall the details and that cross examination would not be useful.
+However, the comparison of fingerprints and the conclusion that prints lifted from a crime scene match the prints of the defendant on trial is plainly distinguishable from the factual result of routine chemical analysis. Not all experts would necessarily agree. Interestingly, Anderson's own testimony illustrates that different agencies apply different standards as to the number of matching characteristics required for verification as to identity. The fact that this is not a routine laboratory result is further demonstrated by the fact that Seattle police procedures require independent confirmation by another expert before proceeding with a criminal prosecution. We conclude that the evidence constituted an opinion rather than a record of an act, condition or event. As such, it is not admissible under RCW 5.45.020 and its admission violated Wicker's right to confrontation. Therefore, the objection to and motion to strike the initials and Anderson's testimony establishing that Tando had reached the same conclusion as he, should have been granted.
+Finally, the State asserts that even if the testimony was erroneously admitted, the error is harmless. This claim is plainly without merit. A constitutional error, including an error which results in violation of the defendant's confrontation rights, may be so insignificant as to be harmless. An error is harmless if the reviewing court can conclude beyond a reasonable doubt that any reasonable jury would have reached the same result if the error had not occurred. The fingerprints were the sole basis of the State's case. The jury received two opinions as to the identity of the fingerprints, one of which was admitted in error. Although the State did not stress Tando's confirming opinion in final argument, the evidence was nonetheless before the jury. Under such circumstances, we cannot conclude beyond a reasonable doubt that any rational jury would have reached the same conclusion solely on the basis of Anderson's opinion.
+Reversed and remanded for further proceedings in accordance with this opinion.
+Grosse, C.J., and Kennedy, J., concur.
+See State v. Aaron, 57 Wn. App. 277, 280, 787 P.2d 949 (1990).
+See State v. Medley, 11 Wn. App. 491, 499, 524 P.2d 466, review denied, 84 Wn.2d 1006 (1974).
+See State v. Heggins, 55 Wn. App. 591, 596, 779 P.2d 285 (1989).
+86 Wn.2d 112, 542 P.2d 782 (1975).
+Kreck, at 121.
+Kreck, at 120. See also State v. Sosa, 59 Wn. App. 678, 685, 800 P.2d 839 (1990).
+Out-of-court statements admitted pursuant to RCW 5.45.020 do not violate the defendant's confrontation rights. Kreck, at 121. However, since the evidence in issue is not admissible pursuant to RCW 5.45.020, we find that its admission did violate Wicker's confrontation rights.
+In Ohio v. Roberts, 448 U.S. 56, 65 L. Ed. 2d 597, 100 S. Ct. 2531 (1980), the United States Supreme Court set forth what appeared to be a general confrontation clause analysis requiring a showing of unavailability and reliability in order to admit an out-of-court statement. The Court has recently limited the Roberts analysis to its facts, making it applicable only to admission of prior testimony. White v. Illinois, _U.S. _, 116 L. Ed. 2d 848, 112 S. Ct. 736 (1992). Nonetheless, because in-court testimony would provide a meaningful addition to the truth-finding process in the case at bar, we find that the confrontation clause requires that unavailability he shown before the out-of-court statement at issue may be admitted. See White. Because no showing of Tando's unavailability was made, admission of the evidence was violative of Wicker's right to confrontation.
+If the exhibit is introduced on retrial, the most that need be said about the initials "K.T." is that they represented a step in the administrative process or words to that effect.
+State v. Guloy, 104 Wn.2d 412, 425, 705 P.2d 1182 (1985), cert. denied, 475 U.S. 1020, 89 L. Ed. 2d 321, 106 S. Ct. 1208 (1986).
+Guloy, at 425.
+It is possible that the State recognized that admission of the evidence was error and thereby tried to avoid compounding that error in final argument.
