@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25670-0-I"
 decided: "1991-07-22"
-citations: ["62 Wash. App. 628", "61 Wash. App. 1055"]
+citations: ["62 Wash. App. 628"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
