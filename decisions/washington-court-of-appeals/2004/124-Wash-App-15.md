@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51601-9-I"
 decided: "2004-07-26"
-citations: ["124 Wash. App. 15", "122 Wash. App. 941"]
+citations: ["124 Wash. App. 15"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Morteza Hakimi, Appellant."]
 source_url: "https://static.case.law/wash-app/124/cases/0015-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684237
-cites_cases: ["101 Wn.2d 566", "102 Wn.2d 87", "107 Wn. App. 328", "109 Wn.2d 222", "109 Wn.2d 484", "120 Wn.2d 616", "124 Wn. App. 15", "127 Wn.2d 322", "133 Wn.2d 389", "14 Wn. App. 101", "154 Wn.2d 1004", "26 P.3d 1017", "33 Wn. App. 428", "35 Wn. App. 855", "462 P.2d 933", "466 U.S. 668", "482 P.2d 775", "540 P.2d 898", "56 Wn. App. 63", "61 Ariz. 296", "631 P.2d 381", "635 P.2d 127", "656 P.2d 514", "670 P.2d 296", "683 P.2d 173", "684 P.2d 683", "743 P.2d 816", "745 P.2d 854", "77 Wn.2d 423", "782 P.2d 224", "79 Wn.2d 12", "83 Wn. App. 179", "845 P.2d 281", "86 Wn. App. 40", "899 P.2d 1251", "920 P.2d 1218", "935 P.2d 679", "945 P.2d 1120", "95 Wn.2d 858", "96 Wn.2d 301"]
+cites_cases: ["101 Wn.2d 566", "102 Wn.2d 87", "107 Wn. App. 328", "109 Wn.2d 222", "109 Wn.2d 484", "120 Wn.2d 616", "127 Wn.2d 322", "133 Wn.2d 389", "14 Wn. App. 101", "154 Wn.2d 1004", "26 P.3d 1017", "33 Wn. App. 428", "35 Wn. App. 855", "462 P.2d 933", "466 U.S. 668", "482 P.2d 775", "540 P.2d 898", "56 Wn. App. 63", "61 Ariz. 296", "631 P.2d 381", "635 P.2d 127", "656 P.2d 514", "670 P.2d 296", "683 P.2d 173", "684 P.2d 683", "743 P.2d 816", "745 P.2d 854", "77 Wn.2d 423", "782 P.2d 224", "79 Wn.2d 12", "83 Wn. App. 179", "845 P.2d 281", "86 Wn. App. 40", "899 P.2d 1251", "920 P.2d 1218", "935 P.2d 679", "945 P.2d 1120", "95 Wn.2d 858", "96 Wn.2d 301"]
 ---
 
 # State v. Hakimi
