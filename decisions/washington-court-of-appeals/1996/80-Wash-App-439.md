@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14355-4-III"
 decided: "1996-01-09"
-citations: ["80 Wash. App. 439", "80 Wash. App. 1021"]
+citations: ["80 Wash. App. 439"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
