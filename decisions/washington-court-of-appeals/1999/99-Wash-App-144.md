@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18210-0-III"
 decided: "1999-12-23"
-citations: ["99 Wash. App. 144", "98 Wash. App. 1043"]
+citations: ["99 Wash. App. 144"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Roger C. Moore, Appellant, and Judy 
 source_url: "https://static.case.law/wash-app/99/cases/0144-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181140
-cites_cases: ["108 Wn.2d 445", "138 Wn.2d 612", "18 Wn. App. 462", "272 P.2d 125", "41 Wn. App. 337", "41 Wn. App. 78", "44 Wn. App. 533", "44 Wn.2d 851", "569 P.2d 70", "644 P.2d 1149", "650 P.2d 213", "702 P.2d 477", "704 P.2d 169", "723 P.2d 12", "739 P.2d 1138", "97 Wn.2d 344", "97 Wn.2d 811", "980 P.2d 1248", "99 Wn. App. 144"]
+cites_cases: ["108 Wn.2d 445", "138 Wn.2d 612", "18 Wn. App. 462", "272 P.2d 125", "41 Wn. App. 337", "41 Wn. App. 78", "44 Wn. App. 533", "44 Wn.2d 851", "569 P.2d 70", "644 P.2d 1149", "650 P.2d 213", "702 P.2d 477", "704 P.2d 169", "723 P.2d 12", "739 P.2d 1138", "97 Wn.2d 344", "97 Wn.2d 811", "980 P.2d 1248"]
 ---
 
 # In re the Marriage of Moore
