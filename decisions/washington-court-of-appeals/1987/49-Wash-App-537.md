@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9225-5-II"
 decided: "1987-08-12"
-citations: ["49 Wash. App. 537", "48 Wash. App. 1093"]
+citations: ["49 Wash. App. 537"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Robert Dean Strandy, Jr., App
 source_url: "https://static.case.law/wash-app/49/cases/0537-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1738999
-cites_cases: ["101 Wn.2d 1010", "105 Wn.2d 692", "107 S. Ct. 599", "12 Wn. App. 255", "30 Wn. App. 280", "35 Wn. App. 932", "40 Wn. App. 371", "42 Wn. App. 806", "45 Wn. App. 132", "49 Wn. App. 537", "529 P.2d 878", "585 P.2d 142", "600 P.2d 1249", "633 P.2d 1345", "659 P.2d 488", "661 P.2d 126", "671 P.2d 273", "699 P.2d 221", "714 P.2d 703", "718 P.2d 407", "724 P.2d 412", "90 Wn.2d 657", "92 Wn.2d 671", "96 Wn.2d 1021", "98 Wn.2d 789", "99 Wn.2d 180"]
+cites_cases: ["101 Wn.2d 1010", "105 Wn.2d 692", "107 S. Ct. 599", "12 Wn. App. 255", "30 Wn. App. 280", "35 Wn. App. 932", "40 Wn. App. 371", "42 Wn. App. 806", "45 Wn. App. 132", "529 P.2d 878", "585 P.2d 142", "600 P.2d 1249", "633 P.2d 1345", "659 P.2d 488", "661 P.2d 126", "671 P.2d 273", "699 P.2d 221", "714 P.2d 703", "718 P.2d 407", "724 P.2d 412", "90 Wn.2d 657", "92 Wn.2d 671", "96 Wn.2d 1021", "98 Wn.2d 789", "99 Wn.2d 180"]
 ---
 
 # State v. Strandy
