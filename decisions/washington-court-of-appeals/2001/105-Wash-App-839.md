@@ -1,0 +1,54 @@
+---
+court: "Washington Court of Appeals"
+docket: "24767-4-II; 24783-6-II"
+decided: "2001-02-23"
+citations: ["105 Wash. App. 839"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Christopher Delgado, Appellant. The State of Washington, Respondent, v. Jose Carlos Triana, Appellant."]
+source_url: "https://static.case.law/wash-app/105/cases/0839-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 358834
+cites_cases: ["50 Wn. App. 376", "682 F.2d 853", "749 P.2d 173"]
+---
+
+# State v. Delgado
+
+## Majority (Hunt, A.C.J.)
+
+Hunt, A.C.J.
+Christopher Delgado and Jose Triana appeal convictions for second degree assault, arguing ineffective assistance of counsel, insufficient evidence, improper jury instructions, and denial of Sixth Amendment rights. We affirm.
+FACTS
+I. The Assault
+Shortly after midnight, Jose Triana, Justin Livesay, and Christopher Delgado pulled into the Jack-in-the-Box drive-through in Centralia. An accident had occurred in front of them, blocking traffic. Triana got out of his car and asked the driver of the vehicle behind him to move so that Triana and his passengers could get out of line to go to another restaurant.
+The driver of the second vehicle, Leo Goodwin, did not respond to Triana’s request. Goodwin was having a conversation with Josh Fluetsch, and Goodwin was apparently growing angrier as the conversation progressed. Following Goodwin’s rebuff, Triana returned to his car. Soon, however, as he approached Goodwin’s car a second time, Triana heard Goodwin speak to Fluetsch in an angry tone and threaten to “knock out” Fluetsch. According to Triana, Goodwin then addressed him (Triana) in a “strong and angry voice.” Goodwin’s tone scared Triana; Triana called for Delgado, turned back around, and was twice struck by Goodwin. Goodwin pushed Triana first against the reader board and then against a truck. Triana swung at Goodwin but was unsure if he made contact. Soon after Delgado arrived and “kind of grabbed him,” Goodwin fell to the ground.
+Goodwin appeared to be unconscious. While on the ground, he was punched and kicked in the head. Various witnesses saw two or three people kicking and stepping on Goodwin’s face until it became bloodied. Triana admitted he twice kicked at Goodwin but denied kicking him in the head. Others identified both Triana and Delgado as Goodwin’s assailants.
+II. Trial
+The State charged Triana and Delgado with second degree assault. Triana’s counsel moved for severance on grounds that the “mere appearance [of the two defendants sitting together] would be inflammatory.” The trial court denied the request. Counsel raised no Sixth Amendment argument at this hearing.
+At trial, various witnesses testified to having seen portions of the fight. Cory Reed saw three persons standing over Goodwin, two of whom were Hispanic, one wearing a white ski cap; they were assaulting Goodwin, who was on the ground and appeared to be unconscious. Delgado was one of the men whom Reed saw kick and punch Goodwin in the face. James Aliff, who was with Reed, also witnessed two Hispanics kicking someone who was passed out and bloody on the ground “in the head and chest area,” while a third non-Hispanic man simply stood there. Livesay testified that Delgado and Triana are Hispanic and that Fluetsch is a “white guy.”
+Livesay heard Triana call out to Delgado and saw: (1) Goodwin throw Triana against a truck; (2) Triana punch at Goodwin; (3) Delgado approach Goodwin from behind and “wrapt] him up”; (4) Goodwin on the ground, apparently unconscious; (5) Goodwin’s head being kicked from side-to-side two to five times; (6) “someone” to Livesay’s left kicking Goodwin; and (7) Triana standing on Livesay’s left. Goodwin’s face was red and tracked with boot prints after being kicked. Livesay did not feel threatened by Goodwin because Goodwin was unconscious.
+Robyn Blankenship saw “three guys surrounding one guy that was laying on the ground” and “kicking him in the face,” one of whom was wearing a white shirt with a black sleeveless overshirt. Blankenship saw this person later get into the front passenger side of the vehicle and leave. Albert Brown also saw the fight. He saw Goodwin on the ground, Triana kicking him, and two other persons get out of a car and “stomp on” Goodwin.
+Officer Carl Buster related Triana’s and Delgado’s accounts of the incident. After Buster advised Delgado of his rights, Delgado said he knew that Goodwin “was knocked out, but he wasn’t sure how bad he was hurt”, and “the fight occurred between Mr. Triana and Mr. Goodwin.”
+Triana called Holly Praypa. She testified that during the kicking incident, Fluetsch was standing next to her on the grass and that she did not see Goodwin being kicked because a crowd had gathered around him.
+Triana testified that: (1) he was wearing a white T-shirt with a black Nike tank top over it and a white ski cap; (2) he saw two feet on either side of Goodwin, kicking his head, but he did not know whose feet they were; (3) while on the ground, Goodwin did not say anything or appear capable of speaking; (4) Goodwin just lay on the ground during the kicking, doing “nothing”; and (5) he (Triana) had kicked Goodwin twice, but only Goodwin’s left side, not his face. Triana also explained that when he got back into the car, both Livesay and Delgado were already in it and Delgado was driving.
+Outside the jury’s presence, Delgado’s trial counsel advised the trial court that he planned to call Fluetsch, who was separately charged with the same incident, as a witness, and that Fluetsch intended to “take the Fifth Amendment during any questions asked.” After being sworn, Fluetsch stated that he was unwilling to testify about the events at the Centraba Jack-in-the-Box on the date in question and he was “taking the [F]ifth” as to everything concerning the matter. The trial court determined that Fluetsch was represented by counsel, who had advised him not to testify. The prosecutor urged that Fluetsch should invoke the privilege as to each question asked separately. After more questioning, Fluetsch again stated that he intended to invoke the privilege on each and every question asked about the incident. The court then noted it was satisfied that Fluetsch intended to invoke the privilege on each question and that there was “no sense going through each individual question and having him assert on the record.”
+Triana requested a self-defense jury instruction, which the trial court denied. The court reasoned that Triana “did not present sufficient evidence that called into question the issue of self-defense.” Counsel did not request a lesser included offense instruction, nor did the trial court give one. Neither Delgado nor Triana objected to the instructions given. After hearing the evidence, the jury convicted Delgado and Triana of second degree assault.
+ANALYSIS
+I. Delgado’s Constitutional Right to Compel Witnesses
+An error is of constitutional magnitude if it impacts a defendant’s Sixth Amendment right to compel witnesses. State v. Lougin, 50 Wn. App. 376, 382, 749 P.2d 173 (1988). Delgado argues that: (1) the Sixth Amendment guarantees the right to compel a witness to take the stand; (2) a witness claiming a Fifth Amendment privilege must do so in response to specific, individual questions rather than on a blanket basis refusing to answer all potential questions; and (3) the trial court committed constitutional error because it violated his Sixth Amendment right to compel witnesses. Delgado cites Lougin to support his propositions that: (1) a criminal defendant has a Sixth Amendment right to compel attendance of a witness; and (2) “[i]n general, a claim of privilege may be raised only against specific questions, and not as a blanket foreclosure of testimony.” Lougin, 50 Wn. App. at 381. But, as the State points out, there is a narrow exception allowing a blanket privilege where
+“based on its knowledge of the case and of the testimony expected from the witness, [the trial court] can conclude that the witness could ‘legitimately refuse to answer essentially all relevant questions.’ ”
+United States v. Moore, 682 F.2d 853, 856 (9th Cir. 1982) (alteration in original) (citations omitted). For the exception to apply, the trial judge must have “some special or extensive knowledge of the case that allows evaluation of the claimed . . . privilege even in the absence of specific questions to the witness.” Moore, 682 F.2d at 856. As the Lougin court noted:
+It is the trial court’s function to determine whether silence is justified. The trial court must require the witness to answer if, based upon the particular facts of the case, it clearly appears that silence is not warranted. Such determination is “vested in the trial court to be exercised in its sound discretion under all the circumstances then present.”
+Lougin, 50 Wn. App. at 382 (citations omitted).
+This exception applies here. Fluetsch was facing charges for the same assault. He said he was taking the Fifth Amendment as to the whole incident, which he had a right to do. The trial court did not err in allowing Fluetsch’s blanket assertion of the privilege, rather than engaging in the useless exercise of requiring him to assert the privilege with respect to every question individually.
+A majority of the panel having determined that only the foregoing portion of this opinion will be printed in the Washington Appellate Reports and that the remainder shall be filed for public record pursuant to RCW 2.06.040, it is so ordered.
+Morgan and Bridgewater, JJ., concur.
+The record here is unclear as to how Goodwin ended up on the ground. Triana’s testimony suggests Goodwin may have fallen after Triana swung at him, but Justin Livesay’s testimony suggests that Delgado may have caused him to “endO up on the ground unconscious!.]”
+Fluetsch was also charged but was tried separately.
+Livesay was originally charged as a codefendant, but the charge was dismissed after he passed a polygraph test.
+At oral argument, counsel explained that Fluetsch had also been charged with the same assault, but he was being tried separately and his trial was pending.
+The Sixth Amendment provides, in pertinent part:
+In all criminal prosecutions, the accused shall enjoy the right to ... be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favorf.]
+U.S. Const, amend. VI.
+Delgado also correctly notes that a claimed “manifest error affecting a constitutional right” may be raised for the first time on appeal under RAP 2.5(a)(3). Apparently, he did not raise the constitutional argument below. Certainly, he did not make the argument at the hearing where Fluetsch was examined and invoked the Fifth Amendment privilege.
