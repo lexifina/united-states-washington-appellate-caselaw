@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "5472-1-III"
 decided: "1984-06-26"
-citations: ["38 Wash. App. 580", "37 Wash. App. 1080"]
+citations: ["38 Wash. App. 580"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Earl Whistman, et al, as Personal Representatives, Respondents, v. We
 source_url: "https://static.case.law/wash-app/38/cases/0580-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791587
-cites_cases: ["24 Ariz. App. 18", "3 Wn. App. 167", "31 Wn. App. 475", "37 Wn. App. 1", "37 Wn. App. 554", "37 Wn. App. 71", "38 Wn. App. 580", "473 P.2d 193", "581 P.2d 1349", "588 P.2d 208", "642 P.2d 769", "678 P.2d 829", "680 P.2d 409", "681 P.2d 1294", "90 Wn.2d 355", "91 Wn.2d 161"]
+cites_cases: ["24 Ariz. App. 18", "3 Wn. App. 167", "31 Wn. App. 475", "37 Wn. App. 1", "37 Wn. App. 554", "37 Wn. App. 71", "473 P.2d 193", "581 P.2d 1349", "588 P.2d 208", "642 P.2d 769", "678 P.2d 829", "680 P.2d 409", "681 P.2d 1294", "90 Wn.2d 355", "91 Wn.2d 161"]
 ---
 
 # Whistman v. West American
