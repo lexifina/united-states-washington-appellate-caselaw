@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8661-5-III"
 decided: "1988-06-08"
-citations: ["51 Wash. App. 936", "51 Wash. App. 1057"]
+citations: ["51 Wash. App. 936"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["DeeAnn J. Perry, Respondent, v. Floyd Hamilton, et al, Petitioners."]
 source_url: "https://static.case.law/wash-app/51/cases/0936-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591813
-cites_cases: ["103 Wn.2d 1018", "161 A.L.R. 1057", "30 Wn. App. 63", "326 U.S. 310", "357 U.S. 235", "36 Wn. App. 487", "38 Wn. App. 66", "381 P.2d 245", "385 P.2d 305", "39 Wn. App. 96", "40 Wn. App. 548", "40 Wn. App. 653", "430 P.2d 600", "433 U.S. 186", "444 U.S. 286", "465 U.S. 770", "474 U.S. 818", "480 U.S. 102", "51 Wn. App. 936", "62 Wn.2d 106", "62 Wn.2d 987", "631 P.2d 1033", "675 P.2d 619", "684 P.2d 752", "692 P.2d 198", "699 P.2d 786", "700 P.2d 347", "71 Wn.2d 679", "96 Wn.2d 1012"]
+cites_cases: ["103 Wn.2d 1018", "161 A.L.R. 1057", "30 Wn. App. 63", "326 U.S. 310", "357 U.S. 235", "36 Wn. App. 487", "38 Wn. App. 66", "381 P.2d 245", "385 P.2d 305", "39 Wn. App. 96", "40 Wn. App. 548", "40 Wn. App. 653", "430 P.2d 600", "433 U.S. 186", "444 U.S. 286", "465 U.S. 770", "474 U.S. 818", "480 U.S. 102", "62 Wn.2d 106", "62 Wn.2d 987", "631 P.2d 1033", "675 P.2d 619", "684 P.2d 752", "692 P.2d 198", "699 P.2d 786", "700 P.2d 347", "71 Wn.2d 679", "96 Wn.2d 1012"]
 ---
 
 # Perry v. Hamilton
