@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20843-1-II"
 decided: "1998-02-27"
-citations: ["90 Wash. App. 468", "89 Wash. App. 1034"]
+citations: ["90 Wash. App. 468"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Pauline Herried, Appellant, v. Pierce County Public Transportation Be
 source_url: "https://static.case.law/wash-app/90/cases/0468-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428921
-cites_cases: ["103 Wn.2d 401", "106 Wn.2d 1", "107 Wn.2d 563", "116 Wn.2d 1", "116 Wn.2d 414", "124 Wn.2d 634", "13 A.L.R.5th 1070", "136 Wn.2d 1005", "23 Wn. App. 292", "40 Wn. App. 854", "588 P.2d 1308", "595 P.2d 67", "65 Wn. App. 285", "65 Wn. App. 552", "656 P.2d 1030", "679 F. Supp. 495", "693 P.2d 708", "701 P.2d 529", "71 Wn. App. 548", "721 P.2d 1", "731 P.2d 497", "77 Wn. App. 507", "802 P.2d 784", "805 P.2d 200", "827 P.2d 1108", "829 P.2d 196", "856 F.2d 184", "860 P.2d 1054", "892 P.2d 1102", "90 Wn. App. 468", "91 Wn.2d 230", "98 Wn.2d 434"]
+cites_cases: ["103 Wn.2d 401", "106 Wn.2d 1", "107 Wn.2d 563", "116 Wn.2d 1", "116 Wn.2d 414", "124 Wn.2d 634", "13 A.L.R.5th 1070", "136 Wn.2d 1005", "23 Wn. App. 292", "40 Wn. App. 854", "588 P.2d 1308", "595 P.2d 67", "65 Wn. App. 285", "65 Wn. App. 552", "656 P.2d 1030", "679 F. Supp. 495", "693 P.2d 708", "701 P.2d 529", "71 Wn. App. 548", "721 P.2d 1", "731 P.2d 497", "77 Wn. App. 507", "802 P.2d 784", "805 P.2d 200", "827 P.2d 1108", "829 P.2d 196", "856 F.2d 184", "860 P.2d 1054", "892 P.2d 1102", "91 Wn.2d 230", "98 Wn.2d 434"]
 ---
 
 # Herried v. Pierce County Public Transportation Benefit Authority Corp.
