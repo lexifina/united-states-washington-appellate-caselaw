@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49827-4-I"
 decided: "2002-09-16"
-citations: ["113 Wash. App. 922", "113 Wash. App. 1042"]
+citations: ["113 Wash. App. 922"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sudden Valley Community Association, Respondent, v. Whatcom County Wa
 source_url: "https://static.case.law/wash-app/113/cases/0922-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764706
-cites_cases: ["104 Wn.2d 227", "108 Wn.2d 679", "109 Wn. App. 113", "110 Wn. App. 51", "110 Wn.2d 415", "113 Wn. App. 922", "113 Wn.2d 148", "118 Wn.2d 639", "143 Wn.2d 798", "23 P.3d 477", "34 P.3d 840", "38 P.3d 383", "399 P.2d 330", "489 P.2d 171", "65 Wn.2d 677", "704 P.2d 1171", "743 P.2d 793", "755 P.2d 781", "776 P.2d 963", "79 Wn.2d 736", "826 P.2d 167"]
+cites_cases: ["104 Wn.2d 227", "108 Wn.2d 679", "109 Wn. App. 113", "110 Wn. App. 51", "110 Wn.2d 415", "113 Wn.2d 148", "118 Wn.2d 639", "143 Wn.2d 798", "23 P.3d 477", "34 P.3d 840", "38 P.3d 383", "399 P.2d 330", "489 P.2d 171", "65 Wn.2d 677", "704 P.2d 1171", "743 P.2d 793", "755 P.2d 781", "776 P.2d 963", "79 Wn.2d 736", "826 P.2d 167"]
 ---
 
 # Sudden Valley Community Ass'n v. Whatcom County Water District No. 10
