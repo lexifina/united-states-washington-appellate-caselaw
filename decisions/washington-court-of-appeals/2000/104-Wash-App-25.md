@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24551-5-II; 24558-2-II"
 decided: "2000-12-15"
-citations: ["104 Wash. App. 25", "103 Wash. App. 1049"]
+citations: ["104 Wash. App. 25"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Shawn Earl James, Appellant."
 source_url: "https://static.case.law/wash-app/104/cases/0025-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700149
-cites_cases: ["104 Wn. App. 25", "106 Wn.2d 569", "113 Wn.2d 833", "115 P.2d 145", "130 Wn.2d 1009", "130 Wn.2d 228", "130 Wn.2d 640", "137 Wn.2d 792", "167 F.3d 198", "189 F.3d 52", "20 Wn. App. 388", "483 U.S. 171", "528 U.S. 922", "580 P.2d 265", "723 P.2d 1135", "784 P.2d 485", "81 Wn. App. 579", "86 Wn. App. 453", "87 Wn. App. 98", "9 Wn.2d 347", "91 Wn.2d 1011", "915 P.2d 581", "922 P.2d 1285", "927 P.2d 210", "937 P.2d 1116", "941 P.2d 9", "943 F.2d 407", "975 F.2d 397", "975 P.2d 967", "99 Wn. App. 65", "992 P.2d 525"]
+cites_cases: ["106 Wn.2d 569", "113 Wn.2d 833", "115 P.2d 145", "130 Wn.2d 1009", "130 Wn.2d 228", "130 Wn.2d 640", "137 Wn.2d 792", "167 F.3d 198", "189 F.3d 52", "20 Wn. App. 388", "483 U.S. 171", "528 U.S. 922", "580 P.2d 265", "723 P.2d 1135", "784 P.2d 485", "81 Wn. App. 579", "86 Wn. App. 453", "87 Wn. App. 98", "9 Wn.2d 347", "91 Wn.2d 1011", "915 P.2d 581", "922 P.2d 1285", "927 P.2d 210", "937 P.2d 1116", "941 P.2d 9", "943 F.2d 407", "975 F.2d 397", "975 P.2d 967", "99 Wn. App. 65", "992 P.2d 525"]
 ---
 
 # State v. James
