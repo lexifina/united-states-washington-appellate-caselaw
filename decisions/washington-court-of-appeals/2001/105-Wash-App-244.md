@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25766-1-II"
 decided: "2001-02-02"
-citations: ["105 Wash. App. 244", "104 Wash. App. 1031"]
+citations: ["105 Wash. App. 244"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Scottsdale Insurance Company, Appellant, v. International Protective 
 source_url: "https://static.case.law/wash-app/105/cases/0244-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358445
-cites_cases: ["1 P.3d 1124", "1 P.3d 1167", "100 Wn.2d 1018", "105 Wn. App. 244", "115 Wn.2d 679", "123 Wn.2d 891", "125 Wn.2d 697", "133 Wn.2d 192", "134 Wn.2d 558", "135 Wn.2d 1007", "140 Wn.2d 1013", "141 Wn.2d 29", "141 Wn.2d 55", "1999 UT 69", "243 Ill. App. 3d 471", "271 Md. 636", "319 A.2d 522", "34 Wn. App. 708", "422 A.2d 1028", "45 Wn. App. 111", "47 Md. App. 329", "611 N.E.2d 1083", "664 P.2d 1262", "724 P.2d 418", "801 P.2d 207", "874 P.2d 142", "88 Wn. App. 801", "887 P.2d 886", "915 F.2d 500", "943 P.2d 286", "947 P.2d 754", "951 P.2d 1124", "97 Wn. App. 335", "983 P.2d 707"]
+cites_cases: ["1 P.3d 1124", "1 P.3d 1167", "100 Wn.2d 1018", "115 Wn.2d 679", "123 Wn.2d 891", "125 Wn.2d 697", "133 Wn.2d 192", "134 Wn.2d 558", "135 Wn.2d 1007", "140 Wn.2d 1013", "141 Wn.2d 29", "141 Wn.2d 55", "1999 UT 69", "243 Ill. App. 3d 471", "271 Md. 636", "319 A.2d 522", "34 Wn. App. 708", "422 A.2d 1028", "45 Wn. App. 111", "47 Md. App. 329", "611 N.E.2d 1083", "664 P.2d 1262", "724 P.2d 418", "801 P.2d 207", "874 P.2d 142", "88 Wn. App. 801", "887 P.2d 886", "915 F.2d 500", "943 P.2d 286", "947 P.2d 754", "951 P.2d 1124", "97 Wn. App. 335", "983 P.2d 707"]
 ---
 
 # Scottsdale Insurance v. International Protective Agency, Inc.
