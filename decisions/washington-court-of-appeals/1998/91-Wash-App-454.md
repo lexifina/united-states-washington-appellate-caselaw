@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21834-8-II"
 decided: "1998-05-29"
-citations: ["91 Wash. App. 454", "91 Wash. App. 1010"]
+citations: ["91 Wash. App. 454"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Watershed Defense Fund, et al., Appellants, v. Mary Riveland, as Dire
 source_url: "https://static.case.law/wash-app/91/cases/0454-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681889
-cites_cases: ["130 Wn.2d 1022", "130 Wn.2d 97", "131 Wn.2d 345", "132 Wn.2d 1013", "132 Wn.2d 214", "133 Wn.2d 861", "137 Wn.2d 1009", "37 Wn. App. 819", "683 P.2d 244", "82 Wn. App. 620", "84 Wn. App. 733", "87 Wn. App. 468", "91 Wn. App. 454", "919 P.2d 93", "922 P.2d 43", "929 P.2d 1215", "932 P.2d 158", "937 P.2d 186", "943 P.2d 306", "947 P.2d 1208"]
+cites_cases: ["130 Wn.2d 1022", "130 Wn.2d 97", "131 Wn.2d 345", "132 Wn.2d 1013", "132 Wn.2d 214", "133 Wn.2d 861", "137 Wn.2d 1009", "37 Wn. App. 819", "683 P.2d 244", "82 Wn. App. 620", "84 Wn. App. 733", "87 Wn. App. 468", "919 P.2d 93", "922 P.2d 43", "929 P.2d 1215", "932 P.2d 158", "937 P.2d 186", "943 P.2d 306", "947 P.2d 1208"]
 ---
 
 # Watershed Defense Fund v. Riveland
