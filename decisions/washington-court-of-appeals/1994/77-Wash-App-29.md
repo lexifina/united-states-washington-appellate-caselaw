@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32833-6-I"
 decided: "1994-12-27"
-citations: ["77 Wash. App. 29", "76 Wash. App. 1053"]
+citations: ["77 Wash. App. 29"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Linda R. Daley, Respondent, and Dan 
 source_url: "https://static.case.law/wash-app/77/cases/0029-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415781
-cites_cases: ["34 Wn. App. 392", "62 Wn. App. 608", "661 P.2d 609", "77 Wn. App. 29", "814 P.2d 1197"]
+cites_cases: ["34 Wn. App. 392", "62 Wn. App. 608", "661 P.2d 609", "814 P.2d 1197"]
 ---
 
 # In re the Marriage of Daley
