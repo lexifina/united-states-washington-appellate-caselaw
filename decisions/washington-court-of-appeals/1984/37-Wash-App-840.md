@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "5643-1-III"
 decided: "1984-05-30"
-citations: ["37 Wash. App. 840", "37 Wash. App. 1053"]
+citations: ["37 Wash. App. 840"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Joyce M. Campbell, Respondent, and M
 source_url: "https://static.case.law/wash-app/37/cases/0840-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1784785
-cites_cases: ["114 P. 918", "12 Wn. App. 952", "15 Wn. App. 254", "163 P.2d 137", "18 Wn. App. 462", "199 Wash. 99", "24 Wash. 139", "24 Wn.2d 52", "34 Wash. 293", "37 Wn. App. 840", "43 Wash. 463", "468 P.2d 444", "521 P.2d 711", "533 P.2d 152", "548 P.2d 1097", "569 P.2d 70", "599 P.2d 1289", "63 P. 1092", "63 Wash. 140", "75 P. 865", "77 Wn.2d 879", "83 Wn.2d 630", "86 P. 855", "90 P.2d 286", "92 Wn.2d 576"]
+cites_cases: ["114 P. 918", "12 Wn. App. 952", "15 Wn. App. 254", "163 P.2d 137", "18 Wn. App. 462", "199 Wash. 99", "24 Wash. 139", "24 Wn.2d 52", "34 Wash. 293", "43 Wash. 463", "468 P.2d 444", "521 P.2d 711", "533 P.2d 152", "548 P.2d 1097", "569 P.2d 70", "599 P.2d 1289", "63 P. 1092", "63 Wash. 140", "75 P. 865", "77 Wn.2d 879", "83 Wn.2d 630", "86 P. 855", "90 P.2d 286", "92 Wn.2d 576"]
 ---
 
 # In re the Marriage of Campbell
