@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49850-9-I"
 decided: "2004-01-20"
-citations: ["121 Wash. App. 491", "119 Wash. App. 1078"]
+citations: ["121 Wash. App. 491"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Alpental Community Club, Inc., et al., Respondents, v. Seattle Gymnas
 source_url: "https://static.case.law/wash-app/121/cases/0491-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 863820
-cites_cases: ["107 Wn.2d 388", "114 Wn. App. 812", "121 Wn. App. 491", "134 Wn.2d 673", "152 Wn.2d 1029", "54 Wn. App. 589", "60 P.3d 1224", "622 P.2d 1268", "730 P.2d 45", "774 P.2d 1260", "95 Wn.2d 394", "952 P.2d 610"]
+cites_cases: ["107 Wn.2d 388", "114 Wn. App. 812", "134 Wn.2d 673", "152 Wn.2d 1029", "54 Wn. App. 589", "60 P.3d 1224", "622 P.2d 1268", "730 P.2d 45", "774 P.2d 1260", "95 Wn.2d 394", "952 P.2d 610"]
 ---
 
 # Alpental Community Club, Inc. v. Seattle Gymnastics Society
