@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28384-1-II; 28419-7-II"
 decided: "2004-03-23"
-citations: ["121 Wash. App. 669", "120 Wash. App. 1059"]
+citations: ["121 Wash. App. 669"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James Allen Jacobs, Appellant
 source_url: "https://static.case.law/wash-app/121/cases/0669-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 864050
-cites_cases: ["101 Wn. App. 945", "106 Wn. App. 876", "107 Wn. App. 352", "119 Wn. App. 494", "119 Wn.2d 192", "121 Wn. App. 669", "124 Wn.2d 1029", "125 Wn.2d 825", "128 Wn.2d 262", "132 Wn.2d 529", "136 Wn.2d 1021", "138 Wn.2d 133", "141 Wn.2d 1023", "145 Wn.2d 1013", "145 Wn.2d 1016", "146 Wn.2d 166", "147 Wn.2d 620", "148 Wn.2d 91", "149 Wn.2d 402", "152 Wn.2d 1036", "16 Wn. App. 657", "26 P.3d 298", "27 P.3d 613", "36 Wn. App. 42", "373 U.S. 83", "378 U.S. 108", "384 U.S. 436", "392 U.S. 1", "393 U.S. 410", "43 P.3d 513", "504 F. Supp. 706", "523 U.S. 1007", "558 P.2d 263", "56 P.3d 550", "59 P.3d 58", "6 P.3d 86", "616 P.2d 628", "632 P.2d 44", "671 P.2d 793", "68 P.3d 1065", "73 Wn. App. 348", "81 P.3d 157", "829 P.2d 1068", "869 P.2d 110", "889 P.2d 929", "90 Wn. App. 890", "906 P.2d 925", "94 Wn. App. 784", "94 Wn.2d 216", "940 P.2d 546", "95 Wn.2d 898", "954 P.2d 336", "973 P.2d 493", "977 P.2d 582", "99 Wn. App. 714", "995 P.2d 107"]
+cites_cases: ["101 Wn. App. 945", "106 Wn. App. 876", "107 Wn. App. 352", "119 Wn. App. 494", "119 Wn.2d 192", "124 Wn.2d 1029", "125 Wn.2d 825", "128 Wn.2d 262", "132 Wn.2d 529", "136 Wn.2d 1021", "138 Wn.2d 133", "141 Wn.2d 1023", "145 Wn.2d 1013", "145 Wn.2d 1016", "146 Wn.2d 166", "147 Wn.2d 620", "148 Wn.2d 91", "149 Wn.2d 402", "152 Wn.2d 1036", "16 Wn. App. 657", "26 P.3d 298", "27 P.3d 613", "36 Wn. App. 42", "373 U.S. 83", "378 U.S. 108", "384 U.S. 436", "392 U.S. 1", "393 U.S. 410", "43 P.3d 513", "504 F. Supp. 706", "523 U.S. 1007", "558 P.2d 263", "56 P.3d 550", "59 P.3d 58", "6 P.3d 86", "616 P.2d 628", "632 P.2d 44", "671 P.2d 793", "68 P.3d 1065", "73 Wn. App. 348", "81 P.3d 157", "829 P.2d 1068", "869 P.2d 110", "889 P.2d 929", "90 Wn. App. 890", "906 P.2d 925", "94 Wn. App. 784", "94 Wn.2d 216", "940 P.2d 546", "95 Wn.2d 898", "954 P.2d 336", "973 P.2d 493", "977 P.2d 582", "99 Wn. App. 714", "995 P.2d 107"]
 ---
 
 # State v. Jacobs
