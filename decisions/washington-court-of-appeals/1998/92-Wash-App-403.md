@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40265-0-I"
 decided: "1998-06-22"
-citations: ["92 Wash. App. 403", "91 Wash. App. 1032"]
+citations: ["92 Wash. App. 403"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lance Bonamy, Appellant, v. The City of Seattle, Respondent."]
 source_url: "https://static.case.law/wash-app/92/cases/0403-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853364
-cites_cases: ["112 Wn.2d 30", "113 Wn.2d 346", "120 Wn.2d 782", "121 Wn.2d 38", "123 Wn.2d 1009", "126 Wn.2d 1023", "129 Wn.2d 1031", "131 Wn.2d 25", "137 Wn.2d 1012", "424 F.2d 935", "5 U.S.C.A. § 552", "580 P.2d 246", "64 Wn. App. 295", "70 Wn. App. 789", "76 Wn. App. 631", "769 P.2d 283", "779 P.2d 697", "80 Wn. App. 296", "80 Wn. App. 775", "825 P.2d 324", "845 P.2d 995", "846 P.2d 522", "855 P.2d 706", "86 Wn. App. 688", "887 P.2d 476", "90 Wn.2d 123", "908 P.2d 914", "912 P.2d 501", "92 Wn. App. 403", "929 P.2d 389", "937 P.2d 1176"]
+cites_cases: ["112 Wn.2d 30", "113 Wn.2d 346", "120 Wn.2d 782", "121 Wn.2d 38", "123 Wn.2d 1009", "126 Wn.2d 1023", "129 Wn.2d 1031", "131 Wn.2d 25", "137 Wn.2d 1012", "424 F.2d 935", "5 U.S.C.A. § 552", "580 P.2d 246", "64 Wn. App. 295", "70 Wn. App. 789", "76 Wn. App. 631", "769 P.2d 283", "779 P.2d 697", "80 Wn. App. 296", "80 Wn. App. 775", "825 P.2d 324", "845 P.2d 995", "846 P.2d 522", "855 P.2d 706", "86 Wn. App. 688", "887 P.2d 476", "90 Wn.2d 123", "908 P.2d 914", "912 P.2d 501", "929 P.2d 389", "937 P.2d 1176"]
 ---
 
 # Bonamy v. City of Seattle
