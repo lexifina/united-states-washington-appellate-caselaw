@@ -1,0 +1,29 @@
+---
+court: "Washington Court of Appeals"
+docket: "6280-1-II"
+decided: "1984-03-05"
+citations: ["36 Wash. App. 818"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Worswick, A.C.J., and Petrie, J., concur."]
+parties: ["The State of Washington, Respondent, v. Joseph Daniel Hector Belanger, Appellant."]
+source_url: "https://static.case.law/wash-app/36/cases/0818-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1782056
+cites_cases: ["24 Wn. App. 823", "31 Wn. App. 745", "392 U.S. 1", "422 U.S. 873", "446 U.S. 544", "518 P.2d 703", "604 P.2d 514", "628 P.2d 806", "644 P.2d 747", "83 Wn.2d 424", "95 Wn.2d 655"]
+---
+
+# State v. Belanger
+
+## Majority (Reed, J.)
+
+Reed, J.
+Joseph Belanger appeals his second degree burglary conviction alleging error in the trial court's refusal to suppress evidence. We affirm.
+The unchallenged findings of fact which we accept as verities, State v. Christian, 95 Wn.2d 655, 628 P.2d 806 (1981), support the court's ruling. At approximately 6:15 on a Sunday morning Officer Hranac was patrolling a section of Aberdeen wherein were located a number of pawnshops and where there had been a rash of recent burglaries. The officer observed defendant, who appeared to be a transient, in the company of one Huddleston, also known to the officer as a transient. Defendant was carrying a duffel bag and Huddleston bore a sleeping bag on his shoulder. When he saw the police car approaching, Huddleston hurriedly handed over the bag to the defendant and walked away.
+Officer Hranac pulled up and, as he stepped from the car, called out to Huddleston to return. Huddleston kept going. Defendant remained where he was, and the officer could see a rifle barrel protruding from defendant's duffel bag and pointing in his direction. Defendant deposited his sleeping bag on the sidewalk exposing several rifles therein. The officer asked defendant about the rifles. Receiving unsatisfactory answers from the defendant concerning himself and his possession of the guns, Officer Hranac requested permission to examine them. Defendant acceded and, as he handed over the rifles, the officer noticed what appeared to be a pawnshop tag attached to one gun. When confronted with this tag defendant asserted he was a pawnshop owner in Alaska.
+Officer Hranac's suspicions having thus been further aroused, he radioed another officer who investigated and reported that Bargain Sales, a nearby pawnshop, had been burglarized shortly before. Defendant was then placed under arrest.
+Defendant would have us classify the initial encounter with the officer as a "seizure," and would have us hold that his Fourth Amendment rights were violated because the officer had no reasonable and articulable suspicion that defendant was engaged in any specific criminal activity. We decline to do so. In the first place, not every public street encounter between a citizen and the police rises to the stature of a seizure. Law enforcement officers do not "seize" a person by merely approaching that individual on the street or in another public place, or by engaging him in conversation. Cf. Terry v. Ohio, 392 U.S. 1, 34, 20 L. Ed. 2d 889, 88 S. Ct. 1868 (1968); State v. Montgomery, 31 Wn. App. 745, 751, 644 P.2d 747 (1982). Nor does the fact the officer is in uniform and armed, without more, convert the encounter to a seizure requiring some level of objective justification. Cf. United States v. Mendenhall, 446 U.S. 544, 64 L. Ed. 2d 497, 100 S. Ct. 1870 (1980). Of course, the person approached need not answer any question put to him and may go on his way. Terry v. Ohio, supra. At this point he may not be detained (seized) even momentarily without reasonable objective grounds for doing so. His refusal to listen or answer does not standing alone furnish those grounds, however. United States v. Mendenhall, supra. On the other hand, the officer need not have probable cause to arrest in order to temporarily detain (seize) for limited questioning and investigation, utilizing the least intrusive means reasonably available to verify or dispel the officer’s suspicion in a short period of time. United States v. Brignoni-Ponce, 422 U.S. 873, 45 L. Ed. 2d 607, 95 S. Ct. 2574 (1975); State v. Walker, 24 Wn. App. 823, 604 P.2d 514 (1979). See generally 3 W. LaFave, Search and Seizure § 9.3(c) (1978).
+We agree that, upon the first encounter, Officer Hranac did not have a well founded suspicion of criminal activity based on articulable objective facts or circumstances which would have justified him in stopping and detaining the defendant in the first instance. Cf. State v. Gluck, 83 Wn.2d 424, 518 P.2d 703 (1974); State v. Walker, supra. Given the appearance of the two men at that time of the morning in a high crime area, however, he did have the limited right and the duty to approach and inquire about what appeared to be suspicious circumstances. Defendant, instead of voluntarily engaging in conversation with Officer Hranac, easily could have walked away and refused to respond to the inquiries. If this had occurred, Officer Hranac would have been limited to observing defendant further for actions indicating criminal activity. However, after receiving unsatisfactory responses from defendant, and observing the guns and the pawnshop tag, Officer Hranac had a well founded suspicion they had been stolen. Up to this point there was no seizure because the conversation with defendant was freely and voluntarily conducted. The officer then had the right to detain (seize) defendant for a reasonable time in order to ascertain if there had been a burglary in the area. When another officer confirmed his suspicions, he had probable cause to arrest defendant.
+Affirmed.
+Worswick, A.C.J., and Petrie, J., concur.
