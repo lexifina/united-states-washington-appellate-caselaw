@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11371-0-III; 11567-4-III; 12803-2-III; 12802-4-III"
 decided: "1995-03-14"
-citations: ["77 Wash. App. 596", "77 Wash. App. 1020"]
+citations: ["77 Wash. App. 596"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Rolando Torrez Aguilar. The State o
 source_url: "https://static.case.law/wash-app/77/cases/0596-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 416045
-cites_cases: ["115 S.Ct. 2004", "118 Wn.2d 1007", "119 Wn.2d 294", "120 Wn.2d 879", "122 Wn.2d 1", "122 Wn.2d 1013", "125 Wn.2d 24", "131 L. Ed.2d 1005", "293 F. 1013", "34 A.L.R. 145", "60 Wn. App. 869", "69 Wn. App. 295", "69 Wn. App. 693", "75 Wn. App. 827", "77 Wn. App. 596", "809 P.2d 209", "831 P.2d 1060", "846 P.2d 502", "846 P.2d 564", "850 P.2d 1361", "857 P.2d 989", "880 P.2d 562", "882 P.2d 747"]
+cites_cases: ["115 S.Ct. 2004", "118 Wn.2d 1007", "119 Wn.2d 294", "120 Wn.2d 879", "122 Wn.2d 1", "122 Wn.2d 1013", "125 Wn.2d 24", "131 L. Ed.2d 1005", "293 F. 1013", "34 A.L.R. 145", "60 Wn. App. 869", "69 Wn. App. 295", "69 Wn. App. 693", "75 Wn. App. 827", "809 P.2d 209", "831 P.2d 1060", "846 P.2d 502", "846 P.2d 564", "850 P.2d 1361", "857 P.2d 989", "880 P.2d 562", "882 P.2d 747"]
 ---
 
 # State v. Aguilar
