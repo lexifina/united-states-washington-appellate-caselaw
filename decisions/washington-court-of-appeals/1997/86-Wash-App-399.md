@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37279-3-I"
 decided: "1997-04-28"
-citations: ["86 Wash. App. 399", "85 Wash. App. 1085"]
+citations: ["86 Wash. App. 399"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Farrington Corporation, Appellant, v. Commonwealth Land Title Insuran
 source_url: "https://static.case.law/wash-app/86/cases/0399-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1279069
-cites_cases: ["103 Nev. 175", "114 Wn.2d 907", "116 Cal. App. 3d 658", "129 Wn.2d 565", "172 Cal. Rptr. 248", "18 A.L.R.4th 1301", "419 P.2d 168", "54 Cal. Rptr. 104", "65 Cal. 2d 263", "792 P.2d 520", "86 Wn. App. 399", "919 P.2d 594"]
+cites_cases: ["103 Nev. 175", "114 Wn.2d 907", "116 Cal. App. 3d 658", "129 Wn.2d 565", "172 Cal. Rptr. 248", "18 A.L.R.4th 1301", "419 P.2d 168", "54 Cal. Rptr. 104", "65 Cal. 2d 263", "792 P.2d 520", "919 P.2d 594"]
 ---
 
 # Farrington Corp. v. Commonwealth Land Title Insurance
