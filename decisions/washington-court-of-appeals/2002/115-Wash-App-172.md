@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48321-8-I"
 decided: "2002-10-07"
-citations: ["115 Wash. App. 172", "113 Wash. App. 1054"]
+citations: ["115 Wash. App. 172"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Judith Lundberg, on behalf of Orient Foundation, Appellant, v. Graham
 source_url: "https://static.case.law/wash-app/115/cases/0172-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 221958
-cites_cases: ["104 Wn.2d 98", "105 Wn. App. 51", "114 Wn.2d 1", "115 Wn. App. 172", "118 Wn.2d 801", "127 Wn.2d 256", "137 Wn.2d 675", "139 Wn.2d 724", "142 Wn.2d 801", "145 Wn.2d 33", "150 Wn.2d 1010", "16 P.3d 583", "17 P.3d 1278", "174 Wash. 19", "24 P.2d 403", "32 P.3d 258", "362 P.2d 247", "45 Wn. App. 192", "58 Wn.2d 252", "60 Wn. App. 283", "702 P.2d 128", "71 Wn. App. 382", "724 P.2d 425", "784 P.2d 1266", "803 P.2d 326", "82 Wn. App. 45", "828 P.2d 549", "859 P.2d 613", "897 P.2d 1239", "917 P.2d 145", "95 Wn. App. 18", "974 P.2d 828", "974 P.2d 847", "991 P.2d 80"]
+cites_cases: ["104 Wn.2d 98", "105 Wn. App. 51", "114 Wn.2d 1", "118 Wn.2d 801", "127 Wn.2d 256", "137 Wn.2d 675", "139 Wn.2d 724", "142 Wn.2d 801", "145 Wn.2d 33", "150 Wn.2d 1010", "16 P.3d 583", "17 P.3d 1278", "174 Wash. 19", "24 P.2d 403", "32 P.3d 258", "362 P.2d 247", "45 Wn. App. 192", "58 Wn.2d 252", "60 Wn. App. 283", "702 P.2d 128", "71 Wn. App. 382", "724 P.2d 425", "784 P.2d 1266", "803 P.2d 326", "82 Wn. App. 45", "828 P.2d 549", "859 P.2d 613", "897 P.2d 1239", "917 P.2d 145", "95 Wn. App. 18", "974 P.2d 828", "974 P.2d 847", "991 P.2d 80"]
 ---
 
 # Lundberg v. Coleman
