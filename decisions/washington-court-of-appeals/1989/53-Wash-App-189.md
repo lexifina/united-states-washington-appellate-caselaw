@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "8871—5—III"
+decided: "1989-01-10"
+citations: ["53 Wash. App. 189"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Daniel Eddy, et al, Respondents, v. Fidelity and Guaranty Insurance Underwriters, Inc., Appellant."]
+source_url: "https://static.case.law/wash-app/53/cases/0189-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1764337
+cites_cases: ["100 Wn.2d 1023", "102 Wn.2d 571", "103 Wn.2d 708", "104 Wn.2d 1002", "108 Wn.2d 338", "112 Wn.2d 1016", "15 Wn. App. 406", "34 Wn. App. 151", "35 Wn. App. 407", "40 Wn. App. 40", "48 Wn. App. 521", "549 P.2d 507", "605 P.2d 330", "660 P.2d 307", "667 P.2d 121", "688 P.2d 865", "694 P.2d 1087", "696 P.2d 1256", "738 P.2d 251", "739 P.2d 731", "93 Wn.2d 42", "99 Wn.2d 1011"]
+---
+
+# Eddy v. Fidelity & Guaranty Insurance Underwriters, Inc.
+
+## Majority (Green, J.)
+
+Green, J.
+—On August 23, 1984, while driving home from work, Daniel Eddy was injured when an uninsured motorist crossed the center line of the road and collided head on with his vehicle. Mr. Eddy was driving a Dodge station wagon owned by AT&T, his employer, and furnished to him for use in his employment and traveling to and from his home to work. At the time, Mr. Eddy owned two cars— an AMC Eagle and a Datsun pickup—insured by Fidelity and Guaranty Insurance Underwriters, Inc. (USF&G). Mr. Eddy and his wife, Darcy, submitted a claim for their damages to USF&G under the underinsured motorist and personal injury protection provisions of the policy. This claim, as well as their request for arbitration, was denied by US F&G based on the following exclusions contained in the policy:
+A. We do not provide Underinsured Motorists Coverage for property damage or bodily injury sustained by any person:
+1. While operating, or occupying, any motor vehicle owned by or available for the regular use of you or any family member which is not insured for Liability coverage under this policy. . . .
+This insurance does not apply:
+(e) to the named insured or any relative while occupying any automobile owned by the named insured or furnished for the named insured's regular use and not insured for Automobile Personal Injury Protection;
+(Italics ours.) USF&G maintained that since the vehicle Mr. Eddy was driving had been provided to him for his regular use, there was no coverage.
+The Eddys then commenced this action to compel arbitration of their claims in accordance with the terms of the policy. USF&G's motion for summary judgment of dismissal on the basis there was no coverage as a matter of law was denied and an order of finality entered. USF&G appeals.
+First, USF&G contends the court erred in ordering arbitration of the Eddys' claims. It argues the AT&T station wagon was furnished to Mr. Eddy for his regular and exclusive use and therefore is excluded from coverage as a matter of law. We agree.
+The exclusions involved here serve two purposes: (1) to prevent an insured from receiving coverage on all household cars by merely purchasing a single policy, and (2) to provide coverage to the insured when engaged in the infrequent use of nonowned vehicles. Grange Ins. Ass'n v. MacKenzie, 103 Wn.2d 708, 712, 694 P.2d 1087 (1985). In Grange Ins., at 712 (citing Westhaver v. Hawaiian Ins. & Guar. Co., 15 Wn. App. 406, 549 P.2d 507 (1976)), the court stated:
+[I]t is the fact of regular use and not the purpose of that use that is the relevant issue. An insurance company's legitimate interest is in preventing an increase in the quantum of risk without a corresponding increase in the premium; the risk to the insurance company is related only to the amount of time the car is driven, not to the reason that car is driven.
+The court also observed at page 712: ”[T]he purpose of these provisions is to provide coverage for isolated use without the payment of an additional premium, but to disallow the interchangeable use of other cars which are not covered by the policy."
+Mr. Eddy in his deposition testified that, except for a short period when he had a shoulder injury, the station wagon had been assigned to him for company use and going to and from his work and home. He kept the vehicle at home on weekends. The vehicle was used to service customers and, at times, he was required to use the vehicle for company business on a weekend for which he was paid overtime. At the time of the accident, Mr. Eddy was on his way home from work—a regular use.
+Mr. Eddy argues otherwise, basing his claim of irregular use on his own affidavit:
+Due to the injuries I suffered in the accident ... I have no direct recollection of the events immediately prior to it or the accident itself.
+After the accident I have talked with a number of the people I worked with and reconstructed what happened. After my job of the day ended, myself and two other AT&T employees stopped at Murphy's Tavern. While there I had two beers. I then proceeded to drive home. Using the company car after having consumed any alcohol was forbidden by my employer.
+(Italics ours.) He claims the fact he consumed alcohol and then drove the company vehicle, an unauthorized act, creates an irregular use removing the accident from the exclusion, citing Moritz v. St. Paul Fire & Marine Ins. Co., 48 Wn. App. 521, 739 P.2d 731 (1987). We do not find Moritz applicable as it involved a question of coverage under the employer's policy rather than an exclusion under the employee's policy. USF&G contends the court erred in considering this affidavit because it is based on hearsay and not personal knowledge as required by CR 56(e). We agree. See Klossner v. San Juan Cy., 93 Wn.2d 42, 44, 605 P.2d 330 (1980). Notwithstanding, even if the affidavit is considered, the fact the employee stopped at a tavern and consumed two beers on the way home is not connected in any way to the accident. The accident occurred while Mr. Eddy was on his way home from work. This was a regular use excluded by the express terms of the USF&G policy. In the context of the facts presented here, the term "regular use" is not ambiguous. As a consequence, we find the court erred in refusing to grant a summary dismissal of Mr. Eddy's claim.
+Second, USF&G contends the court erred in not granting a summary dismissal of Mrs. Eddy's petition for arbitration of her consortium claim. It argues that since Mr. Eddy's damages are not covered by the policy, neither are Mrs. Eddy's damages, citing the recent decision of Eurick v. Pemco Ins. Co., 108 Wn.2d 338, 738 P.2d 251 (1987). We disagree.
+A loss of consortium claim has been held to be an independent, nonderivative cause of action. Christie v. Maxwell, 40 Wn. App. 40, 44, 696 P.2d 1256, review denied, 104 Wn.2d 1002 (1985); Grange Ins. Ass'n v. Hubbard, 35 Wn. App. 407, 413, 667 P.2d 121, review denied, 100 Wn.2d 1023 (1983); Thompson v. Grange Ins. Ass'n, 34 Wn. App. 151, 660 P.2d 307, review denied, 99 Wn.2d 1011 (1983). While recognizing this was the rule, USF&G argues the decision in Eurick has, in effect changed the rule. In that case the Euricks purchased an automobile policy from Perneo providing coverage for themselves and their minor son. The policy excluded coverage for bodily injury to an insured while operating, occupying or using a motorcycle. The minor son was killed while riding as a passenger on a motorcycle due to the driver's negligence. Since there was no coverage under the driver's policy, the Euricks filed a claim under the underinsured motorist provisions of the Perneo policy. The question was whether a reasonable person reading the policy would believe the exclusion applied to the parents' claims. Answering in the affirmative, the court pointed out that the Legislature had permitted insurers to exclude from their underinsured policies losses by persons operating or occupying a motorcycle, RCW 48.22-.030(2), and that the exclusion was a broad one, citing Sowa v. National Indem. Co., 102 Wn.2d 571, 577-79, 688 P.2d 865 (1984). Eurick, at 342-43. The court determined that to permit the parents to recover would circumvent the clear purpose of the statute and render the exclusion meaningless.
+In our view, Eurick must be limited to the motorcycle exclusion. Nowhere does the opinion purport to overrule the decisions which conclude that a loss of consortium claim is an independent and separate, nonderivative cause of action. Consequently, the trial court was correct in ordering arbitration of Mrs. Eddy's consortium claim.
+Affirmed in part; reversed in part.
+Munson, A.C.J., and Day, J. Pro Tern., concur.
+Reconsideration denied February 13, 1989.
+Review granted at 112 Wn.2d 1016 (1989).
