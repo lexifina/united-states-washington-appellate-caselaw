@@ -1,0 +1,39 @@
+---
+court: "Washington Court of Appeals"
+docket: "606-3"
+decided: "1973-07-30"
+citations: ["9 Wash. App. 456"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Doyle Vance Wray et al., Appellants, v. Benton County Public Utility District, Respondent."]
+source_url: "https://static.case.law/wash-app/9/cases/0456-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1859794
+cites_cases: ["137 P. 1047", "160 N.W.2d 448", "178 Wash. 647", "2 Wn. App. 309", "208 P.2d 886", "265 A.2d 129", "34 Wn.2d 231", "343 P.2d 183", "346 S.W.2d 533", "35 P.2d 749", "364 P.2d 924", "369 P.2d 848", "44 Wash. 675", "467 P.2d 629", "507 P.2d 1201", "54 Wn.2d 570", "56 N.J. 63", "58 Wn.2d 760", "59 Wn.2d 623", "77 Wash. 564", "8 Wn. App. 555", "87 P. 956"]
+---
+
+# Wray v. Benton County Public Utility District
+
+## Majority (Munson, J.)
+
+Munson, J.
+— Plaintiffs instituted a wrongful death action against the Benton County Public Utility District seeking damages for the death of their son, David, age 17. Plaintiffs contended that defendant’s negligence caused the death of their son. The court, sitting without a jury, found no evidence of negligence on the part of the defendant PUD and thereafter entered findings of facts, conclusions of law and judgment and ordered plaintiffs’ complaint dismissed with prejudice.
+On February 1, 1971, in midafternoon, David; his younger brother; his friend, Richard Hauntz; and his father traveled to a rural area 5 miles west of Kennewick, Washington, to sight a 30.06 rifle and hunt gophers. Once they arrived at the scene David and Richard Hauntz were dropped off near an open field and began hunting. A gopher they were pursuing entered a 40-foot long section of 3-inch aluminum irrigation pipe lying in the field. In an effort to dislodge the gopher, Richard Hauntz stood on one end of the pipe while David lifted the other end into the air. Directly overhead, at a height of approximately 32 feet 10 inches was an energized, uninsulated electrical line owned by the defendant. This line carried 7200/12,470 volts of electricity. The line was not marked or identified in any fashion to indicate whether it was lethal or harmless. When the raised end of the pipe got close to the electrical line, or touched it, the pipe itself became energized and David was electrocuted.
+Plaintiffs first contend that the court erred in concluding the defendant was not negligent. Pursuant to this contention, they assign error to four findings of fact. All the findings are supported by substantial evidence. Thorndike v. Hesperian Orchards, Inc., 54 Wn.2d 570, 343 P.2d 183 (1959); cf. Daggett v. Tiffany, 2 Wn. App. 309, 467 P.2d 629 (1970).
+The common-law standard of care to be exercised by an electric company was set forth in Scott v. Pacific Power & Light Co., 178 Wash. 647, 650, 35 P.2d 749 (1934), citing S. Crowell, Electricity § 234, at 205 (1895):
+“Electric companies are . . . bound to use reasonable care in the construction and maintenance of their lines and apparatus, that is, such care as a reasonable man would use under the circumstances, and will be responsible for any conduct falling short of this standard. It follows from this rule, that the amount of care necessary varies with the danger which is incurred by negligence, for a prudent and reasonable man increases his care with the increase of danger. If but little danger is incurred, as, for instance, when the wires carry only a harmless electric current, such, for instance, as the telegraph or telephone current, only ordinary care may be required. While if the wires carry a strong and dangerous current of electricity, so that negligence will be likely to result in serious accidents, and perhaps death, or if a harmless wire is in dangerous proximity to a high tension wire, a very high degree of care, indeed, the highest that human prudence is equal to, is necessary. This is particularly true of electric light . . . wires, which carry a high tension current often of great danger.
+(Italics ours.) Cf. Vannoy v. Pacific Power & Light Co., 59 Wn.2d 623, 369 P.2d 848 (1962); Heber v. Puget Sound Power & Light Co., 34 Wn.2d 231, 208 P.2d 886 (1949); Card v. Wenatchee Valley Gas & Elec. Co., 77 Wash. 564, 137 P. 1047 (1914); Graves v. Washington Water Power Co., 44 Wash. 675, 87 P. 956 (1906); Frisch v. PUD 1, 8 Wn. App. 555, 507 P.2d 1201 (1973).
+In Vannoy the court held that RCW 19.29.010, rule 14 imposed the highest standard of care upon the power companies. This was a codification of the common-law standard of care as enunciated in Scott v. Pacific Power & Light Co., supra. The legislature amended that rule, Laws of 1965, 1st Ex. Sess., ch. 65, § 1, p. 1842, restricting its applicability to “inside of any building or vault.” However, the common-law standard of care still remains as to exterior electric wires.
+The electrical construction code promulgated by the Department of Labor and Industries, as authorized by RCW 43.22.050, sets forth safety standards and guidelines. The preface thereto states:
+(1) The purpose of these rules and regulations is to formulate, for the state of Washington, uniform requirements for electrical construction and installations, the application of which shall insure adequate service and secure safety to persons engaged in the construction, installation, maintenance, operation, or use of electrical lines and equipment and to the public in general.
+WAC 296-44-005.
+WAC 296-44-289 sets forth in different words the common-law standard of care. This electrical construction code sets out specific requirements for vertical clearance between the ground and high power lines. The evidence in the record on vertical clearance of the line in question supports defendant’s assertion of compliance with the electrical code.
+Compliance with these electrical standards does not mean, however, that the defendant is not negligent; rather it is prima facie evidence of compliance with the most approved safety structural methods. Folden v. Robinson, 58 Wn.2d 760, 364 P.2d 924 (1961); cf. Nelson v. Iowa-Illinois Gas & Elec. Co., 160 N.W.2d 448 (Iowa 1968); Black v. Public Serv. Elec. & Gas Co., 56 N.J. 63, 265 A.2d 129, (1970); 26 Am. Jur. 2d Electricity, Gas and Steam § 157 (1966); 29 C.J.S. Electricity § 48 (1965).
+There is substantial evidence to support the trial court’s finding that defendant was not negligent in the construction and maintenance of its power line. This court will not superimpose its own judgment for that of the trier of fact. Thorndike v. Hesperian Orchards, Inc., supra; see also Harrison v. Hickman-Fulton Counties Rural Elec. Coop. Corp., 346 S.W.2d 533 (Ky. App. 1961).
+Since the trial court’s findings are supported by substantial evidence, we do not reach plaintiffs’ contention that the court erred in finding the decedent contributorially negligent.
+The trial court in making its ruling suggested an appeal be taken to determine the applicability of the doctrine of strict liability. Plaintiffs, while noting that recommendation in their brief, state that the doctrines of negligence “more than suffice to impose liability on the PUD.” Since the plaintiffs have not argued the doctrine of strict liability, this court need not consider it.
+Judgment is affirmed.
+Green, C.J., andMclNTURFF, J., concur.
+Petition for rehearing denied August 31, 1973.
+WAC 296-44-289 “Isolation and Guarding. (1) Current-carrying parts. To promote safety to the general public and to employees not authorized to approach conductors and other current-carrying parts of electric supply lines, such parts shall be arranged so as to provide adequate clearance from the ground or other space generally accessible, or shall be provided with guards so as to isolate them effectively from accidental contact by such persons.”
