@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21454-7-II"
 decided: "1998-07-17"
-citations: ["92 Wash. App. 17", "91 Wash. App. 1053"]
+citations: ["92 Wash. App. 17"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Bremerton, Appellant, v. Harbor Insurance Company, et al.
 source_url: "https://static.case.law/wash-app/92/cases/0017-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853359
-cites_cases: ["109 Wn.2d 191", "111 F.3d 125", "111 Wn.2d 452", "121 Wn.2d 243", "121 Wn.2d 715", "126 Wn.2d 50", "129 Wn.2d 368", "131 Wn.2d 1016", "131 Wn.2d 420", "134 Wn.2d 1001", "134 Wn.2d 413", "134 Wn.2d 713", "134 Wn.2d 814", "41 Wn. App. 212", "427 Pa. Super. 456", "522 U.S. 950", "64 Wn. App. 916", "642 A.2d 487", "702 P.2d 1247", "73 Wn. App. 479", "743 P.2d 1244", "760 P.2d 337", "79 F.3d 473", "827 P.2d 321", "83 Wn. App. 149", "843 F. Supp. 187", "85 Wn. App. 321", "850 P.2d 1298", "853 P2d 1373", "869 P.2d 1130", "88 Wn. App. 1", "88 Wn. App. 261", "88 Wn. App. 801", "882 P.2d 703", "907 S.W.2d 517", "917 P.2d 116", "92 Wn. App. 17", "920 P.2d 1223", "930 F. Supp. 207", "932 P.2d 1244", "932 P.2d 697", "936 P.2d 416", "945 P.2d 232", "947 P.2d 754", "951 P.2d 250", "952 P.2d 157"]
+cites_cases: ["109 Wn.2d 191", "111 F.3d 125", "111 Wn.2d 452", "121 Wn.2d 243", "121 Wn.2d 715", "126 Wn.2d 50", "129 Wn.2d 368", "131 Wn.2d 1016", "131 Wn.2d 420", "134 Wn.2d 1001", "134 Wn.2d 413", "134 Wn.2d 713", "134 Wn.2d 814", "41 Wn. App. 212", "427 Pa. Super. 456", "522 U.S. 950", "64 Wn. App. 916", "642 A.2d 487", "702 P.2d 1247", "73 Wn. App. 479", "743 P.2d 1244", "760 P.2d 337", "79 F.3d 473", "827 P.2d 321", "83 Wn. App. 149", "843 F. Supp. 187", "85 Wn. App. 321", "850 P.2d 1298", "853 P2d 1373", "869 P.2d 1130", "88 Wn. App. 1", "88 Wn. App. 261", "88 Wn. App. 801", "882 P.2d 703", "907 S.W.2d 517", "917 P.2d 116", "920 P.2d 1223", "930 F. Supp. 207", "932 P.2d 1244", "932 P.2d 697", "936 P.2d 416", "945 P.2d 232", "947 P.2d 754", "951 P.2d 250", "952 P.2d 157"]
 ---
 
 # City of Bremerton v. Harbor Insurance
