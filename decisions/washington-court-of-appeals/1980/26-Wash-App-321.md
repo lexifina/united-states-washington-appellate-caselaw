@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "7300-1-I"
+decided: "1980-06-02"
+citations: ["26 Wash. App. 321"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Dennis W. Rieger, et al, Appellants."]
+source_url: "https://static.case.law/wash-app/26/cases/0321-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1833898
+cites_cases: ["25 Wn. App. 185", "425 P.2d 876", "487 P.2d 1295", "487 P.2d 648", "5 Wn. App. 441", "605 P.2d 1279", "70 Wn.2d 935", "79 Wn.2d 512"]
+---
+
+# State v. Rieger
+
+## Majority (Williams, J.)
+
+Williams, J.
+—In a trial to the court with a jury, Dennis W. Rieger, Margaret J. Rodriquez, and Edwin A. Deveny were convicted of attempted burglary in the second degree, RCW 9A.28.020; RCW 9A.52.030, and by a special verdict each defendant was found to have been armed with a firearm during the commission of the attempt. RCW 9.41.025. After hearings on the defendants' motions for a new trial, the trial court struck the special verdict on the ground that there was insufficient evidence to submit that issue to the jury. The defendants appeal, assigning error to certain of the jury instructions and to the trial court's refusal to grant a new trial after striking the special verdict. The State cross-appeals, assigning error to the striking of the special verdict.
+The facts are that early on Saturday, October 14,1978, at about 3:30 a.m., an officer of the Sedro Woolley Police Department saw the defendants standing in an alley behind a Sedro Woolley drugstore. After losing sight of them momentarily, he saw them at the rear of a storage building down the alley from the drugstore. The defendants walked rapidly to their car and commenced to back out. As they did so, the officer stopped them and asked what they were doing. Deveny and Rodriquez replied that they were lost and asked for directions to Anacortes which the officer provided. The defendants then drove off. Shortly thereafter, the officer noticed a jack protruding from the back door of the drugstore. He radioed for assistance, then followed the defendants, who were stopped, questioned, and arrested.
+At trial, a Sedro Woolley garbage collector testified that on the following Monday morning he was collecting garbage in the alley behind the drugstore when he discovered a loaded gun and small pry bar in one of several boxes next to a garbage container. This was the first collection since Friday morning. The garbage container was located adjacent to the storage building and near the place where the officer had seen the defendants. No fingerprints matching those of any of the defendants were found. An expert testified at the trial that there were marks on the alley door of the drugstore which probably had been made by the pry bar.
+Before trial, the defendants moved to dismiss the firearm charge and moved in limine to prohibit any reference to the firearm. The court reserved ruling, admitting the firearm into evidence and allowing testimony about it. Following trial, the court ruled that the firearm was admissible and decided to submit to the jury the question whether the defendants were in possession of a firearm during the commission of the offense. The defendants objected to this decision and to the jury instructions given on the issue, both on the ground of insufficiency of the evidence and as erroneous statements of the law. The jury returned verdicts of guilty against all three defendants and found, by special verdict, that all three were armed.
+The first question is whether there was sufficient evidence to submit the firearm issue to the jury. The rule is that where the trial court has a reasonable basis to believe from the evidence that the defendant, if guilty, was in possession of a firearm during the commission of the offense, it may submit the question to the jury. See State v. Slaughter, 70 Wn.2d 935, 940, 425 P.2d 876 (1967).
+In this case, the trial court had a reasonable basis to believe that while attempting to break into the drugstore, the defendants saw the officer's patrol car and broke off the attempt. While going back to their car, the defendants then got rid of the pry bar and gun where they were later found. There may be other reasonable hypotheses to explain the location of the gun and pry bar, but it is not the function of the trial court to weigh the merits of the various hypotheses; the jury is the sole and exclusive judge of the weight of the evidence. State v. Randecker, 79 Wn.2d 512, 487 P.2d 1295 (1971). There was before the trial court a reasonable basis to believe the defendants were in possession of the gun during the attempted burglary so it was a jury question, not one of law for the court.
+The next question is whether the trial court erred in instructing the jury, in part, that:
+For the purpose of this instruction, if one of two or more participants in a burglary is armed with, or in possession of, a firearm, then all are considered to be so armed.
+Instruction No. 15-A. The defendants argue that only participants actually possessing a weapon should be subject to enhanced punishment because RCW 9.01.030, which required that all participants in a crime be punished as principals, has been repealed by RCW 9A.08.020, which does not contain that requirement.
+In State v. Silvernail, 25 Wn. App. 185, 192-93, 605 P.2d 1279 (1980), it is said:
+Under State v. Willis, 5 Wn. App. 441, 487 P.2d 648 (1971), he [the accused] is deemed armed if another accused who participated in the same offense is armed. While Willis was premised, in part, on former RCW 9.01.030, the passage of RCW 9A.08.020 did not change the rule. Willis was also premised on the observation that the intent of the deadly weapon and firearm statutes applies with equal force to all participants in a crime. We believe this reasoning to be sound because the danger to human life is at least as great when several participants decide to use a deadly weapon.
+(Footnote omitted.) The instruction was a proper statement of the law.
+The last question is whether the trial court erred in instructing the jury that:
+Possession means having a firearm in one's custody or control. It may be either actual or constructive. Actual possession occurs when the item is in the actual physical custody of the person charged. Constructive possession occurs when there is no actual physical possession, but there is dominion and control over the firearm, and such dominion and control may be immediately or spontaneously exercised.
+Instruction No. 8-B. RCW 9.41.025 provides for enhanced punishment for any offender who commits a crime while armed with, or in possession of a firearm. The defendants argue that actual possession is the only proper definition of "possession" because only if a firearm is in the actual physical custody of a participant is the violence the statute seeks to prevent possible. We disagree.
+The purpose of RCW 9.41.025 is to deter the threat of violence and the accompanying danger to human life present whenever a participant possesses a firearm during the commission of a crime. This threat is as substantial in those instances in which a participant has immediate access to a firearm as in those in which he is in actual physical custody.
+RCW 9.41.025 was not intended to reach all forms of constructive possession. A firearm left at home, while in the constructive possession of a participant for some purposes, poses no danger to the victims of a crime perpetrated elsewhere. Nevertheless, a firearm not in a participant's actual possession, but within his reach and capable of being used by him immediately poses the threat of violence sought to be deterred by the statute.
+In this case, the instruction properly limited constructive possession to dominion and control over the firearm which might be exercised immediately or spontaneously. This limited definition of constructive possession is a proper element of "possession" as that term is used in RCW 9.41.025.
+The judgments of conviction of the three defendants for attempted burglary are affirmed, and the case is remanded for reinstatement of the special verdict that each defendant was armed with a firearm during the commission of the crime.
+Callow, C.J., and Durham-Divelbiss, J., concur.
+Reconsideration denied July 18, 1980.
+Review granted by Supreme Court October 10, 1980.
