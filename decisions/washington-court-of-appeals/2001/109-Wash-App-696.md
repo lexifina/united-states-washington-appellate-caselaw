@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47569-0-I"
 decided: "2001-11-13"
-citations: ["109 Wash. App. 696", "109 Wash. App. 1015"]
+citations: ["109 Wash. App. 696"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Shoreline, Respondent, v. Club for Free Speech Rights, Ap
 source_url: "https://static.case.law/wash-app/109/cases/0696-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1013781
-cites_cases: ["108 Wn. App. 208", "109 Wn. App. 696", "121 Wn.2d 38", "133 Wn.2d 80", "134 Wn.2d 637", "135 Wn.2d 658", "140 Wn.2d 599", "18 U.S.C. § 1962", "226 F.3d 851", "232 F.3d 135", "27 P.3d 1254", "42 U.S.C. § 1988", "452 U.S. 576", "468 U.S. 609", "530 U.S. 640", "727 F.2d 786", "846 P.2d 522", "942 P.2d 351", "952 P.2d 601", "958 P.2d 301", "998 P.2d 884"]
+cites_cases: ["108 Wn. App. 208", "121 Wn.2d 38", "133 Wn.2d 80", "134 Wn.2d 637", "135 Wn.2d 658", "140 Wn.2d 599", "18 U.S.C. § 1962", "226 F.3d 851", "232 F.3d 135", "27 P.3d 1254", "42 U.S.C. § 1988", "452 U.S. 576", "468 U.S. 609", "530 U.S. 640", "727 F.2d 786", "846 P.2d 522", "942 P.2d 351", "952 P.2d 601", "958 P.2d 301", "998 P.2d 884"]
 ---
 
 # City of Shoreline v. Club for Free Speech Rights
