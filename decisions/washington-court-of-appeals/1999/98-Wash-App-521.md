@@ -1,0 +1,59 @@
+---
+court: "Washington Court of Appeals"
+docket: "44128-1-I"
+decided: "1999-11-01"
+citations: ["98 Wash. App. 521"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Bobbie Jo Brandli, Respondent, v. Johnny Lee Talley, Petitioner."]
+source_url: "https://static.case.law/wash-app/98/cases/0521-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 155816
+cites_cases: ["132 Wn.2d 229", "67 Wn. App. 378", "68 Wn. App. 922", "80 Wn. App. 148", "835 P.2d 1054", "846 P.2d 1387", "906 P.2d 1009", "937 P.2d 587"]
+---
+
+# Brandli v. Talley
+
+## Majority (Per Curiam)
+
+Per Curiam
+—
+When a parent acquires significant wealth through the income of his or her new spouse, that wealth may justify a deviation from the standard child support calculation. Thus, the lower court in this case erred when it refused to consider wealth Bobbie Jo Talley, nka Bobbie Jo Brandli, had acquired through her husband’s income when deciding whether to deviate from the basic child support obligation. The decision of the lower court is reversed and remanded.
+Brandli and Johnny Lee Talley divorced in 1994. Talley was given custody of their two daughters. Brandli was ordered to pay child support based on her full-time income of $10.50 per hour as “Director of Services” for Regal Air. Brandli quit working after marrying Stephen Brandli. Stephen Brandli is a computer programmer at Microsoft Corporation.
+Talley filed a petition for support modification in December 1998. His petition was based on his assertion that his children were entitled to more support from their mother because she is now married to a wealthy Microsoft employee. After filing the petition for modification, Talley filed a motion for an immediate, temporary increase of support pending a final decision on his petition. At the hearing on the motion for a temporary order, a commissioner ruled that she would consider only the wealth of the parents, not their spouses, in determining child support. The commissioner imputed income to Brandli based on the amount she earned when she was working and calculated Brandli’s child support obligation based on that amount.
+Talley filed a motion for revision, asking the court to reconsider the decision that only the wealth of the parents would be considered in setting child support. Talley also asked the court to allow discovery and arbitration to proceed. The motion for revision was denied. This appeal followed.
+The Lower Court Erred
+Talley argues that the lower court erred when it refused to deviate from the basic child support obligation based on the wealth and standard of living Brandli had attained through her husband. A child support award will be overturned on appeal only if the party challenging the award shows that the trial court’s decision constitutes an abuse of discretion. The reviewing court must determine whether the trial court made an error of law and whether substantial evidence supports the findings of fact. A court abuses its discretion if the decision is manifestly unreasonable, or is exercised on untenable grounds or for untenable reasons.
+To calculate the parents’ basic support obligations, RCW 26.19.071(1) provides that “[o]nly the income of the parents of the children whose support is at issue shall be calculated.” But that same statute indicates that a court should consider all the income and resources of each parent’s household before deciding what each parent’s actual child support obligation will be. In other words, the court must consider the income and resources of the parents, as well as their spouses, before deciding whether to deviate from the basic support obligations.
+RCW 26.19.075(1) sets forth a nonexclusive list of reasons for deviating from the standard calculation. One reason listed is “[possession of wealth, including but not limited to savings, investments, real estate holdings and business interests, vehicles, boats, pensions, bank accounts, insurance plans, or other assets.” Income of a new spouse may also be a reason for deviating from the standard calculation “if the parent who is married to the new spouse is asking for a deviation based on any other reason.” However, “[i]ncome of a new spouse is not, by itself, a sufficient reason for deviation.”
+When a court deviates from the standard calculation or denies a party’s request for a deviation, it must enter findings that specify the reasons for its decision. Neither the superior court commissioner, nor the judge who entered the order denying Talley’s motion for revision, entered findings of fact or conclusions of law. Nor is there a written order denying Talley’s motion for a temporary order, but the minute entry for the proceeding before the commissioner explains the reason for the ruling as follows: “Under RCW 26.19.071(1), income of the parents of the children is what is to be considered in setting child support; the court finds that the possession of wealth is that the individual themselves [sic] may have had.”
+Brandli argues that the superior court’s decision was correct because, under RCW 26.19.075(l)(a)(i), income of a new spouse is not, by itself, a sufficient reason for deviation. She contends that if the wealth she has accumulated through her husband’s income could be used as a reason to deviate from the standard calculation, the purpose of RCW 26.19.075(l)(a)(i) would be defeated. We disagree.
+While the fact that a new spouse earns an income may not, by itself, justify a deviation from the standard calculation, it would be unreasonable to hold that a parent’s accumulation of significant wealth from the new spouse’s income could never justify a deviation. That wealth constitutes something more than the income of a new spouse and may be a sufficient reason for deviation. The case of In re Marriage of Glass is instructive.
+After Robert and Barbara Glass divorced, Robert closed his company and became employed by a company doing a similar business, which he claimed was owned entirely by his new wife. When Robert petitioned for a modification of child support, he claimed he had net earnings of only $1,300. The trial court, however, found that he historically had earned significantly more than that and was capable of earning significantly more in the near future. His lifestyle was commensurate with his potential earning capacity, and the new business, which the court concluded was jointly owned, provided benefits to Robert and his new wife that were not reflected in his monthly earnings.
+On appeal, Robert argued that the finding that the business was jointly owned was not supported by substantial evidence. But the court held that the fact that the stock of the company was issued only in Robert’s wife’s name was not enough to rebut the presumption that property acquired during the marriage was community property. Moreover, the court held, even if the company were not jointly owned, it was appropriate for the trial court to consider the income and other financial benefits that Robert enjoyed by virtue of his involvement with the business in deciding whether to deviate from the standard support obligation.
+Brandli claims that her case is distinguishable from Glass because, in Glass, the children and their mother were struggling to make ends meet, while Robert Glass remained comfortable. She argues that her children are not suffering any economic hardship, so a deviation like the one in Glass is not appropriate.
+However, although the economic hardship of the children was a reason the appellate court affirmed part of the lower court’s decision in Glass, economic hardship was not mentioned as a reason for affirming the lower court’s consideration of the business in calculating Glass’s support obligation. Rather, the court noted that it was appropriate to consider the value of the business in determining Robert’s support obligation because, even if the business were entirely the new wife’s property, both she and Robert derived an income from it, and the income it generated allowed Robert to pay his other obligations.
+Similarly, it would have been appropriate for the lower court in this case to consider Mr. Brandli’s income, as well as the wealth that income allowed the Brandlis’ to accumulate, in deciding whether to deviate from the basic support obligation. Mrs. Brandli contends that she and her new husband have not been married long, so her interest in his assets is small. But in her financial declaration, under “Available Assets,” Brandli includes $3,500,000 in her husband’s investment account, along with cash of $100 and $5,000 on deposit in banks, as available liquid assets. And even if she does not have a significant interest in her husband’s assets, his significant wealth and the benefit to her from that wealth, may properly be considered by the trial court in deciding whether a deviation from the standard calculation is warranted.
+Talley also argues that the court erred when it held that the case should not proceed to arbitration. Snohomish County Local Rule (SCLR) 94.04(f)(3)(C) provides that “[contested matters involving modifications of support or maintenance only will be set for arbitration, unless a trial by affidavit is approved by the court upon motion.” There was no motion to proceed to a trial by affidavit, and no such trial occurred.
+Because the superior court decided as a matter of law that there was no legitimate basis for Talley’s request for deviation, the court’s ruling that the case should not proceed to arbitration was understandable. However, because the court’s ruling on the issue of the Brandlis’ wealth was erroneous, upon remand the case should proceed to arbitration in accordance with SCLR 94.04 unless a motion for a trial by affidavit is granted.
+Brandli requests her attorney fees on appeal. Because she has not prevailed, her request for fees is denied.
+The decision of the superior court is reversed, and the case is remanded for arbitration proceedings consistent with this opinion and SCLR 94.04(f)(3)(C).
+It is conceivable that the commissioner did not mean to rule as a matter of law that a deviation from the basic support obligation could not be based on the income and wealth of a new spouse in setting an order of child support. The parties’ arguments, however, support that interpretation, as does a minute entry from the hearing on the motion for a temporary order.
+In re Marriage of Peterson, 80 Wn. App. 148, 152, 906 P.2d 1009 (1995).
+In re Marriage of Stern, 68 Wn. App. 922, 929, 846 P.2d 1387 (1993).
+State v. Michielli, 132 Wn.2d 229, 240, 937 P.2d 587 (1997).
+RCW 26.19.071(1).
+See RCW 26.19.071(1), which states as follows:
+All income and resources of each parent’s household shall be disclosed and considered by the court when the court determines the child support obligation of each parent. Only the income of the parents of the children whose support is at issue shall be calculated for purposes of calculating the basic support obligation. Income and resources of any other person shall not be included in calculating the basic support obligation.
+RCW 26.19.075(1)(a)(vi).
+RCW 26.19.075(1)(a)(i).
+Id.
+RCW 26.19.075(3).
+The superior court’s order simply indicated that the commissioner’s order of child support was approved and ratified, and the motion for revision was denied.
+RCW 26.19.075(1)(a)(i).
+In re Marriage of Glass, 67 Wn. App. 378, 388, 835 P.2d 1054 (1992).
+Glass, 67 Wn. App. at 388, citing RCW 26.19.075(1)(a)(i), (vi).
+Id. at 388 n.11.
+We do not hold that the court was required to deviate from the standard calculation based on Mr. Brandli’s income. Rather, his wealth was merely a factor the court should have considered in determining whether to grant a deviation.
+See Glass, 67 Wn. App. at 388.
