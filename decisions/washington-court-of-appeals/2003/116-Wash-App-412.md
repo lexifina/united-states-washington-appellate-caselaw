@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49339-6-I"
 decided: "2003-02-18"
-citations: ["116 Wash. App. 412", "115 Wash. App. 1040"]
+citations: ["116 Wash. App. 412"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Vance, Appellant, v. The Department of Licensing, Respondent.
 source_url: "https://static.case.law/wash-app/116/cases/0412-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 266121
-cites_cases: ["108 Wn. App. 673", "112 Wn.2d 890", "113 Wn. App. 193", "116 Wn. App. 412", "138 Wn.2d 783", "150 Wn.2d 1004", "27 Wn. App. 214", "31 Wn. App. 334", "32 P.3d 1011", "384 U.S. 436", "43 Wn. App. 547", "46 Wn. App. 627", "53 P.3d 58", "616 P.2d 688", "641 P.2d 717", "718 P.2d 819", "731 P.2d 1161", "774 P.2d 1187", "95 Wn. App. 876", "978 P.2d 514", "982 P.2d 601"]
+cites_cases: ["108 Wn. App. 673", "112 Wn.2d 890", "113 Wn. App. 193", "138 Wn.2d 783", "150 Wn.2d 1004", "27 Wn. App. 214", "31 Wn. App. 334", "32 P.3d 1011", "384 U.S. 436", "43 Wn. App. 547", "46 Wn. App. 627", "53 P.3d 58", "616 P.2d 688", "641 P.2d 717", "718 P.2d 819", "731 P.2d 1161", "774 P.2d 1187", "95 Wn. App. 876", "978 P.2d 514", "982 P.2d 601"]
 ---
 
 # Vance v. Department of Licensing
