@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16062-1-I"
 decided: "1986-06-23"
-citations: ["45 Wash. App. 469", "44 Wash. App. 1007"]
+citations: ["45 Wash. App. 469"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Edward R. Selberg, et al, Appellants, v. United Pacific Insurance Com
 source_url: "https://static.case.law/wash-app/45/cases/0469-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809349
-cites_cases: ["23 Wn. App. 88", "25 Wn. App. 158", "37 Wn. App. 386", "381 P.2d 966", "449 U.S. 886", "45 Wn. App. 469", "545 F.2d 222", "596 P.2d 1074", "607 P.2d 864", "616 F.2d 221", "62 Wn.2d 195", "681 P.2d 845", "720 F.2d 1008"]
+cites_cases: ["23 Wn. App. 88", "25 Wn. App. 158", "37 Wn. App. 386", "381 P.2d 966", "449 U.S. 886", "545 F.2d 222", "596 P.2d 1074", "607 P.2d 864", "616 F.2d 221", "62 Wn.2d 195", "681 P.2d 845", "720 F.2d 1008"]
 ---
 
 # Selberg v. United Pacific Insurance
