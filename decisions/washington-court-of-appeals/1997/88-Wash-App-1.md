@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37840-6-I"
 decided: "1997-07-21"
-citations: ["88 Wash. App. 1", "86 Wash. App. 1107"]
+citations: ["88 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Redmond, Appellant, v. Hartford Accident and Indemnity In
 source_url: "https://static.case.law/wash-app/88/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592250
-cites_cases: ["111 Wn.2d 452", "113 Wn.2d 91", "116 Wn.2d 1013", "118 Wn.2d 451", "118 Wn.2d 801", "124 Wn.2d 618", "126 Wn.2d 50", "131 Wn.2d 1", "134 Wn.2d 1001", "59 Wn. App. 737", "760 P.2d 337", "776 P.2d 123", "801 P.2d 259", "824 P.2d 1207", "828 P.2d 549", "88 Wn. App. 1", "881 P.2d 201", "882 P.2d 703", "891 P.2d 718", "929 P.2d 396"]
+cites_cases: ["111 Wn.2d 452", "113 Wn.2d 91", "116 Wn.2d 1013", "118 Wn.2d 451", "118 Wn.2d 801", "124 Wn.2d 618", "126 Wn.2d 50", "131 Wn.2d 1", "134 Wn.2d 1001", "59 Wn. App. 737", "760 P.2d 337", "776 P.2d 123", "801 P.2d 259", "824 P.2d 1207", "828 P.2d 549", "881 P.2d 201", "882 P.2d 703", "891 P.2d 718", "929 P.2d 396"]
 ---
 
 # City of Redmond v. Hartford Accident & Indemnity Insurance
