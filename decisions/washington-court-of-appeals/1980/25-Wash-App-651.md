@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7620-5-I"
 decided: "1980-02-04"
-citations: ["25 Wash. App. 651", "25 Wash. App. 1018"]
+citations: ["25 Wash. App. 651"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
