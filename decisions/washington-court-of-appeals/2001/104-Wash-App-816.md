@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19125-7-III"
 decided: "2001-02-08"
-citations: ["104 Wash. App. 816", "104 Wash. App. 1040"]
+citations: ["104 Wash. App. 816"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Walla Walla, Respondent, v. Melvin A. Topel, Petitioner."
 source_url: "https://static.case.law/wash-app/104/cases/0816-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700435
-cites_cases: ["10 P.3d 1034", "104 Wn. App. 816", "110 Wn.2d 892", "114 Wn.2d 691", "114 Wn.2d 828", "116 Wn.2d 794", "123 Wn.2d 488", "131 Wn.2d 853", "137 Wn.2d 1", "141 Wn.2d 756", "514 P.2d 1052", "588 P.2d 204", "645 P.2d 1076", "74 Wn. App. 787", "757 P.2d 961", "790 P.2d 149", "791 P.2d 897", "808 P.2d 746", "82 Wn.2d 872", "83 Wn. App. 825", "869 P.2d 1062", "875 P.2d 1225", "89 Wn. App. 764", "91 Wn.2d 197", "924 P.2d 392", "935 P.2d 1334", "950 P.2d 10", "969 P.2d 21", "97 Wn.2d 454"]
+cites_cases: ["10 P.3d 1034", "110 Wn.2d 892", "114 Wn.2d 691", "114 Wn.2d 828", "116 Wn.2d 794", "123 Wn.2d 488", "131 Wn.2d 853", "137 Wn.2d 1", "141 Wn.2d 756", "514 P.2d 1052", "588 P.2d 204", "645 P.2d 1076", "74 Wn. App. 787", "757 P.2d 961", "790 P.2d 149", "791 P.2d 897", "808 P.2d 746", "82 Wn.2d 872", "83 Wn. App. 825", "869 P.2d 1062", "875 P.2d 1225", "89 Wn. App. 764", "91 Wn.2d 197", "924 P.2d 392", "935 P.2d 1334", "950 P.2d 10", "969 P.2d 21", "97 Wn.2d 454"]
 ---
 
 # City of Walla Walla v. Topel
