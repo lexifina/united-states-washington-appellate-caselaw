@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42571-4-I"
 decided: "1999-06-28"
-citations: ["97 Wash. App. 191", "96 Wash. App. 1021"]
+citations: ["97 Wash. App. 191"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["G.W. Equipment Leasing, Inc., Respondent, v. Mt. McKinley Fence Co., 
 source_url: "https://static.case.law/wash-app/97/cases/0191-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184395
-cites_cases: ["100 Wn.2d 1032", "108 Wn.2d 723", "129 Wn.2d 84", "151 Ariz. 477", "160 Ariz. 218", "163 Ariz. 27", "182 Ariz. 213", "259 P. 282", "26 Wn. App. 351", "289 P.2d 218", "32 Ariz. 370", "35 Wn. App. 610", "365 P.2d 760", "425 P.2d 623", "45 Cal. 2d 421", "459 P.2d 32", "49 Wn. App. 697", "525 P.2d 223", "56 A.L.R. 903", "59 Wn.2d 38", "613 P.2d 169", "622 P.2d 850", "668 P.2d 1304", "70 Wn.2d 893", "72 A.L.R.3d 1172", "742 P.2d 1224", "745 P.2d 870", "76 Wn.2d 806", "84 Wn.2d 320", "915 P.2d 1089", "95 Wn.2d 341", "97 Wn. App. 191", "Ariz. Rev. Stat. § 25-214"]
+cites_cases: ["100 Wn.2d 1032", "108 Wn.2d 723", "129 Wn.2d 84", "151 Ariz. 477", "160 Ariz. 218", "163 Ariz. 27", "182 Ariz. 213", "259 P. 282", "26 Wn. App. 351", "289 P.2d 218", "32 Ariz. 370", "35 Wn. App. 610", "365 P.2d 760", "425 P.2d 623", "45 Cal. 2d 421", "459 P.2d 32", "49 Wn. App. 697", "525 P.2d 223", "56 A.L.R. 903", "59 Wn.2d 38", "613 P.2d 169", "622 P.2d 850", "668 P.2d 1304", "70 Wn.2d 893", "72 A.L.R.3d 1172", "742 P.2d 1224", "745 P.2d 870", "76 Wn.2d 806", "84 Wn.2d 320", "915 P.2d 1089", "95 Wn.2d 341", "Ariz. Rev. Stat. § 25-214"]
 ---
 
 # G.W. Equipment Leasing, Inc. v. Mt. McKinley Fence Co.
