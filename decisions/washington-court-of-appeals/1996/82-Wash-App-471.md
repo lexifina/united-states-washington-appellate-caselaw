@@ -1,0 +1,78 @@
+---
+court: "Washington Court of Appeals"
+docket: "18842-2-II"
+decided: "1996-07-05"
+citations: ["82 Wash. App. 471"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Margaret E. Schneider, Appellant, and Kurt W. Schneider, Respondent."]
+source_url: "https://static.case.law/wash-app/82/cases/0471-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1043524
+cites_cases: ["103 Wn.2d 807", "114 Wn.2d 772", "121 Wn.2d 795", "122 Wn.2d 604", "128 Wn.2d 1009", "130 Wn.2d 1001", "28 Wn. App. 187", "292 P.2d 872", "304 P.2d 673", "394 U.S. 618", "48 Wn.2d 243", "49 Wn.2d 509", "622 P.2d 1288", "699 P.2d 214", "78 Wn. App. 494", "791 P.2d 519", "854 P.2d 629", "859 P.2d 1239", "895 P.2d 850"]
+---
+
+# In re the Marriage of Schneider
+
+## Majority (Turner, J.)
+
+Turner, J.
+Margaret Sheppard, formerly known as Margaret Schneider, appeals a restraining order issued upon her divorce from Kurt Schneider. The order prohibits her from moving from the State of Washington with the couple’s minor child. We hold that Sheppard failed to show in this case that the order placed an unreasonable burden upon her constitutional right to travel or that relocating would be in the best interests of the child. The trial court’s findings in this six-day trial are supported by substantial evidence and demonstrate a careful balancing of competing interests. We hold that the trial court did not abuse its discretion by originally imposing the residency restriction. Affirmed.
+FACTS
+Margaret Sheppard and Kurt Schneider separated in December 1992 and were divorced on September 9, 1994. They had one child, born August 1, 1989. Custody and visitation of the child were in dispute during the dissolution process. After a six-day trial, the trial court approved an amended parenting plan under which the child would live a majority of the time with her mother. The residential schedule also provided for the child to spend time regularly with her father.
+The dissolution decree says ''[njeither party shall remove the residency of their minor child from the Puget Sound area of Washington without further court order.” The court found that "[a] continuing restraining order against both parties is necessary because: The court is not prepared to allow the residence of the minor child of the parties to be removed from the state [sic] of Washington at the present time.” The Parenting Plan says:
+(1) Mother is presently restrained from changing [the child’s] residence from the state [sic] of Washington. She is not, however, restrained from leaving Washington for purposes of vacations, and/or short term employment, so long as it does not interfere with the father’s regularly scheduled visitation. If, at some future time the mother wishes to renew her request to permit such a move, she must obtain a further court order and provide a minimum of 60-day prior notice to Mr. Schneider.[]
+Sheppard now appeals the residency restriction ordered by the court.
+ANALYSIS
+By enacting the Parenting Act in 1987, the Legislature attempted to reduce battles over child custody and visitation by focusing on continued joint "parenting” responsibilities. An important element of the dissolution proceeding is the adoption of a "parenting plan” that will "protect the best interests of the child consistent with RCW 26.09.002.” RCW 26.09.002 sets forth the policy of the Parenting Act as follows:
+Parents have the responsibility to make decisions and perform other parental functions necessary for the care and growth of their minor children. In any proceeding between parents under this chapter, the best interests of the child shall be the standard by which the court determines and allocates the parties’ parental responsibilities. The state recognizes the fundamental importance of the parent-child relationship to the welfare of the child, and that the relationship between the child and each parent should be fostered unless inconsistent with the child’s best interests. The best interests' of the child are served by a parenting arrangement that best maintains a child’s emotional growth, health and stability, and physical care. Further, the best interest of the child is ordinarily served when the existing pattern of interaction between a parent and child is altered only to the extent necessitated by the changed relationship of the parents or as required to protect the child from physical, mental, or emotional harm.
+(Emphasis added.)
+In ordering a parenting plan, the trial court is required to set a "residential schedule” that will allow the child contact with both parents. "The court shall make residential provisions for each child which encourage each parent to maintain a loving, stable, and nurturing relationship with the child, consistent with the child’s developmental level and the family’s social and economic circumstances.” RCW 26.09.187(3)(a). The Parenting Act gives the trial court broad discretion in applying the mandated "best interests of the child” standard. See In re Marriage of Ko-vacs, 121 Wn.2d 795, 801, 809-810, 854 P.2d 629 (1993). We note that the court in In re Marriage of Griffin, 114 Wn.2d 772, 779, 791 P.2d 519 (1990), said:
+"We once again repeat the rule that trial court decisions in a dissolution action will seldom he changed upon appeal. Such decisions are difficult at best. Appellate courts should not encourage appeals by tinkering with them. ...” A reviewing court must defer to the sound discretion of the trial court unless that discretion has been exercised in an untenable or manifestly unreasonable way.
+(quoting In re Marriage of Landry, 103 Wn.2d 807, 809, 699 P.2d 214 (1985)).
+A trial court’s ruling addressing the placement of children is reviewed on an abuse of discretion standard. Ko-vacs, 121 Wn.2d at 801. A trial court abuses its discretion when its decision is manifestly unreasonable or based on untenable grounds. Kovacs, 121 Wn.2d at 801; see also In re Marriage of McDole, 122 Wn.2d 604, 610, 859 P.2d 1239 (1993). Because the trial court has the unique opportunity to observe the parties, appellate courts are extremely reluctant to disturb child placement dispositions. Murray v. Murray, 28 Wn. App. 187, 189, 622 P.2d 1288 (1981). An appellate court may not substitute its findings for those of the trial court where there is ample evidence supporting the trial court’s determination. Kovacs, 121 Wn.2d at 810.
+Sheppard relies heavily upon In re Marriage of Sheley, 78 Wn. App. 494, 895 P.2d 850 (1995), review denied, 128 Wn.2d 1009 (1996), in arguing that the imposition of a residency restriction was improper absent specific findings of detriment to the child. In Sheley, Division One of this court addressed a mother’s wish to move with her children to Texas, despite a court order restricting her residence to the Seattle/Mercer Island area. The Sheley court noted that the Legislature granted broad authority to trial courts to devise appropriate parenting plans, including authority to restrict a parent from relocating the child. Sheley, 78 Wn. App. at 495. It held that the non-custodial parent has a burden to show a "specific detriment, i.e., harm to the children resulting from the proposed move that goes beyond that inherent in most cases of geographical distance between divorced parents.” Sheley, 78 Wn. App. at 505. The father in Sheley met this burden by showing, among other things, that the child had emotional needs best served by continuing the "warm comfortable relationship with his father.”
+The trial court found that the parents’ differing parenting styles were complementary . . . and that neither child’s need for frequent close contact with both nurturing, loving parents could be served by the kind of residential schedule which would be necessary in the event the mother moved to Texas with the children.
+Sheley, 78 Wn. App. at 504.
+We decline to follow the rule in Sheley's case, insofar as it places a burden upon the non-custodial parent to show that relocation presents specific detriment to the child, absent a showing by the custodial parent that the limitation on his or her right to travel is unreasonably burdensome. We hold that the trial court has discretion to include such a restriction in the parenting plan when it is in the best interests of the child. If, however, the parent seeking to relocate shows that the restriction places an unreasonable burden on that parent’s right to travel, then the court abuses its discretion by imposing the restriction, unless the non-custodial parent shows that the move would cause a specific detriment to the child which outweighs the other parent’s right to travel. To determine whether a relocation restriction unreasonably burdens a parent’s right to travel, a trial court should consider, among other factors:
+(a) whether the relocation is necessitated by important financial considerations;
+(b) whether the physical or emotional health (including the need for family or extended family support) of the relocating parent will be adversely and significantly impacted if a move does not take place; and,
+(c) whether the parent requesting or opposing the move is doing so in good faith.™
+Sheppard says Nedrow v. Nedrow, 48 Wn.2d 243, 292 P.2d 872 (1956), and Clarke v. Clarke, 49 Wn.2d 509, 304 P.2d 673 (1956), support her right to relocate with the child. These cases, however, permitted the custodial parent to relocate only after a showing that the move was in the best interests of the child.
+The 1987 Parenting Act clearly focuses on safeguarding children and stresses duties and responsibilities of parents to the children following dissolution. We underscore the standard that the "best interests of the child” must govern. We give great weight and deference to the trial court’s decisions in matters relating to a child’s physical care and stability.
+We are aware that constitutional concepts of personal liberty require that citizens be free to travel, "uninhibited by statutes, rules, or regulations which unreasonably burden or restrict this movement.” Shapiro v. Thompson, 394 U.S. 618, 629, 89 S. Ct. 1322, 22 L. Ed. 2d 600 (1969). But this does not prevent a court from placing reasonable limits on travel to achieve the best interests of children.
+Standing alone, the order that Sheppard not move her child’s principal residence from the State of Washington without court approval does not constitute an undue burden on Sheppard’s right to travel. Sheppard has failed to demonstrate how the limitation unreasonably burdens her travel rights or why the move would be in the best interests of her child. Here, the trial court made extensive written findings of fact following the six-day trial. The findings are supported by substantial evidence and demonstrate a careful balancing of competing interests. The trial court did not abuse its broad discretion in matters related to child placement and parenting by imposing the residency restriction. Sheppard still has the opportunity to move with her child. RCW 26.09.260 allows for modification of a parenting plan in certain cases if there is a change in circumstances. The issue of modification for change of circumstances, however, is not before this court.
+Affirmed.
+Seinfeld, C.J., and Houghton, J., concur.
+Review granted at 130 Wn.2d 1001 (1996).
+Vacated by order of the Supreme Court August 7, 1997.
+Findings of Fact and Conclusions of Law, 2.13.
+Amended Parenting Plan, page 4.
+See In re Marriage of Kovacs, 121 Wn.2d 795, 800-01, 804-809, 854 P.2d 629 (1993) for an extensive discussion of legislative history and legislative intent with regard to the Parenting Act of 1987.
+RCW 26.09.184(1) and (2) state:
+Permanent parenting plan. (1) OBJECTIVES. The objectives of the permanent parenting plan are to:
+(a) Provide for the child’s physical care;
+(b) Maintain the child’s emotional stability;
+(c) Provide for the child’s changing needs as the child grows and matures, in a way that minimizes the need for future modifications to the permanent parenting plan;
+(d) Set forth the authority and responsibilities of each parent with respect to the child, consistent with the criteria in RCW 26.09.187 and 26.09.191;
+(e) Minimize the child’s exposure to harmful parental conflict;
+(0 Encourage the parents, where appropriate under RCW 26.09.187 and 26.09.191, to meet their responsibilities to their minor children through agreements in the permanent parenting plan, rather than by relying on judicial intervention; and
+(g) To otherwise protect the best interests of the child consistent with RCW 26.09.002.
+(2) CONTENTS OF THE PERMANENT PARENTING PLAN. The permanent parenting plan shall contain provisions for resolution of future disputes between the parents, allocation of decision-making authority, and residential provisions for the child.
+RCW 26.09.184(l)(g).
+An additional issue decided by Sheley was the propriety of a self-executing order which would automatically shift custody from the mother to the father if the mother chose to leave Washington State. Such an order was held to be proper.
+RCW 26.09.187(3)(a) states:
+The court shall make residential provisions for each child which encourage each parent to maintain a loving, stable, and nurturing relationship with the child, consistent with the child’s developmental level and the family’s social and economic circumstances. The child’s residential schedule shall be consistent with ROW 26.09.191. Where the limitations of RCW 26.09.191 are not dis-positive of the child’s residential schedule, the court shall consider the following factors:
+(i) The relative strength, nature, and stability of the child’s relationship with each parent, including whether a parent has taken greater responsibility for performing parenting functions relating to the daily needs of the child;
+(ii) The agreements of the parties, provided they were entered into knowingly and voluntarily;
+(iii) Each parent’s past and potential for future performance of parenting functions;
+(iv) The emotional needs and developmental level of the child;
+(v) The child’s relationship with siblings and with other significant adults, as well as the child’s involvement with his or her physical surroundings, school, or other significant activities;
+(vi) The wishes of the parents and the wishes of a child who is sufficiently mature to express reasoned and independent preferences as to his or her residential schedule; and
+(vii) Each parent’s employment schedule, and shall make accommodations consistent with those schedules.
+See, e.g., Nedrow v. Nedrow, 48 Wn.2d 243, 249, 292 P.2d 872 (1956) which alerts us that parents sometimes seek to relocate with their child for ulterior purposes, such as spite or annoyance.
+RCW 26.09.002 states in part: “[T]he best interest of the child is ordinarily served when the existing pattern of interaction between a parent and child is altered only to the extent necessitated by the changed relationship of the parents.”
+RCW 26.09.002.
+Shapiro dealt with the constitutionality of legislation limiting the rights of indigents to receive public benefits. It held that if a law hás no other purpose than to "chill the assertion of constitutional rights by penalizing those who choose to exercise them,” it is patently unconstitutional. Shapiro, 394 U.S. at 631.
+The trial court expressly left the door open for further consideration of this issue by stating "[i]f, at some future time the mother wishes to renew her request to permit such a move, she must obtain a further court order and provide a minimum of 60-day prior notice to Mr. Schneider.”
