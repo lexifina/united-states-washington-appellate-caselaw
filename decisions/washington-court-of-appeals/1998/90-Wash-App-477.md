@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15604-4-III"
 decided: "1998-03-03"
-citations: ["90 Wash. App. 477", "89 Wash. App. 1042"]
+citations: ["90 Wash. App. 477"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Karl Duane Ackerman, Appellan
 source_url: "https://static.case.law/wash-app/90/cases/0477-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428942
-cites_cases: ["10 A.L.R.3d 974", "112 Wn.2d 1014", "118 Wn.2d 1015", "119 Wn.2d 192", "121 Wn.2d 22", "124 Wn.2d 1011", "125 Wn.2d 876", "126 Wn.2d 1010", "130 Wn.2d 673", "132 Wn.2d 472", "29 Wn. App. 748", "384 U.S. 436", "448 U.S. 56", "497 U.S. 805", "502 U.S. 346", "53 Wn. App. 214", "539 P.2d 86", "567 P.2d 1136", "61 Wn. App. 58", "616 P.2d 628", "63 Wn. App. 15", "630 P.2d 944", "64 Wn. App. 147", "71 Wn. App. 444", "72 Wn. App. 828", "73 Wn. App. 281", "76 Wn. App. 55", "766 P.2d 505", "77 Wn. App. 236", "808 P.2d 794", "816 P.2d 738", "822 P.2d 1250", "829 P.2d 1068", "846 P.2d 1365", "85 Wn.2d 730", "859 P.2d 60", "866 P.2d 655", "871 P.2d 159", "88 Wn.2d 899", "882 P.2d 199", "889 P.2d 479", "890 P.2d 521", "90 Wn. App. 477", "926 P.2d 904", "939 P.2d 697", "94 Wn.2d 216"]
+cites_cases: ["10 A.L.R.3d 974", "112 Wn.2d 1014", "118 Wn.2d 1015", "119 Wn.2d 192", "121 Wn.2d 22", "124 Wn.2d 1011", "125 Wn.2d 876", "126 Wn.2d 1010", "130 Wn.2d 673", "132 Wn.2d 472", "29 Wn. App. 748", "384 U.S. 436", "448 U.S. 56", "497 U.S. 805", "502 U.S. 346", "53 Wn. App. 214", "539 P.2d 86", "567 P.2d 1136", "61 Wn. App. 58", "616 P.2d 628", "63 Wn. App. 15", "630 P.2d 944", "64 Wn. App. 147", "71 Wn. App. 444", "72 Wn. App. 828", "73 Wn. App. 281", "76 Wn. App. 55", "766 P.2d 505", "77 Wn. App. 236", "808 P.2d 794", "816 P.2d 738", "822 P.2d 1250", "829 P.2d 1068", "846 P.2d 1365", "85 Wn.2d 730", "859 P.2d 60", "866 P.2d 655", "871 P.2d 159", "88 Wn.2d 899", "882 P.2d 199", "889 P.2d 479", "890 P.2d 521", "926 P.2d 904", "939 P.2d 697", "94 Wn.2d 216"]
 ---
 
 # State v. Ackerman
