@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21467-5-I"
 decided: "1988-12-12"
-citations: ["53 Wash. App. 330", "53 Wash. App. 1001"]
+citations: ["53 Wash. App. 330"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Joseph D. Landreville, Appellant, v. Shoreline Community College Dist
 source_url: "https://static.case.law/wash-app/53/cases/0330-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764350
-cites_cases: ["105 Wn.2d 133", "108 Wn.2d 545", "27 Wn. App. 261", "53 Wn. App. 330", "616 P.2d 1257", "712 P.2d 296", "741 P.2d 11"]
+cites_cases: ["105 Wn.2d 133", "108 Wn.2d 545", "27 Wn. App. 261", "616 P.2d 1257", "712 P.2d 296", "741 P.2d 11"]
 ---
 
 # Landreville v. Shoreline Community College District No. 7
