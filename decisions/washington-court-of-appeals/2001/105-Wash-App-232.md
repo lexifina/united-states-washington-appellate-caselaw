@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19256-3-III"
 decided: "2001-01-25"
-citations: ["105 Wash. App. 232", "104 Wash. App. 1023"]
+citations: ["105 Wash. App. 232"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James Silliman, et al., Appellants, v. Argus Services, Inc., et al., 
 source_url: "https://static.case.law/wash-app/105/cases/0232-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358674
-cites_cases: ["10 Wn.2d 180", "105 Wn. App. 232", "116 P.2d 360", "137 Wn.2d 296", "144 Wn.2d 1005", "294 P.2d 650", "33 Wn. App. 745", "48 Wn.2d 470", "51 Wn. App. 159", "59 Wn. App. 470", "65 Wn. App. 125", "662 P.2d 391", "71 Wn. App. 23", "752 P.2d 381", "76 Wn. App. 600", "798 P.2d 819", "827 P.2d 1085", "856 P.2d 421", "886 P.2d 1147", "90 Wn. App. 923", "954 P.2d 352", "971 P.2d 32"]
+cites_cases: ["10 Wn.2d 180", "116 P.2d 360", "137 Wn.2d 296", "144 Wn.2d 1005", "294 P.2d 650", "33 Wn. App. 745", "48 Wn.2d 470", "51 Wn. App. 159", "59 Wn. App. 470", "65 Wn. App. 125", "662 P.2d 391", "71 Wn. App. 23", "752 P.2d 381", "76 Wn. App. 600", "798 P.2d 819", "827 P.2d 1085", "856 P.2d 421", "886 P.2d 1147", "90 Wn. App. 923", "954 P.2d 352", "971 P.2d 32"]
 ---
 
 # Silliman v. Argus Services, Inc.
