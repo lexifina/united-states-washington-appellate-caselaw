@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16413-6-III"
 decided: "1998-02-10"
-citations: ["90 Wash. App. 456", "89 Wash. App. 1015"]
+citations: ["90 Wash. App. 456"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael H. Sullivan, et al., Respondents, v. Michael Purvis, et al., 
 source_url: "https://static.case.law/wash-app/90/cases/0456-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428864
-cites_cases: ["105 Wn.2d 39", "114 Wn.2d 558", "125 Wn.2d 533", "3 Wn. App. 908", "307 P.2d 1064", "346 P.2d 658", "385 P.2d 711", "395 P.2d 630", "478 P.2d 769", "49 Wn.2d 891", "55 Wn.2d 90", "63 Wn.2d 142", "65 Wn.2d 69", "711 P.2d 295", "789 P.2d 745", "80 Wn. App. 724", "886 P.2d 189", "90 Wn. App. 456", "911 P.2d 406"]
+cites_cases: ["105 Wn.2d 39", "114 Wn.2d 558", "125 Wn.2d 533", "3 Wn. App. 908", "307 P.2d 1064", "346 P.2d 658", "385 P.2d 711", "395 P.2d 630", "478 P.2d 769", "49 Wn.2d 891", "55 Wn.2d 90", "63 Wn.2d 142", "65 Wn.2d 69", "711 P.2d 295", "789 P.2d 745", "80 Wn. App. 724", "886 P.2d 189", "911 P.2d 406"]
 ---
 
 # Sullivan v. Purvis
