@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15942-9-I"
 decided: "1987-01-26"
-citations: ["47 Wash. App. 322", "46 Wash. App. 1038"]
+citations: ["47 Wash. App. 322"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Grant R. Marshall, Appellant.
 source_url: "https://static.case.law/wash-app/47/cases/0322-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1836163
-cites_cases: ["10 A.L.R.3d 974", "102 Wn.2d 1002", "102 Wn.2d 277", "102 Wn.2d 733", "106 Wn.2d 784", "11 Wn. App. 523", "37 Wn. App. 474", "384 U.S. 436", "392 U.S. 1", "407 U.S. 143", "463 U.S. 1121", "468 U.S. 420", "47 Wn. App. 322", "523 P.2d 1209", "682 P.2d 925", "687 P.2d 172", "689 P.2d 1065", "725 P.2d 975"]
+cites_cases: ["10 A.L.R.3d 974", "102 Wn.2d 1002", "102 Wn.2d 277", "102 Wn.2d 733", "106 Wn.2d 784", "11 Wn. App. 523", "37 Wn. App. 474", "384 U.S. 436", "392 U.S. 1", "407 U.S. 143", "463 U.S. 1121", "468 U.S. 420", "523 P.2d 1209", "682 P.2d 925", "687 P.2d 172", "689 P.2d 1065", "725 P.2d 975"]
 ---
 
 # State v. Marshall
