@@ -1,0 +1,46 @@
+---
+court: "Washington Court of Appeals"
+docket: "12211-8-I"
+decided: "1983-10-31"
+citations: ["36 Wash. App. 7"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Callow, J., concurs.", "Williams, J., concurs in the result."]
+parties: ["The State of Washington, Respondent, v. Jerry Gerard, Jr., Appellant."]
+source_url: "https://static.case.law/wash-app/36/cases/0007-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1781984
+cites_cases: ["16 Wn. App. 434", "170 P.2d 326", "25 Wn.2d 246", "415 U.S. 308", "428 P.2d 535", "443 U.S. 307", "444 U.S. 890", "456 P.2d 362", "458 P.2d 164", "482 P.2d 775", "485 P.2d 93", "5 Wn. App. 1", "539 P.2d 680", "557 P.2d 18", "616 P.2d 628", "618 P.2d 99", "621 P.2d 1269", "71 Wn.2d 303", "76 Wn.2d 298", "76 Wn.2d 347", "79 Wn.2d 12", "85 Wn.2d 758", "94 Wn.2d 216", "94 Wn.2d 634", "95 Wn.2d 15"]
+---
+
+# State v. Gerard
+
+## Majority
+
+Ringold, J.
+Jerry Gerard, Jr., a juvenile, appeals his conviction for taking a motor vehicle without permission of the owner, RCW 9A.56.070. He challenges the sufficiency of the evidence to sustain a conviction and also assigns as error the trial court's exclusion of a State witness' juvenile court record. We find that the juvenile court properly denied Gerard’s motion to dismiss for the insufficiency of the evidence and did not abuse its discretion in excluding the witness' juvenile record. We accordingly affirm.
+Duane Jahrous, Sr., and his son, Duane, Jr., decided to sell their 100 cc. Honda motorbike. They left the Honda at a nearby Safeway store parking lot with a "For Sale" sign on it. The bike was missing late one evening and found, abandoned and damaged, early the next morning. Two State witnesses testified that they went to Safeway that evening around 10 p.m. and saw a motorbike, which they called a Honda 175 or 250, with a "For Sale" sign on it. Around 11:30 p.m. they saw Gerard and several other teenage boys standing around the same motorbike about three blocks away from the Safeway store. They later saw Gerard and another boy riding the motorbike, which stalled across the street from the witnesses. Forty-five minutes later when they passed the Safeway again, the motorbike was missing.
+One witness was positive, and the other "fairly positive," that the motorbike Gerard was riding was the same one that was parked at Safeway. However, they incorrectly identified it as a 175 or 250 Enduro and thought it might have a white fender.
+Sufficiency of the Evidence
+Because the prosecution witness misidentified the motorbike as a Honda 175 or a 250 Enduro with a white fender, Gerard contends the State failed to establish that the Honda the witnesses saw Gerard riding belonged to Jahrous. He argues there are alternate theories based on this purely circumstantial evidence which are consistent with the defendant's innocence, therefore the evidence is insufficient. He asserts that the State failed to show knowledge because mere possession alone is insufficient and there is no other evidence in the case to show lack of permission or knowledge.
+Taking the evidence in the light most favorable to the prosecution, State v. Green, 94 Wn.2d 216, 616 P.2d 628 (1980), the trier of fact could have resolved any doubts or discrepancies in favor of the prosecution. The trial court could have found and did find that the witnesses correctly identified the motorbike they saw Gerard riding as the same bike they saw at Safeway even though they misnamed the bike. A light blue fender could easily have been mistaken for a white fender under a streetlight at night or the white stripes could have misled the witnesses.
+While "mere possession" alone does not establish taking and riding, possession plus additional "indicatory evidence on collateral matters" is sufficient. State v. Portee, 25 Wn.2d 246, 253, 170 P.2d 326 (1946). Gerard was near the scene in the relevant time frame. Such evidence has been held sufficient to support a conviction. State v. Gagnon, 76 Wn.2d 347, 349, 458 P.2d 164 (1969).
+Gerard's contention that circumstantial evidence must be inconsistent with any theory which tends to establish innocence, State v. Douglas, 71 Wn.2d 303, 307, 428 P.2d 535 (1967), is without merit. In State v. Gosby, 85 Wn.2d 758, 767, 539 P.2d 680 (1975), the court rejected the multiple hypothesis theory. Circumstantial evidence is not to be considered any less reliable than direct evidence. State v. Delmarter, 94 Wn.2d 634, 618 P.2d 99 (1980). There is substantial evidence from which any rational trier of fact could have found beyond a reasonable doubt the essential elements of the offense. State v. Green, supra; Jackson v. Virginia, 443 U.S. 307, 61 L. Ed. 2d 560, 99 S. Ct. 2781, reh'g denied, 444 U.S. 890 (1979).
+Admissibility of the Prior Juvenile Court Adjudications
+Gerard contends that the trial court abused its discretion in summarily denying the admissibility of the witness' prior record without considering the competing interests involved. He argues that ER 609(d) is analogous to ER 609(a) and requires a balancing of probity and prejudice reflected in the record, before ruling on admissibility. He also asserts that his confrontation rights were abridged by the refusal to allow cross examination about the prior juvenile adjudication, citing Davis v. Alaska, 415 U.S. 308, 39 L. Ed. 2d 347, 94 S. Ct. 1105 (1974).
+I
+Confrontation Issue
+At trial defense counsel said that the witness' prior convictions were felonies and would be admissible under 609(a)(1) in an adult proceeding but did not make any further offer of proof. There is no information on what the actual convictions were or counsel's intended use of them. The assumption, therefore, is that the adjudications were intended to impeach the witness' general credibility and not to show particular bias or motive in testifying. State v. Stambach, 76 Wn.2d 298, 303, 456 P.2d 362 (1969); State v. Wilson, 16 Wn. App. 434, 438, 557 P.2d 18 (1976). Thus Davis v. Alaska, 415 U.S. 308, 39 L. Ed. 2d 347, 94 S. Ct. 1105 (1974) is inapplicable and Gerard's confrontation rights were not affected. Davis holds only that prior juvenile adjudications are admissible to show bias or motive in testifying. See Wilson, at 438. When juvenile adjudications are sought to be admitted solely for general impeachment the trial court has broad discretion on admissibility. State v. Temple, 5 Wn. App. 1, 4, 485 P.2d 93 (1971).
+II
+Comparison of ER 609(a) and (d)
+ER 609(a) specifically requires the court to balance probity and prejudice in determining the admissibility of prior convictions in adult proceedings. It may be reversible error if the record does not reflect consideration of the competing interests involved. State v. Alexis, 95 Wn.2d 15, 621 P.2d 1269 (1980). Under ER 609(d), however, "Evidence of juvenile adjudications is generally not admissible" unless the offense "would be admissible to attack the credibility of an adult and the court is satisfied that admission in evidence is necessary for a fair determination of the issue of guilt or innocence." Unlike 609(a) the court is not specifically directed to balance probity and prejudice and the general presumption is that juvenile adjudications are inadmissible. Thus the case law under ER 609(a) should not be indiscriminately applied to ER 609(d).
+Because ER 609(d) requires a positive showing that the prior juvenile record is necessary to determine guilt, a record of balancing is less important. In the absence of any indication of special reasons favoring admissibility, the general rule is that the adjudications are inadmissible. Gerard did not give any reasons for admissibility beyond general impeachment of the witness' credibility. The evidence of a prior conviction would be of dubious value to a defendant in a bench trial. The burden was on Gerard to present reasons other than impeachment to demonstrate that the evidence was "necessary for a fair determination." The trial court did not abuse its discretion. State ex rel. Carroll v. Junker, 79 Wn.2d 12, 20, 482 P.2d 775 (1971).
+Affirm.
+Callow, J., concurs.
+Williams, J., concurs in the result.
+Review denied by Supreme Court January 6, 1984.
+ER 609(a) provides:
+"For the purpose of attacking the credibility of a witness, evidence that he has been convicted of a crime shall be admitted if elicited from him or established by public record during cross examination but only if the crime (1) was punishable by death or imprisonment in excess of 1 year under the law under which he was convicted, and the court determines that the probative value of admitting this evidence outweighs its prejudicial effect to the defendant, or (2) involved dishonesty or false statement, regardless of the punishment."
+ER 609(d) provides:
+"Evidence of juvenile adjudications is generally not admissible under this rule. The court may, however, in a criminal case allow evidence of a finding of guilt in a juvenile offense proceeding of a witness other than the accused if conviction of the offense would be admissible to attack the credibility of an adult and the court is satisfied that admission in evidence is necessary for a fair determination of the issue of guilt or innocence."
