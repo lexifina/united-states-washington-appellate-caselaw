@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18808-2-II"
 decided: "1997-04-18"
-citations: ["86 Wash. App. 183", "85 Wash. App. 1073"]
+citations: ["86 Wash. App. 183"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Hsi H. Chen, M.D., Appellant, v. The State of Washington, et al., Res
 source_url: "https://static.case.law/wash-app/86/cases/0183-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278627
-cites_cases: ["110 Wn.2d 355", "110 Wn.2d 415", "113 Wn.2d 148", "120 Wn.2d 57", "121 Wn.2d 243", "123 Wn.2d 891", "124 Wn.2d 158", "129 Wn.2d 1011", "133 Wn.2d 1020", "411 U.S. 792", "45 Wn. App. 192", "616 P.2d 644", "62 Wn. App. 870", "64 Wn. App. 661", "65 Wn. App. 93", "656 P.2d 1030", "69 Wn. App. 852", "70 Wn. App. 804", "71 Wn. App. 382", "724 P.2d 425", "73 Wn. App. 314", "74 Wn. App. 73", "753 P.2d 517", "755 P.2d 781", "79 Wn. App. 732", "816 P.2d 66", "827 P.2d 1070", "828 P.2d 565", "837 P.2d 618", "850 P.2d 1298", "851 P.2d 716", "856 P.2d 702", "859 P.2d 613", "86 Wn. App. 183", "869 P.2d 95", "872 P.2d 87", "874 P.2d 142", "876 P.2d 435", "904 P.2d 793", "94 Wn.2d 255", "98 Wn.2d 434"]
+cites_cases: ["110 Wn.2d 355", "110 Wn.2d 415", "113 Wn.2d 148", "120 Wn.2d 57", "121 Wn.2d 243", "123 Wn.2d 891", "124 Wn.2d 158", "129 Wn.2d 1011", "133 Wn.2d 1020", "411 U.S. 792", "45 Wn. App. 192", "616 P.2d 644", "62 Wn. App. 870", "64 Wn. App. 661", "65 Wn. App. 93", "656 P.2d 1030", "69 Wn. App. 852", "70 Wn. App. 804", "71 Wn. App. 382", "724 P.2d 425", "73 Wn. App. 314", "74 Wn. App. 73", "753 P.2d 517", "755 P.2d 781", "79 Wn. App. 732", "816 P.2d 66", "827 P.2d 1070", "828 P.2d 565", "837 P.2d 618", "850 P.2d 1298", "851 P.2d 716", "856 P.2d 702", "859 P.2d 613", "869 P.2d 95", "872 P.2d 87", "874 P.2d 142", "876 P.2d 435", "904 P.2d 793", "94 Wn.2d 255", "98 Wn.2d 434"]
 ---
 
 # Chen v. State
