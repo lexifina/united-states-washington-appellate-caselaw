@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7347-5-III; 7359-9-III; 7416-1-III; 7417-0-III"
 decided: "1987-07-28"
-citations: ["48 Wash. App. 654", "48 Wash. App. 1076"]
+citations: ["48 Wash. App. 654"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Robert Dean Brown, et al, App
 source_url: "https://static.case.law/wash-app/48/cases/0654-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1838247
-cites_cases: ["101 Wn.2d 745", "102 Wn.2d 777", "103 Wash. 267", "105 Wn.2d 632", "12 Wash. 491", "13 Wn. App. 704", "139 N.Y. 73", "153 P. 1084", "174 P. 9", "265 Pa. Super. 278", "28 Wn. App. 98", "338 N.Y.S.2d 8", "34 N.E. 730", "40 A.D.2d 857", "41 P. 884", "48 Wn. App. 654", "522 P.2d 835", "537 P.2d 844", "621 P.2d 1310", "641 F.2d 326", "65 A.L.R.3d 705", "682 P.2d 889", "690 P.2d 574", "716 P.2d 295", "83 Wn.2d 735", "89 Wash. 9", "95 Wn.2d 1019"]
+cites_cases: ["101 Wn.2d 745", "102 Wn.2d 777", "103 Wash. 267", "105 Wn.2d 632", "12 Wash. 491", "13 Wn. App. 704", "139 N.Y. 73", "153 P. 1084", "174 P. 9", "265 Pa. Super. 278", "28 Wn. App. 98", "338 N.Y.S.2d 8", "34 N.E. 730", "40 A.D.2d 857", "41 P. 884", "522 P.2d 835", "537 P.2d 844", "621 P.2d 1310", "641 F.2d 326", "65 A.L.R.3d 705", "682 P.2d 889", "690 P.2d 574", "716 P.2d 295", "83 Wn.2d 735", "89 Wash. 9", "95 Wn.2d 1019"]
 ---
 
 # State v. Brown
