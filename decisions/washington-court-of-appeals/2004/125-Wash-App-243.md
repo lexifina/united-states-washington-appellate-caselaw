@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52609-0-I"
 decided: "2004-11-22"
-citations: ["125 Wash. App. 243", "124 Wash. App. 1018"]
+citations: ["125 Wash. App. 243"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. George Ward, Appellant."]
 source_url: "https://static.case.law/wash-app/125/cases/0243-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270391
-cites_cases: ["109 Wn.2d 222", "118 Wn. App. 92", "122 Wn. App. 448", "122 Wn.2d 73", "125 Wn. App. 243", "125 Wn.2d 707", "129 Wn.2d 497", "136 Wn.2d 467", "141 Wn.2d 448", "384 U.S. 436", "412 U.S. 205", "466 U.S. 668", "584 P.2d 382", "6 P.3d 1150", "628 P.2d 467", "74 P.3d 672", "743 P.2d 816", "856 P.2d 1076", "887 P.2d 396", "90 Wn.2d 443", "919 P.2d 577", "94 P.3d 345", "95 Wn.2d 629", "965 P.2d 593"]
+cites_cases: ["109 Wn.2d 222", "118 Wn. App. 92", "122 Wn. App. 448", "122 Wn.2d 73", "125 Wn.2d 707", "129 Wn.2d 497", "136 Wn.2d 467", "141 Wn.2d 448", "384 U.S. 436", "412 U.S. 205", "466 U.S. 668", "584 P.2d 382", "6 P.3d 1150", "628 P.2d 467", "74 P.3d 672", "743 P.2d 816", "856 P.2d 1076", "887 P.2d 396", "90 Wn.2d 443", "919 P.2d 577", "94 P.3d 345", "95 Wn.2d 629", "965 P.2d 593"]
 ---
 
 # State v. Ward
