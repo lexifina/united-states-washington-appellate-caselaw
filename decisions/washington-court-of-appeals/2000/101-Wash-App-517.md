@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46051-0-I"
 decided: "2000-06-19"
-citations: ["101 Wash. App. 517", "101 Wash. App. 1021"]
+citations: ["101 Wash. App. 517"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Nelbro Packing Company, Respondent, v. Baypack Fisheries, L.L.C., Pet
 source_url: "https://static.case.law/wash-app/101/cases/0517-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170666
-cites_cases: ["100 L. Ed. 1311", "100 L. Ed. 868", "101 Wn. App. 517", "115 Wn.2d 498", "139 Wn.2d 659", "224 F.2d 198", "350 U.S. 1006", "351 U.S. 445", "390 U.S. 414", "446 U.S. 1", "513 P.2d 29", "567 P.2d 230", "61 Wn. App. 339", "75 Harv. L. Rev. 351", "76 S. Ct. 651", "782 F.2d 58", "798 P.2d 808", "810 P.2d 527", "819 F.2d 1519", "82 Wn.2d 681", "869 F.2d 167", "88 Wn.2d 878", "898 F.2d 589", "939 F.2d 794", "989 P.2d 1111"]
+cites_cases: ["100 L. Ed. 1311", "100 L. Ed. 868", "115 Wn.2d 498", "139 Wn.2d 659", "224 F.2d 198", "350 U.S. 1006", "351 U.S. 445", "390 U.S. 414", "446 U.S. 1", "513 P.2d 29", "567 P.2d 230", "61 Wn. App. 339", "75 Harv. L. Rev. 351", "76 S. Ct. 651", "782 F.2d 58", "798 P.2d 808", "810 P.2d 527", "819 F.2d 1519", "82 Wn.2d 681", "869 F.2d 167", "88 Wn.2d 878", "898 F.2d 589", "939 F.2d 794", "989 P.2d 1111"]
 ---
 
 # Nelbro Packing Co. v. Baypack Fisheries, L.L.C.
