@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10129-7-II"
 decided: "1987-06-04"
-citations: ["49 Wash. App. 39", "48 Wash. App. 1006"]
+citations: ["49 Wash. App. 39"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Richard W. Ben-Neth, Respondent, v. The Indeterminate Sentence Review
 source_url: "https://static.case.law/wash-app/49/cases/0039-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739033
-cites_cases: ["105 Wn.2d 257", "107 Wn.2d 503", "192 Wash. 245", "201 P.2d 194", "267 P.2d 902", "27 Wn. App. 410", "289 P.2d 203", "3 Wn. App. 928", "32 Wn.2d 205", "330 P.2d 718", "38 Wash. 325", "43 Wis. 2d 58", "44 Wn.2d 405", "46 Wn. App. 622", "47 Wn.2d 629", "478 P.2d 262", "49 Wn. App. 39", "509 P.2d 377", "53 Wn.2d 35", "571 S.W.2d 903", "588 P.2d 185", "603 P.2d 1258", "618 P.2d 1030", "714 P.2d 303", "73 P.2d 516", "730 P.2d 1327", "732 P.2d 166", "80 P. 544", "9 Wn. App. 177", "91 Wn.2d 135", "92 Wn.2d 967"]
+cites_cases: ["105 Wn.2d 257", "107 Wn.2d 503", "192 Wash. 245", "201 P.2d 194", "267 P.2d 902", "27 Wn. App. 410", "289 P.2d 203", "3 Wn. App. 928", "32 Wn.2d 205", "330 P.2d 718", "38 Wash. 325", "43 Wis. 2d 58", "44 Wn.2d 405", "46 Wn. App. 622", "47 Wn.2d 629", "478 P.2d 262", "509 P.2d 377", "53 Wn.2d 35", "571 S.W.2d 903", "588 P.2d 185", "603 P.2d 1258", "618 P.2d 1030", "714 P.2d 303", "73 P.2d 516", "730 P.2d 1327", "732 P.2d 166", "80 P. 544", "9 Wn. App. 177", "91 Wn.2d 135", "92 Wn.2d 967"]
 ---
 
 # Ben-Neth v. Indeterminate Sentence Review Board
