@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35983-5-I; 34985-6-I"
 decided: "1996-04-08"
-citations: ["82 Wash. App. 253", "81 Wash. App. 1008"]
+citations: ["82 Wash. App. 253"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michele Hardesty, Appellant, v. Morton Stenchever, M.D., et al., Resp
 source_url: "https://static.case.law/wash-app/82/cases/0253-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043689
-cites_cases: ["105 Wn.2d 168", "108 Wn.2d 1037", "116 Wn.2d 1009", "118 Wn.2d 1026", "124 Wn.2d 217", "130 Wn.2d 1005", "405 P.2d 258", "41 Wn. App. 323", "42 U.S.C. § 1983", "438 P.2d 581", "44 Wn. App. 604", "48 Wn. App. 496", "58 Wn. App. 588", "599 P.2d 1289", "62 Wn. App. 653", "65 Wn. App. 734", "66 Wn.2d 787", "704 P.2d 164", "712 P.2d 849", "722 P.2d 815", "73 Wn.2d 348", "739 P.2d 703", "76 Wn. App. 542", "79 Wn. App. 93", "794 P.2d 526", "814 P.2d 1236", "82 Wn. App. 253", "829 P.2d 250", "876 P.2d 898", "887 P.2d 468", "900 P.2d 595", "92 Wn.2d 576"]
+cites_cases: ["105 Wn.2d 168", "108 Wn.2d 1037", "116 Wn.2d 1009", "118 Wn.2d 1026", "124 Wn.2d 217", "130 Wn.2d 1005", "405 P.2d 258", "41 Wn. App. 323", "42 U.S.C. § 1983", "438 P.2d 581", "44 Wn. App. 604", "48 Wn. App. 496", "58 Wn. App. 588", "599 P.2d 1289", "62 Wn. App. 653", "65 Wn. App. 734", "66 Wn.2d 787", "704 P.2d 164", "712 P.2d 849", "722 P.2d 815", "73 Wn.2d 348", "739 P.2d 703", "76 Wn. App. 542", "79 Wn. App. 93", "794 P.2d 526", "814 P.2d 1236", "829 P.2d 250", "876 P.2d 898", "887 P.2d 468", "900 P.2d 595", "92 Wn.2d 576"]
 ---
 
 # Hardesty v. Stenchever
