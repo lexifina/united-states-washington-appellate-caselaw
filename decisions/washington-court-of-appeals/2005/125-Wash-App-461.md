@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "30750-2-II"
+decided: "2005-01-25"
+citations: ["125 Wash. App. 461"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The Department of Labor and Industries, Appellant, v. John Janssen, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/125/cases/0461-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1269977
+cites_cases: ["117 Wn.2d 128", "118 Wn. App. 635", "119 Wn. App. 919", "122 Wn. App. 402", "129 Wn.2d 289", "151 Wn.2d 1021", "77 P.3d 1184", "814 P.2d 629", "83 P.3d 1018", "916 P.2d 399", "94 Wn. App. 764", "97 P.3d 17", "973 P.2d 30"]
+---
+
+# Department of Labor & Industries v. Janssen
+
+## Majority (Armstrong, J.)
+
+¶1 — The Department of Labor and Industries (Department) appeals a Board of Industrial Insurance Appeals decision (affirmed by the superior court) that it improperly deducted interest it paid on permanent partial disability payments to workers when it later converted the workers’ claims to permanent total disability pensions. The workers cross appeal, arguing that the Department miscalculated cost-of-living adjustments; Janssen contends that the Department wrongly deducted the erroneously paid portion of his permanent partial disability award from his pension reserve. We affirm.
+Armstrong, J.
+FACTS
+¶2 Each of the 14 workers in this appeal received benefits under Washington’s Industrial Insurance Act, Title 51 RCW. All were first paid at least one partial permanent disability (PPD) award and later awarded pension benefits. Because of the size of each of the original PPD awards, the Department paid the PPD in monthly installments as RCW 51.32.080(4) required. The Department paid statutory interest at a rate of eight percent on the balance of these awards. After the Department determined that each worker was permanently and totally disabled, it deducted the previously paid PPD principal and interest from the worker’s pension reserves.
+¶3 Thirteen of the 14 workers’ appeals were tried on stipulated facts, including the amount of PPD principal and interest deducted from the claimants’ pension reserves. In the lead case, John Janssen v. Department of Labor & Industries, No. 99-2-10452-3 (Pierce County Superior Court July 18, 2003), the Department closed Janssen’s claim and awarded him a PPD. Janssen’s award should have been $31,500, but as he admits, the Department mistakenly awarded him $63,000. Janssen received $66,875.46 in total, of which $3,875.86 was statutory interest. The Department later determined that Janssen was permanently and totally disabled, placed him on a pension, and deducted his PPD, including interest, from his pension reserve. The Department never attempted to recoup the erroneous portion of the PPD.
+¶4 The workers appealed to the Board of Industrial Insurance Appeals (Board), challenging the Department’s authority to deduct PPD interest from their pension reserves and the Department’s method of calculating cost-of-living adjustments (COLAs). Janssen also challenged the Department’s reduction of his pension reserve by the full amount of his PPD and interest, including the erroneously paid portion.
+|5 The Board ruled that the Department correctly deducted the previously paid PPD principal from the workers’ pension reserves, that it wrongly deducted the interest on this principal, and that it correctly calculated the COLAs. The Board also ruled that in Janssen’s case, the entire $63,000 should be considered in reducing his pension reserve. After consolidating the cases, the Pierce County Superior Court affirmed the Board’s rulings.
+ANALYSIS
+Deduction of Statutory Interest
+16 The Department argues that it properly deducted the interest on the workers’ PPD awards from their pension reserves because the interest is paid as part of the award.
+¶7 PPDs and permanent total disability (PTD) awards are governed by statute. If a statute is unambiguous, we look only at the statutory words and apply it as written. Cobra Roofing Serv., Inc. v. Dep’t of Labor & Indus., 122 Wn. App. 402, 417, 97 P.3d 17, 23 (2004); Taylor v. Nalley’s Fine Foods, 119 Wn. App. 919, 923, 83 P.3d 1018 (2004). But if a statute can be interpreted in two or more reasonable ways, we must construe the statute to achieve the legislature’s intent. Dep’t of Labor & Indus. v. Kantor, 94 Wn. App. 764, 775, 973 P.2d 30 (1999).
+¶8 When the PPD compensation provided for in subsections (1) through (3) of RCW 51.32.080 exceeds three times the state’s average monthly wage, the Department makes monthly payments instead of awarding a lump sum. RCW 51.32.080(6). The Department’s first payment is equal to three times the average monthly wage. RCW 51.32.080(6). Beginning with the second monthly payment, the Department pays eight percent interest on the unpaid balance of the PPD award. RCW 51.32.080(6).
+19 When the Department determines that a worker is permanently and totally disabled, it must establish a pension reserve for the worker. RCW 51.44.070(1). If a worker received PPD before receiving PTD compensation,
+[a]ny portion of the [PPD] compensation which exceeds the amount that would have been paid the injured worker if [PTD] compensation had been paid in the first instance, shall be deducted from the pension reserve of such injured worker and his or her monthly compensation payments shall be reduced accordingly.
+RCW 51.32.080(4).
+¶10 The PPD deduction ensures that the worker does not receive a double recovery. Messer v. Dep’t of Labor & Indus., 118 Wn. App. 635, 640, 77 P.3d 1184 (2003), review denied, 151 Wn.2d 1021 (2004). Recovery of PPD awards is required to ensure that injured workers who first receive these awards and later receive total disability pensions “do not receive greater benefits than workers who endure permanent total disabilities in the first instance.” Stuckey v. Dep’t of Labor & Indus., 129 Wn.2d 289, 296, 916 P.2d 399 (1996).
+¶11 In In re Rodriguez, No. 91 5594, Bd. of Indus. Ins. Appeals (Sept. 16, 1993), the Board held that interest should not be included in the PPD amount deducted from the worker’s pension reserve. The Board stated: “We do not believe that [former] RCW 51.32.080(2) [1993][] contemplates the inclusion of interest paid on permanent partial disability awards. We hold that [former] RCW 51.32.080(2) (which specifically refers only to permanent partial disability compensation) does not include interest paid on the permanent partial disability award.” Rodriguez, No. 91 5594.
+¶12 The Board publishes its significant decisions and makes them available to the public. RCW 51.52.160. We consider the decisions persuasive but not binding authority. See Weyerhaeuser Co. v. Tri, 117 Wn.2d 128, 138, 814 P.2d 629 (1991).
+¶13 RCW 51.32.080(4) provides that “[a]ny portion of the permanent partial disability compensation” exceeding the amount that would have been paid to the worker if he had originally been awarded PTD benefits shall be deducted from the pension reserves. RCW 51.32.080(6), which refers to the statutory interest on unpaid PPD balances, uses the phrase “the compensation provided for in subsections (1) through (3) of this section.” Subsection (1) classifies specific types of permanent partial disabilities and assigns specific dollar amounts to each type of injury. Subsection (3) deals with identifying disabilities not enumerated in subsection (1) and determining the appropriate amount of compensation for such injuries. Neither subsection mentions interest. See RCW 51.32.080(1), (3). Moreover, RCW 51.32.080(6) directs that “interest shall be paid... on the unpaid balance of such compensation” (emphasis added).
+¶14 We find RCW 51.32.080(4) and (6) unambiguous. Section (4) requires the Department to deduct any portion of the excess compensation; it does not mention interest on compensation. And the legislature has shown that it distinguishes compensation and interest on compensation with the statutory sections discussed above. Nowhere in the statutes does the legislature mix the concepts of compensation and interest. Accordingly, we find no statutory support for the Department’s broader interpretation of compensation to include interest. If the legislature had intended the Department to deduct both compensation and interest, it would have said so. Although reducing pension reserves by the interest as well as the PPD principal is consistent with the legislature’s intent to prevent double recoveries, we cannot ignore the plain statutory language to reach such intent.
+¶15 A majority of the panel having determined that only the foregoing portion of this opinion will be printed in the Washington Appellate Reports and that the remainder shall be filed for public record pursuant to RCW 2.06.040, it is so ordered.
+¶16 Affirmed.
+Houghton and Hunt, JJ., concur.
+An amount the Department calculates is necessary to pay the monthly pension benefits.
+The parties agree that the ruling in each appeal was identical.
+This subsection contained the language now contained in subsection (4).
