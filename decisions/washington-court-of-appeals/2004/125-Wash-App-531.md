@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53653-2-I"
 decided: "2004-12-13"
-citations: ["125 Wash. App. 531", "124 Wash. App. 1035"]
+citations: ["125 Wash. App. 531"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Richard Fria, Appellant, v. The Department of Labor and Industries, R
 source_url: "https://static.case.law/wash-app/125/cases/0531-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270172
-cites_cases: ["105 Wn.2d 606", "117 P. 1101", "123 Wn.2d 418", "125 Wn. App. 531", "125 Wn.2d 533", "127 Wn.2d 853", "154 Wn.2d 1018", "158 P. 256", "243 U.S. 219", "433 F.2d 1364", "526 P.2d 379", "65 Wash. 156", "717 P.2d 1353", "84 Wn.2d 380", "869 P.2d 14", "886 P.2d 189", "904 P.2d 278", "91 Wash. 588"]
+cites_cases: ["105 Wn.2d 606", "117 P. 1101", "123 Wn.2d 418", "125 Wn.2d 533", "127 Wn.2d 853", "154 Wn.2d 1018", "158 P. 256", "243 U.S. 219", "433 F.2d 1364", "526 P.2d 379", "65 Wash. 156", "717 P.2d 1353", "84 Wn.2d 380", "869 P.2d 14", "886 P.2d 189", "904 P.2d 278", "91 Wash. 588"]
 ---
 
 # Fria v. Department of Labor & Industries
