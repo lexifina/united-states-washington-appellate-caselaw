@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47405-7-I"
 decided: "2002-12-09"
-citations: ["115 Wash. App. 207", "114 Wash. App. 1057"]
+citations: ["115 Wash. App. 207"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Seth Kypreos, Appellant."]
 source_url: "https://static.case.law/wash-app/115/cases/0207-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 222001
-cites_cases: ["104 Wn. App. 409", "106 Wn.2d 144", "11 P.3d 714", "115 Wn. App. 207", "123 Wn.2d 173", "128 Wn.2d 431", "129 Wn.2d 61", "138 Wn.2d 343", "141 Wn.2d 373", "142 Wn.2d 17", "143 Wn.2d 1024", "144 Wn.2d 489", "146 Wn.2d 328", "149 Wn.2d 1029", "16 P.3d 680", "22 Seattle U. L. Rev. 337", "413 U.S. 433", "428 U.S. 364", "45 P.3d 1062", "459 P.2d 400", "471 U.S. 386", "5 P.3d 668", "531 U.S. 1104", "622 P.2d 1199", "622 P.2d 1218", "720 P.2d 436", "77 Wn. App. 441", "77 Wn.2d 27", "867 P.2d 593", "892 P.2d 106", "909 P.2d 293", "917 P.2d 563", "95 Wn.2d 143", "95 Wn.2d 170", "97 Wn. App. 152", "979 P.2d 833", "983 P.2d 1150"]
+cites_cases: ["104 Wn. App. 409", "106 Wn.2d 144", "11 P.3d 714", "123 Wn.2d 173", "128 Wn.2d 431", "129 Wn.2d 61", "138 Wn.2d 343", "141 Wn.2d 373", "142 Wn.2d 17", "143 Wn.2d 1024", "144 Wn.2d 489", "146 Wn.2d 328", "149 Wn.2d 1029", "16 P.3d 680", "22 Seattle U. L. Rev. 337", "413 U.S. 433", "428 U.S. 364", "45 P.3d 1062", "459 P.2d 400", "471 U.S. 386", "5 P.3d 668", "531 U.S. 1104", "622 P.2d 1199", "622 P.2d 1218", "720 P.2d 436", "77 Wn. App. 441", "77 Wn.2d 27", "867 P.2d 593", "892 P.2d 106", "909 P.2d 293", "917 P.2d 563", "95 Wn.2d 143", "95 Wn.2d 170", "97 Wn. App. 152", "979 P.2d 833", "983 P.2d 1150"]
 ---
 
 # State v. Kypreos
