@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19965-7-III"
 decided: "2002-04-04"
-citations: ["111 Wash. App. 771", "110 Wash. App. 1086"]
+citations: ["111 Wash. App. 771"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Department of Labor and Industries, Appellant, v. Kaiser Aluminum
 source_url: "https://static.case.law/wash-app/111/cases/0771-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1071850
-cites_cases: ["100 Wn. App. 561", "111 Wn. App. 771", "134 Wn.2d 692", "489 F.2d 1257", "519 P.2d 7", "56 Wn. App. 181", "645 F.2d 822", "656 P.2d 1030", "67 Wn. App. 135", "73 Wn. App. 293", "736 F.2d 656", "782 P.2d 1107", "81 Wn. App. 403", "81 Wn. App. 696", "83 Wn.2d 491", "834 P.2d 1058", "869 P.2d 404", "914 P.2d 750", "915 P.2d 1146", "952 P.2d 590", "98 Wn.2d 434", "997 P.2d 1013"]
+cites_cases: ["100 Wn. App. 561", "134 Wn.2d 692", "489 F.2d 1257", "519 P.2d 7", "56 Wn. App. 181", "645 F.2d 822", "656 P.2d 1030", "67 Wn. App. 135", "73 Wn. App. 293", "736 F.2d 656", "782 P.2d 1107", "81 Wn. App. 403", "81 Wn. App. 696", "83 Wn.2d 491", "834 P.2d 1058", "869 P.2d 404", "914 P.2d 750", "915 P.2d 1146", "952 P.2d 590", "98 Wn.2d 434", "997 P.2d 1013"]
 ---
 
 # Department of Labor & Industries v. Kaiser Aluminum & Chemical Corp.
