@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25344-1-I"
 decided: "1991-04-15"
-citations: ["61 Wash. App. 395", "60 Wash. App. 1072"]
+citations: ["61 Wash. App. 395"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Norhawk Investments, Inc., Appellant, v. Subway Sandwich Shops, Inc.,
 source_url: "https://static.case.law/wash-app/61/cases/0395-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1729486
-cites_cases: ["131 Wash. 573", "230 P. 633", "26 Wn. App. 638", "392 P.2d 215", "469 N.Y.S.2d 211", "558 F. Supp. 564", "56 Wash. L. Rev. 253", "61 Wn. App. 395", "611 P.2d 751", "615 P.2d 1279", "618 P.2d 1017", "64 Wn.2d 470", "645 P.2d 689", "645 P.2d 73", "93 Wn.2d 580", "94 Wn.2d 119", "97 A.D.2d 668", "97 Wn.2d 403"]
+cites_cases: ["131 Wash. 573", "230 P. 633", "26 Wn. App. 638", "392 P.2d 215", "469 N.Y.S.2d 211", "558 F. Supp. 564", "56 Wash. L. Rev. 253", "611 P.2d 751", "615 P.2d 1279", "618 P.2d 1017", "64 Wn.2d 470", "645 P.2d 689", "645 P.2d 73", "93 Wn.2d 580", "94 Wn.2d 119", "97 A.D.2d 668", "97 Wn.2d 403"]
 ---
 
 # Norhawk Investments, Inc. v. Subway Sandwich Shops, Inc.
