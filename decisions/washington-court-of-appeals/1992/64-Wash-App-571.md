@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26646-2-I"
 decided: "1992-01-27"
-citations: ["64 Wash. App. 571", "63 Wash. App. 1053"]
+citations: ["64 Wash. App. 571"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tewell, Thorpe & Findlay, Inc., P.S., et al, Appellants, v. Continent
 source_url: "https://static.case.law/wash-app/64/cases/0571-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722762
-cites_cases: ["101 Wn.2d 830", "102 Wn.2d 477", "106 Wn.2d 901", "107 Wn.2d 524", "109 Wn.2d 1014", "109 Wn.2d 191", "115 Wn.2d 879", "116 Wn.2d 1028", "136 Cal. App. 3d 673", "186 Cal. Rptr. 513", "311 P.2d 670", "404 N.Y.S.2d 190", "472 N.Y.S.2d 635", "48 Wn. App. 599", "484 U.S. 815", "491 P.2d 641", "50 Wn.2d 282", "517 P.2d 966", "545 P.2d 1193", "573 P.2d 1292", "60 Wn. App. 189", "603 P.2d 1258", "61 Wn. App. 365", "62 A.D.2d 1138", "64 Wn. App. 571", "659 P.2d 509", "683 P.2d 186", "687 P.2d 1139", "726 P.2d 439", "730 P.2d 1299", "740 P.2d 342", "743 P.2d 1244", "799 F.2d 218", "80 Wn.2d 38", "801 P.2d 207", "803 P.2d 47", "810 P.2d 80", "83 Wn.2d 353", "86 Wn.2d 432", "89 Wn.2d 488", "92 Wn.2d 967", "99 A.D.2d 947", "99 Wn.2d 65"]
+cites_cases: ["101 Wn.2d 830", "102 Wn.2d 477", "106 Wn.2d 901", "107 Wn.2d 524", "109 Wn.2d 1014", "109 Wn.2d 191", "115 Wn.2d 879", "116 Wn.2d 1028", "136 Cal. App. 3d 673", "186 Cal. Rptr. 513", "311 P.2d 670", "404 N.Y.S.2d 190", "472 N.Y.S.2d 635", "48 Wn. App. 599", "484 U.S. 815", "491 P.2d 641", "50 Wn.2d 282", "517 P.2d 966", "545 P.2d 1193", "573 P.2d 1292", "60 Wn. App. 189", "603 P.2d 1258", "61 Wn. App. 365", "62 A.D.2d 1138", "659 P.2d 509", "683 P.2d 186", "687 P.2d 1139", "726 P.2d 439", "730 P.2d 1299", "740 P.2d 342", "743 P.2d 1244", "799 F.2d 218", "80 Wn.2d 38", "801 P.2d 207", "803 P.2d 47", "810 P.2d 80", "83 Wn.2d 353", "86 Wn.2d 432", "89 Wn.2d 488", "92 Wn.2d 967", "99 A.D.2d 947", "99 Wn.2d 65"]
 ---
 
 # Tewell, Thorpe & Findlay, Inc. v. Continental Casualty Co.
