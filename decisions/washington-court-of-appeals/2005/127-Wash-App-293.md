@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54051-3-I"
 decided: "2005-03-07"
-citations: ["127 Wash. App. 293", "126 Wash. App. 1016"]
+citations: ["127 Wash. App. 293"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. J.R., Appellant."]
 source_url: "https://static.case.law/wash-app/127/cases/0293-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2461452
-cites_cases: ["127 Wn. App. 293", "127 Wn.2d 807", "129 Wn.2d 61", "140 Wn.2d 436", "156 Wn.2d 1015", "384 U.S. 436", "75 Wn. App. 643", "85 Wn. App. 777", "879 P.2d 968", "903 P.2d 979", "917 P.2d 563", "934 P.2d 1214", "96 Wn. App. 273", "979 P.2d 473", "998 P.2d 282"]
+cites_cases: ["127 Wn.2d 807", "129 Wn.2d 61", "140 Wn.2d 436", "156 Wn.2d 1015", "384 U.S. 436", "75 Wn. App. 643", "85 Wn. App. 777", "879 P.2d 968", "903 P.2d 979", "917 P.2d 563", "934 P.2d 1214", "96 Wn. App. 273", "979 P.2d 473", "998 P.2d 282"]
 ---
 
 # State v. J.R.
