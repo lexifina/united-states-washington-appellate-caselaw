@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13779-1-III"
 decided: "1995-07-11"
-citations: ["79 Wash. App. 1", "78 Wash. App. 1043"]
+citations: ["79 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kathryn A. Magula, Appellant, v. Benton Franklin Title Insurance Comp
 source_url: "https://static.case.law/wash-app/79/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 423355
-cites_cases: ["102 Wn.2d 219", "111 Wn.2d 609", "122 Wn.2d 483", "128 Wn.2d 1011", "32 Wn. App. 722", "347 N.W.2d 256", "469 U.S. 933", "568 P.2d 764", "58 Wn. App. 454", "586 P.2d 1149", "649 P.2d 181", "685 P.2d 1081", "762 P.2d 1143", "79 Wn. App. 1", "793 P.2d 994", "859 P.2d 26", "865 P.2d 507", "88 Wn.2d 887", "91 Wn.2d 62", "98 Wn.2d 1011"]
+cites_cases: ["102 Wn.2d 219", "111 Wn.2d 609", "122 Wn.2d 483", "128 Wn.2d 1011", "32 Wn. App. 722", "347 N.W.2d 256", "469 U.S. 933", "568 P.2d 764", "58 Wn. App. 454", "586 P.2d 1149", "649 P.2d 181", "685 P.2d 1081", "762 P.2d 1143", "793 P.2d 994", "859 P.2d 26", "865 P.2d 507", "88 Wn.2d 887", "91 Wn.2d 62", "98 Wn.2d 1011"]
 ---
 
 # Magula v. Benton Franklin Title Insurance
