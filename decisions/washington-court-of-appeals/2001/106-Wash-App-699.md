@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46098-6-I"
 decided: "2001-05-21"
-citations: ["106 Wash. App. 699", "106 Wash. App. 1022"]
+citations: ["106 Wash. App. 699"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David P. Laue, Appellant, v. Estate of Keith A. Elder, et al., Respon
 source_url: "https://static.case.law/wash-app/106/cases/0699-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 240721
-cites_cases: ["10 Wn. App. 514", "104 P.2d 934", "106 Wn. App. 699", "110 Wn.2d 1025", "112 Wn.2d 193", "114 Wn.2d 677", "117 Wn.2d 325", "117 Wn.2d 631", "128 Wn.2d 521", "134 Wn.2d 328", "135 Wn.2d 398", "136 Wn.2d 1029", "137 Wn.2d 518", "155 P. 162", "37 P. 697", "5 Wn.2d 36", "50 Wn. App. 531", "518 P.2d 206", "63 Wn. App. 193", "644 P.2d 1181", "656 P.2d 1030", "749 P.2d 725", "75 Wn. App. 669", "770 P.2d 1027", "790 P.2d 604", "815 P.2d 781", "817 P.2d 1380", "818 P.2d 1324", "879 P.2d 971", "89 Wash. 627", "9 Wash. 508", "91 Wn. App. 165", "910 P.2d 455", "949 P.2d 810", "957 P.2d 229", "957 P.2d 632", "97 Wn.2d 307", "972 P.2d 464", "973 P.2d 465", "98 Wn.2d 434"]
+cites_cases: ["10 Wn. App. 514", "104 P.2d 934", "110 Wn.2d 1025", "112 Wn.2d 193", "114 Wn.2d 677", "117 Wn.2d 325", "117 Wn.2d 631", "128 Wn.2d 521", "134 Wn.2d 328", "135 Wn.2d 398", "136 Wn.2d 1029", "137 Wn.2d 518", "155 P. 162", "37 P. 697", "5 Wn.2d 36", "50 Wn. App. 531", "518 P.2d 206", "63 Wn. App. 193", "644 P.2d 1181", "656 P.2d 1030", "749 P.2d 725", "75 Wn. App. 669", "770 P.2d 1027", "790 P.2d 604", "815 P.2d 781", "817 P.2d 1380", "818 P.2d 1324", "879 P.2d 971", "89 Wash. 627", "9 Wash. 508", "91 Wn. App. 165", "910 P.2d 455", "949 P.2d 810", "957 P.2d 229", "957 P.2d 632", "97 Wn.2d 307", "972 P.2d 464", "973 P.2d 465", "98 Wn.2d 434"]
 ---
 
 # Laue v. Estate of Elder
