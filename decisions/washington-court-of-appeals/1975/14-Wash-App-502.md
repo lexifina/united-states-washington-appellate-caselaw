@@ -1,0 +1,34 @@
+---
+court: "Washington Court of Appeals"
+docket: "1388-2"
+decided: "1975-12-03"
+citations: ["14 Wash. App. 502"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Charles H. Anderson, Appellant, v. County Properties, Inc., et al, Respondents."]
+source_url: "https://static.case.law/wash-app/14/cases/0502-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1789710
+cites_cases: ["110 Wash. 231", "188 P. 410", "291 P.2d 639", "314 P.2d 928", "369 P.2d 307", "422 P.2d 314", "48 Wn.2d 131", "50 Wn.2d 855", "59 Wn.2d 606", "70 Wn.2d 145", "9 A.L.R. 177"]
+---
+
+# Anderson v. County Properties, Inc.
+
+## Majority (Petrie, C.J.)
+
+Petrie, C.J.
+Mortgagee filed a complaint to foreclose his mortgage. Mortgagor chose not to defend the action, but mortgagor’s grantee defended on the theory that a note, payment of which the mortgage secured, was invalid either for lack of consideration or failure of consideration. The trial court granted the grantee’s motion for summary judgment, and the mortgagee appealed to this court. We hold there was failure of consideration and affirm the trial court.
+Defendant Wubben wanted to purchase cattle, but he lacked sufficient funds. He encountered plaintiff, Anderson, who agreed to loan Wubben the necessary funds provided Wubben would give him a promissory note secured by a mortgage on Wubben’s real property. Wubben executed the documents on October 18, 1967. The mortgage, recorded several months later, recited in part, that it was to secure payment of $8,000 “according to the terms of a promissory note bearing even date.”
+Anderson did not advance the funds on October 18 because he had insufficient cash on hand. However, Anderson and Wubben went to a local bank on October 24, and the bank agreed to loan Anderson $8,000 on his personal, unsecured note. Anderson wanted Wubben to join him in signing the note even though the bank neither required nor requested Wubben’s signature. Anderson believed Wubben’s signature on the note would make Wubben “feel it was a more binding obligation.” Anderson and Wubben signed the note on its face. The bank executed a cashier’s check payable to Anderson and Wubben in the amount of $8,000. Anderson endorsed the check, and Wubben deposited it into his own account. Wubben used these funds to purchase the cattle.
+Anderson and Wubben had an understanding between themselves that Anderson would pay the bank’s note. Anderson did pay the interest on the note at quarterly intervals, and eventually he paid the principal in full on December 31, 1970. No part of either principal or interest was paid by Wubben.
+On August 11, 1971, Wubben conveyed his property to defendant County Properties, Inc., by quitclaim deed. Anderson filed the foreclosure complaint in 1972, Wubben was defaulted, and Properties’ motion for summary judgment to dismiss Anderson’s complaint was granted by the trial court.
+The mortgage declared that it was given as security for payment of the promissory note dated October 18, 1967. If the obligation for which the mortgage was given failed for some reason, the mortgage would not be enforceable. Koster v. Wingard, 50 Wn.2d 855, 314 P.2d 928 (1957). See note 33 Wash. L. Rev. at 186 (1958). Absent a prior indebtedness, Wubben became indebted to Anderson on the October 18 note only if there existed a legally sufficient consideration for that note. Browning v. Johnson, 70 Wn.2d 145, 422 P.2d 314 (1967); RCW 62A.3-408.
+When Wubben signed the October 18 note, Anderson’s promise to loan Wubben the $8,000 constituted conditional consideration for its execution. Thus, the two parties entered into a valid bilateral contract, each promise being the agreed consideration for the other promise. Accordingly, the note was not unenforceable for lack of consideration. But the contracting parties contemplated more than a mere exchange of promises; they bargained for an exchange of equivalent performances. See 1 A. Corbin, Contracts § 133, at 573 (1963). There arises, therefore, the issue of failure of consideration.
+The trial court found that Anderson became an accommodation party and Wubben became the accommodated party on the note which both executed in favor of the bank. That conclusion appears to be questionable, but it is quite clear that both Anderson and Wubben became makers of that note. Bank of California v. Starrett, 110 Wash. 231, 188 P. 410, 9 A.L.R. 177 (1920).
+Anderson did not fulfill the specific promise he made to Wubben; he performed another act which, although it resulted in Wubben’s receipt of $8,000, established a distinctly different relationship between the parties. Wubben’s signature on the bank’s note substantially altered the underlying character of the transaction. His signature obligated him as maker to pay the note according to its tenor, RCW 62A.3-413, regardless of any understanding Anderson and Wubben had between themselves. Fleming v. August, 48 Wn.2d 131, 291 P.2d 639 (1955).
+Anderson contends, however, that he did perform his promise to Wubben. He insists the promise he gave to Wubben—that he, not Wubben, would pay the bank’s note —effectively relieved Wubben of any ultimate liability on that note. Indeed, Anderson contends, both he and Wubben fully intended that the October 24 note given to the bank was “Anderson’s note.” Implicit in this contention is the assumption that if Anderson did not pay the bank’s note, Wubben could enforce the promise given to him. However Wubben could not claim that this new promise attained the status of an enforceable contract because there is absolutely no consideration to support it. Under the October 18 note Anderson was already obligated to loan Wubben $8,000. An agreement to do that which one is already obliged to do is not sufficient consideration to support a contract. Johnson v. Tanner, 59 Wn.2d 606, 369 P.2d 307 (1962).
+Under Anderson’s theory of the case, Wubben would be obligated to the holders of two independently negotiable instruments for a total of $16,000. Wubben did not bargain with Anderson on October 18 to assume a separate obligation to another. The legal effect of what occurred on October 24 was abandonment of the October 18 note as the instrument through which the indebtedness between the parties should be memorialized and repayment enforced. Anderson abandoned the first note by insisting that Wub-ben execute the bank’s note; Wubben abandoned it by executing the bank’s note and by retaining the bank’s check as endorsed by Anderson.
+For purposes of this opinion we need not delve into the precise nature and extent of Wubben’s indebtedness to Anderson. We hold only that the October 18 note is unenforceable for failure of consideration. Hence the mortgage given to secure payment of that specific note is also unenforceable.
+Judgment affirmed.
+Pearson and Reed, JJ., concur.
