@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38690-5-I"
 decided: "1997-11-17"
-citations: ["89 Wash. App. 737", "88 Wash. App. 1026"]
+citations: ["89 Wash. App. 737"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Michael Nordstrom, Petitioner
 source_url: "https://static.case.law/wash-app/89/cases/0737-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 395251
-cites_cases: ["103 Wn.2d 203", "106 Wn.2d 885", "110 Wn.2d 827", "115 Wn.2d 609", "117 Wn.2d 369", "31 Wn. App. 784", "33 Wn. App. 15", "344 U.S. 443", "414 F.2d 1040", "422 U.S. 806", "430 U.S. 387", "469 U.S. 824", "545 F.2d 273", "644 P.2d 1202", "651 P.2d 247", "67 F.3d 1092", "69 Wn. App. 356", "691 P.2d 957", "726 P.2d 25", "728 F.2d 1195", "755 P.2d 806", "801 P.2d 193", "816 P.2d 1", "82 Wn. App. 850", "83 Wn. App. 658", "848 P.2d 769", "882 F.2d 434", "89 Wn. App. 737", "920 P.2d 214", "922 P.2d 1371", "97 L. Ed. 469", "99 Wn.2d 1001"]
+cites_cases: ["103 Wn.2d 203", "106 Wn.2d 885", "110 Wn.2d 827", "115 Wn.2d 609", "117 Wn.2d 369", "31 Wn. App. 784", "33 Wn. App. 15", "344 U.S. 443", "414 F.2d 1040", "422 U.S. 806", "430 U.S. 387", "469 U.S. 824", "545 F.2d 273", "644 P.2d 1202", "651 P.2d 247", "67 F.3d 1092", "69 Wn. App. 356", "691 P.2d 957", "726 P.2d 25", "728 F.2d 1195", "755 P.2d 806", "801 P.2d 193", "816 P.2d 1", "82 Wn. App. 850", "83 Wn. App. 658", "848 P.2d 769", "882 F.2d 434", "920 P.2d 214", "922 P.2d 1371", "97 L. Ed. 469", "99 Wn.2d 1001"]
 ---
 
 # State v. Nordstrom
