@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37169-0-I"
 decided: "1997-07-21"
-citations: ["87 Wash. App. 614", "86 Wash. App. 1106"]
+citations: ["87 Wash. App. 614"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Edward W. Dutton, et al., Appellants, v. Washington Physicians Health
 source_url: "https://static.case.law/wash-app/87/cases/0614-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 566192
-cites_cases: ["104 Wn.2d 1014", "109 Wn.2d 896", "118 Wn.2d 1024", "118 Wn.2d 195", "119 Wn.2d 34", "119 Wn.2d 91", "120 Wn.2d 57", "127 Wn.2d 434", "40 Wn. App. 854", "410 P.2d 606", "506 U.S. 1028", "506 U.S. 1079", "63 Wn. App. 232", "67 Wn.2d 882", "701 P.2d 529", "748 P.2d 1118", "818 P.2d 34", "822 P.2d 243", "829 P.2d 746", "830 P.2d 318", "837 P.2d 618", "87 Wn. App. 614", "899 P.2d 1270"]
+cites_cases: ["104 Wn.2d 1014", "109 Wn.2d 896", "118 Wn.2d 1024", "118 Wn.2d 195", "119 Wn.2d 34", "119 Wn.2d 91", "120 Wn.2d 57", "127 Wn.2d 434", "40 Wn. App. 854", "410 P.2d 606", "506 U.S. 1028", "506 U.S. 1079", "63 Wn. App. 232", "67 Wn.2d 882", "701 P.2d 529", "748 P.2d 1118", "818 P.2d 34", "822 P.2d 243", "829 P.2d 746", "830 P.2d 318", "837 P.2d 618", "899 P.2d 1270"]
 ---
 
 # Dutton v. Washington Physicians Health Program
