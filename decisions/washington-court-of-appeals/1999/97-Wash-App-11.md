@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22933-1-II; 23086-1-II"
 decided: "1999-06-18"
-citations: ["97 Wash. App. 11", "96 Wash. App. 1006"]
+citations: ["97 Wash. App. 11"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Stella Sales, Inc., et al., Respondents, v. DeMay C. Johnson, Appella
 source_url: "https://static.case.law/wash-app/97/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184058
-cites_cases: ["104 Wn.2d 44", "115 Wn.2d 339", "118 Wn.2d 801", "120 P. 104", "120 Wn.2d 1015", "125 P. 148", "130 Wn.2d 862", "139 Wn.2d 1012", "155 Wash. 351", "26 Wn. App. 430", "284 P. 343", "29 Wn. App. 193", "32 Wn. App. 611", "507 P.2d 1165", "514 P.2d 520", "52 Wn. App. 825", "534 P.2d 561", "566 F.2d 8", "613 P.2d 187", "627 P.2d 983", "64 Wn. App. 889", "649 P.2d 123", "66 Wash. 639", "665 P.2d 400", "68 A.L.R. 254", "683 F. Supp. 965", "69 Wash. 368", "700 P.2d 1152", "764 P.2d 1014", "79 Wn. App. 221", "79 Wn. App. 596", "797 P.2d 504", "82 Wn.2d 816", "82 Wn.2d 87", "827 P.2d 311", "828 P.2d 549", "85 Wn. App. 1021", "85 Wn.2d 278", "901 P.2d 1060", "903 P.2d 1012", "929 P.2d 379", "94 Wn.2d 1014", "97 Wn. App. 11", "99 Wn.2d 905"]
+cites_cases: ["104 Wn.2d 44", "115 Wn.2d 339", "118 Wn.2d 801", "120 P. 104", "120 Wn.2d 1015", "125 P. 148", "130 Wn.2d 862", "139 Wn.2d 1012", "155 Wash. 351", "26 Wn. App. 430", "284 P. 343", "29 Wn. App. 193", "32 Wn. App. 611", "507 P.2d 1165", "514 P.2d 520", "52 Wn. App. 825", "534 P.2d 561", "566 F.2d 8", "613 P.2d 187", "627 P.2d 983", "64 Wn. App. 889", "649 P.2d 123", "66 Wash. 639", "665 P.2d 400", "68 A.L.R. 254", "683 F. Supp. 965", "69 Wash. 368", "700 P.2d 1152", "764 P.2d 1014", "79 Wn. App. 221", "79 Wn. App. 596", "797 P.2d 504", "82 Wn.2d 816", "82 Wn.2d 87", "827 P.2d 311", "828 P.2d 549", "85 Wn. App. 1021", "85 Wn.2d 278", "901 P.2d 1060", "903 P.2d 1012", "929 P.2d 379", "94 Wn.2d 1014", "99 Wn.2d 905"]
 ---
 
 # Stella Sales, Inc. v. Johnson
