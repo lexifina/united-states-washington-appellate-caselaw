@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33651-7-I"
 decided: "1996-03-11"
-citations: ["81 Wash. App. 163", "80 Wash. App. 1072"]
+citations: ["81 Wash. App. 163"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Joe M. Wlasiuk, Respondent, v. Whirlpool Corporation, Appellant."]
 source_url: "https://static.case.law/wash-app/81/cases/0163-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 310741
-cites_cases: ["100 Wn.2d 421", "102 Wn.2d 219", "106 Wn.2d 212", "107 Wn.2d 553", "111 Wn.2d 609", "112 Wn.2d 127", "113 Wn.2d 612", "117 Wn.2d 426", "118 Wn.2d 512", "119 Wn.2d 780", "122 Wn.2d 1", "123 Wn.2d 93", "124 Wn.2d 1020", "125 Wn.2d 1", "332 P.2d 454", "510 P.2d 221", "53 Wn.2d 162", "55 Wn. App. 811", "640 P.2d 1051", "671 P.2d 230", "685 P.2d 1081", "721 P.2d 918", "73 Wn. App. 895", "730 P.2d 1340", "76 Wn. App. 250", "762 P.2d 1143", "769 P.2d 298", "780 P.2d 1327", "782 P.2d 1002", "80 Wn. App. 326", "81 Wn. App. 163", "815 P.2d 1362", "82 Wn.2d 250", "826 P.2d 664", "836 P.2d 832", "857 P.2d 989", "864 P.2d 937", "872 P.2d 49", "881 P.2d 253", "882 P.2d 157", "884 P.2d 13", "908 P.2d 909", "96 Wn.2d 939"]
+cites_cases: ["100 Wn.2d 421", "102 Wn.2d 219", "106 Wn.2d 212", "107 Wn.2d 553", "111 Wn.2d 609", "112 Wn.2d 127", "113 Wn.2d 612", "117 Wn.2d 426", "118 Wn.2d 512", "119 Wn.2d 780", "122 Wn.2d 1", "123 Wn.2d 93", "124 Wn.2d 1020", "125 Wn.2d 1", "332 P.2d 454", "510 P.2d 221", "53 Wn.2d 162", "55 Wn. App. 811", "640 P.2d 1051", "671 P.2d 230", "685 P.2d 1081", "721 P.2d 918", "73 Wn. App. 895", "730 P.2d 1340", "76 Wn. App. 250", "762 P.2d 1143", "769 P.2d 298", "780 P.2d 1327", "782 P.2d 1002", "80 Wn. App. 326", "815 P.2d 1362", "82 Wn.2d 250", "826 P.2d 664", "836 P.2d 832", "857 P.2d 989", "864 P.2d 937", "872 P.2d 49", "881 P.2d 253", "882 P.2d 157", "884 P.2d 13", "908 P.2d 909", "96 Wn.2d 939"]
 ---
 
 # Wlasiuk v. Whirlpool Corp.
