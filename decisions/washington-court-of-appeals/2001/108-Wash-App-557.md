@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46584-8-I"
 decided: "2001-09-24"
-citations: ["108 Wash. App. 557", "108 Wash. App. 1021"]
+citations: ["108 Wash. App. 557"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bogle and Gates, P.L.L.C., Appellant, v. Holly Mountain Resources, Re
 source_url: "https://static.case.law/wash-app/108/cases/0557-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 321441
-cites_cases: ["102 Wn.2d 495", "104 Wn.2d 105", "108 Wn. App. 557", "125 Wn.2d 337", "136 Wn.2d 26", "137 P. 309", "16 Wn. App. 678", "309 P.2d 380", "328 P.2d 671", "33 Wn. App. 838", "39 Wn. App. 188", "50 Wn.2d 87", "52 Wn.2d 634", "558 P.2d 1372", "658 P.2d 42", "687 P.2d 212", "692 P.2d 867", "702 P.2d 459", "76 Wash. 692", "77 Wn. App. 294", "883 P.2d 1383", "890 P.2d 480", "959 P.2d 1104"]
+cites_cases: ["102 Wn.2d 495", "104 Wn.2d 105", "125 Wn.2d 337", "136 Wn.2d 26", "137 P. 309", "16 Wn. App. 678", "309 P.2d 380", "328 P.2d 671", "33 Wn. App. 838", "39 Wn. App. 188", "50 Wn.2d 87", "52 Wn.2d 634", "558 P.2d 1372", "658 P.2d 42", "687 P.2d 212", "692 P.2d 867", "702 P.2d 459", "76 Wash. 692", "77 Wn. App. 294", "883 P.2d 1383", "890 P.2d 480", "959 P.2d 1104"]
 ---
 
 # Bogle & Gates, P.L.L.C. v. Holly Mountain Resources
