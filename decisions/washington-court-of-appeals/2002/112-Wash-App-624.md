@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47559-2-I"
 decided: "2002-06-03"
-citations: ["112 Wash. App. 624", "112 Wash. App. 1002"]
+citations: ["112 Wash. App. 624"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Coast to Coast Seafood, Inc., Respondent, v. Assurances Generales de 
 source_url: "https://static.case.law/wash-app/112/cases/0624-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719182
-cites_cases: ["1 P.3d 1167", "102 Wn. App. 716", "112 Wn. App. 624", "117 Wn.2d 37", "121 Wn.2d 869", "141 Wn.2d 55", "142 Wn.2d 1029", "149 Wn.2d 1001", "190 F.3d 26", "196 F.3d 481", "1992 U.S. Dist. LEXIS 8895", "1992 WL 75067", "22 F.3d 65", "46 U.S.C. § 1303", "49 U.S.C. § 80116", "49 U.S.C. §§ 80102", "510 F.2d 628", "675 F.2d 30", "76 F. Supp. 2d 886", "811 P.2d 673", "815 F. Supp. 115", "83 F.3d 1367", "837 F.2d 441", "854 P.2d 622", "865 P.2d 507", "9 P.3d 239", "97 Wn. App. 201", "97 Wn. App. 335", "977 F. Supp. 1022", "983 P.2d 707", "985 P.2d 400", "993 F.2d 1195"]
+cites_cases: ["1 P.3d 1167", "102 Wn. App. 716", "117 Wn.2d 37", "121 Wn.2d 869", "141 Wn.2d 55", "142 Wn.2d 1029", "149 Wn.2d 1001", "190 F.3d 26", "196 F.3d 481", "1992 U.S. Dist. LEXIS 8895", "1992 WL 75067", "22 F.3d 65", "46 U.S.C. § 1303", "49 U.S.C. § 80116", "49 U.S.C. §§ 80102", "510 F.2d 628", "675 F.2d 30", "76 F. Supp. 2d 886", "811 P.2d 673", "815 F. Supp. 115", "83 F.3d 1367", "837 F.2d 441", "854 P.2d 622", "865 P.2d 507", "9 P.3d 239", "97 Wn. App. 201", "97 Wn. App. 335", "977 F. Supp. 1022", "983 P.2d 707", "985 P.2d 400", "993 F.2d 1195"]
 ---
 
 # Coast to Coast Seafood, Inc. v. Assurances Generales de France
