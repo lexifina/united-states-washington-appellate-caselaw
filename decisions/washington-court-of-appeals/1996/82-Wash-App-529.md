@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35750-6-I"
 decided: "1996-06-10"
-citations: ["82 Wash. App. 529", "82 Wash. App. 1011"]
+citations: ["82 Wash. App. 529"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Peggy Jo Briscoe, Respondent, and De
 source_url: "https://static.case.law/wash-app/82/cases/0529-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043523
-cites_cases: ["115 Wn.2d 202", "130 Wn.2d 1016", "621 P.2d 1279", "78 Wn. App. 696", "796 P.2d 421", "82 Wn. App. 529", "899 P.2d 1", "95 Wn.2d 94"]
+cites_cases: ["115 Wn.2d 202", "130 Wn.2d 1016", "621 P.2d 1279", "78 Wn. App. 696", "796 P.2d 421", "899 P.2d 1", "95 Wn.2d 94"]
 ---
 
 # In re the Marriage of Briscoe
