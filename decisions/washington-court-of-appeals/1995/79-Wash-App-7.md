@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34768-3-I"
 decided: "1995-07-31"
-citations: ["79 Wash. App. 7", "78 Wash. App. 1064"]
+citations: ["79 Wash. App. 7"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Carl L. Jones, Appellant."]
 source_url: "https://static.case.law/wash-app/79/cases/0007-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 423998
-cites_cases: ["120 Wn.2d 585", "128 Wn.2d 1009", "25 Wn. App. 621", "52 Wn. App. 380", "557 P.2d 847", "585 P.2d 66", "612 P.2d 4", "74 Wn. App. 600", "75 Wn. App. 295", "760 P.2d 947", "79 Wn. App. 7", "845 P.2d 971", "87 Wn.2d 870", "875 P.2d 1222", "877 P.2d 730", "90 Wn.2d 423"]
+cites_cases: ["120 Wn.2d 585", "128 Wn.2d 1009", "25 Wn. App. 621", "52 Wn. App. 380", "557 P.2d 847", "585 P.2d 66", "612 P.2d 4", "74 Wn. App. 600", "75 Wn. App. 295", "760 P.2d 947", "845 P.2d 971", "87 Wn.2d 870", "875 P.2d 1222", "877 P.2d 730", "90 Wn.2d 423"]
 ---
 
 # State v. Jones
