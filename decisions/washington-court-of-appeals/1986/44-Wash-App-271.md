@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15772-8-I"
 decided: "1986-05-12"
-citations: ["44 Wash. App. 271", "43 Wash. App. 1046"]
+citations: ["44 Wash. App. 271"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Wayne J. Bergman, Appellant."
 source_url: "https://static.case.law/wash-app/44/cases/0271-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1800881
-cites_cases: ["104 Wn.2d 412", "123 N.H. 570", "37 A.L.R.4th 904", "41 Wn. App. 789", "426 U.S. 610", "44 Wn. App. 271", "467 A.2d 202", "472 Pa. 435", "705 P.2d 1182", "706 P.2d 1083"]
+cites_cases: ["104 Wn.2d 412", "123 N.H. 570", "37 A.L.R.4th 904", "41 Wn. App. 789", "426 U.S. 610", "467 A.2d 202", "472 Pa. 435", "705 P.2d 1182", "706 P.2d 1083"]
 ---
 
 # State v. Bergman
