@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44629-1-I"
 decided: "2000-03-06"
-citations: ["101 Wash. App. 36", "99 Wash. App. 1057"]
+citations: ["101 Wash. App. 36"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dennis Eli Foisy, Appellant, v. Stephen L. Conroy, et al., Respondent
 source_url: "https://static.case.law/wash-app/101/cases/0036-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170589
-cites_cases: ["101 Wn. App. 36", "133 Wn.2d 15", "134 Wn.2d 328", "142 Wn.2d 1010", "178 P.2d 341", "27 Wn. App. 762", "27 Wn.2d 336", "501 P.2d 622", "621 P.2d 171", "7 Wn. App. 594", "84 Wn. App. 498", "929 P.2d 475", "940 P.2d 1374", "949 P.2d 810"]
+cites_cases: ["133 Wn.2d 15", "134 Wn.2d 328", "142 Wn.2d 1010", "178 P.2d 341", "27 Wn. App. 762", "27 Wn.2d 336", "501 P.2d 622", "621 P.2d 171", "7 Wn. App. 594", "84 Wn. App. 498", "929 P.2d 475", "940 P.2d 1374", "949 P.2d 810"]
 ---
 
 # Foisy v. Conroy
