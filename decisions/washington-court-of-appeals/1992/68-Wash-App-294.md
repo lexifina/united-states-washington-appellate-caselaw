@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28640-4-I"
 decided: "1992-11-30"
-citations: ["68 Wash. App. 294", "67 Wash. App. 1051"]
+citations: ["68 Wash. App. 294"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Leann K. Johnson, as Administratrix, Appellant, v. The State of Washi
 source_url: "https://static.case.law/wash-app/68/cases/0294-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725318
-cites_cases: ["100 Wn.2d 421", "103 Wn.2d 768", "110 Wn.2d 1033", "111 Wn.2d 159", "112 Wn.2d 1027", "115 Wn.2d 506", "118 Wn.2d 195", "121 Wn.2d 1018", "40 Wn. App. 577", "50 Wn. App. 671", "53 Wn. App. 558", "632 P.2d 504", "66 Wn. App. 607", "671 P2d 230", "68 Wn. App. 294", "698 P.2d 77", "699 P.2d 793", "750 P.2d 271", "759 P.2d 447", "769 P.2d 313", "799 P.2d 250", "822 P.2d 243", "836 P.2d 833", "95 Wn.2d 773"]
+cites_cases: ["100 Wn.2d 421", "103 Wn.2d 768", "110 Wn.2d 1033", "111 Wn.2d 159", "112 Wn.2d 1027", "115 Wn.2d 506", "118 Wn.2d 195", "121 Wn.2d 1018", "40 Wn. App. 577", "50 Wn. App. 671", "53 Wn. App. 558", "632 P.2d 504", "66 Wn. App. 607", "671 P2d 230", "698 P.2d 77", "699 P.2d 793", "750 P.2d 271", "759 P.2d 447", "769 P.2d 313", "799 P.2d 250", "822 P.2d 243", "836 P.2d 833", "95 Wn.2d 773"]
 ---
 
 # Johnson v. State
