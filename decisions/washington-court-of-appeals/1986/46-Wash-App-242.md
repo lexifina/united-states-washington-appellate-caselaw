@@ -1,0 +1,47 @@
+---
+court: "Washington Court of Appeals"
+docket: "7852-0-II"
+decided: "1986-12-15"
+citations: ["46 Wash. App. 242"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Worswick, C.J., and Alexander, J., concur."]
+parties: ["The State of Washington, Respondent, v. David C. Ellard, Appellant."]
+source_url: "https://static.case.law/wash-app/46/cases/0242-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1811945
+cites_cases: ["102 Wn.2d 182", "259 P.2d 406", "348 P.2d 978", "39 Wn. App. 652", "43 Wn. App. 705", "43 Wn.2d 5", "55 Wn.2d 530", "616 P.2d 628", "656 P.2d 1064", "683 P.2d 186", "694 P.2d 1117", "719 P.2d 137", "94 Wn.2d 216", "98 Wn.2d 484"]
+---
+
+# State v. Ellard
+
+## Majority (Reed, J.)
+
+Reed, J.
+David C. Ellard appeals his jury convictions for each of three counts of first degree theft by deception. RCW 9A.56.020(1)(b); RCW 9A.56.030. We affirm as to count 1. We find the evidence of value as to counts 2 and 3 insufficient to support convictions for first degree theft. We therefore vacate the judgments on these convictions and remand for imposition of new sentences for second and third degree theft.
+Mr. Ellard was accused of unlawfully obtaining money from the Tacoma School District. He is the owner of Ellard Tire & Wheel, a Goodyear tire franchise which was under contract with the school district during the charging period.
+Count 1 alleged that Ellard illegally charged the school district for passenger tires. This charge arose out of a practice of installing tires on automobiles belonging to various individuals, while invoicing those tires to school district buses.
+Count 2 alleged that Ellard charged the school district for higher priced tires than were actually installed on school buses.
+Count 3 alleged that Ellard resold to the school district tire casings that already belonged to it. Casings are the inner part of the tire which may be retreaded.
+During a jury trial on all three counts, the State presented evidence of transactions between Ellard Tire & Wheel and governmental entities other than the Tacoma School District. We first consider whether the trial court erred in failing to give a limiting instruction on the jury's consideration of this evidence of uncharged transactions. The judge instructed the jury that:
+The money or value of property, if any, received by Ellard Tire & Wheel, Inc. from any entity other than the Tacoma School District shall not be considered in the verdicts as to the value received.
+No other limiting instruction was given; however, when the trial court ruled that the evidence was admissible to show a common plan, scheme, or absence of mistake, it invited limiting instructions. The defendant failed to except to the instruction given and failed to propose his own limiting instruction. He is therefore precluded from asserting this challenge on review. State v. Fitzgerald, 39 Wn. App. 652, 694 P.2d 1117 (1985). Contrary to what Ellard urges, the trial court will not be reversed for failure to give the correct limiting instruction sua sponte.
+Ellard next assigns error to the instruction given on his defense of good faith claim of title. RCW 9A.56.020(2). The jury was instructed that:
+It is a defense to a charge of theft that the property or service was appropriated openly and avowedly under a good faith claim of title, even though the claim be untenable.
+Ellard argues that the jury should have been instructed that the State bears the burden of proving the absence of this defense beyond a reasonable doubt. He relies on State v. Hicks, 102 Wn.2d 182, 683 P.2d 186 (1984), which held that because the good faith claim of title defense negates the intent element of robbery, the State should have the burden of proving the nonexistence of the defense beyond a reasonable doubt. Hicks, 102 Wn.2d at 187.
+The defendant also failed to except to this instruction in the trial court; however, "[a]n instruction requiring [the defendant] to create a reasonable doubt in the minds of the jurors places an unconstitutional burden of persuasion upon him." State v. McCullum, 98 Wn.2d 484, 497, 656 P.2d 1064 (1983). Therefore, the issue is properly raised for the first time on appeal. We find no error, however.
+That the property was obtained openly and avowedly under a good faith claim of title is not a defense which is available to a defendant charged with obtaining money by false pretenses. State v. Mercy, 55 Wn.2d 530, 348 P.2d 978 (1960). This rule is equally applicable to a charge of theft by deception. RCW 9A.56.010(4). State v. Pestrin, 43 Wn. App. 705, 719 P.2d 137 (1986). Here, the defendant made false representations of material facts, for the purpose of inducing the Tacoma School District to part with its property and with the intent to deprive it of its property. This behavior is inconsistent with any open and avowed claim of title. Mercy, 55 Wn.2d at 533, citing State v. Emerson, 43 Wn.2d 5, 259 P.2d 406 (1953).
+Because Ellard admitted writing and submitting for payment some of the invoices in evidence on count 1, but repeatedly stated that he thought he was entitled to do so, he claims he presented evidence of a good faith claim of title, and was therefore entitled to an instruction placing the burden on the prosecution. However, these invoices did not "openly and avowedly" show that the tires were in fact installed on private passenger cars. To the contrary, the invoices showed that the tires had been installed on buses.
+Counts 2 and 3 involved similar misrepresentations to the school district. Where the theft is brought about by patently deceptive means, the defense is unavailable. State v. Pestrin, supra. The defendant was not entitled to any jury instruction on a defense of good faith claim of title. Therefore, it was not error for the trial court to give one which incorrectly placed the burden of proof on him.
+Finally, Ellard argues that the evidence of value was insufficient to support conviction of first degree theft on counts 2 and 3. The test for sufficiency of the evidence is whether, after viewing the evidence in the light most favorable to the State, any rational trier of fact could have found the essential elements of the crime beyond a reasonable doubt. State v. Green, 94 Wn.2d 216, 616 P.2d 628 (1980). A value of property taken of greater than $1,500 is an essential element of theft in the first degree. RCW 9A.56-.030.
+Regarding count 2 (overcharging for tires installed on buses) Ellard maintains that the evidence is insufficient to show that he overcharged the school district for bus tires in the amount of $1,500. When we summarize all of the documentary evidence of overcharges which was presented to the trial court, we reach a total of only $1,488.55. The State has been unable to point to any additional evidence admitted that persuades us that this is not the correct amount. Therefore, the conviction on count 2 must be reduced to second degree theft. RCW 9A.56.040.
+Regarding count 3, the State's evidence showed the following: (1) Ellard Tire & Wheel invoices showed that the school district had been billed a total of $3,052 during the charging period for tire casings. One casing has a market value of about $30. According to the invoices, the district was never given credit for any casing taken off a district bus. (2) There was testimony that casings could safely be retreaded 80 percent of the time. (3) Finally, Ellard employees testified that an unspecified number of district casings were altered by removing district identification marks, and sold back to the district or other customers. From this, the jury was allowed to infer that at least $1,500 of the $3,052 total casing charges were illegitimate.
+Ellard urges that the jury should not have been allowed to make that inference. He testified that when he was awarded the district contract there were no tire casings in the bus fleet which could be safely retreaded. Absent proof of specific illegal casing charges, he argues that he cannot be convicted.
+The question is whether, when viewed most favorably to the State, this evidence would permit any rational trier of fact to find that Ellard did not give the district credit for 50 or more casings which in fact belonged to it. We hold that it does not. From this evidence it is impossible for the jury to determine how many casing charges were illegitimate. Because the State has failed to prove that this fraud occurred with respect to 50 or more casings, a conviction of first degree theft cannot stand. Nor has the State proven that it occurred with respect to 9 casings, to reach a value of greater than $250 to support a conviction for second degree theft.
+The most the State has proven is that a practice of fraud existed at Ellard Tire & Wheel in regard to tire casings. This much was shown by the testimony of Ellard employees. Therefore, the conviction on count 3 must be reduced to third degree theft.
+To the extent this opinion fails to address additional assignments of error, we hold that they are either improperly preserved, or have no merit.
+We affirm count 1, vacate judgment and sentence on counts 2 and 3, and remand for sentencing consistent with this opinion.
+Worswick, C.J., and Alexander, J., concur.
+Reconsideration denied January 9 and February 20, 1987.
+Review denied by Supreme Court May 5, 1987.
