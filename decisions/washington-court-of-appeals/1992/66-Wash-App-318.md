@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29640-0-I"
 decided: "1992-06-01"
-citations: ["66 Wash. App. 318", "65 Wash. App. 1047"]
+citations: ["66 Wash. App. 318"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Murray Publishing Company, Inc., Appellant, v. Gary Malmquist, et al,
 source_url: "https://static.case.law/wash-app/66/cases/0318-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1703388
-cites_cases: ["100 Wn.2d 793", "108 S. Ct. 1727", "108 Wn.2d 38", "117 Wn.2d 348", "120 Wn.2d 1010", "15 U.S.C. § 1", "246 U.S. 231", "370 U.S. 294", "39 Wn. App. 21", "433 U.S. 36", "441 U.S. 1", "468 U.S. 85", "485 U.S. 717", "510 F.2d 894", "512 F.2d 1264", "514 F. Supp. 645", "540 P.2d 1373", "613 P.2d 124", "649 F.2d 866", "66 Wn. App. 318", "676 P.2d 963", "692 P.2d 182", "699 F.2d 965", "738 P.2d 665", "816 P.2d 7", "82 S. Ct. 1052", "85 Wn.2d 929", "861 F.2d 1440", "875 F.2d 1369", "924 F.2d 1484", "93 Wn.2d 757"]
+cites_cases: ["100 Wn.2d 793", "108 S. Ct. 1727", "108 Wn.2d 38", "117 Wn.2d 348", "120 Wn.2d 1010", "15 U.S.C. § 1", "246 U.S. 231", "370 U.S. 294", "39 Wn. App. 21", "433 U.S. 36", "441 U.S. 1", "468 U.S. 85", "485 U.S. 717", "510 F.2d 894", "512 F.2d 1264", "514 F. Supp. 645", "540 P.2d 1373", "613 P.2d 124", "649 F.2d 866", "676 P.2d 963", "692 P.2d 182", "699 F.2d 965", "738 P.2d 665", "816 P.2d 7", "82 S. Ct. 1052", "85 Wn.2d 929", "861 F.2d 1440", "875 F.2d 1369", "924 F.2d 1484", "93 Wn.2d 757"]
 ---
 
 # Murray Publishing Co. v. Malmquist
