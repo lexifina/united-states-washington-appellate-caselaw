@@ -1,0 +1,48 @@
+---
+court: "Washington Court of Appeals"
+docket: "2173-3"
+decided: "1977-09-28"
+citations: ["18 Wash. App. 525"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Green and McInturff, JJ., concur."]
+parties: ["The State of Washington, Appellant, v. Alan Dailey, Respondent."]
+source_url: "https://static.case.law/wash-app/18/cases/0525-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 471728
+cites_cases: ["356 F.2d 680", "385 U.S. 857", "401 U.S. 911", "433 F.2d 1113", "434 F.2d 391", "442 F.2d 542", "540 P.2d 1370", "550 P.2d 536", "557 P.2d 847", "85 Wn.2d 935", "87 S. Ct. 105", "87 Wn.2d 139", "87 Wn.2d 870", "91 S. Ct. 875"]
+---
+
+# State v. Dailey
+
+## Majority (Munson, C.J.)
+
+Munson, C.J.
+The State appeals an order dismissing two counts of forgery charged against defendant, Alan Dailey. We affirm.
+On September 20, 1976, an information was filed in Okanogan County charging the defendant with one count of forgery. On October 25, 1976, the information was amended adding two counts to the original count charged. This amended information charged the defendant with forging three checks on the account of J. N. Orchards, designating the defendant as the payee and signing the name Jack F. Nickell. The allegedly forged checks were as follows: August 31, 1976, $132; August 28, 1976, $133.50; October 10, 1976, $152. The defendant was tried on October 26, 1976, and found not guilty by a jury of these three counts.
+On October 27, 1976, an information was filed charging the defendant with two counts of forgery, alleging the defendant had forged two more checks on which he was designated as the payee and the name Jack F. Nickell was forged. This information charged the defendant with forging the check September 3, 1976, in the amount of $71.40 on the same checking account as the earlier information. The second count charged the defendant with forging a check to the Nickell Orchards account on September 13, 1976, in the amount of $465. The prosecuting attorney had apparently received these additional checks on October 19 and had given copies to the defense attorney on that date.
+The issue raised is whether the trial court properly dismissed the second information on the grounds that the alleged forgeries were "related offenses" when compared with the forgeries charged in the first information.
+CrR 4.3 provides in relevant part:
+(a) Joinder of Offenses. Two or more offenses may be joined in one charge, with each offense stated in a separate count, when the offenses, whether felonies or misdemeanors or both:
+(1) are of the same or similar character, even if not part of a single scheme or plan; or
+(c) Failure to Join Related Offenses.
+(1) Two or more offenses are related offenses, for purposes of this rule, if they are within the jurisdiction and venue of the same court and are based on the same conduct.
+(3) A defendant who has been tried for one offense may thereafter move to dismiss a charge for a related offense, unless a motion for joinder of these offenses was previously denied or the right of joinder was waived as provided in section (b). The motion to dismiss must be made prior to the second trial, and shall be granted unless the court determines that because the prosecuting attorney was unaware of the facts constituting the related offense or did not have sufficient evidence to warrant trying this offense at the time of the first trial, or for some other reason, the ends of justice would be defeated if the motion were granted.
+The State, adopting the rationale underlying double jeopardy, contends that the offenses charged in the second information are not "related offenses" requiring joinder under CrR 4.3. The State's reliance upon the double jeopardy rationale is improper; CrR 4.3 does not deal with double jeopardy or res judicata problems. Approved draft of ABA Standards Relating to Joinder and Severance § 1.3, at 18-19 (1968).
+The offenses charged in both informations are related in that they are both within the jurisdiction and venue of the same court. Therefore, the issue to. be determined is whether those offenses are based upon the same conduct. CrR 4.3(c)(1).
+CrR 4.3(a)(1) allows for joinder of offenses if the offenses "are of the same or similar character, even if not part of a single scheme or plan; ..." The ABA Standards in explaining and discussing this section of the rule state:
+For example, it has been held that several housebreak-ings at different times and places could be joined, . . . and that charges of sodomy on A, sodomy on B the following year, and contributing to the delinquency of C another year later could be joined, . . .
+(Citations omitted.) Approved draft of ABA Standards Relating to Joinder and Severance § 1.1(a), at 11 (1968).
+On each of the five counts of forgery, the allegedly forged signature was that of Jack F. Nickell, the defendant was designated as the payee, and, with the exception of the September 13 check, all the checks were charged to the same account. Consequently, it would appear that the alleged forgery of the five checks involved conduct of "the same or similar character," although not necessarily constituting a single scheme or plan. The judicial interpretation of the similar federal rule provides further support that the five counts of forgery dealt with offenses of the same or similar character and were, therefore, related offenses. See Bradley v. United States, 433 F.2d 1113, 1116 (D.C. Cir. 1969), wherein the court ruled that two housebreakings occurring within 9 days were properly joined in a two-count indictment as '"offenses * * of the same or similar character'"; and Johnson v. United States, 356 F.2d 680 (8th Cir.), cert. denied, 385 U.S. 857, 87 S. Ct. 105 (1966), wherein the court ruled that joinder of five counts of violation of the Mann Act arising from the transportation of females across state lines at different times between December 1962 and April 1963 were properly joined. The court stated:
+[Jjoinder of offenses is ordinarily appropriate where, as here, the specific counts refer to the same type of offenses, occurring over a relatively short period of time, and the evidence as to each count of necessity overlaps.
+Johnson v. United States, supra at 682; accord, United States v. Skillman, 442 F.2d 542 (8th Cir. 1971); United States v. McKuin, 434 F.2d 391 (8th Cir. 1970), cert. denied, 401 U.S. 911, 91 S. Ct. 875 (1971).
+In the alternative, the State contends that if the offenses charged in the October 27 information were related offenses to those charged in the October 25 information, the former offenses were within the exception that dismissal is not required when the prosecuting attorney has insufficient evidence to warrant trial at the time of the first trial. This contention is without merit.
+The prosecuting attorney received the checks which were the basis for the second information on October 19, 1976. The trial for the forgery counts charged in the first information was set for October 26. The State contends that because of its busy schedule, including a trial in Vancouver, the handwriting expert probably would have been unable to examine the two new checks before the October 26 court date. Since the expert examined the defendant's handwriting exemplar between October 22 and the trial of October 25, he should have had adequate time to examine the two additional checks between October 19 and October 26, particularly since the name allegedly forged on all the checks was the same. The fact that the September 13 check was drawn on a different account should have presented no major problem in procuring evidence; the State would have merely been required to obtain the additional records from the bank regarding that account. The facts of this case do not justify the State's failure to join the two counts charged in the second information under the exception to CrR 4.3(c)(3).
+In light of the mandatory nature of the rule, the trial court properly granted dismissal. CrR 4.3(c)(3); approved draft of ABA Standards Relating to Joinder and Severance § 1.3(c) (1968).
+We affirm.
+Green and McInturff, JJ., concur.
+In the absence of any Washington cases interpreting this rule, it is appropriate to resort to the ABA Standards on this rule. See State v. Striker, 87 Wn.2d 870, 557 P.2d 847 (1976); State v. Parmele, 87 Wn.2d 139, 550 P.2d 536 (1976); and State v. Elizondo, 85 Wn.2d 935, 540 P.2d 1370 (1975). There is an evident similarity between CrR 4.3 and the ABA Standards Relating to Joinder and Severance §§ 1.1-1.3 (1968).
+"[T]he purpose of this section of the standards is to protect defendants from 'successive prosecutions based upon essentially the same conduct, whether the purpose in so doing is to hedge against the risk of an unsympathetic jury at the first trial, to place a "hold” upon a person after he has been sentenced to imprisonment, or simply to harass by multiplicity of trials.'” Approved draft of ABA Standards Relating to Joinder and Severance 19 (1968).
+The September 13 check was on the account of Nickell Orchards, an account apparently involving the same party.
+"(a) Joinder of Offenses. Two or more offenses may be charged in the same indictment or information in a separate count for each offense if the offenses charged, whether felonies or misdemeanors or both, are of the same or similar character or are based on the same act or transaction or on two or more acts or transactions connected together or constituting parts of a common scheme or plan." Fed. R. Crim. P. 8.
