@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46206-7-I"
 decided: "2002-05-13"
-citations: ["112 Wash. App. 40", "111 Wash. App. 1036"]
+citations: ["112 Wash. App. 40"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Raul Medina, Appellant."]
 source_url: "https://static.case.law/wash-app/112/cases/0040-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719160
-cites_cases: ["106 Wn. App. 1004", "108 Wn. App. 894", "112 Wn. App. 40", "114 Wn.2d 713", "116 Wn.2d 51", "123 Wn.2d 467", "135 Wn.2d 97", "137 Wn.2d 533", "141 Wn.2d 468", "144 Wn.2d 665", "147 Wn.2d 1025", "30 P.3d 1245", "34 P.3d 241", "391 U.S. 123", "481 U.S. 200", "523 U.S. 185", "6 P.3d 1160", "621 P.2d 143", "662 P.2d 853", "72 Wn. App. 85", "79 Wn. App. 518", "790 P.2d 154", "804 P.2d 577", "863 P.2d 594", "869 P.2d 392", "903 P.2d 500", "94 Wn.2d 860", "954 P.2d 900", "973 P.2d 1049", "99 Wn.2d 413"]
+cites_cases: ["106 Wn. App. 1004", "108 Wn. App. 894", "114 Wn.2d 713", "116 Wn.2d 51", "123 Wn.2d 467", "135 Wn.2d 97", "137 Wn.2d 533", "141 Wn.2d 468", "144 Wn.2d 665", "147 Wn.2d 1025", "30 P.3d 1245", "34 P.3d 241", "391 U.S. 123", "481 U.S. 200", "523 U.S. 185", "6 P.3d 1160", "621 P.2d 143", "662 P.2d 853", "72 Wn. App. 85", "79 Wn. App. 518", "790 P.2d 154", "804 P.2d 577", "863 P.2d 594", "869 P.2d 392", "903 P.2d 500", "94 Wn.2d 860", "954 P.2d 900", "973 P.2d 1049", "99 Wn.2d 413"]
 ---
 
 # State v. Medina
