@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48933-0-I"
 decided: "2002-09-16"
-citations: ["114 Wash. App. 170", "113 Wash. App. 1038"]
+citations: ["114 Wash. App. 170"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Dale Cramm, Appellant."]
 source_url: "https://static.case.law/wash-app/114/cases/0170-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 163332
-cites_cases: ["114 Wn. App. 170", "143 Wn.2d 267", "19 P.3d 1030"]
+cites_cases: ["143 Wn.2d 267", "19 P.3d 1030"]
 ---
 
 # State v. Cramm
