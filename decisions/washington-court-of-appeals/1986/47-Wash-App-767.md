@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15797-3-I"
 decided: "1986-10-20"
-citations: ["47 Wash. App. 767", "45 Wash. App. 1033"]
+citations: ["47 Wash. App. 767"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The Southcenter View Condominium Owners' Association, et al, Appellan
 source_url: "https://static.case.law/wash-app/47/cases/0767-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1836085
-cites_cases: ["157 P.2d 728", "16 Wn. App. 39", "206 Cal. App. 2d 386", "22 Wn.2d 863", "23 Cal. Rptr. 851", "277 Minn. 117", "288 F.2d 30", "325 F.2d 107", "370 P.2d 867", "416 F.2d 540", "47 Wn. App. 767", "484 P.2d 380", "544 P.2d 20", "554 P.2d 349", "59 Wn.2d 811", "6 A.L.R.3d 1190", "6 A.L.R.3d 1197", "79 Wn.2d 184", "83 A.L.R.3d 680", "86 F. Supp. 565", "86 Wn.2d 256", "98 N.Y.S.2d 610"]
+cites_cases: ["157 P.2d 728", "16 Wn. App. 39", "206 Cal. App. 2d 386", "22 Wn.2d 863", "23 Cal. Rptr. 851", "277 Minn. 117", "288 F.2d 30", "325 F.2d 107", "370 P.2d 867", "416 F.2d 540", "484 P.2d 380", "544 P.2d 20", "554 P.2d 349", "59 Wn.2d 811", "6 A.L.R.3d 1190", "6 A.L.R.3d 1197", "79 Wn.2d 184", "83 A.L.R.3d 680", "86 F. Supp. 565", "86 Wn.2d 256", "98 N.Y.S.2d 610"]
 ---
 
 # Southcenter View Condominium Owners' Ass'n v. Condominium Builders, Inc.
