@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52871-8-I"
 decided: "2005-02-07"
-citations: ["129 Wash. App. 599", "125 Wash. App. 1033"]
+citations: ["129 Wash. App. 599"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Randall L. Clare, as Personal Representative, Appellant, v. Saberhage
 source_url: "https://static.case.law/wash-app/129/cases/0599-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3682256
-cites_cases: ["103 Wn.2d 344", "105 P. 156", "107 Wn.2d 761", "110 Wn.2d 912", "112 Wn.2d 193", "118 Wn.2d 737", "118 Wn.2d 753", "129 Wn. App. 599", "136 Wn.2d 87", "143 Wn.2d 206", "155 Wn.2d 1012", "18 P.3d 576", "349 P.2d 605", "42 Wn. App. 204", "55 Wn.2d 678", "56 Wash. 120", "598 P.2d 1358", "60 Wn. App. 107", "60 Wn. App. 273", "656 P.2d 1030", "663 P.2d 473", "693 P.2d 687", "70 Wn. App. 360", "709 P.2d 822", "733 P.2d 530", "757 P.2d 507", "760 P.2d 348", "770 P.2d 1027", "802 P.2d 826", "803 P.2d 54", "826 P.2d 200", "826 P.2d 690", "853 P.2d 484", "92 Wn.2d 507", "960 P.2d 912", "98 Wn.2d 434", "99 Wn.2d 550"]
+cites_cases: ["103 Wn.2d 344", "105 P. 156", "107 Wn.2d 761", "110 Wn.2d 912", "112 Wn.2d 193", "118 Wn.2d 737", "118 Wn.2d 753", "136 Wn.2d 87", "143 Wn.2d 206", "155 Wn.2d 1012", "18 P.3d 576", "349 P.2d 605", "42 Wn. App. 204", "55 Wn.2d 678", "56 Wash. 120", "598 P.2d 1358", "60 Wn. App. 107", "60 Wn. App. 273", "656 P.2d 1030", "663 P.2d 473", "693 P.2d 687", "70 Wn. App. 360", "709 P.2d 822", "733 P.2d 530", "757 P.2d 507", "760 P.2d 348", "770 P.2d 1027", "802 P.2d 826", "803 P.2d 54", "826 P.2d 200", "826 P.2d 690", "853 P.2d 484", "92 Wn.2d 507", "960 P.2d 912", "98 Wn.2d 434", "99 Wn.2d 550"]
 ---
 
 # Clare v. Saberhagen Holdings, Inc.
