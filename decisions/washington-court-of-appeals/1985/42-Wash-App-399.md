@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "15013-8-I"
+decided: "1985-12-23"
+citations: ["42 Wash. App. 399"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Terence Phillip Smith, Appellant."]
+source_url: "https://static.case.law/wash-app/42/cases/0399-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1804084
+cites_cases: ["101 Wn.2d 1011", "30 Wn. App. 653", "36 Wn. App. 428", "36 Wn. App. 560", "638 P.2d 89", "675 P.2d 1250", "675 P.2d 626"]
+---
+
+# State v. Smith
+
+## Majority (Coleman, J.)
+
+Coleman, J.
+—On November 18, 1983, appellant Terence Smith entered a plea of guilty to the charge of burglary in the second degree. The trial court deferred imposition of sentence and ordered appellant to pay restitution to the burglary victims.
+On May 31, 1984, the court held a hearing on restitution. The prosecution presented figures to the court which reflected the losses caused by the burglary. Defense counsel only contested the figures representing amounts paid by two insurance companies to the insured burglary victims. He argued that the figures submitted by the insurance companies represented the cost (approximately $3,904) of replacing the stolen used property with new property. According to appellant, under subrogation principles, the insurer's recovery by way of restitution could not exceed the amount recoverable by the insured in an action for conversion, i.e., the fair market value of the goods (approximately $1,100).
+The trial court rejected these arguments and ordered full restitution of the losses suffered by the insurance companies ($3,903.56). Smith then appealed to this court.
+We must consider whether the trial court erred in calculating restitution to be paid to the insurers on the basis of the replacement cost, rather than the fair market value, of the stolen items.
+Appellant contends the trial court erred when it ordered him to pay restitution in an amount greater than the fair market value of the stolen items. He argues that (1) the insurance companies of the victims are entitled to restitution only on the basis of subrogation; (2) an insurance company seeking subrogation has only those rights which its insured would have against the person who damaged the insured; (3) the insured in this case had a potential claim for conversion; (4) the measure of damages for conversion is the fair market value at the time the property was taken; (5) and, therefore, the insurance company could recover only the fair market value, not the replacement cost, of the items stolen and later recovered and sold by the insurer.
+On the other hand, the State contends that (1) restitution orders rest in the discretion of the trial court; (2) restitution should make victims whole and provide deterrents and rehabilitation; (3) an insurer is a "damaged" victim for purposes of restitution; and (4) the trial court did not abuse its discretion in making the insurer whole by ordering restitution equal to the insurer's loss. The State correctly points out that " [u]nder RCW 9.92.060, the trial court has the discretion to order restitution be paid to 'any person or persons who may have suffered loss or damage'." State v. Barnett, 36 Wn. App. 560, 562, 675 P.2d 626, review denied, 101 Wn.2d 1011 (1984). Therefore, this court may reverse only if the trial court abused its discretion in ordering restitution. State v. Mark, 36 Wn. App. 428, 433, 675 P.2d 1250 (1984).
+The State relies principally on the recent opinion of this court in State v. Barnett, supra. The Barnett court held that, for purposes of restitution in criminal cases, insurers are "damaged" when they are required to pay claims because of crimes such as burglary. The court concluded that the trial court did not abuse its discretion in ordering restitution to the victim's insurer. Barnett, at 562-63. Though appellant Smith concedes that insurers may be recipients of restitution, he argues that the Barnett court did not consider the more narrow issue of whether restitution to an insurer may be based on the replacement value, instead of the market value, of stolen goods. According to appellant, the Barnett court upheld restitution to the insurer in that case under the principles of subrogation. However, as the following quotation shows, the Barnett court did not base its decision on subrogation principles, and only mentioned subrogation as an additional reason for allowing restitution to insurance companies:
+Under RCW 9.92.060, the trial court has the discretion to order restitution be paid to "any person or persons who may have suffered loss or damage". For purposes of this statute, corporations are persons. RCW 9A.04-.110(17). Giving the word "damage" its ordinary and usually accepted meaning, we hold that insurance companies are damaged when they are required to pay claims because of crimes such as burglary. Further, insurance companies which pay claims to an insured because of loss suffered from burglary or theft can be said to have suffered a loss under the principles of subrogation. "[T]he insurer as subrogee, in contemplation of law, stands in the place of the insured . . ." 44 Am. Jur. 2d Insurance § 1795, at 786 (2d ed. 1982). Accordingly, we hold that the trial court had the discretion under RCW 9.92.060 to order restitution be paid to the victims' insurers.
+(Italics ours.) Barnett, at 562. This passage clearly shows that the Barnett court allowed restitution to the insurer not because of its right to subrogation, but because the insurer, like the insured burglary victim, was "damaged" by the defendant's act. Since one of the purposes of restitution is to provide reparation to victims, State v. Rogers, 30 Wn. App. 653, 657, 638 P.2d 89 (1981), and since Barnett clearly holds that insurers are victims, then trial courts have discretion to order restitution in the full amount paid out by insurance companies.
+Whether the amount of restitution ordered in a particular case constitutes an abuse of discretion depends on a number of factors, including the ability of the defendant to pay the amount ordered. In the instant case, appellant has not cited any facts or factors indicating that the trial court abused its discretion. Furthermore, the court's order allows for future modification in the event that appellant is unable to make restitution.
+The trial court's restitution order is affirmed.
+Ringold and Webster, JJ., concur.
+Review denied by Supreme Court February 21, 1986.
+The stolen property included tools, supplies, a cashbox, a table saw, a chop saw, other power tools, etc.
+Although the court's decision in State v. Barnett, 36 Wn. App. 560, 562, 675 P.2d 626, review denied, 101 Wn.2d 1011 (1984) was based on the language contained in RCW 9.92.060, the crucial language regarding restitution is identical to the language contained in RCW 9.95.210 (the statute followed in the present case).
