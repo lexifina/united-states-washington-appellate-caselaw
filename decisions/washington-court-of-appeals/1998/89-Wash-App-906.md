@@ -1,0 +1,124 @@
+---
+court: "Washington Court of Appeals"
+docket: "38465-1-I"
+decided: "1998-02-17"
+citations: ["89 Wash. App. 906"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Buckner, Inc., Appellant, v. Berkey Irrigation Supply, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/89/cases/0906-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 395277
+cites_cases: ["106 Wn.2d 1017", "107 Wn.2d 468", "109 P.2d 542", "119 Wn.2d 273", "121 Wn.2d 366", "124 Wn.2d 789", "132 Wn.2d 1011", "132 Wn.2d 484", "135 A.L.R. 1367", "136 Wn.2d 1020", "273 P.2d 652", "410 P.2d 594", "437 P.2d 693", "44 Wn. App. 32", "45 Wn.2d 158", "521 P.2d 1181", "523 F.2d 668", "551 P.2d 740", "60 Wn. App. 921", "62 Wn. App. 495", "67 Wn.2d 867", "7 Wn.2d 341", "72 Wn. App. 232", "721 P.2d 18", "73 Wn.2d 203", "730 P.2d 662", "77 Wn. App. 366", "808 P.2d 1150", "814 P.2d 1219", "82 Wn. App. 209", "821 P.2d 1235", "83 Wn.2d 714", "830 P.2d 668", "84 Wn. App. 586", "849 P.2d 1225", "85 Wn. App. 123", "864 P.2d 9", "87 Wn.2d 253", "88 Wn. App. 712", "881 P.2d 1020", "890 P.2d 1092", "917 P.2d 590", "929 P.2d 500", "935 P.2d 620", "939 P.2d 691", "94 F.3d 1428", "946 P.2d 413"]
+---
+
+# Buckner, Inc. v. Berkey Irrigation Supply
+
+## Majority (Cox, J.)
+
+Cox, J.
+Buckner, Inc., appeals the trial court’s judgment on the jury verdict and for attorney fees in favor of Berkey Irrigation Supply and its guarantors. Berkey cross-appeals, challenging the timeliness of Buckner’s appeal, the denial of Berkey’s motions for judgment as a matter of law, and certain evidentiary rulings by the court. We reverse and remand with directions.
+Buckner is a California manufacturer of irrigation equipment and supplies. Berkey is a Washington wholesale distributor and retailer. In July 1992, Buckner and Berkey entered into two.written distributorship agreements under which Berkey agreed to purchase, promote, and sell Buckner irrigation equipment. A few months later, Edward and Nathan Berkey signed a “Continuing Guarantee.” The terms of the document provided that the Berkeys unconditionally guaranteed all indebtedness of Berkey to Buckner under the distributorship agreements.
+Thereafter, Berkey purchased equipment wholesale from Buckner. Several of Berkey’s retail customers discovered defects in the Buckner products. Berkey paid for some of the equipment, returned other items for a full refund, and resold some of the equipment.
+In August 1993, Buckner’s records showed that Berkey’s unpaid principal balance for purchased products was $133,323.05. In early 1994, Buckner brought this action against Berkey and its guarantors for the unpaid principal balance, late fees, and attorney fees. Berkey counterclaimed for damages allegedly incurred as a result of products it claimed were defective.
+Prior to trial, the court imposed sanctions against Buckner because of its failure to timely comply with discovery requests. The sanctions precluded Buckner from presenting at trial either certain documentary evidence or two of its primary witnesses. But the order did not preclude Buckner from presenting any other witnesses. For reasons that are not clear from the record, Buckner chose to put on its case in chief through Morris and Nathan Berkey rather than through representatives of Buckner.
+At the close of Buckner’s case, Berkey moved for judgment as a matter of law. Berkey renewed the motion at the close of its own case. The court denied both motions.
+The jury returned a verdict, the particulars of which we shall discuss more fully later in this opinion. Neither party objected to the form of the jury’s verdict when it was announced in open court. The judge accepted the verdict.
+After the court accepted the jury verdict, Berkey moved for judgment as a matter of law. The court denied the motion.
+Based on its reading of the jury verdict and additional evidence that it took after the verdict, the court entered its judgment on February 16, 1996. In addition to amounts calculated from the jury verdict form, the judgment also included an award of attorney fees to Berkey. The court awarded fees because the amount of the jury verdict, as interpreted by the court, was less than an offer of judgment under CR 68 that Berkey made to Buckner prior to trial.
+Buckner timely filed and served its motion for reconsideration of the judgment, but it did not note the motion for hearing. The court denied the motion in an order filed March 12, 1996.
+Buckner filed its notice of appeal of the judgment on April 9, 1996, and Berkey cross-appealed.
+I. TIMELINESS OF APPEAL
+We must first address a jurisdictional issue that Berkey raises by its motion to dismiss this appeal. Berkey argues that Buckner’s failure to note its motion for reconsideration when it timely filed and served that motion rendered the motion ineffective to extend the time to file Buckner’s notice of appeal. Thus, according to Berkey, the time to appeal ran from the date of entry of the judgment, not the date of entry of the order denying the motion for reconsideration. We disagree and hold that the appeal was timely.
+The application of court rules to a particular set of facts is a question of law that we review de novo. A necessary prerequisite to appellate jurisdiction is the timely filing of the notice of appeal. An appellant generally has 30 days from the entry of judgment to file its appeal. But, read together, RAP 5.2(a) and RAP 5.2(e) permit the notice of appeal of a judgment to be filed within 30 days of an order deciding certain timely motions. These motions are expressly limited to
+a motion for arrest of judgment under CrR 7.4, a motion for new trial under CrR 7.6, a motion for judgment as a matter of law under CR 50(b), a motion to amend findings under CR 520b), a motion for reconsideration or new trial under CR 59, and a motion for amendment of judgment under CR 59.[]
+In such event, RAP 5.2(e) permits the notice of appeal to be filed within 30 days of the order deciding the motion.
+A motion for reconsideration under CR 59(b) is one of the motions specified in RAP 5.2(e). CR 59(b) establishes the time limits for a motion for reconsideration:
+A motion for a new trial or for reconsideration shall be served and filed not later than 10 days after the entry of the judgment. The motion shall be noted at the time it is filed, to be heard or otherwise considered within 30 days after the entry of judgment unless the court directs otherwise.[]
+Buckner filed and served its motion for reconsideration of the February 16, 1996 judgment on February 23, 1996. That was within 10 days of the entry of judgment. But Buckner did not note the matter for hearing at that time. Berkey moved to strike the motion for reconsideration on the basis of this failure. Berkey also submitted a brief in opposition to the motion for reconsideration.
+The court considered the motion to strike without oral argument and denied it. It likewise considered without oral argument the motion for reconsideration and denied it in an order filed March 12, 1996. Buckner filed its notice of appeal on April 9, 1996, 28 days after the order denying its motion for reconsideration.
+We must resolve the narrow question of whether failing to note a CR 59 motion at the time that it is timely served and filed makes the motion itself untimely and thus ineffective to extend the time under RAP 5.2(e) to file a notice of appeal.
+Berkey relies heavily on Schaefco, Inc. v. Columbia River Gorge Comm’n. There, the appellant filed, but did not serve, its motion for reconsideration within the 10-day time period specified in CR 59(b). Our Supreme Court concluded that the failure to serve the motion within the 10-day limit rendered it untimely. Thus, the motion was ineffective to “extend the 30-day limit for filing the notice of appeal.” Because Schaefco had not provided adequate reason for failing to timely serve its motion on the defendant, the court held that dismissal was warranted under RAP 18.8(b).
+Here, in contrast, Buckner timely served and filed the motion. Thus, Buckner’s actions are consistent with the holding of Schaefco regarding timely service and filing. Schaefco did not address the question of the effect of the failure to note the motion. Because noting, not service or filing, is the issue presented here, reliance on that case is misplaced.
+The other case on which Berkey relies, Jankelson v. Lynn Constr., Inc., is also of no assistance. There, the court found that MAR 7.1(a) was not ambiguous on the service and filing of a request for a trial de novo. The rule clearly stated that such a request was timely only when both service and filing were accomplished within 20 days. In contrast, CR 59(b) is ambiguous on what the effect the failure to note a CR 59 motion has on either the motion itself or the time to appeal.
+No Washington appellate case addresses the CR 59(b) noting requirement or its effect either on the timeliness of a motion for reconsideration or the extension of time to appeal. Similarly, no court rule provides a clear answer to the question presented here.
+When interpreting court rules promulgated by our Supreme Court, we use ordinary rules of statutory construction. In general, court rules “contain a preference for deciding cases on their merits rather than on procedural technicalities.” Moreover, in construing court rules, we seek to avoid absurd results. The rules of court were “designed to operate in conjunction with one another and not to require meaningless and useless duplication.” In interpreting a rule, we strive to be faithful to the language and policy of both the individual rule at issue and the rules as a whole. Because both CR 59(b) and RAP 5.2(e) relate to the timeliness of an appeal, they must be read in pari materia.
+First, when RAP 5.2(e) is read together with CR 59(b), it appears that the noting requirement of the latter rule has no bearing on the timeliness of an appeal under the former rule. There are six types of motions designated in RAP 5.2(e). All are initiated in the trial court by a party in the relevant civil or criminal proceeding. The civil and criminal rules expressly prohibit the trial court from extending the time for making any of these motions. All motions are made by timely service and filing of the motion. Only CR 59 includes the additional requirement for noting the motion at the time it is served and filed.
+We believe it is unlikely that the Supreme Court intended the noting requirement of CR 59(b) to be an additional bar to obtaining an extension of the time to appeal under RAP 5.2(e). There is no such additional bar to extending the time for appeal for any of the other five types of motions designated by the rule. And we cannot think of any sound rationale for distinguishing a CR 59(b) motion from the others designated in the rule for the purpose of extending the time to appeal.
+Second, our conclusion is buttressed by commentary on the origins of the “noting” requirement. The requirement was added to the rule in 1989. In Washington Practice, Or-land and Tegland state that the requirement was intended to:
+reach situations in which a motion for new trial is made after judgment, but then remains unattended to because it is not noted for hearing and consideration. Under prior practice, there was no clear indication of how to get a motion made after judgment disposed of.[]
+Noting the motion thus primarily serves to prompt the court to hear or consider the motion. But the ultimate timing of the court’s consideration of the motion is at the court’s discretion. Nowhere is there any suggestion that the failure to timely note the motion deprives the trial court of the power to hear and decide it. Likewise, nowhere is there any suggestion that an appellate court may be deprived of jurisdiction to hear an appeal because the matter was not timely noted in the trial court.
+Third, under the facts of this case, Buckner’s failure to note the motion had no effect on the court’s hearing and deciding the motion within the 30-day time limitation of CR 59(b). Moreover, failure to note the motion did not prejudice Berkey in any way.
+Buckner timely served and filed its motion for reconsideration. Berkey submitted briefing in opposition to the motion. The court considered and decided the motion within 30 days of its filing. And Buckner filed its notice of appeal within 30 days of the court’s order denying the motion. It would be a true triumph of form over substance to hold that the purposes of CR 59(b) were not fulfilled under these facts. This is particularly so because Berkey has not suggested that it was prejudiced by the failure to note the motion. The motion for reconsideration was timely served, filed, and resolved.
+We hold that a timely served and filed motion for reconsideration satisfies the requirements of RAP 5.2(e) and extends the time limit for filing the notice of appeal. The failure to note the motion at the time it is served and filed does not affect the extension of time for appeal under RAP 5.2(e). This appeal was timely, and we have jurisdiction to decide it.
+II. LIQUIDATED SUM
+In its reply brief, Buckner concedes that, under Mall Tool, prejudgment interest should have been applied to the net amount remaining after deducting from the unpaid principal balance owed to Buckner ($133,323.05) the offset for defective products ($65,161.00). Both of these amounts are expressly stated in the jury verdict. But Buckner contests the propriety of the additional deduction of the $29,003.33 amount that the court calculated after the jury verdict before applying prejudgment interest.
+We must decide what deductions were proper to reach the liquidated sum to which prejudgment interest should have been applied. Because this is a question of law, we review it de novo.
+The award of prejudgment interest is based on the public policy that a person retaining money belonging to another should pay interest on that sum to compensate for the loss of the money’s “use value.” Prejudgment interest is properly awarded when an amount claimed is “liquidated.” A sum is liquidated if it is readily and precisely determinable without reliance on opinion or discretion. A dispute over the amount owed does not make a claim unliquidated.
+Deducting unliquidated offsets from a liquidated claim prior to calculating prejudgment interest is normally improper. One narrow exception exists, however, under which interest must be calculated on the balance remaining after subtracting an unliquidated offset. This exception to the general rule applies only when the defendant’s counterclaim arises out of the same contract as the plaintiff’s claim and is a result of defective workmanship or other defective performance by the plaintiff. In such a case, the plaintiff is properly denied interest on the sum representing its defective performance, since it was not deprived of any “use value” of that sum by the defendant’s default.
+Here, the jury had before it documentary evidence that Berkey owed Buckner an unpaid principal balance of $133,323.05. The jury also heard evidence that Berkey had a counterclaim against Buckner for allegedly defective product. On the basis of the conflicting evidence, the jury returned a verdict that stated as follows:
+We, the jury, find for the plaintiff in the sum of $133,323.05 with zero ($0%) [sic] interest or late charge less any Buckner product Berkey Irrigation Supply wishes to return to Buckner Inc., defective or otherwise within the next six months against the defendants, and an offset against the plaintiff in favor of the defendants in the sum of $65,161.00.[ ]
+The record clearly shows that the jury did not resort to opinion or exercise discretion in arriving at the $133,323.05 amount in favor of Buckner in its verdict. Thus, that sum is liquidated.
+It is equally clear from the record that the jury exercised discretion in calculating the $65,161.00 offset for defective workmanship in its verdict. Unlike the unpaid balance on Berkey’s account with Buckner, the offset amount was the result of the evaluation of conflicting evidence of what, if any, damages should be awarded on the counterclaim. Thus, the damages offset was an unliquidated sum. Because this offset arose under the same contract on which Buckner sued and resulted from Buckner’s faulty performance of its obligations, it falls within the Mall Tool exception. The court properly deducted it from the judgment before applying interest.
+Buckner argues that the court erred in calculating the judgment by making a further deduction from the $133,323.05. The portion of the judgment to which Buckner objects is that based on the value of goods, “defective or otherwise,” that Berkey might return to Buckner within the six-month period after the verdict. We agree that the court erred in this respect.
+After the court accepted the jury verdict, Berkey submitted its declaration stating the value of Buckner product that remained in Berkey’s inventory, product that Berkey contended that it wished to return. The declaration stated that the $29,003.33 total value was calculated on the basis of the original purchase prices from Buckner. It made no distinction between defective and satisfactory product.
+At the January 23, 1996 hearing, the court expressly stated that it would treat this product as a second offset. The court further ruled that it would not limit returned product to that which was defective. The court entered its judgment on the jury verdict in February 1996. The judgment stated, in relevant part, as follows:
+IT IS HEREBY ORDERED, ADJUDGED AND DECREED, that plaintiff is awarded judgment in the sum of $133,323.05, with no interest or late charge up to the point of judgment, against all defendants; and
+. . . that defendants are awarded a setoff judgment in the sum of $65,161.00 against the plaintiff; and
+. . . that the defendants are awarded a setoff judgment in the sum of $29,003.33 against [plaintiff] which represents credit to defendants, at the invoiced amount, for returning to plaintiff products purchased from plaintiff, defective or otherwise, which defendants now have in their possession[]
+The court then deducted Berkey’s two “setoffs” from Buckner’s judgment of $133,323.05. The court applied prejudgment interest to this net amount.
+It is clear that the Mall Tool exception is a narrow one. Only unliquidated sums for defective product or performance may be deducted from a liquidated sum for the purpose of calculating prejudgment interest. Although Berkey argues in its brief that the product to be returned was defective and thus within the rule of Mall Tool, there is no evidence in the record to support that argument. Moreover, it conflicts with the trial court’s ruling that the returned product would be treated as an offset whether or not it was defective.
+The $29,003.33 amount does not fall within the limited exception set forth in Mall Tool, and the court erred in deducting it as an additional offset prior to applying prejudgment interest.
+Berkey argues that Wright v. Safeway Stores required the court to give effect to the jury’s verdict by deducting the value of all goods to be returned prior to calculating prejudgment interest. Wright does not require that result in this case.
+In Wright, our Supreme Court stated that courts should strive to implement the jury’s intent, if that intent is in accord with the law:
+In the construction of a verdict, the first object is to learn the intent of the jury, and when this can be ascertained, such effect should be given to the verdict, if consistent with legal principles, as will most nearly conform to the intent. The jury’s intent is to be arrived at by regarding the verdict liberally, with the sole view of ascertaining the meaning of the jury, and not under the technical rules of construction which are applicable to pleadings.[]
+Where the effect of a jury’s verdict is inconsistent with applicable law, the court is not free to implement that jury’s intent.
+For the purposes of our analysis, we assume that the jury could have intended that the product to be returned, whether or not defective, be treated as an offset. But such an intention is inconsistent with the established legal principles announced in Mall Tool, as discussed above. Only the value of defective product may be deducted from a liquidated amount. The evidence that was before the jury when it rendered this portion of its verdict does not show whether all or any of the product was defective. The court thus erred in implementing this portion of the jury’s verdict in the judgment.
+In any event, the more reasonable interpretation of the jury verdict is that the value of the returns was intended as a credit toward the judgment, rather than as a further deduction to be made in arriving at the judgment. The jury gave Berkey the option to pay part of the amount it owed Buckner in returned goods, and the rest in cash. Permitting such a credit for returns does not affect the amount of the net judgment to which the court should have applied prejudgment interest.
+Buckner’s claim was liquidated. The court properly deducted the offset for defective goods, but erred in deducting the value of goods to be returned prior to calculating prejudgment interest.
+We reverse the judgment and remand for further proceedings that are consistent with this opinion.
+The remainder of this opinion has no precedential value and will not be published.
+Becker and Ellington, JJ., concur.
+Reconsideration denied March 23, 1998.
+Review denied at 136 Wn.2d 1020 (1998).
+State v. Branstetter, 85 Wn. App. 123, 127, 935 P.2d 620, review denied, 132 Wn.2d 1011 (1997).
+Deschenes v. King County, 83 Wn.2d 714, 716, 521 P.2d 1181 (1974); O’Neill v. Jacobs, 77 Wn. App. 366, 369, 890 P.2d 1092 (1995).
+RAP 5.2(a).
+RAP 5.2(a) provides, in part: “[A] notice of appeal must be filed in the trial court within the longer of. . . (2) the time provided in [RAF 5.2](e).”
+RAF 5.2(e) provides, in part: “A notice of appeal of orders deciding certain timely motions designated in this section must be filed in the trial court within (1) 30 days after the entry of the order [deciding the motion].”
+RAP 5.2(e) (emphasis added).
+(Emphasis added.)
+121 Wn.2d 366, 849 P.2d 1225 (1993).
+Schaefco, 121 Wn.2d at 367.
+Schaefco, 121 Wn.2d at 367.
+Schaefco, 121 Wn.2d at 368.
+Schaefco, 121 Wn.2d at 368.
+72 Wn. App. 232, 864 P.2d 9 (1993).
+State v. Blilie, 132 Wn.2d 484, 492, 939 P.2d 691 (1997); WESCO Distrib., Inc. v. M.A. Mortenson Co., 88 Wn. App. 712, 946 P.2d 413, 414 (1997).
+Vaughn v. Chung, 119 Wn.2d 273, 280, 830 P.2d 668 (1992).
+State v. Kelly, 60 Wn. App. 921, 927, 808 P.2d 1150 (1991).
+City of Seattle v. Crockett, 87 Wn.2d 253, 256, 551 P.2d 740 (1976).
+See Vaughn, 119 Wn.2d at 282.
+See Hall v. American Nat’l Plastics, Inc., 73 Wn.2d 203, 204, 437 P.2d 693 (1968); Symes v. Teagle, 67 Wn.2d 867, 874-75, 410 P.2d 594 (1966).
+Regarding the court’s authority to enlarge time limits specified in the rules, CR 6(b) provides, in part, “[B]ut [the court] may not extend the time for taking any action under rules 50(b), 52(b), 59(b), 59(d), and 60(b).” And CrR 8.1 states that “[t]ime shall be computed and enlarged in accordance with CR 6.”
+4 Lewis H. Okland & Karl B. Tegland, Washington Practice 671(1992).
+In re Marriage of Estes, 84 Wn. App. 586, 595, 929 P.2d 500 (1997) (noting that CR 59(b) grants trial court discretion to vary time of hearing).
+RAP 5.2(e).
+Mall Tool Co. v. Far W. Equip. Co., 45 Wn.2d 158, 273 P.2d 652 (1954).
+Driver Music Co. v. Commercial Union Ins. Cos., 94 F.3d 1428, 1433-34 (10th Cir. 1996).
+Hansen v. Rothaus, 107 Wn.2d 468, 473, 730 P.2d 662 (1986).
+PUD No. 1 v. International Ins. Co., 124 Wn.2d 789, 810, 881 P.2d 1020 (1994).
+PUD No. 1, 124 Wn.2d at 810.
+Hansen, 107 Wn.2d at 472.
+Mall Tool, 45 Wn.2d at 177.
+Mall Tool, 45 Wn.2d at 177. See also Jet Boats, Inc. v. Puget Sound Nat’l Bank, 44 Wn. App. 32, 40-41, 721 P.2d 18, review denied, 106 Wn.2d 1017 (1986).
+Mall Tool, 45 Wn.2d at 177.
+(Emphasis added, representing portions of verdict written in by the jury.)
+Flint v. Hart, 82 Wn. App. 209, 226, 917 P.2d 590 (1996) (calculation of claim depended on jury’s discretion and opinion of party’s expert witness).
+Westinghouse Elec. Corp. v. CX Processing Labs., Inc., 523 F.2d 668, 680 (9th Cir. 1975) (defendant’s refusal to pay and counterclaim was “directly related” to contract on which plaintiff sued, satisfying Mall Tool’s unitary contract requirement).
+(Emphasis added.)
+7 Wn.2d 341, 344, 109 P.2d 542, 135 A.L.R. 1367 (1941).
+Wright, 7 Wn.2d at 344.
+See Malarkey Asphalt Co. v. Wyborney, 62 Wn. App. 495, 510-11, 814 P.2d 1219, 821 P.2d 1235 (1991).
+RCW 2.06.040.
