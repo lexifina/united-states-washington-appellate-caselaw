@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9848-6-III"
 decided: "1990-06-07"
-citations: ["58 Wash. App. 443", "58 Wash. App. 1010"]
+citations: ["58 Wash. App. 443"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Billy Wayne Worl, Appellant."
 source_url: "https://static.case.law/wash-app/58/cases/0443-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754698
-cites_cases: ["100 L. Ed. 2d 934", "103 Wn.2d 1017", "105 Wn.2d 898", "106 Wn.2d 547", "108 S. Ct. 2834", "108 Wn.2d 1008", "108 Wn.2d 419", "108 Wn.2d 458", "108 Wn.2d 734", "109 Wn.2d 207", "11 Wn. App. 583", "110 Wn.2d 1033", "110 Wn.2d 32", "111 Wn.2d 1026", "112 Wn.2d 399", "114 Wn.2d 314", "114 Wn.2d 6", "115 Wn.2d 1022", "16 Wn. App. 348", "39 Wn. App. 1", "445 U.S. 684", "45 Wn. App. 893", "466 U.S. 291", "467 U.S. 1025", "486 U.S. 1061", "491 P.2d 1043", "50 Wn. App. 755", "509 P.2d 742", "51 Wn. App. 455", "512 P.2d 718", "524 P.2d 479", "53 Wn. App. 916", "55 Wn. App. 300", "555 P.2d 1375", "56 Wn. App. 915", "58 Wn. App. 443", "590 P.2d 809", "64 L. Ed. 2d 297", "662 P.2d 853", "691 P.2d 587", "719 P.2d 546", "723 P.2d 1111", "728 P.2d 1075", "739 P.2d 683", "740 P.2d 824", "743 P.2d 1237", "743 P.2d 210", "749 P.2d 160", "750 P.2d 632", "750 P.2d 664", "754 P.2d 687", "771 P.2d 1137", "771 P.2d 746", "777 P.2d 539", "785 P.2d 440", "786 P.2d 795", "788 P.2d 531", "80 Wn.2d 47", "82 Wn.2d 157", "82 Wn.2d 577", "84 Wn.2d 1012", "91 Wn.2d 603", "99 Wn.2d 413"]
+cites_cases: ["100 L. Ed. 2d 934", "103 Wn.2d 1017", "105 Wn.2d 898", "106 Wn.2d 547", "108 S. Ct. 2834", "108 Wn.2d 1008", "108 Wn.2d 419", "108 Wn.2d 458", "108 Wn.2d 734", "109 Wn.2d 207", "11 Wn. App. 583", "110 Wn.2d 1033", "110 Wn.2d 32", "111 Wn.2d 1026", "112 Wn.2d 399", "114 Wn.2d 314", "114 Wn.2d 6", "115 Wn.2d 1022", "16 Wn. App. 348", "39 Wn. App. 1", "445 U.S. 684", "45 Wn. App. 893", "466 U.S. 291", "467 U.S. 1025", "486 U.S. 1061", "491 P.2d 1043", "50 Wn. App. 755", "509 P.2d 742", "51 Wn. App. 455", "512 P.2d 718", "524 P.2d 479", "53 Wn. App. 916", "55 Wn. App. 300", "555 P.2d 1375", "56 Wn. App. 915", "590 P.2d 809", "64 L. Ed. 2d 297", "662 P.2d 853", "691 P.2d 587", "719 P.2d 546", "723 P.2d 1111", "728 P.2d 1075", "739 P.2d 683", "740 P.2d 824", "743 P.2d 1237", "743 P.2d 210", "749 P.2d 160", "750 P.2d 632", "750 P.2d 664", "754 P.2d 687", "771 P.2d 1137", "771 P.2d 746", "777 P.2d 539", "785 P.2d 440", "786 P.2d 795", "788 P.2d 531", "80 Wn.2d 47", "82 Wn.2d 157", "82 Wn.2d 577", "84 Wn.2d 1012", "91 Wn.2d 603", "99 Wn.2d 413"]
 ---
 
 # State v. Worl
