@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "51377-0-I"
 decided: "2004-05-03"
-citations: ["123 Wash. App. 150", "121 Wash. App. 1027"]
+citations: ["123 Wash. App. 150"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Juan Chen, Appellant, v. State Farm Mutual Automobile Insurance Compa
 source_url: "https://static.case.law/wash-app/123/cases/0150-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1118120
-cites_cases: ["106 Wn.2d 1", "122 Wn.2d 299", "123 Wn.App. 150", "135 Wn.2d 398", "144 Wn.2d 306", "144 Wn.2d 869", "146 Wn.2d 370", "153 Wn.2d 1024", "27 P.3d 600", "31 P.3d 1164", "46 P.3d 789", "721 P.2d 1", "858 P.2d 1054", "957 P.2d 632", "99 Wn. App. 602", "994 P.2d 881"]
+cites_cases: ["106 Wn.2d 1", "122 Wn.2d 299", "135 Wn.2d 398", "144 Wn.2d 306", "144 Wn.2d 869", "146 Wn.2d 370", "153 Wn.2d 1024", "27 P.3d 600", "31 P.3d 1164", "46 P.3d 789", "721 P.2d 1", "858 P.2d 1054", "957 P.2d 632", "99 Wn. App. 602", "994 P.2d 881"]
 ---
 
 # Chen v. State Farm Mutual Automobile Insurance
