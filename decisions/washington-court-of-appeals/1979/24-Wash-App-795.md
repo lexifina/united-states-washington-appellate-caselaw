@@ -1,0 +1,60 @@
+---
+court: "Washington Court of Appeals"
+docket: "6743-1"
+decided: "1979-12-10"
+citations: ["24 Wash. App. 795"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Ringold, J., concurs."]
+parties: ["Pacific Gamble Robinson Co., Appellant, v. Conrad C. Lapp, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/24/cases/0795-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 458571
+cites_cases: ["1 Wn. App. 713", "135 P.2d 455", "14 Wash. 70", "166 P. 634", "17 Wn.2d 301", "180 Wash. 269", "191 Colo. 317", "31 P. 24", "34 Wash. 585", "36 Colo. App. 234", "39 P.2d 397", "4 Wash. 730", "425 P.2d 623", "425 P.2d 631", "44 P. 115", "459 P.2d 32", "463 P.2d 187", "538 P.2d 1347", "70 Wn.2d 893", "70 Wn.2d 907", "76 P. 93", "76 Wn.2d 806", "97 Wash. 309"]
+---
+
+# Pacific Gamble Robinson Co. v. Lapp
+
+## Majority (Andersen, J.)
+
+Andersen, J.
+Facts of Case
+Pacific Gamble Robinson Company appeals from an order granting summary judgment against Conrad C. Lapp individually but dismissing the Lapp marital community.
+The facts are not in dispute.
+In 1962 Conrad C. Lapp acquired 100 percent of the stock of the Joslyn Fruit Company, a Colorado corporation. In 1975 he married Laura D. Lapp. The stock of the Joslyn Fruit Company remained his separate personal property not subject to any interest or claim of his wife. In the spring of 1977, the Joslyn Fruit Company was in severe financial difficulty and was indebted to Pacific Gamble Robinson in the amount of $34,710.70. In an effort to assist Lapp and to enable the Joslyn Fruit Company to continue to operate, Pacific Gamble Robinson agreed to continue to supply produce if Lapp signed a promissory note on which he would be personally liable along with the Joslyn Fruit Company. Mr. Lapp signed the note on April 14, 1977 in Colorado; Mrs. Lapp did not sign it.
+In July of 1977 the note became in default. Shortly thereafter, in September, the Lapps moved to Washington. On January 31,1978, Pacific Gamble Robinson brought this action in Washington against the Joslyn Fruit Company, Conrad Lapp individually and the marital community to recover the balance due and owing on the note. The trial court granted summary judgment against Conrad Lapp individually but refused to hold that the community incurred any legal obligation. Pacific Gamble Robinson appeals from that portion of the judgment dismissing the marital community.
+This appeal presents one basic issue.
+Issue
+Is the creditor on the obligation incurred by one spouse in a foreign, noncommunity property state, where both spouses were domiciled, restricted in its recovery to the separate property of the obligor spouse as the term "separate property" is defined by Washington law?
+Decision
+Conclusion. A husband's separate obligation subjects only his separate property to satisfaction of a judgment for a debt incurred in a noncommunity property state where both spouses were domiciled.
+Conrad Lapp stated in his affidavit that the Joslyn Fruit Company was his sole and separate property purchased by him prior to his marriage in 1975, that the obligation incurred by him was not for the expenses of his family or for the education of his children and, therefore, claimed that no community liability resulted.
+Laura Lapp stated in her affidavit:
+My husband, Conrad C. Lapp, had acquired the stock of the Joslyn Fruit Company, a Colorado corporation, prior to my marriage to him in 1975. At no time after my marriage to him has he made any contribution to the capital of Joslyn Fruit Company nor has he acquired additional stock in that company. At no time have I ever had any claim, right or interest in the Joslyn Fruit Company or stock therein. At all times material to this action prior to September, 1977 I was a resident of the State of Colorado. I became a resident of the State of Washington in September, 1977.
+Pacific Gamble Robinson argues on the other hand that this case is controlled by the decision in Pacific States Cut Stone Co. v. Goble, 70 Wn.2d 907, 425 P.2d 631 (1967). There, the court summarized:
+We conclude, therefore, that the second La Selle case [La Selle v. Woolery, 14 Wash. 70, 44 P. 115 (1896)] and its progeny, which Baffin [Baffin Land Corp. v. Monticello Motor Inn, Inc., 70 Wn.2d 893, 425 P.2d 623 (1967)] determined is no longer applicable as to the contract choice of law question, should no longer be adhered to on the question of community liability involved here. Rather we conclude that, since the obligation of a husband in Oregon subjects all the property of the married couple to the debt except the separate property of the wife, the effect of applying Oregon law to the situation before us is that all property, including community property, held by the Gobles and the Wallaces, with the exception of the wives separate property, is subject to the obligation involved.
+(Footnote omitted.) Pacific States Cut Stone Co. v. Goble, supra at 914.
+Washington has adopted the so-called "center of gravity" or "most significant relationship" approach to contract choice of law problems, and in such situations, the validity and effect of a contract are governed by the law of the state having the most significant relationship with the contract. Potlatch No. 1 Federal Credit Union v. Kennedy, 76 Wn.2d 806, 459 P.2d 32 (1969); Baffin Land Corp. v. Monticello Motor Inn, Inc., 70 Wn.2d 893, 425 P.2d 623 (1967). In the case before us, the parties were domiciled in Colorado at the time of the execution of the note, and the note was signed in Colorado by Mr. Lapp on behalf of a Colorado corporation. Since the entire transaction occurred in Colorado, we apply Colorado law to determine whether Pacific Gamble Robinson is entitled to a judgment against the community. In so doing, we take judicial notice of the pertinent Colorado statutes. RCW 5.24.010.
+Colorado is not a community property state. In re Marriage of Ellis, 36 Colo. App. 234, 538 P.2d 1347, 1349 (1975), aff'd, 191 Colo. 317, 552 P.2d 506 (1976).
+In Colorado, by statute, the property that a woman owns at the time of her marriage, and the proceeds thereof, are not liable for the husband's debts, CRS 14-2-201; nor are her earnings, CRS 14-2-203. Furthermore, in Colorado, a woman has full authority to sue in all matters in relationship to her separate property, as though she were single, CRS 14-2-202. Had the Lapps' marriage been dissolved in Colorado, Mr. Lapp's interest in the corporation would have been his alone, subject to the rights of his separate creditors, and Mrs. Lapp would have had no interest in it and no liability on account of it, CRS 14-10-113. The sole circumstance where one spouse in Colorado may by contract create liability for the other spouse and subject the other spouse's wages and property to claims of creditors is for obligations incurred for family necessities, CRS 14-6-110, a situation not here presented.
+Thus, in Colorado, only Mr. Lapp's separate income and property was subject to his separate obligation to Pacific Gamble Robinson. That did not change when the parties moved to the state of Washington.
+In Washington, separate property brought into the state and the proceeds of such property are liable for the separate obligation of the acquiring spouse. State ex rel. Van Moss v. Sailors, 180 Wash. 269, 39 P.2d 397 (1934). The separate property of the nonacquiring spouse, however, is not liable for the separate obligation of the acquiring spouse, Elliott v. Hawley, 34 Wash. 585, 76 P. 93 (1904), unless it would have been liable for those obligations under the law of the domicile of the acquiring spouse when the obligation was incurred. See Pacific States Cut Stone Co. v. Goble, supra. As discussed, Mrs. Lapp's income and property would not have been reachable by Mr. Lapp's separate creditors in Colorado.
+This case falls within the well settled general rules of law that the separate debt of one spouse cannot be satisfied out of community property, Schramm v. Steele, 97 Wash. 309, 166 P. 634 (1917), nor may a spouse's creditor reach the obligor spouse's interest in community property, Stockand v. Bartlett, 4 Wash. 730, 31 P. 24 (1892), subject to certain exceptions which are not here pertinent. The husband's separate income and property were subject to his separate obligation in Colorado when he was domiciled there. Now that he and Mrs. Lapp are domiciled in Washington, his separate property is still subject to his separate obligation, but Mrs. Lapp's separate property and the community property are not.
+To view this matter from a slightly different perspective, it is the policy of the law of this state to provide protection for an out-of-state creditor as nearly equivalent as possible to that which such creditor would have had under the applicable law of the foreign state. See Pacific States Cut Stone Co. v. Goble, supra. Had Mr. Lapp signed the same note in Washington that he did in Colorado, only his separate property could be reached to satisfy a judgment on the noté since the debt would be separate in character. Smyser v. Smyser, 17 Wn.2d 301, 305, 135 P.2d 455 (1943); National Bank of Commerce v. Green, 1 Wn. App. 713, 718, 463 P.2d 187 (1969). That is precisely the same result that would have been reached under Colorado law under the Colorado statutes reviewed above.
+In summary, it is uncontroverted in the record before us that the stock of the Joslyn Fruit Company was the separate property of Mr. Lapp. Mrs. Lapp had no interest in the business whatsoever. Mr. Lapp's obligation to Pacific Gamble Robinson subjected only his separate property to it and not the property of Mrs. Lapp or of the marital community. Accordingly, the trial court did not err in granting its summary judgment dismissing the marital community.
+Affirmed.
+Ringold, J., concurs.
+
+## Dissent (Dore, J.)
+
+Dore, J.
+(dissenting) — The majority correctly sets forth the law in this state regarding the protection of out-of-state creditors.
+However, the majority was mistaken in its application of that law to the facts in the subject case. The majority cites several Colorado statutes and concludes that defendant wife's separate property is not subject to execution for debts of her husband. This assertion is unquestioned in the instant case. Plaintiff in the subjéct case does not attempt to reach those separate assets.
+The question which must be resolved here is whether plaintiff should be able to reach those assets which are classified as defendants' community property in this state, such as wages and jointly owned property. Our Supreme Court in Pacific States Cut Stone Co. v. Goble, 70 Wn.2d 907, 425 P.2d 631 (1967) was faced with the same dilemma and stated-at page 913:
+Since there is no community property law in Oregon, no solution to the instant problem of the liability of community property can be found in Oregon statutes or decisions. As far as we can proceed in applying Oregon law is to say that, if the contract before us had been executed by Oregon husbands who thereafter remained in Oregon, the plaintiff-creditor would have been able to reach all property of the couple in satisfaction of the debt, except that separately owned by the wives.
+(Italics mine.)
+This same conclusion should be reached in this case. Those Colorado statutes protecting the wife's property from execution only apply to her separate property. Those statutes do not concern property owned jointly by the spouses. By holding that the wages of the husband and other jointly owned property of the defendants are subject to a debt of the defendant husband, we reach a just result because it "accords with the expectations of creditors, husbands, and wives, under either Washington or Oregon law." Pacific States Cut Stone Co. v. Goble, supra at 913.
+I would reverse summary judgment for defendants.
+Reconsideration denied January 22,1980.
+Review granted by Supreme Court March 21, 1980.
