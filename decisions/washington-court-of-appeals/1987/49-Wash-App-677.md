@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17816-4-I"
 decided: "1987-10-05"
-citations: ["49 Wash. App. 677", "49 Wash. App. 1039"]
+citations: ["49 Wash. App. 677"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Castulo Rivas, Appellant."]
 source_url: "https://static.case.law/wash-app/49/cases/0677-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739135
-cites_cases: ["100 Wn.2d 487", "100 Wn.2d 607", "102 Wn.2d 380", "103 Wn.2d 570", "105 Wn.2d 1", "127 A.L.R. 1022", "13 Wn. App. 900", "20 Wn. App. 559", "20 Wn. App. 72", "200 Wash. 1", "25 Wn. App. 809", "27 Wn. App. 857", "27 Wn. App. 952", "32 Wn. App. 882", "36 Wn. App. 530", "37 Wn. App. 137", "37 Wn. App. 856", "37 Wn. App. 867", "39 Wn. App. 916", "400 U.S. 74", "443 U.S. 307", "49 Wn. App. 677", "538 P.2d 538", "578 P.2d 554", "582 P.2d 539", "584 F.2d 694", "610 P.2d 1", "610 P.2d 1322", "616 P.2d 628", "618 P.2d 82", "620 P.2d 539", "621 P.2d 779", "650 P.2d 1129", "654 P.2d 77", "659 P.2d 454", "664 P.2d 508", "670 P.2d 646", "674 P.2d 145", "676 P.2d 521", "679 P.2d 391", "683 P.2d 1125", "684 P.2d 725", "686 P.2d 480", "693 P.2d 718", "696 P.2d 627", "711 P.2d 1000", "92 P.2d 1113", "93 Wn.2d 510", "94 Wn.2d 216", "94 Wn.2d 569", "98 Wn.2d 140", "98 Wn.2d 748", "99 Wn.2d 663"]
+cites_cases: ["100 Wn.2d 487", "100 Wn.2d 607", "102 Wn.2d 380", "103 Wn.2d 570", "105 Wn.2d 1", "127 A.L.R. 1022", "13 Wn. App. 900", "20 Wn. App. 559", "20 Wn. App. 72", "200 Wash. 1", "25 Wn. App. 809", "27 Wn. App. 857", "27 Wn. App. 952", "32 Wn. App. 882", "36 Wn. App. 530", "37 Wn. App. 137", "37 Wn. App. 856", "37 Wn. App. 867", "39 Wn. App. 916", "400 U.S. 74", "443 U.S. 307", "538 P.2d 538", "578 P.2d 554", "582 P.2d 539", "584 F.2d 694", "610 P.2d 1", "610 P.2d 1322", "616 P.2d 628", "618 P.2d 82", "620 P.2d 539", "621 P.2d 779", "650 P.2d 1129", "654 P.2d 77", "659 P.2d 454", "664 P.2d 508", "670 P.2d 646", "674 P.2d 145", "676 P.2d 521", "679 P.2d 391", "683 P.2d 1125", "684 P.2d 725", "686 P.2d 480", "693 P.2d 718", "696 P.2d 627", "711 P.2d 1000", "92 P.2d 1113", "93 Wn.2d 510", "94 Wn.2d 216", "94 Wn.2d 569", "98 Wn.2d 140", "98 Wn.2d 748", "99 Wn.2d 663"]
 ---
 
 # State v. Rivas
