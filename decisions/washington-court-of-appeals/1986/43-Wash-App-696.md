@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "6158-2-III"
 decided: "1986-01-14"
-citations: ["43 Wash. App. 696", "42 Wash. App. 1054"]
+citations: ["43 Wash. App. 696"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. John Richard Quinn, Appellant
 source_url: "https://static.case.law/wash-app/43/cases/0696-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1806272
-cites_cases: ["101 Wn.2d 1015", "12 Wash. 673", "145 Wash. 654", "18 U.S.C. § 3231", "18 U.S.C. § 641", "261 P. 383", "32 Wn. App. 971", "336 U.S. 613", "34 Wn. App. 607", "36 Wn. App. 798", "42 A.L.R.3d 1061", "42 P. 127", "43 Wn. App. 696", "470 F.2d 684", "474 P.2d 274", "564 P.2d 315", "588 P.2d 1151", "631 P.2d 951", "651 P.2d 228", "663 P.2d 496", "678 P.2d 1273", "78 Wn.2d 306", "88 Wn.2d 518", "91 Wn.2d 342", "93 L. Ed. 919", "95 Wn.2d 931"]
+cites_cases: ["101 Wn.2d 1015", "12 Wash. 673", "145 Wash. 654", "18 U.S.C. § 3231", "18 U.S.C. § 641", "261 P. 383", "32 Wn. App. 971", "336 U.S. 613", "34 Wn. App. 607", "36 Wn. App. 798", "42 A.L.R.3d 1061", "42 P. 127", "470 F.2d 684", "474 P.2d 274", "564 P.2d 315", "588 P.2d 1151", "631 P.2d 951", "651 P.2d 228", "663 P.2d 496", "678 P.2d 1273", "78 Wn.2d 306", "88 Wn.2d 518", "91 Wn.2d 342", "93 L. Ed. 919", "95 Wn.2d 931"]
 ---
 
 # State v. Quinn
