@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46411-6-I"
 decided: "2001-06-11"
-citations: ["107 Wash. App. 727", "106 Wash. App. 1042"]
+citations: ["107 Wash. App. 727"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Earl F. Knuth, et al., Appellants, v. Beneficial Washington, Inc., Re
 source_url: "https://static.case.law/wash-app/107/cases/0727-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543389
-cites_cases: ["103 Wn. App. 62", "107 Wn. App. 727", "11 P.3d 833", "145 Wn.2d 1035", "60 Wash. L. Rev. 805", "78 Wn. App. 115", "897 P.2d 365"]
+cites_cases: ["103 Wn. App. 62", "11 P.3d 833", "145 Wn.2d 1035", "60 Wash. L. Rev. 805", "78 Wn. App. 115", "897 P.2d 365"]
 ---
 
 # Knuth v. Beneficial Washington, Inc.
