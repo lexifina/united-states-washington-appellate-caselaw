@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16519-1-III"
 decided: "1997-07-31"
-citations: ["88 Wash. App. 410", "86 Wash. App. 1119"]
+citations: ["88 Wash. App. 410"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Personal Restraint of Craig Edward Mahrle, Petit
 source_url: "https://static.case.law/wash-app/88/cases/0410-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592640
-cites_cases: ["127 Wn.2d 774", "130 Wn.2d 1", "88 Wn. App. 410", "903 P.2d 443", "921 P.2d 1035", "931 S.W.2d 239"]
+cites_cases: ["127 Wn.2d 774", "130 Wn.2d 1", "903 P.2d 443", "921 P.2d 1035", "931 S.W.2d 239"]
 ---
 
 # In re the Personal Restraint of Mahrle
