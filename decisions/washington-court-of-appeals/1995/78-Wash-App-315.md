@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34363-7-I"
 decided: "1995-05-15"
-citations: ["78 Wash. App. 315", "77 Wash. App. 1085"]
+citations: ["78 Wash. App. 315"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Harold P. Hofsvang, et al., Respondents, v. The Estate of Robert E. B
 source_url: "https://static.case.law/wash-app/78/cases/0315-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 426310
-cites_cases: ["119 Wn.2d 251", "125 Wn.2d 183", "142 A.2d 199", "154 Ind. App. 672", "22 Wn. App. 373", "232 N.E.2d 83", "290 N.E.2d 763", "393 Pa. 131", "459 S.W.2d 495", "46 Wn. App. 546", "56 Wn. App. 567", "591 P.2d 784", "731 P.2d 541", "78 Wn. App. 315", "784 P.2d 186", "830 P.2d 646", "87 Ill. App. 2d 437", "883 P.2d 313"]
+cites_cases: ["119 Wn.2d 251", "125 Wn.2d 183", "142 A.2d 199", "154 Ind. App. 672", "22 Wn. App. 373", "232 N.E.2d 83", "290 N.E.2d 763", "393 Pa. 131", "459 S.W.2d 495", "46 Wn. App. 546", "56 Wn. App. 567", "591 P.2d 784", "731 P.2d 541", "784 P.2d 186", "830 P.2d 646", "87 Ill. App. 2d 437", "883 P.2d 313"]
 ---
 
 # Hofsvang v. Estate of Brooke
