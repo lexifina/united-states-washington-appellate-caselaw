@@ -1,0 +1,32 @@
+---
+court: "Washington Court of Appeals"
+docket: "36233-0-I"
+decided: "1997-01-21"
+citations: ["85 Wash. App. 350", "84 Wash. App. 1075"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Financial Indemnity Company, Respondent, v. Vilaiphone Keomaneethong, Appellant."]
+source_url: "https://static.case.law/wash-app/85/cases/0350-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 277573
+cites_cases: ["106 Wn.2d 1011", "111 Wn.2d 636", "115 Wn.2d 82", "43 Wn. App. 467", "549 P.2d 9", "717 P.2d 793", "762 P.2d 1141", "794 P.2d 1259", "85 Wn. App. 350", "87 Wn.2d 70"]
+---
+
+# Financial Indemnity Co. v. Keomaneethong
+
+## Majority (Kennedy, A.C.J.)
+
+Kennedy, A.C.J.
+After a car in which he was a guest passenger was involved in an accident with an uninsured motorist, Vilaiphone Keomaneethong sought and was denied coverage under the Underinsured Motorist (UIM) provisions of his host’s car insurance policy issued by Financial Indemnity Company (FIC). Mr. Keomaneethong’s claim was later dismissed on summary judgment and he appeals, contending that the Washington Underinsured Motor Vehicle Insurance statute and public policy prohibit an insurer from excluding from coverage passengers who are unrelated to the insured.
+It is undisputed that the policy language in question clearly and unambiguously excludes from UIM coverage those passengers in the insured automobile who are not both living in the policy holder’s household and related to him by blood, marriage or adoption, or who are not over the age of 25 and driving the vehicle with the policy holder’s permission. It is also undisputed that Mr. Keomaneethong was not driving the insured vehicle and that he was not related to the policy holder. He therefore fails to meet the definition of "insured person” under the language of this policy. The only issue before us is whether the UIM provision contained in FIC’s policy is void under the UIM statute or for any other reason of public policy.
+Mr. Keomaneethong argues that RCW 48.22.030, Washington’s UIM statute, prohibits insurance companies from issuing policies that exclude nonrelated guest passengers from UIM coverage. The portion of the statute cited by Mr. Keomaneethong provides in pertinent part:
+No . . . policy . . . insuring against loss resulting from liability imposed by law for bodily injury . . . suffered by any person arising out of the ownership, maintenance, or use of a motor vehicle shall be issued . . . unless coverage is provided . . . for the protection of persons insured thereunder . . . from owners or operators of underinsured motor vehicles!.]
+(Emphasis added.)
+A virtually identical argument to that raised by Mr. Keomaneethong was rejected by our Supreme Court in Farmers Ins. Co. v. Miller, 87 Wn.2d 70, 75, 549 P.2d 9 (1976). There, the claimant argued that public policy expressed in the UIM statute, RCW 48.22.030, prohibits a UIM clause that excludes from UIM coverage any relative residing in the policy holder’s household who owns an automobile. The Supreme Court responded: "Not so. That statute does not mandate any particular scope for the definition of who is an insured in a particular automobile insurance policy.” 87 Wn.2d at 75. In Dobosh v. Rocky Mountain Fire & Cas. Co., 43 Wn. App. 467, 471-72, 717 P.2d 793, review denied, 106 Wn.2d 1011 (1986), rev’d on other grounds by Sears v. Grange Ins. Ass’n, 111 Wn.2d 636, 762 P.2d 1141 (1988), the claimant challenged on grounds of public policy a UIM clause that excluded guest passengers from UIM coverage. The Dobosh court responded:
+Because the Legislature has seen fit to limit this kind of insurance to those insured under the policy, we will not replace its assessment of public policy with our own. Further, we know of no public policy that dictates that an insurer extend coverage beyond that mandated by statute.
+Dobosh, 43 Wn. App. at 471-72 (footnote omitted).
+Although it is true, as argued by Mr. Keomaneethong, that our Supreme Court has stated that the legislative purpose of the Washington UIM statute—to broaden greatly the protection of the public against economic consequences and partly to ameliorate the ravages from injuries at the hands of uninsured persons operating vehicles upon the public streets and highways—is not to be eroded by legal niceties arising from exclusionary clauses, that same court has also said that when the question revolves around the initial extension of coverage, that is, the definition of who is and is not an insured, public policy is not violated so long as insured persons are defined the same in the primary liability and UIM sections of the policy. Farmers Ins. Co. v. Miller, 87 Wn.2d at 75-76. Here, the definition of who is and is not an insured is the same for both the primary liability and UIM sections of FIC’s policy.
+Mr. Keomaneethong’s host driver failed to purchase UIM protection for his guest passengers. "Although the public is served by maximizing the extent of protection afforded by [UIM] coverage, the insurance company is not required to provide the coverage for free.” Blackburn v. Safeco Ins. Co., 115 Wn.2d 82, 88, 794 P.2d 1259 (1990). Although the Supreme Court stated, in dicta, in Blackburn that persons riding as passengers have the option of purchasing their own UIM coverage that applies at all times regardless of their status in a particular vehicle, 115 Wn.2d at 89, we recognize that this is so only when the guest passenger has his or her own automobile so that he or she has the opportunity to purchase UIM insurance. The record in this case does not reflect whether Mr. Keomaneethong had that opportunity, i.e., whether he owned or leased an automobile. Whether he did or not, current public policy as pronounced by our Legislature allows insurance carriers to elect not to extend UIM coverage to guest passengers, allows car owners to elect not to purchase UIM coverage to protect their guest passengers, and leaves potentially unprotected that category of guest passengers who do not own or lease their own vehicles and who thus cannot purchase UIM protection from any source known to this court. We deplore the policy, but this gap in the law must be addressed to the Legislature and not to the courts.
+We affirm the trial court’s dismissal of Mr. Keomaneethong’s claim on summary judgment.
+Grosse and Aged, JJ., concur.
