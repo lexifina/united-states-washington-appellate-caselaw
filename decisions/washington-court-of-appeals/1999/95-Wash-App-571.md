@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17128-1-III"
 decided: "1999-04-29"
-citations: ["95 Wash. App. 571", "95 Wash. App. 1025"]
+citations: ["95 Wash. App. 571"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kent Nielson, Appellant, v. AgriNorthwest, Respondent."]
 source_url: "https://static.case.law/wash-app/95/cases/0571-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 255095
-cites_cases: ["103 Wn.2d 401", "110 Wn.2d 355", "113 Wn.2d 254", "123 Wn.2d 160", "129 Wn.2d 1023", "138 Wn.2d 1023", "40 Wn. App. 630", "411 U.S. 792", "506 U.S. 823", "682 F.2d 897", "693 P.2d 708", "700 P.2d 338", "753 P.2d 517", "778 P.2d 1031", "78 Stat. 241", "80 Wn. App. 843", "828 F. Supp. 801", "84 Wn. App. 393", "866 P.2d 31", "912 P.2d 1035", "928 P.2d 1108", "95 Wn. App. 571", "955 F.2d 902", "992 F.2d 1033"]
+cites_cases: ["103 Wn.2d 401", "110 Wn.2d 355", "113 Wn.2d 254", "123 Wn.2d 160", "129 Wn.2d 1023", "138 Wn.2d 1023", "40 Wn. App. 630", "411 U.S. 792", "506 U.S. 823", "682 F.2d 897", "693 P.2d 708", "700 P.2d 338", "753 P.2d 517", "778 P.2d 1031", "78 Stat. 241", "80 Wn. App. 843", "828 F. Supp. 801", "84 Wn. App. 393", "866 P.2d 31", "912 P.2d 1035", "928 P.2d 1108", "955 F.2d 902", "992 F.2d 1033"]
 ---
 
 # Nielson v. AgriNorthwest
