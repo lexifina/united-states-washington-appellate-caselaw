@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19630-5-III"
 decided: "2001-03-06"
-citations: ["105 Wash. App. 485", "105 Wash. App. 1012"]
+citations: ["105 Wash. App. 485"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert Ezell, et al., Appellants, v. Scott B. Hutson, Respondent."]
 source_url: "https://static.case.law/wash-app/105/cases/0485-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358507
-cites_cases: ["10 P.3d 1079", "102 Wn. App. 848", "105 Wn. App. 485", "107 Wn.2d 158", "11 Wn. App. 272", "123 Wn.2d 234", "127 Wn.2d 67", "144 Wn.2d 1011", "191 Conn. 282", "223 Va. 383", "290 S.E.2d 820", "307 Or. 612", "310 N.C. 184", "311 S.E.2d 571", "380 N.W.2d 659", "391 N.W.2d 810", "414 So. 2d 226", "465 A.2d 294", "490 N.W.2d 820", "494 N.W.2d 708", "522 P.2d 852", "530 P.2d 334", "571 So. 2d 991", "588 P.2d 734", "603 A.2d 827", "65 Wn. App. 255", "657 A.2d 145", "659 P.2d 1097", "704 F.2d 1473", "727 P.2d 669", "768 P.2d 534", "828 P.2d 597", "85 Wn.2d 151", "867 P.2d 626", "896 P.2d 682", "91 Wn.2d 155", "99 Wn.2d 95"]
+cites_cases: ["10 P.3d 1079", "102 Wn. App. 848", "107 Wn.2d 158", "11 Wn. App. 272", "123 Wn.2d 234", "127 Wn.2d 67", "144 Wn.2d 1011", "191 Conn. 282", "223 Va. 383", "290 S.E.2d 820", "307 Or. 612", "310 N.C. 184", "311 S.E.2d 571", "380 N.W.2d 659", "391 N.W.2d 810", "414 So. 2d 226", "465 A.2d 294", "490 N.W.2d 820", "494 N.W.2d 708", "522 P.2d 852", "530 P.2d 334", "571 So. 2d 991", "588 P.2d 734", "603 A.2d 827", "65 Wn. App. 255", "657 A.2d 145", "659 P.2d 1097", "704 F.2d 1473", "727 P.2d 669", "768 P.2d 534", "828 P.2d 597", "85 Wn.2d 151", "867 P.2d 626", "896 P.2d 682", "91 Wn.2d 155", "99 Wn.2d 95"]
 ---
 
 # Ezell v. Hutson
