@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "27529-5-II"
+decided: "2002-08-02"
+citations: ["112 Wash. App. 805"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Richard Calvin Clark, Appellant, and Delta Dawn Gunter, Respondent."]
+source_url: "https://static.case.law/wash-app/112/cases/0805-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 719200
+cites_cases: ["104 Wn.2d 613", "106 Wn. App. 231", "118 Wn.2d 1020", "118 Wn.2d 801", "122 Wn.2d 604", "145 Wn.2d 1008", "23 P.3d 520", "38 Wn. App. 274", "62 Wn. App. 378", "62 Wn. App. 888", "686 P.2d 1102", "76 Wn. App. 848", "814 P.2d 238", "815 P.2d 840", "828 P.2d 549", "859 P.2d 1239", "888 P.2d 750"]
+---
+
+# In re the Marriage of Clark
+
+## Majority (Bridgewater, J.)
+
+Bridgewater, J.
+Richard Calvin Clark appeals a superior court order that modified the parenting plan between him and his ex-wife, Delta Dawn Gunter, and granted Gunter primary custody of their son, Richie. We hold that the trial court could compare the living arrangements of the custodial and noncustodial parent where the basis for the modification was integration of the child into Gunter’s family with Clark’s consent. We affirm and award attorney fees and costs to Gunter under RAP 14.2 and RAP 14.3.
+The precise facts of the case need not be set forth in detail to understand our decision. The parties married in 1989 and divorced in 1991. Gunter had residential custody of their child, Richie. The parties modified the parenting plan once to permit Clark to have residential custody in 1994. That provision was not changed until the instant action. But from November 1999, the child stayed with Gunter, with Clark’s permission, until June 2000. In the summer of 2000, the child stayed with Clark, his father, until he went for a visit in August to Gunter’s home. Gunter did not return the child to Clark and, instead, began this action to modify the parenting plan, claiming that the child had been integrated into her home with Clark’s consent.
+At the modification hearing, Gunter presented evidence that while in his father’s care, Richie attended different schools and repeated both kindergarten and the first grade. Witnesses also testified that Richie was not well kept and that Clark may have abused alcohol. While in Clark’s custody, extended family members often baby-sat and cared for Richie. Based on the evidence presented, the trial court determined that, with Clark’s consent, Richie had integrated into Gunter’s home.
+I. Modification
+Clark’s sole assignment of error on appeal is that the trial court erred in denying his motion in limine not to compare his living arrangements to Gunter’s. He supports his assignment of error with George v. Helliar, 62 Wn. App. 378, 814 P.2d 238 (1991). Because Clark does not assign error to the superior court’s findings of fact, we consider them verities on appeal. Cowiche Canyon Conservancy v. Bosley, 118 Wn.2d 801, 808, 828 P.2d 549 (1992). Here, the trial court made a specific finding, which Clark does not challenge on appeal, that Clark consented to the child’s integration into Gunter’s home.
+Atrial court may modify a parenting plan if a substantial change has occurred in the circumstances of the child or the nonmoving party, and such modification is necessary to serve the child’s best interests. RCW 26.09.260(1). The relevant portions of the statute are set forth as follows:
+(1) Except as otherwise provided in subsections (4), (5), (6), (8), and (10) of this section, the court shall not modify a prior custody decree or a parenting plan unless it finds, upon the basis of facts that have arisen since the prior decree or plan or that were unknown to the court at the time of the prior decree or plan, that a substantial change has occurred in the circumstances of the child or the nonmoving party and that the modification is in the best interest of the child and is necessary to serve the best interests of the child.
+(2) In applying these standards, the court shall retain the residential schedule established by the decree or parenting plan unless:
+(a) The parents agree to the modification;
+(b) The child has been integrated into the family of the petitioner with the consent of the other parent in substantial deviation from the parenting plan;
+(c) The child’s present environment is detrimental to the child’s physical, mental, or emotional health and the harm likely to be caused by a change of environment is outweighed by the advantage of a change to the child [.]
+RCW 26.09.260(l)-(2)(a)-(c).
+We will not reverse a trial court’s decision to modify a parenting plan under RCW 26.09.260 unless the trial court exercised its discretion in an untenable or manifestly unreasonable way. In re Marriage of McDole, 122 Wn.2d 604, 610, 859 P.2d 1239 (1993). Similarly, we review a trial court’s denial of a motion in limine for an abuse of discretion. Gammon v. Clark Equip. Co., 38 Wn. App. 274, 286, 686 P.2d 1102 (1984), aff’d, 104 Wn.2d 613 (1985).
+George is inapposite. Clark asserts that George requires the court to look only at the circumstances of the custodial parent, not the noncustodial parent. While this proposition is set forth in George, George was not an “integration” case under RCW 26.09.260(2)(b). It was a “detrimental environment” case under RCW 26.09.260(2)(c). The appellate court in George held that the trial court did not make a finding of integration and that there was no evidence to support such finding. George, 62 Wn. App. at 383. The precise holding in George was that the trial court did not make a finding that the child’s present environment was detrimental to the child; thus, the movant did not meet his burden of showing a substantial change of circumstances. George, 62 Wn. App. at 383-84.
+A plain reading of RCW 26.09.260 demonstrates that different thresholds form the basis for a modification because of a substantial change of circumstances; e.g., agreement, integration with consent, and present environment being detrimental. See In re Marriage of Shryock, 76 Wn. App. 848, 851, 888 P.2d 750 (1995) (“party seeking a custody modification must demonstrate that a substantial change in circumstances has occurred”). In George, the custodial parent asserted that the trial court did not find a substantial change of circumstances. George, 62 Wn. App. at 382. The trial court attempted to determine which parent was better without finding the present environment detrimental. It was in that context that the court in George noted that to follow the trial court would shift the burden to the custodial parent to prove fitness of the custodial home. That is not the case here.
+Here, the trial court found that Clark consented to the child’s integration into Gunter’s home. When the court did its comparison of living arrangements, it was not evaluating a “substantial change.” It was evaluating the “best interests of the child.” In essence, “substantial change” was established by the “integration with consent.” It would be absurd to not permit the court to compare living circumstances in order to also flesh out the new parenting plan provisions when the parties stipulated to a substantial change. We hold that the court did not err.
+II. Attorney Fees and Costs
+Gunter also requests costs pursuant to RAP 14.1 and attorney fees pursuant to RAP 18.1 for having to respond to this appeal. Under RAP 14.2, the party that substantially prevails on review is entitled to costs, which includes, under RAP 14.3, statutory attorney fees and reasonable expenses actually incurred. Gunter has substantially prevailed and, thus, can be awarded costs subject to her compliance with RAP 14.4.
+With regard to RAP 18.1, attorney fees are recoverable if allowed by statute. RCW 26.09.260(11) allows the trial court to assess attorney fees when a motion to modify a prior parenting plan is brought in bad faith. While this court has the inherent jurisdiction to award attorney fees on appeal when a statute authorizes attorney fees in the trial court, Gunter does not argue that Clark brought his appeal in bad faith. See Standing Rock Homeowners Ass’n v. Misich, 106 Wn. App. 231, 247, 23 P.3d 520, review denied, 145 Wn.2d 1008 (2001); Sarvis v. Land Res., Inc., 62 Wn. App. 888, 894, 815 P.2d 840 (1991), review denied, 118 Wn.2d 1020 (1992). Thus, we deny Gunter’s request for attorney fees under RAP 18.1.
+Affirmed.
+Morgan and Armstrong, JJ., concur.
+Other bases under the statute are not pertinent to this case but include multiple findings of contempt or conviction of custodial interference.
+The trial court incorporated some 12 new conditions into the parenting plan to specifically ensure the child’s future nurturing.
+RCW 26.09.260(11) provides as follows:
+If the court finds that a motion to modify a prior decree or parenting plan has been brought in bad faith, the court shall assess the attorney’s fees and court costs of the nonmoving parent against the moving party.
