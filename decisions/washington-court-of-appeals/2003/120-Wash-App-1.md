@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52011-3-I"
 decided: "2003-11-17"
-citations: ["120 Wash. App. 1", "119 Wash. App. 1021"]
+citations: ["120 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Pacific Industries, Inc., Appellant, v. Joginder (“Joe”) P. Singh
 source_url: "https://static.case.law/wash-app/120/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422722
-cites_cases: ["104 Wn.2d 798", "107 Wn. App. 793", "111 Wn.2d 1017", "115 Wn. App. 384", "118 Wn.2d 801", "120 Wn. App. 1", "132 Wn.2d 668", "140 Wn.2d 1019", "145 Wn.2d 1025", "193 P.2d 321", "23 Wn. App. 425", "28 P.3d 792", "30 Wn.2d 622", "33 Wn. App. 710", "500 P.2d 1244", "51 Wn. App. 936", "523 U.S. 1008", "597 P.2d 412", "62 P.3d 548", "658 P.2d 679", "711 P.2d 319", "756 P.2d 150", "81 Wn.2d 215", "828 P.2d 549", "85 Wn. App. 744", "91 Wn. App. 297", "934 P.2d 722", "940 P.2d 1239", "957 P.2d 265", "98 Wn. App. 224", "989 P.2d 569"]
+cites_cases: ["104 Wn.2d 798", "107 Wn. App. 793", "111 Wn.2d 1017", "115 Wn. App. 384", "118 Wn.2d 801", "132 Wn.2d 668", "140 Wn.2d 1019", "145 Wn.2d 1025", "193 P.2d 321", "23 Wn. App. 425", "28 P.3d 792", "30 Wn.2d 622", "33 Wn. App. 710", "500 P.2d 1244", "51 Wn. App. 936", "523 U.S. 1008", "597 P.2d 412", "62 P.3d 548", "658 P.2d 679", "711 P.2d 319", "756 P.2d 150", "81 Wn.2d 215", "828 P.2d 549", "85 Wn. App. 744", "91 Wn. App. 297", "934 P.2d 722", "940 P.2d 1239", "957 P.2d 265", "98 Wn. App. 224", "989 P.2d 569"]
 ---
 
 # Pacific Industries, Inc. v. Singh
