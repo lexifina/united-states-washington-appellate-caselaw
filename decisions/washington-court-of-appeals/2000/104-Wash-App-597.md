@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45833-7-I"
 decided: "2000-12-26"
-citations: ["104 Wash. App. 597", "103 Wash. App. 1059"]
+citations: ["104 Wash. App. 597"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mercer Place Condominium Association, Appellant, v. State Farm Fire &
 source_url: "https://static.case.law/wash-app/104/cases/0597-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700272
-cites_cases: ["104 Wn. App. 597", "106 Wn.2d 806", "108 Wn.2d 338", "11 Wn. App. 632", "11 Wn. App. 707", "111 Wn.2d 452", "113 Wn.2d 91", "119 Wn.2d 724", "125 Wn.2d 337", "126 Wn.2d 50", "133 Wn.2d 751", "134 Wn.2d 413", "143 Wn.2d 1023", "184 P.2d 50", "245 P.2d 205", "28 Wn.2d 767", "29 Wn. App. 32", "35 Tort & Ins. L.J. 57", "388 P.2d 952", "40 Wn.2d 538", "41 Wn. App. 212", "46 Wn. App. 828", "524 P.2d 427", "525 P.2d 804", "545 P.2d 1193", "577 P.2d 138", "627 P.2d 152", "63 Wn.2d 751", "64 Wn. App. 838", "702 P.2d 1247", "71 Wn. App. 248", "725 P.2d 957", "733 P.2d 556", "738 P.2d 251", "760 P.2d 337", "776 P.2d 123", "827 P.2d 1024", "837 P.2d 1000", "857 P.2d 1051", "86 Wn.2d 432", "882 P.2d 703", "883 P.2d 1383", "89 Wn.2d 953", "891 P.2d 718", "892 F. Supp. 1310", "914 F. Supp. 408", "948 P.2d 796", "951 P.2d 250"]
+cites_cases: ["106 Wn.2d 806", "108 Wn.2d 338", "11 Wn. App. 632", "11 Wn. App. 707", "111 Wn.2d 452", "113 Wn.2d 91", "119 Wn.2d 724", "125 Wn.2d 337", "126 Wn.2d 50", "133 Wn.2d 751", "134 Wn.2d 413", "143 Wn.2d 1023", "184 P.2d 50", "245 P.2d 205", "28 Wn.2d 767", "29 Wn. App. 32", "35 Tort & Ins. L.J. 57", "388 P.2d 952", "40 Wn.2d 538", "41 Wn. App. 212", "46 Wn. App. 828", "524 P.2d 427", "525 P.2d 804", "545 P.2d 1193", "577 P.2d 138", "627 P.2d 152", "63 Wn.2d 751", "64 Wn. App. 838", "702 P.2d 1247", "71 Wn. App. 248", "725 P.2d 957", "733 P.2d 556", "738 P.2d 251", "760 P.2d 337", "776 P.2d 123", "827 P.2d 1024", "837 P.2d 1000", "857 P.2d 1051", "86 Wn.2d 432", "882 P.2d 703", "883 P.2d 1383", "89 Wn.2d 953", "891 P.2d 718", "892 F. Supp. 1310", "914 F. Supp. 408", "948 P.2d 796", "951 P.2d 250"]
 ---
 
 # Mercer Place Condominium Ass'n v. State Farm Fire & Casualty Co.
