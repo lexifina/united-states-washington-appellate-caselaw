@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "5931-6-III"
+decided: "1985-04-09"
+citations: ["40 Wash. App. 229"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Roy Warren, Appellant, v. Glascam Builders, Inc., Respondent."]
+source_url: "https://static.case.law/wash-app/40/cases/0229-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1796346
+cites_cases: ["157 P.2d 938", "160 A.L.R. 692", "186 P.2d 364", "22 Wn.2d 811", "268 Or. 166", "29 Wn.2d 150", "30 Wn. App. 580", "368 P.2d 897", "39 Wn. App. 466", "567 P.2d 187", "59 Wn.2d 545", "636 P.2d 508", "694 P.2d 1101", "88 Wn.2d 756"]
+---
+
+# Warren v. Glascam Builders, Inc.
+
+## Majority (McInturff, J.)
+
+McInturff, J.
+Roy Warren appeals a superior court ruling which denied him attorney fees in his successful action against Glascam Builders for compensation under an employment agreement.
+The narrative report of proceedings reflects the following: From the fall of 1975 until February 1977, Roy Warren worked as an independent contractor for Glascam Builders as a designer and drafter. In early 1977, the parties entered into an oral agreement, the exact terms of which were disputed at trial. Mr. Warren testified they agreed he would work full time for Glascam for $6 per hour and he would also receive a commission/bonus on the sale or lease of projects which he designed, regardless of who sold them. Lee Campbell, president of Glascam, and his wife Marie, who also worked for Glascam, testified the agreed commission related only to property sold by either Mr. Warren or by Marie Campbell. It is undisputed Glascam withheld state and federal taxes from the hourly rate of compensation paid to Mr. Warren, but not from the other compensation.
+In 1980, Mr. Warren brought this action, alleging Glas-cam had breached the employment agreement by failing to pay "additional compensation" of more than $20,000 in the form of bonuses. He prayed for judgment together with "reasonable attorney's fees." Glascam's answer admitted Mr. Warren was in its employ both at an hourly rate and on a bonus basis, but denied additional compensation was owing. A jury awarded Mr. Warren $5,935.72.
+After the verdict of the jury and before entry of judgment, Mr. Warren requested attorney fees of $5,414.20. Apparently for the first time, Mr. Warren clarified his request for attorney fees- was made pursuant to RCW 49.48.030, which provides:
+In any action in which any person is successful in recovering judgment for wages or salary owed to him, reasonable attorney's fees, in an amount to be determined by the court, shall be assessed against said employer or former employer . . .
+The court denied the request, stating in its memorandum opinion that Glascam's admission of an employment agreement did not necessarily admit a master/servant relationship and that Mr. Warren neglected to submit to the jury the issue as to whether the unpaid compensation was wages or the remuneration of an independent contractor.
+First, we note ”[e]ven our liberal rules of pleading require a complaint to contain direct allegations sufficient to give notice to the court and the opponent of the nature of the plaintiff's claim." Berge v. Gorton, 88 Wn.2d 756, 762, 567 P.2d 187 (1977). "A complaint should apprise the defendant of what the plaintiff's claim is and the legal grounds upon which it rests ..." Christensen v. Swedish Hosp., 59 Wn.2d 545, 548, 368 P.2d 897 (1962).
+Glascam argues it lacked notice because Mr. Warren's complaint failed to cite RCW 49.48.030. Glascam asserts if it had known Mr. Warren's claim for attorney fees was based on RCW 49.48.030, it would have introduced evidence that Mr. Warren acted as an independent contractor, at least in the sales portion of their relationship.
+Mr. Warren's position is that Glascam admitted the existence of a master/servant relationship. It is true Glascam's answer admitted Mr. Warren was "in the employ of defendant," and its answers to Mr. Warren's interrogatories referred to the "employment contract" between the parties, but Glascam's understanding then was that the issue was the terms of its contract with Mr. Warren, not the status of the relationship. In these circumstances, the phraseology used by Glascam does not constitute an admission that a master/servant relationship existed for purposes of RCW 49.48.030.
+The situation here is analogous to that in Tatum v. R & R Cable, Inc., 30 Wn. App. 580, 636 P.2d 508 (1981). There, the plaintiff prayed for attorney fees pursuant to RCW 64.12.030, which relates to treble damages for the unauthorized cutting of trees but does not include attorney fees. After trial, the court awarded plaintiff attorney fees based on RCW 4.84.250 which provides for such fees when the claim is under a certain amount. This court reversed, holding that "the provisions of RCW 4.84.250, . . . must be pleaded to put the defendants on notice of the fact that plaintiffs are seeking attorney's fees under that statute." Tatum, at 585.
+Likewise, Mr. Warren should have pleaded RCW 49.48-.030 to put Glascam on notice of the basis of his request for attorney fees. Without so pleading, the applicability of the statute to these facts was never raised or tried.
+Finally, Mr. Warren's reliance on cases decided under the unemployment compensation act is not persuasive since the statutory definitions of employer and employee under that act are broader than the common law concepts of the relationship of master and servant. Skrivanich v. Davis, 29 Wn.2d 150, 158, 186 P.2d 364 (1947); State ex rel. Mul-hausen v. Superior Court, 22 Wn.2d 811, 815, 157 P.2d 938, 160 A.L.R. 692 (1945). Nor are we swayed by his reliance on Tiano v. Elsensohn, 268 Or. 166, 520 P.2d 358 (1974). There, the court allowed fees even though the plaintiff had not pleaded the statutory basis. But there, fees were not an issue except as an item of costs. Tiano, 520 P.2d at 360. As noted above, statutory fees here depend on the resolution of a factual issue, i.e., the status of the parties' relationship.
+The judgment of the Superior Court is affirmed.
+Green, C.J., and Munson, J., concur.
+Contrast West Coast Stationary Eng'rs Welfare Fund v. Kennewick, 39 Wn. App. 466, 475-76, 694 P.2d 1101 (1985), where the court held that a party need not plead RCW 4.84.330 to recover attorney fees under that statute. RCW 4.84-.330 states that where the parties' contract or lease provides attorney fees to one of the parties, then the prevailing party is entitled to fees whether or not he is the party specified in the contract or lease. Under RCW 4.84.330, the award of fees does not present the same potential for factual disputes as RCW 4.84.250, the statute construed in Tatum, or RCW 49.48.030, the statute at issue here. The purpose of requiring the party to specially plead the latter two statutes is to give the opposing party an opportunity to resolve at trial any factual disputes regarding the applicability of the statutes.
