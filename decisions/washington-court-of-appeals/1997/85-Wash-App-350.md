@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36233-0-I"
 decided: "1997-01-21"
-citations: ["85 Wash. App. 350", "84 Wash. App. 1075"]
+citations: ["85 Wash. App. 350"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Financial Indemnity Company, Respondent, v. Vilaiphone Keomaneethong,
 source_url: "https://static.case.law/wash-app/85/cases/0350-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 277573
-cites_cases: ["106 Wn.2d 1011", "111 Wn.2d 636", "115 Wn.2d 82", "43 Wn. App. 467", "549 P.2d 9", "717 P.2d 793", "762 P.2d 1141", "794 P.2d 1259", "85 Wn. App. 350", "87 Wn.2d 70"]
+cites_cases: ["106 Wn.2d 1011", "111 Wn.2d 636", "115 Wn.2d 82", "43 Wn. App. 467", "549 P.2d 9", "717 P.2d 793", "762 P.2d 1141", "794 P.2d 1259", "87 Wn.2d 70"]
 ---
 
 # Financial Indemnity Co. v. Keomaneethong
