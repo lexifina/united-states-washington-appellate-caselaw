@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "43926-0-I"
+decided: "2001-11-26"
+citations: ["109 Wash. App. 328"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Silviano Santacruz-Hernandez, Appellant."]
+source_url: "https://static.case.law/wash-app/109/cases/0328-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1014087
+cites_cases: ["100 Wn.2d 669", "146 Wn.2d 1019", "435 U.S. 475", "446 U.S. 335", "450 U.S. 261", "665 P.2d 1352", "675 P.2d 209", "99 Wn.2d 920"]
+---
+
+# State v. Santacruz-Hernandez
+
+## Majority (Grosse, J.)
+
+Grosse, J.
+— When faced with a potential conflict of interest on the part of defense counsel, the trial court must make an inquiry into the nature of the conflict. The failure to do so is reversible error. Here, while the trial court did inquire, its failure to grant a short continuance to allow defense counsel to adequately address the potential conflict rendered that inquiry inadequate. Thus, we are constrained to reverse.
+FACTS
+Silviano Santacruz-Hernandez was charged in Skagit County with one count of intent to deliver cocaine and one count of unlawful intent to deliver heroin. The charges arose from a series of undercover drug purchases made in Mount Vernon, Washington by the Skagit County Interlocal Drug Enforcement Unit. From a confidential informant (hereinafter confidential informant 1), the unit obtained the pager number of an individual allegedly looking for narcotics customers in the city of Mount Vernon.
+As a result of the information from confidential informant 1, a series of narcotics buys was arranged from the person answering the pager. The undercover purchases occurred on June 23, July 6, July 8, July 16, and August 28, in 1998. The July 16 purchase involved a second confidential informant (confidential informant 2) who participated in the transaction in a manner that is not indicated in the record. Santacruz-Hernandez was charged for all five transactions, but charges were dismissed with regard to everything except the June 23 and August 28, 1998 sales.
+Due to information received from the prosecution one business day before trial, defense counsel recognized that confidential informant 2 was also a client she had defended on several unrelated cases. Counsel claimed she had an actual conflict of interest and moved to withdraw. Despite her request, through independent counsel, to delay the trial one day so she could collect and present evidence of an actual conflict to the court, the court refused the continuance, denied the motion to withdraw, and ordered her to try the case. A jury found Santacruz-Hernandez guilty on both counts.
+Santacruz-Hernandez appeals the denial of his attorney’s motion to withdraw and requests a new trial.
+DISCUSSION
+The duty of a trial court faced with a potential conflict is the subject of In re Personal Restraint of Richardson:
+A special rule applies in such cases. In Holloway v. Arkansas, 435 U.S. 475, 55 L. Ed. 2d 426, 98 S. Ct. 1173 (1978), the Supreme Court held that a trial court’s failure, in the face of defense counsel’s warning that he had a possible conflict of interest, to either ascertain that the risk of conflict was remote or appoint different counsel per se deprived the defendant of effective assistance of counsel. Holloway, at 484. Moreover, the Court held, error of this nature can never be harmless— prejudice is to be presumed.
+While Holloway involved a situation in which defense counsel had expressly informed the court of the possibility of a conflict, its reasoning was extended in Cuyler v. Sullivan, 446 U.S. 335, 64 L. Ed. 2d 333, 100 S. Ct. 1708 (1980) and Wood v. Georgia, 450 U.S. 261, 67 L. Ed. 2d 220, 101 S. Ct. 1097 (1981). In Sullivan, the Court noted that Holloway imposed no general duty to inquire about the possibility of conflict but held nevertheless that a defendant who shows that “an actual conflict of interest adversely affected his lawyer’s performance” was entitled to relief even absent a showing of prejudice. Sullivan, at 348, 349-50. In Wood, the Court further clarified the duty to inquire by noting that “Sullivan mandates a reversal when the trial court has failed to make an inquiry even though it ‘knows or reasonably should know that a particular conflict exists.’ ” Wood, at 272 n.18 (quoting Sullivan, at 347).
+Taken together, Holloway, Sullivan, and Wood create two rules. First, a trial court commits reversible error if it knows or reasonably should know of a particular conflict into which it fails to inquire. Second, reversal is always necessary where a defendant shows an actual conflict of interest adversely affecting his lawyer’s performance. In neither situation need prejudice be shown.[]
+This appeal presents only the first question, although further inquiry may reveal an actual conflict. Here, defense counsel disclosed what she believed to be an actual conflict resulting from her representation of a confidential informant. In response, the prosecution concluded that because the informant would not be called as a witness in this case no conflict existed. Defense counsel argued that the fact that the informant would not be called by the State did not preclude the defense from making an independent determination that the informant would have helpful information. In which case, she argued, if the informant was in fact her client, she could not effectively inquire.
+After a short recess, it was confirmed that the informant was defense counsel’s client. Apparently, defense counsel then asked for a continuance off the record because the next on-record comment is that of the prosecutor objecting to a continuance because there could not be a conflict if the informant was not being called or used in the case as charged. The colloquy between the court and counsel that follows then wanders to the issue of the duty to disclose rather than the issue of a conflict. But defense counsel’s point remained that of the potential for relevant testimony from the informant.
+The proceedings continued to the next day and defense counsel appeared with her own attorney, retained because of her perceived conflict. That attorney argued the case for the conflict quite thoroughly, including citing the court to the canons of ethics. Among other comments, he stated:
+But the worst thing imaginable at this point in time is to launch her into a trial when she can’t entirely fulfill her ethical responsibilities to the man seated to her left who is her client. She can’t disclose by way of questioning or any other means the confidences or secrets that she has gained from the confidential informant client, and I am in the position that I can’t even ask for a conference in camera to disclose those to the court.
+Lastly, I’m going to say this, if I could, that all my representations here this morning to the Court have been made pursuant to [Rules of Professional Conduct] 3.3 which is the section regarding candor toward the tribunal. I have not even been able to discuss what my client has told me to enable myself to argue this hearing motion.
+I thank the Court for the time. If my imagination is not working overtime on specifics, I guarantee you, you give me 24 hours, which unfortunately I don’t have as I sit here, I’ll come up with a number of valid situations that are confronted by my client representing a confidential informant showing things she can’t use to investigate this case and representing this gentleman to her left. I’d love the opportunity to do so. I thank you for your time.
+It is clear from this portion of the record that a continuance of 24 hours was requested.
+The response by the prosecutor to this was to turn the court again to the issue of the duty to disclose the identity of the confidential informant, an issue no longer relevant in any way whatsoever. The identity of the informant was known and the informant was a client of defense counsel. Unfortunately, the trial court based its analysis, in substantial part, on the misdirection.
+When the trial court did focus on the issue presented, whether defense counsel’s perceived conflict of interest in these circumstances was sufficiently significant to prevent adequate representation of the defendant, that aspect of the inquiry necessarily occurred without the court being thoroughly informed on the issue, having failed to grant the requested 24-hour continuance.
+The applicable rule in cases of potential conflicts could not be more clear:
+The application of these rules is not limited to joint representation of codefendants. While most of the cases have involved that fact situation, the rules apply to any situation where defense counsel represents conflicting interests. That simultaneous representation of a defendant and a witness with opposing interests is such a situation is self-evident — indeed, we only recently suspended an attorney from the practice of law for placing himself in a virtually identical situation. See In re McMurray, 99 Wn.2d 920, 665 P.2d 1352 (1983) (violation of CPR DR 5-105 to represent defendant after prior representation of prosecution witness in unrelated civil proceeding).[]
+Had the trial court granted the continuance, we are reasonably confident it would have been persuaded that defense counsel’s dilemma was well taken. However, without the requisite informed inquiry on the record, it is impossible to know for certain. It also seems unlikely that this issue will arise on retrial.
+The conviction is reversed and the matter remanded for further proceedings.
+Agid, C.J., and Kennedy, J., concur.
+Reconsideration denied February 6, 2002.
+Review denied at 146 Wn.2d 1019 (2002).
+In re Pers. Restraint of Richardson, 100 Wn.2d 669, 676-77, 675 P.2d 209 (1983).
+Richardson, 100 Wn.2d at 677-78 (citations omitted).
