@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53662-1-I"
 decided: "2004-06-01"
-citations: ["122 Wash. App. 382", "121 Wash. App. 1070"]
+citations: ["122 Wash. App. 382"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, et al., Respondents, v. Yes for Seattle, Appella
 source_url: "https://static.case.law/wash-app/122/cases/0382-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 499683
-cites_cases: ["104 So. 2d 512", "122 Wn. App. 382", "123 Wn.2d 151", "125 Wn.2d 345", "128 Wn.2d 707", "148 Wn.2d 278", "149 Wn.2d 48", "149 Wn.2d 622", "150 Wn.2d 325", "153 Wn.2d 1020", "1994 OK 27", "1995 OK 77", "25 Wn. App. 309", "307 S.C. 449", "494 P.2d 990", "60 P.3d 67", "607 P.2d 329", "65 P.3d 1203", "71 P.3d 644", "76 P.3d 727", "80 Wn.2d 382", "868 P.2d 116", "870 P.2d 782", "881 P.2d 281", "884 P.2d 1326", "899 P.2d 1145", "911 P.2d 389", "93 Wn. App. 406", "968 P.2d 431"]
+cites_cases: ["104 So. 2d 512", "123 Wn.2d 151", "125 Wn.2d 345", "128 Wn.2d 707", "148 Wn.2d 278", "149 Wn.2d 48", "149 Wn.2d 622", "150 Wn.2d 325", "153 Wn.2d 1020", "1994 OK 27", "1995 OK 77", "25 Wn. App. 309", "307 S.C. 449", "494 P.2d 990", "60 P.3d 67", "607 P.2d 329", "65 P.3d 1203", "71 P.3d 644", "76 P.3d 727", "80 Wn.2d 382", "868 P.2d 116", "870 P.2d 782", "881 P.2d 281", "884 P.2d 1326", "899 P.2d 1145", "911 P.2d 389", "93 Wn. App. 406", "968 P.2d 431"]
 ---
 
 # City of Seattle v. Yes for Seattle
