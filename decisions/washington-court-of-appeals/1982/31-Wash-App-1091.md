@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "9673-7-I"
+decided: "1982-05-24"
+citations: ["31 Wash. App. 1091"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. James Patrick Dooley, Appellant."]
+source_url: "https://static.case.law/wash-app/31/cases/1091-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1822109
+---
+
+# State v. Dooley
+
+## Majority
+
+Appeal from a judgment of the Superior Court for King County, No. 80-1-02574-7, William C. Goodloe, J., entered November 18, 1980. Affirmed by unpublished opinion per James, J., concurred in by Durham, A.C.J., and Williams, J.
