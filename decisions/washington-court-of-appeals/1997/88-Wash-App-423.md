@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37260-2-I"
 decided: "1997-09-15"
-citations: ["88 Wash. App. 423", "87 Wash. App. 1060"]
+citations: ["88 Wash. App. 423"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jason Paul Haack, Appellant."
 source_url: "https://static.case.law/wash-app/88/cases/0423-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592462
-cites_cases: ["10 A.L.R.3d 974", "100 Wn.2d 520", "109 Wn.2d 896", "115 Wn.2d 60", "116 Wn.2d 51", "128 Wn.2d 896", "134 Wn.2d 1016", "290 U.S. 96", "37 Wn. App. 474", "384 U.S. 436", "422 P.2d 838", "426 P.2d 489", "438 P.2d 185", "463 P.2d 779", "490 F.2d 758", "509 P.2d 742", "525 P.2d 731", "545 P.2d 538", "606 P.2d 263", "674 P.2d 650", "682 P.2d 925", "70 Wn.2d 328", "71 Wn.2d 47", "73 Wn.2d 271", "748 P.2d 1118", "77 Wn.2d 553", "794 P.2d 850", "804 P.2d 577", "82 Wn.2d 157", "84 Wn.2d 256", "86 Wn.2d 419", "88 Wn. App. 423", "913 P.2d 369", "93 Wn.2d 95"]
+cites_cases: ["10 A.L.R.3d 974", "100 Wn.2d 520", "109 Wn.2d 896", "115 Wn.2d 60", "116 Wn.2d 51", "128 Wn.2d 896", "134 Wn.2d 1016", "290 U.S. 96", "37 Wn. App. 474", "384 U.S. 436", "422 P.2d 838", "426 P.2d 489", "438 P.2d 185", "463 P.2d 779", "490 F.2d 758", "509 P.2d 742", "525 P.2d 731", "545 P.2d 538", "606 P.2d 263", "674 P.2d 650", "682 P.2d 925", "70 Wn.2d 328", "71 Wn.2d 47", "73 Wn.2d 271", "748 P.2d 1118", "77 Wn.2d 553", "794 P.2d 850", "804 P.2d 577", "82 Wn.2d 157", "84 Wn.2d 256", "86 Wn.2d 419", "913 P.2d 369", "93 Wn.2d 95"]
 ---
 
 # State v. Haack
