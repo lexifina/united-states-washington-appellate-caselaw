@@ -1,0 +1,75 @@
+---
+court: "Washington Court of Appeals"
+docket: "5639-1"
+decided: "1979-02-13"
+citations: ["22 Wash. App. 618"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Willie L. Culp, et al, Respondents, v. The City of Seattle, et al, Respondents, Friends Services, Inc., Appellant."]
+source_url: "https://static.case.law/wash-app/22/cases/0618-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 467061
+cites_cases: ["13 Wn. App. 755", "1400 A.D. 1", "16 Wn. App. 103", "180 Wash. 347", "374 P.2d 1002", "380 P.2d 735", "39 P.2d 986", "488 P.2d 511", "512 P.2d 1114", "525 P.2d 774", "537 P.2d 856", "546 P.2d 912", "548 P.2d 1093", "553 P.2d 450", "556 P.2d 936", "564 P.2d 1145", "60 Wn.2d 521", "61 Wn.2d 772", "79 Wn.2d 619", "84 Wn.2d 271", "86 Wn.2d 527", "87 Wn.2d 19", "87 Wn.2d 717", "88 Wn.2d 624", "9 Wn. App. 446", "97 A.L.R. 1235"]
+---
+
+# Culp v. City of Seattle
+
+## Majority (Williams, J.)
+
+Williams, J.
+This proceeding was instituted by an application for a writ of certiorari, RCW 7.16, to determine whether a conditional use permit approved by an examiner of the City of Seattle and affirmed with modification by the Seattle Board of Adjustment conforms to law. The trial court determined that the permit did not and ordered it vacated. We affirm.
+The facts are that Friends Services, Inc., sought to establish a home for retarded children in the Madison Park area of Seattle. It applied for a permit to build a facility there housing up to 12 children to be supervised by a professional staff. There is some dispute as to how the proposed facility would be operated, but it is clear that Friends Services will supply a professional staff, at least one of whom will be in residence at all times. The site for the proposed facility is within a zone classified as "Single Family Residence High Density Zone," Seattle zoning code § 26.16, and a children's resident home is permitted only as a conditional use when authorized by the Board. Seattle zoning code § 26.12.030.
+After a public hearing, an examiner approved the conditional use permit. A neighborhood group appealed to the Seattle Board of Adjustment. The Board confirmed the issuance with the condition that "someone will live in the dwelling unit and that the complete staff will not be rotated at all times." The neighborhood group then obtained review by certiorari to the superior court. The court decided that the facility would not meet the requirements of a children's resident home and vacated the permit. Friends Services' appeal followed.
+A board of adjustment is only permitted to grant a conditional use permit in accordance with the guidelines set forth in the zoning ordinance. See State ex rel. Pruzan v. Redman, 60 Wn.2d 521, 374 P.2d 1002 (1962). In reviewing such action, judicial review is limited to an inquiry of whether the action of the Board is "arbitrary, capricious, or contrary to law." Lewis v. Medina, 87 Wn.2d 19, 22, 548 P.2d 1093 (1976). See also State ex rel. Lyon v. Snohomish County, 9 Wn. App. 446, 512 P.2d 1114 (1973). The appellate court stands in the same position as the superior court and applies the same test directly to the administrative action. Leschi Improvement Council v. State Highway Comm'n, 84 Wn.2d 271, 286, 525 P.2d 774 (1974).
+The guidelines established by the Seattle zoning code for the proposed facility require that it be a children's resident home which is defined as:
+A dwelling unit occupied by a family which provides full-time supervision for from seven to twelve children unrelated to the resident family.
+Seattle zoning code § 26.06.040.
+A "Family" is defined as:
+Any number of related persons, or not to exceed eight nonrelated persons, or not to exceed a total of eight related and nonrelated, nontransient persons living as a single, nonprofit housekeeping unit as distinguished from a group occupying a club; boarding, lodging, or rooming house; fraternity, sorority, or group student house.
+Seattle zoning code § 26.06.070.
+The issue on appeal is whether the staff of the facility as proposed by Friends Services constitutes a "family" within this definition. Friends Services argues that only one staff member need be a nontransient resident of the children's home for the "family" requirement to be satisfied. The remainder of the staff need not live on the premises. The neighborhood group argues that the definition of family requires that all the staff live on the premises as a non-transient, single housekeeping unit. This is a question of law for the court to decide. Standow v. Spokane, 88 Wn.2d 624, 564 P.2d 1145 (1977), Leschi Improvement Council v. State Highway Comm'n, supra.
+It should be noted that the code provides not only for a children's resident home, but, also, for a children's institution which is defined as:
+An establishment consisting of one or more buildings organized and maintained for the group care and supervision of thirteen or more children, but not including hospitals.
+Seattle zoning code § 26.06.040.
+It is apparent that the scheme of the code is to differentiate between a dwelling occupied by a family which takes in and cares for children and one which is occupied by children supervised by a staff. The former is compatible with the traditional notion of a family; the latter is compatible with the traditional notion of an institution. The framers of the code recognized the distinction and allowed land in a single family resident zone to be used for the former. A staff operated institution such as that proposed by Friends Services does not fit. There is not the stability and continuity of living and sharing which a family unit affords.
+The trial court's order vacating the permit is affirmed.
+Andersen, A.C.J., concurs.
+
+## Concurrence (Andersen, A.C.J.)
+
+Andersen, A.C.J.
+(concurring) — I concur that the decision of the trial court should be affirmed.
+Boards of adjustment have considerable discretion. That discretion is not unlimited, however. What the Seattle Board of Adjustment did here was to try to stretch the meaning of the Seattle Zoning Code past what the Seattle City Council intended when it enacted that code.
+The problem with stretching the definitions of the words "family" and "home" in the zoning code to achieve that which is felt to be socially desirable (that is, to allow special housing for retarded citizens to be established in single family residential neighborhoods) is that once stretched, the definition may also accommodate that which may not necessarily be so socially desirable, such as mini-prisons, for example.
+As the learned trial judge pointed out in his oral decision, if the Seattle City Council, as the legislative branch of that city's government, considers it appropriate that homes such as are here at issue be established in residential neighborhoods, then the straightforward way of doing this is to amend the city's zoning ordinance to so provide.
+
+## Dissent (Ringold, J.)
+
+Ringold, J.
+(dissenting) — I would hold that the facility as proposed by Friends Services and the ,condition imposed by the Board satisfies the definition of "family" and therefore reverse the trial court.
+The site selected for the proposed facility is zoned RS 5000. Seattle zoning code, map section 38 W (1957) (Zoning Code). A children's resident home is a permitted conditional use in this zone when duly authorized by the City of Seattle's Board of Adjustment (Board). Zoning Code 26.12.030(a) and 26.16.030(a).
+Friends Services applied for a conditional use permit. The permit was granted by a hearing examiner, whose decision on appeal by the Madison Park Committee for Residents' Rights (MPCRR) was affirmed by the Board. The Board imposed the following condition on Friends Services: "That someone will live in the dwelling unit and that the complete staff will not be rotated at all times." MPCRR appealed by- writ of certiorari to the Superior Court on several grounds. The trial court held as a matter of law that the proposed facility was not a children's resident home as defined in the Zoning Code, and reversed the decision of the hearing examiner and the Board.
+There are certain principles which must guide us in determining this controversy. As stated in State ex rel. Randall v. Snohomish County, 79 Wn.2d 619, 625, 488 P.2d 511 (1971):
+[T]he role of the judiciary in reviewing [zoning] enactments and decisions is limited to the determination of whether they satisfy constitutional requirements and to the determination of whether administrative decisions are arbitrary and capricious or ultra vires. Beyond those limits there are serious questions of wisdom and practicality.
+The courts may agree or disagree with decisions of municipal bodies, but such sentiments, standing alone, should not provide the basis for a court's interference in municipal zoning decisions. Washington Ass'n for Retarded Citizens v. Spokane, 16 Wn. App. 103, 553 P.2d 450 (1976). The wisdom or desirability of establishing children's resident homes in single family residential zones is not before us. Our inquiry is limited to the proper interpretation of the Zoning Code.
+Construction or interpretation of a legislative enactment is a judicial function. See State ex rel. Humiston v. Meyers, 61 Wn.2d 772, 380 P.2d 735 (1963). The court's duty is to construe legislation so as to make it purposeful and effective. State v. Hull, 86 Wn.2d 527, 546 P.2d 912 (1976). In interpreting a statute or ordinance the court should give great weight to the construction placed upon it by officials charged with its enforcement, Ball v. Smith, 87 Wn.2d 717, 556 P.2d 936 (1976).
+In Zoning Code § 26.06.040, a "children's resident home" is defined as: "A dwelling unit[ ] occupied by a family which provides full-time supervision for from seven to twelve children unrelated to the resident family." The trial court concluded, and the parties do not dispute, that the proposed facility was a dwelling unit. The case turns on the meaning of the terms "family" or "resident family". Zoning Code § 26.06.070 defines "family" as:
+Any number of related persons, or not to exceed eight nonrelated persons, or not to exceed a' total of eight related and nonrelated, nontransient persons living as a single, nonprofit housekeeping unit as distinguished from a group occupying a club; boarding, lodging, or rooming house; fraternity, sorority, or group student house.
+The trial court concluded that under the above definition all members of the staff of the proposed facility must reside therein to constitute a family. It found that the condition imposed by the Board
+does not require that staff members maintain a residence in the facility at all times, and therefore does not insure that the staff will live in the facility at all times as a 'resident family'.
+Under Zoning Code § 26.06.070 a family may be composed of either:
+1. Any number of related persons;
+2. Any number of nonrelated persons, not to exceed eight; or
+3. Any number of related and nonrelated, nontransient persons, not to exceed a total of eight.
+This definition of "family" applies generally throughout the Zoning Code and limits only the number of related and nonrelated persons who may live in a single, nonprofit housekeeping unit and still comprise a family.
+The majority creates an impossible morass when it attempts to define "family" as ... "[a relationship] compatible with the traditional notion of a family." The word is used to designate many relationships. See Collins v. Northwest Cas. Co., 180 Wash. 347, 39 P.2d 986, 97 A.L.R. 1235 (1935).
+It is, however, not necessary for us to indulge in etymology to discover the meaning of "family" as used by the drafters of the Zoning Code because they define it as any number of related and nonrelated persons. One person will suffice. Moreover, nothing in the ordinance defining "family" requires that all members of the staff reside at the proposed facility. It requires only that a number of them, as few as one or as many as eight, reside there. A children's resident home need only be occupied by a "family" which provides "full-time supervision" for 7 to 12 children. Families use relatives, friends, babysitters, and tutors to provide some regular supervisory function. To hold that all persons performing some regular function in any family setting must actually reside in the house would lead to unreasonable and illogical consequences which should be avoided. See Williams v. Pierce County, 13 Wn. App. 755, 537 P.2d 856 (1975).
+Friends Services indicated to the Board that its staff arrangements included staff persons living at the proposed facility as their place of residence. This was sufficient to support the grant of the conditional use permit. The condition imposed by the Board is consistent with the Zoning Code requirements for a children's resident home.
+My interpretation of the relevant provisions of the Zoning Code would require us to reverse the trial court's decision and reinstate the conditional use permit as granted by the Board. If the future operation of the children's resident home were found to be in violation of the Zoning Code or the terms of the conditional use permit, appropriate action could then be pursued before the proper municipal body.
+It is clear from the record that this condition was added to insure that someone would permanently reside in the dwelling unit.
+Unless otherwise noted emphasized words in quotations from the Seattle zoning code (1957) are so in the original and indicate only that such words are defined in chapter 26.06 of the code.
+A "dwelling unit” is defined as "A room or suite of two or more rooms that is designed for and not occupied by more than one family doing its own cooking therein and having only one kitchen facility located within a building." Zoning Code § 26.06.050.
+Black's Law Dictionary (4th ed. 1968) contains more than three pages defining "family." The Oxford English Dictionary (compact ed. 1976) indicates that the word "family" is derived from the Latin word "familia," which means "household." A cognate of the word, "famulus," means "servant."
+The Oxford English Dictionary lists examples of the use of the word "family" in the sense of "household" as old as 1400 A.D. 1 Oxford English Dictionary 958 (compact ed. 1976).
+Amid its numerous definitions of "family," Webster's Third New International Dictionary (1971) contains these: "a group of people bound together by philosophical, religious, or other convictions; ... a body of employees or volunteer workers united in a common enterprise (reference is made not just to the administrators, but to every single member of the community hospital...).'.. a group of persons sharing a common dwelling and table considered for census purposes to include at one extreme a single person living alone and at the other the residents of a hotel or the inmates of a prison;" Any one of the above definitions could describe the association contemplated here.
