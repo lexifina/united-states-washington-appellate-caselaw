@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "27686-1-II"
+decided: "2002-09-27"
+citations: ["113 Wash. App. 711"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Donald Harold Robertson, Appellant, and Shellie Marie Robertson, Respondent."]
+source_url: "https://static.case.law/wash-app/113/cases/0711-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 764716
+cites_cases: ["116 Wn.2d 923", "128 Wn.2d 508", "132 Wn.2d 484", "132 Wn.2d 80", "134 Wn.2d 523", "139 Wn.2d 724", "140 Wn.2d 138", "459 P.2d 787", "520 P.2d 162", "643 P.2d 436", "77 Wn.2d 174", "809 P.2d 1377", "83 Wn.2d 523", "910 P.2d 462", "936 P.2d 408", "939 P.2d 691", "951 P.2d 770", "97 Wn.2d 227", "991 P.2d 80", "995 P.2d 31"]
+---
+
+# In re the Marriage of Robertson
+
+## Majority (Seinfeld, J.)
+
+Seinfeld, J.
+— This case involves the authority of the superior court to extend the time for reviewing a superior court commissioner’s order beyond the 10 days set forth in RCW 2.24.050. We hold that the plain language of the statute requires the party seeking review to file a motion for revision within 10 days and that after that time, the party must obtain review from the appellate court. Further, neither the statute nor court rules allow the superior court to treat a late motion for revision as a timely motion for reconsideration. Thus, we reverse.
+FACTS
+Shellie and Donald Robertson divorced in 1993. That same year, the Pierce County Superior Court entered a child support order for the couple’s two children. In February 2001, Shellie petitioned for modification of the child support order.
+On June 7, 2001, after a contested hearing, a superior court commissioner entered an order granting modification. On Tuesday, June 19, 12 days after the commissioner entered the modification order, Shellie moved under RCW 2.24.050 to revise the order’s income provisions and transfer payment amount.
+Donald moved to strike the revision motion as untimely. The superior court denied Donald’s motion, ruling that Shellie had an additional 10 days to seek reconsideration under CR 59(b) after the commissioner’s order “became a Superior Court order” at the end of the 10-day revision period. Finding that Shellie had complied with the deadline for moving for reconsideration, the trial court addressed the merits of the motion and entered a revised child support order. Donald now appeals.
+DISCUSSION
+Donald argues that under the plain language of RCW 2.24.050, when the deadline passes for moving for revision, an aggrieved party’s only recourse is to seek appellate review. We agree.
+We review statutory interpretation questions de novo. State v. Azpitarte, 140 Wn.2d 138, 140-41, 995 P.2d 31 (2000); Rettkowski v. Dep’t of Ecology, 128 Wn.2d 508, 515, 910 P.2d 462 (1996). Unambiguous statutes are not open to judicial interpretation; we must determine their meaning by referring only to the statutory language. Harmon v. Dep’t of Soc. & Health Servs., 134 Wn.2d 523, 530, 951 P.2d 770 (1998); Rettkowski, 128 Wn.2d at 515.
+Superior court commissioners may resolve family court matters subject to revision by the superior court, as provided in RCW 2.24.050. RCW 26.12.050, .060, .215. RCW 2.24.050 allows either party to request revision by filing a motion for revision within 10 days of entry of the commissioner’s order:
+All of the acts and proceedings of court commissioners hereunder shall be subject to revision by the superior court. Any party in interest may have such revision upon demand made by written motion, filed with the clerk of the superior court, within ten days after the entry of any order or judgment of the court commissioner. Such revision shall be upon the records of the case, and the findings of fact and conclusions of law entered by the court commissioner, and unless a demand for revision is made within ten days from the entry of the order or judgment of the court commissioner, the orders and judgments shall be and become the orders and judgments of the superior court, and appellate review thereof may be sought in the same fashion as review of like orders and judgments entered by the judge.
+RCW 2.24.050.
+This language clearly and unambiguously gives the party requesting superior court review of a commissioner’s order only 10 days from the date of the commissioner’s order to move for revision. The statute also clearly and unambiguously provides that a party who fails to act within the 10 days must seek relief from the appellate court. See State v. Mollichi, 132 Wn.2d 80, 93, 936 P.2d 408 (1997).
+Thus, under RCW 2.24.050, once the 10 days passed, Shellie’s only recourse for review was with the Court of Appeals. Consequently, the superior court lacked statutory authority to consider Shellie’s revision motion as a motion for reconsideration.
+Nor has Shellie demonstrated that the superior court had inherent authority to ignore the 10-day deadline, given the clear mandate of RCW 2.24.050. Courts have inherent powers “to do all that is reasonably necessary for the efficient administration of justice.” State v. Wadsworth, 139 Wn.2d 724, 740-41, 991 P.2d 80 (2000) (courts have relied on inherent powers in cases involving granting bail, compelling production of evidence and attendance of witnesses, regulating practice of law, and adoption of procedural rules for operation of courts). But Shellie has offered no support for the proposition that a court may ignore a clear statutory mandate absent a finding that the statute is unconstitutional.
+Further, Shellie’s proposal has separation of powers implications. A court may not ignore a statutory dictate without first finding that the statute is unconstitutional. Aetna Life Ins. Co. v. Wash. Life & Disability Ins. Guar. Ass’n, 83 Wn.2d 523, 527-28, 520 P.2d 162 (1974) (“[The court has no] substantive power to review and nullify acts of the legislature apart from passing on their constitutionality .. . .”). Nor has Shellie demonstrated an unavoidable conflict between a court rule and a procedural statute, in which case the court rule would govern. See State v. Blilie, 132 Wn.2d 484, 491, 939 P.2d 691 (1997).
+Moreover, there is no basis for finding substantial compliance with the statute. See In re Des Moines Sewer Dist., 97 Wn.2d 227, 230, 643 P.2d 436 (1982) (courts have long accepted procedural requirements directed by the legislature, but substantial compliance with these requirements may be sufficient in some circumstances); see also City of Seattle v. Pub. Employment Relations Comm’n, 116 Wn.2d 923, 928, 809 P.2d 1377 (1991) (in cases finding substantial compliance, “there has been actual compliance with the statute, albeit procedurally faulty”). As the Supreme Court has found, it is impossible to substantially comply with a statutory time limit — there either is or is not compliance. City of Seattle, 116 Wn.2d at 928-29 (discussing a filing and service deadline in the administrative procedure act). Thus, “failure to comply with a statutorily set time limitation cannot be considered substantial compliance with [the] statute.” City of Seattle, 116 Wn.2d at 929.
+Consequently, Shellie has failed to establish that the superior court had either statutory or inherent authority to treat her untimely revision motion as a timely motion for reconsideration.
+Both parties request attorney fees incurred on appeal. RCW 26.09.140 provides in part that “[u]pon any appeal, the appellate court may, in its discretion, order a party to pay for the cost to the other party of maintaining the appeal and attorney’s fees.” In determining whether attorney fees should be awarded, the needs of the requesting party should be balanced against the other party’s ability to pay. Bowman v. Bowman, 77 Wn.2d 174, 177, 459 P.2d 787 (1969). We have examined both parties’ financial affidavits and conclude that each party should bear their own costs on appeal.
+Accordingly, we reverse the superior court and reinstate the superior court commissioner’s order.
+Hunt, C.J., and Armstrong, J., concur.
+The court stated:
+Well, absent a case from the State Supreme Court or the Court of Appeals saying that the 10 days is jurisdictional, I’m going to treat it like — you have 10 days to file a motion to revise. If you don’t file your motion to revise within 10 days, then you’ve got to follow the CR 59(b). And 59(b) says you’ve got 10 days from when this thing became a Superior Court order. Which means it became a Superior Court order on — at the close of business on Monday the [18th].... So now we’re going to talk about whether I should reconsider what the commissioner did.
+Report of Proceedings (July 13, 2001) at 10-11.
+Because the superior court erred when it considered Shellie’s motion, we need not reach the issue of whether its decision on the merits was correct.
