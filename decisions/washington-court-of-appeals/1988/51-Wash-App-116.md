@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20169-7-I"
 decided: "1988-01-08"
-citations: ["51 Wash. App. 116", "50 Wash. App. 1028"]
+citations: ["51 Wash. App. 116"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Corydan Cochran, Appellant."]
 source_url: "https://static.case.law/wash-app/51/cases/0116-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591814
-cites_cases: ["101 Wn.2d 745", "106 Wn.2d 54", "107 S. Ct. 1383", "107 S. Ct. 27", "107 S. Ct. 273", "139 Ariz. 98", "19 Wn. App. 860", "295 Or. 260", "33 Wn. App. 648", "377 U.S. 463", "38 Wn. App. 600", "392 Mass. 273", "400 U.S. 470", "424 U.S. 600", "43 Wn. App. 208", "44 Wn. App. 724", "456 U.S. 667", "459 U.S. 1018", "459 U.S. 842", "465 N.E.2d 256", "47 Wn. App. 600", "474 P.2d 254", "474 U.S. 830", "51 Wn. App. 116", "550 P.2d 507", "572 F. Supp. 709", "578 P.2d 74", "610 P.2d 357", "616 F.2d 231", "637 P.2d 956", "638 P.2d 1205", "653 P.2d 618", "656 P.2d 1137", "682 P.2d 889", "683 F.2d 769", "686 F.2d 298", "686 P.2d 1143", "690 F.2d 794", "716 P.2d 911", "720 P.2d 808", "723 P.2d 28", "728 F.2d 313", "736 F.2d 1299", "736 P.2d 302", "78 Wn.2d 327", "785 F.2d 228", "800 F.2d 1325", "806 F.2d 7", "87 Wn.2d 175", "93 Wn.2d 454", "96 Wn.2d 578", "96 Wn.2d 739", "98 Wn.2d 87"]
+cites_cases: ["101 Wn.2d 745", "106 Wn.2d 54", "107 S. Ct. 1383", "107 S. Ct. 27", "107 S. Ct. 273", "139 Ariz. 98", "19 Wn. App. 860", "295 Or. 260", "33 Wn. App. 648", "377 U.S. 463", "38 Wn. App. 600", "392 Mass. 273", "400 U.S. 470", "424 U.S. 600", "43 Wn. App. 208", "44 Wn. App. 724", "456 U.S. 667", "459 U.S. 1018", "459 U.S. 842", "465 N.E.2d 256", "47 Wn. App. 600", "474 P.2d 254", "474 U.S. 830", "550 P.2d 507", "572 F. Supp. 709", "578 P.2d 74", "610 P.2d 357", "616 F.2d 231", "637 P.2d 956", "638 P.2d 1205", "653 P.2d 618", "656 P.2d 1137", "682 P.2d 889", "683 F.2d 769", "686 F.2d 298", "686 P.2d 1143", "690 F.2d 794", "716 P.2d 911", "720 P.2d 808", "723 P.2d 28", "728 F.2d 313", "736 F.2d 1299", "736 P.2d 302", "78 Wn.2d 327", "785 F.2d 228", "800 F.2d 1325", "806 F.2d 7", "87 Wn.2d 175", "93 Wn.2d 454", "96 Wn.2d 578", "96 Wn.2d 739", "98 Wn.2d 87"]
 ---
 
 # State v. Cochran
