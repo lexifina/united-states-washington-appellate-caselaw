@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12033-0-II"
 decided: "1989-10-30"
-citations: ["58 Wash. App. 751", "55 Wash. App. 1052"]
+citations: ["58 Wash. App. 751"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
