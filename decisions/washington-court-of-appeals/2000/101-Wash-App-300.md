@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44449-2-I"
 decided: "2000-05-30"
-citations: ["101 Wash. App. 300", "100 Wash. App. 1071"]
+citations: ["101 Wash. App. 300"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
