@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44369-1-I"
 decided: "2000-02-28"
-citations: ["100 Wash. App. 179", "99 Wash. App. 1047"]
+citations: ["100 Wash. App. 179"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Clayton James Hooper, Appella
 source_url: "https://static.case.law/wash-app/100/cases/0179-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363197
-cites_cases: ["100 Wn. App. 179", "108 Wn.2d 419", "108 Wn.2d 458", "119 Wn.2d 390", "120 Wn.2d 1011", "129 Wn.2d 535", "132 Wn.2d 182", "55 Wn. App. 562", "568 P.2d 797", "659 P.2d 514", "66 Wn. App. 770", "67 Wn. App. 773", "739 P.2d 683", "740 P.2d 824", "778 P.2d 1079", "832 P.2d 1369", "832 P.2d 481", "841 P.2d 49", "89 Wn.2d 63", "919 P.2d 69", "937 P.2d 575", "95 Wn. App. 700", "977 P.2d 47", "99 Wn.2d 1"]
+cites_cases: ["108 Wn.2d 419", "108 Wn.2d 458", "119 Wn.2d 390", "120 Wn.2d 1011", "129 Wn.2d 535", "132 Wn.2d 182", "55 Wn. App. 562", "568 P.2d 797", "659 P.2d 514", "66 Wn. App. 770", "67 Wn. App. 773", "739 P.2d 683", "740 P.2d 824", "778 P.2d 1079", "832 P.2d 1369", "832 P.2d 481", "841 P.2d 49", "89 Wn.2d 63", "919 P.2d 69", "937 P.2d 575", "95 Wn. App. 700", "977 P.2d 47", "99 Wn.2d 1"]
 ---
 
 # State v. Hooper
