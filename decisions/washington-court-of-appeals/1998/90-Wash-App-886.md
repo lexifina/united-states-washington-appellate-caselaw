@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40553-5-I"
 decided: "1998-03-30"
-citations: ["90 Wash. App. 886", "90 Wash. App. 1009"]
+citations: ["90 Wash. App. 886"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. S.E., Appellant."]
 source_url: "https://static.case.law/wash-app/90/cases/0886-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428897
-cites_cases: ["52 Wn. App. 30", "656 P.2d 1064", "74 Wn. App. 23", "756 P.2d 1332", "82 Wn. App. 185", "871 P.2d 1115", "90 Wn. App. 886", "917 P.2d 155", "98 Wn.2d 484"]
+cites_cases: ["52 Wn. App. 30", "656 P.2d 1064", "74 Wn. App. 23", "756 P.2d 1332", "82 Wn. App. 185", "871 P.2d 1115", "917 P.2d 155", "98 Wn.2d 484"]
 ---
 
 # State v. S.E.
