@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27669-7-I"
 decided: "1992-03-23"
-citations: ["65 Wash. App. 739", "64 Wash. App. 1030"]
+citations: ["65 Wash. App. 739"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Birch Bay Trailer Sales, Inc., et al, Appellants, v. Whatcom County, 
 source_url: "https://static.case.law/wash-app/65/cases/0739-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1736089
-cites_cases: ["100 Wn.2d 1002", "103 Wn.2d 79", "104 Wn.2d 73", "111 Wn.2d 903", "114 Wn.2d 1001", "119 Wn.2d 1023", "306 P.2d 739", "31 Wn. App. 467", "34 Wn. App. 508", "45 Wn. App. 248", "482 P.2d 775", "49 Wn.2d 728", "501 P.2d 1243", "51 Wn. App. 415", "54 Wn. App. 627", "642 P.2d 1255", "643 P.2d 426", "65 Wn. App. 739", "658 P.2d 648", "662 P.2d 403", "690 P.2d 1153", "7 Wn. App. 676", "700 P.2d 1161", "724 P.2d 1110", "754 P.2d 116", "774 P.2d 1244", "79 Wn.2d 12", "97 Wn.2d 1041", "97 Wn.2d 215", "98 Wn.2d 690"]
+cites_cases: ["100 Wn.2d 1002", "103 Wn.2d 79", "104 Wn.2d 73", "111 Wn.2d 903", "114 Wn.2d 1001", "119 Wn.2d 1023", "306 P.2d 739", "31 Wn. App. 467", "34 Wn. App. 508", "45 Wn. App. 248", "482 P.2d 775", "49 Wn.2d 728", "501 P.2d 1243", "51 Wn. App. 415", "54 Wn. App. 627", "642 P.2d 1255", "643 P.2d 426", "658 P.2d 648", "662 P.2d 403", "690 P.2d 1153", "7 Wn. App. 676", "700 P.2d 1161", "724 P.2d 1110", "754 P.2d 116", "774 P.2d 1244", "79 Wn.2d 12", "97 Wn.2d 1041", "97 Wn.2d 215", "98 Wn.2d 690"]
 ---
 
 # Birch Bay Trailer Sales, Inc. v. Whatcom County
