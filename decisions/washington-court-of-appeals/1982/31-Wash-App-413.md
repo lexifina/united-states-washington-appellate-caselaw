@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "4297-9-III"
+decided: "1982-03-16"
+citations: ["31 Wash. App. 413"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Robert D. Adams, et al, Appellants, v. Randall K. Whited, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/31/cases/0413-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1822359
+cites_cases: ["15 Wn. App. 742", "16 Wn. App. 446", "22 Wn. App. 531", "28 Wn. App. 359", "28 Wn. App. 762", "551 P.2d 1398", "557 P.2d 24", "581 P.2d 1349", "583 P.2d 1188", "591 P.2d 824", "614 P.2d 184", "623 P.2d 710", "626 P.2d 522", "90 Wn.2d 355", "90 Wn.2d 362", "94 Wn.2d 40"]
+---
+
+# Adams v. Whited
+
+## Majority (McInturff,)
+
+McInturff,
+C.J.—Mr. and Mrs. Robert Adams appeal the denial of their motion for summary judgment and dismissal of a claim under the Consumer Protection Act. The critical issue concerns whether the deceptive conduct or practice has the potential for repetition.
+Randall Whited, a builder specializing in construction of FHA-265 subsidized housing, purchased an undeveloped parcel of land in a transaction brokered by J. Pat O'Neill realtors (O'Neill). Messrs. Whited and O'Neill evidently had a continuing relationship whereby O'Neill located lots suitable for FHA-265 construction and Mr. Whited agreed to list for sale the completed houses with the O'Neill firm. Subsequently, Mr. Whited listed the property in question through O'Neill in the Multiple Listing Service directory for Spokane County as available for sale with a "home to be built" of 768 square feet on the main floor.
+In April 1979 the Adams executed a real estate purchase and sale agreement for the property. The earnest money agreement between the Adams and Mr. Whited, drawn by O'Neill, specified the construction of an FHA-265 home with 768 square feet on the main floor. Mr. Whited began construction of the house. Subsequently it became known that a restrictive covenant precluded construction of a house with a main floor area less than 1,200 square feet. Construction was terminated.
+The Adams alleged (1) breach of contract, (2) negligence in failing to discover the restrictive covenant, and (3) consumer protection violations. O'Neill moved for summary judgment regarding the consumer protection claim. It was granted arid the third cause of action was dismissed with prejudice. The trial judge determined the agreement was an isolated transaction with no potential for repetition. The case proceeded to trial on the two remaining causes of action resulting in a jury award based on negligent misrepresentation. The Adams appeal from the summary judgment which dismissed the consumer protection claim.
+Although we are mindful the Consumer Protection Act is to be "liberally construed" there are limitations to its enforcement. A private party may recover under the Consumer Protection Act based on (1) a per se violation of a statute where there is a specific legislative declaration the public has an interest in the subject matter of the action, Salois v. Mutual of Omaha Ins. Co., 90 Wn.2d 355, 359, 581 P.2d 1349 (1978); Lidstrand v. Silvercrest Indus., 28 Wn. App. 359, 366, 623 P.2d 710 (1981), or (2) on deceptive practices in trade or commerce unregulated by statutes containing the foregoing declaration but which nonetheless involved the public interest. Anhold v. Daniels, 94 Wn.2d 40, 45-46, 614 P.2d 184 (1980). In Anhold, the court held the presence of public interest is demonstrated when:
+[T]he proof establishes that (1) the defendant by unfair or deceptive acts or practices in the conduct of trade or commerce has induced the plaintiff to act or refrain from acting; (2) the plaintiff suffers damage brought about by such action or failure to act; and (3) the defendant's deceptive acts or practices have the potential for repetition.
+Id., at 46. See also Ulberg v. Seattle Bonded, Inc., 28 Wn. App. 762, 765, 626 P.2d 522 (1981).
+We conclude material issues of fact remain under the Anhold test. The trial judge concluded the first two elements were applicable to the facts presented. He determined Messrs. Whited and O'Neill listed the property in the Multiple Listing Service directory in Spokane County indicating the property was available for sale together with a home covering 768 square feet on the main floor. The court further determined this conduct induced the Adams to act to their detriment by failing to disclose a restrictive covenant which prevented construction of the home for which the parties contracted.
+The remaining element, that is, whether the deceptive conduct or practice has the potential for repetition, should not have been summarily determined as a matter of law to favor the defendants. Here, the listing of the property in the Multiple Listing Service directory was placed with the intent to sell the parcel of land and a house to be built with a specified number of square feet on the main floor. The listing was placed directly and/or indirectly before the general public.* * J. Pat O'Neill, the owner of the real estate company, stated in his deposition:
+Q. And you inform the general public as to the availability of a particular piece of property through the Multiple Listing Service?
+A. That is one of the best ways, yes.
+Mr. O'Neill further noted the extensive circulation of the Multiple Listing directory:
+Q. And the information that is contained on the listing form then is basically a description of the inventory that you have to sell?
+A. Yes.
+Q. Hopefully it has enough information on there that 1500 realtors can decipher and present to their prospective buyers, and subsequently when a buyer is looking at a property as being represented to him, that the property conforms with the description on the listing; is it not?
+A. Right.
+Additionally, testimony indicated Messrs. Whited and O'Neill maintained a continuing business relationship whereby O'Neill located lots suitable for FHA-265 homes in exchange for the listing of the lot and home. Testimony further indicated it was O'Neill's policy to not check on restrictive covenants prior to advertising a lot as suitable for the proposed project.
+For the foregoing reasons a material issue of fact regarding the potential for repetition is yet to be resolved. Should the court determine the Consumer Protection Act is applicable, it should assess reasonable attorney's fees for this appeal.
+Judgment of the Superior Court is reversed; the matter is remanded for a hearing to decide the stated material issue.
+Green and Munson, JJ., concur.
+Reconsideration denied April 12, 1982.
+The covenant states in part: "The ground floor area of the main structure, exclusive of one-story, open porches and garage, shall not be less than 1,200 feet for a one-story building."
+In Salois the court noted that some statutes incorporate by reference a specific mandate that a violation of the statute is a per se violation of the Consumer Protection Act, e.g., RCW 19.16 (Collection Agency Act); RCW 19.09 (charitable solicitations); RCW 19.52 (usury); RCW 19.100 (franchise investment); RCW 19.102 (chain distributorship); RCW 18.35 (hearing aids); while violation of other statutes are considered to be against public policy as declared by the legislature or judiciary, e.g., RCW 19.31 (The Employment Agency Act); RCW Title 48 (insurance act); RCW 46.70 (unfair motor vehicle business practices act); RCW 63.14 (retail installment sales of goods and services act). We do not find the claimed violation of RCW 9.04.010, relating to untrue, deceptive or misleading statements of fact in advertising, or the claimed violation of RCW 18.85.230 authorizing suspension of real estate licenses in the event of similar actions constitute a per se violation of the Consumer Protection Act under the rationale of Salois, supra at 359-60, or Anhold v. Daniels, 94 Wn.2d 40, 43, 614 P.2d 184 (1980).
+As stated in Fisher v. World-Wide Trophy Outfitters, 15 Wn. App. 742, 748, 551 P.2d 1398 (1976): "[p]laintiffs, members of the general public to whom the advertising was directed, were damaged as a result of defendant's advertisements" which "constitute unfair or deceptive acts . . . within the meaning of RCW 19.86-.020 ..." Cases where no public involvement was found include Allen v. Anderson, 16 Wn. App. 446, 447, 557 P.2d 24 (1976) (sale of defective apartment building by builder-owner (without listing) to buyer who approached seller on his own initiative); Pilch v. Hendrix, 22 Wn. App. 531, 532, 591 P.2d 824 (1979) (failure of defendant-builder to replace concrete steps at private residence in workmanlike manner was merely breach of private contract); Brown v. Charlton, 90 Wn.2d 362, 368, 583 P.2d 1188 (1978) (small-scale water providers not subject to public interest regulation).
