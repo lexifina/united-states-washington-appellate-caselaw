@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21625-6-II"
 decided: "1998-11-13"
-citations: ["93 Wash. App. 329", "93 Wash. App. 1003"]
+citations: ["93 Wash. App. 329"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["George Lund, Appellant, v. The Department of Ecology, et al., Respond
 source_url: "https://static.case.law/wash-app/93/cases/0329-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 49157
-cites_cases: ["102 Wn.2d 68", "103 Wn.2d 441", "109 Wn.2d 621", "109 Wn.2d 91", "113 Wn.2d 591", "114 Wn.2d 320", "121 Wn.2d 586", "121 Wn.2d 625", "124 Wn.2d 1029", "124 Wn.2d 158", "125 Wn.2d 196", "127 Wn.2d 1022", "131 Wn.2d 612", "34 Wn. App. 225", "480 U.S. 470", "486 U.S. 1022", "498 U.S. 911", "501 P.2d 594", "510 U.S. 1176", "537 P.2d 789", "580 P.2d 246", "660 P.2d 1124", "684 P.2d 692", "693 P.2d 1369", "73 Wn. App. 576", "743 P.2d 265", "747 P.2d 1062", "77 Wn. App. 154", "781 P.2d 1308", "787 P.2d 907", "80 Wn. App. 553", "81 Wn.2d 312", "85 Wn.2d 575", "854 P.2d 1", "854 P.2d 23", "870 P.2d 987", "876 P.2d 435", "884 P.2d 910", "890 P.2d 25", "90 Wn.2d 123", "912 P.2d 1028", "93 Wn. App. 329", "99 Wn.2d 1020"]
+cites_cases: ["102 Wn.2d 68", "103 Wn.2d 441", "109 Wn.2d 621", "109 Wn.2d 91", "113 Wn.2d 591", "114 Wn.2d 320", "121 Wn.2d 586", "121 Wn.2d 625", "124 Wn.2d 1029", "124 Wn.2d 158", "125 Wn.2d 196", "127 Wn.2d 1022", "131 Wn.2d 612", "34 Wn. App. 225", "480 U.S. 470", "486 U.S. 1022", "498 U.S. 911", "501 P.2d 594", "510 U.S. 1176", "537 P.2d 789", "580 P.2d 246", "660 P.2d 1124", "684 P.2d 692", "693 P.2d 1369", "73 Wn. App. 576", "743 P.2d 265", "747 P.2d 1062", "77 Wn. App. 154", "781 P.2d 1308", "787 P.2d 907", "80 Wn. App. 553", "81 Wn.2d 312", "85 Wn.2d 575", "854 P.2d 1", "854 P.2d 23", "870 P.2d 987", "876 P.2d 435", "884 P.2d 910", "890 P.2d 25", "90 Wn.2d 123", "912 P.2d 1028", "99 Wn.2d 1020"]
 ---
 
 # Lund v. Department of Ecology
