@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13523-6-I"
 decided: "1985-12-20"
-citations: ["43 Wash. App. 160", "42 Wash. App. 1042"]
+citations: ["43 Wash. App. 160"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael L. Schons, Appellant, v. The Department of Transportation, Re
 source_url: "https://static.case.law/wash-app/43/cases/0160-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1806348
-cites_cases: ["16 Wn. App. 811", "345 So. 2d 843", "41 Wn. App. 1", "42 U.S.C. § 4601", "43 Wn. App. 160", "495 P.2d 327", "515 F. Supp. 228", "542 P.2d 1249", "558 P.2d 1368", "593 P.2d 156", "701 P.2d 513", "80 Wn.2d 392", "86 Wn.2d 124", "92 Wn.2d 21"]
+cites_cases: ["16 Wn. App. 811", "345 So. 2d 843", "41 Wn. App. 1", "42 U.S.C. § 4601", "495 P.2d 327", "515 F. Supp. 228", "542 P.2d 1249", "558 P.2d 1368", "593 P.2d 156", "701 P.2d 513", "80 Wn.2d 392", "86 Wn.2d 124", "92 Wn.2d 21"]
 ---
 
 # Schons v. Department of Transportation
