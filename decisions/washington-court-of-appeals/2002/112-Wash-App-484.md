@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28916-4-II"
 decided: "2002-07-01"
-citations: ["112 Wash. App. 484", "112 Wash. App. 1030"]
+citations: ["112 Wash. App. 484"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Paul Treyz, Individually and on Behalf of Pierce County District Cour
 source_url: "https://static.case.law/wash-app/112/cases/0484-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719280
-cites_cases: ["112 Wn. App. 484", "148 Wn.2d 1011"]
+cites_cases: ["148 Wn.2d 1011"]
 ---
 
 # Treyz v. Pierce County
