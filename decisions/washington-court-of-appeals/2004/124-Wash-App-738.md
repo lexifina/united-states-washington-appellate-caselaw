@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30397-3-II"
 decided: "2004-09-28"
-citations: ["124 Wash. App. 738", "123 Wash. App. 1032"]
+citations: ["124 Wash. App. 738"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dave Baumgartner, et al., Appellants, v. The Department of Correction
 source_url: "https://static.case.law/wash-app/124/cases/0738-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684266
-cites_cases: ["107 Wn.2d 300", "116 Wn. App. 424", "124 Wn. App. 738", "141 Wn.2d 245", "150 Wn.2d 1016", "150 Wn.2d 821", "154 Wn.2d 1025", "25 Wn. App. 174", "4 P.3d 808", "42 U.S.C. § 1983", "449 U.S. 992", "605 P.2d 796", "65 P.3d 696", "730 P.2d 54", "83 P.3d 970", "90 Wn. App. 586", "93 Wn.2d 1021", "953 P.2d 112"]
+cites_cases: ["107 Wn.2d 300", "116 Wn. App. 424", "141 Wn.2d 245", "150 Wn.2d 1016", "150 Wn.2d 821", "154 Wn.2d 1025", "25 Wn. App. 174", "4 P.3d 808", "42 U.S.C. § 1983", "449 U.S. 992", "605 P.2d 796", "65 P.3d 696", "730 P.2d 54", "83 P.3d 970", "90 Wn. App. 586", "93 Wn.2d 1021", "953 P.2d 112"]
 ---
 
 # Baumgartner v. Department of Corrections
