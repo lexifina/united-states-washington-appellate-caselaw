@@ -1,0 +1,73 @@
+---
+court: "Washington Court of Appeals"
+docket: "9282-8-III; 9305-1-III; 9396-4-III"
+decided: "1989-12-12"
+citations: ["56 Wash. App. 268"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Appellant, v. David A. Basford, Respondent. The State of Washington, Appellant, v. Donald A. Mutchler, Respondent. The State of Washington, Appellant, v. Douglas Ray, Respondent."]
+source_url: "https://static.case.law/wash-app/56/cases/0268-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1759889
+cites_cases: ["102 Wn.2d 466", "104 Wn.2d 486", "40 Wn. App. 353", "643 P.2d 882", "687 P.2d 1145", "706 P.2d 1074", "707 P.2d 1356", "97 Wn.2d 255"]
+---
+
+# State v. Basford
+
+## Majority (Shields, J.)
+
+Shields, J.
+Donald A. Mutchler, David A. Basford and Douglas Ray failed to return to the Yakima-Kittitas County Work Release Facility after having lawfully checked out for the day. The State charged respondents with and the trial court convicted them of first degree escape, RCW 9A.76.110. Mr. Mutchler and Mr. Basford were found guilty after bench trials; Mr. Ray pleaded guilty. The court, after finding a violation of equal protection, sentenced them under the more lenient sentencing grid applicable to RCW 72.65.070, willful failure to return to work release. The State appeals, contending it was error to consider the equal protection implications of disparate sentences and the defendants cross-appeal, asserting the sentencing statute is void and the charges should have been dismissed. We reverse and remand with respect to all of the respondents.
+The issue is whether the respondents were correctly charged under RCW 9A.76.110 and correctly sentenced under RCW 72.65.070. First degree escape from a detention facility pursuant to RCW 9A.76.110 is a class B felony; willful failure to return to work release pursuant to RCW 72.65.070 is also a class B felony.
+The State and the trial court, relying to some extent on State v. Hall, 104 Wn.2d 486, 492, 706 P.2d 1074 (1985), concluded the respondents did not meet the definition of "prisoner" as defined by RCW 72.65.010(4) because they were sentenced to terms of less than 1 year and were confined in a county work release facility. Thus, the State and trial court felt constrained to charge and convict under RCW 9A.76.110. Upon sentencing, however, the trial court recognized an equal protection problem attributable to the disparate factors in determining the seriousness level of the offense, the offender score and the sentence range. The seriousness score for first degree escape is level 4 and for willful failure to return from work release is level 3. RCW 9.94A.320. The offender score for conviction of first degree escape counts all prior adult convictions, RCW 9.94.360(15); the offender score for conviction of willful failure to return from work release counts only prior escape convictions, RCW 9.94A.360(14). Finally, the standard range for one count with no prior history differs from a range of 1 to 3 months under RCW 72.65.070 to a range of 3 to 9 months under RCW 9A.76.110.
+One inquiry is dispositive: whether the respondents were correctly charged under RCW 9A.76.110.
+The definition of "prisoner" under RCW 72.65.010(4) must be read in conjunction with RCW 70.48.400 which states:
+Persons sentenced to felony terms or a combination of terms of more than three hundred sixty-five days of incarceration shall be committed to state institutions under the authority of the department of corrections.
+(Italics ours.)
+In State v. Newman, 40 Wn. App. 353, 707 P.2d 1356 (1985) the defendant was sentenced to serve not more than 5 years, but the sentence was suspended pending successful completion of a work release program. After failing to return to work release, the defendant was charged under RCW 9A.76.110. The court reversed and remanded for a new trial under RCW 72.65.070, noting the defendant was a convicted felon sentenced to a term, albeit suspended, under the supervision of the Department of Corrections. The court concluded he was a "prisoner" within the definition of RCW 72.65.010(4) because a county jail falls within the chain of penal institutions of the state and his conduct was the type the Legislature contemplated when it enacted RCW 72.65.070.
+The next question is whether the respondents, as convicted felons, met the definition of "prisoner" contemplated by RCW 72.65.010(4) because their sentences of less than 1 year did not include time spent in a state correctional institution as defined at RCW 72.65.010(3). Under the rationale of Newman, there is no difference between state and county prisoners who have been convicted of a felony, for all are construed to be under the jurisdiction of the State's penal and correctional system. This conclusion is reinforced by the legislative mandate of RCW 70.48.400 which identifies those persons under the authority of the Department of Corrections as persons sentenced to a felony term or a term exceeding 365 days. The respondents meet the former, but not the latter alternative requirement. However, the possibility did exist at the time of sentencing for imposition of a term greater than 365 days as an exception to the standard range. RCW 9.94A.120(2), (3); RCW 9.94A.400. Furthermore, the maximum term applicable to the class B felonies of which these respondents were convicted is 10 years. RCW 9A.20.021. After sentencing, convicted felons are under the punishment authority of the Department of Corrections. In contrast, convicted misde-meanants are under the punishment authority of the appropriate county. It is this distinction which supports our conclusion the respondents were incorrectly characterized as "county" prisoners and thus incorrectly charged.
+The State contends a person cannot be charged under RCW 72.65.070 unless he is a resident of a work release program as a result of transfer or parole from a state correctional institution. However, this conclusion presumes there is a difference between prisoners convicted of a felony who enter the work release facility without or before going to a state institution and those who enter it after spending time in a state institution. This argument was rejected in In re Knapp, 102 Wn.2d 466, 687 P.2d 1145 (1984), which examined an analogous situation involving prisoners housed at a mental hospital both before and after spending time in a penal institution. The court held there was no rational basis to distinguish between the two groups and concluded both were entitled to good time credit for time spent in the hospital.
+On cross appeal, the respondents, contending that equal protection was violated, ask this court to find the sentencing structure void and cite Hall, which held a classification existed between "county" and "state" prisoners that served no rational purpose. However, Hall did not involve consideration of the City and County Jails Act, RCW 70.48. Additionally, at the time Hall was decided the sentencing guidelines with respect to willful failure to return to work release were not in effect; thus, no issue was raised regarding the disparate sentencing structure under both statutes as being violative of equal protection. Under Hall, those convicted under RCW 72.65.070 were sentenced according to the terms of the former general escape statute, RCW 9.31. Since then, however, the Legislature has designated willful failure to return from work release as a level 3 offense which created the perceived disparity. See Laws of 1986, ch. 257, § 23, effective July 1,1986.
+Charging all convicted felons who willfully fail to return to a work release facility under RCW 72.65.070 averts an equal protection argument. A purpose of the Sentencing Reform Act of 1981 is to insure that sentences are commensurate with the punishment imposed on others committing similar offenses. RCW 9.94A.010(3). That objective is not achieved if felons who fail to return to a work release facility can be punished and sentenced under two different statutes for the same offense. Having reached this conclusion, it is not necessary to void the sentencing structure under RCW 9A.76.110; it would continue to be applied in cases involving an actual escape or breaking out of a work release facility, rather than cases involving a lawful departure but a willful failure to return. This interpretation gives credence to the imposition of a more severe sentence for those convicted under RCW 9A.76.110, a result which recognizes a valid legislative distinction between "going over a . . . wall", and willfully failing to return to a specified place of custody. State v. Danforth, 97 Wn.2d 255, 258, 643 P.2d 882 (1982). The Legislature, by imposing the more lenient sentencing structure has decided that willful failure to return is less culpable than first degree escape.
+The respondents were incorrectly charged; the convictions are reversed and the causes are remanded for further proceedings in accordance with this opinion.
+Munson, A.C.J., and Green, J., concur.
+Mr. Mutchler, convicted of second degree theft, had been sentenced to serve 8 months and was completing his sentence at the work release facility.
+Mr. Basford, convicted of second degree burglary, had served 14 days when he was transferred to the work release facility to complete his 9-month sentence.
+Mr. Ray had been convicted twice for second degree theft, and had been sent to the work release facility for 180 days for violating his sentencing conditions.
+With respect to Messrs. Basford and Ray, the trial court made these findings:
+■V.
+"The Yakima-Kittitas County Work Release Facility is a detention facility supervised and operated by the State of Washington Department of Corrections under a joint operating contract with Yakima County, Washington. It houses the following groups: (1) persons sentenced by the Superior Court to the custody of the Sheriff for felony convictions. Those include persons sentenced to terms of confinement less than one year under RCW 9.94A and pre-SRA probationers; (2) those persons sentenced to the Department of Corrections, who are residents of the facility on pre-parole or pre-release basis, or who are confined at the facility as a result of parole violation; and (3) persons who have been sentenced to the custody of the Sheriff for misdemeanor offenses.
+"VI.
+"The Yakima-Kittitas Work Release Facility is both a Department of Corrections detention facility and a local detention facility that operates as an extension of the Yakima County Jail.
+"VII.
+"The same operative rules and regulations apply uniformly to all inmates of the facility regardless of their sentencing background or status.
+"VIII.
+"Concerning persons in the first and third groups (in Finding Five) aforementioned, the sanctions for Willful Failure to Return from Work Release which may be administratively imposed are:
+"Imposition of administrative sanctions in the work release facility.
+"Termination from work release.
+"Denial of good time for time served in the work release facility.
+"Referral and recommendation for additional confinement (60 days per violation) for violation of the defendant's determinative sentence conditions pursuant to RCW 9.94A.
+"X.
+"As to persons described in the second group (in Finding 5) aforementioned, the administrative sanctions available for Willful Failure to Return from Work Release include the following:
+"- Imposition of administrative sanctions in the work release facility.
+Termination from work release.
+"- Denial of good time credit for both time served in the work release facility and time previously spent in state prison.
+An upgrade in custody status which would affect the location where the person serves the balance of his determinative sentence.
+"The majority of such persons terminated from work release are reassigned to a pre-release facility rather than a state prison."
+Mr. Mutchler received an exceptional sentence of 12 months 1 day, which is above the standard range for RCW 72.65.070.
+RCW 9A.76.010(2) provides:
+"'Detention facility' means any place used for the confinement of a person . . . (e) in any work release . . . program;"
+RCW 9A.76.110 provides:
+" (1) A person is guilty of escape in the first degree if, being detained pursuant to a conviction of a felony or an equivalent juvenile offense, he escapes from custody or a detention facility.
+"(2) Escape in the first degree is a class B felony."
+RCW 72.65.070 provides:
+"Any prisoner approved for placement under a work release plan who wilfully fails to return to the designated place of confinement at the time specified shall be deemed an escapee and fugitive from justice, and upon conviction shall be guilty of a felony and sentenced in accordance with the terms of *chapter 9.31 RCW. The provisions of this section shall be incorporated in every work release plan adopted by the department. [1967 c 17 § 7]
+"*Reviser's note: 'chapter 9.31 RCW' was repealed by 1975 1st ex.s. c 260 § 9A.92.010. For later enactment see chapter 9A.76 RCW."
+RCW 72.65.010(4) states:
+"'Prisoner' shall mean a person either male or female, convicted of a felony and sentenced by the superior court to a term of confinement and treatment in a state correctional institution under the jurisdiction of the department."
+Since amended by Laws of 1987, ch. 462, § 11, effective January 1, 1988. However, the amendment does not affect the quoted portion of the statute.
+RCW 72.65.010(3) provides:
+"'State correctional institutions' shall mean and include the Washington state penitentiary; the Washington corrections center; the Washington state reformatory; the McNeil Island corrections center; the Purdy corrections center for women; the Cedar Creek corrections center; the Clearwater corrections center; the Firland corrections center; the Indian Ridge corrections center; the Larch corrections center; the Olympic corrections center; Pine Lodge corrections center; the special offender center; the Twin Rivers corrections center; the proposed five hundred bed facility at Clallam Bay; and such other state correctional institutions, camps or facilities as may hereafter be established pursuant to law under the jurisdiction of the department for the treatment of convicted felons sentenced to a term of confinement."
+If a person convicted of a misdemeanor and sentenced to work release failed to return, that person could only be charged with second degree escape. RCW 9A.76.120(a).
+Mr. Hall's conviction for first degree escape occurred October 29, 1982. RCW 70.48.400, Laws of 1984, ch. 235, § 1, became effective July 1, 1984.
