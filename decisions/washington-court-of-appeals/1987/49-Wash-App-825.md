@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17633-1-I"
 decided: "1987-10-05"
-citations: ["49 Wash. App. 825", "49 Wash. App. 1039"]
+citations: ["49 Wash. App. 825"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Riley W. Pleas, et al, Respondents, v. The City of Seattle, Appellant
 source_url: "https://static.case.law/wash-app/49/cases/0825-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739091
-cites_cases: ["100 Wn.2d 343", "103 Wn.2d 1024", "107 Wn.2d 541", "107 Wn.2d 621", "24 Wn. App. 265", "284 Or. 313", "30 Or. App. 1063", "30 Wn. App. 611", "31 Wn. App. 250", "31 Wn. App. 742", "32 Wn. App. 279", "33 Wn. App. 201", "343 P.2d 183", "35 Wn. App. 523", "357 N.E.2d 211", "38 Wn. App. 904", "383 P.2d 504", "396 P.2d 148", "43 Ill. App. 3d 400", "49 Wn. App. 825", "491 P.2d 1050", "5 A.L.R. 4th 9", "525 P.2d 228", "54 Wn.2d 570", "573 P.2d 359", "580 P.2d 617", "585 P.2d 130", "600 P.2d 674", "615 P.2d 1279", "62 Wn.2d 461", "637 P.2d 970", "640 P.2d 1075", "644 P.2d 740", "647 P.2d 43", "65 Wn.2d 157", "652 P.2d 1356", "653 P.2d 638", "667 P.2d 1120", "670 P.2d 240", "691 P.2d 229", "730 P.2d 1333", "733 P.2d 182", "80 Wn.2d 77", "84 Wn.2d 239", "89 Wn.2d 454", "90 Wn.2d 201", "90 Wn.2d 626", "94 Wn.2d 119", "97 Wn.2d 922", "98 Wn.2d 1011"]
+cites_cases: ["100 Wn.2d 343", "103 Wn.2d 1024", "107 Wn.2d 541", "107 Wn.2d 621", "24 Wn. App. 265", "284 Or. 313", "30 Or. App. 1063", "30 Wn. App. 611", "31 Wn. App. 250", "31 Wn. App. 742", "32 Wn. App. 279", "33 Wn. App. 201", "343 P.2d 183", "35 Wn. App. 523", "357 N.E.2d 211", "38 Wn. App. 904", "383 P.2d 504", "396 P.2d 148", "43 Ill. App. 3d 400", "491 P.2d 1050", "5 A.L.R. 4th 9", "525 P.2d 228", "54 Wn.2d 570", "573 P.2d 359", "580 P.2d 617", "585 P.2d 130", "600 P.2d 674", "615 P.2d 1279", "62 Wn.2d 461", "637 P.2d 970", "640 P.2d 1075", "644 P.2d 740", "647 P.2d 43", "65 Wn.2d 157", "652 P.2d 1356", "653 P.2d 638", "667 P.2d 1120", "670 P.2d 240", "691 P.2d 229", "730 P.2d 1333", "733 P.2d 182", "80 Wn.2d 77", "84 Wn.2d 239", "89 Wn.2d 454", "90 Wn.2d 201", "90 Wn.2d 626", "94 Wn.2d 119", "97 Wn.2d 922", "98 Wn.2d 1011"]
 ---
 
 # Pleas v. City of Seattle
