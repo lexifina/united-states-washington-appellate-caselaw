@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24973-8-I"
 decided: "1991-11-18"
-citations: ["63 Wash. App. 750", "63 Wash. App. 1009"]
+citations: ["63 Wash. App. 750"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Andrew Henderson Rowe, Appell
 source_url: "https://static.case.law/wash-app/63/cases/0750-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1733020
-cites_cases: ["108 Wn.2d 1014", "115 Wn.2d 1009", "116 Wn.2d 488", "116 Wn.2d 509", "392 U.S. 1", "449 U.S. 411", "450 U.S. 958", "46 Wn. App. 856", "57 Wn. App. 636", "616 P.2d 649", "63 Wn. App. 750", "732 P.2d 1029", "789 P.2d 333", "806 P.2d 749", "806 P.2d 760", "94 Wn.2d 263"]
+cites_cases: ["108 Wn.2d 1014", "115 Wn.2d 1009", "116 Wn.2d 488", "116 Wn.2d 509", "392 U.S. 1", "449 U.S. 411", "450 U.S. 958", "46 Wn. App. 856", "57 Wn. App. 636", "616 P.2d 649", "732 P.2d 1029", "789 P.2d 333", "806 P.2d 749", "806 P.2d 760", "94 Wn.2d 263"]
 ---
 
 # State v. Rowe
