@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20797-8-III"
 decided: "2002-10-17"
-citations: ["114 Wash. App. 275", "114 Wash. App. 1002"]
+citations: ["114 Wash. App. 275"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Parentage of Ashley C. Hilborn. Sherri Hilborn, 
 source_url: "https://static.case.law/wash-app/114/cases/0275-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 163087
-cites_cases: ["1 P.3d 1174", "100 Wn.2d 766", "101 Wn. App. 56", "103 Wn.2d 517", "105 Wn. App. 428", "114 Wn. App. 275", "137 Wn.2d 979", "145 Wn.2d 79", "20 P.3d 1007", "31 P.3d 665", "36 Wn. App. 196", "42 Wn. App. 371", "43 P.3d 1222", "488 P.2d 511", "674 P.2d 176", "674 P.2d 669", "694 P.2d 1051", "710 P.2d 819", "79 Wn.2d 619", "85 Wn. App. 311", "932 P.2d 691", "976 P.2d 1240"]
+cites_cases: ["1 P.3d 1174", "100 Wn.2d 766", "101 Wn. App. 56", "103 Wn.2d 517", "105 Wn. App. 428", "137 Wn.2d 979", "145 Wn.2d 79", "20 P.3d 1007", "31 P.3d 665", "36 Wn. App. 196", "42 Wn. App. 371", "43 P.3d 1222", "488 P.2d 511", "674 P.2d 176", "674 P.2d 669", "694 P.2d 1051", "710 P.2d 819", "79 Wn.2d 619", "85 Wn. App. 311", "932 P.2d 691", "976 P.2d 1240"]
 ---
 
 # Hilborn v. Bonga
