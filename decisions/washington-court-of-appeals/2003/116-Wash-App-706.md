@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20728-5-III"
 decided: "2003-02-13"
-citations: ["116 Wash. App. 706", "115 Wash. App. 1034"]
+citations: ["116 Wash. App. 706"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John Schneider, et al., Individually and on Behalf of a Class, Appell
 source_url: "https://static.case.law/wash-app/116/cases/0706-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265716
-cites_cases: ["115 Wn.2d 594", "116 Wn. App. 706", "122 Wn.2d 801", "138 Wn.2d 561", "150 Wn.2d 1012", "28 Wn. App. 319", "524 P.2d 918", "545 P.2d 5", "609 P.2d 1348", "615 P.2d 1279", "623 P.2d 702", "658 P.2d 648", "800 P.2d 359", "82 Wn. App. 495", "84 Wn.2d 120", "86 Wn.2d 310", "863 P.2d 64", "91 Wn. App. 793", "919 P.2d 602", "93 Wn.2d 277", "94 Wn.2d 119", "95 Wn. App. 399", "959 P.2d 1173", "976 P.2d 134", "98 Wn.2d 690", "980 P.2d 1234"]
+cites_cases: ["115 Wn.2d 594", "122 Wn.2d 801", "138 Wn.2d 561", "150 Wn.2d 1012", "28 Wn. App. 319", "524 P.2d 918", "545 P.2d 5", "609 P.2d 1348", "615 P.2d 1279", "623 P.2d 702", "658 P.2d 648", "800 P.2d 359", "82 Wn. App. 495", "84 Wn.2d 120", "86 Wn.2d 310", "863 P.2d 64", "91 Wn. App. 793", "919 P.2d 602", "93 Wn.2d 277", "94 Wn.2d 119", "95 Wn. App. 399", "959 P.2d 1173", "976 P.2d 134", "98 Wn.2d 690", "980 P.2d 1234"]
 ---
 
 # Schneider v. Snyder's Foods, Inc.
