@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "9860-5-III"
+decided: "1989-11-28"
+citations: ["56 Wash. App. 80"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["James M. McCorkle, Appellant, v. Robert Hall, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/56/cases/0080-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1759922
+cites_cases: ["100 Wn.2d 221", "108 Wn.2d 1013", "109 Wn.2d 377", "11 Wn. App. 72", "110 Wn.2d 845", "114 Wn.2d 1010", "256 P.2d 301", "30 Wn. App. 571", "33 Wn. App. 297", "42 Wn.2d 478", "45 Wn. App. 847", "46 Wn. App. 351", "484 P.2d 405", "506 P.2d 20", "521 P.2d 244", "636 P.2d 492", "654 P.2d 1215", "656 P.2d 1030", "667 P.2d 1104", "728 P.2d 617", "730 P.2d 726", "745 P.2d 37", "758 P.2d 968", "79 Wn.2d 198", "81 Wn.2d 886", "96 Wn.2d 1027", "98 Wn.2d 434"]
+---
+
+# McCorkle v. Hall
+
+## Majority (Green, J.)
+
+Green, J.
+James McCorkle appeals a summary judgment dismissing his negligence action against Robert Hall and Robert Owens, a partnership, d/b/a Valley Fitness and Racquet Club in Sunnyside. The dispositive issue is whether a liability statement contained in the membership application signed by Mr. McCorkle was effective as a release of liability as a matter of law. We answer "no" and reverse and remand for tried.
+Mr. McCorkle joined Valley Fitness on February 24, 1984. He was required to sign an "Application for Membership", containing the following provision:
+LIABILITY STATEMENT
+Each member of the Club shall be liable for any property damage and/or personal injury at the Club or at any activity or function operated, arranged or sponsored by the Club caused intentionally or negligently either by the member, or the member's guest, or family. It shall be the obligation of the member to pay for any costs involved upon presentation of a statement thereof. Any member, guest or other person who in any manner makes use of or accepts the use of any apparatus, appliance, facility, privilege, or service whatsoever owned by the Club, or who engages in any contest, game, function, exercise, competition or other activity operated or organized, arranged or sponsored by the Club, either on or off the Club's premises, shall do so at his or her own risk, and shall hold the Club, its owners, employees, representatives and agents harmless from any and all loss, cost claim, injury, damage, all liability, sustained or incurred by him or her resulting therefrom and/or resulting from any act of any owner, employee, representative or agent of the Club.
+Signature of applicant: /s/Jim McCorkle Date: 2/24/84
+Mr. McCorkle testified in a deposition that he did not read this "Liability Statement" before signing the application.
+On March 14, 1985, Mr. McCorkle was using the body inversion machine and claims it "just snapped" causing his head to hit the floor and the machine to collapse on top of him. An employee straightened a bent piece of metal, reassembled the machine and Mr. McCorkle tried it a second time. Again it "snapped", dropping him in the same fashion. According to Mr. McCorkle, he learned the machine was misassembled following routine maintenance on the previous day.
+On January 27, 1988, Mr. McCorkle brought this action for damages against Valley Fitness alleging the inversion machine was maintained "in a careless and negligent manner, causing said equipment to collapse, injuring plaintiff." Valley Fitness moved for summary judgment on the basis the release executed by Mr. McCorkle was controlling. That motion was granted and a motion for reconsideration by Mr. McCorkle was denied. This appeal followed.
+On review of a summary judgment order, this court engages in the same inquiry as the trial court. Summary judgment is proper only when the pleadings, affidavits, depositions and admissions on file and reasonable inferences therefrom, when viewed in a light most favorable to the nonmoving party, demonstrate no issue of material fact exists and the moving party is entitled to judgment as a matter of law. CR 56(c); Wilson v. Steinbach, 98 Wn.2d 434, 437, 656 P.2d 1030 (1982).
+Mr. McCorkle contends the release language is inconspicuous and ambiguous and should therefore be ruled void against him as an unwitting signer citing Baker v. Seattle, 79 Wn.2d 198, 484 P.2d 405 (1971). On the other hand, Valley Fitness argues the analysis in Baker no longer applies having been superseded by Wagenblast v. Odessa Sch. Dist. 105-157-166J, 110 Wn.2d 845, 758 P.2d 968 (1988).
+We do not find Wagenblast applicable. There the question was whether public school districts can require their students and parents to sign general written releases exculpating the districts from the consequences of their future negligence before students may engage in interscholastic athletics. The court held they could not. Wagenblast did not deal with the issue presented here.
+Generally, contracts against liability for negligence are valid unless the releasing language is so inconspicuous that reasonable persons could reach different conclusions as to whether the document was unwittingly signed. Baker v. Seattle, supra at 200; Conradt v. Four Star Promotions, Inc., 45 Wn. App. 847, 728 P.2d 617 (1986); Blide v. Rainier Mountaineering, Inc., 30 Wn. App. 571, 636 P.2d 492 (1981), review denied, 96 Wn.2d 1027 (1982); Hewitt v. Miller, 11 Wn. App. 72, 521 P.2d 244 (1974). When an instrument is plain and unambiguous, a person who signs without reading it is nevertheless bound by its terms so long as there was "ample opportunity to examine the contract in as great a detail as he cared, and he failed to do so for his own personal reasons.” National Bank v. Equity Investors, 81 Wn.2d 886, 913, 506 P.2d 20 (1973) (quoting Lake Air, Inc. v. Duffy, 42 Wn.2d 478, 480, 256 P.2d 301 (1953)). See also Skagit State Bank v. Rasmussen, 109 Wn.2d 377, 381, 745 P.2d 37 (1987); Chadwick v. Northwest Airlines, Inc., 33 Wn. App. 297, 303, 654 P.2d 1215 (1982), aff'd, 100 Wn.2d 221, 667 P.2d 1104 (1983).
+Here, Mr. McCorkle compares the language in Hewitt and Conradt with that in Baker to support his argument that neither the title "Liability Statement" nor the disclaimer language itself is so conspicuous that a layman reading it could conclude future negligent conduct was being released. Thus, he argues the disclaimer is void under Baker.
+In Hewitt the release language was "so conspicuous that reasonable men could not reach different conclusions . . ." on the question of whether the signature was unwitting. Hewitt, at 78. There, the release was contained between the following language:
+Safety Affirmation and Release (Read Carefully, then sign) . . .
+[Release terms.]
+I Have Fully Informed Myself of the Contents of This Affirmation and Release by Reading It Before I Signed It.
+Hewitt, at 78-79. The same was true in Conradt, at 850. In both cases the release was ruled effective.
+To the contrary, in Baker, a golf cart rental agreement contained a disclaimer of liability inconspicuously placed in the middle of the agreement and the court stated its enforcement "would truly be unconscionable." Baker, at 202. Mr. Baker was thus deemed an unwitting signer and was relieved from the consequences of his signing the document. Baker, at 200.
+Here, Mr. McCorkle did not read the application. However, he contends the disclaimer language was not so conspicuous as to draw his attention to it nor was it pointed out to him at the time he signed it. Consequently, he asserts he unwittingly signed it. In his deposition, he stated he had been employed as manager or assistant manager of health and fitness clubs in the Tri-Cities, Lynnwood, Everett and Burien and none of their membership applications contained liability disclaimers. Whether reasonable persons in the circumstances presented could agree his signature was unwittingly made presents an issue for the trier of fact as does the question of whether the disclaimer language was so conspicuous that he could not have unwittingly signed the application. We reverse the summary judgment and remand for trial.
+Reversed and remanded.
+Thompson, C.J., and Shields, J., concur.
+Review denied at 114 Wn.2d 1010 (1990).
+Mr. McCorkle has failed to set forth in his brief assignments of error as required by RAP 10.3. This court will only review a claimed error if it is included in an assignment of error, or clearly disclosed in an issue pertaining thereto and is supported by argument and citation to legal authority. BC Tire Corp. v. GTE Directories Corp., 46 Wn. App. 351, 355, 730 P.2d 726 (1986), review denied, 108 Wn.2d 1013 (1987); RAP 10.3(a)(5), (g). Here, his brief is adequate to disclose what errors are asserted and Valley Fitness was able to respond to the issues raised.
