@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37143-6-I"
 decided: "1997-06-02"
-citations: ["87 Wash. App. 112", "86 Wash. App. 1039"]
+citations: ["87 Wash. App. 112"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robin L. Miller Construction Co., Inc., Appellant, v. David Coltran, 
 source_url: "https://static.case.law/wash-app/87/cases/0112-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 566323
-cites_cases: ["1 Wn. App. 501", "111 Wn.2d 219", "116 B.R. 174", "120 Wn.2d 439", "123 Wn.2d 451", "155 Wash. 239", "174 Wash. 185", "24 P.2d 420", "283 P. 1089", "306 P.2d 240", "463 P.2d 212", "49 Wn.2d 642", "637 P.2d 645", "758 P.2d 494", "76 Wn. App. 300", "842 P.2d 956", "869 P.2d 56", "87 Wn. App. 112", "886 P.2d 203", "927 F.2d 1109", "96 Wn.2d 568"]
+cites_cases: ["1 Wn. App. 501", "111 Wn.2d 219", "116 B.R. 174", "120 Wn.2d 439", "123 Wn.2d 451", "155 Wash. 239", "174 Wash. 185", "24 P.2d 420", "283 P. 1089", "306 P.2d 240", "463 P.2d 212", "49 Wn.2d 642", "637 P.2d 645", "758 P.2d 494", "76 Wn. App. 300", "842 P.2d 956", "869 P.2d 56", "886 P.2d 203", "927 F.2d 1109", "96 Wn.2d 568"]
 ---
 
 # Robin L. Miller Construction Co. v. Coltran
