@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21537-7-III"
 decided: "2004-01-27"
-citations: ["124 Wash. App. 196", "119 Wash. App. 1085"]
+citations: ["124 Wash. App. 196"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
