@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20523-1-III"
 decided: "2002-09-10"
-citations: ["113 Wash. App. 875", "113 Wash. App. 1032"]
+citations: ["113 Wash. App. 875"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Arborwood Idaho, L.L.C., Appellant, v. The City of Kennewick, Respond
 source_url: "https://static.case.law/wash-app/113/cases/0875-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764671
-cites_cases: ["104 Wn.2d 227", "106 Wn.2d 391", "106 Wn.2d 695", "113 Wn. App. 875", "116 Wn.2d 246", "116 Wn.2d 556", "118 Wn.2d 826", "121 Wn.2d 625", "123 Wn.2d 819", "127 Wn.2d 194", "127 Wn.2d 874", "139 Wn.2d 604", "143 Wn.2d 798", "149 Wn.2d 1016", "185 Wash. 209", "23 P.3d 477", "406 P.2d 761", "53 P.2d 607", "556 P.2d 936", "67 Wn.2d 97", "704 P.2d 1171", "722 P.2d 787", "725 P.2d 411", "804 P.2d 1241", "807 P.2d 353", "827 P.2d 1374", "854 P.2d 23", "87 Wn.2d 717", "872 P.2d 516", "897 P.2d 358", "90 Wn. App. 110", "905 P.2d 324", "951 P.2d 321", "989 P.2d 542"]
+cites_cases: ["104 Wn.2d 227", "106 Wn.2d 391", "106 Wn.2d 695", "116 Wn.2d 246", "116 Wn.2d 556", "118 Wn.2d 826", "121 Wn.2d 625", "123 Wn.2d 819", "127 Wn.2d 194", "127 Wn.2d 874", "139 Wn.2d 604", "143 Wn.2d 798", "149 Wn.2d 1016", "185 Wash. 209", "23 P.3d 477", "406 P.2d 761", "53 P.2d 607", "556 P.2d 936", "67 Wn.2d 97", "704 P.2d 1171", "722 P.2d 787", "725 P.2d 411", "804 P.2d 1241", "807 P.2d 353", "827 P.2d 1374", "854 P.2d 23", "87 Wn.2d 717", "872 P.2d 516", "897 P.2d 358", "90 Wn. App. 110", "905 P.2d 324", "951 P.2d 321", "989 P.2d 542"]
 ---
 
 # Arborwood Idaho, L.L.C. v. City of Kennewick
