@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34469-2-I"
 decided: "1996-02-26"
-citations: ["81 Wash. App. 678", "80 Wash. App. 1058"]
+citations: ["81 Wash. App. 678"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Petitioner, v. David A. Kohles, Respondent."]
 source_url: "https://static.case.law/wash-app/81/cases/0678-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 310628
-cites_cases: ["101 Wn.2d 1004", "119 Wn.2d 1025", "122 Wn.2d 1012", "35 Wn. App. 150", "407 U.S. 514", "419 P.2d 800", "62 Wn. App. 487", "64 Wn. App. 724", "665 P.2d 918", "69 Wn.2d 664", "75 Wn. App. 473", "81 Wn. App. 678", "815 P.2d 808", "828 P.2d 587", "878 P.2d 487"]
+cites_cases: ["101 Wn.2d 1004", "119 Wn.2d 1025", "122 Wn.2d 1012", "35 Wn. App. 150", "407 U.S. 514", "419 P.2d 800", "62 Wn. App. 487", "64 Wn. App. 724", "665 P.2d 918", "69 Wn.2d 664", "75 Wn. App. 473", "815 P.2d 808", "828 P.2d 587", "878 P.2d 487"]
 ---
 
 # City of Seattle v. Kohles
