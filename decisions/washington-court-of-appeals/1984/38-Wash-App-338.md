@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "5674-1-III"
+decided: "1984-07-24"
+citations: ["38 Wash. App. 338"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Munson, C.J., and McInturff, J., concur."]
+parties: ["Wesley H. Boardman, et al, Respondents, v. Richard A. Dorsett, et al, Appellants."]
+source_url: "https://static.case.law/wash-app/38/cases/0338-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1791720
+cites_cases: ["16 Wn. App. 446", "278 P.2d 348", "33 Wn. App. 766", "36 Wn. App. 779", "369 P.2d 307", "45 Wn.2d 865", "504 P.2d 1162", "517 P.2d 955", "52 A.L.R.2d 631", "554 P.2d 1349", "557 P.2d 24", "59 Wn.2d 606", "621 P.2d 1279", "655 P.2d 245", "656 P.2d 1030", "657 P.2d 804", "663 P.2d 490", "678 P.2d 1265", "8 Wn. App. 162", "83 Wn.2d 268", "87 Wn.2d 567", "95 Wn.2d 94", "98 Wn.2d 375", "98 Wn.2d 434", "99 Wn.2d 572"]
+---
+
+# Boardman v. Dorsett
+
+## Majority (Green, J.)
+
+Green, J.
+Mr. and Mrs. Dorsett appeal a summary judgment requiring them to pay the balance of the contract price on a home they purchased from Wesley and Virginia Boardman. They contend summary judgment should not have been granted because (1) genuine issues of material fact exist as to an alleged agreement to withhold $1,000 pending Mr. Boardman's completion of certain construction and an alleged breach of the warranty of habitability; and (2) the court erred in granting prejudgment interest at the rate of 12 percent. The Boardmans counter by contending the appeal should be dismissed because it was filed 1 day late and frivolous; therefore sanctions should be imposed.
+On July 16, 1977, the Dorsetts signed an earnest money agreement to purchase a house Mr. Boardman had built on a lot owned by him near Goldendale, Washington. The agreed price was $42,500. On September 23 the parties met and the Boardmans executed a statutory warranty deed conveying their interest to the Dorsetts. Later the same day, Mr. Boardman and Mr. Dorsett met at the Home Federal Savings & Loan Association in Goldendale where Mr. Boardman was to receive the balance of the purchase price in cash. At that time Mr. Dorsett presented a list of items relating to the house which he demanded be remedied. Mr. Boardman received $41,500, $1,000 was withheld pending completion of the items on Mr. Dorsett's list. Mr. Boardman made numerous attempts to do the requested things, but was unable to satisfy Mr. Dorsett.
+On September 11, 1981, the Boardmans initiated this action to collect the $1,000 owed under the earnest money agreement. The Dorsetts answered alleging the Boardmans failed to do the agreed repairs and therefore forfeited the right to the $1,000. They counterclaimed alleging breach of the warranty of habitability. The Boardmans' motion for summary judgment was granted resulting in this appeal.
+First, the Dorsetts contend summary judgment should not have been granted because a genuine issue of material fact existed regarding the alleged agreement to withhold $1,000 pending Mr. Boardman's completion of certain construction. We disagree.
+Summary judgment may be granted only if the pleadings, affidavits, depositions and admissions before the court demonstrate there is no genuine issue as to any material fact and the moving party is entitled to judgment as a matter of law. Wilson v. Steinbach, 98 Wn.2d 434, 437, 656 P.2d 1030 (1982). A party seeking to avoid summary judgment cannot simply rest upon allegations in his pleadings. He must affirmatively present the factual evidence on which he relies. Mackey v. Graham, 99 Wn.2d 572, 576, 663 P.2d 490 (1983); Lindsay Credit Corp. v. Skarperud, 33 Wn. App. 766, 770, 657 P.2d 804 (1983).
+Mr. Dorsett, in his affidavit, alleged he and
+the builder [Mr. Boardman], who also sold the house, [agreed] that I would keep out $1,000.00 in order to make certain repairs. A copy of that agreement is attached hereto and by this reference made a part hereof.
+However, nothing was attached to the affidavit. In his answers to interrogatories, Mr. Dorsett stated a copy of the alleged agreement was attached. Again, the alleged agreement was not attached. It is evident this agreement, if in writing, was never presented to the trial court and is not now before this court. If oral, there is no evidence of the terms of the agreement other than those generally alleged by the Dorsetts in their answer. In these circumstances, summary judgment was properly granted. Mackey v. Graham, supra.
+Furthermore, it is well established that an agreement to do that which one is already obliged to do does not constitute consideration to support a contract. Johnson v. Tanner, 59 Wn.2d 606, 609, 369 P.2d 307 (1962); Snyder v. Roberts, 45 Wn.2d 865, 870-71, 278 P.2d 348, 52 A.L.R.2d 631 (1955). Also, a subsequent agreement modifying an existing contract must be supported by new consideration independent of the consideration involved in the original agreement. Wagner v. Wagner, 95 Wn.2d 94, 103, 621 P.2d 1279 (1980); Rosellini v. Banchero, 83 Wn.2d 268, 273, 517 P.2d 955 (1974).
+Here the Dorsetts in the earnest money agreement agreed to pay $42,500 for the home and lot. Their withholding of the $1,000 pending the Boardmans' completion of work not required by the earnest money agreement was insufficient consideration to support either the subsequent agreement or a modification of the earnest money agreement.
+Second, the Dorsetts contend a question of fact exists regarding an alleged breach of warranty of habitability. We disagree.
+An implied warranty of habitability attaches to the sale of a home where (1) the vendor is a commercial builder; and (2) the structure is built for sale, not personal occupancy. Klos v. Gockel, 87 Wn.2d 567, 570, 554 P.2d 1349 (1976); Allen v. Anderson, 16 Wn. App. 446, 448, 557 P.2d 24 (1976). A commercial builder is "a person regularly engaged in building ..." Klos v. Gockel, supra at 570. While the Dorsetts alleged Mr. Boardman was a commercial builder, they failed to offer any factual proof of the allegation. Mackey v. Graham, supra at 576. On the other hand, the Boardmans' deposition and affidavit established Mr. Boardman was not a licensed building contractor and had only built one other house—his family home. Since it is clear from the evidence presented that Mr. Boardman was not a commercial builder, no factual dispute existed and the court did not err in granting summary judgment on this issue. Moreover, the Dorsetts began living in the house before the sale was closed and were residing there at the time of trial.
+Third, the Dorsetts contend the court erred in awarding the Boardmans prejudgment interest at 12 percent per annum. RCW 19.52.010(1) was not amended to impose a 12 percent per annum interest rate until 1981. Laws of 1981, ch. 80, § 1. It is agreed under the judgment rendered the Boardmans are entitled to interest from the time the sale was to be closed in 1977 because the $1,000 was an ascertainable amount. Langston v. Huffacker, 36 Wn. App. 779, 790, 678 P.2d 1265 (1984); Quadrant Corp. v. Spake, 8 Wn. App. 162, 504 P.2d 1162 (1973). The question is whether the 1981 amendment increasing interest to 12 percent applied to a transaction made in 1977 when the rate was 6 percent.
+While no Washington case deals directly with this issue, in Noel v. Cole, 98 Wn.2d 375, 383, 655 P.2d 245 (1982), the court stated:
+Because the amount of this recovery for unjust enrichment is not liquidated, interest on it may not be had until final judgment. Alpine may, however, recover interest at the legal rate for the time during which DNR held its deposit and performance guaranty. Since the contract was void at its purported inception, Alpine was entitled to immediate restitution of these amounts and, since they were liquidated, interest began to run on them immediately upon the accrual of Alpine's right to the funds.
+(Footnote and citations omitted. Italics ours.)
+In light of this language, we hold the court should have awarded interest at the legal rates prevailing between the time the obligation became due and entry of the judgment. We therefore remand for redetermination of the prejudgment interest.
+The Boardmans' contention that this appeal is frivolous is rejected in view of our holding with respect to prejudgment interest. Likewise, we decline to dismiss the appeal for claimed untimely filing.
+Affirmed in part and remanded for recomputation of prejudgment interest.
+Munson, C.J., and McInturff, J., concur.
+Reconsideration denied August 27, 1984.
+Review denied by Supreme Court December 7, 1984.
