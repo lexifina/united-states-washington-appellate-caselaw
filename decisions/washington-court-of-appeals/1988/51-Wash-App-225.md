@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17983-7-I"
 decided: "1988-02-22"
-citations: ["51 Wash. App. 225", "50 Wash. App. 1055"]
+citations: ["51 Wash. App. 225"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Personal Restraint of Douglas H. Bolduc, Appella
 source_url: "https://static.case.law/wash-app/51/cases/0225-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591725
-cites_cases: ["105 Wn.2d 257", "107 Wn.2d 503", "46 Wn. App. 622", "50 Wn. App. 84", "51 Wn. App. 225", "714 P.2d 303", "730 P.2d 1327", "732 P.2d 166", "747 P.2d 480"]
+cites_cases: ["105 Wn.2d 257", "107 Wn.2d 503", "46 Wn. App. 622", "50 Wn. App. 84", "714 P.2d 303", "730 P.2d 1327", "732 P.2d 166", "747 P.2d 480"]
 ---
 
 # In re the Personal Restraint of Bolduc
