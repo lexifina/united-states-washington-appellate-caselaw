@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47829-0-I"
 decided: "2002-01-14"
-citations: ["110 Wash. App. 769", "109 Wash. App. 1080"]
+citations: ["110 Wash. App. 769"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Adam Lamour Acrey, Appellant.
 source_url: "https://static.case.law/wash-app/110/cases/0769-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1123862
-cites_cases: ["102 Wn.2d 733", "108 Wn.2d 230", "110 Wn. App. 769", "116 Wn.2d 509", "124 Wn.2d 107", "133 Wn.2d 210", "134 Wn.2d 1", "141 Wn.2d 373", "147 Wn.2d 1008", "1998 U. Chi. Legal F. 261", "39 Wn. App. 864", "392 U.S. 1", "413 U.S. 433", "434 U.S. 106", "449 U.S. 411", "5 P.3d 668", "530 U.S. 57", "531 U.S. 1104", "558 P.2d 781", "622 P.2d 1218", "689 P.2d 1065", "696 P.2d 41", "737 P.2d 1005", "806 P.2d 760", "86 Wn. App. 501", "874 P.2d 160", "88 Wn.2d 75", "937 P.2d 630", "94 Wn. App. 990", "943 P.2d 1369", "948 P.2d 1280", "95 Wn.2d 143", "974 P.2d 342"]
+cites_cases: ["102 Wn.2d 733", "108 Wn.2d 230", "116 Wn.2d 509", "124 Wn.2d 107", "133 Wn.2d 210", "134 Wn.2d 1", "141 Wn.2d 373", "147 Wn.2d 1008", "1998 U. Chi. Legal F. 261", "39 Wn. App. 864", "392 U.S. 1", "413 U.S. 433", "434 U.S. 106", "449 U.S. 411", "5 P.3d 668", "530 U.S. 57", "531 U.S. 1104", "558 P.2d 781", "622 P.2d 1218", "689 P.2d 1065", "696 P.2d 41", "737 P.2d 1005", "806 P.2d 760", "86 Wn. App. 501", "874 P.2d 160", "88 Wn.2d 75", "937 P.2d 630", "94 Wn. App. 990", "943 P.2d 1369", "948 P.2d 1280", "95 Wn.2d 143", "974 P.2d 342"]
 ---
 
 # State v. Acrey
