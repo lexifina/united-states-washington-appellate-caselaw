@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12686-5-I"
 decided: "1985-05-20"
-citations: ["41 Wash. App. 254", "40 Wash. App. 1051"]
+citations: ["41 Wash. App. 254"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donald Batdorf, et al, Appellants, v. Transamerica Title Insurance Co
 source_url: "https://static.case.law/wash-app/41/cases/0254-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1798306
-cites_cases: ["102 Wn.2d 78", "103 Wn.2d 316", "20 Wn. App. 664", "30 Wn. App. 101", "39 Wn. App. 263", "39 Wn. App. 309", "41 Wn. App. 254", "504 P.2d 1139", "583 P.2d 1217", "610 P.2d 857", "631 P.2d 947", "632 P.2d 900", "683 P.2d 180", "692 P.2d 830", "692 P.2d 899", "693 P.2d 130", "81 Wn.2d 740", "93 Wn.2d 368", "95 Wn.2d 909"]
+cites_cases: ["102 Wn.2d 78", "103 Wn.2d 316", "20 Wn. App. 664", "30 Wn. App. 101", "39 Wn. App. 263", "39 Wn. App. 309", "504 P.2d 1139", "583 P.2d 1217", "610 P.2d 857", "631 P.2d 947", "632 P.2d 900", "683 P.2d 180", "692 P.2d 830", "692 P.2d 899", "693 P.2d 130", "81 Wn.2d 740", "93 Wn.2d 368", "95 Wn.2d 909"]
 ---
 
 # Batdorf v. Transamerica Title Insurance
