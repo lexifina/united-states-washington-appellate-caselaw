@@ -1,0 +1,54 @@
+---
+court: "Washington Court of Appeals"
+docket: "26393-9-II"
+decided: "2002-04-12"
+citations: ["111 Wash. App. 168"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of John Lindsay Ricketts, Appellant, and Allison Kathleen Ricketts, Respondent."]
+source_url: "https://static.case.law/wash-app/111/cases/0168-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1072069
+cites_cases: ["100 Wn.2d 325", "119 N.C. App. 662", "120 Wn.2d 1002", "121 Wn.2d 795", "293 F. 1013", "424 U.S. 319", "459 S.E.2d 812", "462 S.E.2d 524", "504 U.S. 71", "65 Wn. App. 703", "669 P.2d 886", "81 Wn. App. 414", "829 P.2d 1120", "854 P.2d 629", "87 F.3d 1011", "91 Wn. App. 219", "914 P.2d 773", "957 P.2d 256", "977 F.2d 37"]
+---
+
+# In re the Marriage of Ricketts
+
+## Majority (Quinn-Brintnall, A.C.J.)
+
+Quinn-Brintnall, A.C.J.
+As part of a child custody dispute, the trial court commissioner ordered the father to undergo a psychosexual evaluation. The evaluation required him to submit to examination by penile plethysmograph. The father objected, claiming the test violated his substantive due process rights. He also argued that the test results do not meet the Frye standard for admission of scientific evidence. We granted interlocutory discretionary review and stayed the other proceedings pending resolution of this issue. We hold that in a child custody dispute, barring a conviction for sexual deviancy, a man cannot be required to submit to a penile plethysmograph examination without a showing of the highest level of compelling need. Therefore, we vacate the order and remand.
+FACTS
+D.R. is the only child of John and Allison Ricketts. She was born in 1996. Although the record is unclear how long the couple were together, they apparently separated in September 1999.
+Although Allison did not file a brief on the merits to this court, she participated in the motion for discretionary review. The appeals court outlined Allison’s allegations in the ruling granting review as follows:
+The trial court’s order is based on allegations by Ricketts’s ex-wife, Allison, that he has exposed their daughter, [sic] D.R., (three years old at the time) to pornography. The mother asserts that D.R. (1) has acted out in sexual ways and used adult sexual terms; (2) has reverted in her toilet training; (3) has been having frequent nightmares about her father; and (4) has made statements that her father photographed her “boot/’ (breast) and touched her vaginal area, that her father’s girlfriend walked around the house nude, and that her father photographed the girlfriend’s “bootys.”
+Clerk’s Papers at 81-82.
+On August 10, 2000, the Thurston County Superior Court Commissioner heard arguments regarding a psychosexual evaluation for John stating, “The Court has concerns about this case. The Court found Mr. Ricketts has made poor choices as a parent. The Court granted the motion for a Psychosexual Evaluation.” Clerk’s Papers at 68.
+A Motion for Reconsideration was submitted to the trial court on August 21, 2000, but was stricken on August 23, 2000. John sought review by this court on September 1, 2000. Our commissioner granted review on March 23, 2001. As she stated in her ruling, “The court’s order, itself, does not mention a plethysmograph, but the respondent agrees that the evaluation will include one.” Clerk’s Papers at 82.
+The primary issue before this court is whether the trial court in a child custody dispute abused its discretion by ordering the father, who had never been convicted of a sexual offense, to submit to a penile plethysmograph examination.
+ANALYSIS
+The Penile Plethysmograph
+Trial courts are given broad discretion in child custody matters. In re Marriage of Cabalquinto, 100 Wn.2d 325, 327, 669 P.2d 886 (1983). The trial court abuses this discretion only when its decision is manifestly unreasonable or based on untenable grounds. In re Marriage of Kovacs, 121 Wn.2d 795, 801, 854 P.2d 629 (1993).
+A succinct description of the penile plethysmograph procedure was outlined by a North Carolina appellate court. That court, quoting an expert, wrote,
+“The individual is placed in a room and a mercury strain gauge is placed around the penis so that the circumference of the penis can be measured. And this mercury strain gauge is capable of measuring slight increases in circumference, many times before they are noticeable to the man himself. The individual is then presented with sequential stimulus materials, auditory and visual, encouraging him to think about and look at materials indicative of sexual activity with different ages of people, different genders and different sexual activities.”
+State v. Spencer, 119 N.C. App. 662, 459 S.E.2d 812, 814-15, review denied, 462 S.E.2d 524 (1995).
+John argues that the order requiring that he submit to a penile plethysmograph examination violates his liberty interest to be free from personal restraint under the Fifth and Fourteenth Amendments of the United States Constitution. He relies on a recent case from Division One of this court, In re Marriage of Parker, 91 Wn. App. 219, 957 P.2d 256 (1998), which held that the order for the plethysmograph violated the father’s fundamental liberty interest in the custody and care of his son.
+Parker addressed the issue on similar facts. In that child custody case, the mother and the maternal grandparents reported to Child Protective Services that they suspected the father of child sexual abuse. When he learned of the report, the father struck the mother and was convicted of misdemeanor assault. No child abuse charges were filed, but Eastside Sexual Assault Center for Children recommended supervised visitation. The guardian ad litem in the dissolution action recommended a sexual deviancy evaluation based on the father’s “ ‘history of violence’ and the ‘largely unexplored possibility of sexual boundary issues.’ ” Parker, 91 Wn. App. at 222. Parker, who had never been convicted of a sex offense, appealed the order that he undergo a plethysmograph examination.
+Division One of this court examined the order in light of the Due Process Clause of the United States Constitution. The court stated,
+[The father] asserts a substantive due process right to avoid having the intimate parts of his body restrained and monitored while his mind is exposed to pornographic imagery. This is a substantial claim. Freedom from bodily restraint is at the core of the liberty protected by the Due Process Clause from arbitrary governmental action. [Foucha v. Louisiana, 504 U.S. 71, 80, 112 S. Ct. 1780, 1785, 118 L. Ed. 2d 437 (1992).] Also, the court-ordered plethysmograph test implicates the Fourth Amendment right to be free from unwarranted searches or seizures. [Harrington v. Almy, 977 F.2d 37, 43 (1st Cir. 1992).] Finally, the order, which effectively makes submission to the test a precondition to unsupervised visitation, affects [the father’s] fundamental liberty interest in the care and custody of his son. [Zakrzewski v. Fox, 87 F.3d 1011, 1013 (8th Cir. 1996).]
+Parker, 91 Wn. App. at 223-24. The court concluded, “ ‘The procedure involves bodily manipulation of the most intimate sort.’ ” Parker, 91 Wn. App. at 225 (quoting Harrington v. Almy, 977 F.2d 37, 44 (1st Cir. 1992)).
+The Parker court then examined Harrington v. Almy and concluded that weighing the government interest against the intrusiveness to the individual was the proper course of action. “ ‘There has been no showing regarding the procedure’s reliability and, in light of other psychological evaluative tools available, there has been no demonstration that other less intrusive means of obtaining the relevant information are not sufficient.’ ” Parker, 91 Wn. App. at 225 (quoting Harrington, 977 F.2d at 44).
+The Parker court did note that the plethysmograph may be used to monitor compliance of convicted sex offenders within the conditions of their community placement but it distinguished this issue from the circumstances of child custody disputes.
+[B]ecause convicted sex offenders are a population of individuals whose liberty interests have already been severely limited based on their proven criminal conduct, authority allowing courts to order the procedure in that context does not compel affirmance of an order directed to a person who has no history of committing sexual crimes.
+Parker, 91 Wn. App. at 226. Thus, the court vacated the order.
+Here, the facts echo those of Parker. Like Parker, John has never been convicted of committing sexual crimes. We hold that the trial court abused its discretion by ordering the father to submit to a plethysmograph examination where the record reveals no finding of a compelling interest that outweighs the father’s liberty interest. See, e.g., State ex. rel. Taylor v. Dorsey, 81 Wn. App. 414, 421, 914 P.2d 773 (1996) (due process test weighs the private interest affected, the risk of erroneous deprivation, and the government’s interest) (quoting Mathews v. Eldridge, 424 U.S. 319, 335, 96 S. Ct. 893, 47 L. Ed. 2d 18 (1976)). We vacate that portion of the order requiring John to submit to a plethysmograph examination and remand to the trial court.
+Attorney Fees
+John requests attorney fees and costs from this court as part of his appeal. He relies on In re Marriage of Greenlee, 65 Wn. App. 703, 829 P.2d 1120, review denied, 120 Wn.2d 1002 (1992), for the proposition that the court may award attorney fees if additional legal fees were caused by one party’s intransigence. But here there is no intransigence.
+The Greenlee court awarded fees because the ex-husband demonstrated “obstructionist and foot-dragging tactics” as well as threatening the ex-wife with increased financial responsibility for the husband’s Internal Revenue Service debt. Greenlee, 65 Wn. App. at 709. Unlike the appellants in Greenlee, John requests attorney fees and costs he incurred to resist a court order. There is no evidence in this record suggesting that Allison’s request for a sexual deviancy evaluation or her opposition to discretionary review were “obstructionist and foot-dragging tactics.”
+We vacate the portion of the trial court’s order requiring the father to submit to a plethysmograph examination and remand for further proceedings.
+Seinfeld and Houghton, JJ., concur.
+Frye v. United States, 293 F. 1013 (D.C. Cir. 1923).
+We use the parties’ first names for clarity and ease of reading.
+Harrington v. Almy, 977 F.2d 37 (1st Cir. 1992).
+The Parker court remanded the case to the trial court to conduct a Frye hearing. Because we hold that the order requiring the father to submit to a plethysmograph examination is not supported by a showing of a compelling state interest, we do not reach the claim that the results of such a procedure are unreliable and inadmissible under Frye.
