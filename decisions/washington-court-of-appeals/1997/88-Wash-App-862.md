@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15611-7-III"
 decided: "1997-10-16"
-citations: ["88 Wash. App. 862", "87 Wash. App. 1103"]
+citations: ["88 Wash. App. 862"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Margaret G. Dobbins, Respondent, v. Jose Luis Mendoza, Defendant, Mon
 source_url: "https://static.case.law/wash-app/88/cases/0862-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592395
-cites_cases: ["102 Wn.2d 1002", "104 Minn. 165", "116 N.W. 357", "116 Wn.2d 1002", "118 Wn.2d 251", "130 Wn.2d 1004", "19 Wn. App. 300", "234 U.S. 385", "37 Wn. App. 424", "46 Wn. App. 517", "51 Wash. 193", "52 Wn. App. 241", "53 Wn. App. 182", "575 P.2d 726", "59 Wn. App. 315", "680 P.2d 1066", "731 P.2d 533", "74 Wn. App. 781", "75 Wn. App. 317", "758 P.2d 1006", "765 P.2d 1333", "796 P.2d 786", "82 Wn. App. 1", "821 P.2d 1216", "875 P.2d 647", "877 P.2d 724", "88 Wn. App. 862", "917 P.2d 131", "98 P. 603"]
+cites_cases: ["102 Wn.2d 1002", "104 Minn. 165", "116 N.W. 357", "116 Wn.2d 1002", "118 Wn.2d 251", "130 Wn.2d 1004", "19 Wn. App. 300", "234 U.S. 385", "37 Wn. App. 424", "46 Wn. App. 517", "51 Wash. 193", "52 Wn. App. 241", "53 Wn. App. 182", "575 P.2d 726", "59 Wn. App. 315", "680 P.2d 1066", "731 P.2d 533", "74 Wn. App. 781", "75 Wn. App. 317", "758 P.2d 1006", "765 P.2d 1333", "796 P.2d 786", "82 Wn. App. 1", "821 P.2d 1216", "875 P.2d 647", "877 P.2d 724", "917 P.2d 131", "98 P. 603"]
 ---
 
 # Dobbins v. Mendoza
