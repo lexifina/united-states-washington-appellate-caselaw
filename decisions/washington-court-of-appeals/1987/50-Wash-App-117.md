@@ -1,0 +1,39 @@
+---
+court: "Washington Court of Appeals"
+docket: "7932-5-III"
+decided: "1987-12-22"
+citations: ["50 Wash. App. 117"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. David Patrick Kovac, Appellant."]
+source_url: "https://static.case.law/wash-app/50/cases/0117-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1706459
+cites_cases: ["11 Wn. App. 166", "22 Wn. App. 572", "395 U.S. 6", "396 U.S. 398", "44 Wn. App. 26", "521 P.2d 973", "539 P.2d 680", "590 P.2d 1276", "616 P.2d 628", "618 P.2d 99", "720 P.2d 1387", "84 Wn.2d 1005", "85 Wn.2d 758", "94 Wn.2d 216", "94 Wn.2d 634"]
+---
+
+# State v. Kovac
+
+## Majority (McInturff, C.J.)
+
+McInturff, C.J.
+David Kovac appeals his juvenile court conviction for possession of marijuana with intent to deliver. He challenges the sufficiency of the evidence to support the judgment. We reverse the conviction and remand to the juvenile court.
+On February 8, 1986, a Spokane police officer observed 17-year-old Mr. Kovac exchanging baggies and money with another individual in Riverfront Park. In the officer's experience, marijuana was purchased in baggies. He therefore approached the two and asked them for their "stashes." Mr. Kovac produced two baggies. The officer then arrested and searched both of the subjects. He found five more baggies on Mr. Kovac, and a small amount of money. The other person had 15 baggies and a large amount of cash in his pocket.
+The seven baggies taken from Mr. Kovac contained a total of 8 grams of marijuana, or enough for 32 to 40 cigarettes. Mr. Kovac testified the going rate was $5 per gram, but he was able to purchase the seven packages for $25 because of a discount on the sale of the larger amount. He explained that he made the larger purchase because he lived "kind of far away" and "[ijt saves time from running down all the time." Mr. Kovac had a job from 3 to 5 o'clock after school 3 or 4 days a week, had been paid $28 the previous day, and used this money to purchase the marijuana. He stated he bought it in separate baggies because that was the way the seller had packaged it. A detective for the City of Spokane who transported the seized baggies to the Washington State Patrol crime lab also testified that in his experience gram baggies is the usual way marijuana is packaged for sale in Riverfront Park.
+Following trial in juvenile court on the charge of possession of a controlled substance with intent to deliver, the court found Mr. Kovac guilty, reasoning:
+There is one factor that hasn't been discussed by either counsel, though and which the court, I think, has to use to resolve this matter. This young man, this defendant, worked a few hours a week, earned money. And he got paid this day. And if the story is to be believed by the court, the court would have to believe that he squandered almost his entire paycheck on marijuana. And that he was just going to, I guess, sit around and use it, he and his friends, or something else. I don't believe that that's the case. I believe the fact that he had this quantity indicates to the court, beyond much question, that he intended to sell it and get part of his money back, because he needed to. Otherwise he had no funds to operate with. He got his weekly paycheck and he intended to dispose of it or parcel it out to his friends or let them share in his good fortune of being able to buy seven baggies for $25. I am convinced that he did intend to sell it.
+On remand, the court entered findings which incorporate the facts as summarized above. The court's conclusions include:
+II.
+The defendant's possession of seven plastic bags each containing one gram of marijuana indicates an intent to sell and deliver a controlled substance.
+m.
+Due to the form in which the marijuana was packaged and the fact that the defendant had spent most of his paycheck on the marijuana, the Court is convinced beyond a reasonable doubt that the defendant intended to sell this marijuana to recover part of his money.
+The question presented here is whether the evidence is such that a rational trier of fact could have found beyond a reasonable doubt that Mr. Kovac possessed the marijuana with intent to deliver. See State v. Green, 94 Wn.2d 216, 221, 616 P.2d 628 (1980).
+In rendering a guilty verdict, a trier of fact properly may rely on circumstantial evidence alone, even if it is also consistent with the hypothesis of innocence, so long as the evidence meets the Green standard. State v. Couch, 44 Wn. App. 26, 30, 720 P.2d 1387 (1986) (citing State v. Gosby, 85 Wn.2d 758, 766-67, 539 P.2d 680 (1975)). "Furthermore, the specific criminal intent of the accused may be inferred from the conduct where it is plainly indicated as a matter of logical probability." (Italics ours.) State v. Delmarter, 94 Wn.2d 634, 638, 618 P.2d 99 (1980).
+Stated differently, an inference is invalid '"unless it can at least be said with substantial assurance that the presumed fact is more likely than not to flow from the proved fact on which it is made to depend.'" Turner v. United States, 396 U.S. 398, 405, 24 L. Ed. 2d 610, 617, 90 S. Ct. 642 (1970) (quoting Leary v. United States, 395 U.S. 6, 36, 23 L. Ed. 2d 57, 82, 89 S. Ct. 1532 (1969)). In Turner, the defendant was in possession of some 275 glassine bags of heroin and 14.68 grams of cocaine. The Court held that the individual packaging of the heroin established Turner was in the process of distributing it, but the evidence relating to the cocaine was insufficient to establish that he possessed it for resale purposes. Turner, 396 U.S. at 419, 422-23. With respect to the cocaine, the Court explained:
+Unquestionably, possession was amply proved by the evidence, . . . But the evidence with respect to Turner's possession of cocaine does not so surely demonstrate that Turner was in the process of distributing this drug. Would the jury automatically and unequivocally know that Turner was distributing cocaine simply from the fact that he had 14.68 grams of a cocaine and sugar mixture?
+Turner, 396 U.S. at 422-23.
+In State v. Simpson, 22 Wn. App. 572, 575, 590 P.2d 1276 (1979), the court held the evidence was sufficient to establish the offense of possession with intent to deliver, based upon the quantity of uncut heroin found in a bottle in the bedroom of defendant's residence, balloons with heroin found on the defendant's person, a cut balloon found under the bed, and an unusual amount of lactose found in the oven. The court noted at pages 575-76: "Balloons are commonly used for the packaging, transportation and sale of heroin. Lactose is a common agent for cutting heroin for street sale."
+Is intent to deliver ’’plainly indicated as a matter of logical probability", State v. Delmarter, supra, from the fact Mr. Kovac purchased 8 grams of marijuana in seven separate baggies and the fact he used most of his check to make the purchase? We answer "no.” The evidence that the seller only had individual baggies of marijuana for sale and the lack of evidence that Mr. Kovac, a minor, needed his paycheck to purchase necessities argues against the validity of the juvenile court's inference of intent to deliver. In any event, 8 grams of marijuana, whether packaged in one baggie or seven, is not sufficient to infer an intent to deliver. Mr. Kovac testified 8 grams was enough to make 32 to 40 cigarettes, an amount reasonable for personal consumption. We hold the evidence does not meet the standard of State v. Green, supra.
+The judgment of the juvenile court is reversed; the case is remanded to the juvenile court for entry of an amended judgment of guilt on the lesser included offense of possession. See State v. Liles, 11 Wn. App. 166, 172-73, 521 P.2d 973, review denied, 84 Wn.2d 1005 (1974).
+Munson and Thompson, JJ., concur.
