@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26635-7-I"
 decided: "1992-02-03"
-citations: ["64 Wash. App. 440", "63 Wash. App. 1060"]
+citations: ["64 Wash. App. 440"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James L. Overvold, Appellant.
 source_url: "https://static.case.law/wash-app/64/cases/0440-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722653
-cites_cases: ["106 Wn.2d 514", "106 Wn.2d 525", "106 Wn.2d 547", "108 Wn.2d 1024", "108 Wn.2d 125", "108 Wn.2d 419", "110 Wn.2d 1006", "110 Wn.2d 1036", "112 Wn.2d 419", "114 Wn.2d 1014", "114 Wn.2d 1015", "115 Wn.2d 275", "115 Wn.2d 445", "117 Wn.2d 156", "117 Wn.2d 211", "400 U.S. 25", "47 Wn. App. 495", "48 Wn. App. 772", "51 Wn. App. 274", "51 Wn. App. 517", "52 Wn. App. 135", "55 Wn. App. 738", "56 Wn. App. 646", "59 Wn. App. 141", "64 Wn. App. 440", "723 P.2d 1111", "723 P.2d 1117", "723 P.2d 1123", "735 P.2d 1356", "736 P.2d 1065", "739 P.2d 683", "742 P.2d 133", "753 P.2d 543", "754 P.2d 147", "758 P.2d 13", "771 P.2d 739", "780 P.2d 880", "784 P.2d 579", "796 P.2d 1266", "796 P.2d 438", "799 P.2d 244", "813 P.2d 1238", "815 P.2d 752"]
+cites_cases: ["106 Wn.2d 514", "106 Wn.2d 525", "106 Wn.2d 547", "108 Wn.2d 1024", "108 Wn.2d 125", "108 Wn.2d 419", "110 Wn.2d 1006", "110 Wn.2d 1036", "112 Wn.2d 419", "114 Wn.2d 1014", "114 Wn.2d 1015", "115 Wn.2d 275", "115 Wn.2d 445", "117 Wn.2d 156", "117 Wn.2d 211", "400 U.S. 25", "47 Wn. App. 495", "48 Wn. App. 772", "51 Wn. App. 274", "51 Wn. App. 517", "52 Wn. App. 135", "55 Wn. App. 738", "56 Wn. App. 646", "59 Wn. App. 141", "723 P.2d 1111", "723 P.2d 1117", "723 P.2d 1123", "735 P.2d 1356", "736 P.2d 1065", "739 P.2d 683", "742 P.2d 133", "753 P.2d 543", "754 P.2d 147", "758 P.2d 13", "771 P.2d 739", "780 P.2d 880", "784 P.2d 579", "796 P.2d 1266", "796 P.2d 438", "799 P.2d 244", "813 P.2d 1238", "815 P.2d 752"]
 ---
 
 # State v. Overvold
