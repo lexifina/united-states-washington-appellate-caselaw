@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25805-6-II"
 decided: "2001-12-07"
-citations: ["110 Wash. App. 1", "109 Wash. App. 1039"]
+citations: ["110 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Daniel Wade McKinnon, Appella
 source_url: "https://static.case.law/wash-app/110/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1123670
-cites_cases: ["100 Wn. App. 85", "109 Wn.2d 222", "110 Wn. App. 1", "119 Wn.2d 192", "127 Wn.2d 322", "141 Wn.2d 1011", "466 U.S. 668", "616 P.2d 628", "743 P.2d 816", "829 P.2d 1068", "899 P.2d 1251", "94 Wn.2d 216", "95 Wn. App. 475", "97 Wn. App. 737", "975 P.2d 584", "987 P.2d 119", "995 P.2d 1268"]
+cites_cases: ["100 Wn. App. 85", "109 Wn.2d 222", "119 Wn.2d 192", "127 Wn.2d 322", "141 Wn.2d 1011", "466 U.S. 668", "616 P.2d 628", "743 P.2d 816", "829 P.2d 1068", "899 P.2d 1251", "94 Wn.2d 216", "95 Wn. App. 475", "97 Wn. App. 737", "975 P.2d 584", "987 P.2d 119", "995 P.2d 1268"]
 ---
 
 # State v. McKinnon
