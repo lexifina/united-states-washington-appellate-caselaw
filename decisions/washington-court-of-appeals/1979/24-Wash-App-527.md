@@ -1,0 +1,36 @@
+---
+court: "Washington Court of Appeals"
+docket: "6685-1"
+decided: "1979-08-27"
+citations: ["24 Wash. App. 527", "24 Wash. App. 1008"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Farris and Ringold, JJ., concur."]
+parties: ["The State of Washington, on the Relation of Robert E. Schillberg, Appellant, v. Everett District Court, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/24/cases/0527-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 459019
+---
+
+# State ex rel. Schillberg v. Everett District Court
+
+## Majority (Callow, C.J.)
+
+Callow, C.J.
+The State appeals from an order of the Snohomish County Superior Court denying certiorari to review the Everett District Court's dismissal of the State's case against the defendant, Francisco Lopez, for failure to afford him a preliminary appearance within the time limits of JTR 2.01(b)(4). We reverse the denial of certiorari by the Superior Court.
+On March 11, 1978, the defendant was involved in a 2-car accident. He was transported to the Snohomish County jail, administered a Breathalyzer test, issued a citation for driving while under the influence of alcohol, and then released after he signed a promise in the citation to appear before the Everett District Court on March 26, 1978. Prior to March 26, a Sunday, the defendant was advised by a letter from the district court to appear instead on March 30. The defendant's counsel appeared on that day, moved for a dismissal of. the charge on the ground that the date set for the defendant's preliminary appearance was untimely in light of JTR 2.01(b)(4), and requested a trial date, which was set for April 27, 1978. On April 14, following a hearing on the defendant's motion to dismiss, the district court dismissed the charge.
+On April 20, 1978, the State applied to the Snohomish County Superior Court for a writ of certiorari to review the district court's order of dismissal. The court thereupon issued a writ of certiorari directing the district court judge to certify and return to the Superior Court by May 1, 1978, a full and complete transcript of the records and proceedings of the cause. Following a hearing on the writ, the Superior Court entered an order denying writ on May 31, 1978. It is from this order that the State appeals.
+The issue raised on this appeal is whether the State violated JTR 2.01(b)(4) by setting the defendant's preliminary appearance 18 days after the date of his traffic citation, and, if so, whether the appropriate sanction for the rule's violation is to dismiss the State's complaint with prejudice.
+JTR 2.02(a) requires that all traffic violations be prosecuted in the form provided in JTR 2.01 and applicable state statutes. The form required by JTR 2.01(a) to be filed in all traffic cases is known as the "Complaint/Citation Docket Form." JTR 2.01(b) sets forth the information that shall be entered on the form, including the following:
+(4) In all cases where the person is not arrested, the time and place at which the person cited is to appear in court or the traffic violations bureau need not be to a time certain but may be within 72 hours or within a greater period of time not to exceed 15 days after the date of the citation.
+JTR 2.01(b)(4) expressly applies only when the traffic offender has not been arrested. Mr. Lopez was taken from the scene to the police station and later released upon his promise to appear in district court on March 26. There was an arrest.
+Whenever any person is arrested for a traffic offense, JTR 2.02(b) requires the officer to fill out a complaint and citation form in accordance with JTR 2.01 and applicable statutes. According to JTR 2.01(b)(4), an outside time limit of 15 days to appear need only be established in the citation when there has been no arrest. The applicable statutes, RCW 46.64.010-.015, set no time limit within which the arrested traffic offender is to be required to appear in court. The arresting officer is then required to serve a copy of the complaint and citation on the person and proceed by one of three alternatives. JTR 2.02(b).
+The arresting officer's first alternative is to directly and promptly take the person before an officer authorized to accept bail, or before a judge for deposit of bail. JTR 2.02(b)(1). If this is done, the person is entitled either to deposit bail "for his appearance at a time and place to be then made known to him" or to be released on personal recognizance under limited conditions. JTR 2.03(b). If the person is released on bail, the appearance date is to be indicated in the citation or warrant. JTR 2.03(e). If release on personal recognizance is granted, release may be conditioned upon the defendant's written promise to appear "acknowledging the trial or arraignment date.” JTR 2.03(i). Whether release of the arrested person be by bail or personal recognizance, the Justice Court Traffic Rules prescribe no time limits within which the defendant must be afforded a preliminary appearance; only a time certain must be set.
+The arresting officer's second option arises only when bail is not deposited or the defendant is not released on personal recognizance. JTR 2.02(b)(2), 2.03(b). The defendant shall then be afforded an arraignment before a judge without unnecessary delay, and in any case within 24 hours exclusive of nonjudicial days.
+The officer's third option, which was pursued in this case, is to
+(3) permit the person charged with the violation to give his written promise to appear in court or traffic violations bureau by signing the original traffic citation prepared by the officer, in which event the officer shall deliver the violator's copy of the citation to the person, and thereupon the officer shall release the person from custody.
+JTR 2.02(b)(3). The option granted to the person charged contemplates that the person may elect to either promise to appear for arraignment at a time certain or refuse to sign the citation. If the person refuses to sign the citation, he or she may secure an arraignment before a judge in the time and manner required under the arresting officer's second option, supra.
+The defendant made an election — between promising to appear and securing a prompt arraignment — that is unavailable to the traffic offender who has not been arrested. He promised to appear. The unavailability of this election to the person not arrested, as well as the need for formal interchange between the defendant and the justice court so that the cited defendant's case is promptly processed, is consistent with the time frame prescribed by JTR 2.01(b)(4). The defendant could have secured a prompt arraignment before a judge by refusing to sign the citation. He chose not to do so. He cannot complain now that he was denied a preliminary appearance within 15 days of the date of the citation. He was free on what amounted to his own personal recognizance, and was granted an initial appearance within 18 days, which was within a reasonable time from the date of his arrest. The requirements of JTR 2.01(b)(4) do not apply to a defendant who has been arrested.
+The order of the Superior Court is reversed and the cause is remanded to the district court for trial.
+Farris and Ringold, JJ., concur.
