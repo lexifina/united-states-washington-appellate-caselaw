@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48387-1-I"
 decided: "2002-08-19"
-citations: ["115 Wash. App. 1", "113 Wash. App. 1016"]
+citations: ["115 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lesley Muma, Respondent, v. Anthony Muma, Appellant."]
 source_url: "https://static.case.law/wash-app/115/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 221953
-cites_cases: ["115 Wn. App. 1", "118 Wn.2d 826", "131 Wn.2d 706", "135 Wn.2d 835", "149 Wn.2d 1029", "635 P.2d 683", "64 Wn. App. 1", "822 P.2d 812", "827 P.2d 1374", "934 P.2d 1179", "943 P.2d 265", "959 P.2d 1077", "96 Wn.2d 338"]
+cites_cases: ["118 Wn.2d 826", "131 Wn.2d 706", "135 Wn.2d 835", "149 Wn.2d 1029", "635 P.2d 683", "64 Wn. App. 1", "822 P.2d 812", "827 P.2d 1374", "934 P.2d 1179", "943 P.2d 265", "959 P.2d 1077", "96 Wn.2d 338"]
 ---
 
 # Muma v. Muma
