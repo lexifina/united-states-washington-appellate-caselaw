@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23814-4-II"
 decided: "1999-08-20"
-citations: ["97 Wash. App. 375", "97 Wash. App. 1001"]
+citations: ["97 Wash. App. 375"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William Newton, Respondent, v. Joseph C. Legarsky, et al., Appellants
 source_url: "https://static.case.law/wash-app/97/cases/0375-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 183919
-cites_cases: ["133 Wn.2d 804", "137 Wn.2d 84", "139 Wn.2d 1023", "69 Wn. App. 479", "77 Wn. App. 366", "848 P.2d 1337", "86 Wn. App. 405", "88 Wn. App. 1077", "890 P.2d 1092", "93 Wn. App. 189", "936 P.2d 1175", "947 P.2d 721", "95 Wn. App. 439", "963 P.2d 934", "969 P.2d 446", "97 Wn. App. 375", "975 P.2d 544"]
+cites_cases: ["133 Wn.2d 804", "137 Wn.2d 84", "139 Wn.2d 1023", "69 Wn. App. 479", "77 Wn. App. 366", "848 P.2d 1337", "86 Wn. App. 405", "88 Wn. App. 1077", "890 P.2d 1092", "93 Wn. App. 189", "936 P.2d 1175", "947 P.2d 721", "95 Wn. App. 439", "963 P.2d 934", "969 P.2d 446", "975 P.2d 544"]
 ---
 
 # Newton v. Legarsky
