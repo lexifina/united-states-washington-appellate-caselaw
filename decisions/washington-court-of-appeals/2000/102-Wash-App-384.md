@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45841-8-I"
 decided: "2000-07-17"
-citations: ["102 Wash. App. 384", "101 Wash. App. 1041"]
+citations: ["102 Wash. App. 384"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Safeco Insurance Company, Respondent, v. Denise Brackett Woodley, App
 source_url: "https://static.case.law/wash-app/102/cases/0384-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301282
-cites_cases: ["102 Wn. App. 384", "104 Wn.2d 518", "108 Wn.2d 314", "113 Wn.2d 330", "117 Wn.2d 37", "124 Wn.2d 277", "133 Wn.2d 490", "135 Wn.2d 398", "136 Wn.2d 567", "151 Ind. App. 433", "167 Ariz. 148", "197 Colo. 462", "20 A.L.R.4th 1069", "22 Ohio St. 3d 153", "252 Neb. 833", "280 N.E.2d 68", "294 N.W.2d 141", "296 Minn. 181", "408 So. 2d 1040", "409 Mich. 1", "489 N.E.2d 281", "503 Pa. 447", "514 P.2d 1391", "707 P.2d 125", "738 P.2d 270", "779 P.2d 249", "811 P.2d 673", "84 Wn. App. 653", "876 P.2d 896", "9 Wn. App. 789", "929 P.2d 1150", "946 P.2d 388", "953 P.2d 822", "957 P.2d 632", "964 P.2d 1173", "97 Wn. App. 721", "986 P.2d 833", "99 Wn. App. 602", "994 P.2d 881"]
+cites_cases: ["104 Wn.2d 518", "108 Wn.2d 314", "113 Wn.2d 330", "117 Wn.2d 37", "124 Wn.2d 277", "133 Wn.2d 490", "135 Wn.2d 398", "136 Wn.2d 567", "151 Ind. App. 433", "167 Ariz. 148", "197 Colo. 462", "20 A.L.R.4th 1069", "22 Ohio St. 3d 153", "252 Neb. 833", "280 N.E.2d 68", "294 N.W.2d 141", "296 Minn. 181", "408 So. 2d 1040", "409 Mich. 1", "489 N.E.2d 281", "503 Pa. 447", "514 P.2d 1391", "707 P.2d 125", "738 P.2d 270", "779 P.2d 249", "811 P.2d 673", "84 Wn. App. 653", "876 P.2d 896", "9 Wn. App. 789", "929 P.2d 1150", "946 P.2d 388", "953 P.2d 822", "957 P.2d 632", "964 P.2d 1173", "97 Wn. App. 721", "986 P.2d 833", "99 Wn. App. 602", "994 P.2d 881"]
 ---
 
 # Safeco Insurance v. Woodley
