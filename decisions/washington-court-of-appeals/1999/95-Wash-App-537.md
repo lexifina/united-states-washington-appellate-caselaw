@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16441-1-III"
 decided: "1999-04-01"
-citations: ["95 Wash. App. 537", "94 Wash. App. 1059"]
+citations: ["95 Wash. App. 537"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Raymond Clyde Marks, Appellan
 source_url: "https://static.case.law/wash-app/95/cases/0537-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254788
-cites_cases: ["110 Wn.2d 253", "116 Wn.2d 917", "128 Wn.2d 1003", "129 Wn.2d 512", "68 Wn. App. 363", "751 P.2d 837", "78 Wn. App. 506", "809 P.2d 1374", "842 P.2d 1039", "897 P.2d 374", "919 P.2d 580", "95 Wn. App. 537"]
+cites_cases: ["110 Wn.2d 253", "116 Wn.2d 917", "128 Wn.2d 1003", "129 Wn.2d 512", "68 Wn. App. 363", "751 P.2d 837", "78 Wn. App. 506", "809 P.2d 1374", "842 P.2d 1039", "897 P.2d 374", "919 P.2d 580"]
 ---
 
 # State v. Marks
