@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "6216-3-III"
 decided: "1986-09-23"
-citations: ["45 Wash. App. 769", "45 Wash. App. 1015"]
+citations: ["45 Wash. App. 769"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Scott Allen Mercer, Appellant
 source_url: "https://static.case.law/wash-app/45/cases/0769-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809115
-cites_cases: ["100 Wn.2d 686", "102 Wn.2d 277", "102 Wn.2d 733", "106 Wn.2d 144", "14 Wn. App. 200", "14 Wn. App. 462", "165 Conn. 577", "24 Wn. App. 823", "27 Wn. App. 664", "28 Wn. App. 412", "28 Wn. App. 721", "29 Wn. App. 238", "30 Wn. App. 392", "30 Wn. App. 406", "31 Wn. App. 745", "32 Wn. App. 13", "32 Wn. App. 457", "32 Wn. App. 728", "345 A.2d 532", "36 Wn. App. 818", "371 U.S. 471", "374 P.2d 989", "38 Wn. App. 793", "39 Wn. App. 564", "392 U.S. 1", "394 U.S. 721", "40 L. Ed. 2d 311", "416 U.S. 960", "422 U.S. 873", "443 U.S. 47", "45 Wn. App. 769", "453 U.S. 454", "460 U.S. 491", "518 P.2d 703", "540 P.2d 444", "544 P.2d 101", "559 P.2d 1334", "60 Wash. L. Rev. 523", "60 Wn.2d 638", "604 P.2d 514", "611 P.2d 771", "617 P.2d 429", "620 P.2d 116", "624 P.2d 725", "626 P.2d 56", "628 P.2d 835", "634 P.2d 316", "635 P.2d 736", "640 P.2d 1061", "644 P.2d 747", "645 P.2d 722", "648 P.2d 99", "649 P.2d 173", "674 P.2d 1240", "677 P.2d 781", "687 P.2d 172", "689 P.2d 1065", "690 P.2d 591", "694 P.2d 670", "720 P.2d 436", "83 Wn.2d 424", "86 Wn.2d 1006", "88 Wn.2d 1", "93 Wn.2d 1017", "93 Wn.2d 638", "94 S. Ct. 1977", "94 Wn.2d 437", "95 Wn.2d 1024", "95 Wn.2d 1027", "95 Wn.2d 1032", "96 Wn.2d 1025", "97 Wn.2d 1002", "97 Wn.2d 92", "98 Wn.2d 1004"]
+cites_cases: ["100 Wn.2d 686", "102 Wn.2d 277", "102 Wn.2d 733", "106 Wn.2d 144", "14 Wn. App. 200", "14 Wn. App. 462", "165 Conn. 577", "24 Wn. App. 823", "27 Wn. App. 664", "28 Wn. App. 412", "28 Wn. App. 721", "29 Wn. App. 238", "30 Wn. App. 392", "30 Wn. App. 406", "31 Wn. App. 745", "32 Wn. App. 13", "32 Wn. App. 457", "32 Wn. App. 728", "345 A.2d 532", "36 Wn. App. 818", "371 U.S. 471", "374 P.2d 989", "38 Wn. App. 793", "39 Wn. App. 564", "392 U.S. 1", "394 U.S. 721", "40 L. Ed. 2d 311", "416 U.S. 960", "422 U.S. 873", "443 U.S. 47", "453 U.S. 454", "460 U.S. 491", "518 P.2d 703", "540 P.2d 444", "544 P.2d 101", "559 P.2d 1334", "60 Wash. L. Rev. 523", "60 Wn.2d 638", "604 P.2d 514", "611 P.2d 771", "617 P.2d 429", "620 P.2d 116", "624 P.2d 725", "626 P.2d 56", "628 P.2d 835", "634 P.2d 316", "635 P.2d 736", "640 P.2d 1061", "644 P.2d 747", "645 P.2d 722", "648 P.2d 99", "649 P.2d 173", "674 P.2d 1240", "677 P.2d 781", "687 P.2d 172", "689 P.2d 1065", "690 P.2d 591", "694 P.2d 670", "720 P.2d 436", "83 Wn.2d 424", "86 Wn.2d 1006", "88 Wn.2d 1", "93 Wn.2d 1017", "93 Wn.2d 638", "94 S. Ct. 1977", "94 Wn.2d 437", "95 Wn.2d 1024", "95 Wn.2d 1027", "95 Wn.2d 1032", "96 Wn.2d 1025", "97 Wn.2d 1002", "97 Wn.2d 92", "98 Wn.2d 1004"]
 ---
 
 # State v. Mercer
