@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17312-7-III"
 decided: "1999-03-30"
-citations: ["95 Wash. App. 399", "94 Wash. App. 1059"]
+citations: ["95 Wash. App. 399"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John Schneider, et al., Appellants, v. Snyder’s Foods, Inc., Defend
 source_url: "https://static.case.law/wash-app/95/cases/0399-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254779
-cites_cases: ["120 Wn.2d 120", "133 Wn.2d 1021", "139 Wn.2d 1003", "29 U.S.C.A. § 185", "839 P.2d 314", "84 Wn. App. 47", "84 Wn. App. 882", "925 P.2d 212", "930 P.2d 947", "95 Wn. App. 399"]
+cites_cases: ["120 Wn.2d 120", "133 Wn.2d 1021", "139 Wn.2d 1003", "29 U.S.C.A. § 185", "839 P.2d 314", "84 Wn. App. 47", "84 Wn. App. 882", "925 P.2d 212", "930 P.2d 947"]
 ---
 
 # Schneider v. Snyder's Foods, Inc.
