@@ -1,0 +1,47 @@
+---
+court: "Washington Court of Appeals"
+docket: "22949-4-I"
+decided: "1989-05-30"
+citations: ["54 Wash. App. 299"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Larry R. Lloyd, et al, Appellants, v. First Farwest Life Insurance Company, Respondent."]
+source_url: "https://static.case.law/wash-app/54/cases/0299-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1762170
+cites_cases: ["107 Wn.2d 836", "110 Wn.2d 99", "112 Wn.2d 1", "113 Wn.2d 1017", "20 Wn. App. 261", "25 Wn. App. 854", "256 Md. 320", "260 A.2d 338", "38 Wn. App. 382", "41 A.L.R.3d 648", "503 P.2d 1107", "579 P.2d 1015", "610 P.2d 944", "685 P.2d 632", "7 Wn. App. 790", "734 P.2d 17", "751 P.2d 282", "771 P.2d 701"]
+---
+
+# Lloyd v. First Farwest Life Insurance
+
+## Majority (Webster, J.)
+
+Webster, J.
+Helmi Lloyd appeals a summary judgment declaring she has no claim under her First Farwest insurance policy for a ruptured cerebral aneurysm resulting from Lloyd's deliberate, nonmedical inhalation of cocaine. The policy covered "bodily injury caused by accident" but excluded loss due to "a sickness, disease, or disorder".
+According to Lloyd's expert, her injury "was due to the hypertensive/hypermetabolic effects of cocaine on her cerebral vasculature", as opposed to an "active disease." The expert testified that, had it not been for the increase in blood pressure, "which can be expected to have resulted from inhaling 'three lines' of cocaine," Lloyd could have lived "a long and normal life".
+The trial court concluded that Lloyd's ruptured aneurysm did not represent a bodily injury caused by an accident, and therefore, was not covered by the insurance policy in dispute.
+Discussion
+Lloyd argues that the unforeseen or "accidental result" of her cocaine inhalation ought to be characterized as a "bodily injury caused by accident".
+Lloyd confuses cause and effect. Clear and unambiguous policy language must be enforced as written. Washington PUD's Utils. Sys. v. PUD 1, 112 Wn.2d 1, 771 P.2d 701 (1989). It may not be liberally construed in favor of the insured when it is not fairly susceptible to the proffered construction. PUD 1; Vadheim v. Continental Ins. Co., 107 Wn.2d 836, 841, 734 P.2d 17 (1987). Under the plain language of Lloyd's policy, coverage depends not on an unanticipated or accidental result, but on "bodily injury caused by accident". (Italics ours.) This "accidental means" test is not barred by WAC 284-50-315(4), because that regulation applies only to disability insurance policies. See Detweiler v. J.C. Penney Cas. Ins. Co., 110 Wn.2d 99, 104 n.3, 751 P.2d 282 (1988).
+Lloyd's argument is not only contrary to the language of her policy, but, if accepted, it would "obliterate" the distinction at common law between "accidental results" and "accidental means." See Whiteside v. New York Life Ins. Co., 7 Wn. App. 790, 792, 503 P.2d 1107 (1972). In White-side, the father of an insured sought to recover a double indemnity on the theory that the insured's death, occasioned by a self-injected overdose of methedrine and morphine, was "accidental". Although the policy language covered death resulting solely by accident, the court did not deny recovery on this basis. Rather, the court held that to permit recovery for a self-induced, though unintentional, overdose of illegal drugs would violate public policy. Whiteside, at 793-94.
+Here, with the use of an illegal drug without medical authorization or supervision, a drug with well known potential for injury, we are hard pressed to say that a great amount of risk was not assumed, or was unforeseeable.
+Whiteside, at 794 (quoting Gordon v. Metropolitan Life Ins. Co., 256 Md. 320, 324, 260 A.2d 338, 41 A.L.R.3d 648 (1970)).
+We agree with Whiteside. Public policy will not permit one who illegally ingests a controlled substance to claim that a naturally resulting injury was an accident. In the case of cocaine, it is especially well known that the drug is dangerous and illegal.
+The common law distinction between accidental results and accidental means is settled and may not now be blurred by judicial action. McKinnon v. Republic Nat'l Life Ins. Co., 25 Wn. App. 854, 857 n.1, 610 P.2d 944 (1980). The rule, as recently reaffirmed by our Supreme Court, is as follows:
+Where, as here, the word "accident" is not otherwise defined in a policy, we look to our common law for definition. . . .
+. . . [A]n accident is never present when a deliberate act is performed unless some additional unexpected, independent and unforeseen happening occurs which produces or brings about the result of injury or death.
+(Footnote omitted.) Detweiler, 110 Wn.2d at 104 (quoting Unigard Mut. Ins. Co. v. Spokane Sch. Dist. 81, 20 Wn. App. 261, 263-64, 579 P.2d 1015 (1978)). It is not necessary that the claimant intend or expect the injurious consequences of her actions. Unigard, at 263 (fire in school garbage can resulting in building blaze); Safeco Ins. Co. of Am. v. Dotts, 38 Wn. App. 382, 385-86, 685 P.2d 632 (1984) (backhand slap resulting in death). All that is required is that the claimant know or should know facts from which a prudent person would conclude that the injurious consequences are reasonably foreseeable. Unigard. Otherwise, an insured could shift intentionally inflicted injuries to an insurer in violation of public policy. Detweiler, at 105-06; Unigard, at 265; Dotts, at 386.
+Under the common law distinction between accidental results and accidental means, summary judgment is proper when the evidence establishes as a matter of law that the claimant's injury is (1) a "natural consequence" of deliberate conduct, and (2) not the product of an unusual or atypical intervening event. See Detweiler, at 108.
+These two prerequisites are met in Lloyd's case. First, Lloyd's own evidence establishes that her injury was the "natural consequence" of a deliberate act. Lloyd's expert testified that he had seen "between six and twenty aneurysm cases in which patients' histories indicated that they had used cocaine at the time of or just prior to hemorrhage."
+Increased blood pressure is generally viewed as the primary cause of aneurysm rupture. Generally accepted medical research indicates that cocaine increases a user's blood pressure 20% to 40% for sixteen to twenty minutes after the drug has been ingested. The percentage of increase is dose dependent: an increase in the amount of cocaine would result in a higher percentage increase in blood pressure.
+... In Helmi Lloyd's case, it is certain to a reasonable medical probability that her ruptured aneurysm was due to the hypertensive/hypermetabolic effects of cocaine on her cerebral vasculature.
+Second, Lloyd produced no evidence of something atypical or unusual which intervened between her cocaine inhalation and injury. The aneurysm did not cause her injury because the medical testimony establishes, and Lloyd concedes, that the aneurysm was a preexisting condition, not an efficient or intervening cause. If the aneurysm were deemed an intervening event, the policy exclusion for loss due to "sickness, disease, or disorder" would control.
+Two Washington cases upon which Lloyd relies—Det-weiler and McKinnon—are readily distinguishable. Det-weiler involved a "confused occurrence" which created a factual question as to whether the claimant's conduct was truly deliberate and the proximate cause of injury.
+The claimant, Stephen Detweiler, who had been drinking beer with another man in a tavern, adjourned to the claimant's home where they drank some more beer and then some whiskey. As they prepared to leave, the other man drove off in the claimant's pickup truck. The claimant leaped onto the bed of the departing pickup, grabbed hold of the roll bar and was taken on a wild night ride through city streets and back roads. Eventually, the pickup abruptly decelerated and the claimant fell or was thrown off.
+110 Wn.2d at 101. At that point, the claimant fired six bullets at the wheel of the pickup in an effort to stop it. The bullets fragmented on impact, spattering metal fragments in the claimant's face. "The bullets arguably did precisely what bullets fired at a high velocity do when they hit steel." 110 Wn.2d at 106. However, "changing distances between shooter and pickup . . . and other variables inherent in this confused occurrence, such as angle of fire, ma[de] 'accident' a factual issue". (Italics ours.) Detweiler, at 108.
+McKinnon involved similarly bizarre facts. There, a proficient swimmer drowned after jumping off a floating bridge. See McKinnon, 25 Wn. App. at 855-56. The victim had been seen darting in and out of traffic on the bridge as if he were being pursued. He had no motive for suicide and was characteristically cautious. The court inferred that "something occurred which impaired his swimming capacity." 25 Wn. App. at 859. Notably, the court distinguished Whiteside: "Considered by itself, the leap was not necessarily an act injurious to the body." McKinnon, at 860.
+Here, Lloyd's conduct was injurious to her body. Nothing unusual was present in the chain of events leading from that conduct to her injury. Rather, the rupture of Lloyd's aneurysm was a natural consequence of cocaine inhalation. Because Lloyd produced no evidence of an intervening "accident," summary judgment was proper.
+We affirm.
+Coleman, C.J., and Winsor, J., concur.
+Review denied at 113 Wn.2d 1017 (1989).
