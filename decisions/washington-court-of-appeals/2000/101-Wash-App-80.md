@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24352-1-II"
 decided: "2000-05-26"
-citations: ["101 Wash. App. 80", "100 Wash. App. 1066"]
+citations: ["101 Wash. App. 80"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jeffrey J. Jacobs, Appellant.
 source_url: "https://static.case.law/wash-app/101/cases/0080-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170642
-cites_cases: ["101 Wn. App. 80", "102 Wn.2d 506", "106 Wn.2d 54", "115 Wn.2d 171", "129 Ariz. 557", "129 Wn.2d 61", "136 Wn.2d 1021", "136 Wn.2d 939", "138 Wn.2d 343", "139 Wn.2d 486", "237 Ga. App. 703", "439 U.S. 128", "476 U.S. 207", "495 U.S. 91", "61 Cal. App. 4th 322", "688 P.2d 151", "71 Cal. Rptr. 2d 433", "720 P.2d 808", "75 Wn. App. 351", "76 A.L.R. 4th 517", "795 P.2d 693", "82 Wn. App. 594", "845 F. Supp. 1548", "88 Wn. App. 297", "880 P.2d 48", "90 Wn. App. 890", "917 P.2d 563", "918 P.2d 945", "944 P.2d 1110", "969 P.2d 1065", "969 P.2d 90", "979 P.2d 833", "987 P.2d 73"]
+cites_cases: ["102 Wn.2d 506", "106 Wn.2d 54", "115 Wn.2d 171", "129 Ariz. 557", "129 Wn.2d 61", "136 Wn.2d 1021", "136 Wn.2d 939", "138 Wn.2d 343", "139 Wn.2d 486", "237 Ga. App. 703", "439 U.S. 128", "476 U.S. 207", "495 U.S. 91", "61 Cal. App. 4th 322", "688 P.2d 151", "71 Cal. Rptr. 2d 433", "720 P.2d 808", "75 Wn. App. 351", "76 A.L.R. 4th 517", "795 P.2d 693", "82 Wn. App. 594", "845 F. Supp. 1548", "88 Wn. App. 297", "880 P.2d 48", "90 Wn. App. 890", "917 P.2d 563", "918 P.2d 945", "944 P.2d 1110", "969 P.2d 1065", "969 P.2d 90", "979 P.2d 833", "987 P.2d 73"]
 ---
 
 # State v. Jacobs
