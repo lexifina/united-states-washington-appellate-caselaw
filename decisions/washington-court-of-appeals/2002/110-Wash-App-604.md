@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20173-2-III"
 decided: "2002-01-29"
-citations: ["110 Wash. App. 604", "110 Wash. App. 1014"]
+citations: ["110 Wash. App. 604"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. David T. O’Neill, Appellant
 source_url: "https://static.case.law/wash-app/110/cases/0604-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1123933
-cites_cases: ["106 Wn.2d 144", "110 Wn. App. 604", "114 Wn.2d 304", "119 S. Ct. 484", "123 Wn.2d 641", "128 Wn.2d 431", "137 Wn.2d 208", "139 Wn.2d 486", "357 P.2d 735", "448 U.S. 98", "453 U.S. 454", "525 U.S. 113", "559 P.2d 970", "57 Wn.2d 422", "59 Wn. App. 481", "720 P.2d 436", "787 P.2d 1347", "798 P.2d 1176", "83 Wn. App. 393", "85 Wn. App. 339", "870 P.2d 313", "88 Wn.2d 127", "89 Wn. App. 774", "909 P.2d 293", "91 Wn. App. 554", "923 P.2d 698", "932 P.2d 1258", "950 P.2d 498", "958 P.2d 1017", "970 P.2d 722", "987 P.2d 73"]
+cites_cases: ["106 Wn.2d 144", "114 Wn.2d 304", "119 S. Ct. 484", "123 Wn.2d 641", "128 Wn.2d 431", "137 Wn.2d 208", "139 Wn.2d 486", "357 P.2d 735", "448 U.S. 98", "453 U.S. 454", "525 U.S. 113", "559 P.2d 970", "57 Wn.2d 422", "59 Wn. App. 481", "720 P.2d 436", "787 P.2d 1347", "798 P.2d 1176", "83 Wn. App. 393", "85 Wn. App. 339", "870 P.2d 313", "88 Wn.2d 127", "89 Wn. App. 774", "909 P.2d 293", "91 Wn. App. 554", "923 P.2d 698", "932 P.2d 1258", "950 P.2d 498", "958 P.2d 1017", "970 P.2d 722", "987 P.2d 73"]
 ---
 
 # State v. O'Neill
