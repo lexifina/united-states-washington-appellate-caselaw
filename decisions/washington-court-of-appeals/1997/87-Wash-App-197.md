@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38251-9-I"
 decided: "1997-05-12"
-citations: ["87 Wash. App. 197", "86 Wash. App. 1008"]
+citations: ["87 Wash. App. 197"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Frederick Wilson, Appellant, v. The Employment Security Department, R
 source_url: "https://static.case.law/wash-app/87/cases/0197-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 565930
-cites_cases: ["122 Wn. 2d 397", "123 Wn. 2d 1003", "130 Wn. 2d 1004", "35 Wn. App. 72", "664 P.2d 1318", "69 Wn. App. 655", "81 Wn. App. 391", "82 Wn. App. 30", "850 P.2d 546", "858 P.2d 494", "87 Wn. App. 197", "914 P.2d 1191", "917 P.2d 136"]
+cites_cases: ["122 Wn. 2d 397", "123 Wn. 2d 1003", "130 Wn. 2d 1004", "35 Wn. App. 72", "664 P.2d 1318", "69 Wn. App. 655", "81 Wn. App. 391", "82 Wn. App. 30", "850 P.2d 546", "858 P.2d 494", "914 P.2d 1191", "917 P.2d 136"]
 ---
 
 # Wilson v. Employment Security Department
