@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18379-3-III"
 decided: "2001-01-09"
-citations: ["104 Wash. App. 772", "104 Wash. App. 1006"]
+citations: ["104 Wash. App. 772"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Carey Virginia Fisher, Appell
 source_url: "https://static.case.law/wash-app/104/cases/0772-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700198
-cites_cases: ["10 Wn. App. 75", "104 Wn. App. 772", "144 Wn.2d 1002", "449 F.2d 933", "45 Wn. App. 228", "474 P.2d 542", "51 Wn. App. 202", "516 P.2d 1088", "537 P.2d 268", "56 Wn. App. 236", "604 P.2d 943", "724 P.2d 1092", "752 P.2d 945", "76 Wn. App. 496", "78 Wn.2d 362", "783 P.2d 121", "85 Wn.2d 509", "886 P.2d 243", "93 Wn.2d 7"]
+cites_cases: ["10 Wn. App. 75", "144 Wn.2d 1002", "449 F.2d 933", "45 Wn. App. 228", "474 P.2d 542", "51 Wn. App. 202", "516 P.2d 1088", "537 P.2d 268", "56 Wn. App. 236", "604 P.2d 943", "724 P.2d 1092", "752 P.2d 945", "76 Wn. App. 496", "78 Wn.2d 362", "783 P.2d 121", "85 Wn.2d 509", "886 P.2d 243", "93 Wn.2d 7"]
 ---
 
 # State v. Fisher
