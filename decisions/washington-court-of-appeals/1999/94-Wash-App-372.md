@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22946-3-II"
 decided: "1999-02-12"
-citations: ["94 Wash. App. 372", "93 Wash. App. 1090"]
+citations: ["94 Wash. App. 372"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kim Marshall, Appellant, v. Bally’s Pacwest, Inc., et al., Responde
 source_url: "https://static.case.law/wash-app/94/cases/0372-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83006
-cites_cases: ["112 Wn.2d 216", "120 Wn.2d 57", "134 Wn.2d 468", "180 P.2d 564", "24 Mass. App. Ct. 224", "27 Wn.2d 802", "444 P.2d 701", "45 Wn. App. 700", "491 P.2d 1285", "503 P.2d 108", "507 N.E.2d 1062", "519 P.2d 7", "531 P.2d 299", "56 Wn. App. 181", "573 P.2d 2", "618 P.2d 96", "62 Wn. App. 386", "656 P.2d 1030", "726 P.2d 1032", "736 F.2d 656", "74 Wn.2d 283", "770 P.2d 182", "782 P.2d 1107", "80 Wn. App. 592", "80 Wn.2d 117", "81 Wn.2d 528", "814 P.2d 255", "83 Wn.2d 491", "837 P.2d 618", "84 Wn. App. 787", "85 Wn.2d 154", "89 Wn.2d 379", "895 P.2d 484", "910 P.2d 522", "929 P.2d 1209", "94 Wn. App. 372", "94 Wn.2d 640", "95 Wn. App. 1", "951 P.2d 749", "98 Wn.2d 434", "988 P.2d 967"]
+cites_cases: ["112 Wn.2d 216", "120 Wn.2d 57", "134 Wn.2d 468", "180 P.2d 564", "24 Mass. App. Ct. 224", "27 Wn.2d 802", "444 P.2d 701", "45 Wn. App. 700", "491 P.2d 1285", "503 P.2d 108", "507 N.E.2d 1062", "519 P.2d 7", "531 P.2d 299", "56 Wn. App. 181", "573 P.2d 2", "618 P.2d 96", "62 Wn. App. 386", "656 P.2d 1030", "726 P.2d 1032", "736 F.2d 656", "74 Wn.2d 283", "770 P.2d 182", "782 P.2d 1107", "80 Wn. App. 592", "80 Wn.2d 117", "81 Wn.2d 528", "814 P.2d 255", "83 Wn.2d 491", "837 P.2d 618", "84 Wn. App. 787", "85 Wn.2d 154", "89 Wn.2d 379", "895 P.2d 484", "910 P.2d 522", "929 P.2d 1209", "94 Wn.2d 640", "95 Wn. App. 1", "951 P.2d 749", "98 Wn.2d 434", "988 P.2d 967"]
 ---
 
 # Marshall v. Bally's Pacwest, Inc.
