@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8599-2-II"
 decided: "1987-02-10"
-citations: ["47 Wash. App. 60", "46 Wash. App. 1054"]
+citations: ["47 Wash. App. 60"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Genevieve N. Rodeen, Appellant, v. The Department of Employment Secur
 source_url: "https://static.case.law/wash-app/47/cases/0060-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1836204
-cites_cases: ["106 Wn.2d 1003", "235 P.2d 303", "29 Wn. App. 344", "38 Wn. App. 566", "39 Wn.2d 356", "43 Wn. App. 92", "47 Wn. App. 60", "628 P.2d 500", "686 P.2d 517", "715 P.2d 534"]
+cites_cases: ["106 Wn.2d 1003", "235 P.2d 303", "29 Wn. App. 344", "38 Wn. App. 566", "39 Wn.2d 356", "43 Wn. App. 92", "628 P.2d 500", "686 P.2d 517", "715 P.2d 534"]
 ---
 
 # Rodeen v. Department of Employment Security
