@@ -1,0 +1,62 @@
+---
+court: "Washington Court of Appeals"
+docket: "17072-8-II"
+decided: "1995-08-08"
+citations: ["78 Wash. App. 910"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Joyce E. Olesen, Appellant, v. The State of Washington, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/78/cases/0910-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 426298
+cites_cases: ["112 Wn.2d 709", "114 Wn.2d 465", "119 Wn.2d 452", "121 Wn.2d 52", "16 Gonz. L. Rev. 855", "19 Wn. App. 473", "296 P.2d 536", "39 Wn. App. 609", "48 Wn.2d 695", "530 P.2d 630", "550 P.2d 9", "576 P.2d 69", "658 P.2d 634", "694 P.2d 697", "773 P.2d 78", "788 P.2d 538", "832 P.2d 1303", "84 Wn.2d 959", "847 P.2d 440", "87 Wn.2d 145", "90 Wn.2d 1022", "98 Wn.2d 677"]
+---
+
+# Olesen v. State
+
+## Majority (Bridgewater, J.)
+
+Bridgewater, J.
+The issue before us is whether a fire fighter’s widow, whose surviving spouse pension benefits ceased upon her remarriage, is entitled to receive benefits again when a legislative amendment removes remarriage as a bar to receiving benefits. We hold that the legislation is not remedial and thus not retroactive; we affirm the trial court.
+The facts are not in dispute. Dale Jones, a Tacoma fire fighter, was killed on the job in 1974, leaving a wife and two young children as his survivors. His widow, Joyce Jones, received his monthly Law Enforcement Officers’ and Fire Fighters’ Retirement System (LEOFF) Plan I benefits equal to 50% of her deceased husband’s salary plus 5% each for her two minor children, for a 60% total. When she remarried in 1975, her survivor benefits stopped pursuant to RCW 41.26.160(5), and her children then began to receive a monthly survivor allowance equal to 40% of their father’s salary.
+However, effective October 1, 1977, the Legislature amended RCW 41.26.160(5), removing subsequent remarriage as a bar to receiving surviving spouse benefits. In 1989, the widow, now named Olesen, requested a reinstatement of the benefits, arguing that the Legislature’s amendment to the statute applied retroactively. A Department of Retirement Systems (DRS) administrator denied Olesen’s request, and the Director of DRS affirmed the Administrator’s decision, ruling that the amendment was not "remedial” and therefore did not apply retroactively.
+Olesen then appealed to the Pierce County Superior Court, which affirmed the Director’s order. Olesen now appeals to this court, requesting: a reversal of the trial court’s decision; a resumption of her former benefits; and payment of the difference between the 60% of her deceased husband’s salary that she argues should have been paid to her over the past twenty years and the 40% that was paid to her children during that time. Olesen makes two main arguments to support her overall contention that the amendment to RCW 41.26.160(5) should be applied retroactively.
+I
+Olesen initially argues that the amendment to RCW 41.26.160(5) is "remedial” legislation that should be applied retroactively. DRS responds that the amendment should not be applied retroactively because it is not "remedial” and because it affects contractual and vested rights.
+A statutory amendment is like any other statute and is presumed to apply prospectively only. Nevertheless, an amendment may be retroactively applied under one of three circumstances: (1) if the Legislature intended retroactive application; (2) if the amendment is "clearly curative”; or (3) if the amendment is "remedial.”
+Neither of the first two circumstances applies. Olesen does not argue that there is express language calling for retroactivity because there is none. However, pointing to a floor discussion between two Senators before the passage of the amendment, Olesen briefly argues that the amendment "clarified” the statute and should be applied retroactively. An amendment that clarifies or corrects an ambiguous statute is "curative” and will be applied retroactively if it does not contravene any judicial construction of the statute. But the statute here was unambiguous before the Legislature amended it; therefore, instead of clarifying the law, the Legislature simply changed the law. The amendment was not "curative,” and Olesen’s argument fails.
+Thus, we address the third circumstance, whether the amendment was "remedial” legislation. In general, "[a]n amendment is deemed remedial and applied retroactively when it relates to practice, procedure or remedies, and does not affect a substantive or vested right.” The amendment should be applied retroactively only when doing so would further the remedial purpose.
+Here, Olesen’s argument fails, as the amendment to ROW 41.26.160(5) does not relate to "practice, procedure or remedies.” The amendment clearly does not relate to either practice or procedure.
+The amendment also does not relate to remedies. Olesen relies heavily upon Hunter v. Department of Labor & Indus. for her contention that the amendment to RCW 41.26.160(5) is "remedial.” Hunter involved a deputy sheriff who was injured in 1963 and retired in 1970. LEOFF took effect in 1969, and Hunter began receiving a disability allowance under LEOFF upon his retirement. He then sought also to receive workers’ compensation coverage under chapter 51 ROW, which was in effect at the time of his injury. Division One affirmed the denial of his worker’s compensation claim, finding that LEOFF was "remedial in nature and is not subject to the general rule against retroactivity.” The court thus applied LEOFF retroactively to abolish Hunter’s preexisting workers’ compensation claim and deny him double benefits.
+But Olesen’s reliance upon Hunter is misplaced; that case misapplied the term "remedial.” A "remedy” is "the means employed to enforce a right or redress an injury.” Professor Orland argues that "remedial” should be applied only when speaking of the law of remedies, and he criticizes Hunter as defining "remedial” too broadly.
+The Supreme Court of Washington has similarly described "remedial” statutes as those that "afford a remedy, or better or forward remedies already existing for the enforcement of rights and the redress of injuries.”
+Thus, Hunter did not involve "remedial” legislation in the strict legal sense of the word; rather, the Hunter court incorrectly used the term "to convey the idea that the new law or amendment is simply an improvement over a previously existing condition of the law.” Hunter therefore misapplied the law relating to the retroactive application of "remedial laws” and is not helpful in this case.
+Furthermore, even if, as Olesen claims, the Hunter court correctly held that LEOFF as a whole is a "remedial” act, Hunter did not discuss whether an amendment to one part of LEOFF would necessarily be "remedial” legislation. Under Olesen’s reading, Hunter would render all amendments to LEOFF statutes remedial and retroactive. But Hunter did not address either ROW 41.26.160(5) or its 1977 amendment, and for that additional reason is not controlling.
+Here, the amendment to ROW 41.26.160(5) did not work to affect a remedy, as it does not provide a means to enforce a right or redress an injury. Rather, the amendment merely reflected a legislative choice to modify a substantive right, i.e., a choice to modify the right to receive survivor benefits. Thus, the amendment was not "remedial,” and Olesen’s argument fails.
+Moreover, DRS points out that retroactive application of the amendment would violate the rule established in Bakenhus v. Seattle, Bakenhus held that a public employee’s pension rights are contractual rights based on a promise made by the State at the time the employee enters employment, rights that generally cannot later be changed. Normally the Bakenhus rule is invoked by public employees to prevent the State from modifying their rights. But nothing prohibits the application of the rule to an employee’s surviving spouse to freeze benefits at the terms existing at the time the employee entered employment. Here, DRS is doing nothing more than honoring Dale Jones’s contractual employment rights at the time he began working with the fire department.
+Finally, even if the amendment were considered to be "remedial” in all other respects, it affects a vested right. A vested right, entitled to protection from legislation, must be something more than a mere expectation based upon an anticipated continuance of existing law; it must have become a title, legal or equitable, to the present or future enjoyment of property, a demand, or a legal exemption from a demand by another. Here, the vested rights affected are those of the deceased member’s children. A surviving parent would interfere with that vested right if she could remarry, then apply for retroactive application of the amendment to RCW 41.26.160(5), and receive surviving spouse benefits again. The children’s vested right to benefits would decrease as the surviving spouse’s benefits are revived. The legislation is therefore not remedial and not retroactive, and the trial court did not err.
+II
+Olesen also contends that her surviving spouse benefits were "suspended” rather than terminated when she remarried, and that if her second marriage were to end through divorce, annulment or the death of her second husband, then she would again receive pension benefits. Based upon this theory, she then argues that "[l]ogic compels the same result when the forfeiture provision was removed by the 1977 amendment,” as "[h]er right was only in suspension until her second marriage either ended or legislation changed the legislature’s intent.”
+However, as DRS aptly points out, Olesen’s theory that her benefits were merely suspended requires leaps of both logic and legal analysis. Not only is her theory grounded upon the law of other states, as Washington courts have not decided such an issue, but also none of those cases answer the issue posed to this court. There being no express legislative language indicating the notion of "suspension” of rights, no Washington authority, and no persuasive foreign authority, we reject Olesen’s "suspended rights” theory.
+We affirm.
+Seinfeld, C.J., and Wiggins, J., concur.
+Laws of 1977, 1st Ex. Sess., ch. 394, § 23. At the time of Dale Jones’s death, RCW 41.26.160(5) read:
+If a surviving spouse receiving benefits under the provisions of this section thereafter dies or remarries and there are children as defined in RCW 41.26.030(7), as now or hereafter amended, payment to the spouse shall cease and the child or children shall receive the benefits as provided in subsection (3) above.
+(Emphasis added.) The 1977 amendment then deleted "or remarries” from the statute.
+In re F.D. Processing, Inc., 119 Wn.2d 452, 460, 832 P.2d 1303 (1992).
+In re F.D. Processing, 119 Wn.2d at 460.
+In re F.D. Processing, 119 Wn.2d at 461.
+In re F.D. Processing, 119 Wn.2d at 462-63 (quoting In re Mota, 114 Wn.2d 465, 471, 788 P.2d 538 (1990)).
+In re F.D. Processing, 119 Wn.2d at 463.
+See, e.g., Merrigan v. Epstein, 112 Wn.2d 709, 717, 773 P.2d 78 (1989) (holding amendment to statute of limitations was a procedural amendment to be applied retroactively in a medical malpractice case); see also Lewis H. Orland & David G. Stebing, Retroactivity in Review: The Federal and Washington Approaches, 16 Gonz. L. Rev. 855, 881-82 (1981), and the cases collected therein.
+19 Wn. App. 473, 576 P.2d 69, review denied, 90 Wn.2d 1022 (1978),
+Hunter, 19 Wn. App. at 475.
+Black’s Law Dictionary 896 (Abridged 6th ed. 1991).
+Orland, supra, at 880 n.135.
+Haddenham v. State, 87 Wn.2d 145, 148, 550 P.2d 9 (1976) (holding that the crime victims compensation act, which compensated innocent victims of criminal acts, was an attempt to "remedy” that situation and therefore applied retroactively); see also Marine Power & Equip. Co. v. Human Rights Comm’n Hearing Tribunal, 39 Wn. App. 609, 617, 694 P.2d 697 (1985) (holding amendment to statute permitting administrative body to award up to $1000 in damages in discrimination cases applied retroactively because it created "a supplemental remedy for enforcement of a preexisting right”).
+Orland, supra, at 880 n.135.
+48 Wn.2d 695, 296 P.2d 536 (1956).
+Bakenhus, 48 Wn.2d at 700-01.
+See, e.g., Bowles v. Department of Retirement Sys., 121 Wn.2d 52, 847 P.2d 440 (1993); Federation of State Employees Council 28 v. State, 98 Wn.2d 677, 658 P.2d 634 (1983).
+Godfrey v. State, 84 Wn.2d 959, 963, 530 P.2d 630 (1975).
