@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49896-7-I"
 decided: "2002-11-18"
-citations: ["116 Wash. App. 211", "114 Wash. App. 1040"]
+citations: ["116 Wash. App. 211"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Beryl Joan Waters, Respondent, and F
 source_url: "https://static.case.law/wash-app/116/cases/0211-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265931
-cites_cases: ["10 P.3d 506", "102 Wn. App. 920", "105 Wn. App. 239", "116 Wn. App. 211", "143 Wn.2d 1015", "144 Wn.2d 1019", "19 P.3d 1056", "77 Wn App 827", "77 Wn. App. 817", "894 P.2d 1346"]
+cites_cases: ["10 P.3d 506", "102 Wn. App. 920", "105 Wn. App. 239", "143 Wn.2d 1015", "144 Wn.2d 1019", "19 P.3d 1056", "77 Wn App 827", "77 Wn. App. 817", "894 P.2d 1346"]
 ---
 
 # In re the Marriage of Waters
