@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46556-2-I"
 decided: "2001-02-20"
-citations: ["105 Wash. App. 251", "104 Wash. App. 1054"]
+citations: ["105 Wash. App. 251"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ben E. Keith, Appellant, v. Allstate Indemnity Company, Respondent."]
 source_url: "https://static.case.law/wash-app/105/cases/0251-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358811
-cites_cases: ["100 Wn. App. 571", "105 Wn. App. 251", "105 Wn.2d 778", "114 Wn.2d 6", "136 Wn.2d 214", "136 Wn.2d 269", "140 Wn.2d 88", "719 P.2d 531", "785 P.2d 440", "84 Wn. App. 577", "89 Wn. App. 712", "929 P.2d 484", "950 P.2d 479", "961 P.2d 358", "961 P.2d 933", "990 P.2d 991", "993 P.2d 259"]
+cites_cases: ["100 Wn. App. 571", "105 Wn.2d 778", "114 Wn.2d 6", "136 Wn.2d 214", "136 Wn.2d 269", "140 Wn.2d 88", "719 P.2d 531", "785 P.2d 440", "84 Wn. App. 577", "89 Wn. App. 712", "929 P.2d 484", "950 P.2d 479", "961 P.2d 358", "961 P.2d 933", "990 P.2d 991", "993 P.2d 259"]
 ---
 
 # Keith v. Allstate Indemnity Co.
