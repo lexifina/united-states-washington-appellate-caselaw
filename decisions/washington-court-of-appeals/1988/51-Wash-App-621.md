@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8417-5-III"
 decided: "1988-05-03"
-citations: ["51 Wash. App. 621", "51 Wash. App. 1025"]
+citations: ["51 Wash. App. 621"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Barbara Christensen, et al, Appellants, v. Glenn Terrell, et al, Resp
 source_url: "https://static.case.law/wash-app/51/cases/0621-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591695
-cites_cases: ["103 S. Ct. 1528", "106 Wn.2d 873", "107 Wn.2d 1016", "108 Wn.2d 788", "108 Wn.2d 82", "110 Wn.2d 1006", "14 Wn. App. 786", "32 Wn. App. 239", "37 Wn. App. 800", "377 F. Supp. 227", "40 Wn. App. 666", "408 U.S. 564", "408 U.S. 593", "419 U.S. 565", "424 U.S. 319", "45 Wn. App. 623", "460 U.S. 1071", "470 U.S. 532", "49 Wn. App. 1", "51 Wn. App. 621", "510 F.2d 975", "545 P.2d 550", "545 P.2d 567", "607 F. Supp. 714", "637 P.2d 940", "643 P.2d 426", "647 P.2d 496", "652 P.2d 1347", "658 P.2d 1219", "663 P.2d 457", "683 P.2d 203", "700 P.2d 350", "725 P.2d 966", "726 P.2d 474", "736 P.2d 639", "742 P.2d 137", "742 P.2d 717", "75 L. Ed. 2d 950", "759 F.2d 1224", "86 Wn.2d 363", "96 Wn.2d 503", "97 Wn.2d 215", "97 Wn.2d 899", "98 Wn.2d 1001", "98 Wn.2d 650", "99 Wn.2d 466"]
+cites_cases: ["103 S. Ct. 1528", "106 Wn.2d 873", "107 Wn.2d 1016", "108 Wn.2d 788", "108 Wn.2d 82", "110 Wn.2d 1006", "14 Wn. App. 786", "32 Wn. App. 239", "37 Wn. App. 800", "377 F. Supp. 227", "40 Wn. App. 666", "408 U.S. 564", "408 U.S. 593", "419 U.S. 565", "424 U.S. 319", "45 Wn. App. 623", "460 U.S. 1071", "470 U.S. 532", "49 Wn. App. 1", "510 F.2d 975", "545 P.2d 550", "545 P.2d 567", "607 F. Supp. 714", "637 P.2d 940", "643 P.2d 426", "647 P.2d 496", "652 P.2d 1347", "658 P.2d 1219", "663 P.2d 457", "683 P.2d 203", "700 P.2d 350", "725 P.2d 966", "726 P.2d 474", "736 P.2d 639", "742 P.2d 137", "742 P.2d 717", "75 L. Ed. 2d 950", "759 F.2d 1224", "86 Wn.2d 363", "96 Wn.2d 503", "97 Wn.2d 215", "97 Wn.2d 899", "98 Wn.2d 1001", "98 Wn.2d 650", "99 Wn.2d 466"]
 ---
 
 # Christensen v. Terrell
