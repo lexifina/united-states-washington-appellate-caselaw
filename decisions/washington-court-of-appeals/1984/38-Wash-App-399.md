@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11289-9-I"
 decided: "1984-06-25"
-citations: ["38 Wash. App. 399", "37 Wash. App. 1077"]
+citations: ["38 Wash. App. 399"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Margaret Hardy, Appellant, v. The State of Washington, Respondent."]
 source_url: "https://static.case.law/wash-app/38/cases/0399-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791819
-cites_cases: ["121 Wash. 652", "209 P. 1102", "214 P. 146", "24 Wn. App. 274", "27 Wn. App. 271", "38 Wn. App. 399", "572 P.2d 723", "600 P.2d 679", "616 P.2d 1251", "89 Wn.2d 425", "94 Wn.2d 1025"]
+cites_cases: ["121 Wash. 652", "209 P. 1102", "214 P. 146", "24 Wn. App. 274", "27 Wn. App. 271", "572 P.2d 723", "600 P.2d 679", "616 P.2d 1251", "89 Wn.2d 425", "94 Wn.2d 1025"]
 ---
 
 # Hardy v. State
