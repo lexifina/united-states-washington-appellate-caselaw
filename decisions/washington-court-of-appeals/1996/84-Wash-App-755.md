@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35860-0-I"
 decided: "1996-12-16"
-citations: ["84 Wash. App. 755", "84 Wash. App. 1033"]
+citations: ["84 Wash. App. 755"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Elmer Johnson, et al., Appellants, v. M.P. Yousoofian, et al., Respon
 source_url: "https://static.case.law/wash-app/84/cases/0755-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121548
-cites_cases: ["104 Wn.2d 1027", "131 Wash. 78", "132 Wn.2d 1006", "208 P.2d 105", "228 P. 851", "34 Wn.2d 87", "40 A.L.R. 551", "41 Wn. App. 887", "410 P.2d 33", "67 Wn.2d 842", "707 P.2d 1361", "72 Wn. App. 416", "77 Wn. App. 137", "80 Wn. App. 473", "84 Wn. App. 755", "865 P.2d 536", "890 P.2d 1071", "910 P.2d 486"]
+cites_cases: ["104 Wn.2d 1027", "131 Wash. 78", "132 Wn.2d 1006", "208 P.2d 105", "228 P. 851", "34 Wn.2d 87", "40 A.L.R. 551", "41 Wn. App. 887", "410 P.2d 33", "67 Wn.2d 842", "707 P.2d 1361", "72 Wn. App. 416", "77 Wn. App. 137", "80 Wn. App. 473", "865 P.2d 536", "890 P.2d 1071", "910 P.2d 486"]
 ---
 
 # Johnson v. Yousoofian
