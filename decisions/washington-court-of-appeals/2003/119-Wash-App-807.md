@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50458-4-I"
 decided: "2003-07-28"
-citations: ["119 Wash. App. 807", "117 Wash. App. 1081"]
+citations: ["119 Wash. App. 807"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert Barker, Appellant, v. Skagit Speedway, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/119/cases/0807-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1350046
-cites_cases: ["101 Wn.2d 819", "103 Wn.2d 768", "106 Wn.2d 658", "107 Wn. App. 1", "112 Wn.2d 216", "119 Wn. App. 807", "120 Wn.2d 935", "125 Wn.2d 697", "134 Wn.2d 468", "144 Wn.2d 847", "146 Wn.2d 370", "2 Wn. App. 262", "27 P.3d 205", "28 Wn. App. 669", "31 P.3d 684", "444 P.2d 806", "46 P.3d 789", "463 P.2d 159", "467 P.2d 356", "47 Wn. App. 787", "477 U.S. 317", "49 Wn. App. 28", "626 P.2d 30", "656 P.2d 1030", "685 P.2d 1062", "698 P.2d 77", "70 Wn. App. 213", "724 P.2d 991", "737 P.2d 304", "74 Wn. App. 741", "74 Wn.2d 362", "741 P.2d 1010", "77 Wn.2d 396", "770 P.2d 182", "83 Wn. App. 556", "845 P.2d 1331", "853 P.2d 473", "875 P.2d 1228", "887 P.2d 886", "922 P.2d 171", "951 P.2d 749", "98 Wn.2d 434"]
+cites_cases: ["101 Wn.2d 819", "103 Wn.2d 768", "106 Wn.2d 658", "107 Wn. App. 1", "112 Wn.2d 216", "120 Wn.2d 935", "125 Wn.2d 697", "134 Wn.2d 468", "144 Wn.2d 847", "146 Wn.2d 370", "2 Wn. App. 262", "27 P.3d 205", "28 Wn. App. 669", "31 P.3d 684", "444 P.2d 806", "46 P.3d 789", "463 P.2d 159", "467 P.2d 356", "47 Wn. App. 787", "477 U.S. 317", "49 Wn. App. 28", "626 P.2d 30", "656 P.2d 1030", "685 P.2d 1062", "698 P.2d 77", "70 Wn. App. 213", "724 P.2d 991", "737 P.2d 304", "74 Wn. App. 741", "74 Wn.2d 362", "741 P.2d 1010", "77 Wn.2d 396", "770 P.2d 182", "83 Wn. App. 556", "845 P.2d 1331", "853 P.2d 473", "875 P.2d 1228", "887 P.2d 886", "922 P.2d 171", "951 P.2d 749", "98 Wn.2d 434"]
 ---
 
 # Barker v. Skagit Speedway, Inc.
