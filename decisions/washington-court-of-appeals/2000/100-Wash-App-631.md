@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43749-6-I"
 decided: "2000-03-27"
-citations: ["100 Wash. App. 631", "100 Wash. App. 1004"]
+citations: ["100 Wash. App. 631"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kenneth Goodwin, Appellant, v. George W. Wright, et al., Defendants, 
 source_url: "https://static.case.law/wash-app/100/cases/0631-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363151
-cites_cases: ["100 Wn. App. 631", "113 Wn.2d 91", "117 Wn.2d 37", "119 Wn.2d 724", "127 N.C. App. 514", "128 Wn.2d 460", "131 Wn.2d 420", "18 S.E.2d 819", "190 Ga. App. 449", "1978 OK 36", "221 N.C. 75", "238 Conn. 637", "261 S.E.2d 43", "269 So. 2d 294", "279 Or. 607", "290 So. 2d 26", "308 F.2d 438", "361 So. 2d 1339", "41 Wn. App. 425", "44 N.C. App. 282", "462 S.W.2d 613", "491 S.E.2d 666", "50 Neb. L. Rev. 415", "51 Wn. App. 72", "567 S.W.2d 923", "576 P.2d 1164", "679 A.2d 929", "700 P.2d 1188", "751 P.2d 1242", "776 P.2d 123", "784 P.2d 819", "799 S.W.2d 308", "8 Cal. App. 3d 158", "81 Wn. App. 293", "811 P.2d 673", "837 P.2d 1000", "86 Cal. Rptr. 815", "90 Or. App. 103", "909 P.2d 291", "914 P.2d 119", "932 P.2d 1244"]
+cites_cases: ["113 Wn.2d 91", "117 Wn.2d 37", "119 Wn.2d 724", "127 N.C. App. 514", "128 Wn.2d 460", "131 Wn.2d 420", "18 S.E.2d 819", "190 Ga. App. 449", "1978 OK 36", "221 N.C. 75", "238 Conn. 637", "261 S.E.2d 43", "269 So. 2d 294", "279 Or. 607", "290 So. 2d 26", "308 F.2d 438", "361 So. 2d 1339", "41 Wn. App. 425", "44 N.C. App. 282", "462 S.W.2d 613", "491 S.E.2d 666", "50 Neb. L. Rev. 415", "51 Wn. App. 72", "567 S.W.2d 923", "576 P.2d 1164", "679 A.2d 929", "700 P.2d 1188", "751 P.2d 1242", "776 P.2d 123", "784 P.2d 819", "799 S.W.2d 308", "8 Cal. App. 3d 158", "81 Wn. App. 293", "811 P.2d 673", "837 P.2d 1000", "86 Cal. Rptr. 815", "90 Or. App. 103", "909 P.2d 291", "914 P.2d 119", "932 P.2d 1244"]
 ---
 
 # Goodwin v. Wright
