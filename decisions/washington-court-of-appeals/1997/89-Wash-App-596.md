@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40770-8-I"
 decided: "1997-11-10"
-citations: ["89 Wash. App. 596", "88 Wash. App. 1019"]
+citations: ["89 Wash. App. 596"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Personal Restraint of Derek E. Gronquist, Petiti
 source_url: "https://static.case.law/wash-app/89/cases/0596-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 394978
-cites_cases: ["101 Wn.2d 291", "112 Wn.2d 546", "114 Wn.2d 802", "118 Wn.2d 876", "418 U.S. 539", "471 U.S. 491", "515 U.S. 472", "678 P.2d 323", "772 P.2d 510", "792 P.2d 506", "80 Wn. App. 573", "828 P.2d 1086", "89 Wn. App. 596", "910 P.2d 1295", "992 F.2d 987"]
+cites_cases: ["101 Wn.2d 291", "112 Wn.2d 546", "114 Wn.2d 802", "118 Wn.2d 876", "418 U.S. 539", "471 U.S. 491", "515 U.S. 472", "678 P.2d 323", "772 P.2d 510", "792 P.2d 506", "80 Wn. App. 573", "828 P.2d 1086", "910 P.2d 1295", "992 F.2d 987"]
 ---
 
 # In re the Personal Restraint of Gronquist
