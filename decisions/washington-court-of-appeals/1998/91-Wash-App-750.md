@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39607-2-I"
 decided: "1998-05-26"
-citations: ["91 Wash. App. 750", "91 Wash. App. 1004"]
+citations: ["91 Wash. App. 750"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James B. Bullard, Respondent, v. James P. Bailey, Appellant."]
 source_url: "https://static.case.law/wash-app/91/cases/0750-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681634
-cites_cases: ["103 Wn.2d 768", "104 Wn.2d 254", "109 Wn.2d 675", "118 Wn.2d 801", "119 Wn.2d 251", "12 Wn. App. 152", "134 Wn.2d 1003", "134 Wn.2d 243", "137 Wn.2d 1014", "156 P.2d 227", "217 P.2d 799", "22 Wn.2d 364", "298 P.2d 1099", "32 Wn. App. 279", "36 Wn.2d 256", "49 Wn.2d 216", "525 P.2d 228", "528 P.2d 1006", "53 Wn. App. 431", "57 Wn. App. 610", "58 Wn. App. 138", "647 P.2d 43", "653 P.2d 280", "68 Wn. App. 427", "698 P.2d 77", "704 P.2d 600", "747 P.2d 464", "767 P.2d 952", "77 Wn. App. 294", "789 P.2d 792", "791 P.2d 915", "828 P.2d 549", "830 P.2d 646", "84 Wn.2d 239", "842 P.2d 1047", "86 Wn. App. 223", "890 P.2d 480", "90 Wn. App. 157", "91 Wn. App. 750", "935 P.2d 1384", "947 P.2d 223", "951 P.2d 817", "953 P.2d 96", "97 Wn.2d 929"]
+cites_cases: ["103 Wn.2d 768", "104 Wn.2d 254", "109 Wn.2d 675", "118 Wn.2d 801", "119 Wn.2d 251", "12 Wn. App. 152", "134 Wn.2d 1003", "134 Wn.2d 243", "137 Wn.2d 1014", "156 P.2d 227", "217 P.2d 799", "22 Wn.2d 364", "298 P.2d 1099", "32 Wn. App. 279", "36 Wn.2d 256", "49 Wn.2d 216", "525 P.2d 228", "528 P.2d 1006", "53 Wn. App. 431", "57 Wn. App. 610", "58 Wn. App. 138", "647 P.2d 43", "653 P.2d 280", "68 Wn. App. 427", "698 P.2d 77", "704 P.2d 600", "747 P.2d 464", "767 P.2d 952", "77 Wn. App. 294", "789 P.2d 792", "791 P.2d 915", "828 P.2d 549", "830 P.2d 646", "84 Wn.2d 239", "842 P.2d 1047", "86 Wn. App. 223", "890 P.2d 480", "90 Wn. App. 157", "935 P.2d 1384", "947 P.2d 223", "951 P.2d 817", "953 P.2d 96", "97 Wn.2d 929"]
 ---
 
 # Bullard v. Bailey
