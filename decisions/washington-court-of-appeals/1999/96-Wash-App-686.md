@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16868-9-III"
 decided: "1999-05-25"
-citations: ["96 Wash. App. 686", "95 Wash. App. 1054"]
+citations: ["96 Wash. App. 686"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Joshua Jay Nason, Appellant."
 source_url: "https://static.case.law/wash-app/96/cases/0686-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128615
-cites_cases: ["10 A.L.R.3d 974", "101 Wn.2d 566", "104 Wn.2d 412", "108 N.C. App. 465", "110 Wn.2d 32", "110 Wn.2d 403", "111 Wn.2d 641", "117 Wn.2d 1006", "118 Wn.2d 596", "127 Ill. 2d 629", "13 Wn. App. 939", "131 Ill. Dec. 667", "132 Wn.2d 1015", "132 Wn.2d 80", "133 Wn.2d 828", "134 Wn.2d 1002", "136 Ill. Dec. 598", "139 Wn.2d 1023", "183 Ill. App. 3d 99", "333 N.C. 465", "384 U.S. 436", "391 U.S. 1", "424 S.E.2d 147", "427 S.E.2d 626", "451 U.S. 454", "475 U.S. 1020", "493 U.S. 1073", "496 P.2d 354", "538 N.E.2d 1223", "539 P.2d 104", "545 N.E.2d 122", "59 Wn. App. 536", "591 F.2d 162", "6 Wn. App. 744", "631 P.2d 366", "683 P.2d 173", "705 P.2d 1182", "750 P.2d 632", "756 P.2d 105", "762 P.2d 1127", "776 S.W.2d 170", "799 P.2d 1183", "826 P.2d 172", "837 P.2d 599", "84 Wn. App. 214", "84 Wn. App. 832", "87 Wn. App. 126", "928 P.2d 1119", "930 P.2d 350", "936 P.2d 408", "940 P.2d 308", "947 P.2d 1199", "95 Wn.2d 853", "96 Wn. App. 686", "98 Or. App. 323"]
+cites_cases: ["10 A.L.R.3d 974", "101 Wn.2d 566", "104 Wn.2d 412", "108 N.C. App. 465", "110 Wn.2d 32", "110 Wn.2d 403", "111 Wn.2d 641", "117 Wn.2d 1006", "118 Wn.2d 596", "127 Ill. 2d 629", "13 Wn. App. 939", "131 Ill. Dec. 667", "132 Wn.2d 1015", "132 Wn.2d 80", "133 Wn.2d 828", "134 Wn.2d 1002", "136 Ill. Dec. 598", "139 Wn.2d 1023", "183 Ill. App. 3d 99", "333 N.C. 465", "384 U.S. 436", "391 U.S. 1", "424 S.E.2d 147", "427 S.E.2d 626", "451 U.S. 454", "475 U.S. 1020", "493 U.S. 1073", "496 P.2d 354", "538 N.E.2d 1223", "539 P.2d 104", "545 N.E.2d 122", "59 Wn. App. 536", "591 F.2d 162", "6 Wn. App. 744", "631 P.2d 366", "683 P.2d 173", "705 P.2d 1182", "750 P.2d 632", "756 P.2d 105", "762 P.2d 1127", "776 S.W.2d 170", "799 P.2d 1183", "826 P.2d 172", "837 P.2d 599", "84 Wn. App. 214", "84 Wn. App. 832", "87 Wn. App. 126", "928 P.2d 1119", "930 P.2d 350", "936 P.2d 408", "940 P.2d 308", "947 P.2d 1199", "95 Wn.2d 853", "98 Or. App. 323"]
 ---
 
 # State v. Nason
