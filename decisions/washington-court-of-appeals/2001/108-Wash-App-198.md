@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47049-3-I"
 decided: "2001-07-23"
-citations: ["108 Wash. App. 198", "107 Wash. App. 1018"]
+citations: ["108 Wash. App. 198"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John S. Lindblad, Appellant, v. The Boeing Company, Respondent."]
 source_url: "https://static.case.law/wash-app/108/cases/0198-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 321282
-cites_cases: ["100 F.3d 1287", "105 Wn. App. 508", "108 Wn. App. 198", "120 Wn.2d 727", "122 Wn.2d 299", "127 Wn.2d 401", "136 Wn.2d 1022", "141 Wn.2d 629", "20 P.3d 447", "228 F.3d 1105", "498 U.S. 814", "510 U.S. 1047", "520 U.S. 1230", "532 U.S. 970", "656 P.2d 1030", "844 P.2d 1006", "858 P.2d 1054", "889 F.2d 869", "899 P.2d 1265", "9 P.3d 787", "91 Wn. App. 171", "956 P.2d 1110", "98 Wn.2d 434"]
+cites_cases: ["100 F.3d 1287", "105 Wn. App. 508", "120 Wn.2d 727", "122 Wn.2d 299", "127 Wn.2d 401", "136 Wn.2d 1022", "141 Wn.2d 629", "20 P.3d 447", "228 F.3d 1105", "498 U.S. 814", "510 U.S. 1047", "520 U.S. 1230", "532 U.S. 970", "656 P.2d 1030", "844 P.2d 1006", "858 P.2d 1054", "889 F.2d 869", "899 P.2d 1265", "9 P.3d 787", "91 Wn. App. 171", "956 P.2d 1110", "98 Wn.2d 434"]
 ---
 
 # Lindblad v. Boeing Co.
