@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9423-8-I"
 decided: "1982-11-22"
-citations: ["33 Wash. App. 243", "33 Wash. App. 1024"]
+citations: ["33 Wash. App. 243"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
