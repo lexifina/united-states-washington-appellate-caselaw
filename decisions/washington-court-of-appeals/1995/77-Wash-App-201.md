@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33445-0-I"
 decided: "1995-01-17"
-citations: ["77 Wash. App. 201", "76 Wash. App. 1071"]
+citations: ["77 Wash. App. 201"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John Bruns, et al, Appellants, v. Paccar, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/77/cases/0201-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415849
-cites_cases: ["10 Wn. App. 243", "100 Wn.2d 1003", "107 Wn.2d 1003", "107 Wn.2d 127", "109 Wn.2d 1006", "112 Wn.2d 216", "113 Wn.2d 645", "115 Idaho 1087", "120 Wn.2d 1031", "120 Wn.2d 879", "126 Wn.2d 1025", "19 Wn. App. 746", "293 F. 1013", "31 Wn. App. 558", "34 A.L.R. 145", "34 Wn. App. 473", "365 P.2d 333", "429 P.2d 220", "44 Wn. App. 244", "440 P.2d 823", "469 U.S. 1062", "48 Wn. App. 432", "492 P.2d 1053", "512 P.2d 1126", "518 P.2d 202", "542 P.2d 774", "578 P.2d 859", "58 Wn.2d 879", "6 Wn. App. 374", "643 P.2d 906", "66 Wn. App. 350", "66 Wn. App. 644", "662 P.2d 67", "71 Wn.2d 474", "722 P.2d 819", "727 P.2d 655", "73 Wn.2d 814", "736 F.2d 1529", "739 P.2d 1177", "77 Wn. App. 201", "770 P.2d 182", "78 Or. App. 581", "782 P.2d 974", "80 Wn.2d 1007", "83 Wn.2d 1009", "831 P.2d 1147", "833 P.2d 390", "846 P.2d 502", "86 Wn.2d 145", "9 Wn. App. 474", "97 Wn.2d 1037"]
+cites_cases: ["10 Wn. App. 243", "100 Wn.2d 1003", "107 Wn.2d 1003", "107 Wn.2d 127", "109 Wn.2d 1006", "112 Wn.2d 216", "113 Wn.2d 645", "115 Idaho 1087", "120 Wn.2d 1031", "120 Wn.2d 879", "126 Wn.2d 1025", "19 Wn. App. 746", "293 F. 1013", "31 Wn. App. 558", "34 A.L.R. 145", "34 Wn. App. 473", "365 P.2d 333", "429 P.2d 220", "44 Wn. App. 244", "440 P.2d 823", "469 U.S. 1062", "48 Wn. App. 432", "492 P.2d 1053", "512 P.2d 1126", "518 P.2d 202", "542 P.2d 774", "578 P.2d 859", "58 Wn.2d 879", "6 Wn. App. 374", "643 P.2d 906", "66 Wn. App. 350", "66 Wn. App. 644", "662 P.2d 67", "71 Wn.2d 474", "722 P.2d 819", "727 P.2d 655", "73 Wn.2d 814", "736 F.2d 1529", "739 P.2d 1177", "770 P.2d 182", "78 Or. App. 581", "782 P.2d 974", "80 Wn.2d 1007", "83 Wn.2d 1009", "831 P.2d 1147", "833 P.2d 390", "846 P.2d 502", "86 Wn.2d 145", "9 Wn. App. 474", "97 Wn.2d 1037"]
 ---
 
 # Bruns v. Paccar, Inc.
