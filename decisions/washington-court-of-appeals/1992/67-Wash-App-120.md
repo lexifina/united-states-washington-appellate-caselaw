@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11176-8-III"
 decided: "1992-07-07"
-citations: ["67 Wash. App. 120", "66 Wash. App. 1026"]
+citations: ["67 Wash. App. 120"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Laurie Miller, Appellant, v. Michael L. Yates, et al, Respondents."]
 source_url: "https://static.case.law/wash-app/67/cases/0120-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715308
-cites_cases: ["103 Wn.2d 831", "107 Wn.2d 541", "110 Wn.2d 1008", "112 Wn.2d 1015", "335 P.2d 31", "490 P.2d 436", "50 Wn. App. 360", "53 Wn. App. 45", "53 Wn.2d 521", "554 P.2d 1041", "67 Wn. App. 120", "699 P.2d 1230", "730 P.2d 1333", "749 P.2d 164", "765 P.2d 334", "79 Wn.2d 844", "87 Wn.2d 516"]
+cites_cases: ["103 Wn.2d 831", "107 Wn.2d 541", "110 Wn.2d 1008", "112 Wn.2d 1015", "335 P.2d 31", "490 P.2d 436", "50 Wn. App. 360", "53 Wn. App. 45", "53 Wn.2d 521", "554 P.2d 1041", "699 P.2d 1230", "730 P.2d 1333", "749 P.2d 164", "765 P.2d 334", "79 Wn.2d 844", "87 Wn.2d 516"]
 ---
 
 # Miller v. Yates
