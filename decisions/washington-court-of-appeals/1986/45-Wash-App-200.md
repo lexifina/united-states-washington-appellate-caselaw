@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13219-9-I"
 decided: "1986-04-28"
-citations: ["45 Wash. App. 200", "43 Wash. App. 1039"]
+citations: ["45 Wash. App. 200"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Kenneth B. Mahmood, Appellant
 source_url: "https://static.case.law/wash-app/45/cases/0200-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809355
-cites_cases: ["101 Wn.2d 507", "101 Wn.2d 529", "101 Wn.2d 566", "101 Wn.2d 612", "102 Wn.2d 689", "103 Wn.2d 215", "156 Wash. 439", "17 P.2d 896", "17 Wn. App. 896", "171 Wash. 362", "22 Wn. App. 738", "235 P.2d 165", "24 Wn. App. 130", "287 P. 41", "30 Wn. App. 351", "39 Wn. App. 156", "39 Wn.2d 258", "40 Wn. App. 75", "41 Wn. App. 85", "429 U.S. 850", "439 U.S. 823", "439 U.S. 928", "45 Wn. App. 200", "477 P.2d 1", "48 Wash. 69", "541 P.2d 1222", "543 F.2d 951", "553 P.2d 1328", "559 P.2d 548", "566 P.2d 935", "578 F.2d 1280", "588 P.2d 1328", "591 P.2d 877", "600 P.2d 625", "633 P.2d 1340", "637 P.2d 961", "639 P.2d 1320", "655 P.2d 697", "656 P.2d 1064", "680 P.2d 762", "681 P.2d 841", "683 P.2d 1069", "683 P.2d 173", "689 P.2d 76", "691 P.2d 571", "692 P.2d 842", "697 P.2d 263", "702 P.2d 481", "78 Wn.2d 491", "86 Wn.2d 51", "87 Wn.2d 374", "88 Wn.2d 221", "91 Wn.2d 391", "92 P. 890", "96 Wn.2d 591", "96 Wn.2d 816", "98 Wn.2d 358", "98 Wn.2d 484"]
+cites_cases: ["101 Wn.2d 507", "101 Wn.2d 529", "101 Wn.2d 566", "101 Wn.2d 612", "102 Wn.2d 689", "103 Wn.2d 215", "156 Wash. 439", "17 P.2d 896", "17 Wn. App. 896", "171 Wash. 362", "22 Wn. App. 738", "235 P.2d 165", "24 Wn. App. 130", "287 P. 41", "30 Wn. App. 351", "39 Wn. App. 156", "39 Wn.2d 258", "40 Wn. App. 75", "41 Wn. App. 85", "429 U.S. 850", "439 U.S. 823", "439 U.S. 928", "477 P.2d 1", "48 Wash. 69", "541 P.2d 1222", "543 F.2d 951", "553 P.2d 1328", "559 P.2d 548", "566 P.2d 935", "578 F.2d 1280", "588 P.2d 1328", "591 P.2d 877", "600 P.2d 625", "633 P.2d 1340", "637 P.2d 961", "639 P.2d 1320", "655 P.2d 697", "656 P.2d 1064", "680 P.2d 762", "681 P.2d 841", "683 P.2d 1069", "683 P.2d 173", "689 P.2d 76", "691 P.2d 571", "692 P.2d 842", "697 P.2d 263", "702 P.2d 481", "78 Wn.2d 491", "86 Wn.2d 51", "87 Wn.2d 374", "88 Wn.2d 221", "91 Wn.2d 391", "92 P. 890", "96 Wn.2d 591", "96 Wn.2d 816", "98 Wn.2d 358", "98 Wn.2d 484"]
 ---
 
 # State v. Mahmood
