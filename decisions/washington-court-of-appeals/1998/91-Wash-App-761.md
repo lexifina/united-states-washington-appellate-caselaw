@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39950-1-I"
 decided: "1998-06-22"
-citations: ["91 Wash. App. 761", "91 Wash. App. 1031"]
+citations: ["91 Wash. App. 761"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Eddie Dyson, Appellant."]
 source_url: "https://static.case.law/wash-app/91/cases/0761-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681567
-cites_cases: ["130 Wn.2d 673", "241 Iowa 1373", "31 Wn. App. 156", "348 U.S. 84", "45 A.L.R.2d 1308", "639 P.2d 858", "64 Wn. App. 755", "74 Wn. App. 380", "79 Wn. App. 79", "828 P.2d 1106", "874 P.2d 170", "900 P.2d 579", "91 Wn. App. 761", "926 P.2d 904"]
+cites_cases: ["130 Wn.2d 673", "241 Iowa 1373", "31 Wn. App. 156", "348 U.S. 84", "45 A.L.R.2d 1308", "639 P.2d 858", "64 Wn. App. 755", "74 Wn. App. 380", "79 Wn. App. 79", "828 P.2d 1106", "874 P.2d 170", "900 P.2d 579", "926 P.2d 904"]
 ---
 
 # State v. Dyson
