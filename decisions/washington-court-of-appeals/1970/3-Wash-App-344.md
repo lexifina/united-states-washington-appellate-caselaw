@@ -1,0 +1,36 @@
+---
+court: "Washington Court of Appeals"
+docket: "128-40932-1"
+decided: "1970-07-27"
+citations: ["3 Wash. App. 344"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Irma Usher, Respondent, v. Jack Leach et al., Appellants."]
+source_url: "https://static.case.law/wash-app/3/cases/0344-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1840902
+cites_cases: ["1 Wn. App. 299", "2 Wn. App. 50", "289 P.2d 1007", "3 Wn. App. 108", "381 P.2d 127", "396 P.2d 782", "397 P.2d 857", "404 P.2d 997", "412 P.2d 340", "414 P.2d 625", "430 P.2d 518", "461 P.2d 552", "467 P.2d 196", "47 Wn.2d 847", "472 P.2d 635", "62 Wn.2d 77", "65 Wn.2d 290", "65 Wn.2d 421", "66 Wn.2d 738", "68 Wn.2d 216", "68 Wn.2d 578", "71 Wn.2d 657"]
+---
+
+# Usher v. Leach
+
+## Majority (Farris, J.)
+
+Farris, J.
+The plaintiff, Irma Usher, was injured when the taxicab in which she was a passenger collided with a bus. There was no damage to the bus. Photographs of the taxicab revealed that the point of impact was the lower right panel of the automobile immediately beyond the right rear door just 'above the tire. The repair estimate for the damage was $10.45. Mrs. Usher claimed as special damages: hospital $37, neck brace $15, physician $260, and lost wages $375. The trial court directed a verdict on the question of liability. The jury, limited to the question of damages, returned a verdict in the 'amount of $700. Mrs. Usher thereafter moved for a new trial or in the alternative for an increase in the jury’s verdict. The trial judge granted a new trial unless the defendants consented to the entry of judgment in the amount of $1,400 within 20 days. The defendants appeal.
+The general rule is that the granting of a new trial is discretionary and will not be overturned except on a showing of an abuse of discretion. Coleman v. Dennis, 1 Wn. App. 299, 461 P.2d 552 (1969). A much stronger showing of abuse of discretion will be required to set aside an order granting a new trial than one denying it. Baxter v. Greyhound Corp., 65 Wn.2d 421, 397 P.2d 857 (1964).
+A motion for new trial granted upon the inadequacy or excessiveness of the jury verdict must be accompanied by specific reasons as provided in Civil Rule for Superior Court 59(f), RCW vol. 0. The issue of damages is peculiarly within the province of the jury. Baxter v. Greyhound Corp., supra. A modification of the jury’s determination on the issue of damages will be reviewed de novo against the statutory presumption that the verdict of the jury was correct. Workman v. Marshall, 68 Wn.2d 578, 414 P.2d 625 (1966); Ma v. Russell, 71 Wn.2d 657, 430 P.2d 518 (1967). The trial court gave as reasons for the increased award: This order is predicated upon:
+Civil rules for the Superior Court, Rule 59. New Trial and Amendment of Judgments, subsections:
+(5) “Damages so excessive or inadequate as unmistakably to indicate that the verdict must have been the result of passion or prejudice.”
+(9) “That substantial justice has not been done.”
+The Court specifically finds that the jury verdict was so low that it shocked the Court, particularly because it allowed only a nominal amount for pain and suffering, and clearly was unjustified under the evidence introduced at the time of trial.
+The trial court increased the verdict on the basis of arithmetic. The special damages in evidence totaled $687. Using that figure, the verdict would reflect only $13 for general damages, a figure so low, in the opinion of the trial court, to unmistakably indicate passion or prejudice. The difficulty here is that to reach that conclusion, it must be assumed that the evidence on special damages was accepted in its entirety by the jury.
+The jury was not required to find that all special damages were reasonably incurred. This differs from Ide v. Stol-tenow, 47 Wn.2d 847, 289 P.2d 1007 (1955) and Hills v. King, 66 Wn.2d 738, 404 P.2d 997 (1965), where a similar question arose. In Ide and Hills the special damages were “conceded, undisputed, and beyond legitimate controversy.” Here, however, the amount of special damages is in dispute. The resolution of this, question is within the sole province of the jury.
+While the increase or reduction of a verdict as an alternative to a new trial is a procedure to be encouraged, Benjamin v. Randall, 2 Wn. App. 50, 54, 467 P.2d 196 (1970), it is error to do either if the evidence is sufficient to support the verdict unless there were definite and specific acts, occurrences, or incidents which caused the jury to err. See Knecht v. Marzano, 65 Wn.2d 290, 396 P.2d 782 (1964) and Durkan v. Leicester, 62 Wn.2d 77, 80, 381 P.2d 127 (1963).
+Here the trial court did not refer to anything which is not in the record. We must therefore conclude that the granting of the alternative motion was not based on anything outside of the record. Lyster v. Metzger, 68 Wn.2d 216, 412 P.2d 340 (1966).
+We have examined the record and read the arguments of counsel. The issues were determined upon competent and admissible evidence. The trial court commended both counsel for their conduct of the trial 'after the case was concluded. The record reflects a fair trial had under decorous conditions.
+While a verdict in itself can be so low or so high as to unmistakably indicate passion or prejudice, such was not the case upon the facts before us. Although a higher verdict can be justified upon the evidence, when the verdict in itself is not so low or so high as to unmistakably indicate passion or prejudice, there must be definite specific acts, occurrences or incidents which would lead the jury to err for which remedial action was timely requested or against which remedial action would have been futile. See James v. Robeck, 3 Wn. App. 108, 472 P.2d 635 (1970). Here the trial court mentioned no such incident, act, or occurrence and our review of the record revealed none. The presumption of correctness of the jury verdict must therefore prevail.
+Reversed and remanded for entry of judgment on the verdict. Neither party shall recover costs.
+James, C. J., and Swanson, J., concur.
+RCW 4.76.030. “If the trial court shall, upon a motion for new trial, find the damages awarded by a jury to be so excessive or inadequate as unmistakably to indicate that the amount thereof must have been the result of passion or prejudice, the trial court may order a new trial or may enter an order providing for a new trial unless the party adversely affected shall consent to a reduction or increase of such verdict, and if such party shall file such consent and the opposite party shall thereafter appeal from the judgment entered, the party who shall have filed such consent shall not be bound thereby, but upon such appeal the supreme court shall, without the necessity of a formal cross-appeal, review de novo the action of the trial court in requiring such reduction or increase, and there shall be a presumption that the amount of damages awarded by the verdict of the jury was correct and such amount shall prevail, unless the supreme court shall find from the record that the damages awarded in such verdict by the jury were so excessive, or so inadequate as unmistakably to indicate that the amount of the verdict must have been the result of passion or prejudice.”
