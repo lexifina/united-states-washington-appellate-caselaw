@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38171-7-I"
 decided: "1997-04-14"
-citations: ["86 Wash. App. 162", "85 Wash. App. 1070"]
+citations: ["86 Wash. App. 162"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Betty Lou Cann, Appellant, v. King County, Respondent."]
 source_url: "https://static.case.law/wash-app/86/cases/0162-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278781
-cites_cases: ["120 Wn.2d 416", "121 Wn.2d 669", "128 Wn.2d 1007", "129 Wn.2d 257", "133 Wn.2d 1007", "76 Wn. App. 687", "80 Wn. App. 55", "841 P.2d 1244", "852 P.2d 1078", "86 Wn. App. 162", "887 P.2d 401", "906 P.2d 372", "916 P.2d 922"]
+cites_cases: ["120 Wn.2d 416", "121 Wn.2d 669", "128 Wn.2d 1007", "129 Wn.2d 257", "133 Wn.2d 1007", "76 Wn. App. 687", "80 Wn. App. 55", "841 P.2d 1244", "852 P.2d 1078", "887 P.2d 401", "906 P.2d 372", "916 P.2d 922"]
 ---
 
 # Cann v. King County
