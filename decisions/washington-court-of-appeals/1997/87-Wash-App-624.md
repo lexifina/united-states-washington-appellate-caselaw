@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15778-4-III"
 decided: "1997-07-22"
-citations: ["87 Wash. App. 624", "86 Wash. App. 1110"]
+citations: ["87 Wash. App. 624"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Shawn Wright, Appellant, v. Mead School District No. 354, Respondent.
 source_url: "https://static.case.law/wash-app/87/cases/0624-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 565896
-cites_cases: ["1 Cal. 3d 214", "10 Wn. App. 69", "105 Wn.2d 199", "106 Wn.2d 102", "112 Wn.2d 1010", "134 Wn.2d 1011", "23 Wn. App. 916", "30 Wn. App. 16", "31 Wn. App. 838", "357 N.W.2d 152", "461 P.2d 375", "470 U.S. 532", "49 Wn. App. 709", "516 P.2d 1080", "522 P.2d 843", "58 Wn. App. 121", "599 P.2d 25", "623 P.2d 1156", "632 P.2d 60", "643 P.2d 426", "644 P.2d 1229", "713 P.2d 98", "720 P.2d 793", "745 P.2d 1308", "791 P.2d 549", "82 Cal. Rptr. 175", "83 Wn.2d 777", "87 Wn. App. 624", "881 P.2d 1112", "92 Wn.2d 1038", "95 Wn.2d 424", "96 Wn.2d 1011", "97 Wn.2d 215"]
+cites_cases: ["1 Cal. 3d 214", "10 Wn. App. 69", "105 Wn.2d 199", "106 Wn.2d 102", "112 Wn.2d 1010", "134 Wn.2d 1011", "23 Wn. App. 916", "30 Wn. App. 16", "31 Wn. App. 838", "357 N.W.2d 152", "461 P.2d 375", "470 U.S. 532", "49 Wn. App. 709", "516 P.2d 1080", "522 P.2d 843", "58 Wn. App. 121", "599 P.2d 25", "623 P.2d 1156", "632 P.2d 60", "643 P.2d 426", "644 P.2d 1229", "713 P.2d 98", "720 P.2d 793", "745 P.2d 1308", "791 P.2d 549", "82 Cal. Rptr. 175", "83 Wn.2d 777", "881 P.2d 1112", "92 Wn.2d 1038", "95 Wn.2d 424", "96 Wn.2d 1011", "97 Wn.2d 215"]
 ---
 
 # Wright v. Mead School District No. 354
