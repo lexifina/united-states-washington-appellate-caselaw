@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15875-6-III; 16445-4-III"
 decided: "1997-12-02"
-citations: ["89 Wash. App. 364", "88 Wash. App. 1031"]
+citations: ["89 Wash. App. 364"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James C. Miller, Appellant. I
 source_url: "https://static.case.law/wash-app/89/cases/0364-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 395281
-cites_cases: ["101 Wn.2d 612", "104 Wn.2d 1005", "113 Wn.2d 631", "124 Wn.2d 1012", "128 Wn.2d 896", "131 Wn.2d 469", "22 A.L.R.5th 921", "40 Wn. App. 541", "40 Wn. App. 594", "656 P.2d 1064", "682 P.2d 312", "683 P.2d 1069", "699 P.2d 1253", "699 P.2d 789", "72 Wn. App. 625", "781 P.2d 483", "850 P.2d 495", "865 P.2d 552", "89 Wn. App. 364", "913 P.2d 369", "932 P.2d 1237", "98 Wn.2d 484"]
+cites_cases: ["101 Wn.2d 612", "104 Wn.2d 1005", "113 Wn.2d 631", "124 Wn.2d 1012", "128 Wn.2d 896", "131 Wn.2d 469", "22 A.L.R.5th 921", "40 Wn. App. 541", "40 Wn. App. 594", "656 P.2d 1064", "682 P.2d 312", "683 P.2d 1069", "699 P.2d 1253", "699 P.2d 789", "72 Wn. App. 625", "781 P.2d 483", "850 P.2d 495", "865 P.2d 552", "913 P.2d 369", "932 P.2d 1237", "98 Wn.2d 484"]
 ---
 
 # State v. Miller
