@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19336-1-II"
 decided: "1996-10-18"
-citations: ["84 Wash. App. 33", "83 Wash. App. 1048"]
+citations: ["84 Wash. App. 33"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Petitioner, v. Thomas G. Carlyle, Respondent
 source_url: "https://static.case.law/wash-app/84/cases/0033-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 121417
-cites_cases: ["102 Wn.2d 1016", "111 Wn.2d 1008", "120 Wn.2d 1022", "121 Wn.2d 1024", "125 Wn.2d 1002", "126 Wn.2d 1025", "128 Wn.2d 805", "38 Wn. App. 180", "51 Wn. App. 597", "55 Wn. App. 834", "59 Wn. App. 763", "66 Wn. App. 804", "68 Wn. App. 309", "685 P.2d 605", "74 Wn. App. 81", "754 P.2d 1041", "76 Wn. App. 378", "780 P.2d 1337", "801 P.2d 274", "832 P.2d 1373", "84 Wn. App. 33", "842 P.2d 1001", "871 P.2d 1123", "884 P.2d 1356", "912 P.2d 1016"]
+cites_cases: ["102 Wn.2d 1016", "111 Wn.2d 1008", "120 Wn.2d 1022", "121 Wn.2d 1024", "125 Wn.2d 1002", "126 Wn.2d 1025", "128 Wn.2d 805", "38 Wn. App. 180", "51 Wn. App. 597", "55 Wn. App. 834", "59 Wn. App. 763", "66 Wn. App. 804", "68 Wn. App. 309", "685 P.2d 605", "74 Wn. App. 81", "754 P.2d 1041", "76 Wn. App. 378", "780 P.2d 1337", "801 P.2d 274", "832 P.2d 1373", "842 P.2d 1001", "871 P.2d 1123", "884 P.2d 1356", "912 P.2d 1016"]
 ---
 
 # State v. Carlyle
