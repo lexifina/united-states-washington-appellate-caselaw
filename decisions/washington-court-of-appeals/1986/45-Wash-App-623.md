@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13780-8-I"
 decided: "1986-07-30"
-citations: ["45 Wash. App. 623", "44 Wash. App. 1036"]
+citations: ["45 Wash. App. 623"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jerrold W. Smith, Appellant, v. Larry Mount, Respondent."]
 source_url: "https://static.case.law/wash-app/45/cases/0623-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809132
-cites_cases: ["359 P.2d 789", "39 Wn. App. 642", "409 U.S. 57", "421 U.S. 35", "429 U.S. 245", "45 Wn. App. 623", "456 P.2d 322", "539 P.2d 823", "57 Wn.2d 719", "637 P.2d 940", "658 P.2d 1219", "663 P.2d 457", "694 P.2d 660", "76 Wn.2d 313", "85 Wn.2d 743", "96 Wn.2d 503", "98 Wn.2d 650", "99 Wn.2d 466"]
+cites_cases: ["359 P.2d 789", "39 Wn. App. 642", "409 U.S. 57", "421 U.S. 35", "429 U.S. 245", "456 P.2d 322", "539 P.2d 823", "57 Wn.2d 719", "637 P.2d 940", "658 P.2d 1219", "663 P.2d 457", "694 P.2d 660", "76 Wn.2d 313", "85 Wn.2d 743", "96 Wn.2d 503", "98 Wn.2d 650", "99 Wn.2d 466"]
 ---
 
 # Smith v. Mount
