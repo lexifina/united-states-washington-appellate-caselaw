@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "11224-1-III"
+decided: "1992-01-28"
+citations: ["64 Wash. App. 90"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Charles R. Carter, Appellant."]
+source_url: "https://static.case.law/wash-app/64/cases/0090-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1722694
+cites_cases: ["107 Wn.2d 1027", "110 Wn.2d 183", "442 U.S. 510", "45 Wn. App. 330", "587 P.2d 537", "62 Wn. App. 34", "726 P.2d 988", "751 P.2d 294", "813 P.2d 588", "91 Wn.2d 126"]
+---
+
+# State v. Carter
+
+## Majority (Munson, J.)
+
+Munson, J.
+Charles Carter appeals his enhanced sentence on one count of delivery of a controlled substance: cocaine. He contends it was unconstitutionally enhanced because no mens rea is required for the enhancement and neither equal protection nor due process requirements were met.
+Mr. Carter stipulated to the underlying facts which are as follows: Officer Teresa Schuknecht encountered Mr. Carter while she was working undercover in Martin Luther King Park in Yakima. Mr. Carter asked her what she wanted and she said "coke". He suggested they go to "a Mexican's house" but she told him she would not leave the park. They walked through the park together conversing until Mr. Carter contacted a Mexican male named Garcia. Mr. Carter held a piece of scrap paper while Mr. Garcia measured white powder from a plastic baggie into the paper. Officer Schuknecht gave Mr. Carter a marked $20 bill and took the paper from him. The white powder in the paper was subsequently tested and proved to be cocaine.
+Mr. Carter first contends the constitution requires a mens rea element in RCW 69.50.435(a), citing Sandstrom v. Montana, 442 U.S. 510, 61 L. Ed. 2d 39, 99 S. Ct. 2450 (1979). We do not agree with Mr. Carter's interpretation of Sandstrom. That case holds that when the statutory definition of a crime includes a mental element, that element must be proved beyond a reasonable doubt. The Legislature has the power to define a crime as conduct alone, without any mental element. State v. Abbott, 45 Wn. App. 330, 332, 726 P.2d 988 (1986), review denied, 107 Wn.2d 1027 (1987). The sentence enhancement statutes do not offend constitutional guaranties by denying a defense based on lack of knowledge; the underlying crime, RCW 69.50.401(a), includes a mental element, knowledge.
+Mr. Carter next contends RCW 69.50.435(a) and the 24-month enhancement of RCW 9.94A310(5) violate equal protection guaranties of the fourteenth amendment to the United States Constitution, and the privileges and immunities clause of article 1, section 12 of the Washington State Constitution. Equal protection requires that persons similarly situated receive like treatment. Harmon v. McNutt, 91 Wn.2d 126, 587 P.2d 537 (1978).
+When a statute involving neither a suspect classification nor a fundamental right is challenged on equal protection grounds, the reviewing court applies the rational basis test. State v. Lua, 62 Wn. App. 34, 38-39, 813 P.2d 588 (1991). A statute violates equal protection guaranties unless (1) the legislation applies equally to all members within a designated class, (2) there are reasonable grounds to distinguish between those within and those without the class, and (3) the classification is rationally related to its legislative purpose. Lua, at 39.
+When a challenged classification implicates physical liberty of class members, the intermediate scrutiny test is applicable. Lua, at 41. In such cases, in addition to meeting the criteria of the rational relationship test, the statute will be validated only if it may be fairly viewed as furthering a substantial interest of the State. Lua, at 41. The challenged statutes in this case affect Mr. Carter’s physical liberty and must meet this intermediate scrutiny test.
+RCW 69.50.435(a) creates a class of persons who violate RCW 69.50.401(a) within a public park. It is undisputed the legislation applies alike to all members of the class.
+Lua, at 41, recognizes the State's substantial interest in protecting children from drug traffickers and the criminal activities associated with their presence. That purpose may be furthered by recognizing and extending greater protection to areas where children are more likely to congregate. Lua, at 41. Like school grounds, public parks offer amenities which are particularly attractive to children. Thus, there are reasonable grounds for distinguishing between those who engage in the delivery of drugs within public parks and those who do so elsewhere; the imposition of an enhanced penalty for persons whose criminal activities place them within the statutorily defined class is rationally related to the State's purpose of protecting children; and that purpose is one in which the State has a substantial interest. The challenged statutes do not violate equal protection guaranties, under either the rational basis or intermediate scrutiny tests.
+Mr. Carter further contends the sentence enhancement statutes violate due process guaranties of U.S. Const, amend. 14 and Const, art. 1, § 3 because they faff to provide adequate notice of what conduct is prohibited. Due process requires statutes to provide fair notice of what conduct is prohibited and contain ascertainable standards. State v. Brayman, 110 Wn.2d 183, 196, 751 P.2d 294 (1988).
+RCW 69.50.435(a) plainly states the sentence enhancement is applicable to "[a]ny person who violates RCW 69.50.401(a)... in a public park...". The location of parks is readily ascertainable and generally does not vary over time. The statute provides adequate notice of what conduct is prohibited and is not subject to arbitrary enforcement.
+Affirmed.
+Shields, C.J., and Thompson, J., concur.
+Former RCW 69.50.435(a) states:
+"Any person who violates RCW 69.50.401(a) by manufacturing, selling, delivering, or possessing with the intent to manufacture, sell, or deliver a controlled substance listed under that subsection to a person in a school or on a school bus or within one thousand feet of a school bus route stop designated by the school district or within one thousand feet of the perimeter of the school grounds, in a public park or on a public transit vehicle, or in a public transit stop shelter may be punished by a fine of up to twice the fine otherwise authorized by the chapter, but not including twice the fine authorized by RCW 69.50.406, or by imprisonment of up to twice the imprisonment otherwise authorized by this chapter, but not including twice the imprisonment authorized by RCW 69.50.406, or by both such fine and imprisonment. The provisions of this section shall not operate to more than double the fine or imprisonment otherwise authorized by this chapter for an offense." (Italics ours.) Laws of 1990, ch. 244, § 1.
+Drug paraphernalia, litter, residue, and even drug "stashes" (hidden in containers in the grass).
