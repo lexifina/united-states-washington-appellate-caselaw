@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52894-7-I"
 decided: "2004-11-08"
-citations: ["125 Wash. App. 24", "124 Wash. App. 1004"]
+citations: ["125 Wash. App. 24"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Alaska National Insurance Company, et al., Respondents, v. Harold A. 
 source_url: "https://static.case.law/wash-app/125/cases/0024-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270123
-cites_cases: ["105 Wn.2d 381", "111 Wn.2d 452", "117 Wn.2d 37", "123 Wn.2d 93", "124 Wn.2d 205", "125 Wn. App. 24", "131 Wn.2d 420", "132 Wn.2d 642", "146 Wn.2d 730", "147 Wn.2d 751", "155 Wn.2d 1007", "199 Kan. 707", "409 P.2d 845", "482 P.2d 775", "49 P.3d 887", "498 P.2d 288", "507 P.2d 761", "54 Wn. App. 688", "58 P.3d 276", "599 P.2d 132", "600 P.2d 1015", "636 P.2d 1170", "715 P.2d 1133", "760 P.2d 337", "775 P.2d 474", "79 Wn.2d 12", "811 P.2d 673", "844 P.2d 1113", "864 P.2d 937", "875 P.2d 1213", "902 F. Supp. 1064", "92 Wn.2d 631", "932 P.2d 1244", "940 P.2d 261"]
+cites_cases: ["105 Wn.2d 381", "111 Wn.2d 452", "117 Wn.2d 37", "123 Wn.2d 93", "124 Wn.2d 205", "131 Wn.2d 420", "132 Wn.2d 642", "146 Wn.2d 730", "147 Wn.2d 751", "155 Wn.2d 1007", "199 Kan. 707", "409 P.2d 845", "482 P.2d 775", "49 P.3d 887", "498 P.2d 288", "507 P.2d 761", "54 Wn. App. 688", "58 P.3d 276", "599 P.2d 132", "600 P.2d 1015", "636 P.2d 1170", "715 P.2d 1133", "760 P.2d 337", "775 P.2d 474", "79 Wn.2d 12", "811 P.2d 673", "844 P.2d 1113", "864 P.2d 937", "875 P.2d 1213", "902 F. Supp. 1064", "92 Wn.2d 631", "932 P.2d 1244", "940 P.2d 261"]
 ---
 
 # Alaska National Insurance v. Bryan
