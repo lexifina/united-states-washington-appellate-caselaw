@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11996-0-II"
 decided: "1990-03-19"
-citations: ["57 Wash. App. 478", "57 Wash. App. 1017"]
+citations: ["57 Wash. App. 478"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William Samuel Jenson, et al, Appellants, v. Neil David Scribner, et 
 source_url: "https://static.case.law/wash-app/57/cases/0478-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1757200
-cites_cases: ["102 Wn.2d 380", "103 Wn.2d 768", "407 P.2d 440", "553 P.2d 107", "57 Wn. App. 478", "597 P.2d 101", "656 P.2d 1030", "67 Wn.2d 246", "686 P.2d 480", "698 P.2d 77", "87 Wn.2d 406", "92 Wn.2d 285", "98 Wn.2d 434"]
+cites_cases: ["102 Wn.2d 380", "103 Wn.2d 768", "407 P.2d 440", "553 P.2d 107", "597 P.2d 101", "656 P.2d 1030", "67 Wn.2d 246", "686 P.2d 480", "698 P.2d 77", "87 Wn.2d 406", "92 Wn.2d 285", "98 Wn.2d 434"]
 ---
 
 # Jenson v. Scribner
