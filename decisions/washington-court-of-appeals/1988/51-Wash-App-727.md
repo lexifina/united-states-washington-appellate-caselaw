@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8278-4-III"
 decided: "1988-05-24"
-citations: ["51 Wash. App. 727", "51 Wash. App. 1043"]
+citations: ["51 Wash. App. 727"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Gary Trowbridge, et al, Respondents, v. R.D. Walsh, et al, Appellants
 source_url: "https://static.case.law/wash-app/51/cases/0727-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591993
-cites_cases: ["47 Wn. App. 760", "51 Wn. App. 727", "737 P.2d 687"]
+cites_cases: ["47 Wn. App. 760", "737 P.2d 687"]
 ---
 
 # Trowbridge v. Walsh
