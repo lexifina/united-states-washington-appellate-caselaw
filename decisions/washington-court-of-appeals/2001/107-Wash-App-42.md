@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46152-4-I; 47562-2-I; 47561-4-I"
 decided: "2001-05-07"
-citations: ["107 Wash. App. 42", "106 Wash. App. 1011"]
+citations: ["107 Wash. App. 42"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["General Motors Corporation, Appellant, v. The City of Seattle, Financ
 source_url: "https://static.case.law/wash-app/107/cases/0042-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543408
-cites_cases: ["105 Wn.2d 318", "107 Wn. App. 42", "115 S. Ct. 1331", "120 S. Ct. 371", "137 Wn.2d 580", "145 L. Ed. 2d 290", "145 Wn.2d 1014", "19 S.W.3d 831", "303 U.S. 250", "313 S.C. 15", "334 U.S. 653", "419 U.S. 560", "430 U.S. 274", "44 Wn. App. 538", "467 U.S. 638", "483 U.S. 232", "504 U.S. 298", "51 Tax L. Rev. 47", "510 U.S. 992", "514 U.S. 175", "528 U.S. 950", "531 U.S. 927", "67 Wn. App. 436", "715 P.2d 123", "722 P.2d 1357", "836 P.2d 235", "92 L. Ed. 1633", "973 P.2d 1011", "98 Wn. App. 947", "991 P.2d 634"]
+cites_cases: ["105 Wn.2d 318", "115 S. Ct. 1331", "120 S. Ct. 371", "137 Wn.2d 580", "145 L. Ed. 2d 290", "145 Wn.2d 1014", "19 S.W.3d 831", "303 U.S. 250", "313 S.C. 15", "334 U.S. 653", "419 U.S. 560", "430 U.S. 274", "44 Wn. App. 538", "467 U.S. 638", "483 U.S. 232", "504 U.S. 298", "51 Tax L. Rev. 47", "510 U.S. 992", "514 U.S. 175", "528 U.S. 950", "531 U.S. 927", "67 Wn. App. 436", "715 P.2d 123", "722 P.2d 1357", "836 P.2d 235", "92 L. Ed. 1633", "973 P.2d 1011", "98 Wn. App. 947", "991 P.2d 634"]
 ---
 
 # General Motors Corp. v. City of Seattle
