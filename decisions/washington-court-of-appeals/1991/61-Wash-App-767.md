@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25525-8-I"
 decided: "1991-05-06"
-citations: ["61 Wash. App. 767", "61 Wash. App. 1007"]
+citations: ["61 Wash. App. 767"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Angelina Colarusso, as Guardian ad Litem, Respondent, v. Glen E. Pete
 source_url: "https://static.case.law/wash-app/61/cases/0767-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1729513
-cites_cases: ["107 Wn.2d 735", "108 Wn.2d 558", "112 A.2d 625", "112 Wn.2d 636", "115 Wn.2d 556", "26 Wn. App. 430", "381 Pa. 223", "39 Wn. App. 298", "61 Wn. App. 767", "613 P.2d 187", "693 P.2d 161", "733 P.2d 208", "740 P.2d 1379", "771 P.2d 711", "780 P.2d 260", "800 P.2d 367", "94 Wn.2d 1014"]
+cites_cases: ["107 Wn.2d 735", "108 Wn.2d 558", "112 A.2d 625", "112 Wn.2d 636", "115 Wn.2d 556", "26 Wn. App. 430", "381 Pa. 223", "39 Wn. App. 298", "613 P.2d 187", "693 P.2d 161", "733 P.2d 208", "740 P.2d 1379", "771 P.2d 711", "780 P.2d 260", "800 P.2d 367", "94 Wn.2d 1014"]
 ---
 
 # Colarusso v. Petersen
