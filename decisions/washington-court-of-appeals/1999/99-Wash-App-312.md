@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41249-3-I"
 decided: "1999-10-25"
-citations: ["99 Wash. App. 312", "97 Wash. App. 1063"]
+citations: ["99 Wash. App. 312"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Gabriel Hernandez, Appellant.
 source_url: "https://static.case.law/wash-app/99/cases/0312-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181271
-cites_cases: ["10 Wn. App. 957", "125 Wn.2d 847", "126 Wn.2d 244", "128 Wn.2d 727", "133 Wn.2d 541", "134 Wn.2d 725", "140 Wn.2d 1015", "240 P.2d 251", "39 Wn. App. 273", "40 Wn.2d 18", "45 Wn. App. 640", "521 P.2d 70", "584 P.2d 382", "622 P.2d 1240", "653 P.2d 284", "655 P.2d 697", "693 P.2d 145", "727 P.2d 683", "84 Wn.2d 1006", "889 P.2d 487", "89 Wn. App. 726", "893 P.2d 615", "90 Wn.2d 443", "912 P.2d 483", "92 Wn. App. 832", "947 P.2d 700", "95 Wn.2d 385", "950 P.2d 486", "953 P.2d 450", "965 P.2d 1121", "98 Wn.2d 30", "98 Wn.2d 358", "99 Wn. App. 312"]
+cites_cases: ["10 Wn. App. 957", "125 Wn.2d 847", "126 Wn.2d 244", "128 Wn.2d 727", "133 Wn.2d 541", "134 Wn.2d 725", "140 Wn.2d 1015", "240 P.2d 251", "39 Wn. App. 273", "40 Wn.2d 18", "45 Wn. App. 640", "521 P.2d 70", "584 P.2d 382", "622 P.2d 1240", "653 P.2d 284", "655 P.2d 697", "693 P.2d 145", "727 P.2d 683", "84 Wn.2d 1006", "889 P.2d 487", "89 Wn. App. 726", "893 P.2d 615", "90 Wn.2d 443", "912 P.2d 483", "92 Wn. App. 832", "947 P.2d 700", "95 Wn.2d 385", "950 P.2d 486", "953 P.2d 450", "965 P.2d 1121", "98 Wn.2d 30", "98 Wn.2d 358"]
 ---
 
 # State v. Hernandez
