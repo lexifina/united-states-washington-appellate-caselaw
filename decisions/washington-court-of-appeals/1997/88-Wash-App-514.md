@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20215-8-II"
 decided: "1997-09-05"
-citations: ["88 Wash. App. 514", "87 Wash. App. 1054"]
+citations: ["88 Wash. App. 514"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Scott L. Havsy, et al., Appellants, v. Frederick G. Flynn, et al., Re
 source_url: "https://static.case.law/wash-app/88/cases/0514-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592238
-cites_cases: ["109 Wn.2d 107", "112 Wn.2d 794", "119 Wn.2d 129", "120 Wn.2d 120", "125 Wn.2d 745", "131 Wn.2d 133", "338 P.2d 757", "368 P.2d 897", "459 P.2d 389", "52 Wn. App. 334", "54 Wn.2d 161", "574 P.2d 1190", "579 P.2d 1341", "59 Wn.2d 545", "68 Wn. App. 260", "74 Wn. App. 733", "744 P.2d 1032", "750 P.2d 254", "760 P.2d 368", "77 Wn.2d 1", "774 P.2d 1158", "830 P.2d 350", "839 P.2d 314", "842 P.2d 985", "875 P.2d 697", "88 Wn. App. 514", "888 P.2d 147", "89 Wn.2d 673", "90 Wn.2d 195", "930 P.2d 288"]
+cites_cases: ["109 Wn.2d 107", "112 Wn.2d 794", "119 Wn.2d 129", "120 Wn.2d 120", "125 Wn.2d 745", "131 Wn.2d 133", "338 P.2d 757", "368 P.2d 897", "459 P.2d 389", "52 Wn. App. 334", "54 Wn.2d 161", "574 P.2d 1190", "579 P.2d 1341", "59 Wn.2d 545", "68 Wn. App. 260", "74 Wn. App. 733", "744 P.2d 1032", "750 P.2d 254", "760 P.2d 368", "77 Wn.2d 1", "774 P.2d 1158", "830 P.2d 350", "839 P.2d 314", "842 P.2d 985", "875 P.2d 697", "888 P.2d 147", "89 Wn.2d 673", "90 Wn.2d 195", "930 P.2d 288"]
 ---
 
 # Havsy v. Flynn
