@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20809-5-III"
 decided: "2003-01-09"
-citations: ["116 Wash. App. 1", "114 Wash. App. 1083"]
+citations: ["116 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Barney P. Buckley, Appellant, v. The Department of Retirement Systems
 source_url: "https://static.case.law/wash-app/116/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265744
-cites_cases: ["101 Wn.2d 536", "101 Wn.2d 552", "104 Wn. App. 920", "110 Wn. App. 582", "116 Wn. App. 1", "120 Wn.2d 394", "147 Wn.2d 1017", "149 Wn.2d 1036", "18 P.3d 588", "42 P.3d 992", "681 P.2d 245", "682 P.2d 869", "74 Wn. App. 668", "81 Wn. App. 745", "842 P.2d 938", "86 Wn. App. 290", "875 P.2d 681", "916 P.2d 452", "936 P.2d 432"]
+cites_cases: ["101 Wn.2d 536", "101 Wn.2d 552", "104 Wn. App. 920", "110 Wn. App. 582", "120 Wn.2d 394", "147 Wn.2d 1017", "149 Wn.2d 1036", "18 P.3d 588", "42 P.3d 992", "681 P.2d 245", "682 P.2d 869", "74 Wn. App. 668", "81 Wn. App. 745", "842 P.2d 938", "86 Wn. App. 290", "875 P.2d 681", "916 P.2d 452", "936 P.2d 432"]
 ---
 
 # Buckley v. Department of Retirement Systems
