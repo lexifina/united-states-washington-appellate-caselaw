@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37876-7-I"
 decided: "1997-09-22"
-citations: ["88 Wash. App. 683", "87 Wash. App. 1068"]
+citations: ["88 Wash. App. 683"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James E. Wright, Appellant."]
 source_url: "https://static.case.law/wash-app/88/cases/0683-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592566
-cites_cases: ["111 Wn.2d 1", "121 Wn.2d 80", "129 Wn.2d 583", "520 U.S. 259", "604 P.2d 953", "759 P.2d 372", "76 Wn. App. 550", "80 Wn. App. 269", "84 Wn. App. 677", "847 P.2d 455", "88 Wn. App. 683", "887 P.2d 903", "908 P.2d 381", "919 P.2d 1218", "929 P.2d 1145", "93 Wn.2d 28"]
+cites_cases: ["111 Wn.2d 1", "121 Wn.2d 80", "129 Wn.2d 583", "520 U.S. 259", "604 P.2d 953", "759 P.2d 372", "76 Wn. App. 550", "80 Wn. App. 269", "84 Wn. App. 677", "847 P.2d 455", "887 P.2d 903", "908 P.2d 381", "919 P.2d 1218", "929 P.2d 1145", "93 Wn.2d 28"]
 ---
 
 # State v. Wright
