@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22809-6-III"
 decided: "2005-04-05"
-citations: ["127 Wash. App. 833", "126 Wash. App. 1055"]
+citations: ["127 Wash. App. 833"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Estate of Matthew Davis et al., Appellants, v. The Department of 
 source_url: "https://static.case.law/wash-app/127/cases/0833-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2462520
-cites_cases: ["100 P.3d 344", "100 Wn.2d 421", "103 Wn.2d 1035", "106 Wn.2d 669", "107 Wn. App. 510", "108 Wn. App. 732", "111 Wn.2d 1010", "113 Wn. App. 556", "116 Wn. App. 569", "118 Wn. App. 199", "118 Wn.2d 195", "124 Wn. App. 129", "127 Wn. App. 833", "132 Wn.2d 267", "137 Wn.2d 518", "138 Wn.2d 265", "143 Wn.2d 190", "145 Wn.2d 1025", "146 Wn.2d 1005", "149 Wn.2d 1012", "15 P.3d 1283", "15 P.3d 180", "150 Wn.2d 1032", "33 P.3d 85", "39 Wn. App. 201", "51 Wn. App. 404", "54 P.3d 197", "671 P.2d 230", "692 P.2d 874", "724 P.2d 1017", "75 P.3d 548", "753 P.2d 1015", "76 P.3d 258", "822 P.2d 243", "83 Wn. App. 312", "922 P.2d 100", "937 P.2d 1082", "973 P.2d 465", "979 P.2d 400"]
+cites_cases: ["100 P.3d 344", "100 Wn.2d 421", "103 Wn.2d 1035", "106 Wn.2d 669", "107 Wn. App. 510", "108 Wn. App. 732", "111 Wn.2d 1010", "113 Wn. App. 556", "116 Wn. App. 569", "118 Wn. App. 199", "118 Wn.2d 195", "124 Wn. App. 129", "132 Wn.2d 267", "137 Wn.2d 518", "138 Wn.2d 265", "143 Wn.2d 190", "145 Wn.2d 1025", "146 Wn.2d 1005", "149 Wn.2d 1012", "15 P.3d 1283", "15 P.3d 180", "150 Wn.2d 1032", "33 P.3d 85", "39 Wn. App. 201", "51 Wn. App. 404", "54 P.3d 197", "671 P.2d 230", "692 P.2d 874", "724 P.2d 1017", "75 P.3d 548", "753 P.2d 1015", "76 P.3d 258", "822 P.2d 243", "83 Wn. App. 312", "922 P.2d 100", "937 P.2d 1082", "973 P.2d 465", "979 P.2d 400"]
 ---
 
 # Estate of Davis v. Department of Corrections
