@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10135-1-II"
 decided: "1988-04-26"
-citations: ["51 Wash. App. 462", "51 Wash. App. 1019"]
+citations: ["51 Wash. App. 462"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Patricia Thompson, as Personal Representative, et al, Appellants, v. 
 source_url: "https://static.case.law/wash-app/51/cases/0462-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591708
-cites_cases: ["100 Wn.2d 1026", "100 Wn.2d 421", "103 Wn.2d 768", "104 Wn.2d 662", "104 Wn.2d 696", "105 Wn.2d 878", "107 Wn.2d 807", "16 Wn. App. 389", "277 P.2d 345", "283 P.2d 688", "307 P.2d 1056", "35 Wn. App. 1", "39 Wn. App. 557", "426 P.2d 824", "431 P.2d 603", "45 Wn.2d 601", "49 Wn.2d 898", "501 P.2d 285", "51 Wn. App. 462", "558 P.2d 811", "578 P.2d 17", "617 P.2d 415", "656 P.2d 1030", "664 P.2d 1299", "671 P.2d 230", "694 P.2d 666", "698 P.2d 77", "709 P.2d 774", "71 Wn.2d 119", "710 P.2d 184", "719 P.2d 120", "72 Wn.2d 1", "733 P.2d 969", "81 Wn.2d 251", "89 Wn.2d 916", "94 Wn.2d 321", "98 Wn.2d 434"]
+cites_cases: ["100 Wn.2d 1026", "100 Wn.2d 421", "103 Wn.2d 768", "104 Wn.2d 662", "104 Wn.2d 696", "105 Wn.2d 878", "107 Wn.2d 807", "16 Wn. App. 389", "277 P.2d 345", "283 P.2d 688", "307 P.2d 1056", "35 Wn. App. 1", "39 Wn. App. 557", "426 P.2d 824", "431 P.2d 603", "45 Wn.2d 601", "49 Wn.2d 898", "501 P.2d 285", "558 P.2d 811", "578 P.2d 17", "617 P.2d 415", "656 P.2d 1030", "664 P.2d 1299", "671 P.2d 230", "694 P.2d 666", "698 P.2d 77", "709 P.2d 774", "71 Wn.2d 119", "710 P.2d 184", "719 P.2d 120", "72 Wn.2d 1", "733 P.2d 969", "81 Wn.2d 251", "89 Wn.2d 916", "94 Wn.2d 321", "98 Wn.2d 434"]
 ---
 
 # Thompson v. Devlin
