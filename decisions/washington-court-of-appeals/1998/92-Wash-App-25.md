@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22321-0-II"
 decided: "1998-07-17"
-citations: ["92 Wash. App. 25", "91 Wash. App. 1054"]
+citations: ["92 Wash. App. 25"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Robert Lewis Jordan, Responden
 source_url: "https://static.case.law/wash-app/92/cases/0025-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 853314
-cites_cases: ["106 Wn.2d 144", "107 Wn.2d 1006", "109 Wn.2d 1025", "114 Wn.2d 1019", "119 Wn.2d 675", "129 Wn.2d 1015", "131 Wn.2d 1002", "137 Wn.2d 1006", "34 Wn. App. 315", "389 U.S. 347", "395 U.S. 752", "414 U.S. 218", "44 Wn. App. 276", "49 Wn. App. 119", "502 U.S. 830", "56 Wn. App. 145", "61 Wn. App. 858", "65 Wn. App. 900", "661 P.2d 979", "720 P.2d 436", "722 P.2d 118", "741 P.2d 1033", "783 P.2d 95", "80 Wn. App. 184", "812 P.2d 885", "830 P.2d 383", "835 P.2d 1025", "84 Wn. App. 527", "907 P.2d 328", "92 Wn. App. 25", "926 F.2d 883", "929 P.2d 482"]
+cites_cases: ["106 Wn.2d 144", "107 Wn.2d 1006", "109 Wn.2d 1025", "114 Wn.2d 1019", "119 Wn.2d 675", "129 Wn.2d 1015", "131 Wn.2d 1002", "137 Wn.2d 1006", "34 Wn. App. 315", "389 U.S. 347", "395 U.S. 752", "414 U.S. 218", "44 Wn. App. 276", "49 Wn. App. 119", "502 U.S. 830", "56 Wn. App. 145", "61 Wn. App. 858", "65 Wn. App. 900", "661 P.2d 979", "720 P.2d 436", "722 P.2d 118", "741 P.2d 1033", "783 P.2d 95", "80 Wn. App. 184", "812 P.2d 885", "830 P.2d 383", "835 P.2d 1025", "84 Wn. App. 527", "907 P.2d 328", "926 F.2d 883", "929 P.2d 482"]
 ---
 
 # State v. Jordan
