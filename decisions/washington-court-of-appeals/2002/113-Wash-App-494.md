@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49525-9-I"
 decided: "2002-08-19"
-citations: ["113 Wash. App. 494", "113 Wash. App. 1019"]
+citations: ["113 Wash. App. 494"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Alan Dorenbos, Appellant."]
 source_url: "https://static.case.law/wash-app/113/cases/0494-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 764676
-cites_cases: ["105 Wn.2d 175", "112 Wn.2d 193", "113 Wn. App. 494", "120 Wn.2d 365", "129 Wn.2d 529", "129 Wn.2d 535", "129 Wn.2d 554", "140 Wn.2d 1003", "141 Wn.2d 342", "149 Wn.2d 1006", "479 U.S. 930", "493 U.S. 814", "5 P.3d 1240", "67 Wn. App. 863", "713 P.2d 719", "718 P.2d 796", "770 P.2d 1027", "840 P.2d 909", "842 P.2d 470", "919 P.2d 66", "919 P.2d 69", "919 P.2d 79", "97 Wn. App. 161", "984 P.2d 421"]
+cites_cases: ["105 Wn.2d 175", "112 Wn.2d 193", "120 Wn.2d 365", "129 Wn.2d 529", "129 Wn.2d 535", "129 Wn.2d 554", "140 Wn.2d 1003", "141 Wn.2d 342", "149 Wn.2d 1006", "479 U.S. 930", "493 U.S. 814", "5 P.3d 1240", "67 Wn. App. 863", "713 P.2d 719", "718 P.2d 796", "770 P.2d 1027", "840 P.2d 909", "842 P.2d 470", "919 P.2d 66", "919 P.2d 69", "919 P.2d 79", "97 Wn. App. 161", "984 P.2d 421"]
 ---
 
 # State v. Dorenbos
