@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53074-7-I"
 decided: "2005-02-28"
-citations: ["126 Wash. App. 664", "126 Wash. App. 1006"]
+citations: ["126 Wash. App. 664"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Babiker Abdel-Rahim Babiker, 
 source_url: "https://static.case.law/wash-app/126/cases/0664-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1016194
-cites_cases: ["122 Wn. App. 448", "125 Wn.2d 24", "126 Wn. App. 664", "131 Wn.2d 853", "132 Wn.2d 529", "71 Wn. App. 798", "863 P.2d 85", "882 P.2d 747", "935 P.2d 1334", "94 P.3d 345", "940 P.2d 546"]
+cites_cases: ["122 Wn. App. 448", "125 Wn.2d 24", "131 Wn.2d 853", "132 Wn.2d 529", "71 Wn. App. 798", "863 P.2d 85", "882 P.2d 747", "935 P.2d 1334", "94 P.3d 345", "940 P.2d 546"]
 ---
 
 # State v. Babiker
