@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19278-1-II"
 decided: "1997-06-20"
-citations: ["87 Wash. App. 11", "86 Wash. App. 1065"]
+citations: ["87 Wash. App. 11"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Elden S. Gebaroff, Jr., Appel
 source_url: "https://static.case.law/wash-app/87/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 566011
-cites_cases: ["102 Wn.2d 561", "121 Wn.2d 22", "123 Wn.2d 173", "31 Wn. App. 198", "38 Wn. App. 847", "52 Wn. App. 581", "52 Wn. App. 585", "64 Wn. App. 505", "642 P.2d 404", "689 P.2d 32", "690 P.2d 1186", "747 F.2d 537", "762 P.2d 20", "827 P.2d 282", "846 P.2d 1365", "867 P.2d 593", "87 Wn. App. 11", "926 F.2d 838"]
+cites_cases: ["102 Wn.2d 561", "121 Wn.2d 22", "123 Wn.2d 173", "31 Wn. App. 198", "38 Wn. App. 847", "52 Wn. App. 581", "52 Wn. App. 585", "64 Wn. App. 505", "642 P.2d 404", "689 P.2d 32", "690 P.2d 1186", "747 F.2d 537", "762 P.2d 20", "827 P.2d 282", "846 P.2d 1365", "867 P.2d 593", "926 F.2d 838"]
 ---
 
 # State v. Gebaroff
