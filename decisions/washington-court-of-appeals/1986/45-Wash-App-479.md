@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14323-9-I"
 decided: "1986-08-11"
-citations: ["45 Wash. App. 479", "44 Wash. App. 1047"]
+citations: ["45 Wash. App. 479"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jack G. Sweek, Appellant, v. The Municipality of Metropolitan Seattle
 source_url: "https://static.case.law/wash-app/45/cases/0479-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809156
-cites_cases: ["101 Wn.2d 1008", "104 Wn.2d 412", "106 S. Ct. 1208", "239 P.2d 336", "318 P.2d 613", "36 Wn. App. 668", "39 Wn.2d 841", "440 P.2d 834", "447 P.2d 172", "45 Wn. App. 479", "491 P.2d 1295", "51 Wn.2d 338", "588 P.2d 201", "594 P.2d 905", "676 P.2d 512", "705 P.2d 1182", "73 Wn.2d 804", "74 Wn.2d 832", "80 Wn.2d 106", "91 Wn.2d 182", "92 Wn.2d 143"]
+cites_cases: ["101 Wn.2d 1008", "104 Wn.2d 412", "106 S. Ct. 1208", "239 P.2d 336", "318 P.2d 613", "36 Wn. App. 668", "39 Wn.2d 841", "440 P.2d 834", "447 P.2d 172", "491 P.2d 1295", "51 Wn.2d 338", "588 P.2d 201", "594 P.2d 905", "676 P.2d 512", "705 P.2d 1182", "73 Wn.2d 804", "74 Wn.2d 832", "80 Wn.2d 106", "91 Wn.2d 182", "92 Wn.2d 143"]
 ---
 
 # Sweek v. Municipality of Metropolitan Seattle
