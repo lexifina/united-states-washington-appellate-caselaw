@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "49432-5-I"
 decided: "2003-11-24"
-citations: ["119 Wash. App. 823", "119 Wash. App. 1026"]
+citations: ["119 Wash. App. 823"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jeffrey A. Barrett, et al., Appellants, v. Eric L. Freise, et al., Re
 source_url: "https://static.case.law/wash-app/119/cases/0823-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1349948
-cites_cases: ["110 Wn.2d 355", "112 Wn. App. 1041", "118 Wn.2d 451", "119 Wn. App. 823", "119 Wn.2d 251", "121 Wn.2d 715", "13 P.3d 1065", "136 Wn.2d 437", "142 Wn.2d 450", "148 Wn.2d 1015", "4 Wn. App. 659", "407 P.2d 985", "46 Wn. App. 708", "484 P.2d 438", "67 Wn.2d 451", "735 P.2d 675", "753 P.2d 517", "824 P.2d 1207", "830 P.2d 646", "84 Wn. App. 723", "853 P.2d 1373", "930 P.2d 340", "963 P.2d 834"]
+cites_cases: ["110 Wn.2d 355", "112 Wn. App. 1041", "118 Wn.2d 451", "119 Wn.2d 251", "121 Wn.2d 715", "13 P.3d 1065", "136 Wn.2d 437", "142 Wn.2d 450", "148 Wn.2d 1015", "4 Wn. App. 659", "407 P.2d 985", "46 Wn. App. 708", "484 P.2d 438", "67 Wn.2d 451", "735 P.2d 675", "753 P.2d 517", "824 P.2d 1207", "830 P.2d 646", "84 Wn. App. 723", "853 P.2d 1373", "930 P.2d 340", "963 P.2d 834"]
 ---
 
 # Barrett v. Freise
