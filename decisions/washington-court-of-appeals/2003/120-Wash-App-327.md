@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50101-1-I"
 decided: "2003-12-29"
-citations: ["120 Wash. App. 327", "119 Wash. App. 1064"]
+citations: ["120 Wash. App. 327"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Zachary A. Kinneman, Appellan
 source_url: "https://static.case.law/wash-app/120/cases/0327-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422685
-cites_cases: ["101 Wn.2d 566", "102 Wn. App. 202", "107 Wn. App. 256", "113 Wn. App. 889", "115 Wn.2d 294", "116 Wn.2d 777", "118 Wn.2d 801", "119 Wn.2d 192", "120 Wn. App. 327", "121 Wn.2d 333", "122 Wn.2d 1007", "125 Wn.2d 717", "126 Wn.2d 1025", "126 Wn.2d 315", "127 Wn.2d 141", "132 Wn.2d 834", "136 Wn.2d 629", "140 Wn.2d 250", "145 Wn.2d 329", "145 Wn.2d 400", "146 Wn.2d 1002", "152 Wn.2d 1022", "2 Wn. App. 802", "26 P.3d 1013", "28 Wn. App. 690", "36 P.3d 546", "38 P.3d 335", "4 Wn. App. 937", "472 P.2d 564", "486 P.2d 97", "56 P.3d 569", "6 P.3d 1226", "609 P.2d 1364", "626 P.2d 509", "683 P.2d 173", "69 Wn. App. 255", "76 Wn. App. 454", "77 Wn. App. 516", "79 Wn. App. 494", "79 Wn. App. 569", "797 P.2d 1141", "808 P.2d 1141", "828 P.2d 549", "829 P.2d 1068", "83 Wn. App. 380", "848 P.2d 208", "851 P.2d 654", "886 P.2d 234", "888 P.2d 1169", "892 P.2d 1099", "893 P.2d 629", "896 P.2d 1254", "903 P.2d 1003", "904 P.2d 779", "921 P.2d 593", "93 Wn.2d 288", "940 P.2d 633", "965 P.2d 1072", "97 Wn. App. 679", "988 P.2d 460", "996 P.2d 610"]
+cites_cases: ["101 Wn.2d 566", "102 Wn. App. 202", "107 Wn. App. 256", "113 Wn. App. 889", "115 Wn.2d 294", "116 Wn.2d 777", "118 Wn.2d 801", "119 Wn.2d 192", "121 Wn.2d 333", "122 Wn.2d 1007", "125 Wn.2d 717", "126 Wn.2d 1025", "126 Wn.2d 315", "127 Wn.2d 141", "132 Wn.2d 834", "136 Wn.2d 629", "140 Wn.2d 250", "145 Wn.2d 329", "145 Wn.2d 400", "146 Wn.2d 1002", "152 Wn.2d 1022", "2 Wn. App. 802", "26 P.3d 1013", "28 Wn. App. 690", "36 P.3d 546", "38 P.3d 335", "4 Wn. App. 937", "472 P.2d 564", "486 P.2d 97", "56 P.3d 569", "6 P.3d 1226", "609 P.2d 1364", "626 P.2d 509", "683 P.2d 173", "69 Wn. App. 255", "76 Wn. App. 454", "77 Wn. App. 516", "79 Wn. App. 494", "79 Wn. App. 569", "797 P.2d 1141", "808 P.2d 1141", "828 P.2d 549", "829 P.2d 1068", "83 Wn. App. 380", "848 P.2d 208", "851 P.2d 654", "886 P.2d 234", "888 P.2d 1169", "892 P.2d 1099", "893 P.2d 629", "896 P.2d 1254", "903 P.2d 1003", "904 P.2d 779", "921 P.2d 593", "93 Wn.2d 288", "940 P.2d 633", "965 P.2d 1072", "97 Wn. App. 679", "988 P.2d 460", "996 P.2d 610"]
 ---
 
 # State v. Kinneman
