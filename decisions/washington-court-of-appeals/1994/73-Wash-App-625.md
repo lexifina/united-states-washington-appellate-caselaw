@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "12490-8-III"
+decided: "1994-04-07"
+citations: ["73 Wash. App. 625"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Curtis Guy Stump, Appellant."]
+source_url: "https://static.case.law/wash-app/73/cases/0625-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1748479
+cites_cases: ["311 P.2d 659", "374 N.E.2d 188", "409 U.S. 352", "50 Wn.2d 350", "560 F.2d 1268", "594 P.2d 1337", "71 Ill. 2d 138", "737 F.2d 564", "92 Wn.2d 134"]
+---
+
+# State v. Stump
+
+## Majority (Munson, J.)
+
+Munson, J.
+— Curtis Guy Stump appeals his conviction of first degree perjury (RCW 9A.72.020). He contends the court erred both in finding he knew the statement to be false and in finding the statement was material.
+On October 17 and 18, 1991, Mr. Stump was tried on charges he had burglarized the apartment of a prior girlfriend, Jill Phillips. The perjury charge against Mr. Stump arose from statements he made during that trial. The outcome of the burglary trial depended on the credibility of Mr. Stump’s version of events or Ms. Phillips’. Ms. Phillips admitted she used drugs. On direct examination, Mr. Stump was asked by his attorney: "Have you ever been involved in drugs yourself?” Mr. Stump’s response was
+I’m — I’m not going to lie. I’ve smoked pot before. And yes, I occasionally drink. But, as far as hard drugs, narcotics, cocaine, never. Never. Absolutely not.
+And that’s part of the reason that me and her broke up — when we were going steady. We broke up because of that, behind that reason right there. That was the whole case. If she wasn’t on drugs, she’s a good girl. I still care about Jill. But I’m not into the drug scene. I might have long hair, and look kind of — you know, some people look at me that way. But no, I’m not a drug user. I do drink occasionally, during football games, and get — you know, party.
+The State charged Mr. Stump with perjury for the italicized portion of his answer.
+At the time Mr. Stump made this statement he was being held in jail on charges of delivery of a controlled substance; subsequently, he pleaded guilty to that charge. He was found guilty of the burglary.
+Mr. Stump waived his right to a jury trial. A detective for the Spokane County Sheriffs Department testified he purchased cocaine from Mr. Stump on August 20, 1991, almost 2 months before the burglary trial. Other witnesses confirmed the substance purchased from Mr. Stump was cocaine. The State introduced into evidence Mr. Stump’s plea of guilty to the charges brought as a result of the above sale. The trial court found the question asked was broad enough to encompass any contact or involvement with cocaine. The court found for purposes of perjury the evidence was insufficient to indicate Mr. Stump was a drug user. However, the court found Mr. Stump knew his statement "as far as hard drugs, narcotics, cocaine, never. Never. Absolutely not.” was false and the statement was material because it could have affected the outcome of the burglary trial. The court found the State had met its burden of proof and found Mr. Stump guilty of first degree perjury.
+RCW 9A.72.020 defines the crime of first degree perjury in Washington: "A person is guilty of perjury in the first degree if in any official proceeding he makes a materially false statement which he knows to be false under an oath required or authorized by law.”
+The requirements of proof in a perjury case are more stringent than those in any other area of law except treason. State v. Olson, 92 Wn.2d 134, 136, 594 P.2d 1337 (1979). Proof of the falsity must meet certain requirements as to form in addition to being proved beyond a reasonable doubt. To prove perjury, the State must present:
+1. The testimony of at least one credible witness which is positive and directly contradictory of the defendant’s oath; and
+2. Another such direct witness or independent evidence of corroborating circumstances of such a character as clearly to turn the scale and overcome the oath of the defendant and the legal presumption of his innocence.
+Olson, at 136; State v. Wallis, 50 Wn.2d 350, 311 P.2d 659 (1957).
+In Olson, the Washington Supreme Court adopted the "literal truth” defense set forth by the United States Supreme Court in Bronston v. United States, 409 U.S. 352, 34 L. Ed. 2d 568, 93 S. Ct. 595 (1973). In Olson, the defendant who had delivered timbers to "Spane Building” denied delivering timbers to "Spane Mill”. The court held the defendant could not be convicted of perjury because his answers were technically true.
+The issue here however is not whether Mr. Stump’s answer was literally or technically true. Rather, the issue is whether the question was so ambiguous that Mr. Stump’s answer cannot be held to be a false statement. As the trial court in this case correctly stated, "the relevant question here is — for lack of a better term, I’ll call it vague. It’s in-artfully drafted or inartfully spoken.” (Italics ours.) Later, the trial court recognized "involvement” with drugs could cover use, possession, delivery, or manufacture. No prior Washington perjury cases deal with an answer to a question susceptible to more than one interpretation.
+In order to sustain a perjury conviction, the questions and answers which support the allegation must demonstrate both that the defendant was fully aware of the actual meaning behind the examiner’s questions and that the defendant knew his answers were not the truth. United States v. Eddy, 737 F.2d 564, 567 (6th Cir. 1984). The questions and answers at issue must be interpreted in the context of what immediately preceded and succeeded them. People v. Wills, 71 Ill. 2d 138, 374 N.E.2d 188 (1978).
+Here, Mr. Stump argues "involved” was used in the context of drug usage or addiction. Immediately preceding the question and answer at issue, defense counsel asked Mr. Stump about Ms. Phillips: "Why haven’t you seen her since that time?” Mr. Stump replied: "Because of her drug involvement, again.” In the answer at issue Mr. Stump also referred to drug use; he stated: "I’ve smoked pot before. ... I occasionally drink. ... If she wasn’t on drugs, she’s a good girl. . . . But no, I’m not a drug user. . . .”. (Italics ours.) The context shows that Mr. Stump’s argument he interpreted "involved” to mean drug usage is plausible.
+The State argues the finder of fact should determine the witness’ understanding of the question. In Eddy, at 570, the court rejected this argument stating:
+We also reject the argument that, when a witness is confronted with ambiguous questions, it is for the jury to decide whether the witness has committed perjury. Bronston discredited this type of jury conjecture which is now contended should be permissible. Bronston, 409 U.S. at 359, 93 S.Ct. at 600. A contrary rule would allow a jury to infer from a witness’ unresponsive answer to a vague question that the witness knew his testimony to be false. In expressly rejecting this, Bronston, 409 U.S. at 358, 93 S.Ct. at 600, the Court stated,
+Under the pressures and tensions of interrogation, it is not uncommon for the most earnest witnesses to give answers that are not entirely responsive. Sometimes the witness does not understand the question, or may in an excess of caution or apprehension read too much or too little into it. . . . It is the responsibility of the lawyer to probe; testimonial interrogation, and cross-examination in particular, is a probing, prying, pressing form of inquiry. If a witness evades, it is the lawyer’s responsibility to recognize the evasion and to bring the witness back to the mark, to flush out the whole truth with the tools of adversary examination.
+As our Supreme Court stated in Olson, at 139, "[t]he burden is on the questioner to pin the witness down to the specific object of his inquiry. Precise questioning ... is imperative as a predicate for perjury.” Here, the prosecutor had the opportunity to "pin down” Mr. Stump.
+There was no evidence that Mr. Stump knew that his attorney meant "delivered” or "sold” when he said "involved”. See Olson, at 137. In fact, there was no evidence that Mr. Stump’s attorney meant "delivered” or "sold”. Whether Mr. Stump interpreted "involved” in the same manner as the prosecutor can only be assumed. As the court stated in United States v. Brumley, 560 F.2d 1268, 1277 (5th Cir. 1977), "[especially in perjury cases, defendants may not be assumed into the penitentiary.”
+Mr. Stump also argues the trial court erred in finding his statement was material to the burglary. We need not address this contention because we find the State failed to prove Mr. Stump knew his statement to be false.
+Reversed.
+Thompson, C.J., and Schultheis, J., concur.
