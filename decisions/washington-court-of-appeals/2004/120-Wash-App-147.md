@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21845-7-III"
 decided: "2004-01-15"
-citations: ["120 Wash. App. 147", "119 Wash. App. 1077"]
+citations: ["120 Wash. App. 147"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Dena Marie Hamilton, Respondent, and
 source_url: "https://static.case.law/wash-app/120/cases/0147-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1422950
-cites_cases: ["120 Wn. App. 147", "66 Wn. App. 83", "831 P.2d 172", "90 Wn. App. 488", "952 P.2d 624"]
+cites_cases: ["66 Wn. App. 83", "831 P.2d 172", "90 Wn. App. 488", "952 P.2d 624"]
 ---
 
 # In re the Marriage of Hamilton
