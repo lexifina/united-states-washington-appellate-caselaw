@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25287-9-I"
 decided: "1991-12-02"
-citations: ["64 Wash. App. 76", "63 Wash. App. 1018"]
+citations: ["64 Wash. App. 76"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Donald Edward Knutson, Appell
 source_url: "https://static.case.law/wash-app/64/cases/0076-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722800
-cites_cases: ["101 Wn.2d 566", "112 Wn.2d 399", "114 Wn.2d 314", "31 Wn. App. 680", "546 F.2d 833", "553 P.2d 1328", "609 P.2d 1364", "64 Wn. App. 76", "644 P.2d 710", "683 P.2d 173", "771 P.2d 1137", "788 P.2d 531", "827 F.2d 586", "87 Wn.2d 374", "93 Wn.2d 288"]
+cites_cases: ["101 Wn.2d 566", "112 Wn.2d 399", "114 Wn.2d 314", "31 Wn. App. 680", "546 F.2d 833", "553 P.2d 1328", "609 P.2d 1364", "644 P.2d 710", "683 P.2d 173", "771 P.2d 1137", "788 P.2d 531", "827 F.2d 586", "87 Wn.2d 374", "93 Wn.2d 288"]
 ---
 
 # State v. Knutson
