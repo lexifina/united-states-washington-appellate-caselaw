@@ -1,0 +1,60 @@
+---
+court: "Washington Court of Appeals"
+docket: "1488-3"
+decided: "1976-08-20"
+citations: ["16 Wash. App. 143"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The City of Yakima, Respondent, v. Sharon Johnson, Appellant."]
+source_url: "https://static.case.law/wash-app/16/cases/0143-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1770939
+cites_cases: ["109 S.W. 30", "118 U.S. 356", "195 A.2d 496", "210 Mo. 502", "25 A.L.R.3d 827", "332 U.S. 1", "333 U.S. 507", "347 U.S. 612", "4 A.L.R.3d 404", "419 P.2d 800", "423 P.2d 522", "461 F.2d 1148", "477 P.2d 1", "48 F.2d 171", "480 P.2d 766", "481 P.2d 1", "488 P.2d 750", "511 P.2d 74", "6 S.Ct. 1064", "69 Wn.2d 664", "70 Wn.2d 405", "78 Mich. 573", "78 Wn.2d 491", "78 Wn.2d 909", "78 Wn.2d 922", "79 Wn.2d 626", "81 N.J. Super. 315", "9 Wn. App. 1", "92 L. Ed. 840", "98 L. Ed. 989"]
+---
+
+# City of Yakima v. Johnson
+
+## Majority (Green, J.)
+
+Green, J.
+Defendant appeals from a conviction of soliciting prostitution in violation of the following ordinance of the City of Yakima:
+Any person practicing or soliciting prostitution, or keeping a house of prostitution or any place for the practice of prostitution, is hereby declared to be a vagrant.
+Yakima Municipal Code § 6.04.385.
+Error is assigned to the trial court’s denial of defendant’s motion to dismiss upon two constitutional grounds: (1) The ordinance is void for vagueness violative of due process, and (2) The Yakima police engaged in discriminatory and selective enforcement policies violative of equal protection. We affirm.
+First, defendant contends the ordinance violates the due process clause of the fourteenth amendment to the United States Constitution “because it fails to give notice of what is forbidden and because the lack of standards in the ordinance leads to arbitrary enforcement by the police.” Therefore, defendant argues that the ordinance is unconstitutionally vague.
+We begin with the well settled presumption that an ordinance is constitutional, and if it is reasonably capable of a constitutional construction, it must be given such construction. Seattle v. Drew, 70 Wn.2d 405, 407, 423 P.2d 522, 25 A.L.R.3d 827 (1967). One who challenges the constitutionality of a statute carries the burden of proving its invalidity. Seattle v. Jones, 79 Wn.2d 626, 628, 488 P.2d 750 (1971).
+In Seattle v. Drew, supra at 408, the court outlined the due process standards for notice in a penal statute or ordinance that are necessary to defeat a “void for vagueness” challenge:
+To be consistent with due process, a penal statute or ordinance must contain ascertainable standards of guilt, so that men of reasonable understanding are not required to guess at the meaning of the enactment. Winters v. New York, 333 U.S. 507, 92 L. Ed. 840, 68 Sup. Ct. 665 (1948). A law that fails to give fair notice of what acts will be punished is violative of due process.' Ibid. It is fundamental that no ordinance may unreasonably or unnecessarily interfere with a person’s freedom, whether it be to move about or to stand still. The right to be let alone is- inviolate; interference with that right is to be tolerated only if it is necessary to protect the rights and the welfare of others. State v. Caez, 81 N.J. Super. 315, 195 A.2d 496 (1963); Territory of Hawaii v. Anduha, 48 F.2d 171 (9th Cir. 1931); St. Louis v. Gloner, 210 Mo. 502, 109 S.W. 30 (1908); Pinkerton v. Verberg, 78 Mich. 573, 44N.W. 579 (1889).
+An ordinance that restricts such freedom must contain standards that are reasonable and that do not permit arbitrary enforcement. If an ordinance imposes sanctions authorized by language that is doubtful, vague, or uncertain,-it violates fundamental concepts of justice and due process of law. State v. Caez, supra.
+Later, in State v. Jacobsen, 78 Wn.2d 491, 498, 477 P.2d 1 (1970), the court noted that:
+Criminal statutes need not spell out with absolute certainty every act or omission which is prohibited if the general terms of the act convey an understandable meaning to the average person.
+and again in State v. Oyen, 78 Wn.2d 909, 915-16, 480 P.2d 766 (1971):
+The constitution, however, does not require impossible standards of specificity in penal statutes. It requires only that a questioned statute convey a sufficiently definite warning as to proscribed conduct when measured by common practice and understanding. And, the test will be met if there are well-settled and ordinarily understood meanings for the words employed when viewed in the context of the entire statutory provision. United States v. Petrillo, 332 U.S. 1, 91 L. Ed. 1877, 67 S. Ct. 1538 (1947); United States v. Harriss, 347 U.S. 612, 98 L. Ed. 989, 74 S. Ct. 808 (1954).
+Stated another way, “commonly understood words require no definition.” State v. Jones, 9 Wn. App. 1, 8, 511 P.2d 74 (1973).
+Here, the defendant was charged with and convicted of “soliciting prostitution” in violation of the ordinance. In our view, these terms carry a common, understandable meaning to the average person and are not unconstitutionally vague. In the absence of a contrary statutory definition, words contained in a statute or ordinance should be construed in accordance with their general dictionary definition. Webster’s Third New International Dictionary (1969) defines “solicit” to mean:
+To make petition to ... to approach with a request . . . to entice or lead astray ... to seek the favor of (a woman) usu. for the purpose of seduction . . . to accost (a man) for immoral purposes and usu. in the character of a prostitute . . .
+and “prostitution” to mean:
+The act or practice of indulging in promiscuous sexual relations esp. for payment.
+These dictionary definitions of the words “solicit” and “prostitution” have generally been adopted by the courts. See 39 Words and Phrases 614 et seq.; 34A Words and Phrases 509 et seq. Although many of the dictionary definitions of “prostitution” restrict the term to females, the Yakima ordinance applies to “any person.” A Yakima police lieutenant testified to the department’s understanding of the meaning of the word as follows:
+Q But what is prostitution, Lieutenant?
+A That would be the willing effort of a female or a male to submit themselves for a price for sexual activity.
+This is essentially the dictionary definition and the commonly understood meaning of the term “prostitution.” Defendant’s attack on the ordinance for unconstitutional vagueness must fail.
+Second, defendant contends the Yakima police engaged in discriminatory and selective enforcement policies resulting in a denial of her right to equal protection of the law guaranteed by the fourteenth amendment to the United States Constitution and article 1, section 12 of the Washington State Constitution. This contention is premised upon the fact that although the Yakima ordinance applies to “any person”, police records introduced by defendant show that almost every person arrested for violating the ordinance has been a woman. Defendant claims that since virtually no men have been arrested and that only male police officers were assigned to enforcing the ordinance, discriminatory enforcement violating defendant’s rights to equal protection must be inferred. We conclude that these factors alone do not compel an inference of the intentional, deliberate, or purposeful discrimination required to nullify defendant’s conviction.
+The general rules underlying unconstitutional discrimination in the enforcement of penal laws are succinctly summarized in United States v. Steele, 461 F.2d 1148, 1151 (9th Cir. 1972):
+Yick Wo v. Hopkins, 118 U.S. 356, 6 S.Ct. 1064, 30 L.Ed. 220 (1886), established the principle that equal protection of the law is denied when state officials enforce a valid statute in a discriminatory fashion. ... A defendant cannot be convicted if he proves unconstitutional discrimination in the administration of a penal statute.
+Mere selectivity in prosecution creates no constitutional problem. ... To invoke the defense successfully one must prove that the selection was deliberately based on an unjustifiable standard, such as race, religion, or other arbitrary classification. . . . Steele [the defendant] is entitled to an acquittal if his evidence proved that the authorities purposefully discriminated against those who chose to exercise their First Amendment rights.
+(Footnotes omitted. Italics ours.) The Washington State Supreme Court, in State v. Jacobsen, supra at 499, recognized the same principles when it stated:
+Defendant has neither asserted nor offered proof that the prosecutor’s conduct in this matter was without reasonable justification and constituted intentional or purposeful systematic discrimination in the enforcement of the law.
+(Italics ours.) See also Annot., Penal Law-Discriminatory Enforcement, 4 A.L.R.3d 404 (1965).
+Based on the record before this court, we cannot find an intentional or purposeful policy of discrimination against females by the Yakima Police Department in the enforcement of the prostitution ordinance. The general policy of the Yakima Police Department in enforcing this ordinance was expressed by Officer Kline:
+That policy is to arrest anyone they [the officers] can make a case on as far as soliciting is concerned, soliciting for prostitution. As was shown in another case, the male individual, if he openly solicits the female for prostitution, or sexual relations for a price, then he would be handled the same as the prostitute would in the case of a female who would solicit an alleged customer, or someone that may be a prospective customer.
+He also testified that a.greater number of arrests occur among females than males because of the ease and availability of making a case against them. The record reflects that when a male is found to be soliciting prostitution, he is also arrested and charged in the same manner as females.
+The only evidence offered by defendant to support her claim of unconstitutional discrimination consists of the arrest record and the fact that only males are on the police force. Based upon our review of the decisional law, we hold that such evidence, standing alone, is insufficient to establish an intentional or purposeful policy of discriminatory enforcement based upon sex. A court should not nullify an otherwise valid conviction unless the evidence supports an intentional or purposeful discrimination. Such intent or purpose should only be inferred from compelling circumstances when it is clear that a law is being enforced or administered with “an evil eye and unequal hand”, Yick Wo v. Hopkins, 118 U.S. 356, 30 L. Ed. 220, 6 S. Ct. 1064 (1886). The record here does not support such inference.
+Affirmed.
+McInturff, C. J., and Munson, J., concur.
+Petition for rehearing denied September 23, 1976.
+Review denied by Supreme Court February 23, 1977.
+See State v. Maloney, 78 Wn.2d 922, 481 P.2d 1 (1971); and State v. Jones, supra, recognizing that the words “lewd, disorderly or dissolute” have a common and ordinary meaning and are not unconstitutionally vague; State v. Oyen, supra, holding that the terms “wilfully loiter” are not void for vagueness; and State v. Galbreath, 69 Wn.2d 664, 419 P.2d 800 (1966), holding the words “obscene” and “indecent” enjoy a common meaning among people of common intelligence.
+The language of the Yakima ordinance is virtually identical to the long-standing provisions of RCW 9.87.010 and it is apparent that the dictionary definitions were in essence incorporated into the newly adopted prostitution statute, RCW 9A.88.030.
+The number of males and females arrested for prostitution over a 10-year period was as follows: 1974, 67 females, 1 male; 1973, 58 females, 1 male; 1972, 34 females, 3 males; 1971, 31 females, 4 males; 1970, 41 females, 1 male; 1969, 42 females, 4 males; 1968, 23 females, 1 male; 1967, 9 females, no males; 1966, 3 females, no males; 1965, 3 females, no males; 1964,1 female, no males.
