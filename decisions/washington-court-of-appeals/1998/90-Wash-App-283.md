@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16176-5-III"
 decided: "1998-01-13"
-citations: ["90 Wash. App. 283", "88 Wash. App. 1076"]
+citations: ["90 Wash. App. 283"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Christine A. McGreevy, Individually and as Personal Representative, R
 source_url: "https://static.case.law/wash-app/90/cases/0283-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428826
-cites_cases: ["100 Wn.2d 581", "107 Wn.2d 735", "108 Wn.2d 38", "112 Wn.2d 145", "117 Wn.2d 37", "120 Wn.2d 490", "121 Wn.2d 52", "122 Wn.2d 141", "124 Wn.2d 277", "124 Wn.2d 789", "128 Wn.2d 26", "128 Wn.2d 408", "129 Wn.2d 1002", "132 Wn.2d 507", "435 P.2d 24", "638 P.2d 1220", "66 Wn. App. 510", "675 P.2d 193", "71 Wn. App. 120", "72 Wn.2d 662", "733 P.2d 208", "738 P.2d 665", "74 Wn. App. 858", "76 Wn. App. 507", "768 P.2d 998", "79 Wn. App. 841", "80 Wn. App. 207", "811 P.2d 673", "82 Wn. App. 375", "82 Wn. App. 646", "82 Wn. App. 787", "832 P.2d 537", "844 P.2d 403", "847 P.2d 440", "857 P.2d 1053", "859 P.2d 1210", "876 P.2d 463", "876 P.2d 896", "881 P.2d 1020", "887 P.2d 449", "90 Wn. App. 283", "904 P.2d 731", "905 P.2d 1229", "908 P.2d 371", "908 P.2d 884", "917 P.2d 1086", "917 P.2d 1124", "919 P.2d 1268", "920 P.2d 192", "940 P.2d 252", "96 Wn.2d 806"]
+cites_cases: ["100 Wn.2d 581", "107 Wn.2d 735", "108 Wn.2d 38", "112 Wn.2d 145", "117 Wn.2d 37", "120 Wn.2d 490", "121 Wn.2d 52", "122 Wn.2d 141", "124 Wn.2d 277", "124 Wn.2d 789", "128 Wn.2d 26", "128 Wn.2d 408", "129 Wn.2d 1002", "132 Wn.2d 507", "435 P.2d 24", "638 P.2d 1220", "66 Wn. App. 510", "675 P.2d 193", "71 Wn. App. 120", "72 Wn.2d 662", "733 P.2d 208", "738 P.2d 665", "74 Wn. App. 858", "76 Wn. App. 507", "768 P.2d 998", "79 Wn. App. 841", "80 Wn. App. 207", "811 P.2d 673", "82 Wn. App. 375", "82 Wn. App. 646", "82 Wn. App. 787", "832 P.2d 537", "844 P.2d 403", "847 P.2d 440", "857 P.2d 1053", "859 P.2d 1210", "876 P.2d 463", "876 P.2d 896", "881 P.2d 1020", "887 P.2d 449", "904 P.2d 731", "905 P.2d 1229", "908 P.2d 371", "908 P.2d 884", "917 P.2d 1086", "917 P.2d 1124", "919 P.2d 1268", "920 P.2d 192", "940 P.2d 252", "96 Wn.2d 806"]
 ---
 
 # McGreevy v. Oregon Mutual Insurance
