@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "15911-6-III"
 decided: "1998-02-05"
-citations: ["90 Wash. App. 448", "89 Wash. App. 1007"]
+citations: ["90 Wash. App. 448"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Everett L. Ruse, Appellant, v. The Department of Labor and Industries
 source_url: "https://static.case.law/wash-app/90/cases/0448-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428815
-cites_cases: ["101 Wn.2d 1023", "108 Wn.2d 143", "109 Wn.2d 467", "111 Wn.2d 569", "130 Wn.2d 1009", "136 Wn.2d 1007", "192 Wash. 671", "202 P.2d 448", "216 P. 116", "32 Wn.2d 472", "36 Wn. App. 598", "45 Wn. App. 335", "574 P.2d 732", "676 P.2d 538", "725 P.2d 463", "736 P.2d 265", "74 P.2d 227", "745 P.2d 1295", "761 P.2d 618", "81 Wn. App. 123", "89 Wn.2d 639", "90 Wn. App. 448", "91 Okla. 39", "913 P.2d 402"]
+cites_cases: ["101 Wn.2d 1023", "108 Wn.2d 143", "109 Wn.2d 467", "111 Wn.2d 569", "130 Wn.2d 1009", "136 Wn.2d 1007", "192 Wash. 671", "202 P.2d 448", "216 P. 116", "32 Wn.2d 472", "36 Wn. App. 598", "45 Wn. App. 335", "574 P.2d 732", "676 P.2d 538", "725 P.2d 463", "736 P.2d 265", "74 P.2d 227", "745 P.2d 1295", "761 P.2d 618", "81 Wn. App. 123", "89 Wn.2d 639", "91 Okla. 39", "913 P.2d 402"]
 ---
 
 # Ruse v. Department of Labor & Industries
