@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9180-5-III"
 decided: "1989-07-27"
-citations: ["55 Wash. App. 569", "54 Wash. App. 1080"]
+citations: ["55 Wash. App. 569"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Austraverto R. Pimintel, Respo
 source_url: "https://static.case.law/wash-app/55/cases/0569-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8848225
-cites_cases: ["100 S. Ct. 741", "102 Wn.2d 449", "104 Wn.2d 1010", "107 Wn.2d 1", "113 Wn.2d 1022", "392 U.S. 1", "40 Wn. App. 459", "444 U.S. 1049", "444 U.S. 85", "55 Wn. App. 569", "62 L. Ed. 2d 737", "654 P.2d 96", "688 P.2d 146", "698 P.2d 1109", "726 P.2d 445", "98 Wn.2d 289"]
+cites_cases: ["100 S. Ct. 741", "102 Wn.2d 449", "104 Wn.2d 1010", "107 Wn.2d 1", "113 Wn.2d 1022", "392 U.S. 1", "40 Wn. App. 459", "444 U.S. 1049", "444 U.S. 85", "62 L. Ed. 2d 737", "654 P.2d 96", "688 P.2d 146", "698 P.2d 1109", "726 P.2d 445", "98 Wn.2d 289"]
 ---
 
 # State v. Pimintel
