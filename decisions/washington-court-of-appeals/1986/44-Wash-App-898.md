@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "6830-7-III; 7181-2-III"
 decided: "1986-04-08"
-citations: ["44 Wash. App. 898", "43 Wash. App. 1024"]
+citations: ["44 Wash. App. 898"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michigan National Bank, Respondent, v. Annikki Olson, Individually an
 source_url: "https://static.case.law/wash-app/44/cases/0898-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1801014
-cites_cases: ["100 Wn.2d 1026", "128 Misc. 2d 1003", "147 F. Supp. 330", "15 U.S.C. § 1643", "159 So. 2d 408", "2 Wn. App. 493", "22 Wn. App. 298", "224 F.2d 753", "31 A.L.R.3d 1413", "35 Wn. App. 1", "361 So. 2d 597", "381 P.2d 966", "399 P.2d 338", "432 P.2d 647", "438 P.2d 867", "44 Wn. App. 898", "441 P.2d 532", "452 So. 2d 319", "466 U.S. 937", "468 P.2d 691", "491 N.Y.S.2d 980", "491 N.Y.S.2d 981", "495 F.2d 1004", "588 P.2d 1231", "62 Wn.2d 195", "65 Wn.2d 700", "656 P.2d 1030", "664 P.2d 1299", "672 P.2d 73", "72 Wn.2d 259", "73 Wn.2d 434", "73 Wn.2d 880", "78 Wn.2d 994", "92 Wn.2d 1005", "98 Wn.2d 434"]
+cites_cases: ["100 Wn.2d 1026", "128 Misc. 2d 1003", "147 F. Supp. 330", "15 U.S.C. § 1643", "159 So. 2d 408", "2 Wn. App. 493", "22 Wn. App. 298", "224 F.2d 753", "31 A.L.R.3d 1413", "35 Wn. App. 1", "361 So. 2d 597", "381 P.2d 966", "399 P.2d 338", "432 P.2d 647", "438 P.2d 867", "441 P.2d 532", "452 So. 2d 319", "466 U.S. 937", "468 P.2d 691", "491 N.Y.S.2d 980", "491 N.Y.S.2d 981", "495 F.2d 1004", "588 P.2d 1231", "62 Wn.2d 195", "65 Wn.2d 700", "656 P.2d 1030", "664 P.2d 1299", "672 P.2d 73", "72 Wn.2d 259", "73 Wn.2d 434", "73 Wn.2d 880", "78 Wn.2d 994", "92 Wn.2d 1005", "98 Wn.2d 434"]
 ---
 
 # Michigan National Bank v. Olson
