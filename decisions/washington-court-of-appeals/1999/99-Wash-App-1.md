@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40968-9-I"
 decided: "1999-06-07"
-citations: ["99 Wash. App. 1", "95 Wash. App. 1072"]
+citations: ["99 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Richard Joseph Hirschfield, A
 source_url: "https://static.case.law/wash-app/99/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 180689
-cites_cases: ["103 Wn.2d 165", "109 Wn.2d 1002", "139 Wn.2d 1022", "448 U.S. 56", "459 U.S. 973", "48 Wn. App. 286", "626 F.2d 254", "646 F.2d 48", "646 P.2d 48", "674 F.2d 1382", "691 P.2d 197", "738 P.2d 705", "946 F.2d 1502", "99 Wn. App. 1"]
+cites_cases: ["103 Wn.2d 165", "109 Wn.2d 1002", "139 Wn.2d 1022", "448 U.S. 56", "459 U.S. 973", "48 Wn. App. 286", "626 F.2d 254", "646 F.2d 48", "646 P.2d 48", "674 F.2d 1382", "691 P.2d 197", "738 P.2d 705", "946 F.2d 1502"]
 ---
 
 # State v. Hirschfield
