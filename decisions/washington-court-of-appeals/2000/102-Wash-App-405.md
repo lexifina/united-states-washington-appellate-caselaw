@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43590-6-I"
 decided: "2000-08-07"
-citations: ["102 Wash. App. 405", "101 Wash. App. 1071"]
+citations: ["102 Wash. App. 405"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Brenda Rochelle Anderson, App
 source_url: "https://static.case.law/wash-app/102/cases/0405-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301368
-cites_cases: ["102 Wn. App. 405", "120 Wn.2d 585", "128 Wn.2d 805", "130 Wn.2d 48", "25 Wn. App. 621", "31 Wn. App. 460", "39 Wn. App. 550", "42 C.F.R. § 2", "557 P.2d 847", "56 Wn. App. 786", "612 P.2d 4", "643 P.2d 454", "694 P.2d 1113", "74 Wn. App. 209", "74 Wn. App. 600", "75 Wn. App. 295", "785 P.2d 850", "79 Wn. App. 723", "845 P.2d 971", "87 Wn. App. 39", "87 Wn.2d 870", "873 P.2d 546", "875 P.2d 1222", "877 P.2d 730", "904 P.2d 1167", "912 P.2d 1016", "921 P.2d 538", "940 P.2d 280", "99 Wn. App. 639", "994 P.2d 294"]
+cites_cases: ["120 Wn.2d 585", "128 Wn.2d 805", "130 Wn.2d 48", "25 Wn. App. 621", "31 Wn. App. 460", "39 Wn. App. 550", "42 C.F.R. § 2", "557 P.2d 847", "56 Wn. App. 786", "612 P.2d 4", "643 P.2d 454", "694 P.2d 1113", "74 Wn. App. 209", "74 Wn. App. 600", "75 Wn. App. 295", "785 P.2d 850", "79 Wn. App. 723", "845 P.2d 971", "87 Wn. App. 39", "87 Wn.2d 870", "873 P.2d 546", "875 P.2d 1222", "877 P.2d 730", "904 P.2d 1167", "912 P.2d 1016", "921 P.2d 538", "940 P.2d 280", "99 Wn. App. 639", "994 P.2d 294"]
 ---
 
 # State v. Anderson
