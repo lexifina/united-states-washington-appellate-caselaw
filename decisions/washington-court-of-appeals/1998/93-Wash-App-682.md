@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40238-2-I"
 decided: "1998-12-28"
-citations: ["93 Wash. App. 682", "93 Wash. App. 1040"]
+citations: ["93 Wash. App. 682"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Boss Logger, Inc., Appellant, v. Aetna Casualty & Surety Company, Res
 source_url: "https://static.case.law/wash-app/93/cases/0682-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 48911
-cites_cases: ["109 Wn.2d 282", "114 Wn.2d 677", "117 Wn.2d 37", "118 Wn.2d 852", "119 Wn.2d 724", "122 Wn.2d 157", "131 Wn.2d 133", "135 Wn.2d 799", "136 Wn.2d 214", "157 Wash. 597", "176 P.2d 359", "27 Wn.2d 92", "289 P. 527", "42 Wn. App. 771", "438 P.2d 581", "46 Wn. App. 616", "55 Wn. App. 157", "56 Wn. App. 499", "58 Wn. App. 588", "599 P.2d 1289", "713 P.2d 1127", "72 Wn. App. 302", "72 Wn. App. 580", "73 Wn.2d 348", "731 P.2d 1094", "745 P.2d 1", "776 P.2d 991", "784 P.2d 554", "79 Wn. App. 93", "790 P.2d 604", "794 P.2d 526", "811 P.2d 673", "82 Wn. App. 253", "827 P.2d 1000", "837 P.2d 1000", "856 P.2d 1095", "863 P.2d 1377", "871 P.2d 1066", "900 P.2d 595", "917 P.2d 577", "92 Wn.2d 576", "93 Wn. App. 682", "930 P.2d 288", "959 P.2d 657", "961 P.2d 358"]
+cites_cases: ["109 Wn.2d 282", "114 Wn.2d 677", "117 Wn.2d 37", "118 Wn.2d 852", "119 Wn.2d 724", "122 Wn.2d 157", "131 Wn.2d 133", "135 Wn.2d 799", "136 Wn.2d 214", "157 Wash. 597", "176 P.2d 359", "27 Wn.2d 92", "289 P. 527", "42 Wn. App. 771", "438 P.2d 581", "46 Wn. App. 616", "55 Wn. App. 157", "56 Wn. App. 499", "58 Wn. App. 588", "599 P.2d 1289", "713 P.2d 1127", "72 Wn. App. 302", "72 Wn. App. 580", "73 Wn.2d 348", "731 P.2d 1094", "745 P.2d 1", "776 P.2d 991", "784 P.2d 554", "79 Wn. App. 93", "790 P.2d 604", "794 P.2d 526", "811 P.2d 673", "82 Wn. App. 253", "827 P.2d 1000", "837 P.2d 1000", "856 P.2d 1095", "863 P.2d 1377", "871 P.2d 1066", "900 P.2d 595", "917 P.2d 577", "92 Wn.2d 576", "930 P.2d 288", "959 P.2d 657", "961 P.2d 358"]
 ---
 
 # Boss Logger, Inc. v. Aetna Casualty & Surety Co.
