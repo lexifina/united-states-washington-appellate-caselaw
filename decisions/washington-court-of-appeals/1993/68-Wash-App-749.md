@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29405-9-I"
 decided: "1993-01-19"
-citations: ["68 Wash. App. 749", "68 Wash. App. 1040"]
+citations: ["68 Wash. App. 749"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Thomas M. McDonagh, Appellant, v. The Department of Labor and Industr
 source_url: "https://static.case.law/wash-app/68/cases/0749-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725281
-cites_cases: ["101 Wn.2d 1023", "109 Wn.2d 467", "18 Wn. App. 674", "200 Wash. 674", "36 Wn. App. 598", "571 P.2d 229", "676 P.2d 538", "68 Wn. App. 749", "745 P.2d 1295", "94 P.2d 764"]
+cites_cases: ["101 Wn.2d 1023", "109 Wn.2d 467", "18 Wn. App. 674", "200 Wash. 674", "36 Wn. App. 598", "571 P.2d 229", "676 P.2d 538", "745 P.2d 1295", "94 P.2d 764"]
 ---
 
 # McDonagh v. Department of Labor & Industries
