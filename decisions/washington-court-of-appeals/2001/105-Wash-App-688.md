@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19222-9-III"
 decided: "2001-03-13"
-citations: ["105 Wash. App. 688", "105 Wash. App. 1018"]
+citations: ["105 Wash. App. 688"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Ancelmo Hernandez Lopez, Respo
 source_url: "https://static.case.law/wash-app/105/cases/0688-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358561
-cites_cases: ["105 Wn. App. 688", "112 Wn.2d 867", "121 Wn.2d 333", "128 Wn.2d 98", "136 Wn.2d 619", "139 Wn.2d 1010", "139 Wn.2d 320", "144 Wn.2d 1016", "37 Wn. App. 131", "529 U.S. 1130", "618 P.2d 99", "622 P.2d 1262", "678 P.2d 827", "774 P.2d 1211", "851 P.2d 654", "905 P.2d 346", "91 Wn. App. 581", "94 Wn.2d 634", "95 Wn.2d 83", "958 P.2d 1028", "96 Wn. App. 167", "96 Wn. App. 25", "964 P.2d 1187", "97 Wn. App. 273", "978 P.2d 1121", "980 P.2d 240", "982 P.2d 1212", "987 P.2d 63"]
+cites_cases: ["112 Wn.2d 867", "121 Wn.2d 333", "128 Wn.2d 98", "136 Wn.2d 619", "139 Wn.2d 1010", "139 Wn.2d 320", "144 Wn.2d 1016", "37 Wn. App. 131", "529 U.S. 1130", "618 P.2d 99", "622 P.2d 1262", "678 P.2d 827", "774 P.2d 1211", "851 P.2d 654", "905 P.2d 346", "91 Wn. App. 581", "94 Wn.2d 634", "95 Wn.2d 83", "958 P.2d 1028", "96 Wn. App. 167", "96 Wn. App. 25", "964 P.2d 1187", "97 Wn. App. 273", "978 P.2d 1121", "980 P.2d 240", "982 P.2d 1212", "987 P.2d 63"]
 ---
 
 # State v. Lopez
