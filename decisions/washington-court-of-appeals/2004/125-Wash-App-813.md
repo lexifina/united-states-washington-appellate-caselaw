@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53231-6-I"
 decided: "2004-12-20"
-citations: ["125 Wash. App. 813", "124 Wash. App. 1041"]
+citations: ["125 Wash. App. 813"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Lynette Katare, Respondent, and Braj
 source_url: "https://static.case.law/wash-app/125/cases/0813-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270089
-cites_cases: ["107 Wn. App. 650", "109 Wn. App. 167", "120 Wn. App. 199", "121 Wn.2d 795", "125 Wn. App. 813", "133 Wn.2d 39", "137 Wn.2d 1", "144 Wn.2d 516", "144 Wn.2d 91", "147 Wn.2d 1026", "155 Wn.2d 1005", "178 N.J. 34", "241 Wis. 2d 498", "26 P.3d 257", "27 P.3d 1246", "29 P.3d 689", "320 N.W.2d 119", "34 P.3d 877", "361 N.J. Super. 135", "455 U.S. 745", "530 U.S. 57", "62 P.3d 889", "64 Wn. App. 661", "69 Wn. App. 324", "72 Wn. App. 800", "826 P.2d 1076", "828 P.2d 565", "834 A.2d 406", "84 P.3d 1253", "848 P.2d 1281", "85 Wn. App. 345", "854 P.2d 629", "866 P.2d 635", "88 Wn. App. 662", "932 P.2d 722", "940 P.2d 1362", "967 P.2d 982", "969 P.2d 21", "98 Wn. App. 85", "988 P.2d 496"]
+cites_cases: ["107 Wn. App. 650", "109 Wn. App. 167", "120 Wn. App. 199", "121 Wn.2d 795", "133 Wn.2d 39", "137 Wn.2d 1", "144 Wn.2d 516", "144 Wn.2d 91", "147 Wn.2d 1026", "155 Wn.2d 1005", "178 N.J. 34", "241 Wis. 2d 498", "26 P.3d 257", "27 P.3d 1246", "29 P.3d 689", "320 N.W.2d 119", "34 P.3d 877", "361 N.J. Super. 135", "455 U.S. 745", "530 U.S. 57", "62 P.3d 889", "64 Wn. App. 661", "69 Wn. App. 324", "72 Wn. App. 800", "826 P.2d 1076", "828 P.2d 565", "834 A.2d 406", "84 P.3d 1253", "848 P.2d 1281", "85 Wn. App. 345", "854 P.2d 629", "866 P.2d 635", "88 Wn. App. 662", "932 P.2d 722", "940 P.2d 1362", "967 P.2d 982", "969 P.2d 21", "98 Wn. App. 85", "988 P.2d 496"]
 ---
 
 # In re the Marriage of Katare
