@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42595-1-I"
 decided: "1999-12-13"
-citations: ["98 Wash. App. 739", "98 Wash. App. 1027"]
+citations: ["98 Wash. App. 739"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Terry Raymond, et al., Appellants, v. Pacific Chemical, et al., Respo
 source_url: "https://static.case.law/wash-app/98/cases/0739-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155963
-cites_cases: ["102 Wn.2d 219", "111 Wn.2d 374", "115 Wn.2d 657", "116 Wn.2d 659", "118 Wn.2d 512", "123 Wn.2d 819", "130 Wn.2d 58", "131 A.L.R. Fed. 665", "131 Wn.2d 133", "177 F.3d 542", "18 Cal. 4th 640", "29 U.S.C. § 630", "29 U.S.C. §§ 621-634", "30 F.3d 507", "42 Wn. App. 491", "431 P.2d 216", "45 F.3d 402", "55 F.3d 1276", "68 Wn. App. 260", "685 P.2d 1081", "71 Wn.2d 874", "713 P.2d 116", "72 F.3d 50", "757 P.2d 1384", "76 Cal. Rptr.2d 499", "76 F.3d 651", "801 P.2d 222", "807 P.2d 830", "826 P.2d 664", "842 P.2d 985", "872 P.2d 516", "89 Wn. App. 588", "92 Wn. App. 359", "922 P.2d 788", "930 P.2d 288", "950 P.2d 16", "957 P.2d 1333", "966 P.2d 921", "98 Wn. App. 349", "98 Wn. App. 739", "989 P.2d 1187", "991 F.2d 583"]
+cites_cases: ["102 Wn.2d 219", "111 Wn.2d 374", "115 Wn.2d 657", "116 Wn.2d 659", "118 Wn.2d 512", "123 Wn.2d 819", "130 Wn.2d 58", "131 A.L.R. Fed. 665", "131 Wn.2d 133", "177 F.3d 542", "18 Cal. 4th 640", "29 U.S.C. § 630", "29 U.S.C. §§ 621-634", "30 F.3d 507", "42 Wn. App. 491", "431 P.2d 216", "45 F.3d 402", "55 F.3d 1276", "68 Wn. App. 260", "685 P.2d 1081", "71 Wn.2d 874", "713 P.2d 116", "72 F.3d 50", "757 P.2d 1384", "76 Cal. Rptr.2d 499", "76 F.3d 651", "801 P.2d 222", "807 P.2d 830", "826 P.2d 664", "842 P.2d 985", "872 P.2d 516", "89 Wn. App. 588", "92 Wn. App. 359", "922 P.2d 788", "930 P.2d 288", "950 P.2d 16", "957 P.2d 1333", "966 P.2d 921", "98 Wn. App. 349", "989 P.2d 1187", "991 F.2d 583"]
 ---
 
 # Raymond v. Pacific Chemical
