@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "38185-7-I"
+decided: "1997-01-27"
+citations: ["84 Wash. App. 808"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. J.W., Appellant."]
+source_url: "https://static.case.law/wash-app/84/cases/0808-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 121386
+cites_cases: ["116 Wn.2d 1029", "119 Wn.2d 572", "121 Wn.2d 707", "466 U.S. 668", "55 Wn. App. 13", "60 Wn. App. 529", "776 P.2d 718", "803 P.2d 1355", "835 P.2d 213", "854 P.2d 1042"]
+---
+
+# State v. J.W.
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+J.W. appeals from a juvenile order of disposition entered following his plea of guilty to second degree rape. Concluding that his standard range disposition is not appealable and that he was not denied effective assistance of counsel, we accelerate review under RAP 18.12 and affirm.
+FACTS
+J.W., who was 15 years old at the time of the charged incident, gave a statement to police that was consistent with the victim’s account. While walking to school with a 14-year-old female classmate, he took her to a place he called his hideout. There, he began to act "weird,” telling her he had an "other side” to his personality that would sometimes take over, that he could be "explosive and capable of killing people” and that she should do what he said. He pretended this "other side” was taking over, told her to remove her clothes, began having intercourse, then stopped and jumped up because he knew that it was wrong. Subsequently, he pleaded guilty to second degree rape.
+J.W.’s troubled history is reflected in the record, including accounts of his physical and sexual abuse by his stepfather, several foster care placements, and several years of therapy. J.W. admitted that in 1993 he tied his sister to a tree and masturbated in front of her. Disposition on this charge is not clear from the record. In 1994 he was suspended from school for possessing a knife and threatening a student.
+J.W. was referred to Daniel DeWaelsche for a psycho-sexual evaluation and treatment plan. Although he considered J.W. a "marginal candidate,” he cautiously recommended a special sex offender disposition alternative (SSODA) term with ten specific conditions. The primary conditions were placement with his current foster parents and sex offender treatment by certified providers; constant supervision, including a "case aide” who would supervise [J.W.j’s whereabouts at school, "remain within visual contact with [J.W.] throughout the day,” and fill in when his foster parents were unavailable for supervision; and transportation to and from school by his foster parents or case aide.
+In February 1996, before the disposition hearing, De Waelsche sent a progress letter to J.W.’s probation officer, changing his recommendation. He stated that J.W.’s involvement in treatment had been "minimal,” he was very reluctant to discuss his behavior, and his recent polygraph examination indicated possible deception in answers to two treatment-related questions. DeWaelsche concluded from this and other information that J.W. did not appreciate the seriousness of his actions and that adequate resources were not being provided to monitor J.W. in the community. He therefore recommended that he be confined, with evaluation after release to determine the extent of supervision needed.
+At the disposition hearing, J.W.’s counsel recommended 30 days’ detention, followed by a SSODA term. The standard range for the instant offense was 52-65 weeks. Two juvenile probation officers recommended against a SSODA on the grounds that the level of supervision indicated was not feasible and J.W. posed a significant danger to the community. The State concurred in this recommendation.
+In its oral decision the court stated it had "agonized” over the case. The judge stated her first concern was that DeWaelsche, who originally recommended the SSODA, considered J.W. a "marginal candidate” for the SSODA. She voiced doubts about the likelihood of successful treatment and the State’s ability to provide all the services recommended by DeWaelsche. Also, in view of J.W.’s escalating offenses, he posed a danger to the community. The judge then imposed the standard range term of 52-65 weeks. J.W. appeals this decision.
+DECISION
+Whether to employ a SSODA is a decision vested in the juvenile court’s discretion. See State v. Ziegler, 60 Wn. App. 529, 534, 803 P.2d 1355, review denied, 116 Wn.2d 1029 (1991) (use of the adult version of SSODA is discretionary). J.W. contends the court abused its discretion in denying the SSODA because there was no basis for the court’s reasons.
+First, we examine the question of appealability. The disposition of a juvenile offender is appealable in the same manner as criminal cases. RCW 13.04.033. A criminal defendant is permitted to appeal a standard range sentence only if the sentencing court failed to follow a procedure required by the Sentencing Reform Act. State v. Mail, 121 Wn.2d 707, 712, 854 P.2d 1042 (1993). Simply arguing that the court abused its discretion in imposing a standard range sentence does not raise an appealable issue. State v. Onefrey, 119 Wn.2d 572, 574 n.1, 835 P.2d 213 (1992). The parties agree that the principles in adult sentencing are applicable here. J.W. does not argue the trial court committed a procedural error. Because he argues only that the trial court abused its discretion in imposing a standard range disposition rather than a SSODA, the sentence is not appealable. Furthermore, we reject J.W.’s argument on its merits because the trial court’s reasons for denying the SSODA are amply supported in the record. We find no abuse of discretion.
+Next, without citing pertinent authority, J.W. argues his counsel’s failure to obtain information about additional funding sources for supervision constituted ineffective assistance of counsel. This argument fails because he does not establish either prong of the effective assistance of counsel test: deficient performance by counsel and resulting prejudice. Strickland v. Washington, 466 U.S. 668, 80 L. Ed. 2d 674, 104 S. Ct. 2052 (1984). First, stating only that it is unclear what steps counsel took to discover such resources, he fails to set forth a factual basis for an ineffectiveness claim. Second, he does not allege that resources in fact exist to support the round-the-clock supervision recommended by the expert. Finally, the court expressed its doubt that even if all services recommended were provided, J.W. would succeed in treatment, a significant factor in deciding against the SSODA. Thus J.W. has not shown that counsel performed deficiently or that he was prejudiced thereby.
+Accordingly, we affirm the order of disposition.
+RCW 13.40.160(5).
+State v. Hays, 55 Wn. App. 13, 776 P.2d 718 (1989), cited by the appellant, which addresses the propriety of imposing a standard range sentence instead of a special sex offender sentencing alternative, was decided long before State v. Mail and State v. Onefrey.
