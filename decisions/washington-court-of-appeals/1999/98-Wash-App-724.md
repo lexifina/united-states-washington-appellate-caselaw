@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39881-4-I"
 decided: "1999-12-13"
-citations: ["98 Wash. App. 724", "98 Wash. App. 1027"]
+citations: ["98 Wash. App. 724"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Darrell Cloud, et al., Appellants, v. John Summers, et al., Responden
 source_url: "https://static.case.law/wash-app/98/cases/0724-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 155679
-cites_cases: ["109 Wn.2d 504", "134 Wn.2d 267", "134 Wn.2d 491", "135 Wn.2d 255", "138 Wn.2d 699", "22 F.3d 713", "25 F.3d 800", "32 Wn. App. 794", "42 U.S.C. § 1983", "451 F.2d 1291", "471 U.S. 261", "487 U.S. 131", "494 F. Supp. 260", "507 P.2d 902", "610 N.E.2d 246", "651 P.2d 222", "704 F.2d 1141", "71 Wn. App. 481", "745 P.2d 858", "8 Wn. App. 519", "860 F. Supp. 1338", "860 P.2d 407", "920 F.2d 446", "948 P.2d 1291", "951 P.2d 761", "956 P.2d 312", "98 Wn. App. 724", "985 P.2d 262"]
+cites_cases: ["109 Wn.2d 504", "134 Wn.2d 267", "134 Wn.2d 491", "135 Wn.2d 255", "138 Wn.2d 699", "22 F.3d 713", "25 F.3d 800", "32 Wn. App. 794", "42 U.S.C. § 1983", "451 F.2d 1291", "471 U.S. 261", "487 U.S. 131", "494 F. Supp. 260", "507 P.2d 902", "610 N.E.2d 246", "651 P.2d 222", "704 F.2d 1141", "71 Wn. App. 481", "745 P.2d 858", "8 Wn. App. 519", "860 F. Supp. 1338", "860 P.2d 407", "920 F.2d 446", "948 P.2d 1291", "951 P.2d 761", "956 P.2d 312", "985 P.2d 262"]
 ---
 
 # Cloud v. Summers
