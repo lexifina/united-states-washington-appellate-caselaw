@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27350-1-II"
 decided: "2003-01-17"
-citations: ["115 Wash. App. 780", "115 Wash. App. 1009"]
+citations: ["115 Wash. App. 780"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Floating Homes Association, Appellant, v. The Department of Fish and 
 source_url: "https://static.case.law/wash-app/115/cases/0780-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 221903
-cites_cases: ["114 Wn. App. 174", "115 Wn. App. 780", "136 Wn.2d 693", "138 Wn.2d 9", "143 Wn.2d 1018", "145 Wn.2d 33", "150 Wn.2d 1011", "1996 WL 538822", "268 F.3d 898", "289 P.2d 203", "32 P.3d 258", "47 Wn.2d 629", "470 U.S. 821", "492 F.2d 641", "501 P.2d 594", "502 P.2d 327", "61 P.3d 332", "658 P.2d 648", "70 Wn. App. 471", "72 Wn. App. 862", "78 Wn. App. 778", "81 Wn.2d 292", "81 Wn.2d 312", "855 P.2d 284", "866 P.2d 687", "896 P.2d 1292", "965 P.2d 619", "97 Wn. App. 84", "978 P.2d 481", "98 Wn.2d 690", "982 P.2d 1179"]
+cites_cases: ["114 Wn. App. 174", "136 Wn.2d 693", "138 Wn.2d 9", "143 Wn.2d 1018", "145 Wn.2d 33", "150 Wn.2d 1011", "1996 WL 538822", "268 F.3d 898", "289 P.2d 203", "32 P.3d 258", "47 Wn.2d 629", "470 U.S. 821", "492 F.2d 641", "501 P.2d 594", "502 P.2d 327", "61 P.3d 332", "658 P.2d 648", "70 Wn. App. 471", "72 Wn. App. 862", "78 Wn. App. 778", "81 Wn.2d 292", "81 Wn.2d 312", "855 P.2d 284", "866 P.2d 687", "896 P.2d 1292", "965 P.2d 619", "97 Wn. App. 84", "978 P.2d 481", "98 Wn.2d 690", "982 P.2d 1179"]
 ---
 
 # Floating Homes Ass'n v. Department of Fish & Wildlife
