@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19918-1-II"
 decided: "1997-05-16"
-citations: ["86 Wash. App. 761", "86 Wash. App. 1013"]
+citations: ["86 Wash. App. 761"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, on the Relation of Mary Ruth Campbell, Respo
 source_url: "https://static.case.law/wash-app/86/cases/0761-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1278888
-cites_cases: ["104 Wn.2d 142", "108 Wn.2d 299", "112 Wn.2d 612", "116 Wn.2d 39", "133 Wn.2d 1019", "150 Wash. 249", "25 Wn. App. 476", "27 Wn. App. 449", "272 P. 714", "368 F.2d 354", "405 F.2d 833", "56 Wn. App. 499", "573 P.2d 1302", "58 Wn. App. 588", "599 P.2d 1289", "610 P.2d 379", "618 P.2d 533", "645 P.2d 1082", "647 P.2d 1030", "702 P.2d 1179", "738 P.2d 254", "75 Wn. App. 317", "772 P.2d 1013", "784 P.2d 554", "794 P.2d 526", "802 P.2d 1353", "82 Wn. App. 116", "86 Wn. App. 761", "877 P.2d 724", "89 Wn.2d 539", "915 P.2d 544", "92 Wn.2d 576", "97 Wn.2d 445", "97 Wn.2d 614"]
+cites_cases: ["104 Wn.2d 142", "108 Wn.2d 299", "112 Wn.2d 612", "116 Wn.2d 39", "133 Wn.2d 1019", "150 Wash. 249", "25 Wn. App. 476", "27 Wn. App. 449", "272 P. 714", "368 F.2d 354", "405 F.2d 833", "56 Wn. App. 499", "573 P.2d 1302", "58 Wn. App. 588", "599 P.2d 1289", "610 P.2d 379", "618 P.2d 533", "645 P.2d 1082", "647 P.2d 1030", "702 P.2d 1179", "738 P.2d 254", "75 Wn. App. 317", "772 P.2d 1013", "784 P.2d 554", "794 P.2d 526", "802 P.2d 1353", "82 Wn. App. 116", "877 P.2d 724", "89 Wn.2d 539", "915 P.2d 544", "92 Wn.2d 576", "97 Wn.2d 445", "97 Wn.2d 614"]
 ---
 
 # State ex rel. Campbell v. Cook
