@@ -1,0 +1,39 @@
+---
+court: "Washington Court of Appeals"
+docket: "30622-1-II"
+decided: "2004-10-19"
+citations: ["123 Wash. App. 889"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Marriage of Beauford Myers, Appellant, and Paula Elston, Respondent."]
+source_url: "https://static.case.law/wash-app/123/cases/0889-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1117982
+cites_cases: ["110 Wn. App. 370", "116 Wn. App. 625", "126 Wn.2d 36", "150 Wn.2d 1009", "150 Wn.2d 337", "40 P.3d 1192", "65 Wn. App. 356", "67 P.3d 500", "77 P.3d 1174", "79 Wn. App. 436", "828 P.2d 634", "891 P.2d 725", "903 P.2d 470"]
+---
+
+# In re the Marriage of Myers
+
+## Majority (Bridgewater, J.)
+
+Bridgewater, J.
+Beauford Myers appeals a Thurston County Superior Court order awarding him 68 days of make-up visitation, but no attorney fees or statutory penalties. Myers contends he is entitled to 275 make-up days, mandatory attorney fees, and a $100 penalty against Paula Myers Elston per RCW 26.09.160(2)(b). Finding the statute requires mandatory attorney fees and penalties upon a finding of contempt, we reverse.
+After a long and contentious divorce between Myers and Elston, a final parenting plan involving their two daughters was entered on May 8, 2000. The visitation was contingent upon Myers completing a workshop called “Helping Children Through Divorce” and filing a certificate of completion with the court. 4 Clerk’s Papers at 682. Myers filed a certificate of completion from a King County Superior Court class on August 11, 2000.
+Myers filed an order to show cause for make-up visitation days and contempt on January 15, 2003. In his declaration, Myers listed dates from June 2000 to November 2002 where he was denied visitation. Included with the motion was a handwritten statement from the Pierce County Sheriff Department regarding one incident on June 3, 2000. The statement described a confrontation between Myers and Elston’s boyfriend about the whereabouts of the children for visitation. Myers was told the children were not coming as he had not yet filed his certificate of completion.
+At a February 18, 2003 hearing, Elston claimed she had been unaware of Myers completing the mandatory workshop. She contends she was not shown the certificate in the file until December of 2002. The trial court found Elston in contempt, ordered seven days of jail, and allowed her to purge the sanction by starting visitation the following weekend. No monetary sanctions or attorney fees were awarded to Myers.
+Myers moved for make-up visitation on April 3, 2003, as well as adoption of a temporary parenting plan, change of custody, appointment of a guardian ad litem (GAL), and physical and mental examination of persons. Myers brought this motion in front of a commissioner. A GAL was appointed, but the commissioner denied the motion on make-up visitation, stating it needed to be heard by the trial court. The parties went back to the court on May 16, 2003. They were told the order from February would stand, but if there was confusion as to the number of missed visitation days, that issue would be argued at another hearing. On June 16, 2003, the court ordered 68 make-up visitation days, and denied any reconsideration of previous contempt or sanctions.
+Punishment for contempt of court is within the discretion of the trial court and will not be disturbed on appeal absent an abuse of discretion. Moreman v. Butcher, 126 Wn.2d 36, 40, 891 P.2d 725 (1995). A trial court abuses its discretion by exercising it on untenable grounds or for
+untenable reasons. In re Marriage of James, 79 Wn. App. 436, 440, 903 P.2d 470 (1995).
+We review the trial court’s factual findings for substantial evidence and then determine whether the findings support the conclusions of law. A parent seeking a contempt order to compel another parent to comply with a parenting plan must establish the contemnor’s bad faith by a preponderance of the evidence. In re James, 79 Wn. App. at 442. If the court finds that a parent has, in bad faith, failed to comply with the parenting plan, “the court shall find the parent in contempt of court.” RCW 26.09.160(2)(b) (emphasis added). Then, “[u]pon a finding of contempt, the court shall order” the contemnor (1) to provide additional visitation time to make up for the missed time, (2) pay the other parent’s attorney fees and costs, and (3) pay the other parent a penalty of at least one hundred dollars. RCW 26.09.160(2)(b)(i)-(iii) (emphasis added). At its discretion, “[t]he court may also order the parent to be imprisoned.” RCW 26.09.160(2)(b) (emphasis added). Other than sending a parent to jail, punishment for contempt in this context is mandatory, not discretionary. See In re Marriage of Wolk, 65 Wn. App. 356, 359, 828 P.2d 634 (1992); In re Marriage of Rideout, 110 Wn. App. 370, 376, 40 P.3d 1192 (2002), aff’d, 150 Wn.2d 337, 77 P.3d 1174 (2003).
+A parent who refuses to perform the duties imposed by a parenting plan is per se acting in bad faith. RCW 26.09.160(1). Parents are deemed to have the ability to comply with orders establishing residential provisions and the burden is on a noncomplying parent to establish by a preponderance of the evidence that he or she lacked the ability to comply with the residential provisions of a court-ordered parenting plan or had a reasonable excuse for noncompliance. See RCW 26.09.160(4); In re Marriage of Rideout, 150 Wn.2d 337, 352-53, 77 P.3d 1174 (2003).
+The court’s determination of contempt was based on Elston’s failure to comply with the parenting plan. Elston mistakenly believed the certificate required by Myers had not been filed. This argument is not persuasive. The requisite certificate had been filed more than two years prior to the contempt proceedings, and Elston was continuing to withhold the children from visitation. As Elston acted in bad faith, the court was compelled to enter a contempt order, and we must uphold the order. The decision to order no attorney fees or penalties was contrary to the language of RCW 26.09.160. Therefore, we reverse and remand back to the trial court to order attorney fees and penalties in accordance with this decision.
+Elston requests this court award her $10,000 in attorney fees. She cites no law to support this award. The rule regarding attorney fees on appeal requires more than a bald request for such fees. RAP 18.1(b); Grundy v. Brack Family Trust, 116 Wn. App. 625, 636, 67 P.3d 500, review granted, 150 Wn.2d 1009 (2003). We award no fees.
+Reversed.
+Armstrong and Van Deren, JJ., concur.
+RCW 26.09.160(2)(b) provides:
+If, based on all the facts and circumstances, the court finds after hearing that the parent, in bad faith, has not complied with the order establishing residential provisions for the child, the court shall find the parent in contempt of court. Upon a finding of contempt, the court shall order:
+(i) The noncomplying parent to provide the moving party additional time with the child. The additional time shall be equal to the time missed with the child, due to the parent’s noncompliance;
+(ii) The parent to pay, to the moving party, all court costs and reasonable attorneys’ fees incurred as a result of the noncompliance, and any reasonable expenses incurred in locating or returning a child; and
+(iii) The parent to pay, to the moving party, a civil penalty, not less than the sum of one hundred dollars.
+The court may also order the parent to be imprisoned in the county jail, if the parent is presently able to comply with the provisions of the court-ordered parenting plan and is presently unwilling to comply. The parent may be imprisoned until he or she agrees to comply with the order, but in no event for more than one hundred eighty days.
