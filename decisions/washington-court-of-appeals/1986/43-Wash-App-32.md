@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13508-2-I"
 decided: "1986-01-15"
-citations: ["43 Wash. App. 32", "42 Wash. App. 1056"]
+citations: ["43 Wash. App. 32"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Margo E. Waid, Appellant, v. The Department of Licensing, Respondent.
 source_url: "https://static.case.law/wash-app/43/cases/0032-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1806469
-cites_cases: ["15 Wn. App. 656", "16 Wn. App. 398", "20 Wn. App. 16", "27 Wn. App. 214", "33 Wn. App. 853", "34 Wn. App. 132", "43 Wn. App. 32", "509 P.2d 999", "516 P.2d 205", "551 P.2d 145", "556 P.2d 561", "578 P.2d 1325", "616 P.2d 688", "658 P.2d 53", "659 P.2d 548", "8 Wn. App. 877", "83 Wn.2d 121"]
+cites_cases: ["15 Wn. App. 656", "16 Wn. App. 398", "20 Wn. App. 16", "27 Wn. App. 214", "33 Wn. App. 853", "34 Wn. App. 132", "509 P.2d 999", "516 P.2d 205", "551 P.2d 145", "556 P.2d 561", "578 P.2d 1325", "616 P.2d 688", "658 P.2d 53", "659 P.2d 548", "8 Wn. App. 877", "83 Wn.2d 121"]
 ---
 
 # Waid v. Department of Licensing
