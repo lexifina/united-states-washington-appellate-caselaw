@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32953-7-I"
 decided: "1995-02-27"
-citations: ["77 Wash. App. 339", "77 Wash. App. 1009"]
+citations: ["77 Wash. App. 339"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Robert Everett Drew, Appellan
 source_url: "https://static.case.law/wash-app/77/cases/0339-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415963
-cites_cases: ["121 Wn.2d 1023", "68 Wn. App. 610", "77 Wn. App. 339", "844 P.2d 1038"]
+cites_cases: ["121 Wn.2d 1023", "68 Wn. App. 610", "844 P.2d 1038"]
 ---
 
 # State v. Drew
