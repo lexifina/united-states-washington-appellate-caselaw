@@ -1,0 +1,41 @@
+---
+court: "Washington Court of Appeals"
+docket: "12675-7-III"
+decided: "1994-02-03"
+citations: ["72 Wash. App. 847"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Patrick Witherspoon, Respondent, v. The Department of Labor and Industries, Defendant, IBP, Inc., Appellant."]
+source_url: "https://static.case.law/wash-app/72/cases/0847-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1741806
+cites_cases: ["109 Wn.2d 467", "70 Wn. App. 239", "745 P.2d 1295", "852 P.2d 319"]
+---
+
+# Witherspoon v. Department of Labor & Industries
+
+## Majority (Thompson, C.J.)
+
+Thompson, C.J.
+IBP, Inc. (Iowa Beef Processors) appeals a superior court judgment on a jury verdict which overturned the decision of the Board of Industrial Insurance Appeals denying Patrick Witherspoon workers' compensation. The jury found that Mr. Witherspoon contracted meningitis from a fellow employee while both were working at IBP, and that the meningitis occurred naturally as a condition of his employment. We reverse.
+Mr. Witherspoon began working for IBP in late 1986. During the second week of January 1987, he developed flu-like symptoms: coughing, headaches, lightheadedness, sluggishness, and chills. He was admitted to the hospital, where his condition was diagnosed as spinal meningitis. Mr. Wither-spoon was hospitalized for 2 weeks and was unable to return to work until September of 1987.
+Mr. Witherspoon filed a claim for workers' compensation which was denied by the Department of Labor and Industries in February 1987. He appealed that decision to the Board of Industrial Insurance Appeals. An industrial insurance judge conducted a hearing, and issued a "Proposed Decision and Order" recommending that IBP's motion for dismissal of the claim be granted. On January 2, 1991, the Board adopted the proposed decision and order and denied Mr. Witherspoon's petition for review.
+Mr. Witherspoon appealed the Board's action to superior court. The trial de novo took place in June 1992. The jury heard the testimony that was presented at the original board hearing.
+Mr. Witherspoon testified that he was hired by IBP sometime between Thanksgiving and Christmas 1986. He worked with other employees in the slaughterhouse at IBP's plant. He also shared the locker room and kitchen with fellow employees. He stated that an employee coughed in his face while they were in the locker room. Within a couple of days, Mr. Witherspoon felt ill. His treating physician, Dr. Frank Cole, determined he was suffering from spinal meningitis.
+David Simpson is also employed by IBP. He remembered an employee named Rex who worked in the slaughterhouse with Mr. Witherspoon. Rex had the same symptoms as Mr. Witherspoon. Rex was terminated by IBP because he did not show up for work and neglected to call in advance to notify management he was ill and could not work.
+Dr. Cole testified that the bacteria which causes spinal meningitis enters the body through the mouth and/or the nasal cavity. In his opinion, the probable source of Mr. With-erspoon's infection was the employee at IBP who coughed into his face. However, he admitted on cross examination that people may be carriers of the bacteria without having the acute symptoms associated with the disease.
+The Department presented the testimony of Dr. George Herbert, the public health officer for Walla Walla County. He stated there were two persons working at IBP in late 1986 and early 1987 who had reported cases of meningitis. He also stated that the 40 degrees at which the beef plant operated was too cold for the bacteria to survive; thus, any possible transmission of the bacteria would have had to occur in the locker room or the kitchen. In his opinion, "it would be very difficult to pinpoint an exact location" in which Mr. Witherspoon was exposed to the bacteria. It "usually" requires an exposure of "hours" to transfer the bacteria from one person to another. Dr. Robert Conn of the Benton County District Health Department testified that someone coughing in another's face on one isolated occasion would not be a significant exposure.
+The hearing officer held that Mr. Witherspoon's condition did not arise "naturally" from his employment. Specifically, "the only inference that can be drawn from the evidence presented ... is that his . . . exposure in the workplace was merely coincidental." The hearing officer quoted Dr. Cole's testimony that meningitis "occurs almost everyplace commonly".
+Following trial de novo in superior court, the jury returned a verdict reversing the Board. In a special interrogatory, the jury found that Mr. Witherspoon's condition arose "naturally" as a consequence of his employment at IBP. IBP unsuccessfully moved for judgment notwithstanding the verdict.
+Occupational disease is defined in RCW 51.08.140 as "such disease or infection as arises naturally and proximately out of employment . . .". Dennis v. Department of Labor & Indus., 109 Wn.2d 467, 481, 745 P.2d 1295 (1987) defines "naturally" in the following manner:
+[A] worker must establish that his or her occupational disease came about as a matter of course as a natural consequence or incident of distinctive conditions of his or her particular employment. The conditions need not be peculiar to, nor unique to, the worker's particular employment. Moreover, the focus is upon conditions giving rise to the occupational disease . . . and not upon whether the disease itself is common to that particular employment. The worker . . . must show that his or her particular work conditions more probably caused his or her disease . . . than conditions in everyday life or all employments in general; the disease . . . must be a natural incident of conditions of that worker's particular employment. Finally, the conditions causing the disease . . . must be conditions of employment, that is, conditions of the worker's particular occupation as opposed to conditions coincidentally occurring in his or her workplace.
+Jury instruction 12 quotes the Dennis definition of "naturally" almost verbatim. IBP does not quarrel with the definition; it argues that, as a matter of law, the evidence here fails the Dennis test.
+We agree with IBP. Mr. Witherspoon's meningitis did not come about "as a matter of course as a natural consequence or incident of distinctive conditions of his . •. . employment" at IBP. Dennis, at 481. Rather, the medical testimony was that meningitis is spread by contact with airborne droplets from the mouth and the nose of an infected person. There was no showing that the conditions of Mr. Witherspoon's employment caused him to be in contact with the bacteria any more than he would be in ordinary life or other employments. His exposure to meningitis in the workplace as opposed to elsewhere was merely coincidental and not a result of any distinctive conditions of his employment with IBP. Compare Gast v. Department of Labor & Indus., 70 Wn. App. 239, 243, 852 P.2d 319 (1993) (trial court properly determined as a matter of law that rumors, innuendos, and inappropriate comments by co-workers are not distinctive conditions of employment).
+The trial court erred when it denied IBP's motion for judgment n.o.v.
+Reversed and remanded for entry of judgment in favor of IBP.
+Munson and Sweeney, JJ., concur.
+IBP is a self-insured employer for workers' compensation purposes.
+Previously, IBP had moved for summary judgment and directed verdict at the close of Mr. Witherspoon's case, and also at the close of all the evidence.
+Instruction 12 reads: "[A] worker must establish that his . . . disease came about as a matter of course as a natural consequence or incident of distinctive conditions of his or her particular employment. . . . The focus is upon conditions giving rise to the occupational disease and not upon whether the disease itself is common to that particular employment. The worker must show that his or her particular work conditions more probably caused his or her disease than conditions in everyday life or all employments in general."
+Because our holding disposes of the case, we do not reach IBP's remaining assignments of error.
