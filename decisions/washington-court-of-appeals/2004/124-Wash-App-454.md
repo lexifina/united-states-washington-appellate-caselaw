@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29963-1-II; 30747-2-II"
 decided: "2004-09-14"
-citations: ["124 Wash. App. 454", "123 Wash. App. 1017"]
+citations: ["124 Wash. App. 454"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Joseph J. Kirby, et al., Appellants, v. The City of Tacoma, et al., R
 source_url: "https://static.case.law/wash-app/124/cases/0454-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684023
-cites_cases: ["105 Wn.2d 770", "106 Wn.2d 1", "110 Wn. App. 682", "110 Wn.2d 355", "113 Wn.2d 612", "116 Wn. App. 127", "121 Wn. App. 295", "123 Wn.2d 1024", "124 Wn. App. 454", "125 Wn.2d 413", "126 F.3d 239", "127 Wn.2d 853", "129 Wn.2d 1011", "144 Wn.2d 172", "147 Wn.2d 1024", "148 Wn.2d 35", "150 Wn.2d 1016", "154 Wn.2d 1007", "217 F.3d 1234", "23 P.3d 440", "329 F.3d 740", "349 F.3d 634", "411 U.S. 792", "42 P.3d 447", "45 Wn. App. 192", "490 U.S. 228", "517 U.S. 308", "530 P.2d 291", "59 P.3d 611", "64 P.3d 691", "656 P.2d 1030", "68 F.3d 187", "71 Wn. App. 382", "718 P.2d 785", "721 P.2d 1", "724 P.2d 425", "753 P.2d 517", "782 P.2d 1002", "79 Wn. App. 732", "82 F.3d 776", "85 Wn.2d 52", "859 P.2d 613", "86 Wn. App. 183", "875 F.2d 1325", "88 P.3d 966", "886 P.2d 172", "904 P.2d 278", "904 P.2d 793", "937 P.2d 612", "95 Wn. App. 18", "974 P.2d 847", "98 Wn.2d 434", "993 F.2d 132"]
+cites_cases: ["105 Wn.2d 770", "106 Wn.2d 1", "110 Wn. App. 682", "110 Wn.2d 355", "113 Wn.2d 612", "116 Wn. App. 127", "121 Wn. App. 295", "123 Wn.2d 1024", "125 Wn.2d 413", "126 F.3d 239", "127 Wn.2d 853", "129 Wn.2d 1011", "144 Wn.2d 172", "147 Wn.2d 1024", "148 Wn.2d 35", "150 Wn.2d 1016", "154 Wn.2d 1007", "217 F.3d 1234", "23 P.3d 440", "329 F.3d 740", "349 F.3d 634", "411 U.S. 792", "42 P.3d 447", "45 Wn. App. 192", "490 U.S. 228", "517 U.S. 308", "530 P.2d 291", "59 P.3d 611", "64 P.3d 691", "656 P.2d 1030", "68 F.3d 187", "71 Wn. App. 382", "718 P.2d 785", "721 P.2d 1", "724 P.2d 425", "753 P.2d 517", "782 P.2d 1002", "79 Wn. App. 732", "82 F.3d 776", "85 Wn.2d 52", "859 P.2d 613", "86 Wn. App. 183", "875 F.2d 1325", "88 P.3d 966", "886 P.2d 172", "904 P.2d 278", "904 P.2d 793", "937 P.2d 612", "95 Wn. App. 18", "974 P.2d 847", "98 Wn.2d 434", "993 F.2d 132"]
 ---
 
 # Kirby v. City of Tacoma
