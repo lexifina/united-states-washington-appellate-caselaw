@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8680-8-II"
 decided: "1987-05-21"
-citations: ["48 Wash. App. 496", "47 Wash. App. 1072"]
+citations: ["48 Wash. App. 496"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Betty Brookshire Mercer, Appellant, v. The State of Washington, Respo
 source_url: "https://static.case.law/wash-app/48/cases/0496-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1838328
-cites_cases: ["101 Wn.2d 307", "104 Wn.2d 710", "22 Wn. App. 163", "39 Wn. App. 758", "405 P.2d 258", "48 Wn. App. 496", "521 P.2d 725", "521 P.2d 736", "539 P.2d 845", "539 P.2d 854", "550 P.2d 9", "589 P.2d 250", "608 P.2d 261", "649 P.2d 98", "66 Wn.2d 787", "678 P.2d 803", "695 P.2d 996", "709 P.2d 793", "83 Wn.2d 599", "83 Wn.2d 618", "85 Wn.2d 810", "87 Wn.2d 145", "90 Wn.2d 1024", "93 Wn.2d 205", "97 Wn.2d 574"]
+cites_cases: ["101 Wn.2d 307", "104 Wn.2d 710", "22 Wn. App. 163", "39 Wn. App. 758", "405 P.2d 258", "521 P.2d 725", "521 P.2d 736", "539 P.2d 845", "539 P.2d 854", "550 P.2d 9", "589 P.2d 250", "608 P.2d 261", "649 P.2d 98", "66 Wn.2d 787", "678 P.2d 803", "695 P.2d 996", "709 P.2d 793", "83 Wn.2d 599", "83 Wn.2d 618", "85 Wn.2d 810", "87 Wn.2d 145", "90 Wn.2d 1024", "93 Wn.2d 205", "97 Wn.2d 574"]
 ---
 
 # Mercer v. State
