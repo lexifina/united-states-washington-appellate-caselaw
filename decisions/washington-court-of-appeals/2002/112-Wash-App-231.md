@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47819-2-I"
 decided: "2002-06-03"
-citations: ["112 Wash. App. 231", "112 Wash. App. 1002"]
+citations: ["112 Wash. App. 231"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Dennis Victor McCarthy, Respon
 source_url: "https://static.case.law/wash-app/112/cases/0231-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719268
-cites_cases: ["101 Wn. App. 607", "102 Wn. App. 288", "106 Wn.2d 822", "112 Wn. App. 231", "12 Wn. App. 844", "120 Wn.2d 156", "129 Wn.2d 652", "130 Cal. Rptr. 78", "134 Wn.2d 165", "134 Wn.2d 328", "137 Wn.2d 897", "145 Wn.2d 702", "220 U.S. 502", "24 Kan. App. 2d 441", "42 P.3d 394", "5 P.3d 741", "532 P.2d 626", "58 Cal. App. 3d 740", "59 Wn. App. 848", "6 P.3d 1201", "647 P.2d 1203", "683 A.2d 61", "725 P.2d 972", "801 P.2d 1015", "839 P.2d 890", "878 F.2d 1233", "897 F.2d 417", "921 R2d 473", "924 F.2d 829", "949 P.2d 365", "949 P.2d 810", "976 P.2d 616", "998 F.2d 710"]
+cites_cases: ["101 Wn. App. 607", "102 Wn. App. 288", "106 Wn.2d 822", "12 Wn. App. 844", "120 Wn.2d 156", "129 Wn.2d 652", "130 Cal. Rptr. 78", "134 Wn.2d 165", "134 Wn.2d 328", "137 Wn.2d 897", "145 Wn.2d 702", "220 U.S. 502", "24 Kan. App. 2d 441", "42 P.3d 394", "5 P.3d 741", "532 P.2d 626", "58 Cal. App. 3d 740", "59 Wn. App. 848", "6 P.3d 1201", "647 P.2d 1203", "683 A.2d 61", "725 P.2d 972", "801 P.2d 1015", "839 P.2d 890", "878 F.2d 1233", "897 F.2d 417", "921 R2d 473", "924 F.2d 829", "949 P.2d 365", "949 P.2d 810", "976 P.2d 616", "998 F.2d 710"]
 ---
 
 # State v. McCarthy
