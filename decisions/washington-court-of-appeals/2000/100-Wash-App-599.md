@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24259-1-II"
 decided: "2000-03-03"
-citations: ["100 Wash. App. 599", "99 Wash. App. 1052"]
+citations: ["100 Wash. App. 599"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Westside Business Park, L.L.C., Respondent, v. Pierce County, Appella
 source_url: "https://static.case.law/wash-app/100/cases/0599-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363183
-cites_cases: ["100 Wn. App. 599", "11 Wn. App. 807", "133 Wn.2d 269", "136 Wn.2d 1", "136 Wn.2d 946", "139 Wn.2d 1001", "141 Wn.2d 1023", "16 Wn. App. 709", "20 Wn. App. 571", "33 U.S.C. §§ 1251-1387", "510 P.2d 1140", "525 P.2d 801", "558 P.2d 821", "582 P.2d 534", "59 Wn. App. 29", "59 Wn. App. 795", "590 P.2d 816", "795 P.2d 753", "801 P.2d 985", "83 Wn.2d 1001", "85 Wn.2d 1001", "9 Wn. App. 59", "91 Wn.2d 616", "943 P.2d 1378", "95 Wn. App. 883", "959 P.2d 1024", "968 P.2d 871", "976 P.2d 1279", "98 Wn. App. 224", "985 F.2d 451", "989 P.2d 569"]
+cites_cases: ["11 Wn. App. 807", "133 Wn.2d 269", "136 Wn.2d 1", "136 Wn.2d 946", "139 Wn.2d 1001", "141 Wn.2d 1023", "16 Wn. App. 709", "20 Wn. App. 571", "33 U.S.C. §§ 1251-1387", "510 P.2d 1140", "525 P.2d 801", "558 P.2d 821", "582 P.2d 534", "59 Wn. App. 29", "59 Wn. App. 795", "590 P.2d 816", "795 P.2d 753", "801 P.2d 985", "83 Wn.2d 1001", "85 Wn.2d 1001", "9 Wn. App. 59", "91 Wn.2d 616", "943 P.2d 1378", "95 Wn. App. 883", "959 P.2d 1024", "968 P.2d 871", "976 P.2d 1279", "98 Wn. App. 224", "985 F.2d 451", "989 P.2d 569"]
 ---
 
 # Westside Business Park, L.L.C. v. Pierce County
