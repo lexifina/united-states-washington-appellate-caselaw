@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8931—2—III; 8878-2-III"
 decided: "1988-12-13"
-citations: ["53 Wash. App. 194", "53 Wash. App. 1004"]
+citations: ["53 Wash. App. 194"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. James Henry Shephard, Appella
 source_url: "https://static.case.law/wash-app/53/cases/0194-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764087
-cites_cases: ["102 Wn.2d 466", "105 Wn.2d 1010", "106 Wn.2d 525", "107 Wn.2d 503", "108 Wn.2d 125", "108 Wn.2d 419", "108 Wn.2d 458", "109 Wn.2d 1017", "110 Wn.2d 1006", "344 N.W.2d 833", "42 Wn. App. 78", "43 Wn. App. 340", "45 Wn. App. 528", "46 Wn. App. 622", "47 Wn. App. 147", "48 Wn. App. 772", "51 Wn. App. 26", "52 Wn. App. 135", "53 Wn. App. 194", "647 P.2d 1026", "687 P.2d 1145", "709 P.2d 1209", "717 P.2d 282", "723 P.2d 1123", "726 P.2d 997", "730 P.2d 1327", "732 P.2d 166", "734 P.2d 36", "736 P.2d 1065", "739 P.2d 683", "740 P.2d 824", "742 P.2d 133", "751 P.2d 1217", "758 P.2d 13", "97 Wn.2d 590"]
+cites_cases: ["102 Wn.2d 466", "105 Wn.2d 1010", "106 Wn.2d 525", "107 Wn.2d 503", "108 Wn.2d 125", "108 Wn.2d 419", "108 Wn.2d 458", "109 Wn.2d 1017", "110 Wn.2d 1006", "344 N.W.2d 833", "42 Wn. App. 78", "43 Wn. App. 340", "45 Wn. App. 528", "46 Wn. App. 622", "47 Wn. App. 147", "48 Wn. App. 772", "51 Wn. App. 26", "52 Wn. App. 135", "647 P.2d 1026", "687 P.2d 1145", "709 P.2d 1209", "717 P.2d 282", "723 P.2d 1123", "726 P.2d 997", "730 P.2d 1327", "732 P.2d 166", "734 P.2d 36", "736 P.2d 1065", "739 P.2d 683", "740 P.2d 824", "742 P.2d 133", "751 P.2d 1217", "758 P.2d 13", "97 Wn.2d 590"]
 ---
 
 # State v. Shephard
