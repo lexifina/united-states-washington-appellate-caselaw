@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36670-0-I"
 decided: "1997-02-03"
-citations: ["85 Wash. App. 235", "84 Wash. App. 1090"]
+citations: ["85 Wash. App. 235"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Petitioner, v. Barry B. Henthorn, Respondent
 source_url: "https://static.case.law/wash-app/85/cases/0235-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 277436
-cites_cases: ["105 Wn.2d 692", "128 Wn.2d 341", "26 Wn. App. 486", "445 U.S. 480", "503 P.2d 1073", "616 P.2d 666", "622 P.2d 1240", "627 P.2d 953", "718 P.2d 407", "81 Wn.2d 628", "85 Wn. App. 235", "908 P.2d 359", "95 Wn.2d 385", "95 Wn.2d 551"]
+cites_cases: ["105 Wn.2d 692", "128 Wn.2d 341", "26 Wn. App. 486", "445 U.S. 480", "503 P.2d 1073", "616 P.2d 666", "622 P.2d 1240", "627 P.2d 953", "718 P.2d 407", "81 Wn.2d 628", "908 P.2d 359", "95 Wn.2d 385", "95 Wn.2d 551"]
 ---
 
 # State v. Henthorn
