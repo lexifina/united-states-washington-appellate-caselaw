@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28149-0-II"
 decided: "2003-03-11"
-citations: ["116 Wash. App. 616", "116 Wash. App. 1012"]
+citations: ["116 Wash. App. 616"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Heidi Gestson, et al., Respondents, v. Gayla Scott, et al., Appellant
 source_url: "https://static.case.law/wash-app/116/cases/0616-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 266084
-cites_cases: ["10 Wn. App. 551", "116 Wn.' App. 616", "132 Wn.2d 193", "396 P.2d 782", "397 P.2d 857", "42 Wn. App. 486", "442 P.2d 260", "490 P.2d 878", "519 P.2d 278", "638 P.2d 566", "65 Wn.2d 290", "65 Wn.2d 421", "66 Wn. App. 466", "713 P.2d 113", "72 Wn. App. 632", "73 Wn.2d 944", "79 Wn.2d 864", "832 P.2d 508", "85 Wn. App. 34", "865 P.2d 527", "931 P.2d 911", "937 P.2d 597", "96 Wn.2d 659"]
+cites_cases: ["10 Wn. App. 551", "132 Wn.2d 193", "396 P.2d 782", "397 P.2d 857", "42 Wn. App. 486", "442 P.2d 260", "490 P.2d 878", "519 P.2d 278", "638 P.2d 566", "65 Wn.2d 290", "65 Wn.2d 421", "66 Wn. App. 466", "713 P.2d 113", "72 Wn. App. 632", "73 Wn.2d 944", "79 Wn.2d 864", "832 P.2d 508", "85 Wn. App. 34", "865 P.2d 527", "931 P.2d 911", "937 P.2d 597", "96 Wn.2d 659"]
 ---
 
 # Gestson v. Scott
