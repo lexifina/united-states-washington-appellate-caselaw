@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "21273-1-II"
 decided: "1998-05-29"
-citations: ["91 Wash. App. 357", "91 Wash. App. 1009"]
+citations: ["91 Wash. App. 357"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Julia M. Metz, Respondent, v. Dolores K. Sarandos, et al., Appellants
 source_url: "https://static.case.law/wash-app/91/cases/0357-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681902
-cites_cases: ["11 Wn. App. 796", "121 Wn.2d 366", "525 P.2d 290", "849 P.2d 1225", "91 Wn. App. 357"]
+cites_cases: ["11 Wn. App. 796", "121 Wn.2d 366", "525 P.2d 290", "849 P.2d 1225"]
 ---
 
 # Metz v. Sarandos
