@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14891-5-I"
 decided: "1986-05-19"
-citations: ["44 Wash. App. 698", "43 Wash. App. 1054"]
+citations: ["44 Wash. App. 698"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ron J. Bodey, Appellant."]
 source_url: "https://static.case.law/wash-app/44/cases/0698-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1801024
-cites_cases: ["101 Wn.2d 259", "329 P.2d 196", "35 Wn. App. 427", "439 P.2d 403", "44 Wn. App. 698", "464 U.S. 831", "52 Wn.2d 780", "558 P.2d 162", "616 P.2d 628", "621 P.2d 121", "653 P.2d 1024", "667 P.2d 136", "676 P.2d 996", "73 Wn.2d 533", "87 Wn.2d 760", "94 Wn.2d 216", "94 Wn.2d 839", "98 Wn.2d 1"]
+cites_cases: ["101 Wn.2d 259", "329 P.2d 196", "35 Wn. App. 427", "439 P.2d 403", "464 U.S. 831", "52 Wn.2d 780", "558 P.2d 162", "616 P.2d 628", "621 P.2d 121", "653 P.2d 1024", "667 P.2d 136", "676 P.2d 996", "73 Wn.2d 533", "87 Wn.2d 760", "94 Wn.2d 216", "94 Wn.2d 839", "98 Wn.2d 1"]
 ---
 
 # State v. Bodey
