@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "12102-2-I"
 decided: "1985-07-15"
-citations: ["41 Wash. App. 418", "41 Wash. App. 1021"]
+citations: ["41 Wash. App. 418"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dawn Morris Schab, Appellant, v. State Farm Mutual Automobile Insuran
 source_url: "https://static.case.law/wash-app/41/cases/0418-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1798598
-cites_cases: ["102 Wn.2d 477", "102 Wn.2d 78", "124 P.2d 950", "13 Wn.2d 263", "142 A.L.R. 1", "166 N.W.2d 363", "198 N.E.2d 860", "205 Pa. Super. 389", "209 A.2d 27", "22 Wn. App. 712", "288 N.Y.S.2d 250", "29 A.D.2d 319", "30 Wn. App. 769", "33 Wn. App. 137", "39 Wn. App. 263", "401 P.2d 205", "41 Wn. App. 418", "416 P.2d 468", "456 P.2d 331", "48 Ill. App. 2d 226", "494 P.2d 479", "543 P.2d 634", "545 P.2d 1193", "563 P.2d 815", "584 P.2d 939", "588 P.2d 191", "591 P.2d 859", "637 P.2d 996", "643 P.2d 441", "652 P.2d 22", "66 Wn.2d 38", "683 P.2d 180", "687 P.2d 1139", "69 Wn.2d 11", "693 P.2d 130", "76 Wn.2d 249", "80 Wn.2d 327", "86 Wn.2d 264", "86 Wn.2d 432", "88 Wn.2d 439", "90 Wn.2d 637", "91 Wn.2d 215", "97 Wn.2d 203"]
+cites_cases: ["102 Wn.2d 477", "102 Wn.2d 78", "124 P.2d 950", "13 Wn.2d 263", "142 A.L.R. 1", "166 N.W.2d 363", "198 N.E.2d 860", "205 Pa. Super. 389", "209 A.2d 27", "22 Wn. App. 712", "288 N.Y.S.2d 250", "29 A.D.2d 319", "30 Wn. App. 769", "33 Wn. App. 137", "39 Wn. App. 263", "401 P.2d 205", "416 P.2d 468", "456 P.2d 331", "48 Ill. App. 2d 226", "494 P.2d 479", "543 P.2d 634", "545 P.2d 1193", "563 P.2d 815", "584 P.2d 939", "588 P.2d 191", "591 P.2d 859", "637 P.2d 996", "643 P.2d 441", "652 P.2d 22", "66 Wn.2d 38", "683 P.2d 180", "687 P.2d 1139", "69 Wn.2d 11", "693 P.2d 130", "76 Wn.2d 249", "80 Wn.2d 327", "86 Wn.2d 264", "86 Wn.2d 432", "88 Wn.2d 439", "90 Wn.2d 637", "91 Wn.2d 215", "97 Wn.2d 203"]
 ---
 
 # Schab v. State Farm Mutual Automobile Insurance
