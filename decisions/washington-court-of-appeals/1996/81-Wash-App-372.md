@@ -1,0 +1,53 @@
+---
+court: "Washington Court of Appeals"
+docket: "35042-1-I"
+decided: "1996-04-22"
+citations: ["81 Wash. App. 372"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Ronald Joseph Vailencour, Appellant."]
+source_url: "https://static.case.law/wash-app/81/cases/0372-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 310808
+cites_cases: ["120 Wn.2d 585", "25 Wn. App. 621", "557 P.2d 847", "612 P.2d 4", "68 Wn. App. 922", "79 Wn. App. 863", "845 P.2d 971", "846 P.2d 1387", "87 Wn.2d 870", "905 P.2d 1234"]
+---
+
+# State v. Vailencour
+
+## Majority (Baker, C.J.)
+
+Baker, C.J.
+Ronald Vailencour appeals his conviction for third degree assault. He seeks reversal based on violation of the speedy trial rule, arguing that the court erred by assigning a constructive arraignment date approximately five months after the State filed charges against him.
+We hold that the State’s failure to send notice of arraignment to Vailencour at an address provided to the police by Vailencour’s sister does not warrant reversal. No prejudice resulted to Vailencour, because the address was not correct, and he would not have received notice of the charges against him even if the State had sent the notice to that address. Vailencour also asks this court to reverse his conviction because findings and conclusions were not entered following his bench trial. Findings have since been entered without prejudice to Vailencour. Finding no merit to either of Vailencour’s arguments, we affirm.
+FACTS
+After Vailencour exited a store with apparently stolen merchandise, two security guards followed him into the parking lot and attempted to arrest him. Vailencour escaped after threatening one of the guards with a knife. When Vailencour returned later to retrieve his car, a security guard noted his license plate number. The police contacted the registered owner of the car, who stated she had recently sold the car to Vailencour (her brother). She gave an address for Vailencour which, as Vailencour later testified, was not correct.
+The State filed charges of third degree theft and third degree assault on June 22, 1993. The prosecutor’s office mailed notice of arraignment to Vailencour at his current and previous addresses registered with the Department of Licensing (DOL). The current address was also his mother’s current address. Both notices were returned as undeliverable. Vailencour did not appear at the June 30 arraignment, and the court issued a warrant for his arrest. The warrant was transmitted to the city and county of his last known address with DOL (his mother’s address).
+Vailencour did not live at any of the addresses obtained by the prosecutor, nor had he given any forwarding information to the post office. However, he received most of his mail through his mother’s address.
+Vailencour was stopped for a traffic violation on October 30, but was not arrested. Vailencour changed his address with DOL in November. He was stopped again in December and this time was arrested as a result of a warrants check.
+Vailencour timely objected to his January arraignment date on speedy trial grounds. The trial court determined that, under a standard of due diligence, the police should have discovered the outstanding warrant when Vailencour was stopped in October. Therefore, the court assigned November 13 (14 days after the traffic stop) as the constructive arraignment date. The scheduled trial date was thus within the speedy trial period.
+Vailencour waived his right to trial by jury, and the trial proceeded on stipulated facts. The court found Vailencour guilty of third degree assault, and dismissed the charge of third degree theft on the State’s motion. The court entered findings and conclusions after Vailencour filed his opening brief on appeal.
+I
+Vailencour argues that the trial court erred by assigning the constructive arraignment date. He initially asserts that the trial court should have entered findings and conclusions regarding its decision denying Vailencour’s motion to dismiss for violation of speedy trial rules. We note that the prosecutor failed to prepare such findings, even though directed to do so by the court. However, rulings on motions generally do not require written findings and conclusions, and Vailencour cites no relevant authority to the contrary.
+Although the speedy trial rule does not give any time limit for arraigning a defendant who is not in custody or subject to conditions of release, CrR 4.1 provides that a defendant will be arraigned promptly after the filing of an information. These two rules form the basis for the Striker rule, which imposes a time constraint between filing and arraignment for purposes of compliance with the speedy trial rule. The Striker rule works with current CrR 3.3 to require the court to establish a constructive arraignment date when a lengthy delay between filing and arraignment has occurred. However, "Striker does not require the court to establish a constructive arraignment date in cases where the prosecution acts in good faith and with due diligence in attempting to bring the defendant before the court to answer for the charge.” A period during which good faith and due diligence were exercised is exempt from the Striker rule. Otherwise, if the defendant is not promptly brought before the court, the speedy trial period will run from 14 days after the filing of the information.
+The court found that the State did not fail to exercise due diligence to locate Vailencour until the initial traffic stop in October. Vailencour asserts that the State did not. exercise due diligence prior to the stop. Due diligence requires the State’s timely action on the information it has regarding the defendant’s whereabouts. The State mailed notices to Vailencour’s current and previous addresses registered with the DOL. The State’s failure to contact Vailencour’s mother after those notices wer.e returned does not establish lack of due diligence. But the State failed to exercise due diligence in one respect: it did not mail the arraignment notice to the address supplied by Vailencour’s sister.
+However, the address given to the police by Vailencour’s sister was a wrong address. Sending a notice to that address would have availed Vailencour nothing. Our case-law does not address the effect of a showing that the State has failed in its obligation of due diligence when it is conclusively shown that performing the act would not have provided any notice to the defendant. The overall purpose of the due diligence standard developed by the Greenwood line of cases is to ensure that the State takes those steps reasonably calculated to provide timely notice of pending charges to a defendant. Where it is conclusively shown that a particular failure by the State did not in fact deprive the defendant of such notice, we hold that reversal is not required.
+Our holding permits the State to demonstrate after the fact that a particular omission by it has had no practical consequence, and thus does not merit reversal on speedy trial grounds. This should not result in a weakening of the due diligence standard, however. The State cannot knowingly or negligently fail to take those steps required by due diligence without risking a violation of the speedy trial rule. Only where, as here, the State can demonstrate conclusively that no prejudice resulted to the defendant will a dismissal not result.
+II
+Vailencour also argues for reversal because of the court’s failure to timely enter findings and conclusions following the bench trial, as required by CrR 6.1(d). We sympathize with the frustration of defendants and appellate counsel with what has been a common pattern of prosecutors failing to submit findings and conclusions in a timely manner. We have been frustrated by this practice as well, and recently reminded trial courts that it is their responsibility, as well as the prevailing party’s responsibility, to see that findings and conclusions are entered.
+Nevertheless, we do not grant Vailencour’s request to reverse his conviction on this ground. A delayed entry of findings and conclusions does not warrant reversal "unless the delay prejudiced the defendant or prevented effective appellate review.” It is impossible for Vailencour to show that he was prejudiced in this case, because he does not challenge any aspect of the court’s decision. The findings could not possibly have been tailored to the issues presented on appeal, because no factual challenges were argued in the opening brief. Nor did the delay prevent effective appellate review.
+In his opening brief, filed before the findings and conclusions were entered, Vailencour also argues that the trial court is without authority to enter findings and conclusions while an appeal is pending. We have previously held, in the civil context, that the trial court’s failure to enter findings and conclusions is a clerical error which may be corrected any time during the appeal process under CR 60(a) and RAP 7.2(e). CrR 7.8(a) provides, in the criminal context, an opportunity identical to CR 60(a) to correct clerical errors. We therefore accept the late entry of findings and conclusions.
+Affirmed.
+Kennedy and Cox, JJ., concur.
+See generally CR 7(b) (applicable to criminal motions pursuant to CrR 8.2). Only confession and suppression motions specifically require written findings and conclusions. CrR 3.5, CrR 3.6 (referred to by CrR 8.2).
+CrR 3.3.
+State v. Striker, 87 Wn.2d 870, 557 P.2d 847 (1976).
+See State v. Greenwood, 120 Wn.2d 585, 599, 845 P.2d 971 (1993).
+Greenwood, 120 Wn.2d at 601. Although the due diligence test developed when CrR 3.3 exempted periods where the defendant was deemed unavailable, the court held the test still viable even after those provisions were removed from the rule. Greenwood, 120 Wn.2d at 600-01.
+Greenwood, 120 Wn.2d at 599.
+See Greenwood, 120 Wn.2d at 602.
+Accord Greenwood, 120 Wn.2d at 602 (failure to contact defendant’s attorney regarding defendant’s whereabouts not lack of due diligence); State v. Perry, 25 Wn. App. 621, 623-24, 612 P.2d 4 (1980) (failure to contact either defendant’s attorney or his parents not lack of due diligence).
+Although the investigating officer’s report did not indicate an address given by the sister, the court accepted the sister’s testimony that she supplied one.
+State v. Portomene, 79 Wn. App. 863, 865, 905 P.2d 1234 (1995).
+Portomene, 79 Wn. App. at 864.
+See In re Stern, 68 Wn. App. 922, 927-28, 846 P.2d 1387 (1993).
