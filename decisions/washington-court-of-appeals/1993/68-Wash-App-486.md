@@ -1,0 +1,46 @@
+---
+court: "Washington Court of Appeals"
+docket: "29513-6-I"
+decided: "1993-01-19"
+citations: ["68 Wash. App. 486"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Barry Schmitz, Appellant, v. The State of Washington, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/68/cases/0486-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1725625
+cites_cases: ["114 Wn.2d 817", "121 Wn.2d 1031", "31 Wn. App. 467", "642 P.2d 1255", "65 Wn. App. 734", "792 P.2d 500", "829 P.2d 250", "97 Wn.2d 1041"]
+---
+
+# Schmitz v. State
+
+## Majority (Per Curiam.)
+
+Per Curiam.
+Barry Schmitz appeals from a superior court order on summary judgment dismissing his tort claim against the State of Washington. The decision of the Superior Court is affirmed.
+Facts
+Larry Schmitz is the twin brother of appellant, Barry Schmitz. Larry was diagnosed as schizophrenic and has been committed to Western State Hospital on numerous occasions. His first psychiatric admission was in 1979. In both 1980 and 1982 he had been hospitalized after threatening family members with a knife.
+On April 22, 1987, Larry was discharged from Western State to the custody of his mother and his brother, Barry, with instructions that Larry receive outpatient treatment. On July 19, 1987, Larry Schmitz cut Barry's throat while Barry was sleeping. Barry survived the attack.
+Larry was arrested and charged with assault. He was subsequently found insane and committed to Western State where he is currently a patient on the mentally ill offender ward.
+On July 18, 1990, Barry Schmitz filed a tort claim in the State's risk management office alleging the State's liability for his injury. The following day, July 19, Barry filed a summons and complaint in superior court naming the State of Washington and various "John Doe" defendants.
+The summons and complaint were served on the State on October 17, 1990. On October 16, 1991, the trial court dismissed Schmitz's claim against the State for failure to comply with the claim filing requirements of RCW 4.92.110. Schmitz filed a motion for reconsideration which was denied. Schmitz appealed.
+Issue
+Did the Superior Court err in dismissing Schmitz's cause of action against the State on the ground that Schmitz failed to comply with RCW 4.92.110 when he filed his complaint in superior court within 60 days of filing his claim with the Office of Risk Management?
+Decision
+RCW 4.92.110 provides:
+No action shall be commenced against the state for damages arising out of tortious conduct until sixty days have elapsed after the claim is presented to and filed with the risk management office. The applicable period of limitations within which an action must be commenced shall be tolled during the sixty-day period.
+In the case at bar, it is undisputed that on July 18, 1990, Schmitz filed a tort claim in the risk management office. The next day, July 19, Schmitz filed a complaint in superior court alleging that the State's negligence contributed to his injuries. Although the complaint was filed in superior court within 60 days of the filing of the claim in the risk management office, Schmitz did not serve the complaint on the State until October 17, 1990, which was long after the expiration of the 60-day period. Since RCW 4.92.110 prohibits commencement of a tort action against the State until 60 days have elapsed from the filing of the claim in the risk management office, the question presented is simply: "When did . . . Schmitz's tort action in superior court commence: when the complaint was filed on July 19, 1990 or when the complaint was served on the State on October 17, 1990?"
+Both parties focus exclusively on the language of RCW 4.16.170 to ascertain an answer to the question. It states that:
+For the purpose of tolling any statute of limitations an action shall be deemed commenced when the complaint is filed or summons is served whichever occurs, first. If service has not been had on the defendant prior to the filing of the complaint, the plaintiff shall cause one or more of the defendants to be served personally, or commence service by publication within ninety days from the date of filing the complaint. If the action is commenced by service on one or more of the defendants or by publication, the plaintiff shall file the summons and complaint within ninety days from the date of service. If following service, the complaint is not so filed, or following filing, service is not so made, the action shall be deemed to not have been commenced for purposes of tolling the statute of limitations.
+"The plain language of the statute clearly states that for the purpose of tolling any statute of limitations an action shall be deemed commenced when the complaint is filed or summons is served." Nearing v. Golden State Foods Corp., 114 Wn.2d 817, 822, 792 P.2d 500 (1990). Accordingly, either the filing of a complaint or service of summons will toll the statute of limitations so long as the other act is completed within 90 days. Sterling v. County of Spokane, 31 Wn. App. 467, 471, 642 P.2d 1255, review denied, 97 Wn.2d 1041 (1982).
+In asserting that the filing of his complaint in superior court did not "commence" the action in violation of RCW 4.92.110, Schmitz focuses on the last sentence of RCW 4.16-.170 and argues that:
+"an action shall be deemed not to have been commenced for purposes of the statute of limitations" if a complaint has been filed but not served. Thus, an action under RCW 4.92.110 is not deemed commenced for purposes of RCW 4.92.110 by filing alone; it also must be served.
+Given the facts presented, this argument is without merit.
+Schmitz filed his claim with the risk management , office on July 18, 1990. Under RCW 4.92.110, this filing tolled the statute of limitations for 60 days while the risk management office considered its response. Nonetheless, Schmitz filed his complaint in superior court on July 19, 1990. However, process was not served on the State until October 17, 1990, which was long after the expiration of the statute of limitations even considering the 60 days that were tolled. Accordingly, the only way that this service can be construed as timely under the statute of limitations is by concluding that Schmitz's cause of action commenced on July 19, 1990, when he filed his complaint in superior court. Pursuant to RCW 4.16.170, he would then have been afforded an additional 90 days to serve process on the State which would make the October 17 service timely.
+This illustrates the flaw in Schmitz's argument. He contends, on the one hand, that the action was not commenced under RCW 4.16.170 when he filed his complaint in superior court on July 19 and, therefore, he did not violate the 60-day waiting requirement of RCW 4.92.110. However, in order to obtain the 90-day grace period of RCW 4.16.170 which would make his October 17 service on the State timely, he must concede that the action was commenced for statute of limitations purposes on July 19 when the complaint was filed. Accordingly, under the facts of this case, we conclude that the filing of the complaint did commence the action as provided in RCW 4.16.170.
+Schmitz's motion to modify the commissioner's ruling referring the matter for accelerated review is denied and the decision of the Superior Court is affirmed.
+Review denied at 121 Wn.2d 1031 (1993).
+According to the State's brief, the Superior Court granted the summary judgment on the ground that Schmitz failed to comply with RCW 4.92.110 and never reached a decision on the immunity defense presented by the State. Nonetheless, the State presents argument in its brief in support of the defense. Schmitz argues in his reply brief that the immunity defense should not be addressed by this court because the trial court did not resolve the issue because of questions that were raised regarding the adequacy of the discovery provided by the State. Given this court's resolution of the case, we do not address the immunity defense.
+On October 30, 1992, a commissioner referred the matter for accelerated review. On November 9, 1992, Schmitz filed a motion to modify the commissioner's ruling arguing that oral argument is necessary and that the case should not be submitted to a panel until his time for filing a reply brief expires. The reply brief was filed on November 16 and is now before the panel for consideration. With regard to Schmitz's request for oral argument, RAP 11.6 provides that the court, on its own initiative, may decide a case without oral argument. The issue before the panel is a narrow question of law that is adequately briefed. Schmitz's motion to modify the commissioner's ruling is denied.
+We are aware of dicta in Andrews v. State, 65 Wn. App. 734, 829 P.2d 250 (1992) that supports a contention that an action is commenced under RCW 4.16.170 when a complaint is filed and served. Andrews, at 738. However, we do not find that dicta persuasive. In Andrews, both the filing and service occurred before the claim was filed with the risk management office. Accordingly, the court did not consider whether either action alone would have commenced the action under RCW 4.92.110.
