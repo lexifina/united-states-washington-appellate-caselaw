@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "11224-8-II"
+decided: "1989-05-04"
+citations: ["54 Wash. App. 36"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mason County, Respondent, v. The Public Employment Relations Commission, et al, Appellants."]
+source_url: "https://static.case.law/wash-app/54/cases/0036-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1761834
+cites_cases: ["106 Wn.2d 84", "113 Wn.2d 1013", "459 U.S. 1106", "503 P.2d 313", "527 P.2d 1121", "530 P.2d 302", "601 P.2d 501", "646 P.2d 113", "720 P.2d 831", "84 Wn.2d 551", "85 Wn.2d 102", "85 Wn.2d 140", "92 Wn.2d 685", "97 Wn.2d 317"]
+---
+
+# Mason County v. Public Employment Relations Commission
+
+## Majority (Petrich, J.)
+
+Petrich, J.
+The Public Employment Relations Commission (PERC) and the General Teamsters, Chauffeurs and Helpers Union, Local 378, the bargaining representative of approximately 18 employees of Mason County, appeal the Superior Court's reversal of PERC's summary judgment that Mason County had committed an unfair labor practice and the court's denial of PERC's request for enforcement of its remedial order.
+PERC determined in a summary judgment proceeding that the County was guilty of an unfair labor practice for refusing to consider, at a meeting convened in accordance with the Open Public Meetings Act of 1971, RCW 42.30 (Act), the ratification of a proposed collective bargaining agreement. The agreement had been negotiated and formulated by representatives of the Union and the County at meetings which did not comply with the requirements of the Act.
+The issue presented in this case is whether the Act applies to collective bargaining sessions of a public agency and the bargaining representatives of the employees of that agency. If it does, we must also determine whether or not the public agency may ratify a proposed collective bargaining agreement, reached in bargaining sessions conducted in violation of the Act, at a later meeting conducted in compliance with the Act. We conclude that the Act applies to collective bargaining sessions in which the decisionmaking representatives of the public agency participate. We conclude, further, that the public agency may not ratify the proposed agreement reached at meetings conducted in violation of the Act because the decisions resulting from those sessions and the ultimate formulation of the proposed agreement are void. The County could not ratify a void agreement and its refusal to consider the proposed agreement does not amount to an unfair labor practice. Therefore, we affirm.
+In the fall of 1984, the Union and the County began bargaining for their 1985-1986 labor agreement which would succeed the agreement then in effect. In all, four collective bargaining sessions were held. Commissioners Bill Hunter and Ed Johnston attended the last two sessions. On November 26, 1984, the Union ratified the parties' tentative agreement. Commissioners Hunter and Johnston signed the agreement the next day.
+None of the four collective bargaining sessions or the signing of the agreement by the commissioners was held in compliance with the Act. Monday was the regular meeting day of the county commissioners pursuant to Mason County resolution 36-38. None of the sessions or the signing occurred on a Monday. Moreover, neither Commissioner Ann McGee nor the local media were notified of any special meetings as required by the Act, and they did not attend the sessions or the signing.
+The County repudiated the agreement on January 14, 1985, on the basis that the agreement was negotiated in violation of the Act. The County refused the Union's request to reconsider the agreement at an open meeting in compliance with the Act, but offered to begin bargaining anew.
+The Union filed an unfair labor practice complaint with PERC against the County on May 2, 1985. The hearing examiner determined on summary judgment that the County had committed an unfair labor practice by repudiating the negotiated agreement and by refusing to reconsider it for ratification. Therefore, the hearing examiner determined that the County had violated RCW 41.56.140(1) and (4), part of the Public Employees' Collective Bargaining Act, and ordered the County to reconsider the agreement at an open public meeting. PERC affirmed the hearing examiner's decision.
+Upon appeal by the County, the Superior Court reversed the PERC decision. The court determined that the collective bargaining sessions attended by Commissioners Hunter and Johnston, including the session at which the commissioners signed the agreement, were in violation of the Act and, as a result, the actions taken at those sessions were void. The court reasoned that the actions, being void, could not support an unfair labor practice charge.
+Judicial review of this matter is governed by the state administrative procedure act, RCW 34.04.130(6). This court's review is applied directly to the administrative record. Department of Ecology v. Ballard Elks Lodge 827, 84 Wn.2d 551, 555, 527 P.2d 1121 (1974). Because this matter arises from a summary judgment and the material facts are undisputed, we need only determine whether PERC's decision was affected by error of law. RCW 34.04-.130(6)(d). The error of law standard permits the reviewing court to substitute its judgment for that of the administrative body, although substantial weight is given to the agency's interpretation of the law. Clark v. Horse Racing Comm'n, 106 Wn.2d 84, 88, 720 P.2d 831 (1986); Franklin Cy. Sheriff's Office v. Sellers, 97 Wn.2d 317, 325, 646 P.2d 113 (1982), cert. denied, 459 U.S. 1106 (1983).
+The Act mandates that all meetings of the governing body of a public agency be open and public. RCW 42.30-.030. Although some meetings are expressly exempted from application of the Act's requirements, collective bargaining sessions are not. The proviso contained in RCW 42.30.140 exempts "that portion of a meeting during which the governing body is planning or adopting the strategy or position to be taken by such governing body during the course of any collective bargaining ..." RCW 42.30.140(4). We are persuaded by this provision that the Legislature intended collective bargaining itself to be conducted in open public meetings. "The legislative command that the coverage of the act's provisions be 'liberally construed' implies a concomitant intent that its exceptions be narrowly confined." Mead Sch. Dist. 354 v. Mead Educ. Ass'n, 85 Wn.2d 140, 145, 530 P.2d 302 (1975).
+We believe further that the Act and the Public Employees' Collective Bargaining Act can be reconciled by conducting collective bargaining sessions at open meetings. There are no serious conflicts between the two acts.
+We disagree with the position taken by PERC and the Union that the statutory duty to bargain in good faith requires the County to reconsider the proposed agreement for ratification at a public meeting. RCW 42.30.060 provides that any action taken in violation of this Act "shall be null and void." Because the bargaining sessions violated the Act, the sessions and the agreement produced from them are a legal nullity. See Mead, 85 Wn.2d at 145 (school board decision to seek injunction against teacher's union at special meeting which violated the Act held "legally nonexistent").
+Our conclusion is supported by the Supreme Court's observation that "the purpose of the Act is to allow the public to view the decisionmaking process at all stages." Cathcart v. Andersen, 85 Wn.2d 102, 107, 503 P.2d 313 (1975). Part of the Legislature's declaration of purpose states that the actions of public entities "be taken openly and that their deliberations be conducted openly." RCW 42.30.010.
+The decision of the Superior Court is affirmed.
+Reed and Worswick, JJ., concur.
+Review denied at 113 Wn.2d 1013 (1989).
+A legislatively created board, when acting in a quasi-judicial capacity, may employ summary judgment procedures when there is no genuine issue of material fact. Asarco Inc. v. Air Quality Coalition, 92 Wn.2d 685, 697, 601 P.2d 501 (1979). PERC has specifically adopted the summary judgment procedure. WAC 391-08-230.
+Because of our disposition of this case, we need not decide the County's cross appeal concerning whether the Act applies to collective bargaining sessions conducted by representatives of the County other than county commissioners.
+RCW 41.56.140 provides:
+"It shall be an unfair labor practice for a public employer:
+"(1) To interfere with, restrain, or coerce public employees in the exercise of their rights guaranteed by this chapter;
+"(2) To control, dominate or interfere with a bargaining representative;
+"(3) To discriminate against a public employee who has filed an unfair labor practice charge;
+"(4) To refuse to engage in collective bargaining."
