@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45959-7-I"
 decided: "2001-03-19"
-citations: ["105 Wash. App. 857", "105 Wash. App. 1023"]
+citations: ["105 Wash. App. 857"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ronald King, et al., Respondents, v. Snohomish County, Appellant."]
 source_url: "https://static.case.law/wash-app/105/cases/0857-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358644
-cites_cases: ["1 P.3d 1124", "105 Wn. App. 857", "117 Wn.2d 1024", "120 Wn.2d 246", "122 Wn.2d 738", "124 Wn.2d 816", "134 Wn.2d 267", "137 Wn.2d 1016", "141 Wn.2d 29", "145 Wn.2d 1001", "27 Wash. 615", "37 Wash. 223", "63 Wn. App. 29", "65 Wn. App. 734", "68 P. 383", "69 Wn. App. 693", "739 P.2d 703", "76 Wn. App. 542", "79 P. 784", "817 P.2d 408", "829 P.2d 250", "840 P.2d 860", "850 P.2d 1361", "863 P.2d 535", "881 P.2d 986", "887 P.2d 468", "902 F.2d 1092", "91 Wn. App. 934", "92 Wn. App. 146", "94 Wn. App. 593", "948 P.2d 1291", "957 P.2d 1272", "960 P.2d 998", "972 P.2d 470"]
+cites_cases: ["1 P.3d 1124", "117 Wn.2d 1024", "120 Wn.2d 246", "122 Wn.2d 738", "124 Wn.2d 816", "134 Wn.2d 267", "137 Wn.2d 1016", "141 Wn.2d 29", "145 Wn.2d 1001", "27 Wash. 615", "37 Wash. 223", "63 Wn. App. 29", "65 Wn. App. 734", "68 P. 383", "69 Wn. App. 693", "739 P.2d 703", "76 Wn. App. 542", "79 P. 784", "817 P.2d 408", "829 P.2d 250", "840 P.2d 860", "850 P.2d 1361", "863 P.2d 535", "881 P.2d 986", "887 P.2d 468", "902 F.2d 1092", "91 Wn. App. 934", "92 Wn. App. 146", "94 Wn. App. 593", "948 P.2d 1291", "957 P.2d 1272", "960 P.2d 998", "972 P.2d 470"]
 ---
 
 # King v. Snohomish County
