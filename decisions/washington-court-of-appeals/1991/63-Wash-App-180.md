@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25454-5-I"
 decided: "1991-09-09"
-citations: ["63 Wash. App. 180", "62 Wash. App. 1017"]
+citations: ["63 Wash. App. 180"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Edward L. Bennett, Respondent, v. James H. Maloney, et al, Defendants
 source_url: "https://static.case.law/wash-app/63/cases/0180-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1733046
-cites_cases: ["100 Wn.2d 581", "110 Wn.2d 1022", "118 Wn.2d 1011", "4 Wn. App. 754", "409 P.2d 472", "425 P.2d 891", "484 P.2d 488", "49 Wn. App. 727", "63 Wn. App. 180", "67 Wn.2d 642", "675 P.2d 193", "70 Wn.2d 915", "746 P.2d 323", "79 Wn.2d 1010"]
+cites_cases: ["100 Wn.2d 581", "110 Wn.2d 1022", "118 Wn.2d 1011", "4 Wn. App. 754", "409 P.2d 472", "425 P.2d 891", "484 P.2d 488", "49 Wn. App. 727", "67 Wn.2d 642", "675 P.2d 193", "70 Wn.2d 915", "746 P.2d 323", "79 Wn.2d 1010"]
 ---
 
 # Bennett v. Maloney
