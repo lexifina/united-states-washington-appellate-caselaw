@@ -1,0 +1,65 @@
+---
+court: "Washington Court of Appeals"
+docket: "25921-1-I"
+decided: "1991-10-07"
+citations: ["63 Wash. App. 630", "62 Wash. App. 1031"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Brandon Rhode, Appellant."]
+source_url: "https://static.case.law/wash-app/63/cases/0630-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1733097
+cites_cases: ["110 Wn.2d 1007", "113 Wn.2d 679", "117 Wn.2d 93", "118 Wn.2d 1022", "35 Wn. App. 552", "49 Wn. App. 596", "59 Wn. App. 127", "60 Wn. App. 813", "63 Wn. App. 630", "667 P.2d 1139", "744 P.2d 1096", "782 P.2d 552", "796 P.2d 434", "808 P.2d 167", "812 P.2d 86"]
+---
+
+# State v. Rhode
+
+## Majority (Kennedy, J.)
+
+Kennedy, J.
+Appellant Brandon Rhode challenges his conviction for attempted second degree murder. Specifically, Rhode contends that the information charging him with attempted first degree murder was constitutionally defective because the information failed to allege an essential statutory element of attempt. We affirm.
+Facts
+On August 25,1990, the State filed an information charging Rhode with attempted murder in the first degree:
+That the defendant Brandon M. Rhode . . . with premeditated intent to cause the death of another person did attempt to cause the death of Gary Urvina, a human being; and while committing and attempting to commit the crime of arson in the first degree and in the course of and in furtherance of said crime and in immediate flight therefrom, the defendant did attempt to cause the death on or about August 23, 1989 of Gary Urvina, a human being, who was not a participant in the crime;
+Contrary to RCW 9A.28.020 and 9A.32.030(l)(a) and (l)(c), and against the peace and dignity of the state of Washington.
+Before and during trial, Rhode did not object to the contents of the information.
+On August 23, 1990, Rhode was fired from his job at a Union 76 gas station because the owners believed that he stole $40 from the till. After he was fired, Rhode threatened the owners. One-half hour later, Rhode returned to the station, turned in his uniforms, and again threatened the owners. Later that same day, Rhode called the station from a pay phone across the street and threatened to blow up the station.
+Gary Urvina, an employee at the station, watched as Rhode approached the station. At the station, Rhode turned on a gas pump and started spraying gasoline around the service island. Urvina tried to convince Rhode to stop. Rhode became enraged and sprayed Urvina with gasoline. Urvina and Rhode struggled and Urvina slipped and fell in the gas. While Urvina was on the ground, Rhode took a lighter out of his pocket and said: "I'm sorry I have to do this, Gary [Urvina]." Rhode then fit Urvina aflame. Urvina was severely burned, but he survived the fire.
+Rhode’s defense was that he intended only to commit suicide at the station. The jury found Rhode guilty of the lesser included offense of attempted murder in the second degree. The jury also found Rhode guilty of first degree arson. The trial court sentenced Rhode to concurrent terms within the standard range.
+Rhode appeals his conviction of attempted second degree murder.
+Issue
+Rhode contends that the information was constitutionally defective because it failed to allege an essential element of the crime of attempted first degree murder, specifically, a statutory element of attempt — a substantial step toward the commission of the crime. Rhode asserts that the information violated his right to due process because it failed to notify him of the nature of the accusation against him.
+Discussion
+In State v. Kjorsvik, 117 Wn.2d 93, 812 P.2d 86 (1991), the Supreme Court adopted the federal standard of liberally construing charging documents when they are challenged after the verdict or for the first time on appeal. The court included in this standard a 2-prong inquiry: an inquiry into whether the charging document contains the crime's essential elements and an inquiry into whether there was actual prejudice. The essential elements prong involves an inquiry as to whether "the necessary facts appear in any form, or by-fair construction can they be found, in the charging documente.]" Kjorsvik, 117 Wn.2d at 105-06. Only if the reviewing court determines that the information contains the essential elements of the crime charged may the court reach the second prong of the Kjorsvik test — actual prejudice. The actual prejudice prong involves an inquiry as to whether the defendant can "show that he or she was nonetheless actually prejudiced by the inartful language which caused a lack of notice". Kjorsvik, 117 Wn.2d at 106.
+Applying this 2-prong standard of review to the instant case, we must first inquire whether the statutory element of attempt, namely, a substantial step toward the commission of first degree murder "appears in any form, or by fair construction can be found in this information." Kjorsvik, 117 Wn.2d at 108. In an information charging a statutory offense, "it is sufficient to charge in the language of the statute if the statute defines the crime sufficiently to apprise an accused person with reasonable certainty of the nature of the accusation." State v. Leach, 113 Wn.2d 679, 686, 782 P.2d 552 (1989). In addition to apprising a defendant of the statutory elements of the crime charged, both the Leach and Kjorsvik courts stated that a defendant also must be apprised of the crime's "essential elements". The essential elements rule provides that an information must allege sufficient facts to support each element of the crime charged. Kjorsvik, 117 Wn.2d at 98; Leach, 113 Wn.2d at 688.
+Rhode asserts that, because the information failed to include the "substantial step" element of attempt, the information is constitutionally defective in that it omits an essential element of the crime charged. Rhode relies on State v. Stewart, 35 Wn. App. 552, 667 P.2d 1139 (1983) in support of this argument.
+In Stewart, the defendant was charged with attempted first degree rape. At trial, the jury was not instructed that intent and a substantial step are elements of an attempt to commit a crime. The court held that the failure to define these elements in the "to convict" instruction for the jury constituted constitutional error. 35 Wn. App. at 555. The court stated: "[W]e cannot say that the average juror knows as a matter of common knowledge that 'attempt' contains the two separate elements." 35 Wn. App. at 555.
+Stewart, however, is inapposite to the instant case. In Stewart, the jury instruction relieved the State of its burden of proof on the element of attempt. 35 Wn. App. at 554. Here, the State was required to prove both elements of attempt at trial.
+The requirement that the information must state a crime and in so doing sufficiently define the crime so that the accused is adequately informed of the nature of the accusation has not been interpreted to mean that an information must allege every fact that the State must eventually prove at trial in order to support a conviction.
+State v. Sims, 59 Wn. App. 127, 131, 796 P.2d 434 (1990). That the information in the instant case does not define every element that the State must prove at trial does not render the information constitutionally defective. State v. Smith, 49 Wn. App. 596, 599, 744 P.2d 1096 (1987), review denied, 110 Wn.2d 1007 (1988).
+In Smith, the defendant was charged with second degree possession of stolen property. The information followed the language of the charging statute, RCW 9A.56.160(l)(d). Tb convict, the State was required to prove the defendant knew that the property was stolen. Neither the charging statute nor the information contained the knowledge requirement. However, the statute that defines "possessing stolen property", RCW 9A56.140(1), includes in the definition knowledge that the property is stolen. Smith argued on appeal that the information was constitutionally defective for failing to charge an essential element, specifically, knowledge that the property was stolen. This court held:
+[T]he State charged Smith with possessing a stolen vehicle. This language was sufficient to charge a crime, since the term possession necessarily encompassed the statutory definition, including the knowledge element.
+49 Wn. App. at 600.
+Here, the charging statute for first degree murder, RCW 9A.32.030(l)(a) and (c) provides:
+9A32.030. Murder in the first degree. (1) A person is guilty of murder in the first degree when:
+(a) With a premeditated intent to cause the death of another person, he or she causes the death of such person or of a third person; or
+(c) He or she commits or attempts to commit the crime of either... (4) arson in the first or second degree,. . . and in the course of or in furtherance of such crime or in immediate flight therefrom, he or she, or another participant, causes the death of a person other than one of the participants . . ..
+RCW 9A.28.020, the attempt statute, provides:
+9A28.020. Criminal attempt. (1) A person is guilty of an attempt to commit crime if, with intent to commit a specific crime, he does any act which is a substantial step toward the commission of that crime.
+Rhode was charged in the language of the statute that defines the crime of first degree murder. Similarly to the ruling in Smith, we hold that the term "attempt" encompasses the statutory definition including the substantial step element.
+[A] failure to include in the information every element and the concomitant legal definitions that must be instructed upon or proved at trial does not render the information constitutionally defective.
+Smith, 49 Wn. App. at 599.
+Where a statute defines a crime sufficiently to apprise an accused person with reasonable certainty of the nature of the accusation, it is sufficient to charge in the language of the statute. Leach, 113 Wn.2d at 686. We hold that by fair construction the "substantial step" element of attempt can be found in this information. Therefore this information is not constitutionally inadequate on its face.
+Because we have determined that the information contains the essential elements of attempted first degree murder, we must examine the second prong of the Kjorsvik test and "ask whether the defendant has shown that he was nonetheless prejudiced by any vague or inartful language in the charge." Kjorsvik, 117 Wn.2d at 111. The requirement that an information must sufficiently notify the accused of the crime charged is so that the accused "can prepare a proper defense and plead the judgment as a bar to any subsequent prosecution for the same offense." State v. Davis, 60 Wn. App. 813, 816, 808 P.2d 167 (1991).
+At trial, Rhode did not deny that he lit the fire. His defense was that he intended only to commit suicide at the station; therefore, that he lacked the requisite premeditated intent to be convicted of attempted first degree murder. The information charged that Rhode "with premeditated intent to cause the death of another person did attempt to cause the death of Gary Urvina[.]" (Italics ours.) The information sufficiently informed Rhode of the nature of the accusation against him so that he was able to adequately prepare his defense to the crime charged. That Rhode was convicted of the lesser included offense of attempted second degree murder demonstrates in and of itself that Rhode was not prejudiced in the preparation of his defense by any vague or inartful language in the information.
+Conclusion
+The information is constitutionally sufficient. We affirm Rhode's conviction.
+Baker and Agid, JJ., concur.
+Review denied at 118 Wn.2d 1022 (1992).
+The statutory elements of criminal attempt are: intent plus a substantial step toward the commission of the crime. RCW 9A.28.020.
+Rhode also argues that this omission deprived the trial court of subject matter jurisdiction, because without charging one of the statutory elements of attempt, a substantial step, the information failed to charge a crime. In State v. Kjorsvik, 117 Wn.2d 93, 812 P.2d 86 (1991), the Supreme Court held that a constitutional challenge to a charging document does not impact the jurisdiction of a trial court. The court stated:
+Our Court of Appeals recently observed that although some courts have referred to the essential elements rule as "quasi-jurisdictional", it is questionable whether the essential elements rule contains any jurisdictional questions which would result in the harsh consequence of automatic dismissal. We agree. Recent case law from this court has not viewed charging document challenges as involving subject matter jurisdictional issues, and we decline to adopt such a view.
+(Footnotes omitted.) Kjorsvik, 117 Wn.2d at 107-08.
+We therefore need not address Rhode's challenge to the subject matter jurisdiction of the trial court.
+An inadequate information violates the constitutional right of an accused to be informed of the nature and cause of the accusation against him. U.S. Const, amend. 6; Const, art. 1, § 22 (amend. 10).
