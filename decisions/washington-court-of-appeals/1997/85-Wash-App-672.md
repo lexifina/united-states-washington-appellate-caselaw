@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19077-0-II; 19624-7-II; 19607-7-II; 19185-7-II"
 decided: "1997-03-07"
-citations: ["85 Wash. App. 672", "85 Wash. App. 1016"]
+citations: ["85 Wash. App. 672"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Arturo Hernandez, Appellant. 
 source_url: "https://static.case.law/wash-app/85/cases/0672-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 277669
-cites_cases: ["101 Wn.2d 291", "113 A.L.R. Fed. 873", "118 Wn.2d 681", "224 F.2d 742", "40 Wn. App. 717", "502 P.2d 1037", "56 Wn. App. 921", "58 Wn. App. 57", "60 Wn. App. 687", "618 P.2d 99", "64 Wn. App. 410", "678 P.2d 323", "68 Wn. App. 480", "7 Wn. App. 726", "700 P.2d 751", "725 F.2d 43", "788 P.2d 1081", "791 P.2d 905", "806 P.2d 782", "824 P.2d 533", "826 P.2d 194", "843 P.2d 1098", "85 Wn. App. 672", "855 F.2d 327", "887 F.2d 537", "893 F.2d 1173", "94 Wn.2d 634", "992 F.2d 678"]
+cites_cases: ["101 Wn.2d 291", "113 A.L.R. Fed. 873", "118 Wn.2d 681", "224 F.2d 742", "40 Wn. App. 717", "502 P.2d 1037", "56 Wn. App. 921", "58 Wn. App. 57", "60 Wn. App. 687", "618 P.2d 99", "64 Wn. App. 410", "678 P.2d 323", "68 Wn. App. 480", "7 Wn. App. 726", "700 P.2d 751", "725 F.2d 43", "788 P.2d 1081", "791 P.2d 905", "806 P.2d 782", "824 P.2d 533", "826 P.2d 194", "843 P.2d 1098", "855 F.2d 327", "887 F.2d 537", "893 F.2d 1173", "94 Wn.2d 634", "992 F.2d 678"]
 ---
 
 # State v. Hernandez
