@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32804-2-I"
 decided: "1995-01-17"
-citations: ["77 Wash. App. 242", "76 Wash. App. 1074"]
+citations: ["77 Wash. App. 242"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Kenneth Fukuo Hursh, Appellan
 source_url: "https://static.case.law/wash-app/77/cases/0242-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 415883
-cites_cases: ["103 Wn.2d 304", "107 Wn.2d 503", "109 Wn.2d 1016", "111 Wn.2d 1012", "111 Wn.2d 121", "112 Wn.2d 347", "113 Wn.2d 226", "114 Wn.2d 1008", "116 Wn.2d 315", "117 Wn.2d 829", "121 L. Ed. 2d 112", "121 Wn.2d 1", "124 Wn.2d 702", "126 Wn.2d 1025", "18 Wn. App. 99", "22 Wn. App. 415", "47 Wn. App. 165", "48 Wn. App. 815", "501 U.S. 1237", "51 Wn. App. 615", "512 P.2d 718", "52 Wn. App. 298", "55 Wn. App. 923", "566 P.2d 959", "58 Wn. App. 57", "584 P.2d 382", "591 P.2d 789", "60 Wn. App. 654", "60 Wn. App. 687", "60 Wn. App. 767", "649 P.2d 633", "692 P.2d 823", "730 P.2d 1327", "734 P.2d 520", "740 P.2d 904", "75 Wn. App. 473", "754 P.2d 1000", "757 P.2d 531", "759 P.2d 475", "77 Wn. App. 242", "771 P.2d 330", "778 P.2d 1037", "780 P.2d 901", "791 P.2d 905", "804 P.2d 10", "806 P.2d 772", "806 P.2d 782", "807 P.2d 893", "82 Wn.2d 577", "822 P.2d 177", "846 P.2d 527", "878 P.2d 487", "881 P.2d 231", "90 Wn.2d 443", "97 Wn.2d 724"]
+cites_cases: ["103 Wn.2d 304", "107 Wn.2d 503", "109 Wn.2d 1016", "111 Wn.2d 1012", "111 Wn.2d 121", "112 Wn.2d 347", "113 Wn.2d 226", "114 Wn.2d 1008", "116 Wn.2d 315", "117 Wn.2d 829", "121 L. Ed. 2d 112", "121 Wn.2d 1", "124 Wn.2d 702", "126 Wn.2d 1025", "18 Wn. App. 99", "22 Wn. App. 415", "47 Wn. App. 165", "48 Wn. App. 815", "501 U.S. 1237", "51 Wn. App. 615", "512 P.2d 718", "52 Wn. App. 298", "55 Wn. App. 923", "566 P.2d 959", "58 Wn. App. 57", "584 P.2d 382", "591 P.2d 789", "60 Wn. App. 654", "60 Wn. App. 687", "60 Wn. App. 767", "649 P.2d 633", "692 P.2d 823", "730 P.2d 1327", "734 P.2d 520", "740 P.2d 904", "75 Wn. App. 473", "754 P.2d 1000", "757 P.2d 531", "759 P.2d 475", "771 P.2d 330", "778 P.2d 1037", "780 P.2d 901", "791 P.2d 905", "804 P.2d 10", "806 P.2d 772", "806 P.2d 782", "807 P.2d 893", "82 Wn.2d 577", "822 P.2d 177", "846 P.2d 527", "878 P.2d 487", "881 P.2d 231", "90 Wn.2d 443", "97 Wn.2d 724"]
 ---
 
 # State v. Hursh
