@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25208-9-I"
 decided: "1992-01-13"
-citations: ["64 Wash. App. 661", "63 Wash. App. 1044"]
+citations: ["64 Wash. App. 661"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Douglas Northwest, Inc., et al, Appellants, v. Bill O'Brien & Sons Co
 source_url: "https://static.case.law/wash-app/64/cases/0661-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1722489
-cites_cases: ["10 Wn. App. 266", "103 Wn.2d 1039", "105 P. 822", "106 Wn.2d 443", "107 Wn.2d 468", "110 Wn.2d 415", "113 Wn.2d 148", "115 Wn.2d 364", "130 P. 1137", "138 Wash. 39", "15 Wn. App. 481", "191 Wash. 477", "222 P.2d 824", "225 P.2d 888", "231 P.2d 313", "234 P.2d 865", "244 P. 273", "26 Wn. App. 351", "29 Wn. App. 228", "32 Wn. App. 144", "37 Wn. App. 677", "37 Wn.2d 220", "37 Wn.2d 724", "38 Wn.2d 624", "39 Wn.2d 151", "399 P.2d 611", "40 Wn. App. 98", "422 P.2d 319", "442 P.2d 621", "45 A.L.R. 766", "50 Wn. App. 611", "513 P.2d 831", "517 P.2d 203", "551 P.2d 147", "56 Wash. 344", "57 Wn. App. 170", "608 P.2d 631", "61 Wn. App. 463", "613 P.2d 169", "628 P.2d 482", "64 Wn. App. 661", "646 P.2d 161", "65 Wn.2d 817", "677 P.2d 242", "681 P.2d 1312", "696 P.2d 1270", "70 Wn.2d 72", "71 P.2d 559", "72 Wash. 537", "722 P.2d 796", "730 P.2d 662", "74 Wn.2d 25", "749 P.2d 691", "755 P.2d 781", "776 P.2d 963", "787 P.2d 58", "798 P.2d 799", "810 P.2d 1366", "82 Wn.2d 736", "87 Wn.2d 1011", "93 Wn.2d 249", "96 Wn.2d 1002"]
+cites_cases: ["10 Wn. App. 266", "103 Wn.2d 1039", "105 P. 822", "106 Wn.2d 443", "107 Wn.2d 468", "110 Wn.2d 415", "113 Wn.2d 148", "115 Wn.2d 364", "130 P. 1137", "138 Wash. 39", "15 Wn. App. 481", "191 Wash. 477", "222 P.2d 824", "225 P.2d 888", "231 P.2d 313", "234 P.2d 865", "244 P. 273", "26 Wn. App. 351", "29 Wn. App. 228", "32 Wn. App. 144", "37 Wn. App. 677", "37 Wn.2d 220", "37 Wn.2d 724", "38 Wn.2d 624", "39 Wn.2d 151", "399 P.2d 611", "40 Wn. App. 98", "422 P.2d 319", "442 P.2d 621", "45 A.L.R. 766", "50 Wn. App. 611", "513 P.2d 831", "517 P.2d 203", "551 P.2d 147", "56 Wash. 344", "57 Wn. App. 170", "608 P.2d 631", "61 Wn. App. 463", "613 P.2d 169", "628 P.2d 482", "646 P.2d 161", "65 Wn.2d 817", "677 P.2d 242", "681 P.2d 1312", "696 P.2d 1270", "70 Wn.2d 72", "71 P.2d 559", "72 Wash. 537", "722 P.2d 796", "730 P.2d 662", "74 Wn.2d 25", "749 P.2d 691", "755 P.2d 781", "776 P.2d 963", "787 P.2d 58", "798 P.2d 799", "810 P.2d 1366", "82 Wn.2d 736", "87 Wn.2d 1011", "93 Wn.2d 249", "96 Wn.2d 1002"]
 ---
 
 # Douglas Northwest, Inc. v. Bill O'Brien & Sons Construction, Inc.
