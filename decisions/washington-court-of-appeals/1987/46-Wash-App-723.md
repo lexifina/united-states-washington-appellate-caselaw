@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "8630-1-II"
+decided: "1987-01-30"
+citations: ["46 Wash. App. 723"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Reed, C.J., and Alexander, J., concur."]
+parties: ["The State of Washington, Respondent, v. Kerry S. Thomas, Appellant."]
+source_url: "https://static.case.law/wash-app/46/cases/0723-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1811755
+cites_cases: ["101 Wn.2d 349", "105 Wn.2d 1013", "33 Wn. App. 579", "42 Wn. App. 533", "562 P.2d 632", "616 P.2d 628", "653 P.2d 612", "657 P.2d 338", "713 P.2d 122", "88 Wn.2d 394", "94 Wn.2d 216", "98 Wn.2d 53"]
+---
+
+# State v. Thomas
+
+## Majority (Worswick, J.)
+
+Worswick, J.
+Kerry Thomas appeals her conviction of attempting to elude a police vehicle. The significant issue we consider, raised by substitute counsel on appeal, is whether Thomas was deprived of the effective assistance of counsel at trial. We affirm, holding that she was not.
+On October 16, 1984 at 2:30 in the morning, the bartender at the Blue Goose Tavern called the Kitsap County Sheriff's Office to report an erratically driven vehicle. Deputy Wayne Gulla responded, took a description, and went looking for the car. A short distance from the tavern, Gulla noticed that a car had apparently failed to negotiate a turn and had driven through a cyclone fence; inasmuch as the car had continued on, Gulla did, too. Down the road he met Deputy John Sandberg, who was also responding to the call. While they were talking, Gulla noticed the headlights of a car weaving toward him. He drove toward it but had to take evasive action to avoid a head-on collision, because the car was on the wrong side of the road.
+The car, a Firebird, matched the description given by the bartender. Gulla started in pursuit with Sandberg immediately behind. Gulla activated the alternating headlights, alternating red and blue strobe lights, rear deck lights, and siren on his patrol car when he was less than two car lengths away from the Firebird. He noticed that the Fire-bird then accelerated and weaved across the road; it continued to weave throughout the chase.
+Sandberg, following behind Gulla, also had all of his emergency equipment working. Both deputies testified that at one point when the Firebird turned left, they each "aimed" their emergency equipment directly into the driver's side window. Gulla testified that he saw the driver, Thomas, look directly at both police vehicles, and that she then accelerated. The deputies also testified that Thomas' speed ranged from 20 to 50 miles an hour, that she made very wide turns at unsafe speeds and accelerated on the straight stretches. The chase ended when she turned into a dead-end street and the patrol cars blocked her escape.
+Thomas unsuccessfully moved to dismiss at the end of the State's case, claiming that the State had failed to show that she formed the necessary intent to commit the crime. The defense then called a witness to testify as an expert on the effect of alcohol on one's mental processes. Although the court agreed that such testimony was admissible, the witness in question was not allowed to testify because she did not qualify as an expert.
+Thomas testified on her own behalf. She stated she began drinking around 4 p.m. and continued to do so until 2 a.m. She said she had an alcoholic blackout while being chased and could remember very little about the incident.
+In addition to appropriate instructions on the offense charged, the jury was instructed on the effect of voluntary intoxication and on the lesser included offense of reckless driving. In argument, defense counsel contended that Thomas' blackout prevented her from forming the required intent. The jury apparently disagreed; it convicted her.
+Thomas was first represented on appeal by her trial counsel, who made the following contentions that we can dispose of quickly:
+1. The trial court erred in denying Thomas' motion to dismiss. Thomas put on evidence after this ruling and cannot now assert this challenge. State v. Allan, 88 Wn.2d 394, 396, 562 P.2d 632 (1977). We are also satisfied that the evidence fully supported the verdict under the standard of State v. Green, 94 Wn.2d 216, 616 P.2d 628 (1980).
+2. The State failed to prove that the patrol vehicles were appropriately marked, as required by RCW 46.61.024. It did not. One vehicle was fully marked with police insignia. The other had equipment and lights that only a police vehicle is authorized to use. Its markings were "appropriate. "
+3. The court erred in failing to give, sua sponte, the instruction required by State v. Sherman, 98 Wn.2d 53, 653 P.2d 612 (1982). It did not err. No such instruction was offered. State v. Russell, 33 Wn. App. 579, 657 P.2d 338 (1982), rev'd in part on other grounds, 101 Wn.2d 349 (1984).
+Thomas' substitute counsel on appeal contends that she did not have the effective assistance of counsel at trial, because trial counsel failed to call a qualified expert and failed to offer the instruction contemplated by State v. Sherman, supra, which we discuss below. We disagree.
+To prevail on a claim of ineffective assistance of counsel, a defendant must show, first, that counsel's performance was deficient and, second, that defendant was prejudiced by the deficiency. State v. Sardinia, 42 Wn. App. 533, 713 P.2d 122, review denied, 105 Wn.2d 1013 (1986). The first element is met by a showing that counsel's performance fell below an objective standard of reasonableness; the second, by a showing that there is a "reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different". Sardinia, 42 Wn. App. at 539. Thomas fails to meet these requirements.
+As to the expert witness, we will assume arguendo that a lawyer who calls an expert witness is deficient in neglecting to ascertain the witness' qualifications; thus we assume that the first Sardinia element has been satisfied here. There is, however, no showing that it made any difference. First, there simply is no showing that there was an expert who could have offered testimony helpful to Thomas. We will not infer the existence of such a person from a silent record. Second, there is no showing that any expert testimony would have helped. The fact is that Thomas was drunk. Surely the collective experience of a jury is sufficient to apprise the jurors of the effects of drunkenness.
+We also conclude that the trial court would have committed no prejudicial error in refusing a Sherman instruction had it been offered. Therefore, counsel's failure to offer it did not prejudice Thomas.
+Under RCW 46.61.024, the State is required to prove that the defendant drove in a manner "indicating a wanton or wilful disregard for the lives or property of others ..." (Italics ours.) Sherman acknowledged that this mental state element can be inferred from circumstantial evidence. It noted, however, that the inference was rebuttable because the statutory language contemplated proof that the requisite mental state was both objectively manifested and subjectively held. It held that the jury must be instructed that the inference was rebuttable, but that the failure to give such an instruction was harmless if the defendant offered no evidence to rebut the inference. Sherman, 98 Wn.2d at 59-60. Thomas offered no such evidence in this case; therefore, the absence of such instruction did not prejudice her. It follows that she has not satisfied the second Sardinia element with reference to trial counsel's failure to request the instruction.
+Our reading of Sherman convinces us that the rebuttal evidence requiring the instruction must consist of an affirmative showing that the defendant had a noncriminal mental state (e.g., her throttle stuck; she thought the police were robbers, etc.). Thomas offered no evidence to show that she had an innocent mental state. Instead, she employed a diminished capacity defense, not in an attempt to show that she had an innocent mental state, but that she had no mental state at all.
+It is apparent to us, and we hold, that a voluntary intoxication/diminished capacity defense is inconsistent with the innocent mental state evidence contemplated by Sherman.
+Affirmed.
+Reed, C.J., and Alexander, J., concur.
+Review granted by Supreme Court March 31, 1987.
