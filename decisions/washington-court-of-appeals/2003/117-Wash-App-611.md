@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50337-5-I"
 decided: "2003-05-27"
-citations: ["117 Wash. App. 611", "117 Wash. App. 1001"]
+citations: ["117 Wash. App. 611"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Kim Michael Smith. The State of Was
 source_url: "https://static.case.law/wash-app/117/cases/0611-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 652688
-cites_cases: ["105 Wn. App. 62", "106 Wn. App. 85", "107 Wn.2d 196", "113 Wn. App. 723", "114 Wn.2d 772", "117 Wn. App. 611", "137 Wn.2d 756", "144 Wn.2d 1016", "145 Wn.2d 1036", "145 Wn.2d 275", "147 Wn.2d 476", "18 P.3d 615", "22 P.3d 283", "32 P.3d 284", "36 P.3d 1034", "466 U.S. 668", "54 P.3d 723", "55 P.3d 597", "586 P.2d 1168", "728 P.2d 138", "791 P.2d 519", "91 Wn.2d 86", "976 P.2d 102"]
+cites_cases: ["105 Wn. App. 62", "106 Wn. App. 85", "107 Wn.2d 196", "113 Wn. App. 723", "114 Wn.2d 772", "137 Wn.2d 756", "144 Wn.2d 1016", "145 Wn.2d 1036", "145 Wn.2d 275", "147 Wn.2d 476", "18 P.3d 615", "22 P.3d 283", "32 P.3d 284", "36 P.3d 1034", "466 U.S. 668", "54 P.3d 723", "55 P.3d 597", "586 P.2d 1168", "728 P.2d 138", "791 P.2d 519", "91 Wn.2d 86", "976 P.2d 102"]
 ---
 
 # State v. Smith
