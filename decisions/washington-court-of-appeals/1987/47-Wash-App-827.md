@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7654-7-III"
 decided: "1987-04-14"
-citations: ["47 Wash. App. 827", "47 Wash. App. 1039"]
+citations: ["47 Wash. App. 827"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Spokane County, Appellant, v. The Utilities and Transportation Commis
 source_url: "https://static.case.law/wash-app/47/cases/0827-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1836397
-cites_cases: ["100 Wn.2d 1007", "100 Wn.2d 1030", "101 Wn.2d 475", "105 Wn.2d 133", "142 P.2d 900", "150 P.2d 399", "19 Wn.2d 383", "21 Wn.2d 137", "23 Wn. App. 516", "28 Wn. App. 119", "34 Wn. App. 581", "35 Wn. App. 533", "44 Wn. App. 379", "46 Wn. App. 275", "47 Wn. App. 827", "596 P.2d 296", "621 P.2d 716", "622 P.2d 1283", "663 P.2d 843", "667 P.2d 1133", "680 P.2d 55", "712 P.2d 296", "722 P.2d 854", "730 P.2d 112", "92 Wn.2d 1013", "94 Wn.2d 889"]
+cites_cases: ["100 Wn.2d 1007", "100 Wn.2d 1030", "101 Wn.2d 475", "105 Wn.2d 133", "142 P.2d 900", "150 P.2d 399", "19 Wn.2d 383", "21 Wn.2d 137", "23 Wn. App. 516", "28 Wn. App. 119", "34 Wn. App. 581", "35 Wn. App. 533", "44 Wn. App. 379", "46 Wn. App. 275", "596 P.2d 296", "621 P.2d 716", "622 P.2d 1283", "663 P.2d 843", "667 P.2d 1133", "680 P.2d 55", "712 P.2d 296", "722 P.2d 854", "730 P.2d 112", "92 Wn.2d 1013", "94 Wn.2d 889"]
 ---
 
 # Spokane County v. Utilities & Transportation Commission
