@@ -1,0 +1,19 @@
+---
+court: "Washington Court of Appeals"
+docket: "10522-1-I"
+decided: "1982-11-15"
+citations: ["33 Wash. App. 1020"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. John Raymond Goodwin, Appellant."]
+source_url: "https://static.case.law/wash-app/33/cases/1020-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1819548
+---
+
+# State v. Goodwin
+
+## Majority
+
+Appeal from a judgment of the Superior Court for King County, No. 81-1-01088-8, Jim Bates, J., entered June 30, 1982. Affirmed by unpublished opinion per Swanson, J., concurred in by Andersen, C.J., and Corbett, J.
