@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28147-0-I"
 decided: "1992-03-23"
-citations: ["65 Wash. App. 594", "64 Wash. App. 1031"]
+citations: ["65 Wash. App. 594"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bellevue 120th Associates, Appellant, v. The City of Bellevue, Respon
 source_url: "https://static.case.law/wash-app/65/cases/0594-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1736035
-cites_cases: ["103 Wn.2d 441", "112 Wn.2d 68", "114 Wn.2d 320", "119 Wn.2d 1021", "473 U.S. 172", "65 Wn. App. 594", "693 P.2d 1369", "768 P.2d 462", "787 P.2d 907"]
+cites_cases: ["103 Wn.2d 441", "112 Wn.2d 68", "114 Wn.2d 320", "119 Wn.2d 1021", "473 U.S. 172", "693 P.2d 1369", "768 P.2d 462", "787 P.2d 907"]
 ---
 
 # Bellevue 120th Associates v. City of Bellevue
