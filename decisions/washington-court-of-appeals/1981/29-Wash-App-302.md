@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "4021-6-III"
+decided: "1981-05-12"
+citations: ["29 Wash. App. 302"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Hobart Corporation, Respondent, v. North Central Credit Services, Inc., Appellant."]
+source_url: "https://static.case.law/wash-app/29/cases/0302-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1824324
+cites_cases: ["11 Wn. App. 476", "139 Ga. App. 264", "14 Wn. App. 909", "228 S.E.2d 181", "245 S.E.2d 510", "310 F. Supp. 338", "36 N.C. App. 401", "363 F. Supp. 369", "407 F. Supp. 799", "471 F.2d 785", "491 F.2d 1041", "509 F.2d 1009", "523 P.2d 969", "545 F.2d 1239", "546 P.2d 117", "585 P.2d 71", "90 Wn.2d 476"]
+---
+
+# Hobart Corp. v. North Central Credit Services, Inc.
+
+## Majority (McInturff, C.J.)
+
+McInturff, C.J.
+North Central Credit Services, Inc. (North Central) appeals from a summary judgment granted in favor of Hobart Corporation (Hobart) concerning a secured transaction.
+Hobart sold meat cutting equipment on two separate contracts to Dean Nielson, then doing business as Country Market located in Electric City, Washington. North Central, pursuant to a judgment, caused the Ferry County Sheriff to levy on the equipment. Hobart then filed a complaint against North Central for the cost of the equipment plus interest. On May 16, 1980, the trial court determined Hobart duly filed its security interest and awarded the company $2,529.14 plus interest and reasonable attorney's fees. North Central appeals this adjudication.
+We initially notice Hobart has chosen not to file a responding brief. Under these circumstances we must examine the brief of North Central and the record to determine whether a prima facie showing has been made which requires reversal. In re Marriage of Forsyth, 14 Wn. App. 909, 912, 546 P.2d 117 (1976); Aquarian Foundation v. KTVW, Inc., 11 Wn. App. 476, 478, 523 P.2d 969 (1974).
+North Central contends Hobart's security interest was not perfected and therefore subordinate to the rights of North Central as a judgment creditor.
+RCW 62A.9-402(1) sets forth as formal requisites of a financing statement: (1) signatures and addresses of both parties; and (2) a description of the collateral by type of item. These requirements include the minimal requirements for a security agreement governed by RCW 62A.9-203(1). Consequently under RCW 62A.9-402(1) a copy of the security agreement is sufficient as a financing statement if it contains the above information and is signed by both parties. Both security agreements in the case at bench were signed by either Mr. Nielson or his agent, but neither financing statement was signed by the debtor, Mr. Nielson. Since we cannot determine from the record if these instruments were filed together, we presume only the financing statements were filed and thus focus our analysis on whether the financing statements here are effective.
+The purpose of a financing statement is to give notice to the world that the designated parties have entered into a secured transaction covering described collateral. Since financing statements are indexed under the debtor's name and not under the name of the secured party, a mistake in the secured party's name would ordinarily not be important. In re Wilco Forest Mach., Inc., 491 F.2d 1041, 1045 (5th Cir. 1974). However, the requirement of liberally construing the code must not.be carried to the extent of allowing the omission of the debtor's signature from the financing statement because this would deprive the debtor of the protection which the code was designed to provide and defeat the object of uniformity. See 4 R. Anderson, Uniform, Commercial Code § 9-402:20 (2d ed. 1971).
+Substantial, not exact, compliance with the financing statement requirements is all that is required for an effective filing, and the statement will be given effect if the minor errors are not seriously misleading. See RCW 62A.9-402(5). We find the typed name "Country Market” on one financing statement and the typed name "Dean Nielson, d/b/a Country Market" on the other financing statement are seriously misleading. Some individuals operate businesses as sole proprietorships under names other than their own. As stated by the court in Siljeg v. National Bank of Commerce, 509 F.2d 1009, 1012 (9th Cir. 1975):
+The issue to be determined is not the true name of the entity, but whether the filing was misleading. Filing under an assumed trade name is effective unless it is misleading.
+The "true name" analysis is helpful, however, in the "doing business as" cases because in such cases there are, in effect, two entities. The individual debtor still has personal transactions unrelated to his business activities: He pays rent, buys food and contracts debts in his own name. His personal creditors may not know of security interests filed under the name in which he does business.
+(Citation omitted.) Here, Mr. Nielson and Country Market, an unincorporated extension of himself, are in effect two entities and use of "Country Market" alone can be misleading to other creditors. See also In re Leichter, 471 F.2d 785, 786-87 (2d Cir. 1972); In re Fowler, 407 F. Supp. 799, 802 (W.D. Okla. 1975); In re Firth, 363 F. Supp. 369, 371-72 (M.D. Ga. 1973). Moreover, an individual can do business under any number of names, thus the only acceptable name to be used to achieve basic notice to creditors is the individual's proper name. See, e.g., In re Thomas, 310 F. Supp. 338, 340 (N.D. Cal. 1970); J. White & R. Summers, Uniform Commercial Code § 23-16 (1972). Additionally, where there is nothing on the face of the financing statement to indicate the debtor has adopted a typed name as his signature, the statement is not to be regarded as signed by him. Provident Fin. Co. v. Beneficial Fin. Co., 36 N.C. App. 401, 245 S.E.2d 510, 515 (1978). We therefore conclude North Central has established a prima facie case of invalidity. Consequently, the unperfected security interest is subordinate to the rights of North Central, a judgment lien creditor. See RCW 62A.9-301(3).
+North Central also maintains the trial court erred in awarding attorney's fees. We agree. In general, attorney's fees may not be awarded in the absence of contract, statute, or recognized ground in equity. Seattle School Dist. 1 v. State, 90 Wn.2d 476, 540, 585 P.2d 71 (1978). Although a contract provision under the security agreement provides for all costs and expenses, including reasonable attorney's fees, the agreement was between Hobart and Mr. Nielson and therefore not applicable to North Central.
+Judgment of the Superior Court is reversed; summary judgment is granted in favor of North Central.
+Green and Roe, JJ., concur.
+RCW 62A.9-402(1) states in part:
+"A financing statement is sufficient if it is signed by the debtor and the secured party, gives an address of the secured party from which information concerning the security interest may be obtained, gives a mailing address of the debtor and contains a statement indicating the types, or describing the items, of collateral. ... A copy of the security agreement is sufficient as a financing statement if it contains the above information and is signed by both parties." (Italics ours.)
+RCW 62A.9-203(1) provides:
+"(1) Subject to the provisions of RCW 62A.4-208 on the security interest of a collecting bank and RCW 62A.9-113 on a security interest arising under the Article on Sales, a security interest is not enforceable against the debtor or third parties unless
+"(a) the collateral is in the possession of the secured party; or
+"(b) the debtor has signed a security agreement which contains a description of the collateral and in addition, when the security interest covers crops or oil, gas or minerals to be extracted or timber to be cut, a description of the land concerned. In describing collateral, the word "proceeds" is sufficient without further description to cover proceeds of any character."
+While a copy of the security agreement may be filed as a financing statement if it meets the requirements of RCW 62A.9-402(1), it is customary to file a standard form financing statement which both parties must sign under the 1962 code adopted by Washington. See R. Henson, Secured Transactions §§ 4-5, 4-9 (2d ed. 1979).
+RCW 62A.9-302(1) states a financing statement must be filed to perfect all security interests, subject to exceptions not applicable here.
+The typing or stamping of the creditor's name on the financing statement's line for signing is a sufficient signature under the code. See RCW 62A.1-201(39); In re Save-On-Carpets of Ariz., Inc., 545 F.2d 1239 (9th Cir. 1976); Peoples Bank v. Northwest Ga. Bank, 139 Ga. App. 264, 228 S.E.2d 181 (1976).
+RCW 62A.9-402(5) provides:
+"A financing statement substantially complying with the requirements of this section is effective even though it contains minor errors which are not seriously misleading."
+RCW 62A.1-201(39) states:
+"Signed" includes any symbol executed or adopted by a party with present intention to authenticate a writing.
+We believe the importance placed upon financing statements in case law dealing with the debtor's signature on them indicates the courts should apply the definition contained within RCW 62A.1-201(39) with caution. As noted in J. White & R. Summers, Uniform Commercial Code 835 (1972):
+We have found no case construing the official version of 9-402 in which a court found a financing statement to be effective despite the absence of the signature of the debtor. If the debtor’s signature is omitted the financing statement is ineffective.
+(Italics ours.) Here we note nothing on the face of the instrument to indicate Mr. Nielson adopted a typed name as his signature; thus it is ineffective.
