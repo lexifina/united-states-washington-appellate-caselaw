@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8279-2-III"
 decided: "1988-04-26"
-citations: ["51 Wash. App. 893", "51 Wash. App. 1019"]
+citations: ["51 Wash. App. 893"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Mary Kay McDaniel, Appellant, v. The Department of Social and Health 
 source_url: "https://static.case.law/wash-app/51/cases/0893-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 591739
-cites_cases: ["102 Wn.2d 1021", "29 Wn. App. 541", "29 Wn. App. 599", "38 Wn. App. 572", "397 U.S. 254", "42 Wn. App. 84", "434 P.2d 734", "459 U.S. 1106", "508 P.2d 166", "51 Wn. App. 893", "527 P.2d 1121", "563 P.2d 203", "586 F.2d 959", "630 P.2d 456", "630 P.2d 470", "646 P.2d 113", "654 F.2d 254", "663 F.2d 272", "686 P.2d 1122", "709 P.2d 1213", "72 Wn.2d 673", "82 Wn.2d 109", "84 Wn.2d 551", "88 Wn.2d 490", "96 P.2d 1003", "96 Wn.2d 1004", "97 Wn.2d 317"]
+cites_cases: ["102 Wn.2d 1021", "29 Wn. App. 541", "29 Wn. App. 599", "38 Wn. App. 572", "397 U.S. 254", "42 Wn. App. 84", "434 P.2d 734", "459 U.S. 1106", "508 P.2d 166", "527 P.2d 1121", "563 P.2d 203", "586 F.2d 959", "630 P.2d 456", "630 P.2d 470", "646 P.2d 113", "654 F.2d 254", "663 F.2d 272", "686 P.2d 1122", "709 P.2d 1213", "72 Wn.2d 673", "82 Wn.2d 109", "84 Wn.2d 551", "88 Wn.2d 490", "96 P.2d 1003", "96 Wn.2d 1004", "97 Wn.2d 317"]
 ---
 
 # McDaniel v. Department of Social & Health Services
