@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44863-3-I"
 decided: "2000-07-17"
-citations: ["102 Wash. App. 84", "101 Wash. App. 1045"]
+citations: ["102 Wash. App. 84"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. H.E.J., Appellant."]
 source_url: "https://static.case.law/wash-app/102/cases/0084-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301196
-cites_cases: ["102 Wn. App. 84", "135 Wn.2d 326", "139 Wn.2d 1014", "67 Wn. App. 448", "836 P.2d 239", "93 Wn. App. 783", "957 P.2d 655", "96 Wn. App. 167", "970 P.2d 785", "978 P.2d 1121", "994 P.2d 849"]
+cites_cases: ["135 Wn.2d 326", "139 Wn.2d 1014", "67 Wn. App. 448", "836 P.2d 239", "93 Wn. App. 783", "957 P.2d 655", "96 Wn. App. 167", "970 P.2d 785", "978 P.2d 1121", "994 P.2d 849"]
 ---
 
 # State v. H.E.J.
