@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24413-6-II"
 decided: "2000-08-04"
-citations: ["102 Wash. App. 400", "101 Wash. App. 1068"]
+citations: ["102 Wash. App. 400"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Puget Sound National Bank, Respondent, v. Fred A. Ferguson, et al., A
 source_url: "https://static.case.law/wash-app/102/cases/0400-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301302
-cites_cases: ["102 Wn. App. 400", "11 U.S.C. § 521", "130 B.R. 656", "140 Wn.2d 1004", "143 F.3d 525", "143 Wn.2d 1002", "160 B.R. 374", "42 Cal. App. 4th 1086", "45 Cal. App. 4th 133", "488 U.S. 967", "50 Cal. Rptr. 2d 119", "506 U.S. 1079", "53 Cal. Rptr. 2d 336", "60 Wash. L. Rev. 805", "631 So. 2d 917", "650 N.E.2d 134", "742 F.2d 862", "824 P.2d 718", "848 F.2d 414", "913 F.2d 1138", "932 F. Supp. 859", "948 F.2d 869", "97 Wn. App. 169", "973 F.2d 474", "978 F.2d 555", "981 F.2d 736", "982 P.2d 1202", "989 F.2d 570", "99 Ohio App. 3d 148"]
+cites_cases: ["11 U.S.C. § 521", "130 B.R. 656", "140 Wn.2d 1004", "143 F.3d 525", "143 Wn.2d 1002", "160 B.R. 374", "42 Cal. App. 4th 1086", "45 Cal. App. 4th 133", "488 U.S. 967", "50 Cal. Rptr. 2d 119", "506 U.S. 1079", "53 Cal. Rptr. 2d 336", "60 Wash. L. Rev. 805", "631 So. 2d 917", "650 N.E.2d 134", "742 F.2d 862", "824 P.2d 718", "848 F.2d 414", "913 F.2d 1138", "932 F. Supp. 859", "948 F.2d 869", "97 Wn. App. 169", "973 F.2d 474", "978 F.2d 555", "981 F.2d 736", "982 P.2d 1202", "989 F.2d 570", "99 Ohio App. 3d 148"]
 cites_law: ["united-states/federal/usc/title-11/521.md"]
 ---
 
