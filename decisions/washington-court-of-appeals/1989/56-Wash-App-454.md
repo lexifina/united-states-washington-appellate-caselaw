@@ -1,0 +1,36 @@
+---
+court: "Washington Court of Appeals"
+docket: "22597-9-I"
+decided: "1989-12-27"
+citations: ["56 Wash. App. 454"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Appellant, v. Carlos Enrique Alvarado, Respondent."]
+source_url: "https://static.case.law/wash-app/56/cases/0454-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1759762
+cites_cases: ["1 Hawaii App. 60", "114 Wn.2d 1015", "150 Cal. App. 3d 687", "18 Or. App. 647", "198 Cal. Rptr. 80", "274 Pa. Super. 571", "29 Wn. App. 642", "387 N.E.2d 762", "518 P.2d 703", "544 F.2d 242", "613 P.2d 909", "629 P.2d 1349", "69 Ill. App. 3d 874", "83 Wn.2d 424"]
+---
+
+# State v. Alvarado
+
+## Majority (Webster, J.)
+
+Webster, J.
+The State of Washington appeals a finding that the police unlawfully arrested Alvarado and seized evidence from him. It argues that the fellow officer rule justifies Alvarado's arrest. We agree and reverse.
+Facts
+Two Seattle police officers conducted narcotics surveillance in downtown Seattle on March 6, 1987. One of them, Officer Trebesh, situated himself behind a draped storefront window. He observed Alvarado and another man standing on the sidewalk directly in front of the window exchange a large sum of money for a small paper package (called a bindle) of cocaine. Officer Trebesh watched two other men a few moments later make another exchange of bindles for money as Alvarado stood nearby. The officer then radioed the suspects' description to an arrest team.
+Meanwhile, Officer Trebesh's partner, Officer Miller, had situated himself on the third floor of another building and watched with binoculars the same drug transaction involving Alvarado. Specifically, he saw a bindle exchanged for a large amount of money. Officer Miller also radioed to a team of officers on the street to arrest Alvarado and his accomplice. Officer Miller's radio transmission contained a description of Alvarado's appearance and location. Moments later Officer Miller watched the other officers arrest Alvarado and his accomplice.
+Neither Officer Trebesh nor Officer Miller could recall who arrested Alvarado. They recalled only that Alvarado was placed in a police wagon and transported to the police station. Officer Miller did remember going to the police station after the surveillance and saw Alvarado in custody.
+Alvarado was charged by information with delivering cocaine on December 4, 1987. Alvarado brought a motion pursuant to CrR 3.6 to suppress evidence seized from him. He argued that the police unlawfully arrested him and that the evidence collected was fruit of the illegal arrest. After a hearing, the court determined that because the State failed to present testimony of the arresting officer, Alvarado had been illegally arrested. The court suppressed the evidence seized.
+Discussion
+In State v. Maesse, 29 Wn. App. 642, 629 P.2d 1349 (1981), this court adopted the so-called "fellow officer" rule which permits a court to determine whether probable cause to arrest exists based on information possessed by the police as a whole. In Maesse, several officers investigating an arson obtained information implicating the defendant. 29 Wn. App. at 643-44. One of the officers instructed another officer, unaware of all of the information known by those involved with the investigation, to arrest the defendant. Maesse, at 644. The court determined that the cumulative information possessed by all of the investigating officers could be considered when assessing whether the police had probable cause to arrest. Maesse, at 648. The court held, "in those circumstances where police officers are acting together as a unit, cumulative knowledge of all the officers involved in the arrest may be considered in deciding whether there was probable cause to apprehend a particular suspect." Maesse, at 647. Thus, a court analyzing whether probable cause exists need not limit its examination of facts to those within the personal or subjective knowledge of the arresting officer. Maesse.
+We recognize that the fellow officer rule cannot be used to justify bad faith arrests of individuals. See, e.g., State v. Mickelson, 18 Or. App. 647, 526 P.2d 583, 584 (1974) (arresting officer must reasonably believe that a fellow officer has probable cause in order to justify an arrest based on the fellow officer's knowledge). However, cooperation between investigating officers or an arrest directive made by an officer possessing probable cause is sufficient to justify an arrest by an officer lacking knowledge of the facts which form the basis of probable cause. See People v. Ford, 150 Cal. App. 3d 687, 198 Cal. Rptr. 80, 86 (1984).
+Here, two officers observed Alvarado engage in a drug transaction. "Probable cause exists where the facts and circumstances within the arresting officer's knowledge and of which he has reasonably trustworthy information are sufficient in themselves to warrant a man of reasonable caution in a belief that an offense has been or is being committed." State v. Gluck, 83 Wn.2d 424, 426-27, 518 P.2d 703 (1974). The officers observed Alvarado exchange a small paper bin-dle, commonly used to contain cocaine, for a large sum of money. They possessed firsthand information that Alvarado had committed an offense. They had probable cause.
+Officers Miller and Trebesh were in communication with an arrest team situated on the street near the location of Alvarado's drug transaction. Both officers radioed to the arrest team a description of Alvarado and a directive to arrest him. Officer Miller testified that he saw Alvarado arrested immediately after the radio communication.
+Alvarado argues that the State must present testimony of the arresting officer in order to justify his warrantless arrest. Alvarado cites no authority which supports this proposition.
+Here, although the State was unable to identify the arresting officer, the circumstances of Alvarado's arrest demonstrate that he was arrested based on a communication from two officers possessing probable cause. "The arresting officer's failure to testify ... is not necessarily fatal to a finding of probable cause." State v. Crowder, 1 Hawaii App. 60, 67, 613 P.2d 909, 914 (1980). Whether the arresting officer had personal knowledge of the information amounting to probable cause is not crucial. The important fact is that the arresting officer acted on a directive made by another officer who had probable cause to arrest. See 2 W. LaFave, Search and Seizure § 3.5(b), at 10 & n.40 (2d ed. 1987). We reverse the trial court and remand for further proceedings.
+Coleman, C.J., and Scholfield, J., concur.
+Review denied at 114 Wn.2d 1015 (1990).
+We distinguish the cases cited by Alvarado: United States v. Woods, 544 F.2d 242, 260 (6th Cir. 1976) (no evidence that officer making arrest was acting under direction of superior); State v. Crowder, 1 Hawaii App. 60, 613 P.2d 909 (1980) (informant lacked sufficient reliability); People v. Creach, 69 Ill. App. 3d 874, 387 N.E.2d 762, 769 (1979) (no communication between officers); Commonwealth v. Gambit, 274 Pa. Super. 571, 418 A.2d 554, 557 (1980) (no communication or connection between officers).
