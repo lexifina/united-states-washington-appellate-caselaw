@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29351-0-II"
 decided: "2004-04-13"
-citations: ["121 Wash. App. 850", "121 Wash. App. 1004"]
+citations: ["121 Wash. App. 850"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ferry County, Appellant, v. Concerned Friends of Ferry County, et al.
 source_url: "https://static.case.law/wash-app/121/cases/0850-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 863868
-cites_cases: ["118 Wn. App. 567", "121 Wn. App. 850", "148 Wn.2d 1", "153 Wn.2d 1016", "1998 WL 498783", "57 P.3d 1156", "76 P.3d 1215", "853 F.2d 322", "96 Wn. App. 522", "979 P.2d 864"]
+cites_cases: ["118 Wn. App. 567", "148 Wn.2d 1", "153 Wn.2d 1016", "1998 WL 498783", "57 P.3d 1156", "76 P.3d 1215", "853 F.2d 322", "96 Wn. App. 522", "979 P.2d 864"]
 ---
 
 # Ferry County v. Concerned Friends
