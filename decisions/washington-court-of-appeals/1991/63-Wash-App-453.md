@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25448-1-I"
 decided: "1991-08-26"
-citations: ["63 Wash. App. 453", "62 Wash. App. 1014"]
+citations: ["63 Wash. App. 453"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dennis Tallariti, et al, Appellants, v. Gerald J. Kildare, et al, Def
 source_url: "https://static.case.law/wash-app/63/cases/0453-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1732794
-cites_cases: ["100 Wn.2d 1025", "103 Wn.2d 768", "105 Wn.2d 457", "110 Wn.2d 381", "113 Wn.2d 479", "118 Wn.2d 1012", "171 W. Va. 607", "35 Wn. App. 435", "39 Wn. App. 466", "426 P.2d 824", "458 P.2d 897", "63 Wn. App. 453", "656 P.2d 1030", "656 P.2d 483", "667 P.2d 125", "668 S.W.2d 307", "694 P.2d 1101", "698 P.2d 77", "71 Wn.2d 119", "716 P.2d 814", "755 P.2d 759", "76 Wn.2d 759", "780 P.2d 1307", "98 Wn.2d 434", "98 Wn.2d 460"]
+cites_cases: ["100 Wn.2d 1025", "103 Wn.2d 768", "105 Wn.2d 457", "110 Wn.2d 381", "113 Wn.2d 479", "118 Wn.2d 1012", "171 W. Va. 607", "35 Wn. App. 435", "39 Wn. App. 466", "426 P.2d 824", "458 P.2d 897", "656 P.2d 1030", "656 P.2d 483", "667 P.2d 125", "668 S.W.2d 307", "694 P.2d 1101", "698 P.2d 77", "71 Wn.2d 119", "716 P.2d 814", "755 P.2d 759", "76 Wn.2d 759", "780 P.2d 1307", "98 Wn.2d 434", "98 Wn.2d 460"]
 ---
 
 # Tallariti v. Kildare
