@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29927-5-II"
 decided: "2004-02-18"
-citations: ["121 Wash. App. 8", "120 Wash. App. 1023"]
+citations: ["121 Wash. App. 8"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Steven Wirth, Appellant."]
 source_url: "https://static.case.law/wash-app/121/cases/0008-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 864014
-cites_cases: ["102 Wn.2d 68", "121 Wn. App. 8", "124 Wn.2d 57", "141 Wash. 18", "152 Wn.2d 1018", "164 Wash. 147", "2 P.2d 681", "250 P. 450", "378 U.S. 368", "391 U.S. 123", "411 P.2d 411", "523 P.2d 1192", "68 Wn.2d 50", "684 P.2d 692", "84 Wn.2d 42", "873 P.2d 514", "90 Wn. App. 54", "950 P.2d 981"]
+cites_cases: ["102 Wn.2d 68", "124 Wn.2d 57", "141 Wash. 18", "152 Wn.2d 1018", "164 Wash. 147", "2 P.2d 681", "250 P. 450", "378 U.S. 368", "391 U.S. 123", "411 P.2d 411", "523 P.2d 1192", "68 Wn.2d 50", "684 P.2d 692", "84 Wn.2d 42", "873 P.2d 514", "90 Wn. App. 54", "950 P.2d 981"]
 ---
 
 # State v. Wirth
