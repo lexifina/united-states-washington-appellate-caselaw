@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22316-7-III"
 decided: "2004-11-02"
-citations: ["124 Wash. App. 322", "124 Wash. App. 1002"]
+citations: ["124 Wash. App. 322"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Darwin Michael Gray, Appellan
 source_url: "https://static.case.law/wash-app/124/cases/0322-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 684220
-cites_cases: ["119 Wn.2d 1011", "119 Wn.2d 192", "123 Wn.2d 877", "124 Wn. App. 322", "434 U.S. 898", "558 P.2d 202", "616 P.2d 628", "64 Wn. App. 410", "70 Wn. App. 200", "824 P.2d 533", "829 P.2d 1068", "852 P.2d 1104", "872 P.2d 1097", "88 Wn.2d 13", "94 Wn.2d 216"]
+cites_cases: ["119 Wn.2d 1011", "119 Wn.2d 192", "123 Wn.2d 877", "434 U.S. 898", "558 P.2d 202", "616 P.2d 628", "64 Wn. App. 410", "70 Wn. App. 200", "824 P.2d 533", "829 P.2d 1068", "852 P.2d 1104", "872 P.2d 1097", "88 Wn.2d 13", "94 Wn.2d 216"]
 ---
 
 # State v. Gray
