@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18000-6-II; 18154-1-II; 18229-7-II"
 decided: "1996-06-07"
-citations: ["82 Wash. App. 521", "82 Wash. App. 1008"]
+citations: ["82 Wash. App. 521"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Hensel, Appellant, v. The Department of Fisheries, Respondent
 source_url: "https://static.case.law/wash-app/82/cases/0521-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043858
-cites_cases: ["115 Wn.2d 217", "119 Wn.2d 783", "122 Wn.2d 397", "124 Wn.2d 1029", "67 Wn. App. 790", "73 Wn. App. 576", "78 Wn. App. 778", "797 P.2d 477", "82 Wn. App. 521", "837 P.2d 14", "840 P.2d 235", "858 P.2d 494", "870 P.2d 987", "896 P.2d 1292"]
+cites_cases: ["115 Wn.2d 217", "119 Wn.2d 783", "122 Wn.2d 397", "124 Wn.2d 1029", "67 Wn. App. 790", "73 Wn. App. 576", "78 Wn. App. 778", "797 P.2d 477", "837 P.2d 14", "840 P.2d 235", "858 P.2d 494", "870 P.2d 987", "896 P.2d 1292"]
 ---
 
 # Hensel v. Department of Fisheries
