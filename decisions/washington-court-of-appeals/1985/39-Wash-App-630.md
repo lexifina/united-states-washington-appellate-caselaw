@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "6274—1—III"
+decided: "1985-01-22"
+citations: ["39 Wash. App. 630"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["John Wilmer Ward II, Appellant, v. Washington State University, Respondent."]
+source_url: "https://static.case.law/wash-app/39/cases/0630-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1794568
+cites_cases: ["10 U.S.C. § 262", "10 U.S.C. § 332", "100 Wn.2d 464", "102 Wn.2d 385", "131 P.2d 943", "15 Wn.2d 673", "158 Wash. 157", "160 Wash. 703", "22 Wash. 64", "27 Wn. App. 397", "291 P. 330", "295 P. 921", "32 Wn. App. 302", "32 Wn. App. 681", "349 Mo. 700", "35 Wn. App. 427", "38 Wn. App. 572", "460 U.S. 1013", "575 P.2d 719", "586 P.2d 1149", "60 P. 60", "618 P.2d 106", "633 P.2d 68", "648 P.2d 94", "649 P.2d 151", "662 P.2d 38", "667 P.2d 136", "670 P.2d 655", "686 P.2d 1122", "687 P.2d 195", "89 Wn.2d 772", "91 Wn.2d 62", "95 Wn.2d 963", "99 Wn.2d 232"]
+---
+
+# Ward v. Washington State University
+
+## Majority (McInturff, A.C.J.)
+
+McInturff, A.C.J.
+— John Wilmer Ward, an Idaho resident, appeals a summary judgment denying his claim for resident-tuition privileges at Washington State University. The sole issue is whether a Washington National Guard reservist is "military personnel" pursuant to former RCW 28B.15.014(2), which entitled military personnel to resident-tuition privileges. We find reservists are not, and affirm.
+The facts are undisputed. Mr. Ward resided in Idaho from September 1980 to June 1982, and during this period he served as a reserve officer for the Washington National Guard. In September 1980, he contacted the Washington State University Office of Admissions (WSU) requesting resident-tuition privileges which are provided to "military personnel".
+Former RCW 28B. 15.014 reads, in pertinent part:
+Regardless of age or domicile, the following shall be entitled to classification as resident students:
+(2) military personnel . . . residing or stationed in the state of Washington . . .
+The statute did not provide a definition for "military personnel." The Legislature amended this section by eliminating this military benefit and by failing to include a savings clause. Laws of 1982, 1st Ex. Sess., ch. 37, § 3, p. 1269. Provisions omitted in the section which the amendment purports to change are considered repealed. State ex rel. Gebhardt v. Superior Court, 15 Wn.2d 673, 685-86, 131 P.2d 943 (1942). The Legislature omitted section (2) from RCW 28B. 15.014; thus that section is repealed.
+When a statute has been repealed, the rights or liabilities created by the statute fall; however, this does not extirpate vested rights, which remain enforceable despite repeal. In re Estate of Hitchman, 100 Wn.2d 464, 474, 670 P.2d 655 (1983) (Brachtenbach, J., dissenting); Lau v. Nelson, 89 Wn.2d 772, 774, 575 P.2d 719 (1978); Robinson v. McHugh, 158 Wash. 157, 163, 291 P. 330 (1930), aff'd, 160 Wash. 703, 295 P. 921 (1931); State v. Lombardo, 32 Wn. App. 681, 683, 649 P.2d 151 (1982); 1A C. Sands, Statutory Construction § 23.33 (4th rev. ed. 1972 & Supp. 1984). To become vested, the right must be one of contract or property. Robinson; State ex rel. Billings v. Bridges, 22 Wash. 64, 66, 60 P. 60 (1900); 1A C. Sands § 23.34.
+At oral argument Mr. Ward contended the contractual relationship between student and university vested his right to resident tuition pursuant to the statute in question, citing Marquez v. UW, 32 Wn. App. 302, 305, 648 P.2d 94 (1982), cert. denied, 460 U.S. 1013 (1983); Maas v. Corporation of Gonzaga Univ., 27 Wn. App. 397, 400, 618 P.2d 106 (1980). Since formal contracts are rarely made in student-university agreements, courts imply general terms of the agreement with specific terms found in the university bulletin. Marquez; see also Note, Expulsion of College and Professional Students — Rights and Remedies, 38 Notre Dame L.J. 174, 183 (1962).
+In Maas, this court determined the student had failed to meet her contractual obligations by virtue of her poor academic performance. Here, we find Mr. Ward, too, failed to meet his contractual obligation: he did not establish residency to qualify for resident tuition. See 44:2 Washington State University Bulletin 359 (1983-85) (one must establish residency for resident tuition). By contrast, WSU lived up to its contract with Mr. Ward by offering resident tuition if he had proven he were a Washington state resident. Since he did not, Mr. Ward's claim abated with the repeal.
+Notwithstanding the effect of the repeal upon Mr. Ward's claim, we now turn to Mr. Ward's contention he is "military personnel" because the National Guard is a "military force", RCW 38.04.010, and reservists are "personnel". RCW 38.38.012. Several rules aid in construing this ambiguous statute. First, this court must give substantial weight to the interpretation made by the agency charged with the administration of the statute, absent a compelling indication that such interpretation conflicts with legislative intent. Safeco Ins. Cos. v. Meyering, 102 Wn.2d 385, 391-92, 687 P.2d 195 (1984); Washington Water Power Co. v. State Human Rights Comm'n, 91 Wn.2d 62, 68-69, 586 P.2d 1149 (1978); International Ass'n of Firefighters, Local 469 v. Public Empl. Relations Comm'n, 38 Wn. App. 572, 575, 686 P.2d 1122 (1984).
+Here, our Legislature delegated WSU and the other state universities as the agencies that must interpret and administer the residency laws. RCW 28B.15.011. These schools uniformly construe this statute as granting resident status to full-time active duty military personnel only. Consequently, one serving in the reserves, a part-time activity, may not qualify for resident-tuition rates pursuant to former RCW 28B.15.014. Since there is no compelling indication the interpretation conflicts with legislative intent, we give this construction significant weight in resolving this ambiguity.
+In any event, where a term is undefined by the statute, it should be given its ordinary meaning. State ex rel. Graham v. Northshore Sch. Dist. 417, 99 Wn.2d 232, 244, 662 P.2d 38 (1983); MAC Amusement Co. v. Department of Rev., 95 Wn.2d 963, 966, 633 P.2d 68 (1981); State v. Peters, 35 Wn. App. 427, 431, 667 P.2d 136 (1983).
+The term "military personnel" ordinarily denotes those who have chosen the military service as a full-time occupation. They should be
+distinguished from the militiamen who are ordinarily occupied in the pursuits of civil life but are organized for discipline and drill and called into the field for temporary military service when the exigencies of the country require it . . .
+State ex rel. McGaughey v. Grayston, 349 Mo. 700, 709, 163 S.W.2d 335 (1942). In short, the National Guard Reserve is primarily composed of civilians who principally serve on weekends. As such, they are not considered "military personnel" until the governor of the state or the President of the United States calls them to active service. 10 U.S.C. § 262 (reserve component purpose to provide trained units available for active duty in armed forces during national emergency or when national security requires). See also Soldiers' and Sailors' Civil Relief Act of 1940, 50 U.S.C. app. § 511 (1982) (military service signifies service on active duty). Hence, we find the term "military personnel" as used in this former statute, includes neither Mr. Ward nor other National Guard reservists.
+We find Mr. Ward's claim abated with the repeal of RCW 28B.15.014. We also find this statute was meant to aid those personnel who serve on a full-time active duty basis in the military. This construction conforms with the agency interpretation, ordinary meaning and overall effect of this statute.
+The judgment of the Superior Court is affirmed.
+Munson and Thompson, JJ., concur.
+RCW 38.04.010 reads, in pertinent part:
+"The term 'national guard' shall mean that part of the military force of the state that is organized, equipped and federally recognized under the provisions of the national defense act of the United States, and shall also include the 'Washington state guard' . . .''
+RCW 38.38.012 reads:
+"Jurisdiction to try certain personnel. (2) No person who has deserted from the state military forces may be relieved from amenability to the jurisdiction of this code by virtue of a separation from any later period of service."
+Generally, a reservist is not on full-time active duty unless the governor of the state or the President of the United States calls him to active service. RCW 38.16.030; 10 U.S.C. § 332. '"[AJctive service'" is any service "requiring the entire time of any . . . person ..." RCW 38.04.010.
