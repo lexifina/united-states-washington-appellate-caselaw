@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43266-4-I"
 decided: "1999-05-17"
-citations: ["96 Wash. App. 517", "95 Wash. App. 1044"]
+citations: ["96 Wash. App. 517"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["BBG Group, LLC, Appellant, v. The City of Monroe, et al., Respondents
 source_url: "https://static.case.law/wash-app/96/cases/0517-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 128667
-cites_cases: ["119 Wn.2d 584", "16 Wn. App. 265", "42 U.S.C. § 1983", "497 P.2d 953", "555 P.2d 421", "6 Wn. App. 985", "81 Wn. App. 182", "83 Wn. App. 566", "835 P.2d 1012", "913 P.2d 828", "922 P.2d 184", "96 Wn. App. 517"]
+cites_cases: ["119 Wn.2d 584", "16 Wn. App. 265", "42 U.S.C. § 1983", "497 P.2d 953", "555 P.2d 421", "6 Wn. App. 985", "81 Wn. App. 182", "83 Wn. App. 566", "835 P.2d 1012", "913 P.2d 828", "922 P.2d 184"]
 ---
 
 # BBG Group, LLC v. City of Monroe
