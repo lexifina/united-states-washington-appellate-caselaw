@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39057-1-I"
 decided: "1997-12-01"
-citations: ["90 Wash. App. 546", "88 Wash. App. 1042"]
+citations: ["90 Wash. App. 546"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Daniel W. Collinsworth, Appel
 source_url: "https://static.case.law/wash-app/90/cases/0546-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 428699
-cites_cases: ["122 Wash. 392", "135 Wn.2d 1002", "18 U.S.C. § 2113", "210 P. 772", "31 Wn. App. 696", "514 P.2d 1393", "527 F.2d 1170", "530 F.2d 576", "628 F.2d 548", "644 P.2d 717", "703 F.2d 1102", "832 F.2d 312", "865 F.2d 626", "9 Wn. App. 792", "90 Wn. App. 546", "945 F.2d 430", "963 F.2d 243"]
+cites_cases: ["122 Wash. 392", "135 Wn.2d 1002", "18 U.S.C. § 2113", "210 P. 772", "31 Wn. App. 696", "514 P.2d 1393", "527 F.2d 1170", "530 F.2d 576", "628 F.2d 548", "644 P.2d 717", "703 F.2d 1102", "832 F.2d 312", "865 F.2d 626", "9 Wn. App. 792", "945 F.2d 430", "963 F.2d 243"]
 ---
 
 # State v. Collinsworth
