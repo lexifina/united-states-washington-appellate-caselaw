@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13892-5-III"
 decided: "1996-05-14"
-citations: ["82 Wash. App. 294", "81 Wash. App. 1039"]
+citations: ["82 Wash. App. 294"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Augustin Valdez, Appellant."]
 source_url: "https://static.case.law/wash-app/82/cases/0294-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1043647
-cites_cases: ["10 A.L.R.3d 974", "110 Wn.2d 466", "130 Wn.2d 1011", "384 U.S. 436", "451 U.S. 477", "475 U.S. 625", "487 U.S. 285", "494 U.S. 344", "58 Wn. App. 778", "755 P.2d 797", "794 P.2d 1325", "82 Wn. App. 294"]
+cites_cases: ["10 A.L.R.3d 974", "110 Wn.2d 466", "130 Wn.2d 1011", "384 U.S. 436", "451 U.S. 477", "475 U.S. 625", "487 U.S. 285", "494 U.S. 344", "58 Wn. App. 778", "755 P.2d 797", "794 P.2d 1325"]
 ---
 
 # State v. Valdez
