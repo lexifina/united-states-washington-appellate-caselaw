@@ -1,0 +1,56 @@
+---
+court: "Washington Court of Appeals"
+docket: "4233-1"
+decided: "1977-09-26"
+citations: ["18 Wash. App. 510"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Williams and Callow, JJ., concur."]
+parties: ["Federal Old Line Insurance Co., et al, Plaintiffs, v. Donald McClintick, as Executor, Appellant, Daniel H. Crandall, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/18/cases/0510-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 471704
+cites_cases: ["111 A. 277", "118 F.2d 761", "13 Wn. App. 641", "161 F.2d 549", "162 F.2d 892", "172 A.L.R. 638", "172 A.L.R. 642", "172 A.L.R. 821", "237 S.W.2d 870", "418 P.2d 443", "444 P.2d 667", "536 P.2d 686", "545 P.2d 1193", "69 Wn.2d 392", "74 Wn.2d 304", "86 Wn.2d 432", "91 N.J. Eq. 382"]
+---
+
+# Federal Old Line Insurance v. McClintick
+
+## Majority (Andersen, J.)
+
+Andersen, J.
+Facts of Case
+This is a dispute over entitlement to the proceeds of a life insurance policy in which, because of the insurance company's insolvency, payment of the policy proceeds was delayed until after the primary beneficiary had died.
+Federal Old Line Insurance Company was undergoing court ordered rehabilitation proceedings at the time its policyholder, Edward E. Crandall, passed away. Because of the financial straits in which the company found itself, it was unable to pay the principal beneficiary of the policy, Mr. Crandall's widow, Eleanor E. Crandall.
+Ultimately, with the aid of the Washington Life and Disability Insurance Guaranty Association, funds did become available to pay the amount due on the policy. By that time, however, Mrs. Crandall had also passed on.
+The contingent beneficiary of the policy is Mr. Crandall's son by a former marriage, Daniel H. Crandall. Both he and the personal representative of the principal beneficiary claimed the right to receive the monies due under the policy.
+Faced with these conflicting claims, the receiver of the insurance company and the Washington Life and Disability Guaranty Association filed this action for interpleader and declaratory relief. The trial court then entered its order impleading the claimants and discharging both the receiver and association from the suit conditioned on their payment into the registry of the court the sums owing under the policy.______
+The personal representative of the deceased principal beneficiary, as well as the contingent beneficiary, Daniel H. Crandall, each filed what he termed a "motion for order to release funds" supported by affidavit.
+The trial court apparently did not take any testimony but handled these motions as being, in effect, cross motions for summary judgment. CR 56. Following a hearing, the trial court entered an "order releasing funds" whereby the contingent beneficiary, Daniel H. Crandall, was awarded the policy proceeds. This appeal followed. The hearing before the trial court was not reported and findings of fact and conclusions of law were not entered.
+Procedural Note
+Interpleader is a remedy involving two steps or stages. During the first, the trial court determines the right of the parties invoking the remedy to compel the claimants to litigate their claims to the stake in one proceeding. CR 22; RCW 4.08.150-.180. That stage of the case has been concluded. The. second stage of interpleader involves the determination of the respective rights of the claimants to the stake, which in this case are the policy proceeds. 7 C. Wright & A. Miller, Federal Practice and Procedure § 1714 (1972). It is only this second stage which is involved in the present appeal.
+Two issues are presented.
+Issues
+Issue One. When the primary or direct beneficiary of a life insurance policy survives the insured, does that beneficiary's right to the policy proceeds vest immediately upon the insured's death in all cases?
+Issue Two. Does any genuine issue of material fact exist in this case which will bar entry of judgment as a matter of law?
+Decision
+Issue One.
+Conclusion. It is a generally accepted principle that the right to the proceeds of a life insurance policy vests in the surviving beneficiary upon the death of the insured, and the fact that the beneficiary may subsequently die before receiving payment does not alter the course of the policy proceeds other than to make them subject to disposal along with the beneficiary's other assets; but that result may be varied by the language of the insurance policy, as it was here.
+Ordinarily, when the death of the beneficiary named in a life insurance policy occurs after that of the insured but before payment of the insurance proceeds, the fund becomes a part of the beneficiary's personal estate, since it is regarded as having vested in the beneficiary upon the insured's death. Stenneck v. Kolb, 91 N.J. Eq. 382, 111 A. 277, 279 (1920); 4 R. Anderson, Couch Cyclopedia of Insurance Law § 27:137 (2d ed. 1960).
+Similarly, when the policy has a contingent beneficiary, if the policy does not contain a provision to the contrary, the same rule pertains, the result being that when the primary or direct beneficiary survives the insured, by however short a time, the rights of contingent beneficiaries are cut off. Rossetti v. Hill, 161 F.2d 549, 550, 172 A.L.R. 638, rehearing denied, 162 F.2d 892, 172 A.L.R. 821 (9th Cir. 1947); Right of contingent beneficiary to proceeds of life policy upon death of direct or primary beneficiary after death of insured, Annot., 172 A.L.R. 642 (1948); 4 R. Anderson, Couch Cyclopedia of Insurance Law § 27:138 (2d ed. 1960).
+However, "[t]he policy may expressly provide for payment to the contingent beneficiary upon the death of the primary beneficiary even though the primary beneficiary had survived the insured." 4 R. Anderson, Couch Cyclopedia of Insurance Law § 27:138, at 683 (2d ed. 1960). See also Annot., 172 A.L.R. 642 (1948)/The policy before us contains such a provision. It reads:
+Upon death of the last surviving principal Beneficiary, whether such death occurs before the Insured or after the Insured and before the full amount due hereunder shall have been paid, the interest of such principal Beneficiary last surviving shall pass to the surviving Contingent Beneficiary or Contingent Beneficiaries, share and share alike.
+(Italics ours.)
+The effect of this clause in the policy is to postpone vesting of the life insurance policy proceeds until they have been paid to the primary beneficiary. See Northwestern Mut. Life Ins. Co. v. Fink, 118 F.2d 761, 763 (6th Cir. 1941); People's Nat'l Bank v. Northwestern Mut. Life Ins. Co., 237 S.W.2d 870, 873 (Ky. 1951). Under this clause it is the fact of nonpayment to the primary beneficiary that is determinative, not the reason for the nonpayment. We therefore hold that since the principal or primary beneficiary of the policy died before the amount due under the policy was paid, so far as the insurance policy is concerned, the right to the proceeds passed to the surviving contingent beneficiary.
+In construing the language of a life insurance policy, the entire contract is to be construed together for the purpose of giving force and effect to each clause. The contract of insurance should be given a fair, reasonable and sensible construction, consonant with the apparent object and intent of the parties, a construction such as would be given the contract by the average person purchasing insurance. Morgan v. Prudential Ins. Co. of America, 86 Wn.2d 432, 434, 545 P.2d 1193 (1976). Our holding herein accords with these rules of construction. It gives effect to the clause noted as well as to the other provisions of the insurance policy. It also gives effect to the intention of the insured which he expressed by his designation of beneficiaries, i.e., if the policy proceeds did not go to his wife, then they were to go to his son by a previous marriage. See Northwestern Mut. Life Ins. Co. v. Fink, supra. If the insured had wanted his wife's estate to be the contingent beneficiary of the policy, he could have named it as the contingent beneficiary.
+If the construction of the policy language were the sole issue in this case, we would affirm the trial court's judgment in favor of the contingent beneficiary, but it is not.
+Issue Two.
+Conclusion. Factual community property issues exist, and since these issues are material, the trial judge erred in entering judgment as a matter of law.
+The affidavit filed by the personal representative of Mrs. Crandall, the deceased principal or primary beneficiary, states in part " [tjhat there is in addition, the question of the community interest owned by Mrs. Crandall since Policy No. S-2727 was acquired after Edward and Eleanor Crandall were married." This assertion is not contested.
+Nothing in the abbreviated record before us reflects whether the funds used to pay premiums on the policy were separate, community or a combination of both or, if any community funds were used for that purpose, whether Mrs. Crandall consented to Mr. Crandall's designation of the contingent beneficiary. See Continuing Legal Educ. Comm., Wash. State Bar Ass'n, Washington Community Property Deskbook ch. 13 (1977); RCW 48.18.440. When there is no genuine issue of material fact that justifies continuing to trial, the second stage of an interpleader action may be adjudicated on a summary judgment motion. However, as here, where there are material factual issues, they must be resolved by the trier of fact. In that event, each claimant has the burden of establishing his or her right to the stake by a preponderance of the evidence. 7 C. Wright & A. Miller, Federal Practice and Procedure § 1714, at 442 (1972).
+The factual community property issues were not tried out; therefore the judgment must be set aside. Ashwell-Twist Co. v. Burke, 13 Wn. App. 641, 643, 536 P.2d 686 (1975).
+Reversed and remanded for further proceedings in accordance herewith.
+Williams and Callow, JJ., concur.
+Federal Old Line Insurance Company is a domestic, mutual life insurance company. On petition of the Insurance Commissioner of the State of Washington, acting pursuant to RCW 48.31, the Superior Court for King County entered an order directing rehabilitation and empowering the insurance commissioner to take possession of the company's assets, hooks, records and files. Liquidation of the company was ultimately ordered in 1971. The circumstances precipitating the company's downfall and the rehabilitation efforts undertaken by the state to save it are chronicled in Kueckelhan v. Federal Old Line Ins. Co. (Mut.), 69 Wn.2d 392, 418 P.2d 443 (1966) and Kueckelhan v. Federal Old Line Ins. Co. (Mut.), 74 Wn.2d 304, 444 P.2d 667 (1968).
+The association was created in 1971 by the Washington Insurance Guaranty Association Act, RCW 48.32, which provides in part:
+"The purpose of this chapter is to provide a mechanism for the payment of covered claims under certain insurance policies to avoid excessive delay in payment and to avoid financial loss to claimants or policyholders because of the insolvency of an insurer, to assist in the detection and prevention of insurer insolvencies, and to provide an association to assess the cost of such protection among insurers." RCW 48.32.010.
