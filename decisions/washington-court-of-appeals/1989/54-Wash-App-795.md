@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22059-4-I"
 decided: "1989-05-30"
-citations: ["54 Wash. App. 795", "54 Wash. App. 1041"]
+citations: ["54 Wash. App. 795"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Estate of Victor F. Fleischman. The Estate of Vi
 source_url: "https://static.case.law/wash-app/54/cases/0795-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1762001
-cites_cases: ["113 Wn.2d 1025", "136 P.2d 1017", "140 N.E. 686", "143 Colo. 469", "147 A.L.R. 598", "17 Wn.2d 674", "197 Misc. 760", "202 P.2d 259", "203 P.2d 1078", "230 P.2d 297", "246 Mass. 131", "280 P.2d 1034", "3 Wn. App. 721", "32 Wn.2d 408", "32 Wn.2d 696", "38 Wn.2d 399", "4 Wn. App. 638", "40 Wn. App. 790", "46 Wn.2d 308", "477 P.2d 29", "484 P.2d 478", "54 Wn. App. 795", "69 A.L.R.3d 122", "700 P.2d 1181", "95 N.Y.S.2d 407"]
+cites_cases: ["113 Wn.2d 1025", "136 P.2d 1017", "140 N.E. 686", "143 Colo. 469", "147 A.L.R. 598", "17 Wn.2d 674", "197 Misc. 760", "202 P.2d 259", "203 P.2d 1078", "230 P.2d 297", "246 Mass. 131", "280 P.2d 1034", "3 Wn. App. 721", "32 Wn.2d 408", "32 Wn.2d 696", "38 Wn.2d 399", "4 Wn. App. 638", "40 Wn. App. 790", "46 Wn.2d 308", "477 P.2d 29", "484 P.2d 478", "69 A.L.R.3d 122", "700 P.2d 1181", "95 N.Y.S.2d 407"]
 ---
 
 # Fleischman v. Fleischman
