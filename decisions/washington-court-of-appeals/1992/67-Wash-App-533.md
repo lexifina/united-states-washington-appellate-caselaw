@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27290-0-I"
 decided: "1992-07-27"
-citations: ["67 Wash. App. 533", "66 Wash. App. 1049"]
+citations: ["67 Wash. App. 533"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ramiro Palomin Munoz, Appella
 source_url: "https://static.case.law/wash-app/67/cases/0533-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715344
-cites_cases: ["113 Wn.2d 912", "117 Wn.2d 829", "120 Wn.2d 1024", "167 Cal. App. 3d 633", "213 Cal. Rptr. 271", "237 Neb. 952", "247 Ga. 685", "279 S.E.2d 203", "48 Wn. App. 781", "65 Wn. App. 245", "67 Wn. App. 533", "741 P.2d 65", "754 F.2d 512", "784 P.2d 1258", "80 A.L.R. Fed. 879", "822 P.2d 177", "828 P.2d 24", "892 F.2d 707"]
+cites_cases: ["113 Wn.2d 912", "117 Wn.2d 829", "120 Wn.2d 1024", "167 Cal. App. 3d 633", "213 Cal. Rptr. 271", "237 Neb. 952", "247 Ga. 685", "279 S.E.2d 203", "48 Wn. App. 781", "65 Wn. App. 245", "741 P.2d 65", "754 F.2d 512", "784 P.2d 1258", "80 A.L.R. Fed. 879", "822 P.2d 177", "828 P.2d 24", "892 F.2d 707"]
 ---
 
 # State v. Munoz
