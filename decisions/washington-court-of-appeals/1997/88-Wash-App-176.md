@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38115-6-I"
 decided: "1997-09-02"
-citations: ["88 Wash. App. 176", "87 Wash. App. 1050"]
+citations: ["88 Wash. App. 176"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Frances Lee, et al., Respondents, v. Jon Lozier, et al., Appellants."
 source_url: "https://static.case.law/wash-app/88/cases/0176-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1592231
-cites_cases: ["100 Wn.2d 853", "104 Wn.2d 677", "135 P.2d 867", "16 Wn. App. 150", "17 Wn.2d 482", "175 P.2d 669", "26 Wn.2d 690", "279 P.2d 438", "3 Wn. App. 393", "309 P.2d 754", "413 P.2d 969", "455 P.2d 372", "46 Wn.2d 163", "477 P.2d 210", "49 Wn. App. 171", "50 Wn.2d 105", "51 Wn. App. 149", "51 Wn. App. 337", "511 P.2d 1387", "52 Wn. App. 288", "553 P.2d 456", "618 P.2d 67", "622 P.2d 812", "676 P.2d 431", "68 Wn.2d 548", "709 P.2d 782", "741 P.2d 1005", "751 P.2d 1208", "753 P.2d 555", "759 P.2d 462", "76 Wn.2d 90", "85 Wn. App. 682", "88 Wn. App. 176", "9 Wn. App. 169", "936 P.2d 4", "94 Wn.2d 479", "95 Wn.2d 20"]
+cites_cases: ["100 Wn.2d 853", "104 Wn.2d 677", "135 P.2d 867", "16 Wn. App. 150", "17 Wn.2d 482", "175 P.2d 669", "26 Wn.2d 690", "279 P.2d 438", "3 Wn. App. 393", "309 P.2d 754", "413 P.2d 969", "455 P.2d 372", "46 Wn.2d 163", "477 P.2d 210", "49 Wn. App. 171", "50 Wn.2d 105", "51 Wn. App. 149", "51 Wn. App. 337", "511 P.2d 1387", "52 Wn. App. 288", "553 P.2d 456", "618 P.2d 67", "622 P.2d 812", "676 P.2d 431", "68 Wn.2d 548", "709 P.2d 782", "741 P.2d 1005", "751 P.2d 1208", "753 P.2d 555", "759 P.2d 462", "76 Wn.2d 90", "85 Wn. App. 682", "9 Wn. App. 169", "936 P.2d 4", "94 Wn.2d 479", "95 Wn.2d 20"]
 ---
 
 # Lee v. Lozier
