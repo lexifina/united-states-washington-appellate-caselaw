@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18553-2-III"
 decided: "2001-02-27"
-citations: ["107 Wash. App. 1", "105 Wash. App. 1009"]
+citations: ["107 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James A. Stansfield, Appellant, v. Douglas County, Defendant, The Sta
 source_url: "https://static.case.law/wash-app/107/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 543204
-cites_cases: ["1 Wn. App. 402", "101 Wn. App. 158", "101 Wn.2d 819", "107 Wn. App. 1", "109 Wn.2d 48", "111 Wn.2d 159", "111 Wn.2d 174", "112 Wn.2d 216", "115 Wn.2d 506", "118 Wn.2d 195", "121 Wn.2d 552", "125 P.2d 681", "13 Wn.2d 485", "134 Wn.2d 769", "135 Wn.2d 658", "14 Wn. App. 564", "141 Wn.2d 1001", "142 Wn.2d 1014", "145 Wn.2d 1009", "184 Wash. 615", "2 P.3d 979", "25 Wn. App. 81", "28 Wn. App. 669", "29 Wn. App. 382", "396 P.2d 171", "42 U.S.C. § 1983", "42 Wn. App. 465", "444 P.2d 806", "461 P.2d 557", "463 P.2d 159", "47 Wash. 558", "47 Wn. App. 787", "477 U.S. 317", "52 P.2d 338", "530 P.2d 291", "544 P.2d 56", "553 P.2d 1096", "56 Wn. App. 625", "604 P.2d 1025", "626 P.2d 30", "628 P.2d 506", "63 Wn. App. 35", "635 P.2d 1081", "65 Wn.2d 126", "66 Wn. App. 573", "664 P.2d 492", "685 P.2d 1062", "7 F.3d 821", "712 P.2d 306", "72 Wn. App. 522", "73 Wn. App. 523", "737 P.2d 304", "74 Wn.2d 362", "742 P.2d 1230", "759 P.2d 447", "759 P.2d 455", "77 Wn.2d 396", "770 P.2d 182", "784 P.2d 1288", "799 P.2d 250", "816 P.2d 1237", "822 P.2d 243", "824 P.2d 1237", "832 P.2d 883", "85 Wn.2d 52", "852 P.2d 295", "864 P.2d 996", "87 Wn.2d 424", "871 P.2d 601", "92 P. 371", "94 Wn. App. 736", "954 P.2d 237", "958 P.2d 301", "96 Wn.2d 473", "973 P.2d 1074", "98 Wn. App. 553", "99 Wn. App. 237", "99 Wn.2d 582", "990 P.2d 453", "993 P.2d 273"]
+cites_cases: ["1 Wn. App. 402", "101 Wn. App. 158", "101 Wn.2d 819", "109 Wn.2d 48", "111 Wn.2d 159", "111 Wn.2d 174", "112 Wn.2d 216", "115 Wn.2d 506", "118 Wn.2d 195", "121 Wn.2d 552", "125 P.2d 681", "13 Wn.2d 485", "134 Wn.2d 769", "135 Wn.2d 658", "14 Wn. App. 564", "141 Wn.2d 1001", "142 Wn.2d 1014", "145 Wn.2d 1009", "184 Wash. 615", "2 P.3d 979", "25 Wn. App. 81", "28 Wn. App. 669", "29 Wn. App. 382", "396 P.2d 171", "42 U.S.C. § 1983", "42 Wn. App. 465", "444 P.2d 806", "461 P.2d 557", "463 P.2d 159", "47 Wash. 558", "47 Wn. App. 787", "477 U.S. 317", "52 P.2d 338", "530 P.2d 291", "544 P.2d 56", "553 P.2d 1096", "56 Wn. App. 625", "604 P.2d 1025", "626 P.2d 30", "628 P.2d 506", "63 Wn. App. 35", "635 P.2d 1081", "65 Wn.2d 126", "66 Wn. App. 573", "664 P.2d 492", "685 P.2d 1062", "7 F.3d 821", "712 P.2d 306", "72 Wn. App. 522", "73 Wn. App. 523", "737 P.2d 304", "74 Wn.2d 362", "742 P.2d 1230", "759 P.2d 447", "759 P.2d 455", "77 Wn.2d 396", "770 P.2d 182", "784 P.2d 1288", "799 P.2d 250", "816 P.2d 1237", "822 P.2d 243", "824 P.2d 1237", "832 P.2d 883", "85 Wn.2d 52", "852 P.2d 295", "864 P.2d 996", "87 Wn.2d 424", "871 P.2d 601", "92 P. 371", "94 Wn. App. 736", "954 P.2d 237", "958 P.2d 301", "96 Wn.2d 473", "973 P.2d 1074", "98 Wn. App. 553", "99 Wn. App. 237", "99 Wn.2d 582", "990 P.2d 453", "993 P.2d 273"]
 ---
 
 # Stansfield v. Douglas County
