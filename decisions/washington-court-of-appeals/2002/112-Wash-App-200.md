@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48439-7-I"
 decided: "2002-05-06"
-citations: ["112 Wash. App. 200", "111 Wash. App. 1031"]
+citations: ["112 Wash. App. 200"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["West Coast, Inc., Appellant, v. Snohomish County, Respondent."]
 source_url: "https://static.case.law/wash-app/112/cases/0200-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719263
-cites_cases: ["1 P.3d 1148", "106 S. Ct. 2548", "107 Wn.2d 541", "109 Wn. App. 387", "110 Wn.2d 415", "111 Wn.2d 174", "112 Wn. App. 200", "112 Wn.2d 216", "121 Wn.2d 715", "121 Wn.2d 810", "123 Wn.2d 641", "124 Wn.2d 158", "125 Wn.2d 337", "126 Wn.2d 1015", "128 Wn.2d 164", "130 Wn.2d 486", "133 Wn.2d 1019", "134 Wn.2d 769", "136 Wn.2d 195", "138 Wn.2d 561", "141 Wn.2d 68", "144 Wn.2d 774", "30 P.3d 1261", "35 P.3d 1186", "730 P.2d 1333", "755 P.2d 781", "759 P.2d 455", "76 Wn. App. 403", "770 P.2d 182", "85 Wn. App. 710", "853 P.2d 1373", "854 P.2d 1072", "870 P.2d 313", "876 P.2d 435", "883 P.2d 1383", "886 P.2d 219", "905 P.2d 355", "92 Wn. App. 326", "925 P.2d 194", "934 P.2d 707", "954 P.2d 237", "961 P.2d 333", "966 P.2d 351", "980 P.2d 1234"]
+cites_cases: ["1 P.3d 1148", "106 S. Ct. 2548", "107 Wn.2d 541", "109 Wn. App. 387", "110 Wn.2d 415", "111 Wn.2d 174", "112 Wn.2d 216", "121 Wn.2d 715", "121 Wn.2d 810", "123 Wn.2d 641", "124 Wn.2d 158", "125 Wn.2d 337", "126 Wn.2d 1015", "128 Wn.2d 164", "130 Wn.2d 486", "133 Wn.2d 1019", "134 Wn.2d 769", "136 Wn.2d 195", "138 Wn.2d 561", "141 Wn.2d 68", "144 Wn.2d 774", "30 P.3d 1261", "35 P.3d 1186", "730 P.2d 1333", "755 P.2d 781", "759 P.2d 455", "76 Wn. App. 403", "770 P.2d 182", "85 Wn. App. 710", "853 P.2d 1373", "854 P.2d 1072", "870 P.2d 313", "876 P.2d 435", "883 P.2d 1383", "886 P.2d 219", "905 P.2d 355", "92 Wn. App. 326", "925 P.2d 194", "934 P.2d 707", "954 P.2d 237", "961 P.2d 333", "966 P.2d 351", "980 P.2d 1234"]
 ---
 
 # West Coast, Inc. v. Snohomish County
