@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "12901-5-I"
+decided: "1984-12-17"
+citations: ["39 Wash. App. 213"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Mutual of Enumclaw Insurance Company, Respondent, v. The Human Rights Commission, Appellant."]
+source_url: "https://static.case.law/wash-app/39/cases/0213-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1794344
+cites_cases: ["101 S. Ct. 49", "199 P. (2d) 581", "216 P.2d 756", "263 P.2d 276", "27 Wn. App. 888", "30 Wn. App. 303", "31 Wn. (2d) 834", "36 Wn.2d 176", "43 Wn.2d 657", "449 U.S. 804", "602 P.2d 1177", "621 P.2d 183", "632 P.2d 887", "635 P.2d 135", "641 P.2d 163", "66 L. Ed. 2d 7", "92 Wn.2d 905", "96 Wn.2d 316", "97 Wn.2d 118"]
+---
+
+# Mutual of Enumclaw Insurance v. Human Rights Commission
+
+## Majority (Williams, J.)
+
+Williams, J.
+— This lawsuit stems from administrative complaints filed with the Washington State Human Rights Commission against the Mutual of Enumclaw Insurance Company claiming that Mutual had refused to issue a homeowners policy to a couple who owned their own home on the grounds that they were not married and had refused to issue a tenant homeowners policy to another couple for the same reason. The Commission investigated the complaints and made findings pursuant to RCW 49.60.240 that there was reasonable cause to believe that Mutual had committed marital status discrimination contrary to RCW 49.60.178. The Commission then undertook to settle the dispute and eventually noted the case for hearing before an administrative law judge.
+While the Commission was attempting to settle the case pursuant to RCW 49.60.240, Mutual commenced this action against the Commission in the King County Superior Court seeking writs of mandamus and prohibition to prevent the Commission from proceeding further and for a judgment declaring that the refusal to issue the policies was not illegal. Mutual then moved for summary judgment which was granted, giving the insurance company the requested relief. Specifically, the court: (1) declared that Mutual's refusal to issue homeowners insurance to unrelated co-owners was not marital status discrimination in violation of RCW 48.30.300, the insurance code, or RCW 49.60.178, the Law Against Discrimination; (2) ordered the Commission to dismiss with prejudice the administrative complaints and the Commission's amended complaint for a hearing; and (3) ordered the Commission and the administrative law judge to desist and refrain from further proceedings and prohibited further proceedings except for the order of dismissal decreed by the court. The Human Rights Commission appeals.
+The issue is whether the trial court erred in granting the writs of mandamus and prohibition. It did. RCW 7.16-.290 provides that a writ of prohibition "arrests the proceeding of any tribunal . . . when such proceedings are without or in excess of the jurisdiction of such tribunal . . ." The rule is that:
+a writ of prohibition is an extraordinary remedy available only where the tribunal is clearly and inarguably acting in a matter where there is an inherent, entire lack of jurisdiction:
+the writ of prohibition will only issue where there is no adequate remedy by appeal or otherwise. State ex rel. New York Cas. Co. v. Superior Court, 31 Wn. (2d) 834, 199 P. (2d) 581 [1948]; Rem. Rev. Stat., § 1028 . . . But where the court is attempting to proceed entirely without jurisdiction, we have held that the remedy by appeal is inadequate and prohibition will lie.
+Barnes v. Thomas, 96 Wn.2d 316, 318-19, 635 P.2d 135 (1981).
+The superior court and the Human Rights Commission have concurrent jurisdiction to enforce the Law Against Discrimination. Human Rights Comm'n v. Cheney Sch. Dist. 30, 97 Wn.2d 118, 641 P.2d 163 (1982); RCW 49.60.030(2) (superior court); RCW 49.60.230-270 (Human Rights Commission). When the jurisdiction of two tribunals is invoked concerning the same subject or controversy, the tribunal first obtaining jurisdiction has the power to decide the controversy to the exclusion of the other. State ex rel. Uland v. Uland, 36 Wn.2d 176, 216 P.2d 756 (1950). Because the Commission first obtained jurisdiction, the Superior Court had no power to interfere in the proceedings; its turn would come on an appeal to it from the Commission's order pursuant to RCW 49.60.270.
+Mutual argues that the Commission was without jurisdiction to litigate this case because the court in Brown v. Superior Underwriters, 30 Wn. App. 303, 632 P.2d 887 (1980) already conclusively determined that an insurance company's refusal to issue single homeowners policies to unrelated co-owners was not marital status discrimination. Mutual was concerned that the Commission would reach a result inconsistent with the Brown decision. Adherence to an incorrect rule of law does not mean the tribunal is acting in excess of its jurisdiction. Alaska Airlines, Inc. v. Molitor, 43 Wn.2d 657, 263 P.2d 276 (1953); Coughlin v. Seattle Sch. Dist. 1, 27 Wn. App. 888, 621 P.2d 183 (1980). So, even if Mutual is correct as to the applicability of the Brown decision the writ of prohibition was improper. The writ of mandamus was also improper, as such a writ should not be issued to direct how a tribunal should rule in a pending case. See Coughlin, at 892.
+Furthermore, a party seeking declaratory relief must show that its administrative remedies have been exhausted. Ackerley Communications, Inc. v. Seattle, 92 Wn.2d 905, 908, 602 P.2d 1177 (1979), cert. denied, 449 U.S. 804, 66 L. Ed. 2d 7, 101 S. Ct. 49 (1980). Additionally, writs of prohibition and mandamus should not be issued when the aggrieved party has an adequate appellate remedy. Barnes v. Thomas, at 319; RCW 7.16.170; RCW 7.16.300. An adequate appellate remedy is available. RCW 49.60.270, .280 grants Mutual of Enumclaw a statutory right to obtain judicial review of an adverse decision from the administrative proceeding.
+The last issue presented is whether Mutual of Enum-claw's refusal to sell insurance policies to two unmarried couples constitutes discrimination on the basis of marital status. Because the controversy is still within the jurisdiction of the Human Rights Commission, we decline the invitation to intrude into those proceedings.
+Reversed and dismissed.
+Corbett, A.C.J., and Coleman, J., concur.
+These complaints were not included in the record of this appeal but their existence is recited in the Commission's reply to motion for summary judgment which was made part of the clerk's papers. That document states that the complaints were filed with the Commission on January 24, 1977 and November 9, 1978.
+These findings of fact were also not included in the record. The Commission's reply to motion for summary judgment states that the findings were made on September 4, 1979 and March 27, 1980.
+Mutual of Enumclaw's petition and complaint was filed in the superior court on December 8,1981. Summary judgment was granted on June 22, 1982.
