@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45289-4-I; 46534-1-I"
 decided: "2002-02-19"
-citations: ["111 Wash. App. 544", "110 Wash. App. 272"]
+citations: ["111 Wash. App. 544"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ted J. Grimes, Appellant."]
 source_url: "https://static.case.law/wash-app/111/cases/0544-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1071994
-cites_cases: ["102 Wn.2d 1019", "111 Wn. App. 544", "111 Wn.2d 424", "113 Wn.2d 810", "118 Wn.2d 585", "119 Wn.2d 697", "121 Wn.2d 333", "123 Wash. 21", "125 Wn.2d 243", "128 Wn.2d 85", "129 Wn.2d 17", "143 Wn.2d 789", "148 Wn.2d 1002", "159 B.R. 303", "211 P. 885", "216 P. 28", "24 P.3d 1035", "26 C.F.R. § 1.1031", "26 U.S.C. § 1031", "30 Wn. App. 351", "317 F.2d 790", "35 Wn. App. 688", "490 U.S. 1004", "507 U.S. 218", "633 P.2d 1340", "669 P.2d 483", "759 P.2d 427", "783 P.2d 1061", "826 P.2d 152", "836 P.2d 823", "851 P.2d 654", "884 P.2d 592", "904 P.2d 715", "914 P.2d 737", "96 Wn.2d 1019"]
+cites_cases: ["102 Wn.2d 1019", "111 Wn.2d 424", "113 Wn.2d 810", "118 Wn.2d 585", "119 Wn.2d 697", "121 Wn.2d 333", "123 Wash. 21", "125 Wn.2d 243", "128 Wn.2d 85", "129 Wn.2d 17", "143 Wn.2d 789", "148 Wn.2d 1002", "159 B.R. 303", "211 P. 885", "216 P. 28", "24 P.3d 1035", "26 C.F.R. § 1.1031", "26 U.S.C. § 1031", "30 Wn. App. 351", "317 F.2d 790", "35 Wn. App. 688", "490 U.S. 1004", "507 U.S. 218", "633 P.2d 1340", "669 P.2d 483", "759 P.2d 427", "783 P.2d 1061", "826 P.2d 152", "836 P.2d 823", "851 P.2d 654", "884 P.2d 592", "904 P.2d 715", "914 P.2d 737", "96 Wn.2d 1019"]
 ---
 
 # State v. Grimes
