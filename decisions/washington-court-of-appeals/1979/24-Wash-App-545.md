@@ -1,0 +1,58 @@
+---
+court: "Washington Court of Appeals"
+docket: "6745-1"
+decided: "1979-09-10"
+citations: ["24 Wash. App. 545", "24 Wash. App. 1015"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dore and Ringold, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Richard Eugene Loux, Appellant."]
+source_url: "https://static.case.law/wash-app/24/cases/0545-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 460292
+cites_cases: ["10 Wn. App. 694", "16 Wn. App. 132", "395 U.S. 238", "424 P.2d 302", "450 P.2d 971", "487 P.2d 1046", "490 P.2d 1337", "5 Wn. App. 852", "509 P.2d 372", "519 P.2d 1314", "542 P.2d 445", "553 P.2d 127", "584 P.2d 382", "65 A.L.R.3d 578", "70 Wn.2d 513", "75 Wn.2d 329", "79 Wn.2d 505", "86 Wn.2d 58", "9 Wn. App. 136", "90 Wn.2d 443"]
+---
+
+# State v. Loux
+
+## Majority (Swanson, A.C.J.)
+
+Swanson, A.C.J.
+Richard Eugene Loux appeals the denial of his motion to withdraw a guilty plea, his conviction as a habitual criminal, and the court's entry of a special finding that he was armed with a deadly weapon and a firearm.
+Loux first contends that the trial court erred in denying his motion to withdraw his plea of guilty because he did not enter the plea with knowledge that he thereby waived his Fifth Amendment right against self-incrimination. Upon entry of his plea Loux was accompanied by defense counsel who informed the court he had "gone over the defendant's statement on plea of guilty with Mr. Loux, advised him of the rights that he has; the rights that he will waive." The court then asked Loux if he agreed in all respects with what his attorney had said. Loux answered in the affirmative. The court accepted Loux' guilty plea, finding that he entered it voluntarily and with "full knowledge of [his] constitutional rights." Loux subsequently moved to withdraw his guilty plea, contending the plea was accepted without an understanding of the consequences and specifically of the waiver of his Fifth Amendment privilege against compulsory self-incrimination. The statement signed by Loux contains no specific mention of the right against self-incrimination and, at the hearing on the motion, Loux' attorney testified he "did not specifically advise" Loux of his Fifth Amendment right when he filled out the statement on plea of guilty. The court denied Loux' motion, finding that the plea was entered voluntarily, intelligently, and knowingly. Loux argues Boykin v. Alabama, 395 U.S. 238, 23 L. Ed. 2d 274, 89 S. Ct. 1709 (1969), and CrR 4.2(d) require that the trial court specifically inform the defendant of his Fifth Amendment right to remain silent prior to acceptance of his guilty plea. Loux' contention is answered by what we said in State v. Lewis, 16 Wn. App. 132, 135, 553 P.2d 127 (1976):
+The consequences of a guilty plea include the waiver of certain constitutional rights which include the waiver of the privilege against self-incrimination, the right to a trial by jury, and the right to confront one's accusers. Boykin v. Alabama, supra. The due process principles announced in Boykin, and the rule enunciated under former Fed. R. Crim. P. 11 (now paraphrased in our state rule CrR 4.2), do not require the trial judge to inform a defendant that the privilege against compulsory self-incrimination is waived upon a plea of guilty before the court may accept a plea of guilty.
+(Citations omitted.) Whether a guilty plea is made voluntarily and with knowledge of its consequences is "a fact to be determined from all the circumstances." Miesbauer v. Rhay, 79 Wn.2d 505, 507, 487 P.2d 1046 (1971).
+In this case, upon entry of the plea Loux acknowledged to the court that he understood everything contained in the statement. His attorney stated that he had discussed with him the rights which he would waive by pleading guilty. In light of the representations made the trial court was entitled to believe that counsel had previously reviewed with Loux all of the rights which he would waive and that Loux understood all the consequences of a guilty plea.
+Loux also claims that the motion to withdraw his guilty plea should have been granted because he was not competent at the time the plea was entered. The trial court is vested with broad discretion in judging the mental competency of every defendant to plead guilty and may make its determination from many things, including the defendant's appearance, demeanor, conduct, personal and family history, past behavior, medical and psychiatric reports, and the statements of counsel. State v. Dodd, 70 Wn.2d 513, 514, 424 P.2d 302 (1967). Loux submitted the report of a psychologist who examined him 5 months áfter the entry of his guilty plea which indicated that entry of the plea was "not the product of reason." Expert opinion testimony, however, is not binding on the trial court, Brewer v. Copeland, 86 Wn.2d 58, 74, 542 P.2d 445 (1975), and the credibility of witnesses testifying is exclusively within the province of the trier of fact. State v. Edwards, 5 Wn. App. 852, 855, 490 P.2d 1337 (1971). The trial judge was entitled to give credence to his own recollections and counsel's testimony that Loux was competent. We will not substitute our judgment for that of the trial court.
+Loux next contends that a fingerprint card which was stapled to other prison records was not properly authenticated for purposes of proving prior conviction in a habitual criminal proceeding because it was not specifically itemized as a part of the document packet. We do not consider this assignment of error, as the prison records considered by the trial court are not a part of the record on appeal. State v. Wilson, 75 Wn.2d 329, 332, 450 P.2d 971 (1969).
+Loux also contends that his prior federal kidnapping conviction did not include elements sufficient to amount to a felony in this state, and it therefore should not have been used as a prior conviction for habitual criminal purposes. The general rule is that a previous conviction under a federal statute may be used for purposes of a state habitual criminal act so long as elements sufficient to amount to a state felony were included in the federal offense and were proven beyond a reasonable doubt. State v. Wait, 9 Wn. App. 136, 142, 509 P.2d 372, 65 A.L.R.3d 578 (1973). The test to be employed in determining whether a conviction in a foreign jurisdiction would amount to a felony in this state is whether the indictment or information under which one is convicted in the foreign jurisdiction states facts sufficient to amount to the minimum elements of a felony in this state. State v. Wait, supra at 143.
+The federal indictment under which Loux was convicted states in part:
+That on or about November 22, 1964, . . . Richard Eugene Loux . . . did knowingly transport in interstate commerce from Walla Walla in the Southern District of the Eastern District of Washington to Clackamus County, Oregon, Andrew Jackson Jeppe and Cora May Jeppe who had therefore been unlawfully seized, kidnapped, carried away and held by . . . Richard Eugene Loux ... for ransom or reward or otherwise in violation of S. 1201 Title 18 U.S.C.
+These facts were sufficient to amount to the minimum elements of unlawful imprisonment, under RCW 9A.40.040, which is a class C felony in this state.
+In 1961, Loux escaped from King County jail where he was being held following conviction of attempted unlawful taking of an automobile, which at that time was a felony. He was subsequently convicted of felony escape under former RCW 9.31.010. In 1975, RCW 9A.56.070 was enacted, making the crime of taking a motor vehicle without permission a class C felony. RCW 9A.28.020, enacted at the same time, made it a gross misdemeanor to attempt to commit a class C felony.
+Loux' argument is that because the crime for which he was being held when he escaped is now a gross misdemeanor, his escape conviction can be considered only as a misdemeanor and cannot be used as a prior conviction in a habitual criminal proceeding. The argument is not well taken. The prior conviction used in the habitual criminal proceeding was a conviction for escape, not a conviction for attempted unlawful taking of an automobile. The current escape statute, RCW 9A.76.120, provides in part:
+(1) A person is guilty of escape in the second degree if:
+(a) He escapes from a detention facility;...
+(2) Escape in the second degree is a class C felony.
+RCW 9A.76.010 defines "detention facility" as:
+[A]ny place used for the confinement, of a person (a) arrested for, charged with or convicted of an offense, . . .
+Then, as now, Loux' escape constituted a felony and thus was properly employed for habitual criminal purposes.
+Loux' final contention is that the court erred in entering a deadly weapon/firearm finding because there was no mention in the statement of defendant on plea of guilty of the possibility of the entry of such a finding. Loux' argument, insofar as it concerns the firearm finding under RCW 9.41.025, is controlled by State v. Workman, 90 Wn.2d 443, 454-55, 584 P.2d 382 (1978), which holds that invocation of the enhanced penalties mandated by that statute is improper where use of a firearm has already enhanced the penalty for the substantive crime of first-degree robbery. The deadly weapon statute, RCW 9.95.040, may, however, be invoked as that statute is directed to the parole board and not the sentencing court. State v. Workman, supra.
+Entry of the deadly weapon finding under RCW 9.95.040 was proper in this case. The statement of defendant on plea of guilty, which Loux signed and indicated that he understood, specifically states:
+I have been further advised that the crime with which I am charged carries a mandatory minimum of 7 1/2 years.
+That is the sentence imposed by RCW 9.95.040(2). Loux cannot now argue that he was unaware of the mandatory penalty which could be imposed. Even were there no specific acknowledgment by Loux of the sentence he would receive as a result of his plea, we would find that he had notice of it. The information contained an allegation that Loux was armed with a deadly weapon, thereby putting him on notice that he was subjecting himself to a possible mandatory minimum sentence. Miller v. Morris, 10 Wn. App. 694, 696, 519 P.2d 1314 (1974).
+The convictions are affirmed, and the cause is remanded for resentencing without invocation of RCW 9.41.025.
+Dore and Ringold, JJ., concur.
+Reconsideration denied October 18, 1979.
+The specific language of the federal indictment does not appear of record; however, the parties agree to the accuracy of the language of that indictment.
+RCW 9A.40.040 provides:
+"(1) A person is guilty of unlawful imprisonment if he knowingly restrains another person.
+"(2) Unlawful imprisonment is a class C felony."
+RCW 9A.40.010 defines restraint as follows:
+"(1) 'Restrain' means to restrict a person's movements without consent and without legal authority in a manner which interferes substantially with his liberty."
+The parties agree to these facts, although they do not appear in the record.
+Former RCW 9.54.020.
+Former RCW 9.31.010 provided:
+"Every prisoner confined in a prison or being in the lawful custody of an offi- - cer or other person, who escapes or attempts to escape from such prison or custody if he is held on a charge, conviction, or sentence of a felony, shall be guilty of a felony; if held on a charge, conviction, or sentence of a gross misdemeanor or misdemeanor, he shall be guilty of a misdemeanor.”
+RCW 9.92.090 allows use, in habitual criminal proceedings, of "any crime which under the laws of this state would amount to a felony ..."
