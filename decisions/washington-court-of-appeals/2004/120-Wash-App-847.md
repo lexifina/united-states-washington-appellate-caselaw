@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "51588-8-I"
+decided: "2004-03-29"
+citations: ["120 Wash. App. 847"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Jeremy Shaw, Appellant."]
+source_url: "https://static.case.law/wash-app/120/cases/0847-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1422744
+cites_cases: ["126 Wn.2d 432", "13 Wn. App. 782", "132 Wn.2d 94", "145 Wn.2d 630", "2000 ND 202", "41 P.3d 1159", "537 P.2d 820", "616 P.2d 628", "75 Wn. App. 256", "876 P.2d 979", "895 P.2d 398", "935 P.2d 1353", "94 Wn.2d 216"]
+---
+
+# State v. Shaw
+
+## Majority (Becker, C.J.)
+
+Becker, C.J.
+— To convict appellant Jeremy Shaw of possession of stolen property in the first degree, the State had to prove the item of property — a 1987 Honda Accord— was worth more than $1,500. Shaw maintains the State’s proof was insufficient because the owner eventually sold the car for $1,400. However, a detective testified — over hearsay objection — that the “private party” value of the Accord according to the Kelley Blue Book internet site was $2,520. We hold the Blue Book value was properly admitted under ER 803(a)(17) as a market report, and was sufficient to establish a value greater than $1,500, despite the actual sale for a lesser amount.
+Someone stole Daryl Ayers’ 1987 Honda Accord in June 2001. Police located the car and saw Shaw get into it and try to start it with a screwdriver. Shaw was arrested; the car was returned.
+The State charged Shaw with first degree possession of stolen property. At trial before a jury, the investigating detective testified that he used the Kelley Blue Book internet site to research the Accord’s value. He explained what information the site requires to value a car. After entry of this information, the site provides two different values for the car in question — the retail value and the private party value. The private party value is the lower of the two numbers, reflecting what one would expect to pay in a private rather than a dealer sale.
+Overruling a defense hearsay objection, the trial court allowed the detective to testify that the private party value for the Accord was $2,520. The court also admitted the computer generated report as an exhibit.
+Ayers testified that before the car was stolen she had tried, unsuccessfully, to sell it for prices between $1,800 and $2,400. When she recovered it after the theft, she had it repaired and sold it for $1,400. She said she felt the $1,400 selling price was a “fair price” although she could have sold it for more if she were willing to wait:
+I wanted someone to get a fair deal. And I’m sure I could have gotten more out of it up here in Kent or if I hung out looking for the price but I just felt like I wanted to give someone a fairly good value for the car for what it was worth. And I don’t know. I am fairly familiar with what car values are in my area and I felt that was a fair price, and so that’s what I charged the young man.
+I just wanted it out of my hair. You know, I had another vehicle to go for and I didn’t want to be paying double insurance ... I just wanted to get rid of it. I wanted to sell the car.[]
+The jury convicted Shaw of first degree possession of stolen property. He appeals, and contends it was error to admit the Blue Book evidence. He asks this court to reverse that conviction and remand for sentencing on the lesser included offense of second degree possession of stolen property.
+A decision involving the admission of evidence lies within the sound discretion of the trial court and will not be reversed unless abuse of discretion can be shown. State v. Castellanos, 132 Wn.2d 94, 97, 935 P.2d 1353 (1997). Discretion is abused if it is exercised on untenable grounds or for untenable reasons. State v. Vy Thang, 145 Wn.2d 630, 642, 41 P.3d 1159 (2002).
+A person is guilty of first degree possession of stolen property if he or she possesses stolen property valued at more than $1,500. RCW 9A.56.150. If the value is in the range of $250 to $1,500, the crime is second degree possession of stolen property. RCW 9A.56.160. Value is the market value of the property at the time and in the approximate area of the offense. RCW 9A.56.010(18)(a). Market value is the “ ‘price which a well-informed buyer would pay to a well-informed seller, where neither is obliged to enter into the transaction.’ ” State v. Kleist, 126 Wn.2d 432, 435, 895 P.2d 398 (1995) (quoting State v. Clark, 13 Wn. App. 782, 787, 537 P.2d 820 (1975)). Market value is based not on the value to any particular person, but rather on an objective standard. Kleist, 126 Wn.2d at 438.
+The only evidence that the Accord had value in excess of $1,500 was the detective’s testimony about value obtained from the Kelley Blue Book website. The detective testified that he uses the Blue Book site to follow up his investigation of stolen cars, in order to estimate the value of the stolen car. He itemized the information the system requires to estimate a car’s value: odometer reading, general condition of car, options, year, make, and model. He also testified that to his knowledge, Kelley Blue Book
+is the most definitive and most widely used estimate of car values. When you buy a used car and apply for a loan banks generally use Kelley Blue Book value to establish the amount of loan, interest rate and that type of thing.
+Based on the history of the Kelley Blue Book and the amount of information available, the amount of information they require to make the estimate of the value, I believe is the most accurate.[]
+The State contends the Blue Book value was properly admitted under ER 803(a)(17):
+(a) Specific exceptions. The following are not excluded by the hearsay rule, even though the declarant is available as a witness:
+(17) Market Reports, Commercial Publications. Market quotations, tabulations, lists, directories, or other published compilations, generally used and relied upon by the public or by persons in particular occupations.
+Other jurisdictions have held that recognized used car price guides fit within this exception to the hearsay rule. See State v. Erickstad, 2000 ND 202, 620 N.W.2d 136, 145, and cases cited therein. Shaw argues that a contrary conclusion is dictated in Washington by State v. Rainwater, 75 Wn. App. 256, 876 P.2d 979 (1994). Rainwater is a decision affirming the admission, as business records, of price tags from stolen clothes to prove their value. The court stated, “The rule we adopt today will not apply to new and used automobiles or to other merchandise for which the ‘sticker price’ is merely a clue to the probable range for reasonable negotiations.” Rainwater, 75 Wn. App. at 262, n.7. And price tags “constitute substantial evidence of market value only so long as the case involves a retail store that is commonly known to sell its goods for a nonnegotiable price as shown on the tag.” Rainwater, 75 Wn. App. at 261-62 (emphasis in original).
+Relying on these statements, Shaw argues the Blue Book, like a sticker price, is not a reliable indicator of value. But the Kelley Blue Book is not a sticker price or a price tag placed on a car to market it. As the foundation laid by the detective’s testimony showed, it is a publication used to determine what a person might expect to pay when buying a used car, or to receive when selling one. Other jurisdictions have recognized the Blue Book as a standard and reliable reference for valuation of vehicles. Erickstad, 620 N.W.2d at 145. We conclude the trial court did not abuse its discretion in admitting the Blue Book values under ER 803(a)(17).
+Shaw argues that even if the Blue Book value was properly admitted, it was insufficient to prove value greater than $1,500, because the car eventually sold for only $1,400. A challenge to the sufficiency of the evidence to support a conviction requires that the evidence and all reasonable inferences be viewed in a light most favorable to the State. State v. Green, 94 Wn.2d 216, 221, 616 P.2d 628 (1980).
+The question of fact for the jury to decide was “the market value of the property or services at the time and in the approximate area of the act.” Ayers testified that she felt that the $1,400 selling price was a “fair price” for her market (a rural area near Chehalis). While the jury could reasonably have found the car to be worth less than $1,500 based on this testimony, the actual selling price did not establish market value as a matter of law. Viewed in the light most favorable to the State, the evidence — including the Blue Book value — was sufficient for the jury to find the value of the Accord to be in excess of $1,500. Affirmed.
+Cox and Ellington, JJ., concur.
+Report of Proceedings at 77-78, 80.
+Report of Proceedings at 35-36.
+Instruction 11, Clerk’s Papers at 17.
