@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11463-8-I"
 decided: "1984-04-23"
-citations: ["37 Wash. App. 756", "37 Wash. App. 1030"]
+citations: ["37 Wash. App. 756"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Harriet M. Gould, Appellant, v. Mutual Life Insurance Company of New 
 source_url: "https://static.case.law/wash-app/37/cases/0756-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1784973
-cites_cases: ["22 Wn. App. 613", "25 Wn. App. 479", "37 Wn. App. 756", "430 U.S. 952", "553 P.2d 423", "565 P.2d 94", "567 P.2d 187", "567 P.2d 230", "574 P.2d 1190", "577 P.2d 580", "581 P.2d 1349", "590 P.2d 1286", "609 P.2d 1387", "87 Wn.2d 298", "88 Wn.2d 614", "88 Wn.2d 756", "88 Wn.2d 878", "89 Wn.2d 673", "89 Wn.2d 959", "90 Wn.2d 355"]
+cites_cases: ["22 Wn. App. 613", "25 Wn. App. 479", "430 U.S. 952", "553 P.2d 423", "565 P.2d 94", "567 P.2d 187", "567 P.2d 230", "574 P.2d 1190", "577 P.2d 580", "581 P.2d 1349", "590 P.2d 1286", "609 P.2d 1387", "87 Wn.2d 298", "88 Wn.2d 614", "88 Wn.2d 756", "88 Wn.2d 878", "89 Wn.2d 673", "89 Wn.2d 959", "90 Wn.2d 355"]
 ---
 
 # Gould v. Mutual Life Insurance
