@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22631-6-II"
 decided: "1999-01-08"
-citations: ["94 Wash. App. 20", "93 Wash. App. 1050"]
+citations: ["94 Wash. App. 20"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Estate of George C. Stevens."]
 source_url: "https://static.case.law/wash-app/94/cases/0020-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83569
-cites_cases: ["10 Wn.2d 44", "116 P.2d 272", "116 Wn.2d 1009", "128 Wn.2d 1008", "128 Wn.2d 129", "130 Wn.2d 1005", "15 Wn. App. 260", "169 P. 806", "33 Wn. App. 452", "352 P.2d 1025", "41 Wn. App. 323", "438 P.2d 581", "513 So. 2d 1120", "548 P.2d 581", "56 Wn.2d 313", "58 Wn. App. 588", "59 Wn. App. 711", "60 Wn. App. 706", "63 Wn. App. 266", "63 Wn. App. 271", "655 P.2d 1182", "704 P.2d 164", "73 Wn.2d 348", "78 Wn. App. 616", "794 P.2d 526", "80 Wn. App. 751", "800 P.2d 1141", "806 P.2d 787", "818 P.2d 618", "82 Wn. App. 253", "88 Wn.2d 490", "897 P.2d 1285", "904 P.2d 1132", "911 P.2d 1017", "917 P.2d 577", "94 Wn. App. 20", "99 Wash. 360"]
+cites_cases: ["10 Wn.2d 44", "116 P.2d 272", "116 Wn.2d 1009", "128 Wn.2d 1008", "128 Wn.2d 129", "130 Wn.2d 1005", "15 Wn. App. 260", "169 P. 806", "33 Wn. App. 452", "352 P.2d 1025", "41 Wn. App. 323", "438 P.2d 581", "513 So. 2d 1120", "548 P.2d 581", "56 Wn.2d 313", "58 Wn. App. 588", "59 Wn. App. 711", "60 Wn. App. 706", "63 Wn. App. 266", "63 Wn. App. 271", "655 P.2d 1182", "704 P.2d 164", "73 Wn.2d 348", "78 Wn. App. 616", "794 P.2d 526", "80 Wn. App. 751", "800 P.2d 1141", "806 P.2d 787", "818 P.2d 618", "82 Wn. App. 253", "88 Wn.2d 490", "897 P.2d 1285", "904 P.2d 1132", "911 P.2d 1017", "917 P.2d 577", "99 Wash. 360"]
 ---
 
 # In re the Estate of Stevens
