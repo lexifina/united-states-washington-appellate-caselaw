@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "7195-2-III"
+decided: "1985-10-10"
+citations: ["42 Wash. App. 1"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Kerry Duane Stalker, Appellant."]
+source_url: "https://static.case.law/wash-app/42/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1803991
+cites_cases: ["311 N.W.2d 481", "315 N.W.2d 590", "319 N.W.2d 699", "321 N.W.2d 886", "324 N.W.2d 346", "326 N.W.2d 648", "328 N.W.2d 142", "40 Wn. App. 845", "700 P.2d 1198"]
+---
+
+# State v. Stalker
+
+## Majority (Munson, J.)
+
+Munson, J.
+—Kerry Duane Stalker, after being convicted of unlawful possession of a controlled substance with intent to deliver, appealed the Superior Court's imposition of a sentence outside the presumptive sentencing range; RCW 9.94A. Mr. Stalker was sentenced to confinement for 12 months and 1 day. The maximum sentence which could have been imposed is 5 years' imprisonment and/or a $10,000 fine. RCW 69.50.401(a)(l)(ii).
+The Legislature, with the aid of the Sentencing Guidelines Commission, has determined the standard sentencing range for this crime should be 1 to 3 months for an offender with no prior record. The standard range takes into account the particular offense and the extent and nature of the offender's criminal history, if any. See RCW 9.94A.040-(2)(a). However, the court may impose a sentence in excess of the legislatively authorized standard range if it finds substantial and compelling reasons justify an exceptional sentence. RCW 9.94A.120(2).
+Here, the court believed the exceptional sentence was justified because the crime was a major drug transaction involving a broad geographical area and an amount of marijuana substantially more than necessary for personal use; the court also noted a lesser involved codefendant had received the same sentence.
+This appeal was argued pursuant to a motion for accelerated review. RAP 18.15. Our commissioner determined the reasons supplied by the court were supported by the record, and the quantity of drugs involved was sufficient by itself to identify this offense as a major violation. However, the commissioner concluded the sentence was clearly excessive within the meaning of RCW 9.94A.210(4), and reduced the sentence to 6 months' confinement which is twice the maximum standard range authorized by the Legislature. He adopted Minnesota's "doubling" rule which is utilized with respect to that state's sentencing reform laws. See State v. Evans, 311 N.W.2d 481 (Minn. 1981); see also State v. Partlow, 321 N.W.2d 886 (Minn. 1982); State v. Martinez, 319 N.W.2d 699 (Minn. 1982); State v. Walters, 315 N.W.2d 590 (Minn. 1982). Minnesota's sentencing laws served as a pattern for Washington's Sentencing Reform Act of 1981, RCW 9.94A.
+This case is before a panel of judges pursuant to this division's order automatically referring all adult sentencing appeals for review, after a commissioner's ruling, because of their apparent precedential value.
+When an exceptional sentence is appealed, this court can reverse only if it finds under RCW 9.94A.210(4):
+(a) Either that the reasons supplied by the sentencing judge are not supported by the record which was before the judge or that those reasons do not justify a sentence outside the standard range for that offense; or (b) that the sentence imposed was clearly excessive or clearly too lenient.
+The sentencing record reveals Mr. Stalker attempted to sell over 43 pounds of marijuana to a Benton County sheriff's detective for more than $47,000. The transaction was described by the officer as "the largest drug buy on marijuana made in the Tri-Cities." The officer testified Mr. Stalker indicated more large quantities of marijuana could be supplied from Florida if the buyer could handle the drugs. However, there was no evidence Mr. Stalker had any other involvement with drugs.
+Mr. Stalker denied he knew the actual owner of the drugs in Florida; he testified he had been employed prior to leaving Florida and believed he could earn some needed money from the sale. His brother-in-law, a codefendant, who Mr. Stalker apparently involved in this enterprise, was sentenced to 12 months and 1 day imprisonment.
+The record supports the reasons given by the trial court for the exceptional sentence. The next issue is whether those reasons support the sentence imposed by the court. RCW 9.94A.390 sets forth certain aggravating circumstances which the court may consider when departing from the standard range guidelines:
+Aggravating Circumstances
+(4) The offense was a major violation of the Uniform Controlled Substances Act, chapter 69.50 RCW (VUC-SA), related to trafficking in controlled substances, which was more onerous than the typical offense of its statutory definition: The presence of any of the following may identify an offense as a major VUCSA:
+(b) The offense involved an attempted or actual sale or transfer of controlled substances in quantities substantially larger than for personal use; or
+(f) The offense . . . involved a broad geographic area of disbursement; . . .
+RCW 9.94A.390 also provides that the factors listed "are illustrative only and not intended to be the exclusive reasons for exceptional sentences." See also State v. Baker, 40 Wn. App. 845, 847-48, 700 P.2d 1198 (1985). Thus, the court is provided some discretion in determining what factors may justify departure from the standard range. The quantity of drugs involved here is sufficient by itself to identify Mr. Stalker's crime as a major violation of the Uniform Controlled Substances Act, RCW 69.50.
+The question remains whether 12 months and 1 day was "clearly excessive" under the facts of this case. Mr. Stalker urges this court to adopt a general rule limiting exceptional sentences to no more than twice the presumptive sentence range; our commissioner agreed, after expressing a legitimate concern for providing sentencing courts with some guidance in this area, and noting the Legislature has failed to articulate any specific formula for determining excessive sentences. However, even the Minnesota courts have had difficulty in describing its precise application after several cases failed to strictly abide by the rule and allowed greater sentences. See State v. Norton, 328 N.W.2d 142 (Minn. 1982); State v. Ming Sen Shiue, 326 N.W.2d 648 (Minn. 1982); State v. Herberg, 324 N.W.2d 346 (Minn. 1982). As stated in State v. Norton, supra at 146-47:
+The decision which we must make is whether this is one of the extremely rare cases in which more than a double durational departure is justified. There is no easy-to-apply test to use in making this decision, and there is no clear line that marks the boundary between "aggravating circumstances" justifying a double departure and "severe aggravating circumstances" justifying a greater than double departure. In the final analysis, our decision whether there were "severe aggravating circumstances" must be based on our collective, collegial experience in reviewing a large number of criminal appeals from all the judicial districts. It is a decision which must be influenced by the knowledge that if durational departures of greater than two times the presumptive sentence are too easily allowed, the aims of the Sentencing Guidelines, of achieving uniformity of sentencing and of keeping the prison populations at a manageable level, could be undermined.
+Given Minnesota's own uncertainty in applying its newly articulated rule, our adoption of such a rule would not provide definitive guidance to the superior courts when imposing sentences outside the standard range. At best, the doubling rule could open a new area of uncertainty as to when a sentence greater than twice the standard range would be justified. The same confusion could result if the court reduced the sentence below the standard range. The concept of an undefined range between the maximum sentence available under RCW 69.50.401(a)(l)(ii) and the presumptive sentencing range of 1 to 3 months was intended to allow the judge some degree of discretion in tailoring the sentence to the person and the crime before him. See State v. Baker, supra at 848. The adoption of any fixed restriction on the discretion of the sentencing judge is better left to the Legislature.
+We do not find the sentence of 12 months and 1 day to be clearly excessive in this case. No abuse of discretion occurred.
+The commissioner's ruling is reversed and the judgment and sentence of the trial court is affirmed.
+McInturff, A.C.J., and Thompson, J., concur.
+Reconsideration denied November 6, 1985.
+Review by Supreme Court pending October 10, 1986.
+RCW 9.94A encompasses the Sentencing Reform Act of 1981, effective as to felonies committed after June 30, 1984.
