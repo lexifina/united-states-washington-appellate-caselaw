@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24242-7-II"
 decided: "2000-03-03"
-citations: ["100 Wash. App. 330", "99 Wash. App. 1051"]
+citations: ["100 Wash. App. 330"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Deashunda Williams, Appellant, v. Thurston County, Respondent."]
 source_url: "https://static.case.law/wash-app/100/cases/0330-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1363170
-cites_cases: ["100 Wn. App. 330", "111 Wn.2d 159", "133 Wn.2d 1019", "23 Wn. App. 554", "596 P.2d 1096", "64 Wn. App. 245", "656 P.2d 1030", "759 P.2d 447", "823 P.2d 1152", "85 Wn. App. 710", "934 P.2d 707", "98 Wn.2d 434"]
+cites_cases: ["111 Wn.2d 159", "133 Wn.2d 1019", "23 Wn. App. 554", "596 P.2d 1096", "64 Wn. App. 245", "656 P.2d 1030", "759 P.2d 447", "823 P.2d 1152", "85 Wn. App. 710", "934 P.2d 707", "98 Wn.2d 434"]
 ---
 
 # Williams v. Thurston County
