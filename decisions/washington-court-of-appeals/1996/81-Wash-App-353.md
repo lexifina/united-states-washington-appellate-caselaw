@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17893-1-II"
 decided: "1996-03-08"
-citations: ["81 Wash. App. 353", "80 Wash. App. 1070"]
+citations: ["81 Wash. App. 353"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ventures Northwest Limited Partnership, et al., Appellants, v. The St
 source_url: "https://static.case.law/wash-app/81/cases/0353-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 310730
-cites_cases: ["103 Wn.2d 768", "103 Wn.2d 96", "107 Wn.2d 621", "109 Wn.2d 621", "112 Wn.2d 68", "112 Wn.2d 794", "113 Wn.2d 1001", "114 S. Ct. 1216", "114 Wn.2d 1016", "114 Wn.2d 271", "114 Wn.2d 320", "115 Wn.2d 506", "118 Wn.2d 195", "118 Wn.2d 383", "120 Wn.2d 1021", "121 Wn.2d 586", "135 P.2d 870", "17 Wn.2d 437", "272 U.S. 365", "28 U.S.C. §§ 1346", "312 U.S. 584", "33 U.S.C. § 1251", "33 U.S.C. § 1319", "33 U.S.C. § 1341", "33 U.S.C. § 1344", "33 U.S.C. § 1370", "333 So. 2d 56", "34 Wn. App. 225", "345 So. 2d 420", "40 C.F.R. § 230.10", "408 U.S. 104", "42 U.S.C. § 1983", "47 S. Ct. 114", "473 U.S. 172", "474 U.S. 121", "486 U.S. 1022", "49 Wn. App. 825", "493 U.S. 894", "498 U.S. 911", "505 U.S. 1003", "511 U.S. 700", "525 P.2d 228", "53 Wn. App. 431", "56 Wn. App. 275", "656 P.2d 1030", "66 Wn. App. 715", "660 P.2d 1124", "690 P.2d 1144", "698 P.2d 77", "71 Wn. App. 468", "715 F.2d 1148", "733 P.2d 182", "746 P.2d 823", "747 P.2d 1062", "767 P.2d 952", "768 P.2d 462", "774 P.2d 1158", "783 P.2d 596", "787 P.2d 562", "787 P.2d 907", "799 P.2d 250", "81 Wn. App. 353", "822 P.2d 243", "823 P.2d 499", "834 P.2d 631", "84 Wn.2d 239", "85 L. Ed. 2d 1058", "854 P.2d 1", "859 P.2d 77", "86 Stat. 816", "98 Wn.2d 434", "99 Wn.2d 1020"]
+cites_cases: ["103 Wn.2d 768", "103 Wn.2d 96", "107 Wn.2d 621", "109 Wn.2d 621", "112 Wn.2d 68", "112 Wn.2d 794", "113 Wn.2d 1001", "114 S. Ct. 1216", "114 Wn.2d 1016", "114 Wn.2d 271", "114 Wn.2d 320", "115 Wn.2d 506", "118 Wn.2d 195", "118 Wn.2d 383", "120 Wn.2d 1021", "121 Wn.2d 586", "135 P.2d 870", "17 Wn.2d 437", "272 U.S. 365", "28 U.S.C. §§ 1346", "312 U.S. 584", "33 U.S.C. § 1251", "33 U.S.C. § 1319", "33 U.S.C. § 1341", "33 U.S.C. § 1344", "33 U.S.C. § 1370", "333 So. 2d 56", "34 Wn. App. 225", "345 So. 2d 420", "40 C.F.R. § 230.10", "408 U.S. 104", "42 U.S.C. § 1983", "47 S. Ct. 114", "473 U.S. 172", "474 U.S. 121", "486 U.S. 1022", "49 Wn. App. 825", "493 U.S. 894", "498 U.S. 911", "505 U.S. 1003", "511 U.S. 700", "525 P.2d 228", "53 Wn. App. 431", "56 Wn. App. 275", "656 P.2d 1030", "66 Wn. App. 715", "660 P.2d 1124", "690 P.2d 1144", "698 P.2d 77", "71 Wn. App. 468", "715 F.2d 1148", "733 P.2d 182", "746 P.2d 823", "747 P.2d 1062", "767 P.2d 952", "768 P.2d 462", "774 P.2d 1158", "783 P.2d 596", "787 P.2d 562", "787 P.2d 907", "799 P.2d 250", "822 P.2d 243", "823 P.2d 499", "834 P.2d 631", "84 Wn.2d 239", "85 L. Ed. 2d 1058", "854 P.2d 1", "859 P.2d 77", "86 Stat. 816", "98 Wn.2d 434", "99 Wn.2d 1020"]
 ---
 
 # Ventures Northwest Ltd. Partnership v. State
