@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11120-5-I; 11121-3-I; 11122-1-I"
 decided: "1983-12-12"
-citations: ["36 Wash. App. 615", "36 Wash. App. 1023"]
+citations: ["36 Wash. App. 615"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Rodney Courville, Petitioner.
 source_url: "https://static.case.law/wash-app/36/cases/0615-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1782020
-cites_cases: ["10 Stat. 1132", "12 Stat. 927", "196 A.2d 138", "198 U.S. 371", "269 F.2d 555", "31 L. Ed. 2d 822", "315 U.S. 681", "341 P.2d 149", "36 Wn. App. 615", "384 F. Supp. 312", "391 U.S. 392", "406 U.S. 910", "423 U.S. 1086", "433 U.S. 165", "443 U.S. 658", "444 U.S. 930", "459 F. Supp. 1020", "47 L. Ed. 2d 97", "483 P.2d 832", "507 F.2d 231", "520 F.2d 676", "54 Wn.2d 422", "558 P.2d 796", "595 P.2d 916", "79 Wn.2d 104", "88 Wn.2d 267", "92 S. Ct. 1612", "92 Wn.2d 271", "96 S. Ct. 877", "97 R.I. 95"]
+cites_cases: ["10 Stat. 1132", "12 Stat. 927", "196 A.2d 138", "198 U.S. 371", "269 F.2d 555", "31 L. Ed. 2d 822", "315 U.S. 681", "341 P.2d 149", "384 F. Supp. 312", "391 U.S. 392", "406 U.S. 910", "423 U.S. 1086", "433 U.S. 165", "443 U.S. 658", "444 U.S. 930", "459 F. Supp. 1020", "47 L. Ed. 2d 97", "483 P.2d 832", "507 F.2d 231", "520 F.2d 676", "54 Wn.2d 422", "558 P.2d 796", "595 P.2d 916", "79 Wn.2d 104", "88 Wn.2d 267", "92 S. Ct. 1612", "92 Wn.2d 271", "96 S. Ct. 877", "97 R.I. 95"]
 ---
 
 # State v. Courville
