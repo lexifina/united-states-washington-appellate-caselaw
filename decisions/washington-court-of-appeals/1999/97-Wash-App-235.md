@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42331-2-I"
 decided: "1999-08-23"
-citations: ["97 Wash. App. 235", "97 Wash. App. 1002"]
+citations: ["97 Wash. App. 235"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Darryl William Young, Appella
 source_url: "https://static.case.law/wash-app/97/cases/0235-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184316
-cites_cases: ["109 Wn.2d 207", "115 Wn.2d 294", "117 Wn.2d 55", "118 Wn.2d 773", "123 Wn.2d 42", "133 Wn.2d 177", "136 Wn.2d 856", "137 Wn.2d 1023", "72 Wn. App. 237", "743 P.2d 1237", "79 Wn. App. 569", "797 P.2d 1141", "810 P.2d 1358", "815 P.2d 1362", "827 P.2d 996", "864 P.2d 1378", "864 P.2d 406", "903 P.2d 1003", "92 Wn. App. 693", "942 P.2d 974", "964 P.2d 1196", "966 P.2d 1269", "97 Wn. App. 235"]
+cites_cases: ["109 Wn.2d 207", "115 Wn.2d 294", "117 Wn.2d 55", "118 Wn.2d 773", "123 Wn.2d 42", "133 Wn.2d 177", "136 Wn.2d 856", "137 Wn.2d 1023", "72 Wn. App. 237", "743 P.2d 1237", "79 Wn. App. 569", "797 P.2d 1141", "810 P.2d 1358", "815 P.2d 1362", "827 P.2d 996", "864 P.2d 1378", "864 P.2d 406", "903 P.2d 1003", "92 Wn. App. 693", "942 P.2d 974", "964 P.2d 1196", "966 P.2d 1269"]
 ---
 
 # State v. Young
