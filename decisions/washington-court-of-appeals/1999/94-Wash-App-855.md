@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41222-1-I"
 decided: "1999-03-22"
-citations: ["94 Wash. App. 855", "94 Wash. App. 1045"]
+citations: ["94 Wash. App. 855"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["North Coast Enterprises, Inc., Respondent, v. Factoria Partnership, e
 source_url: "https://static.case.law/wash-app/94/cases/0855-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 83358
-cites_cases: ["103 Wn.2d 344", "118 Wn.2d 737", "138 Wn.2d 1022", "24 Wn. App. 92", "298 P.2d 844", "35 Wn. App. 517", "37 Wn. App. 756", "39 Wn. App. 256", "49 A.L.R.4th 955", "49 Wn.2d 130", "509 P.2d 1009", "544 F.2d 543", "600 P.2d 602", "667 P.2d 1124", "683 P.2d 207", "693 P.2d 140", "693 P.2d 687", "72 Wn. App. 386", "8 Wn. App. 921", "826 P.2d 690", "86 Wn. App. 688", "864 P.2d 969", "937 P.2d 1176", "94 Wn. App. 855"]
+cites_cases: ["103 Wn.2d 344", "118 Wn.2d 737", "138 Wn.2d 1022", "24 Wn. App. 92", "298 P.2d 844", "35 Wn. App. 517", "37 Wn. App. 756", "39 Wn. App. 256", "49 A.L.R.4th 955", "49 Wn.2d 130", "509 P.2d 1009", "544 F.2d 543", "600 P.2d 602", "667 P.2d 1124", "683 P.2d 207", "693 P.2d 140", "693 P.2d 687", "72 Wn. App. 386", "8 Wn. App. 921", "826 P.2d 690", "86 Wn. App. 688", "864 P.2d 969", "937 P.2d 1176"]
 ---
 
 # North Coast Enterprises, Inc. v. Factoria Partnership
