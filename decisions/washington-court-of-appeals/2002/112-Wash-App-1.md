@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48226-2-I"
 decided: "2002-02-11"
-citations: ["112 Wash. App. 1", "110 Wash. App. 1026"]
+citations: ["112 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Jon Erik Grigsby, Respondent, and Do
 source_url: "https://static.case.law/wash-app/112/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719140
-cites_cases: ["112 Wn. App. 1", "122 Wn.2d 604", "133 Wn.2d 39", "139 Wn.2d 694", "41 Wn. App. 444", "704 P.2d 1224", "859 P.2d 1239", "940 P.2d 1362", "989 P.2d 1120"]
+cites_cases: ["122 Wn.2d 604", "133 Wn.2d 39", "139 Wn.2d 694", "41 Wn. App. 444", "704 P.2d 1224", "859 P.2d 1239", "940 P.2d 1362", "989 P.2d 1120"]
 ---
 
 # In re the Marriage of Grigsby
