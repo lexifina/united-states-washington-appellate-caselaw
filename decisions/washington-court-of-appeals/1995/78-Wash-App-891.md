@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "17164-3-II"
+decided: "1995-08-03"
+citations: ["78 Wash. App. 891"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. James K. Brown, Appellant."]
+source_url: "https://static.case.law/wash-app/78/cases/0891-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 426262
+cites_cases: ["110 Wn.2d 263", "118 Wn.2d 424", "121 Wn.2d 1032", "122 Wn.2d 471", "124 Wn.2d 1018", "126 Wn.2d 422", "128 Wn.2d 1021", "13 Wn. App. 71", "533 P.2d 389", "54 Wn. App. 54", "56 Wn. App. 909", "60 Wn. App. 830", "63 Wn. App. 1", "67 Wn. App. 891", "69 Wn. App. 152", "71 Wn. App. 798", "73 Wn. App. 379", "751 P.2d 1165", "771 P.2d 1192", "786 P.2d 320", "810 P.2d 1", "816 P.2d 92", "823 P.2d 1101", "841 P.2d 81", "848 P.2d 199", "85 Wn.2d 1013", "860 P.2d 1009", "863 P.2d 85", "869 P.2d 421", "894 P.2d 1325"]
+---
+
+# State v. Brown
+
+## Majority (Bridgewater, J.)
+
+Bridgewater, J.
+Today we examine the issue of whether rape includes an element of intent when "sexual intercourse” consists of "sexual contact” involving the sex organs of one person and mouth of another. The statute contains a definition of "sexual contact” that includes "the purpose of gratifying sexual desire.” We follow precedent and apply statutory construction in holding that intent is not an element of rape, and thus the information and instructions were adequate and counsel was not ineffective. We affirm.
+A jury convicted James K. Brown of second degree rape. He unlawfully inserted his fingers into the vagina of a female while she was asleep in her bedroom, and he also placed his mouth and tongue on her vagina. He claims to have, suffered an alcoholic blackout and has no memory of the events. He now challenges for the first time both the instructions given to the jury and the sufficiency of the information charging him with the rape, arguing both lacked the element of intent. He also challenges the effectiveness of his defense counsel for failing to raise the omission of intent from both the instructions and the information. The main issue Brown presents to this court is whether intent through "sexual contact” or "sexual gratification” is an element of second degree rape.
+We agree that if "intent” is an element of second degree rape then it should have been included in both the information and the instructions to the jury. Thus, it is appropriate for Brown to raise these issues now because they are of constitutional magnitude.
+Brown argues the following: (1) second degree rape includes the element of "sexual intercourse;" (2) one definition of "sexual intercourse” includes "sexual contact" between persons involving the sex organs of one person and the mouth or anus of another; (3) "sexual contact” is defined as any touching of the sexual or other intimate parts of another for purposes of "sexual gratification;" thus, (4) sexual gratification presents an intent element in second degree rape. Brown argues that this additional element was a result of the legislative action in 1988, which brought the definition of "sexual contact” out of the indecent liberties section of the sexual offenses chapter, RCW 9A.44, and made it applicable to the entire chapter, rather than just to indecent liberties. Brown maintains his argument in spite of the fact that the elements of rape and the definition of "sexual intercourse” remained unchanged.
+However, the courts of this state have long established that intent is not an element of rape. Rape was not a specific intent crime at common law. Washington courts have consistently rejected the argument that intent or knowledge is an element of rape. Two recent cases discussing the 1988 legislation are instructive.
+In 1992, after a careful survey of Washington case law, Division One in State v. Walden held that second degree rape by forcible compulsion does not include the element of intent, either express or implied. Walden involved solely oral-genital contact. The court noted that "[r]ape criminalizes nonconsensual sexual intercourse regardless of criminal intent or knowledge,”
+The reasoning of Division Three in State v. Gurrola is equally compelling and directly on point. Gurrola involved the first degree rape of a child. The defendant similarly argued that if "sexual intercourse” is accomplished by oral-genital contact, then RCW 9A.44.010(2) mandates the additional intent requirement of sexual gratification. But the court rejected this argument, holding that:
+Offenses such as child molestation or indecent liberties reasonably require a showing of sexual gratification because the touching may be inadvertent. Oral-genital contact does not; it is not inadvertent. Further, sexual contact as used in RCW 9A.44.010(2) defines nonintercourse sexual contact for the crimes of child molestation and indecent liberties, RCW 9A.44.083; RCW 9A.44.100, and does not further define or limit the definition of sexual intercourse in RCW 9A.44.010(1), applicable to RCW 9A.44.073.[]
+As Gurrola held, "sexual contact” as defined in RCW 9A.44.010(2) applies to the crimes of first, second, and third degree child molestation (RCW 9A.44.083, .086, and .089, respectively), second degree sexual misconduct with a minor (RCW 9A.44.096), and indecent liberties (RCW 9A.44.100), which all explicitly mention the term "sexual contact” in the description of the crime. Conversely, the term "sexual contact” is not included in the description of rape. After applying statutory construction rules and reading all portions of the chapter to be consistent, the Gur-rola court found that to apply the definition of "sexual contact” to child rape would mean there would be no distinction between rape of a child and molestation of a child when the contact was between the mouth or anus and the sex organ of another.
+We note that our duty when interpreting statutes is to be consistent with the legislative intent and not to obtain an absurd or strained result. Here, the interpretation suggested by Brown would eliminate the distinction between second degree rape and indecent liberties when the defendant accomplishes the rape by oral-genital contact, which would create an absurd result. Plainly, the Legislature has set oral-genital contact as a special type of touching and included it in the definition of "sexual intercourse” for a reason. We hold, along with our colleagues, that it is because this type of touching does not involve inadvertent touching.
+Furthermore, as the Elmore court found, public policy militates against intent being an element of rape:
+For policy reasons it makes sense that the Legislature would focus on the issue of the victim’s consent, or rather lack thereof, rather than the perpetrator’s subjective assessment of the situation. To do otherwise would lead to the ludicrous result that a perpetrator could be exonerated simply by arguing that he did not know the victim’s expressed lack of consent was genuine or that he did not intend to have non-consensual sexual intercourse with the victim.[]
+The Legislature did not change the elements of rape or the definition of "sexual intercourse” in 1988, and we see no basis to depart from well-reasoned precedent. Thus, intent is not an element of second degree rape, and when referring to rape crimes, the third alternative of "sexual intercourse” as defined in RCW 9A.44.010(l)(c) pertains to mere "contact” between persons involving the sex organs of one person and the mouth or anus of another.
+In short, the information was not deficient; the trial court did not err by failing to instruct the jury on the definition of "sexual contact” as defined in RCW 9A.44.010(2); and defense counsel was not ineffective. Brown’s final argument that defense counsel should have requested a voluntary intoxication instruction is meritless because voluntary intoxication is not an available defense in rape cases.
+We affirm.
+Houghton, A.C.J., and Fleisher, J., concur.
+Reveiw denied at 128 Wn.2d 1021 (1996).
+State v. Smith, 56 Wn. App. 909, 913, 786 P.2d 320 (1990); RAP 2.5(a)(3); State v. Gurrola, 69 Wn. App. 152, 155, 848 P.2d 199, review denied, 121 Wn.2d 1032 (1993).
+RCW 9A.44.050(1).
+RCW 9A.44.010(l)(c).
+RCW 9A.44.010(2).
+Among other changes to the chapter made by the Legislature in 1988 were the addition of child molestation and second degree sexual misconduct with a minor. See RCW 9A.44.083, .086, and .089; RCW 9A.44.096.
+See State v. Elmore, 54 Wn. App. 54, 56, 771 P.2d 1192 (1989).
+67 Wn. App. 891, 894, 841 P.2d 81 (1992).
+Walden, 67 Wn. App. at 895 (emphasis added). Numerous other cases have similarly and unequivocally held that intent is not an element of rape. See, e.g., State v. Aumick, 73 Wn. App. 379, 382, 869 P.2d 421 (1994) ("[r]ape does not require the element of intent”), aff’d, 126 Wn.2d 422, 894 P.2d 1325 (1995); State v. Jones, 71 Wn. App. 798, 825, 863 P.2d 85 (1993), review denied, 124 Wn.2d 1018 (1994) (while child molestation requires offender acting for purposes of sexual gratification, rape of child does not); State v. Markle, 118 Wn.2d 424, 435-36, 823 P.2d 1101 (1992) (the requirement that an offender knowingly act "for the purpose of gratifying sexual desire” is not an element of former offense of statutory rape); State v. Saiz, 63 Wn. App. 1, 4, 816 P.2d 92 (1991) ("sexual gratification” is not an element of first degree rape of a child); Elmore, 54 Wn. App. at 57 (neither knowledge nor intent is an. element of third degree rape); State v. Ciskie, 110 Wn.2d 263, 281-82, 751 P.2d 1165 (1988) (knowledge is not inferred in first, second, or third degree rape).
+Gurrola, 69 Wn. App. at 156-57.
+Gurrola, 69 Wn. App. at 157 (emphasis added).
+Jones v. Stebbins, 122 Wn.2d 471, 481, 860 P.2d 1009 (1993).
+Elmore, 54 Wn. App. at 57 n.5.
+State v. Swagerty, 60 Wn. App. 830, 833-34, 810 P.2d 1 (1991); see also State v. Geer, 13 Wn. App. 71, 75-76, 533 P.2d 389, review denied, 85 Wn.2d 1013 (1975).
