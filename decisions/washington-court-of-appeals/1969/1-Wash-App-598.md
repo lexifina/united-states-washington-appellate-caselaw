@@ -1,0 +1,35 @@
+---
+court: "Washington Court of Appeals"
+docket: "52-40389-1, 40433-1"
+decided: "1969-12-29"
+citations: ["1 Wash. App. 598"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Guenter Mannhalt et al., Appellants."]
+source_url: "https://static.case.law/wash-app/1/cases/0598-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1861682
+cites_cases: ["206 So. 2d 392", "279 F. Supp. 532", "337 F.2d 302", "338 U.S. 160", "358 U.S. 307", "361 U.S. 98", "399 P.2d 618", "424 P.2d 650", "432 P.2d 654", "458 P.2d 8", "65 Wn.2d 808", "70 Wn.2d 638", "72 Wn.2d 264", "76 Wn.2d 551", "93 L. Ed. 1879"]
+---
+
+# State v. Mannhalt
+
+## Majority (Utter, J.)
+
+Utter, J.
+The appellants, hereinafter referred to as defendants, were convicted of burglary in the second degree and grand larceny, and have appealed. The issue to be determined on appeal is whether the arresting officers had probable cause to believe a felony had been committed.
+The officers, sitting in an unmarked patrol car near a business district, saw two people in a beige pickup with a canopy and green windows drive slowly by at 4 a.m. There had been a number of burglaries in the area and the officers were assigned to the area for that reason. There were no pedestrians and the traffic was light at that time. Approximately 5 minutes later the same truck drove slowly by again. At this time the officers became suspicious of the truck and 15 minutes later changed the position of their car and saw the same pickup then parked in a vacant lot across from a gas station and next to a clinic. The time was then 4:45 a.m. The officers placed their car in a position where they could still observe the truck and a portion of the business district. At approximately 5 a.m. they observed two men coming from what appeared to them to be a retaining wall. The officers were aware the retaining wall was between a building containing a dentist’s office, a child’s clinic and a drugstore, and that the retaining wall hid an alleyway running behind the drugstore which went to the backdoors of several other businesses.
+On emerging from behind the retaining wall the men trotted down the street, each carrying a box, one a white cardboard box and one a brown wooden box. The men placed the boxes in the rear of the truck, entered the truck and started to drive away when they were arrested without a warrant.
+After the arrest, the officers searched the defendants and the truck defendants were driving. The search disclosed evidence which was used over defense objections at trial. Defendants contend the arrest without a warrant was illegal and items found during the search were improperly admitted as evidence.
+A police officer may arrest a suspect without first obtaining a warrant if he has probable cause to believe the suspect either has committed a crime or is in the act of committing a crime. State v. Darst, 65 Wn.2d 808, 399 P.2d 618 (1965). A reasonable search incident to such an arrest is legal and the results of the search are admissible as evidence. State v. Wilson, 70 Wn.2d 638, 424 P.2d 650 (1967).
+“Probable cause” is a nontechnical standard used by the court to determine if, considering the time, place and pertinent circumstances, it was reasonable for the officer to arrest the suspect without first seeking a warrant. This is a flexible standard and, in applying it, the court considers probabilities. Brinegar v. United States, 338 U.S. 160, 93 L. Ed. 1879, 69 S. Ct. 1302 (1949); State v. Young, 76 Wn.2d 551, 458 P.2d 8 (1969).
+Probable cause has come to mean more than mere suspicion; it exists where the facts and circumstances within the officers’ knowledge, and of which they had reasonably trustworthy information, are sufficient in themselves to warrant a man of reasonable caution in the belief that an offense has been or is being committed. Brinegar v. United States, supra. While the evidence required is more than bare suspicion, it is less than that required to convict. This distinction was noted in Draper v. United States, 358 U.S. 307, 3 L. Ed. 2d 327, 79 S. Ct. 329 (1959) where the court stated at 312:
+There is a large difference between the two things to- be proved [guilt and probable cause], as well as between tribunals which determine them, and therefore a like difference in the quanta and modes of proof required to establish them.”
+Our state has recently reaffirmed that the arresting officer does not need knowledge of evidence to establish guilt beyond a reasonable doubt. State v. Bellows, 72 Wn.2d 264, 432 P.2d 654 (1967). The problem is one of defining the shadowy line between suspicion and probable cause, and that line must be drawn in light of the particular situation and with account taken of all the circumstances. Brinegar v. United States, supra. Probable cause does not require the standard of conclusiveness and probability required of circumstantial facts upon which a conviction must be based. State v. Outten, 206 So. 2d 392 (Fla. 1968).
+In determining probable cause it is the belief of the officer which is being tested for reasonableness. Winkle v. Kropp, 279 F. Supp. 532 (E.D. Mich. 1968). The man of reasonable caution is a man standing in the shoes of the officer. Henry v. United States, 361 U.S. 98, 4 L. Ed. 2d 134, 80 S.Ct. 168 (1959).
+Because many situations which confront officers in the course of executing their duties are more or less ambiguous, room is allowed for some mistakes on their part. The mistakes, however, must be those of reasonable men, acting on facts leading sensibly to their conclusions of probability. Brinegar v. United States, supra.
+Applying these considerations to this case, we believe facts existed from which a man of reasonable caution would believe that an offense had been committed. The combination of the car driving slowly by twice in an essentially commercial neighborhood at 4 a.m., its being parked in a lot some distance removed from the commercial alley from which alley its occupants were seen emerging and trotting down the street carrying boxes, are convincing to us that the standard of probable cause had been met.
+The Henry case does not compel a different conclusion. The court there held probable cause had not been shown in circumstances which were in some ways similar to this case. There, however, the court noted the movements of the defendants and their car had no mark of men acting furtively. In addition, the packages were picked up in a residential section. In the instant case the actions of the defendants in both operating their car and trotting from the retaining wall were furtive. The commercial nature of the scene of the offense is also a distinguishing factor. For these reasons the Henry case is not applicable. The defendants’ reliance on Pigg v. United States, 337 F.2d 302 (8th Cir. 1964) is misplaced. In that case there was nothing furtive in the actions of the defendant.
+The convictions of the defendants are affirmed.
+Horowitz, A. C. J., and Stafford, J., concur.
