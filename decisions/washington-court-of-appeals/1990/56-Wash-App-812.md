@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22846-3-I"
 decided: "1990-01-03"
-citations: ["56 Wash. App. 812", "56 Wash. App. 1040"]
+citations: ["56 Wash. App. 812"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. David Lee Wilkinson, Responden
 source_url: "https://static.case.law/wash-app/56/cases/0812-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1759560
-cites_cases: ["106 Wn.2d 144", "107 Wn.2d 1", "109 Wn.2d 357", "112 Wn.2d 587", "112 Wn.2d 731", "114 Wn.2d 1015", "129 A.D.2d 440", "14 Wn. App. 462", "229 N.J. Super. 215", "361 F.2d 412", "371 U.S. 471", "468 U.S. 420", "483 P.2d 630", "488 U.S. 9", "514 N.Y.S.2d 13", "519 N.E.2d 289", "524 N.Y.S.2d 378", "544 P.2d 101", "551 A.2d 170", "56 Wn. App. 812", "611 P.2d 771", "639 P.2d 1320", "70 N.Y.2d 891", "720 P.2d 436", "726 P.2d 445", "745 P.2d 34", "773 P.2d 46", "774 P.2d 10", "79 Wn.2d 51", "93 Wn.2d 638", "96 Wn.2d 816"]
+cites_cases: ["106 Wn.2d 144", "107 Wn.2d 1", "109 Wn.2d 357", "112 Wn.2d 587", "112 Wn.2d 731", "114 Wn.2d 1015", "129 A.D.2d 440", "14 Wn. App. 462", "229 N.J. Super. 215", "361 F.2d 412", "371 U.S. 471", "468 U.S. 420", "483 P.2d 630", "488 U.S. 9", "514 N.Y.S.2d 13", "519 N.E.2d 289", "524 N.Y.S.2d 378", "544 P.2d 101", "551 A.2d 170", "611 P.2d 771", "639 P.2d 1320", "70 N.Y.2d 891", "720 P.2d 436", "726 P.2d 445", "745 P.2d 34", "773 P.2d 46", "774 P.2d 10", "79 Wn.2d 51", "93 Wn.2d 638", "96 Wn.2d 816"]
 ---
 
 # State v. Wilkinson
