@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "7637-7-III"
 decided: "1987-07-02"
-citations: ["50 Wash. App. 646", "48 Wash. App. 1037"]
+citations: ["50 Wash. App. 646"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
