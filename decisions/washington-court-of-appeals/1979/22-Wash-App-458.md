@@ -1,0 +1,80 @@
+---
+court: "Washington Court of Appeals"
+docket: "6378-1"
+decided: "1979-01-17"
+citations: ["22 Wash. App. 458"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Darrell H. Wilber, et al, Respondents, v. Western Properties, et al, Respondents, The City of Tacoma, et al, Appellants."]
+source_url: "https://static.case.law/wash-app/22/cases/0458-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 467013
+cites_cases: ["111 P.2d 612", "13 Wn. App. 766", "14 Wn. App. 169", "14 Wn. App. 808", "280 P.2d 253", "343 P.2d 183", "390 P.2d 976", "397 U.S. 436", "46 Wn.2d 240", "485 P.2d 613", "513 P.2d 582", "538 P.2d 136", "54 Wn.2d 570", "540 P.2d 470", "545 P.2d 584", "64 Wn.2d 191", "79 Wn.2d 374", "8 Wn.2d 93", "9 Wn. App. 573"]
+---
+
+# Wilber v. Western Properties
+
+## Majority (Andersen, A.C.J.)
+
+Andersen, A.C.J.
+Facts of Cáse
+This case is a sequel to Wilber v. Western Properties, 14 Wn. App. 169, 540 P.2d 470 (1975). At issue are indemnity claims arising from that litigation.
+Following a jury trial in Wilber v. Western Properties, supra, Darrell Wilber obtained a verdict and judgment because of flood damage to his apartments in southeast Tacoma. The judgment was against Western Properties, his downhill neighbor, which in the course of developing its property had impeded the natural flow of storm waters through an open ditch on its property by replacing it with a 24-inch pipe culvert. The culvert proved too small to handle the storm drainage thus causing the flow to back up onto Wilber's property and flood his apartments.
+Following its unsuccessful appeal in Wilber v. Western Properties, supra, Western paid Wilber's judgment plus statutory costs and interest. It thereupon proceeded with this common-law indemnity action seeking reimbursement for the judgment it had paid, and for its attorneys' fees and other expenses incurred in defending that lawsuit.
+The parties against whom Western sought indemnity were the following: William Hocking, the architect it hired to design and plan the development of its property; Raymond Chalker, who Hocking hired to do civil engineering work on the project and who decided to replace the open ditch with the pipe culvert; the City of Tacoma and Pierce County, which had formed a joint venture for the construction of the storm sewer system which used the drainway in question as a safety valve for its Wards Lake drainage system in times of particularly heavy storm water runoff — and whose employees furnished information about the drainage system and ditch to Hocking and Chalker.
+Following a trial to the court in this indemnity action, the court held that Hocking and Chalker were not negligent but that the City and County were. Judgment was then entered for Western against the City and County for the amount that Western had paid in satisfaction of Wilber's judgment against it and for Western's attorneys' fees and expenses incurred in defending the Wilber action. Western's total judgment against the City and County was for $60,073.80 plus interest.
+Judgment was also entered for Chalker against the City and County in the sum of $7,839.16 for his attorneys' fees and expenses in successfully defending against Western's indemnity action.
+Hocking is not a party to this appeal and the judgment which presumably dismissed him from the case is not a part of the record before us.
+The following findings of fact by the trial court are the critical ones in connection with the City and County's appeal from Western's judgment.
+The city of Tacoma [was] negligent in failing to communicate accurate information concerning the Wards Lake project, the drainage ditch and the anticipated flow in the drainage ditch. Pierce County was a joint venturer with the city and bound by the city's communication. The city negligently and inaccurately represented to Hocking and Chalker that there would no longer be any flow from Wards Lake into the ditch, because drainage from Wards Lake had been diverted, when in fact, city of Tacoma knew and intended that in the future there would periodically be overflows of storm water from Wards Lake into the drainage ditch.
+Finding of fact No. 10.
+Third party defendants Hocking and Chalker were not negligent in relying on the information which they received from city of Tacoma and Pierce County as set forth herein and are entitled to judgment dismissing the third party complaint against them.
+Finding of fact No. 11.
+The active negligence of the city and the vicarious negligence of the county, as above stated, was the proximate cause of the flooding of the Wilber property and, in addition, constituted breach of duties by the city and county which exposed Western Properties to litigation with plaintiffs Wilber. The negligence of the city of Tacoma and Pierce County was the proximate cause of the defense costs, attorney's fees, judgment and interest incurred by or on behalf of Western Properties and which amounts were set forth above.
+Finding of fact No. 12.
+In connection with the City and County's appeal from Chalker's judgment, the foregoing findings were incorporated by reference as to Chalker and, in addition, the trial court also separately found:
+The negligently inaccurate representations of the city of Tacoma to Chalker, for which Pierce County as a joint venturer is also bound, were the proximate cause of the litigation commenced by Western Properties against third party defendants Chalker and of the attorney's fees and costs incurred by Chalker in defense of the claim of Western Properties.
+Finding of fact No. 2.
+Third party defendants Chalker have been damaged in the sum of $7,839.16, consisting of attorney's fees and out-of-pocket costs necessarily and reasonably incurred in defense of the third party complaint of Western Properties.
+Finding of fact No. 3.
+The City and County here appeal both the Western and Chalker judgments against them. The errors assigned present two ultimate issues.
+Issues
+Issue One. Was Western entitled to indemnity from the City and County under the evidence presented and the facts found?
+Issue Two. Under the circumstances presented, was Chalker also entitled to recover his defense costs from the City and County?
+Decision
+Issue One.
+Conclusion. Western Properties was entitled to recover from the City and County the amount of Wilber's judgment which Western paid, as well as the attorneys' fees and expenses Western incurred in defending the lawsuit brought against it by Wilber.
+With respect to the various contentions of the City and County, we conclude as follows.
+The trial court could properly predicate liability against the City and County on negligent representations made to Western's architect and engineer by employees of the City and County. Restatement (Second) of Torts § 552, at 126-27 (1977) states the rule:
+Information Negligently Supplied for the Guidance of Others
+(1) One who, in the course of his business, profession or employment, or in any other transaction in which he has a pecuniary interest, supplies false information for the guidance of others in their business transactions, is subject to liability for pecuniary loss caused to them by their justifiable reliance upon the information, if he fails to exercise reasonable care or competence in obtaining or communicating the information.
+(2) Except as stated in Subsection (3), the liability stated in Subsection (1) is limited to loss suffered
+(a) by the person or one of a limited group of persons for whose benefit and guidance he intends to supply the information or knows that the recipient intends to supply it; and
+(b) through reliance upon it in a transaction that he intends the information to influence or knows that the recipient so intends or in a substantially similar transaction.
+(3) The liability of one who is under a public duty to give the information extends to loss suffered by any of the class of persons for whose benefit the duty is created, in any of the transactions in which it is intended to protect them.
+Accord, Burien Motors, Inc. v. Balch, 9 Wn. App. 573, 577, 513 P.2d 582 (1973).
+Western, without fault on its part, as the trial court found, was compelled to pay damages to Wilber because of the negligent conduct of City and County employees. The conduct of the City and County was thus primary and active. W. Prosser, Handbook of the Law of Torts § 51, at 312 (4th ed. 1971). Western was therefore entitled to be indemnified by the City and County for the judgment Wilber obtained against Western. Rufener v. Scott, 46 Wn.2d 240, 242-43, 280 P.2d 253 (1955).
+The City and County argue, however, that in the Wilber trial the jury found Western to have been actively negligent in obstructing the drainway and therefore Western should be precluded from obtaining indemnity. They rely on Rufener v. Scott, supra. But there is no basis in the record for this contention. As this court stated in Wilber v. Western Properties, supra at 174, "Western's duty to Wilber was akin to a duty of strict liability." At the trial, the jury was not instructed on negligence. It was instead instructed that when one causes flooding by obstructing a natural drainway, that person is liable for damages "regardless of negligence," and that the only defense was if the flooding was caused by an Act of God.
+In connection with the prior lawsuit, it is also urged by the City and County that since Wilber had originally sued the City and County, as well as Western, and that since the City and County were dismissed at the close of Wilber's case, Western is now collaterally estopped from recovering the damages it had to pay Wilber from the City and County. Again the record does not support this contention. In Wilber's suit, Wilber, of course, did not have to present any evidence against the City and County if he chose not to do so, as he apparently so chose.
+Collateral estoppel simply means "that when an issue of ultimate fact has once been determined by a valid and final judgment, that issue cannot again be litigated between the same parties in any future lawsuit." Ashe v. Swenson, 397 U.S. 436, 443, 25 L. Ed. 2d 469, 90 S. Ct. 1189 (1970). The trial court in dismissing Wilber's claims against the City and County made it clear that Western's cross claims for indemnity against the City and County were not also thereby being disposed of at that time.
+In our decision in Manning v. Loidhamer, 13 Wn. App. 766, 538 P.2d 136 (1975), we reviewed the law of this state with respect to the right of a litigant to recover attorneys' fees and other defense costs. We there summarized that law as follows:
+It is the general rule in this state that attorney's fees are not ordinarily recoverable except pursuant to statute, contractual obligation, or some well-recognized principle of equity. State ex rel. Macri v. Bremerton, 8 Wn.2d 93, 111 P.2d 612 (1941); 20 Am. Jur. 2d Costs § 72, at 58 (1965).
+It is equally well settled that when the natural and proximate consequences of a wrongful act of defendant involve plaintiff in litigation with others, there may as a general rule be a recovery of damages for reasonable expenses incurred in the litigation, including attorney's fees. The original suit generating the expenses must be instituted by a third party not connected with the original transaction. Armstrong Constr. Co. v. Thomson, 64 Wn.2d 191, 195, 390 P.2d 976 (1964). The wrongful act which involves the plaintiff in litigation may arise ex contractu or ex delicto. . . .
+Three elements are necessary to create liability: (1) a wrongful act or omission by A toward B; (2) such act or omission exposes or involves B in litigation with C; and (3) C was not connected with the initial transaction or event, viz., the wrongful act or omission of A toward B. The Washington decisions discussing this rule do not clearly state that the original act or omission of A must be against B, but such is clearly implied. All of the Washington cases allowing expenses of litigation to be recovered as consequential damages involve a breach of duty by A which exposed B to litigation with C, a third person who was a stranger to the event involving A and B.
+Manning v. Loidhamer, supra at 769.
+The trial court's decision herein to hold the City and County liable to Western for Western's attorneys' fees and defense costs in the Wilber lawsuit meets the Manning test in all respects. Here there was: (1) a wrongful act or omission by A (the City and County acting through its employees) toward B (Western acting through Hocking and Chalker); (2) such act or omission exposes or involves B (Western) in litigation with C (Wilber); and (3) C (Wilber) was not connected with the initial transaction or event, viz., the wrongful act or omission of A (the City and County) toward B (Western).
+The City and County argue that the attorneys' fees allowed Western were excessive. Whether attorneys' fees are reasonable or not involves a question of fact and since it must be answered in light of the circumstances of each case, the trial court is given a broad discretion in fixing such fees. In re Renton, 79 Wn.2d 374, 377, 485 P.2d 613 (1971). Here the judge who allowed such fees had presided over the initial jury trial and was fully cognizant of all aspects of that case. The record also established that he carefully reviewed the work done and the time spent by the attorneys. There was no abuse of discretion in the award of attorneys' fees.
+The City and County assign error to a number of other findings of fact by the trial court. We have reviewed the record as to each and conclude that substantial evidence supports the questioned findings, therefore, we will not interfere with them. Thorndike v. Hesperian Orchards, Inc., 54 Wn.2d 570, 575, 343 P.2d 183 (1959).
+Issue Two.
+Conclusion. Chalker is not entitled to recover from the City and County for the attorneys' fees and costs he expended when Western also joined him in the indemnity action.
+As we made clear in Manning v. Loidhamer, supra, in order to recover attorneys' fees and defense costs, the suit generating them must be instituted by a third party unconnected with the transaction.
+The suit generating Chalker's expenses, for which he was given judgment against Western, was not the original suit by Wilber against Western. It was only after Wilber had already recovered judgment against Western in the jury trial, and after Western had appealed that case, that Western then filed a third-party complaint against Chalker (and Hocking) seeking indemnity on the ground that Chalker had also been negligent. Chalker, therefore, is not entitled to attorneys' fees and defense costs. Manning v. Loid-hamer, supra at 769. Accord, Armstrong Constr. Co. v. Thomson, 64 Wn.2d 191, 195-96, 390 P.2d 976 (1964); Stolz v. McKowen, 14 Wn. App. 808, 812-13, 545 P.2d 584 (1976).
+The judgment of Western Properties is affirmed and that of Raymond Chalker and Jane Doe Chalker, his wife, is reversed.
+Williams and Ringold, JJ., concur.
+Reconsideration denied April 30, 1979.
+Review denied by Supreme Court July 20, 1979.
+In dismissing Wilber's action against the City and County (and the State of Washington which was still in the case at that point), the trial court stated in part:
+If there is any legal problem between the municipalities or governmental bodies and the defendant, Western Properties, because of alleged information supplied to them, that certainly is a very secondary thing as far as Mr. Wilber is concerned. It is really no concern to Mr. Wilber. The city, county and state, may have been, for the purposes of this decision, may have been negligent in supplying information to Western Properties' engineers. But, that is so remote from any liability that they would have to Mr. Wilber, that I do not think it supports a direct cause of action.
+I will dismiss the city, county, and state so far as plaintiffs are concerned.
+Now, I appreciate that there are cross-actions in here and I am not disposing of them.
