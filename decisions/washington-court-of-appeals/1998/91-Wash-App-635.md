@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40464-4-I"
 decided: "1998-06-01"
-citations: ["91 Wash. App. 635", "91 Wash. App. 1015"]
+citations: ["91 Wash. App. 635"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Lamar Armstrong, Appellant."]
 source_url: "https://static.case.law/wash-app/91/cases/0635-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681686
-cites_cases: ["129 Wn.2d 535", "45 Wn. App. 132", "63 Wn. App. 480", "67 Wn. App. 448", "69 Wn. App. 873", "724 P.2d 412", "75 Wn. App. 500", "820 P.2d 513", "836 P.2d 239", "850 P.2d 1369", "878 P.2d 497", "91 Wn. App. 635", "919 P.2d 69"]
+cites_cases: ["129 Wn.2d 535", "45 Wn. App. 132", "63 Wn. App. 480", "67 Wn. App. 448", "69 Wn. App. 873", "724 P.2d 412", "75 Wn. App. 500", "820 P.2d 513", "836 P.2d 239", "850 P.2d 1369", "878 P.2d 497", "919 P.2d 69"]
 ---
 
 # State v. Armstrong
