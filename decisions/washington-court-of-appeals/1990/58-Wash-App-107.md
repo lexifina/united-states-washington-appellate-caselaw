@@ -1,0 +1,41 @@
+---
+court: "Washington Court of Appeals"
+docket: "22988-5-I"
+decided: "1990-05-29"
+citations: ["58 Wash. App. 107"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Joshua Gordon Anderson, Appellant."]
+source_url: "https://static.case.law/wash-app/58/cases/0107-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1754132
+cites_cases: ["100 Wn.2d 26", "108 Wn.2d 1024", "113 Wn.2d 1033", "114 Wn.2d 1019", "114 Wn.2d 127", "36 Wn. App. 463", "386 U.S. 997", "420 P.2d 693", "47 Wn. App. 729", "55 Wn. App. 275", "55 Wn. App. 888", "56 Wn. App. 257", "666 P.2d 351", "674 P.2d 1268", "69 Wn.2d 855", "737 P.2d 288", "776 P.2d 1383", "781 P.2d 501", "783 P.2d 106", "787 P.2d 8"]
+---
+
+# State v. Anderson
+
+## Majority (Grosse, A.C.J. —)
+
+Grosse, A.C.J. —
+Joshua Anderson, a juvenile, was sen-
+tenced to 32 days of confinement after he entered a plea of guilty to 11 counts related to a spree of stealing and vandalizing cars. The single issue on appeal is whether Anderson's sentence violates the 300 percent rule of RCW 13.40.180(2).
+On August 17, 1988, after Anderson entered a plea of guilty, the trial court ordered 32 days of confinement as follows:
+Taking a Motor Vehicle Without Permission (4 counts) First Degree Theft First Degree Malicious Mischief (2 counts) Second Degree Theft 4 days each count (16 days) 4 days 5 days each count (10 days) 2 days
+The disposition hearing included the above 11-count plea and a separate information related to burglary and taking a motor vehicle without permission. During the disposition hearing, Anderson's counsel addressed the court:
+And also, your Honor, I'd just point to the 300% Rule. Apparently the State, and we still disagree on the meaning of the 300% Rule. This is a Disposition and that the Court has addressed in 13.40.180 which provides that detention for multiple counts should not be more than 300% of the most serious conviction. In this case, the most serious conviction calls for 10 days and 300% of that is 30 days.
+So we would ask the Court to impose the 30 days. And we would point to those legal features in supporting that sentence.
+Later the prosecutor made the following rebuttal to the earlier statement by defense counsel:
+Your Honor, the State would just like to briefly respond to counsel's argument just regarding the 300% Rule. Just for the record, it's the State's position that the 300% Rule applies to each Information at a Disposition, not the entire Disposition. The State feels its recommendations fall within that Rule. And we also believe that under State v. Brown, I'm sorry, I do not have that cite, a case I believe in 1987, concurred with the State's position that the 300% Rule where Disposition referred to each Information.
+In applying the 300 percent rule, the trial court used the high end of the standard range for the most serious charge to determine the maximum penalty. In this case, first degree malicious mischief or first degree theft is the most serious charge; the high end of the standard range is 10 days. When Anderson was sentenced to a total of 32 days on the multiple count information, defense counsel did not object.
+Anderson argues that the trial court erroneously ordered him to serve 32 days in confinement in violation of the 300 percent rule. He claims the trial court should have used the actual term imposed to calculate 300 percent and establish the upper limit of the sentence, rather than employ the high end of the standard range for the highest offense. Anderson's counsel discussed the 300 percent rule at the disposition hearing, but from the record the argument appears to be whether the 300 percent rule applies to the disposition hearing or to each information. The State counters that by failing to object at trial, Anderson did not preserve the issue for appeal.
+Generally, this court will not hear an issue first raised on appeal. State v. Thompson, 55 Wn. App. 888, 892, 781 P.2d 501 (1989). The purpose of this rule is to give the trial court an opportunity to correct any errors and prevent unnecessary appeals and retrials. Smith v. Shannon, 100 Wn.2d 26, 37, 666 P.2d 351 (1983). However, a challenge to a sentence that is contrary to law may be raised on appeal for the first time. State v. Loux, 69 Wn.2d 855, 420 P.2d 693 (1966), cert. denied, 386 U.S. 997 (1967); see also State v. Sargent, 36 Wn. App. 463, 464, 674 P.2d 1268 (1984). Since Anderson argues that the sentence violates RCW 13.40.180(2), he may raise the issue for the first time on appeal.
+The trial court properly determined that the 300 percent rule applied to each information, not each disposition hearing. State v. Dodd, 56 Wn. App. 257, 783 P.2d 106 (1989), review denied, 114 Wn.2d 1019 (1990); State v. Brown, 47 Wn. App. 729, 737 P.2d 288, review denied, 108 Wn.2d 1024 (1987). RCW 13.40.180(2) reads as follows:
+Where a disposition is imposed on a youth for two or more offenses, the terms shall run consecutively, subject to the following limitations:
+(2) The aggregate of all consecutive terms shall not exceed three hundred percent of the term imposed for the most serious offense; ....
+(Italics ours.) Anderson urges this court to interpret the statutory language "term imposed" to mean the actual term imposed by the judge. Based on such a reading of the statute, the sentence Anderson received exceeded the maximum allowed under the 300 percent rule by 17 days. The State maintains that the "term imposed for the most serious offense" means the most serious term which could he imposed under the statute. We believe Anderson's argument is well founded.
+Clear and unambiguous statutory language is not subject to judicial construction, Hines v. Data Line Sys., Inc., 114 Wn.2d 127, 143, 787 P.2d 8 (1990). We believe this statute is clear and unambiguous and are constrained to use the language of the statute to interpret its meaning. An undefined term in a statute will be given its usual and ordinary meaning, and the court may use a dictionary definition to determine the usual and ordinary meaning of the term. State v. Martin, 55 Wn. App. 275, 277, 776 P.2d 1383, review denied, 113 Wn.2d 1033 (1989). Webster's Third New International Dictionary 1136 (1981) defines impose as "to make, frame, or apply (as a charge, tax, obligation, rule, penalty) as compulsory, obligatory, or enforcible". This definition comports with Anderson's interpretation of the statute.
+At a disposition hearing the trial court exercises its discretion and imposes the term to be served by the offender under the juvenile sentencing scheme. See RCW 13.40.150. On the other hand, the standard sentencing range was developed by the Juvenile Disposition Standards Commission and adopted by the Legislature. See RCW 13.40.025. The standard range is not imposed on the juvenile, but rather guides the court by establishing the parameters for sentencing. Only the court enters a disposition order imposing the term to be served by the juvenile offender. We believe the plain meaning of the term imposed means the actual term the juvenile receives.
+The State argues that this interpretation of the statute will produce absurd results because, on remand, the court could still resentence Anderson to 30 days by imposing 10 days for theft in the first degree and 10 days for two other counts and no detention for the remaining counts. While such a sentence is possible on remand, it is also possible that the court could impose only the 15 days, based on the 5 days' maximum term imposed earlier. Both sentences would comply with our interpretation of the 300 percent rule. While this uncertainty may seem unusual in this case, future sentences would not be uncertain. Once the most serious term is imposed, that actual amount would be the figure from which to calculate the maximum term under the 300 percent rule. Provided the term imposed is within the standard range and does not exceed the 300 percent rule, the trial court would retain discretion to vary sentences appropriately.
+We reverse the sentence and remand for resentencing in accordance with this opinion.
+Forrest and Baker, JJ., concur.
