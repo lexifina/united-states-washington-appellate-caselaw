@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31867-5-I"
 decided: "1994-06-20"
-citations: ["75 Wash. App. 582", "74 Wash. App. 1047"]
+citations: ["75 Wash. App. 582"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Leola M. Williams, Appellant, v. Virginia Mason Medical Center, Respo
 source_url: "https://static.case.law/wash-app/75/cases/0582-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 11977443
-cites_cases: ["107 Wn.2d 524", "12 Wn.2d 191", "120 P.2d 1003", "123 Wn.2d 15", "2 Wn. App. 315", "297 P.2d 244", "319 P.2d 843", "467 P.2d 879", "48 Wn.2d 843", "484 U.S. 815", "51 Wn.2d 428", "730 P.2d 1299", "75 Wn. App. 582", "864 P.2d 921"]
+cites_cases: ["107 Wn.2d 524", "12 Wn.2d 191", "120 P.2d 1003", "123 Wn.2d 15", "2 Wn. App. 315", "297 P.2d 244", "319 P.2d 843", "467 P.2d 879", "48 Wn.2d 843", "484 U.S. 815", "51 Wn.2d 428", "730 P.2d 1299", "864 P.2d 921"]
 ---
 
 # Williams v. Virginia Mason Medical Center
