@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "800-2; 928-2"
+decided: "1973-04-02"
+citations: ["8 Wash. App. 622"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Appellant, v. Albert Lee Bureau et al., Respondents."]
+source_url: "https://static.case.law/wash-app/8/cases/0622-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 475683
+cites_cases: ["236 P.2d 545", "39 Wn.2d 481", "486 P.2d 95", "79 Wn.2d 392"]
+---
+
+# State v. Bureau
+
+## Majority (Pearson, C.J.)
+
+Pearson, C.J.
+The defendant, Albert Lee Bureau, was charged by information with delivery of phencyclidine, a controlled substance listed in schedule 3 of the Uniform Controlled Substances Act. RCW 69.'50.208(c) (7). At the conclusion of the state’s case, defendant’s motion challenging the sufficiency of the evidence was granted.
+In an unrelated criminal prosecution, the defendant, Richard Allen Dole, was similarly charged with delivery of phencyclidine. Following a jury verdict of guilty, defendant Dole’s motion in arrest of judgment was granted on the grounds of insufficient evidence.
+In both cases, the state established that phencyclidine was a “controlled substance” but adduced no evidence that the quantity of phencyclidine involved had “a potential for abuse associated with a depressant effect upon the central nervous system.” The state appeals both dismissals and the causes were consolidated on appeal. The sole question is whether the recently enacted Uniform Controlled Substances Act incorporated a “usable amount” test which the state must satisfy in order to obtain a conviction for delivery of a schedule 3 substance. For essentially the same reasoning employed in State v. Larkins, 79 Wn.2d 392, 486 P.2d 95 (1971), we conclude that the “usable amount” test was not legislatively adopted and reverse the dismissals.
+Although the Uniform Controlled Substances Act differs markedly from its predecessor, the Uniform Narcotic Drug Act, the basic framework of this state’s effort to control the drug abuse problem remains unchanged. Under the Uniform Narcotic Drug Act, the classification of a particular substance was based on a finding by the state board of pharmacy that certain criteria were met. Once the finding was made and the substance classified by the board, the criminal penalty provisions of the act became operative. The Supreme Court in State v. Larkins, supra, held that the trier of fact in a criminal prosecution could not look behind the board of pharmacy’s decision. The question for the jury was whether the substance in evidence fell within the board’s classification, not whether the substance satisfied the statutory criteria. This allocation of responsibility between the board of pharmacy and the trier of fact has not been altered by the adoption of the Uniform Controlled Substances Act. If anything, the Larkins decision has been codified.
+The Uniform Controlled Substances Act specifically provides that the board of pharmacy’s classification decision shall be made pursuant to the rule-making procedures of the administrative procedure act. RCW 69.50.201 (a). Moreover, RCW 69.50.507 states that:
+All final determinations, findings and conclusions of the state board of pharmacy under this chapter are final and conclusive decisions of the matters involved. Any person aggrieved by the decision may obtain review . . . in conformity with the administrative procedure act, chapter 34.04 RCW.
+(Italics ours.) We believe these provisions both clarify and crystallize the prior rule that the board of pharmacy’s decision-making processes are screened against jury review. The board’s classificatory decisions may be judicially examined only in accordance with the principles and procedures of administrative law.
+This dichotomy between the board’s administrative function and the state’s law enforcement machinery is dis-positive of the question before us. Defendants argue forcefully that the legislative scheme embodied in article 2 of the act incorporates a “usable amount” test with respect to schedules 3, 4, 'and 5 substances, but not for those listed in schedules 1 and 2. The problem is that the statutory provisions employed to establish this theory relate solely to the board of pharmacy’s administrative function. The language defendants rely on is part of the extensive legislative guidelines which the board must follow in carrying out its duties.
+Article 2 of the Uniform Controlled Substances Act, RCW 69.50.201 through RCW 69.50.213, though complex on its surface, in essence accomplishes three things. First, it promulgates a list of controlled substances and subdivides them into five schedules. Second, it authorizes the board of pharmacy to administer and keep the list up to date and current with advances in technology and the healing arts through the power of adding, deleting or reclassifying drugs. Third, it establishes criteria which the board must consider before reaching a decision to alter or amend the list. The most significant of the criteria which the board must examine is a drug’s “potential for abuse.” Part of the official comments to article 2, section 201 of the Uniform Controlled Substances Act, drafted by the National Conference of Commissioners on Uniform State Laws (1970) explains the derivation of the phrase in the statute, as follows:
+The term “potential for abuse” is found in the definition of a “depressant or stimulant drug” in the Drug Control Amendments of 1965 (21 U.S.C. 201 (v)) and is characterized further in the regulations (21 CFR 166.2(e)) promulgated under those regulations as follows:
+“The Director of the Bureau of Narcotics and Dangerous Drugs may determine that a substance has a potential for abuse because of its depressant or stimulant effect on the central nervous system or its hallucinogenic effect if:
+(1) There is evidence that individuals are taking the drug or drugs containing such a substance in amounts sufficient to create a hazard to their health or to the safety of other individuals or of the community; or
+(2) There is significant diversion of the drug or drugs containing such a substance from legitimate drug channels; or
+(3) Individuals are taking the drug or drugs containing such a substance on their own initiative rather than on the basis of medical advice from a practitioner licensed by law to administer such drugs in the course of his professional practice; or
+(4) The drug or drugs containing such a substance are new drugs so related in their action to a drug or drugs already listed as having a potential for abuse to make it likely that the drug will have the same potentiality for abuse as such drugs, thus making it reasonable to assume that there may be significant diversions from legitimate channels, significant use contrary to or without medical advice, or that it has a substantial capability of creating hazards to the health of the user or to the safety of the community.”
+(Italics ours.) The complete comment examines the broad ramifications of this phrase in greater depth than we need repeat here. Suffice it to say that in light of this comment we reject defendant’s argument that “having a potential for abuse” modifies “quantity” rather than “substances” in RCW 69.50.208(c).
+When defendants argue that the state must prove to the satisfaction of the trier of fact that the quantity of phency-clidine delivered had “a potential for abuse associated with a depressant effect on the central nervous system . . .” (italics ours) they invite us to convert an administrative guideline into a jury instruction. When the Uniform Controlled Substances Act was passed, the legislature in RCW 69.50.208(c)(7) made the initial determination that “any quantity” of phencyclidine had a “potential for abuse.” The legislature authorized, and in fact required, the board of pharmacy to periodically review this decision. RCW 69.50.213. No other body, save under the aegis of the administrative procedure act, is empowered to conduct that review.
+In the case of Albert Lee Bureau, the judgment of dismissal is reversed and the cause is remanded for trial.
+In the case of Richard Allen Dole, the dismissal is reversed and the case is remanded for imposition of sentence.
+Petrie and Armstrong, JJ., concur.
+Petition for rehearing denied May 7, 1973.
+Review denied by Supreme Court July 23, 1973.
+RCW 69.33.010 through 69.33.960.
+The Washington statute is modeled after and follows closely the wording of the Uniform Controlled Substances Act referred to. RCW 69.50.201.
+Defendant’s argument also runs contrary to a basic rule of statutory construction that qualifying words and phrases, where no contrary intention appears, refer to the last antecedent. See Davis v. Gibbs, 39 Wn.2d 481, 236 P.2d 545 (1951). Under that rule, the qualifying phrase, “having a potential for abuse,” refers to “substances” as the last antecedent and not to “quantity.”
