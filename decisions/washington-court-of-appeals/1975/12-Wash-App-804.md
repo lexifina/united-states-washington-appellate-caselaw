@@ -1,0 +1,36 @@
+---
+court: "Washington Court of Appeals"
+docket: "1177-2"
+decided: "1975-03-03"
+citations: ["12 Wash. App. 804"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Joe L. Dillon, Deceased."]
+source_url: "https://static.case.law/wash-app/12/cases/0804-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1855762
+cites_cases: ["123 Wash. 546", "154 P.2d 308", "182 Wash. 310", "200 P.2d 748", "212 P. 1073", "22 Wn.2d 83", "250 P.2d 524", "261 P.2d 414", "32 Wn.2d 64", "36 Wash. 478", "371 P.2d 626", "41 Wn.2d 519", "43 Wn.2d 369", "47 P.2d 664", "486 P.2d 313", "5 Wn. App. 37", "60 Wn.2d 48", "78 P. 1022"]
+---
+
+# In re the Estate of Dillon
+
+## Majority (Pearson, J.)
+
+Pearson, J.
+The appellant herein, Alice Marie Smith, is the devisee of real property from the estate of her brother, Joe L. Dillon. The respondent, Hazel Fern Dillon, decedent’s wife of 43 years, received her husband’s entire interest in their community property by reason of a community property agreement. The value of the inheritance contemplated by each party was approximately $25,000.
+During the pendency of the probate, Mrs. Dillon petitioned for and was granted an award in lieu of homestead in the amount of $15,000, and a family maintenance allowance of $300 per month. Mrs. Smith is appealing on the grounds that those awards were so excessive as to constitute an abuse of discretion on the part of the trial court. She contends that the award in lieu of homestead in the maximum amount permitted by statute frustrates the testamentary plan of her brother. She also argues that the family maintenance should not have been allowed without an affirmative proof of need by the respondent.
+The award in lieu of homestead in this instance was discretionary with the court. At the time of these proceedings, RCW 11.52.010 provided for a maximum award of $15,000. But RCW 11.52.012 stated that the award may be denied or reduced when the surviving spouse is entitled to receive property by reason of the death of his or her spouse in the amount of $10,000 or more. Nevertheless, this section does not preclude the court from awarding the maximum amount permitted by law. Rather, it is a matter within the discretion of the court. An abuse of discretion will be found only when the reviewing court believes that the award was “arbitrary, clearly untenable or manifestly unreasonable . . .” In re Estate of Abel, 5 Wn. App. 37, 38, 486 P.2d 313 (1971). Awards in lieu of homestead are favored by law and the statutes permitting them should be liberally construed in favor of those who are entitled to benefit from the award. Cody v. Herberger, 60 Wn.2d 48, 371 P.2d 626 (1962); Kelley v. Butler, 182 Wash. 310, 47 P.2d 664 (1935).
+It is true that the granting of the award could interfere with the testamentary plan of the decedent. But this is not a reason to reduce or deny the award. By its nature the statutory award will in many instances frustrate testamentary desires. This will usually be so where the assets of the estate are small. Yet the award in lieu of homestead has long been in existence and the maximum amount of the award has been continually revised upwards. The statute was enacted for the protection and benefit of the surviving spouse and/or minor children. We therefore do not consider it unreasonable to award an elderly widow of modest means and inheritance the maximum amount of $15,000.
+We likewise do not believe that the family maintenance allowance awarded to Mrs. Dillon was excessive. The granting of the allowance is also discretionary with the court; the amount of the award depends on the circumstances and necessities of the surviving family of the decedent. RCW 11.52.040; In re Estate of Bernow, 43 Wn.2d 369, 261 P.2d 414 (1953). The length or brevity of the marriage may also be a factor to consider. In re Estate of Bernow, supra. Statutes like RCW 11.52.040 rest upon sound public policy, are favored by law, and should be liberally construed. In re Estate of Wind, 32 Wn.2d 64, 200 P.2d 748 (1948); In re Estate of Pugh, 22 Wn.2d 83, 154 P.2d 308 (1944); In re Estate of Andrews, 123 Wash. 546, 212 P. 1073 (1923).
+Mrs. Dillon’s only source of income was $233.70 per month in social security benefits. Given the high cost of living in recent years, that amount is hardly sufficient. Mrs. Dillon should be entitled to more than a marginal existence during the pendency of probate; the additional $300 per month would allow her to live comfortably, but not extravagantly. Indeed, as early as 1904 a $250 monthly allowance on an estate the size of Joe Dillon’s was not considered unreasonable. In re Estate of Drasdo, 36 Wash. 478, 78 P. 1022 (1904).
+Appellant argues that Mrs. Dillon offered no proof of her need for $300 monthly. In fact, since Mrs. Dillon paid no rent and did not own a car, the contention is that her needs were very modest.
+But appellant incorrectly assumes that there was insufficient evidence before the court to make the family allowance award. While it is true there was no specific testimony concerning Mrs. Dillon’s budgetary expenses, her entire assets and income were in evidence. We believe that it is well within the capability of the trial court to assess, on the basis of the court’s own experience, the cost of living in the community where petitioner resides, and to perceive the standards of living needed by the surviving spouse in light of all circumstances of the estate.
+It may be that the circumstances of the estate are such that the court would require a surviving spouse to show some further basis of need to justify an award or to justify a maximum award. See In re Estate of Hickman, 41 Wn.2d 519, 250 P.2d 524 (1952); In re Estate of Bernow, supra.
+However, where the assets of the estate are modest and the income minimal as in this case, it is not an abuse of discretion for the court to have awarded a $300 family allowance on the basis of the evidence before it without requiring specific evidence of Mrs. Dillon’s cost of living.
+Here the trial court correctly perceived, without further proof, that $233 in monthly social security benefits is inadequate for even a modest existence. The court also noted the lack of serious opposition to petitioner’s request, and so granted the full amount of the petition. This was not an abuse of discretion.
+Affirmed.
+Armstrong, C.J., and Petrie, J., concur.
+Laws of 1971, 1st Ex. Sess., ch. 12, § 2. This figure was raised to $20,000 by Laws of 1974, 1st Ex. Sess., ch. 117, § 7.
+Laws of 1965, ch. 145, § 11.52.012. The $10,000 figure was changed to $20,000 by Laws of 1974, 1st Ex. Sess., ch. 117, § 8.
+Provisions for the support of the family of a deceased were apparently first made by the territorial legislature in 1854. Laws of 1854, § 71, p. 279. In 1945 there was a $4,000 ceiling on the award in lieu of homestead. Laws of 1945, ch. 197, § 103. This was increased to $6,000 in 1951. Laws of 1951, ch. 264, § 2. In 1963 the statutory maximum was raised to $10,000. Laws of 1963, ch. 185, § 1. This was raised again to $15,000 in 1971, Laws of 1971, 1st Ex. Sess., ch. 12, § 2, and to $20,000 in 1974, Laws of 1974, 1st Ex. Sess., ch. 117, § 7.
