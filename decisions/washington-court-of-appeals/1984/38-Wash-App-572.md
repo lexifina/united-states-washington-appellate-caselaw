@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "5577-9-III"
 decided: "1984-07-24"
-citations: ["38 Wash. App. 572", "38 Wash. App. 1029"]
+citations: ["38 Wash. App. 572"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["International Association of Firefighters, Local No. 469, Appellant, 
 source_url: "https://static.case.law/wash-app/38/cases/0572-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1791724
-cites_cases: ["101 Wn.2d 435", "221 N.L.R.B. 670", "233 N.L.R.B. 1172", "269 P.2d 960", "29 U.S.C. § 158", "38 Wn. App. 572", "385 F.2d 760", "44 Wn.2d 667", "463 F.2d 907", "517 P.2d 1362", "527 P.2d 1121", "529 P.2d 810", "586 F.2d 959", "605 P.2d 1252", "640 P.2d 1057", "646 P.2d 113", "654 F.2d 254", "663 F.2d 272", "664 P.2d 1240", "679 F.2d 200", "680 P.2d 40", "691 F.2d 912", "718 F.2d 802", "83 Wn.2d 366", "84 Wn.2d 551", "84 Wn.2d 772", "93 Wn.2d 60", "97 Wn.2d 23", "97 Wn.2d 317", "99 Wn.2d 832"]
+cites_cases: ["101 Wn.2d 435", "221 N.L.R.B. 670", "233 N.L.R.B. 1172", "269 P.2d 960", "29 U.S.C. § 158", "385 F.2d 760", "44 Wn.2d 667", "463 F.2d 907", "517 P.2d 1362", "527 P.2d 1121", "529 P.2d 810", "586 F.2d 959", "605 P.2d 1252", "640 P.2d 1057", "646 P.2d 113", "654 F.2d 254", "663 F.2d 272", "664 P.2d 1240", "679 F.2d 200", "680 P.2d 40", "691 F.2d 912", "718 F.2d 802", "83 Wn.2d 366", "84 Wn.2d 551", "84 Wn.2d 772", "93 Wn.2d 60", "97 Wn.2d 23", "97 Wn.2d 317", "99 Wn.2d 832"]
 ---
 
 # International Ass'n of Firefighters, Local No. 469 v. Public Employment Relations Commission
