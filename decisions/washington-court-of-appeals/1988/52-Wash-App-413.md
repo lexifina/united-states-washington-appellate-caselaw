@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20305-3-I"
 decided: "1988-08-15"
-citations: ["52 Wash. App. 413", "52 Wash. App. 1021"]
+citations: ["52 Wash. App. 413"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Crystal Steward, Appellant."]
 source_url: "https://static.case.law/wash-app/52/cases/0413-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1708370
-cites_cases: ["110 Wn.2d 1017", "110 Wn.2d 1019", "36 Wn. App. 428", "38 Wn. App. 135", "40 Wn. App. 877", "50 Wn. App. 125", "50 Wn. App. 248", "50 Wn. App. 401", "52 Wn. App. 413", "617 P.2d 993", "675 P.2d 1250", "684 P.2d 778", "700 P.2d 1207", "747 P.2d 492", "748 P.2d 267", "748 P.2d 695", "94 Wn.2d 489"]
+cites_cases: ["110 Wn.2d 1017", "110 Wn.2d 1019", "36 Wn. App. 428", "38 Wn. App. 135", "40 Wn. App. 877", "50 Wn. App. 125", "50 Wn. App. 248", "50 Wn. App. 401", "617 P.2d 993", "675 P.2d 1250", "684 P.2d 778", "700 P.2d 1207", "747 P.2d 492", "748 P.2d 267", "748 P.2d 695", "94 Wn.2d 489"]
 ---
 
 # State v. Steward
