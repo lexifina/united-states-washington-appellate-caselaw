@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "14574-6-I"
 decided: "1986-04-28"
-citations: ["45 Wash. App. 485", "43 Wash. App. 1037"]
+citations: ["45 Wash. App. 485"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sam Derendy, Appellant, v. Karen Kay Kumbera, et al, Respondents."]
 source_url: "https://static.case.law/wash-app/45/cases/0485-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1809274
-cites_cases: ["16 Wn. App. 891", "16 Wn. App. 893", "45 Wn. App. 485", "514 P.2d 166", "544 P.2d 740", "559 P.2d 1375", "559 P.2d 1376", "660 P.2d 756", "82 Wn.2d 771", "86 Wn.2d 323", "99 Wn.2d 206"]
+cites_cases: ["16 Wn. App. 891", "16 Wn. App. 893", "514 P.2d 166", "544 P.2d 740", "559 P.2d 1375", "559 P.2d 1376", "660 P.2d 756", "82 Wn.2d 771", "86 Wn.2d 323", "99 Wn.2d 206"]
 ---
 
 # Derendy v. Kumbera
