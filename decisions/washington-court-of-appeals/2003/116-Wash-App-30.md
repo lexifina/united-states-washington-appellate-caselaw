@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20879-6-III"
 decided: "2003-01-28"
-citations: ["116 Wash. App. 30", "115 Wash. App. 1019"]
+citations: ["116 Wash. App. 30"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Israel Vargas, et al., Appellants, v. The State of Washington, et al.
 source_url: "https://static.case.law/wash-app/116/cases/0030-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 265669
-cites_cases: ["102 Wn.2d 219", "109 Wn.2d 504", "113 Wn.2d 413", "113 Wn.2d 612", "116 Wn. App. 30", "121 Wn.2d 552", "128 Wn.2d 931", "129 Wn.2d 17", "13 P.3d 1065", "134 Wn.2d 437", "139 Wn.2d 793", "140 Wn.2d 88", "142 Wn.2d 450", "384 U.S. 394", "435 P.2d 654", "609 P.2d 961", "65 Haw. 370", "652 P.2d 625", "67 Wn. App. 604", "685 P.2d 1081", "72 Wn.2d 887", "745 P.2d 858", "780 P.2d 1282", "782 P.2d 1002", "82 Wn. App. 736", "838 P.2d 128", "852 P.2d 295", "862 F.2d 491", "913 P.2d 377", "914 P.2d 737", "919 P.2d 620", "93 Wn.2d 268", "951 P.2d 782", "991 P.2d 1135", "993 P.2d 259"]
+cites_cases: ["102 Wn.2d 219", "109 Wn.2d 504", "113 Wn.2d 413", "113 Wn.2d 612", "121 Wn.2d 552", "128 Wn.2d 931", "129 Wn.2d 17", "13 P.3d 1065", "134 Wn.2d 437", "139 Wn.2d 793", "140 Wn.2d 88", "142 Wn.2d 450", "384 U.S. 394", "435 P.2d 654", "609 P.2d 961", "65 Haw. 370", "652 P.2d 625", "67 Wn. App. 604", "685 P.2d 1081", "72 Wn.2d 887", "745 P.2d 858", "780 P.2d 1282", "782 P.2d 1002", "82 Wn. App. 736", "838 P.2d 128", "852 P.2d 295", "862 F.2d 491", "913 P.2d 377", "914 P.2d 737", "919 P.2d 620", "93 Wn.2d 268", "951 P.2d 782", "991 P.2d 1135", "993 P.2d 259"]
 ---
 
 # Vargas v. State
