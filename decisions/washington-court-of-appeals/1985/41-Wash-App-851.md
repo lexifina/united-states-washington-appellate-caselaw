@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "6347-0-III"
 decided: "1985-06-25"
-citations: ["41 Wash. App. 851", "41 Wash. App. 1006"]
+citations: ["41 Wash. App. 851"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John Simonds, Respondent, v. The City of Kennewick, et al, Appellants
 source_url: "https://static.case.law/wash-app/41/cases/0851-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1798568
-cites_cases: ["15 A.L.R.3d 899", "19 Wn. App. 210", "24 Wn. App. 92", "25 Wn. App. 699", "267 P.2d 902", "29 Wn. App. 756", "3 Wn. App. 327", "323 P.2d 653", "33 Wn. App. 669", "359 P.2d 151", "36 Wn. App. 370", "37 Wn. App. 45", "384 P.2d 608", "39 Wn. App. 346", "41 Wn. App. 851", "44 Wn.2d 405", "474 P.2d 903", "52 Wn.2d 118", "529 P.2d 1058", "57 Wn.2d 651", "577 P.2d 141", "600 P.2d 602", "611 P.2d 1290", "62 Wn.2d 790", "631 P.2d 400", "643 P.2d 426", "657 P.2d 322", "658 P.2d 648", "674 P.2d 684", "678 P.2d 1282", "693 P.2d 183", "84 Wn.2d 858", "97 Wn.2d 215", "98 Wn.2d 690"]
+cites_cases: ["15 A.L.R.3d 899", "19 Wn. App. 210", "24 Wn. App. 92", "25 Wn. App. 699", "267 P.2d 902", "29 Wn. App. 756", "3 Wn. App. 327", "323 P.2d 653", "33 Wn. App. 669", "359 P.2d 151", "36 Wn. App. 370", "37 Wn. App. 45", "384 P.2d 608", "39 Wn. App. 346", "44 Wn.2d 405", "474 P.2d 903", "52 Wn.2d 118", "529 P.2d 1058", "57 Wn.2d 651", "577 P.2d 141", "600 P.2d 602", "611 P.2d 1290", "62 Wn.2d 790", "631 P.2d 400", "643 P.2d 426", "657 P.2d 322", "658 P.2d 648", "674 P.2d 684", "678 P.2d 1282", "693 P.2d 183", "84 Wn.2d 858", "97 Wn.2d 215", "98 Wn.2d 690"]
 ---
 
 # Simonds v. City of Kennewick
