@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28547-5-I"
 decided: "1992-12-31"
-citations: ["68 Wash. App. 664", "68 Wash. App. 1026"]
+citations: ["68 Wash. App. 664"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["John W. Parry, et al, Respondents, v. Larry Hewitt, et al, Appellants
 source_url: "https://static.case.law/wash-app/68/cases/0664-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1725521
-cites_cases: ["115 Wn.2d 657", "117 Wn.2d 1002", "155 Mont. 294", "22 Wn. App. 70", "26 Wn. App. 317", "32 Wn. App. 550", "399 P.2d 68", "50 Wn. App. 144", "56 Wn. App. 301", "587 P.2d 1087", "60 Wn. App. 809", "613 P.2d 160", "648 P.2d 491", "65 Wn.2d 619", "68 Wn. App. 664", "731 S.W.2d 484", "748 P.2d 243", "783 P.2d 606", "801 P.2d 222", "807 P.2d 906"]
+cites_cases: ["115 Wn.2d 657", "117 Wn.2d 1002", "155 Mont. 294", "22 Wn. App. 70", "26 Wn. App. 317", "32 Wn. App. 550", "399 P.2d 68", "50 Wn. App. 144", "56 Wn. App. 301", "587 P.2d 1087", "60 Wn. App. 809", "613 P.2d 160", "648 P.2d 491", "65 Wn.2d 619", "731 S.W.2d 484", "748 P.2d 243", "783 P.2d 606", "801 P.2d 222", "807 P.2d 906"]
 ---
 
 # Parry v. Hewitt
