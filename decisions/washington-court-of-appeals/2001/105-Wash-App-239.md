@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45618-1-I"
 decided: "2001-01-29"
-citations: ["105 Wash. App. 239", "104 Wash. App. 1030"]
+citations: ["105 Wash. App. 239"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Paula L. Abercrombie, Respondent, an
 source_url: "https://static.case.law/wash-app/105/cases/0239-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358407
-cites_cases: ["105 Wn. App. 239", "134 Wn.2d 344", "144 Wn.2d 1019", "37 Wn. App. 329", "679 P.2d 961", "80 Wn. App. 148", "87 Wn. App. 827", "906 P.2d 1009", "947 P.2d 1225", "949 P.2d 1388"]
+cites_cases: ["134 Wn.2d 344", "144 Wn.2d 1019", "37 Wn. App. 329", "679 P.2d 961", "80 Wn. App. 148", "87 Wn. App. 827", "906 P.2d 1009", "947 P.2d 1225", "949 P.2d 1388"]
 ---
 
 # In re the Marriage of Abercrombie
