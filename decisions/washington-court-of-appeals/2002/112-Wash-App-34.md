@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26555-9-II"
 decided: "2002-04-26"
-citations: ["112 Wash. App. 34", "111 Wash. App. 1021"]
+citations: ["112 Wash. App. 34"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Department of Labor and Industries, Appellant, v. National Securi
 source_url: "https://static.case.law/wash-app/112/cases/0034-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 719257
-cites_cases: ["103 Wn.2d 111", "112 Wn. App. 34", "112 Wn.2d 1010", "115 Wn.2d 1010", "142 Wn.2d 801", "16 P.3d 583", "52 Wn. App. 864", "57 Wn. App. 751", "645 P.2d 1076", "691 P.2d 178", "765 P.2d 27", "790 P.2d 201", "92 Wn. App. 430", "94 Wn. App. 593", "962 P.2d 130", "97 Wn.2d 454", "972 P.2d 470"]
+cites_cases: ["103 Wn.2d 111", "112 Wn.2d 1010", "115 Wn.2d 1010", "142 Wn.2d 801", "16 P.3d 583", "52 Wn. App. 864", "57 Wn. App. 751", "645 P.2d 1076", "691 P.2d 178", "765 P.2d 27", "790 P.2d 201", "92 Wn. App. 430", "94 Wn. App. 593", "962 P.2d 130", "97 Wn.2d 454", "972 P.2d 470"]
 ---
 
 # Department of Labor & Industries v. National Security Consultants, Inc.
