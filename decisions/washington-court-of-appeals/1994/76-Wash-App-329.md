@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "16394-2-II"
 decided: "1994-11-10"
-citations: ["76 Wash. App. 329", "76 Wash. App. 1018"]
+citations: ["76 Wash. App. 329"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Safeway, Inc., Respondent, v. Linda F. Martin, Appellant."]
 source_url: "https://static.case.law/wash-app/76/cases/0329-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490205
-cites_cases: ["104 Wn.2d 613", "110 Wn.2d 1", "116 Wn.2d 1014", "117 Wn.2d 1026", "117 Wn.2d 128", "23 Wn. App. 509", "3 Wn. App. 933", "440 P.2d 187", "478 P.2d 242", "534 P.2d 1349", "59 Wn. App. 266", "596 P.2d 291", "61 Wn. App. 896", "707 P.2d 685", "72 Wn. App. 522", "73 Wn.2d 751", "750 P.2d 245", "76 Wn. App. 329", "78 Wn.2d 997", "796 P.2d 737", "812 P.2d 532", "814 P.2d 629", "85 Wn.2d 332", "864 P.2d 996"]
+cites_cases: ["104 Wn.2d 613", "110 Wn.2d 1", "116 Wn.2d 1014", "117 Wn.2d 1026", "117 Wn.2d 128", "23 Wn. App. 509", "3 Wn. App. 933", "440 P.2d 187", "478 P.2d 242", "534 P.2d 1349", "59 Wn. App. 266", "596 P.2d 291", "61 Wn. App. 896", "707 P.2d 685", "72 Wn. App. 522", "73 Wn.2d 751", "750 P.2d 245", "78 Wn.2d 997", "796 P.2d 737", "812 P.2d 532", "814 P.2d 629", "85 Wn.2d 332", "864 P.2d 996"]
 ---
 
 # Safeway, Inc. v. Martin
