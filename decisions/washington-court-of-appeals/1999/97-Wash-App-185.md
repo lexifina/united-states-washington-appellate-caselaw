@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42526-9-I"
 decided: "1999-06-28"
-citations: ["97 Wash. App. 185", "96 Wash. App. 1021"]
+citations: ["97 Wash. App. 185"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Mansur Sulayman, Respondent."]
 source_url: "https://static.case.law/wash-app/97/cases/0185-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184424
-cites_cases: ["100 Wn.2d 508", "102 Wn.2d 466", "119 Wn.2d 204", "127 Wn.2d 141", "131 Wn.2d 230", "137 Wn.2d 1008", "137 Wn.2d 1027", "47 Wn. App. 232", "491 U.S. 376", "647 P.2d 1026", "671 P.2d 1212", "687 P.2d 1145", "734 P.2d 51", "829 P.2d 1096", "896 P.2d 1254", "905 P.2d 355", "91 Wn. App. 389", "91 Wn. App. 677", "930 P.2d 1213", "94 Wn. App. 121", "94 Wn. App. 46", "959 P.2d 670", "959 P.2d 681", "97 Wn. App. 185", "97 Wn.2d 590", "971 P.2d 121", "971 P.2d 88"]
+cites_cases: ["100 Wn.2d 508", "102 Wn.2d 466", "119 Wn.2d 204", "127 Wn.2d 141", "131 Wn.2d 230", "137 Wn.2d 1008", "137 Wn.2d 1027", "47 Wn. App. 232", "491 U.S. 376", "647 P.2d 1026", "671 P.2d 1212", "687 P.2d 1145", "734 P.2d 51", "829 P.2d 1096", "896 P.2d 1254", "905 P.2d 355", "91 Wn. App. 389", "91 Wn. App. 677", "930 P.2d 1213", "94 Wn. App. 121", "94 Wn. App. 46", "959 P.2d 670", "959 P.2d 681", "97 Wn.2d 590", "971 P.2d 121", "971 P.2d 88"]
 ---
 
 # State v. Sulayman
