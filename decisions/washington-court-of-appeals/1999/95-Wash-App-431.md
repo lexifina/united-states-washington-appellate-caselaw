@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23289-8-II"
 decided: "1999-04-16"
-citations: ["95 Wash. App. 431", "95 Wash. App. 1015"]
+citations: ["95 Wash. App. 431"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David A. McPhaden, et al., Respondents, v. Russell D. Scott, Appellan
 source_url: "https://static.case.law/wash-app/95/cases/0431-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 254588
-cites_cases: ["109 Wn.2d 235", "125 Wn.2d 544", "138 Wn.2d 1017", "157 Wash. 573", "180 Wash. 176", "268 P.2d 451", "289 P. 520", "298 P.2d 849", "38 P.2d 1047", "41 Wn. App. 861", "44 Wn.2d 502", "49 Wn.2d 165", "500 P.2d 88", "503 P.2d 108", "58 Wn. App. 375", "586 P.2d 845", "618 P.2d 96", "656 P.2d 1030", "707 P.2d 143", "744 P.2d 605", "77 Wn. App. 447", "793 P.2d 442", "81 Wn.2d 140", "81 Wn.2d 528", "886 P.2d 564", "892 P.2d 1095", "90 Wn.2d 846", "94 Wn.2d 640", "95 Wn. App. 431", "98 Wn.2d 434"]
+cites_cases: ["109 Wn.2d 235", "125 Wn.2d 544", "138 Wn.2d 1017", "157 Wash. 573", "180 Wash. 176", "268 P.2d 451", "289 P. 520", "298 P.2d 849", "38 P.2d 1047", "41 Wn. App. 861", "44 Wn.2d 502", "49 Wn.2d 165", "500 P.2d 88", "503 P.2d 108", "58 Wn. App. 375", "586 P.2d 845", "618 P.2d 96", "656 P.2d 1030", "707 P.2d 143", "744 P.2d 605", "77 Wn. App. 447", "793 P.2d 442", "81 Wn.2d 140", "81 Wn.2d 528", "886 P.2d 564", "892 P.2d 1095", "90 Wn.2d 846", "94 Wn.2d 640", "98 Wn.2d 434"]
 ---
 
 # McPhaden v. Scott
