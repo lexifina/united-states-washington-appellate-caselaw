@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8484-8-II"
 decided: "1987-07-28"
-citations: ["49 Wash. App. 166", "48 Wash. App. 1076"]
+citations: ["49 Wash. App. 166"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Raymond C. West, Appellant."]
 source_url: "https://static.case.law/wash-app/49/cases/0166-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1738924
-cites_cases: ["100 S. Ct. 3027", "100 Wn.2d 1031", "102 S. Ct. 1640", "35 Wn. App. 314", "417 U.S. 433", "435 U.S. 268", "447 U.S. 928", "455 U.S. 1004", "49 Wn. App. 166", "623 F.2d 746", "633 F.2d 1334", "65 L. Ed. 2d 1123", "662 F.2d 628", "666 P.2d 941", "71 L. Ed. 2d 873", "738 F.2d 645", "781 F.2d 619"]
+cites_cases: ["100 S. Ct. 3027", "100 Wn.2d 1031", "102 S. Ct. 1640", "35 Wn. App. 314", "417 U.S. 433", "435 U.S. 268", "447 U.S. 928", "455 U.S. 1004", "623 F.2d 746", "633 F.2d 1334", "65 L. Ed. 2d 1123", "662 F.2d 628", "666 P.2d 941", "71 L. Ed. 2d 873", "738 F.2d 645", "781 F.2d 619"]
 ---
 
 # State v. West
