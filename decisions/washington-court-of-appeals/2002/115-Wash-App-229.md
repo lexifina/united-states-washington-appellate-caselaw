@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "50883-1-I"
 decided: "2002-12-30"
-citations: ["115 Wash. App. 229", "114 Wash. App. 1076"]
+citations: ["115 Wash. App. 229"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Thom Satterlee, et al., Appellants, v. Snohomish County, et al., Resp
 source_url: "https://static.case.law/wash-app/115/cases/0229-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 221901
-cites_cases: ["111 Wn. App. 9", "115 Wn. App. 229", "130 P. 366", "134 Wn.2d 377", "136 Wn.2d 888", "139 Wn.2d 1022", "140 Wn.2d 436", "146 Wn.2d 370", "150 Wn.2d 1008", "24 Wash. 549", "44 P.3d 860", "46 P.3d 789", "47 Wash. 453", "531 U.S. 984", "64 P. 717", "72 Wash. 324", "92 P. 345", "95 Wn. App. 839", "950 P.2d 446", "969 P.2d 64", "977 P.2d 612", "998 P.2d 282"]
+cites_cases: ["111 Wn. App. 9", "130 P. 366", "134 Wn.2d 377", "136 Wn.2d 888", "139 Wn.2d 1022", "140 Wn.2d 436", "146 Wn.2d 370", "150 Wn.2d 1008", "24 Wash. 549", "44 P.3d 860", "46 P.3d 789", "47 Wash. 453", "531 U.S. 984", "64 P. 717", "72 Wash. 324", "92 P. 345", "95 Wn. App. 839", "950 P.2d 446", "969 P.2d 64", "977 P.2d 612", "998 P.2d 282"]
 ---
 
 # Satterlee v. Snohomish County
