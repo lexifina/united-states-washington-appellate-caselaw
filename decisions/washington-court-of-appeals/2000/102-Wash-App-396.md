@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45030-1-I"
 decided: "2000-07-31"
-citations: ["102 Wash. App. 396", "101 Wash. App. 1062"]
+citations: ["102 Wash. App. 396"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Harold Rick Keltner, Appellan
 source_url: "https://static.case.law/wash-app/102/cases/0396-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301249
-cites_cases: ["101 Wn.2d 349", "102 Wn. App. 396", "126 Wn.2d 324", "130 Wn.2d 35", "134 Wn.2d 141", "48 Wn. App. 83", "585 P.2d 66", "678 P.2d 332", "737 P.2d 1285", "892 P.2d 1082", "90 Wn.2d 423", "921 P.2d 1052", "949 P.2d 347"]
+cites_cases: ["101 Wn.2d 349", "126 Wn.2d 324", "130 Wn.2d 35", "134 Wn.2d 141", "48 Wn. App. 83", "585 P.2d 66", "678 P.2d 332", "737 P.2d 1285", "892 P.2d 1082", "90 Wn.2d 423", "921 P.2d 1052", "949 P.2d 347"]
 ---
 
 # State v. Keltner
