@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33150-7-I"
 decided: "1994-04-18"
-citations: ["74 Wash. App. 467", "73 Wash. App. 1060"]
+citations: ["74 Wash. App. 467"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ivor Jones, et al, Appellants, v. King County, et al, Respondents."]
 source_url: "https://static.case.law/wash-app/74/cases/0467-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 418820
-cites_cases: ["101 Wn.2d 106", "107 Wn.2d 503", "111 S. Ct. 284", "112 L. Ed. 2d 238", "113 S. Ct. 676", "114 Wn.2d 1005", "114 Wn.2d 320", "118 Wn.2d 237", "119 Wn.2d 1", "119 Wn.2d 34", "120 L. Ed. 2d 798", "121 L. Ed. 2d 598", "121 Wn.2d 586", "25 Wash. U. J. Urb. & Contemp. L. 3", "26 Wn. App. 651", "369 U.S. 590", "453 P.2d 832", "498 U.S. 911", "502 P.2d 327", "506 U.S. 1028", "56 Wn. App. 28", "586 P.2d 860", "614 P.2d 209", "641 P.2d 169", "646 P.2d 128", "658 P.2d 1219", "676 P.2d 466", "730 P.2d 1327", "74 Wn. App. 467", "75 Wn.2d 715", "781 P.2d 1324", "787 P.2d 907", "81 Wn.2d 292", "821 P.2d 1204", "829 P.2d 765", "830 P.2d 318", "854 P.2d 1", "91 Wn.2d 19", "94 Wn.2d 1022", "97 Wn.2d 131", "98 Wn.2d 650"]
+cites_cases: ["101 Wn.2d 106", "107 Wn.2d 503", "111 S. Ct. 284", "112 L. Ed. 2d 238", "113 S. Ct. 676", "114 Wn.2d 1005", "114 Wn.2d 320", "118 Wn.2d 237", "119 Wn.2d 1", "119 Wn.2d 34", "120 L. Ed. 2d 798", "121 L. Ed. 2d 598", "121 Wn.2d 586", "25 Wash. U. J. Urb. & Contemp. L. 3", "26 Wn. App. 651", "369 U.S. 590", "453 P.2d 832", "498 U.S. 911", "502 P.2d 327", "506 U.S. 1028", "56 Wn. App. 28", "586 P.2d 860", "614 P.2d 209", "641 P.2d 169", "646 P.2d 128", "658 P.2d 1219", "676 P.2d 466", "730 P.2d 1327", "75 Wn.2d 715", "781 P.2d 1324", "787 P.2d 907", "81 Wn.2d 292", "821 P.2d 1204", "829 P.2d 765", "830 P.2d 318", "854 P.2d 1", "91 Wn.2d 19", "94 Wn.2d 1022", "97 Wn.2d 131", "98 Wn.2d 650"]
 ---
 
 # Jones v. King County
