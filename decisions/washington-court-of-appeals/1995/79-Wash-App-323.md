@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35131-1-I"
 decided: "1995-08-21"
-citations: ["79 Wash. App. 323", "78 Wash. App. 1081"]
+citations: ["79 Wash. App. 323"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lance M. Roberts, Appellant, v. The Allied Group Insurance Company, R
 source_url: "https://static.case.law/wash-app/79/cases/0323-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 423464
-cites_cases: ["106 Wn.2d 806", "111 Wn.2d 452", "117 Wn.2d 1017", "118 Idaho 769", "145 Wash. 199", "184 Mass. 177", "221 Cal. App. 3d 610", "259 P. 387", "270 Cal. Rptr. 492", "61 Wn. App. 267", "68 N.E. 62", "725 P.2d 957", "760 P.2d 337", "79 Wn. App. 323", "810 P.2d 58", "873 P.2d 1292"]
+cites_cases: ["106 Wn.2d 806", "111 Wn.2d 452", "117 Wn.2d 1017", "118 Idaho 769", "145 Wash. 199", "184 Mass. 177", "221 Cal. App. 3d 610", "259 P. 387", "270 Cal. Rptr. 492", "61 Wn. App. 267", "68 N.E. 62", "725 P.2d 957", "760 P.2d 337", "810 P.2d 58", "873 P.2d 1292"]
 ---
 
 # Roberts v. Allied Group Insurance
