@@ -1,0 +1,77 @@
+---
+court: "Washington Court of Appeals"
+docket: "24265-6-II"
+decided: "2000-08-11"
+citations: ["101 Wash. App. 885"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Christopher B. Green, Appellant."]
+source_url: "https://static.case.law/wash-app/101/cases/0885-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1170614
+cites_cases: ["117 Wn.2d 93", "118 Wn.2d 151", "119 Wn.2d 623", "125 Wn.2d 797", "140 Wn.2d 420", "142 Wn.2d 1018", "32 Wn. App. 1", "645 P.2d 714", "812 P.2d 86", "822 P.2d 775", "836 P.2d 212", "888 P.2d 1185", "98 Wn. App. 214", "989 P.2d 1184", "989 R2d 1184", "998 P.2d 296"]
+---
+
+# State v. Green
+
+## Majority (Armstrong, C.J.)
+
+Armstrong, C.J.
+Christopher Green appeals a felony bail jumping conviction. RCW 9A.76.170. In a post-conviction challenge, Green argues that neither the information charging him nor the “to convict” jury instruction contained all of the elements of bail jumping because the underlying crime was never specified. In State v. Ibsen, 98 Wn. App. 214, 989 R2d 1184 (1999), we held that the underlying offense of a bail jumping charge is an essential element of the crime. Thus, even liberally construed, the information charging Green omitted an element of bail jumping. We reverse and dismiss without prejudice.
+FACTS
+Christopher Green was charged with one count of bail jumping. RCW 9A.76.170. The amended information stated:
+That said defendant, CHRISTOPHER B. GREEN, in the County of Mason, State of Washington, on or about the 16th day of July, 1998, and/or on or about the 24th day of July, 1998, did commit BAIL JUMPING, in that said defendant did knowingly fail to appear as required after having been released by court order or admitted to bail with the requirement of a subsequent personal appearance before a court of this state, TO WIT: failed to appear for omnibus hearing and/or pretrial after being released on bail in Mason County Superior Court Cause No. 98-1-00123-2, contrary to RCW 9A.76.170, and against the peace and dignity of the State of Washington.
+Mason County Superior Court cause number 98-1-00123-2 referred to a case in which Green was charged with residential burglary and theft in the second degree. Both under- lying crimes are felonies. RCW 9A.52.025(2), RCW 9A.56.040(2).
+At trial, the parties stipulated that Green was the defendant in cause number 98-1-00123-2 and that he signed the court documents pertaining to that cause number. Green first raised the issue of the information’s sufficiency during his sentencing hearing.
+ANALYSIS
+The bail jumping statute provides:
+(1) Any person having been released by court order or admitted to bail with the requirement of a subsequent personal appearance before any court of this state, and who knowingly fails to appear as required is guilty of bail jumping.
+(2) Bail jumping is:
+(a) A class A felony if the person was held for, charged with, or convicted of murder in the first degree;
+(b) A class B felony if the person was held for, charged with, or convicted of a class A felony other than murder in the first degree;
+(c) A class C felony if the person was held for, charged with, or convicted of a class B or class C felony;
+(d) A misdemeanor if the person was held for, charged with, or convicted of a gross misdemeanor or misdemeanor.
+RCW 9A.76.170.
+The parties differ as to whether the class of bail jumping, dictated by the underlying crime, is an essential element of the crime. Green argues that the information did not apprise him of the class of bail jumping under RCW 9A.76.170(2). By omitting any reference to RCW 9A.76.170-(2), Green continues, he was never informed of the crime he was “held for, charged with, or convicted of.” The State argues that the cause number was sufficient to put Green on notice because it told him that he failed to appear in Mason County Superior Court. The State also argues that the underlying crime is relevant only to sentencing and the sentencing court could determine the underlying charges by referencing the cause number. But the State fails to note the ruling in Ibsen, 98 Wn. App. 214, which supports Green’s position.
+An information must contain “[a]ll essential elements of a crime.” State v. Kjorsvik, 117 Wn.2d 93, 97, 812 P.2d 86 (1991). This enables the defendant to prepare a defense. Kjorsvik, 117 Wn.2d at 101-02. Whether the information is construed under a liberal construction or a strict construction standard depends on when the information is first challenged. Kjorsvik, 117 Wn.2d at 103. Here, Green did not challenge the information until after he was convicted, hence a liberal construction standard is used. Kjorsvik, 117 Wn.2d at 102.
+An information will be upheld on appeal under the liberal construction rule, if “an apparently missing element... [may] be fairly implied from language within the charging document.” Kjorsvik, 117 Wn.2d at 104. The test is: “(1) do the necessary facts appear in any form, or by fair construction can they be found, in the charging document; and, if so, (2) can the defendant show that he or she was nonetheless actually prejudiced by the inartful language which caused a lack of notice?” Kjorsvik, 117 Wn.2d at 105-06. Nevertheless, a liberal reading cannot cure an information that “cannot be construed to give notice of or to contain in some manner the essential elements of a crime.” State v. Campbell, 125 Wn.2d 797, 802, 888 P.2d 1185 (1995).
+In Ibsen, we held that the underlying offense is an essential element of bail jumping. The information in Ibsen alleged:
+The defendant, in the County of Cowlitz, State of Washington, on or about October 02,1997, having been admitted to bail with the requirement of a subsequent personal appearance before Cowlitz County Superior Court, a court of the State of Washington, did knowingly fail to appear as required contrary to RCW 9A.76.170(1) and against the peace and dignity of the State of Washington.
+Ibsen, 98 Wn. App. at 215. We found that the charging document contained the elements found in subsection one of the bail jumping statute, but it did not address the second subsection. Ibsen, 98 Wn. App. at 217. The information in Ibsen, like the one here, told the defendant where he failed to appear. And we held the information insufficient under both a liberal and a strict construction. Ibsen, 98 Wn. App. at 218.
+The only difference between the Ibsen information and the information here is that Green was told the superior court cause number of the underlying charge. Thus, the question here is whether this was sufficient to “reasonably apprise [Green] of the elements of the crime charged.” Kjorsvik, 117 Wn.2d at 109.
+The reasoning of City of Auburn v. Brooke, 119 Wn.2d 623, 836 P.2d 212 (1992), applies here. There, the Supreme Court held that a citation that charged only by referring to the number of a city ordinance did not satisfy due process. Relying upon Kjorsvik, the court reiterated “[w]e have repeatedly said that defendants should not have to search for the rules or regulations they are accused of violating.” Brooke, 119 Wn.2d at 635. And in Brooke, the challenges were made for the first time on appeal. If a defendant cannot be made to search for a municipal code section, he cannot be made to search for the file on his underlying charge.
+Moreover, the stipulation during trial that Green was the defendant in the underlying case does not solve the problem because “to ensure due process, the notice of the charge on which a defendant will be tried must logically be given at some point prior to the opening statement of the trial.” State v. McCarty, 140 Wn.2d 420, 427, 998 P.2d 296 (2000).
+Because the information, liberally construed, does not contain all of the essential elements, we need not reach the issue of whether Green was actually prejudiced. Kjorsvik, 117 Wn.2d at 111; Brooke, 119 Wn.2d at 638. Under Kjorsvik, the remedy is dismissal without prejudice.
+Reversed and dismissed without prejudice.
+Bridgewater, J., concurs.
+The following stipulation was read to the jury:
+The parties stipulate that the defendant in this matter, Christopher B. Green, was the defendant named in Mason County Superior Court Cause No. 98-1-00123-2.
+The parties further stipulate that the defendant’s, Christopher B. Green’s, signature appears on State’s Exhibit Nos. 1 (order for pretrial release), 2 (order and notice setting trial date, omnibus and other hearings), 5 (order and notice setting trial date, omnibus and other hearings), 7 (order and notice setting trial date, omnibus and other hearings), 9 (waiver of speedy trial), 10 (order and notice setting trial date, omnibus and other hearings), and 15 (order and notice setting trial date, omnibus and other hearings) on the signature line preprinted with the word “DEFENDANT” on each of those exhibits.
+See also WPIC 120.41 Bail Jumping — Elements
+To convict the defendant of the crime of bail jumping, each of the following elements of the crime must be proved beyond a reasonable doubt:
+(1) That on or about the_day of_, [2000], the defendant knowingly failed to appear before a court;
+(2) That the defendant [was being held for] [or] [was charged with] [or] [had been convicted ofl_;
+(3) That the defendant had been released by court order or admitted to bail with the requirement of a subsequent personal appearance before that court; and
+(4) That the acts occurred in the [State of Washington] [City of_] [County of_].
+If you find from the evidence that each of these elements has been proved beyond a reasonable doubt, then it will be your duty to return a verdict of guilty.
+On the other hand, if, after weighing all of the evidence, you have a reasonable doubt as to any one of these elements, then it will be your duty to return a verdict of not guilty.
+11A Washington Pattern Jury Instructions: Criminal (2d ed. 1994).
+
+## Dissent (Hunt, J.)
+
+Hunt, J.
+I respectfully dissent. Green challenges the sufficiency of the Information for the first time on appeal, contrary to RAP 2.5(a), without first establishing that this claimed error manifestly affects a constitutional right. RAP 2.5(a)(3). Although a criminal defendant is entitled to notice of the charges against him, including all essential elements of the crime, Green has not shown that the Information lacked all elements or that any deficiency could not have been remedied had he timely raised the issue.
+Unlike State v. Ibsen, in which the Information merely alleged violation of the bail jumping statute, here, the Information referenced the specific Mason County cause number for which Green failed to appear; no essential element was omitted. In contrast, the Information in Ibsen did not include a cause number or the underlying welfare fraud charge; rather, the Information contained only the date that Ibsen failed to appear. Unlike Green, Ibsen had no way to know which of three different welfare fraud statutes were involved in the underlying crime, especially where the degree of welfare fraud was dependent upon the amount of money involved. Thus, in the somewhat unique situation involving welfare fraud, Ibsen could not ascertain from the Information or by reference to another cause number the specific crime for which he had failed to appear. Here, there was no such ambiguity to prevent Green from ascertaining from the Information the specific crime for which he was charged.
+Moreover, Green has not shown that he lacked notice of the nature and elements of the charged crime of bail jumping. If the Information had been deficient, Green could have sought a bill of particulars under CrR 2.1(c). This he failed to do.
+There are two statutory elements of bail jumping: (1) release from custody on condition of a promise to reappear; and (2) knowing failure to appear. These two elements were included in the Information filed against Green.
+“We ... construe the charging document liberally for indications of the essential elements of the charged offense, guided by common sense and practicality.” State v. Campbell, 125 Wn.2d 797, 804, 888 P.2d 1185 (1995) (citing State v. Hopper, 118 Wn.2d 151, 156, 822 P.2d 775 (1992)). Thus, we should hold that all elements were included in the Information and, even assuming they were not, they could be “fairly implied from language within the charging document.” State v. Kjorsvik, 117 Wn.2d 93, 104, 812 P.2d 86 (1991) (footnote omitted). Even assuming, without deciding, that the underlying crime’s classification is an element of bail jumping, the Information’s reference to the Mason County cause number provided Green with adequate notice of the gravity of the charge. Kjorsvik, 117 Wn.2d at 109. It was clear from the referenced Mason County cause number that Green’s residential burglary and theft in the second degree charges were felonies, the alleged “third” element of bail jumping.
+Furthermore, Green entered into a stipulation with the State to refer only generally to the underlying crime for which he had failed to appear. This defense strategy focused the jury’s attention on Green’s act of bail jumping rather than on the specific underlying crime of burglary, which crime the defense did not want the jury to know. Thus, the end result was to minimize prejudice to Green, with his concurrence.
+The practical effect of the majority’s ruling will be to upset the fine balance between notice and prejudice to the bail jumping defendant. As defense counsel candidly admitted at oral argument, had the Information expressly alleged the underlying burglary, Green might now be arguing undue prejudice rather than inadequacy of the Information, especially if the burglary had also been incorporated into the “to convict” instruction.
+Remand for a retrial will not further the cause of justice here. It is undisputed that Green failed to appear and that the evidence is sufficient to support his conviction. Nor does the record show that Green was not actually apprised of the charges against him or unable to proffer a defense. Moreover, he stipulated that the State should refer only generally to an underlying crime for which he failed to appear, in lieu of revealing and naming the actual crime of burglary. A remand will unnecessarily burden the courts with no concomitant benefit to Green. I would affirm.
+Reconsideration denied September 7, 2000.
+Review denied at 142 Wn.2d 1018 (2001).
+Sufficiency of charging document is of constitutional magnitude and may be raised for the first time on appeal. State v. Campbell, 125 Wn.2d 797, 801, 888 P.2d 1185 (1995).
+State v. Kjorsvik, 117 Wn.2d 93, 97-101, 812 P.2d 86 (1991).
+State v. Ibsen, 98 Wn. App. 214, 989 P.2d 1184 (1999).
+We previously held in State v. Primrose, 32 Wn. App. 1, 3, 645 P.2d 714 (1982), that there was a third element — that the failure to appear was without lawful excuse. Primóse was decided under an earlier version of the bail jumping statute, former RCW 9A.76.170 (1981), which specifically included as an element of bail jumping that the defendant “knowingly fails without lawful excuse to appear as required.” (Emphasis added.) But, the year after we decided Primóse, the Legislature deleted “without lawful excuse” from the statute and, thus, this third element no longer appears in the current version of RCW 9A.76.170 (Laws op 1983, 1st Ex. Sess. ch. 4, § 3), which was the one in effect at the time that Green failed to appear in court.
