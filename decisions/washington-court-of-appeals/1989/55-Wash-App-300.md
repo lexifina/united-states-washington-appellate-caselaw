@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "8736-1-III"
 decided: "1989-06-22"
-citations: ["55 Wash. App. 300", "54 Wash. App. 1056"]
+citations: ["55 Wash. App. 300"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Troy C. Lass, Appellant."]
 source_url: "https://static.case.law/wash-app/55/cases/0300-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 8847844
-cites_cases: ["101 Wn.2d 604", "102 Wn.2d 1002", "103 Wn.2d 1", "108 Wn.2d 1029", "108 Wn.2d 1033", "11 Wn. App. 491", "26 Wn. App. 1", "26 Wn. App. 184", "31 Wn. App. 450", "356 U.S. 86", "37 Wn. App. 474", "443 P.2d 654", "446 U.S. 948", "47 Wn. App. 91", "471 U.S. 1094", "48 Wn. App. 139", "48 Wn. App. 48", "51 Wn. App. 192", "524 P.2d 466", "55 Wn. App. 300", "600 P.2d 1249", "612 P.2d 11", "612 P.2d 404", "616 P.2d 628", "642 P.2d 760", "682 P.2d 878", "682 P.2d 925", "691 P.2d 929", "734 P.2d 500", "738 P.2d 281", "738 P.2d 306", "74 Wn.2d 146", "752 P.2d 402", "92 Wn.2d 671", "94 Wn.2d 1013", "94 Wn.2d 216"]
+cites_cases: ["101 Wn.2d 604", "102 Wn.2d 1002", "103 Wn.2d 1", "108 Wn.2d 1029", "108 Wn.2d 1033", "11 Wn. App. 491", "26 Wn. App. 1", "26 Wn. App. 184", "31 Wn. App. 450", "356 U.S. 86", "37 Wn. App. 474", "443 P.2d 654", "446 U.S. 948", "47 Wn. App. 91", "471 U.S. 1094", "48 Wn. App. 139", "48 Wn. App. 48", "51 Wn. App. 192", "524 P.2d 466", "600 P.2d 1249", "612 P.2d 11", "612 P.2d 404", "616 P.2d 628", "642 P.2d 760", "682 P.2d 878", "682 P.2d 925", "691 P.2d 929", "734 P.2d 500", "738 P.2d 281", "738 P.2d 306", "74 Wn.2d 146", "752 P.2d 402", "92 Wn.2d 671", "94 Wn.2d 1013", "94 Wn.2d 216"]
 ---
 
 # State v. Lass
