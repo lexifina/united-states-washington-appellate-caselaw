@@ -1,0 +1,39 @@
+---
+court: "Washington Court of Appeals"
+docket: "14573-1-II; 14574-0-II"
+decided: "1991-08-07"
+citations: ["62 Wash. App. 336"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Glen L. Williams, Petitioner. The State of Washington, Respondent, v. David Basque, Petitioner."]
+source_url: "https://static.case.law/wash-app/62/cases/0336-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1712323
+cites_cases: ["110 Wn.2d 806", "115 Wn.2d 42", "117 Wn.2d 1027", "645 P.2d 697", "756 P.2d 736", "793 P.2d 956", "97 Wn.2d 385"]
+---
+
+# State v. Williams
+
+## Majority (Alexander, J.)
+
+Alexander, J.
+David Basque and Glen Williams seek to reverse orders of the Kitsap County Superior Court, which voided orders of the Kitsap County District Court deferring prosecution of traffic charges against each of them. They contend that the district court judges need not, as the Superior Court concluded, require them to show proof of automobile liability insurance in order for them to be eligible for deferred prosecution. We reverse.
+David Basque and Glen Williams were separately charged in Kitsap County District Court with the offense of driving while intoxicated. They each petitioned the District Court for deferred prosecution pursuant to the provisions of RCW 10.05. Basque stated to that court that he would not drive unless he could reinstate his license and obtain insurance. Williams, a minor, told the District Court that he had been removed from his family's insurance policy and that his parents would not allow him to drive until he became 18 years of age and obtained his own insurance. The State, citing RCW 10.05.140 and 10.05.160(2), objected to either Basque or Williams being considered for deferred prosecution on the basis that they had not furnished proof that they had automobile liability insurance.
+The Kitsap County District Court ordered that the prosecutions against both Basque and Williams be deferred and it did not require either of them to show proof of insurance as a condition of the deferral of prosecution.
+The State appealed each of the district court orders to the Kitsap County Superior Court. That court found in favor of the State and voided the district court orders deferring the prosecutions. Basque and Williams each sought discretionary review of those decisions in this court. We granted review, and consolidated the appeals.
+The question presented in this case is whether the Superior Court erred in concluding that statutes require an order deferring prosecution to be conditioned upon the defendant first providing proof of liability insurance. Our duty, of course, is to ascertain and give effect to the intent and purpose of the Legislature. Tommy P. v. Board of Cy. Comm'rs, 97 Wn.2d 385, 645 P.2d 697 (1982). In doing that we must recognize that statutes must be construed as a whole and all the language used should be given effect. Tommy P, 97 Wn.2d at 391. "Statutes should not be construed so as to render any portion meaningless or superfluous." Stone v. Chelan Cy. Sheriff's Department, 110 Wn.2d 806, 810, 756 P.2d 736 (1988). In addition, "all the provisions of the act must be considered in their relation to each other, and, if possible, harmonized to insure proper construction of each provision." Tommy P, 97 Wn.2d at 391.
+Here, two statutes must be considered, and to the extent possible, reconciled. The first, former RCW 10.05-.140, provides:
+As a condition of granting a deferred prosecution petition, the court shall order that the petitioner shall not operate a motor vehicle upon the public highways without a valid operator's license and proof of liability insurance. The amount of liability insurance shall be established by the court at not less than that established by RCW 46.29.490. As a condition of granting a deferred prosecution petition, the court may order the petitioner to make restitution. The court may terminate the deferred prosecution program upon violation of this section.
+The second, RCW 10.05.160, provides:
+The prosecutor may appeal an order granting deferred prosecution on any or all of the following grounds:
+(2) Failure of the court to obtain proof of insurance or a treatment plan conforming to the requirements of this chapter;
+The State argued, and the Superior Court agreed, that because RCW 10.05.160(2) allowed the State to appeal from "[flailure of the court to obtain proof of insurance", that statute imposed proof of insurance as a condition that must be satisfied before an order of deferred prosecution can be granted. We disagree with this creation of an implied condition for deferred prosecution.
+RCW 10.05.160(2) allows appeals only regarding whether the proof of insurance or treatment plan conforms "to the requirements of this chapter". The only "requirements of this chapter" regarding proof of insurance are contained in RCW 10.05.140. That statute does not mandate proof of insurance as a condition for an order of deferred prosecution. It only requires the court to order the defendant to not operate a motor vehicle without a valid operator's license and proof of insurance. The District Court entered such an order. The requirements of RCW 10.05.140 were, therefore, satisfied. The State's right of appeal, provided in RCW 10.05.160(2), does not append an additional requirement of providing proof of insurance before the order deferring prosecution can be entered. If the Legislature had intended that the courts require proof of insurance as a precondition to deferred prosecution, it could and would have so provided in RCW 10.05.140. See State v. Hastings, 115 Wn.2d 42, 47, 793 P.2d 956 (1990) (court will not speculate as to what the Legislature meant to do, but rather will ascertain what the Legislature has done).
+The State asserts that if RCW 10.05.160(2) is not read as requiring proof of insurance, then the statute becomes a nullity. Again, we disagree. The State has its right of appeal, as provided by the statute. There may well be cases in which the trial court could be found to have abused its discretion in ordering a deferred prosecution without having first obtained proof of insurance from a defendant. Such cases might include one where the defendant states to the trial court that he or she must drive during the period of deferred prosecution as a condition of employment. Another might be where there was information provided to the trial court that the defendant had previously driven without proof of insurance. It might also be appropriate where there was a decision by the trial court to continue a deferred prosecution after the defendant had been found in violation of the condition of the deferred prosecution by driving without proof of insurance.
+The case now before us does not fall into any of those categories. Basque advised the court that he would not drive until he could reinstate his suspended operator's license and obtain proof of insurance. Williams told the court that he had been removed from his family's insurance, and that they would not permit him to drive until he obtained his own insurance. In view of these facts it cannot be said that the District Court abused its discretion in granting Basque's and Williams's petitions for deferred prosecution.
+The Superior Court erred in voiding the orders deferring prosecution. Its decision is reversed, and the District Court's orders deferring prosecution are reinstated.
+Worswick, C.J., and Petrich, J., concur.
+Review denied at 117 Wn.2d 1027 (1991).
+Williams was also charged with negligent driving.
+The District Court ordered Basque to immediately provide proof of insurance to his probation officer if he became licensed.
