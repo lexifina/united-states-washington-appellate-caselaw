@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24230-3-II"
 decided: "2000-01-07"
-citations: ["99 Wash. App. 148", "98 Wash. App. 1056"]
+citations: ["99 Wash. App. 148"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["June Morgan, Appellant, v. The Department of Social and Health Servic
 source_url: "https://static.case.law/wash-app/99/cases/0148-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 181160
-cites_cases: ["104 Wn.2d 1018", "107 Wn.2d 388", "122 Wn.2d 397", "137 Wn.2d 1028", "141 Wn.2d 1014", "41 Wn. App. 365", "459 U.S. 1106", "646 P.2d 113", "704 P.2d 648", "730 P.2d 45", "858 P.2d 494", "92 Wn. App. 604", "965 P.2d 626", "97 Wn.2d 317", "99 Wn. App. 148"]
+cites_cases: ["104 Wn.2d 1018", "107 Wn.2d 388", "122 Wn.2d 397", "137 Wn.2d 1028", "141 Wn.2d 1014", "41 Wn. App. 365", "459 U.S. 1106", "646 P.2d 113", "704 P.2d 648", "730 P.2d 45", "858 P.2d 494", "92 Wn. App. 604", "965 P.2d 626", "97 Wn.2d 317"]
 ---
 
 # Morgan v. Department of Social & Health Services
