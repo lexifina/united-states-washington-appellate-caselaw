@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10416-4-II"
 decided: "1988-03-01"
-citations: ["50 Wash. App. 849", "50 Wash. App. 1060"]
+citations: ["50 Wash. App. 849"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["William T. Wojcik, Appellant, v. Chrysler Corporation, et al, Defenda
 source_url: "https://static.case.law/wash-app/50/cases/0849-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1706410
-cites_cases: ["102 Wn.2d 68", "105 Wn.2d 457", "109 P.2d 307", "16 Wn. App. 389", "18 Wn. App. 555", "349 P.2d 215", "492 P.2d 244", "496 P.2d 559", "50 Wn. App. 849", "531 P.2d 299", "55 Wn.2d 639", "558 P.2d 811", "563 P.2d 203", "569 P.2d 1225", "592 P.2d 631", "6 Wn. App. 274", "6 Wn. App. 795", "611 P.2d 1234", "618 P.2d 96", "632 P.2d 504", "656 P.2d 1030", "684 P.2d 692", "7 Wn.2d 111", "716 P.2d 814", "85 Wn.2d 154", "88 Wn.2d 490", "91 Wn.2d 704", "93 Wn.2d 670", "94 Wn.2d 640", "95 Wn.2d 773", "98 Wn.2d 434"]
+cites_cases: ["102 Wn.2d 68", "105 Wn.2d 457", "109 P.2d 307", "16 Wn. App. 389", "18 Wn. App. 555", "349 P.2d 215", "492 P.2d 244", "496 P.2d 559", "531 P.2d 299", "55 Wn.2d 639", "558 P.2d 811", "563 P.2d 203", "569 P.2d 1225", "592 P.2d 631", "6 Wn. App. 274", "6 Wn. App. 795", "611 P.2d 1234", "618 P.2d 96", "632 P.2d 504", "656 P.2d 1030", "684 P.2d 692", "7 Wn.2d 111", "716 P.2d 814", "85 Wn.2d 154", "88 Wn.2d 490", "91 Wn.2d 704", "93 Wn.2d 670", "94 Wn.2d 640", "95 Wn.2d 773", "98 Wn.2d 434"]
 ---
 
 # Wojcik v. Chrysler Corp.
