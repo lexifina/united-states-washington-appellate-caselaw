@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22272-4-I"
 decided: "1990-05-14"
-citations: ["58 Wash. App. 251", "57 Wash. App. 1064"]
+citations: ["58 Wash. App. 251"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Shannon Hale Denton, Appellan
 source_url: "https://static.case.law/wash-app/58/cases/0251-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754128
-cites_cases: ["10 A.L.R.3d 974", "111 Wn.2d 641", "222 P.2d 181", "37 Wn.2d 137", "384 U.S. 436", "446 U.S. 291", "451 U.S. 477", "459 U.S. 42", "462 U.S. 1039", "47 Wn. App. 15", "58 Wn. App. 251", "654 P.2d 77", "733 P.2d 580", "762 P.2d 1127", "98 Wn.2d 140"]
+cites_cases: ["10 A.L.R.3d 974", "111 Wn.2d 641", "222 P.2d 181", "37 Wn.2d 137", "384 U.S. 436", "446 U.S. 291", "451 U.S. 477", "459 U.S. 42", "462 U.S. 1039", "47 Wn. App. 15", "654 P.2d 77", "733 P.2d 580", "762 P.2d 1127", "98 Wn.2d 140"]
 ---
 
 # State v. Denton
