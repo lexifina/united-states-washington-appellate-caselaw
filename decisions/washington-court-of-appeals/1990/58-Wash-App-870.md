@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24378-1-I"
 decided: "1990-04-30"
-citations: ["58 Wash. App. 870", "57 Wash. App. 1049"]
+citations: ["58 Wash. App. 870"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David Y. Miller, et al, Respondents, v. Public Employees Mutual Insur
 source_url: "https://static.case.law/wash-app/58/cases/0870-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1754170
-cites_cases: ["102 Wn.2d 1018", "111 Wn.2d 1009", "115 Wn.2d 1012", "34 Wn. App. 151", "38 Wn. App. 98", "51 Wn. App. 375", "58 Wn. App. 870", "660 P.2d 307", "684 P.2d 91", "753 P.2d 999", "99 Wn.2d 1011"]
+cites_cases: ["102 Wn.2d 1018", "111 Wn.2d 1009", "115 Wn.2d 1012", "34 Wn. App. 151", "38 Wn. App. 98", "51 Wn. App. 375", "660 P.2d 307", "684 P.2d 91", "753 P.2d 999", "99 Wn.2d 1011"]
 ---
 
 # Miller v. Public Employees Mutual Insurance
