@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "5875-1-III"
 decided: "1984-12-18"
-citations: ["39 Wash. App. 485", "39 Wash. App. 1022"]
+citations: ["39 Wash. App. 485"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Harry Issel, Appellant, v. The State of Washington, Respondent."]
 source_url: "https://static.case.law/wash-app/39/cases/0485-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1794595
-cites_cases: ["104 S. Ct. 241", "28 Wn. App. 501", "35 Wn. App. 302", "39 Wn. App. 485", "408 U.S. 564", "625 P.2d 703", "648 P.2d 435", "656 P.2d 1083", "663 P.2d 476", "663 P.2d 490", "666 P.2d 930", "78 L. Ed. 2d 231", "95 Wn.2d 1020", "97 Wn.2d 701", "99 Wn.2d 538", "99 Wn.2d 572"]
+cites_cases: ["104 S. Ct. 241", "28 Wn. App. 501", "35 Wn. App. 302", "408 U.S. 564", "625 P.2d 703", "648 P.2d 435", "656 P.2d 1083", "663 P.2d 476", "663 P.2d 490", "666 P.2d 930", "78 L. Ed. 2d 231", "95 Wn.2d 1020", "97 Wn.2d 701", "99 Wn.2d 538", "99 Wn.2d 572"]
 ---
 
 # Issel v. State
