@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22563-4-I"
 decided: "1988-12-12"
-citations: ["53 Wash. App. 489", "53 Wash. App. 1002"]
+citations: ["53 Wash. App. 489"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,6 @@ parties: ["The State of Washington, Respondent, v. Travis Yadon, Appellant."]
 source_url: "https://static.case.law/wash-app/53/cases/0489-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1764374
-cites_cases: ["53 Wn. App. 489"]
 ---
 
 # State v. Yadon
