@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52638-3-I"
 decided: "2004-05-24"
-citations: ["123 Wash. App. 693", "121 Wash. App. 1053"]
+citations: ["123 Wash. App. 693"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Christopher N. Caldwell, Plaintiff, Kristine Whittemore, Appellant, v
 source_url: "https://static.case.law/wash-app/123/cases/0693-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1117865
-cites_cases: ["101 Wn. App. 629", "122 Wn.2d 397", "123 Wn. App. 693", "127 Wn.2d 67", "154 Wn.2d 1006", "492 P.2d 1030", "5 P.3d 16", "80 Wn. App. 862", "80 Wn.2d 161", "858 P.2d 494", "896 P.2d 682", "91 Wn. App. 138", "912 P.2d 1044", "955 P.2d 822"]
+cites_cases: ["101 Wn. App. 629", "122 Wn.2d 397", "127 Wn.2d 67", "154 Wn.2d 1006", "492 P.2d 1030", "5 P.3d 16", "80 Wn. App. 862", "80 Wn.2d 161", "858 P.2d 494", "896 P.2d 682", "91 Wn. App. 138", "912 P.2d 1044", "955 P.2d 822"]
 ---
 
 # Caldwell v. Department of Transportation
