@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "9055-8-III"
 decided: "1989-02-28"
-citations: ["54 Wash. App. 100", "53 Wash. App. 1054"]
+citations: ["54 Wash. App. 100"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jerry Don Foster, Appellant, v. The Indeterminate Sentence Review Boa
 source_url: "https://static.case.law/wash-app/54/cases/0100-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1762167
-cites_cases: ["105 Wn.2d 257", "107 Wn.2d 503", "108 Wn.2d 458", "111 Wn.2d 621", "46 Wn. App. 466", "54 Wn. App. 100", "599 P.2d 1275", "714 P.2d 303", "730 P.2d 1327", "731 P.2d 1114", "740 P.2d 824", "763 P.2d 199", "92 Wn.2d 555"]
+cites_cases: ["105 Wn.2d 257", "107 Wn.2d 503", "108 Wn.2d 458", "111 Wn.2d 621", "46 Wn. App. 466", "599 P.2d 1275", "714 P.2d 303", "730 P.2d 1327", "731 P.2d 1114", "740 P.2d 824", "763 P.2d 199", "92 Wn.2d 555"]
 ---
 
 # Foster v. Indeterminate Sentence Review Board
