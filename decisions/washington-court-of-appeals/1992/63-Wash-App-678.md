@@ -1,0 +1,47 @@
+---
+court: "Washington Court of Appeals"
+docket: "10825-2-III"
+decided: "1992-01-02"
+citations: ["63 Wash. App. 678", "63 Wash. App. 1041"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Phillip Todd Reeb, Appellant."]
+source_url: "https://static.case.law/wash-app/63/cases/0678-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1732792
+cites_cases: ["109 Wn.2d 896", "114 Wn.2d 304", "117 Wn.2d 1005", "518 P.2d 703", "53 Wn. App. 654", "578 P.2d 527", "60 Wn. App. 678", "61 Wn. App. 911", "640 P.2d 1061", "748 P.2d 1118", "769 P.2d 321", "787 P.2d 1347", "806 P.2d 776", "813 P.2d 131", "83 Wn.2d 424", "90 Wn.2d 45", "97 Wn.2d 92"]
+---
+
+# State v. Reeb
+
+## Majority (Munson, J.)
+
+Munson, J.
+Phillip Reeb appeals his conviction on four counts of possession of a controlled substance, contending the court should have (1) suppressed evidence obtained in the September 11 search of a vehicle and the November 12 search of a residence; (2) excluded evidence of his three prior convictions; and (3) given his proposed instructions to the jury.
+Mr. Reeb was stopped for a traffic violation on June 2, 1989. He was arrested on outstanding arrest warrants. A search of the vehicle he was driving turned up small quantities of marijuana and cocaine. These facts support counts 1 and 2.
+On the evening of September 11, 1989, a gas station clerk telephoned the police and reported a series of six or seven young people had approached a white car parked nearby, exchanged something with the passenger of the car, and left. The information was relayed by radio dispatch and sheriffs deputies responded. When he located the car, uniformed deputy Shane McClary activated his emergency lights, approached Mr. Reeb, who was seated in the driver's seat, and asked him for identification. A radio check disclosed Mr. Reeb had 10 failures to appear occurring after 1987. Mr. Reeb was arrested; marijuana and cocaine were found in a subsequent search of the vehicle. The passenger, Martha Coup, was also arrested. These facts support count 3.
+Two months later, on November 12, 1989, Officer Kelly Busse obtained a telephonic warrant to search a residence at North 4228 Oak. Officer Basse's affidavit provided the following information to the issuing magistrate:
+The affiant had arrested an individual, referred to as a confidential informant, on a bench warrant. The informant was a known drug user with four prior controlled substance arrests. He
+offered to exchange information regarding a drug sales operation ... in exchange for the Affiant's not booking the Confidential informant into Jail on the warrant, and referral to the Prosecuting Attorney's Office regarding the [informant's] assistance to the Police Department in this matter.
+The informant admitted to purchasing drugs earlier that evening at a house on Oak, described the house and its occupants in detail, and accompanied an officer to the house, to verify the accuracy of his description of the house.
+When the house was searched, Mr. Reeb was found hiding in the basement. Ms. Coup was also in the room. Several packages containing cocaine were found in the same room with him. These facts support count 4.
+Mr. Reeb was charged with, and convicted of, four counts of possession of a controlled substance based on the June 2, September 11, and November 12 incidents.
+First, Mr. Reeb contends the evidence found in the September 11 search of the vehicle should have been suppressed because he was unlawfiilly detained when asked to identify himself and because his subsequent arrest was not supported by probable cause.
+The actions of the sheriff's deputy in activating his overhead emergency lights, approaching Mr. Reeb, and asking him to identify himself constituted a seizure. See State v. Mennegar, 114 Wn.2d 304, 310, 787 P.2d 1347 (1990). The deputy testified Mr. Reeb was not free to leave. However, the complaint from the identified gas station clerk, describing the activities of several young people engaging in some transactions with a car parked by the gas station late at night, set forth facts that created the requisite suspicion of criminal activity justifying an inquiry and investigation. The initial detention was lawful. Mennegar, at 310; State v. White, 97 Wn.2d 92, 105, 640 P.2d 1061 (1982).
+Having detained Mr. Reeb and ascertained his name, the sheriff's deputy learned over the police radio that Mr. Reeb had 10 notices of failure to appear on his driving record since 1987 according to the Department of Licensing. The deputy thereupon arrested Mr. Reeb pursuant to former RCW 46.64.020(3), which provided in relevant part:
+Any person who drives a motor vehicle within the state and has accumulated two or more notices of failure to appear on his or her driving record maintained by the department of licensing . . . shall be guilty of failure to comply, a gross misdemeanor. . . .
+Probable cause for arrest under this subsection is established by the officer obtaining, orally or in writing, information from the department of licensing that two or more notices of failure to appear are on the person's driving record.
+Mr. Reeb contends that because the Department of Licensing records fail to distinguish between failure to pay a fine, which was not a separate crime at the time of his arrest, and failure to appear, information from the Department of Licensing is constitutionally insufficient to establish probable cause.
+Probable cause exists where the facts and circumstances within the arresting officer's knowledge and of which he has reasonably trustworthy information are sufficient in themselves to warrant a man of reasonable caution in a belief that an offense has been or is being committed.
+State v. Knighten, 109 Wn.2d 896, 899, 748 P.2d 1118 (1988) (quoting State v. Gluck, 83 Wn.2d 424, 426-27, 518 P.2d 703 (1974)). Thus, the information provided by the Department of Licensing need only be reasonably trustworthy, not absolutely accurate, to provide a basis for finding probable cause.
+In order to provide a basis for the search of a vehicle, the arrest of the driver must be more than the brief detention generally authorized by RCW 46.64.015. See State v. Stortroen, 53 Wn. App. 654, 769 P.2d 321 (1989). State v. Hehman, 90 Wn.2d 45, 578 P.2d 527 (1978) held custodial arrest based on a minor traffic offense was improper. In 1979, the Legislature decriminalized most traffic offenses, creating a list of minor offenses for which no arrest is authorized. See RCW 46.63; Laws of 1979, 1st Ex. Sess., ch. 136. The Legislature also specified misdemeanor traffic offenses for which full custodial arrest upon probable cause is expressly authorized. See RCW 10.31.100(3); Laws of 1979, 1st Ex. Sess., ch. 28, § 1; RCW 46.64.015; Laws of 1979, 1st Ex. Sess., ch. 28, § 2. Thereafter, a series of decisions has established the rule that custodial arrest for a traffic offense which retained its misdemeanor status following decriminalization is proper if the arresting officer could reasonably believe the individual would disregard his promise to appear. See State v. Feller, 60 Wn. App. 678, 680-81, 806 P.2d 776, review denied, 117 Wn.2d 1005 (1991), and cases cited therein.
+Two or more failures to appear constitute failure to comply, a gross misdemeanor, not a mere traffic infraction. RCW 46.64.020(3); see RCW 46.63.020. In 1988, the Legislature amended RCW 46.64.020 to include an express legislative finding:
+Approximately twenty percent of all people issued notices of infraction and citations violate their written and signed promise to respond or appear and obtain notices of failure to respond or appear on their driving records. Through their actions, these people are destroying the effectiveness of the traffic law system and undermining the department of licensing regulatory control of drivers' licenses.
+RCW 46.64.020(l)(d). The Legislature failed to include failure to comply in the fist of misdemeanor offenses for which full custodial arrest is authorized. See RCW 10.31.100(3). However, the accumulation of two or more notices of failure to appear or respond is substantial evidence which would warrant an arresting officer's belief the person who has done so would be unlikely to respond to yet another citation. Accordingly, custodial arrest of an individual who has accumulated 10 notices of failure to appear is proper and sufficient to support a search of the vehicle driven by that individual.
+Affirmed.
+Pursuant to RCW 2.06.040, the remaining contentions and the court's answers to those contentions, having no precedential value, will not be published.
+Thompson, A.C.J., and Green, J. Pro Tem., concur.
+The subsequent amendment in 1990 is not applicable here.
+The statute was amended in 1990, adding, inter alia, the following sentence at the end of the second paragraph: "For purposes of this chapter, failure to satisfy any penalties imposed under this title is considered equivalent to failure to appear or respond." Laws of 1990, ch. 210, § 1.
+State v. Klump, 61 Wn. App. 911, 813 P.2d 131 (1991) held RCW 46.64-.020(2), which provides failure to appear is a misdemeanor, did not support an arrest in the absence of an arrest warrant. Mr. Klump had been arrested on the basis of a single failure to appear, so the probable cause provision of RCW 46.64.020(3) was inapplicable.
