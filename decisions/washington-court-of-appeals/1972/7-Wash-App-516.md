@@ -1,0 +1,27 @@
+---
+court: "Washington Court of Appeals"
+docket: "545-2"
+decided: "1972-08-28"
+citations: ["7 Wash. App. 516"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Systems Amusement, Inc., Appellant, v. The State of Washington, Respondent."]
+source_url: "https://static.case.law/wash-app/7/cases/0516-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1851445
+cites_cases: ["111 A.L.R. 998", "154 Wash. 1", "179 P.2d 496", "18 Wash. 73", "185 Wash. 143", "200 Wash. 632", "27 Wn.2d 661", "28 Wash. 345", "280 P. 65", "50 P. 586", "53 P.2d 615", "68 P. 872", "94 P.2d 505"]
+---
+
+# Systems Amusement, Inc. v. State
+
+## Majority (Petrie, C.J.)
+
+Petrie, C.J.
+Plaintiff corporation, through its president, Donald R. Swett, filed an action for money damages in Thurston County against the State of Washington contending that an agency of the state — Washington State Liquor Control Board — by summarily refusing to allow plaintiff to operate a tavern as a licensee, has arbitrarily deprived it of property without due process of law. Plaintiff acknowledges that it did not pursue any remedy available to it under the Administrative Procedure Act, RCW 34.04 and concedes that it has not complied with the procedural requirements of the Tort Claims Act, RCW 4.92.100. In fact, plaintiff steadfastly insists that neither the Tort Claims Act nor the Administrative Procedure Act has any bearing upon its present action against the state. Its appeal from a summary judgment of dismissal raises the basic question of whether or not the constitutional guarantee of due process, article 1, section 3, Constitution of the State of Washington, per se, and without the aid of augmentative legislation — creates a cause of action for money damages against the state in favor of any person whose property allegedly has been deprived from him without due process of law. We hold that it does not.
+Plaintiff’s complaint was filed in Thurston County-pursuant to the provisions of RCW 4.92.010, a portion of which provides: “Any person or corporation having any claim against the state of Washington shall have a right of action against the state in the superior court of Thurston county.” RCW 4.92.010 is a procedural statute enacted pursuant to the constitutional mandate (Const, art. 2, § 26) that the legislature shall direct by law in what manner and in what courts suits may be brought against the state. State ex rel. Hamilton v. Superior Court, 200 Wash. 632, 94 P.2d 505 (1939). The word “claim” as used in the statute means “cause of action.” Northwestern & Pac. Hypotheek Bank v. State, 18 Wash. 73, 50 P. 586 (1897).
+We are not aware of any statute or judicial determination, which establishes a “cause of action” for money damages in favor of a person or corporation and against the state for nontortious, discretionary acts of state agencies which are alleged to have been performed arbitrarily and capriciously. Indeed, plaintiff’s counsel candidly invites us to create a “cause of action” based solely upon an alleged violation of a constitutionally guaranteed right: “No person shall be deprived of life, liberty, or property, without due process of law.” Const, art. 1, § 3.
+Plaintiff misconstrues the basic nature of the due process clause. The clause is a protection against arbitrary action by the state; but if a person has his day in court, he has not been deprived of due process. State v. Cater's Motor Freight Sys., Inc., 27 Wn.2d 661, 179 P.2d 496 (1947). Acts violative of the clause may be declared void by the courts', but the clause does not, of itself, provide the remedy of reparation. Plaintiff’s posture in this appeal is that it does not choose to travel down the avenues of due process provided by the legislature — (1) administrative hearing and subsequent judicial review as provided under the Administrative Procedure Act, or (2) to the extent that the actions of a state agency may be tortious, the procedures, including timely filing of a claim, required under the Tort Claims Act — rather, its real contention is that, unless the remedy it chooses to pursue is made available under the law, due process has been denied. This is not the “law of the land.” The due process clause is not even a positive mandate to preserve existing causes of action. Shea v. Olson, 185 Wash. 143, 53 P.2d 615, 111 A.L.R. 998 (1936). Much less can it be relied upon, as an affirmative mandate to create new causes of action.
+Lest there be any possible misunderstanding of our opinion, we hasten to add that the plaintiff’s complaint herein falls considerably short of any allegation that private property was taken for a public use. Over 70 years ago this jurisdiction recognized a cause of action — which has subsequently come to be known as “inverse condemnation” —based solely upon article 1, section 16 of the Constitution of the State of Washington, which provides in part, “No private property shall be taken or damaged for public or private use without just compensation having been first made, . . .” Brown v. Pierce County, 28 Wash. 345, 68 P. 872 (1902). See explanation of Brown in Wilshire v. Seattle, 154 Wash. 1, 280 P. 65 (1929). Our opinion today obviously does not relate in any way to article 1, section 16. Neither can plaintiff herein rely upon that provision of the state constitution.
+Judgment affirmed.
+Pearson and Armstrong, JJ., concur.
