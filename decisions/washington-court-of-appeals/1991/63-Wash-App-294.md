@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "10548-2-III"
 decided: "1991-09-24"
-citations: ["63 Wash. App. 294", "62 Wash. App. 1024"]
+citations: ["63 Wash. App. 294"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Leonard Johnson, et al, Appellants, Barbara J. Stotts, Plaintiff, v. 
 source_url: "https://static.case.law/wash-app/63/cases/0294-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1732927
-cites_cases: ["106 Wn.2d 1006", "106 Wn.2d 685", "110 Wn.2d 32", "113 Wn.2d 645", "117 Wn.2d 1015", "376 P.2d 651", "379 P.2d 918", "42 Wn. App. 822", "439 U.S. 870", "459 U.S. 842", "504 P.2d 316", "51 Wn. App. 861", "513 P.2d 827", "53 Wn. App. 238", "574 P.2d 1171", "60 Wn. App. 635", "60 Wn.2d 836", "63 Wn. App. 294", "639 P.2d 737", "640 P.2d 1051", "714 P.2d 695", "724 P.2d 997", "750 P.2d 632", "756 P.2d 146", "767 P.2d 576", "782 P.2d 974", "8 Wn. App. 220", "806 P.2d 766", "82 Wn.2d 746", "89 Wn.2d 613", "96 Wn.2d 902", "96 Wn.2d 939"]
+cites_cases: ["106 Wn.2d 1006", "106 Wn.2d 685", "110 Wn.2d 32", "113 Wn.2d 645", "117 Wn.2d 1015", "376 P.2d 651", "379 P.2d 918", "42 Wn. App. 822", "439 U.S. 870", "459 U.S. 842", "504 P.2d 316", "51 Wn. App. 861", "513 P.2d 827", "53 Wn. App. 238", "574 P.2d 1171", "60 Wn. App. 635", "60 Wn.2d 836", "639 P.2d 737", "640 P.2d 1051", "714 P.2d 695", "724 P.2d 997", "750 P.2d 632", "756 P.2d 146", "767 P.2d 576", "782 P.2d 974", "8 Wn. App. 220", "806 P.2d 766", "82 Wn.2d 746", "89 Wn.2d 613", "96 Wn.2d 902", "96 Wn.2d 939"]
 ---
 
 # Johnson v. Carbon
