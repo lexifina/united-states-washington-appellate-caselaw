@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "25204-6-I"
+decided: "1991-07-29"
+citations: ["62 Wash. App. 135"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Danny Lee Henshaw, Appellant."]
+source_url: "https://static.case.law/wash-app/62/cases/0135-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1712326
+cites_cases: ["106 Wn.2d 514", "108 Wn.2d 458", "113 Wn.2d 1026", "114 Wn.2d 77", "115 Wn.2d 445", "116 Wn.2d 466", "52 Wn. App. 416", "53 Wn. App. 916", "55 Wn. App. 573", "57 Wn. App. 501", "58 Wn. App. 740", "723 P.2d 1117", "740 P.2d 824", "760 P.2d 964", "771 P.2d 746", "779 P.2d 732", "785 P.2d 1134", "789 P.2d 772", "794 P.2d 1316", "799 P.2d 244", "805 P.2d 806"]
+---
+
+# State v. Henshaw
+
+## Majority (Baker, J.)
+
+Baker, J.
+Danny Lee Henshaw appeals the exceptional sentence imposed for his conviction of child molestation in the first degree, alleging the trial court erred in basing its sentence on a finding that he exerted pressure on the victim to recant her allegations. We reverse the exceptional sentence and remand for resen-tencing.
+Factual and Procedural Background
+Appellant was convicted of sexually molesting 10-year-old Y.H. while he was her caretaker. Y.'s mother, Carita Hozjan, had been romantically involved with appellant. Carita asked appellant to move into her home and care for Y. while she entered an inpatient drug treatment program.
+Prior to trial, Y. recanted her allegations and both she and her mother testified for the defense. The State relied on evidence from a police officer, a doctor and two of Y.'s friends, who testified concerning Y.'s original allegations. Y. testified that she had invented the allegations of sexual abuse in order to get appellant and his current girl friend out of her house and get her mother to come home.
+Carita testified that between the time appellant was arrested and the time Y. recanted her allegations, she (Carita) received only two telephone calls from appellant, both pertaining to the whereabouts of her car. Appellant testified that he telephoned Carita four or five times during that period. On rebuttal, the State introduced telephone records showing that Carita had accepted 23 collect calls from the telephone on appellant's floor of the jail in the 5 days leading up to Y.'s recantation. The State also elicited testimony that Carita was in love with appellant and was trying to reestablish their romantic relationship prior to the time of Y.'s accusations, and that after Y. recanted, Carita visited appellant frequently while he remained in jail.
+The trial court imposed an exceptional sentence of 84 months, the standard range being 41 to 54 months, based on two findings:
+A. The defendant used his position of trust and confidence to facilitate the commission of the crime.
+B. The defendant exerted pressure and influence on the victim and her mother to get the victim to recant the allegations of sexual abuse.
+Appellant challenges only the second finding.
+Analysis
+In reviewing an exceptional sentence, the appellate court must first determine whether the reasons for the sentence are supported by the record using a clearly erroneous standard of review. Second, the appellate court must independently determine whether, as a matter of law, the trial court's reasons justify an exceptional sentence. RCW 9.94A.210(4)(a); State v. Nordby, 106 Wn.2d 514, 517-18, 723 P.2d 1117 (1986); State v. Pryor, 115 Wn.2d 445, 450, 799 P.2d 244 (1990). The reasons must be "substantial and compelling". RCW 9.94A. 120(2).
+Appellant contends that exerting pressure and influence on a witness to recant her allegations constitutes an additional crime of tampering with a witness, and therefore, under the "real facts" doctrine, it cannot be the basis for an exceptional sentence.
+Under the real facts doctrine, "[f]acts that establish the elements of a more serious crime or additional crimes may not be used to go outside the presumptive sentence range except upon stipulation or when specifically provided for in RCW 9.94A.390(2)(c), (d), and (e)." RCW 9.94A.370. See State v. Sly, 58 Wn. App. 740, 749-50, 794 P.2d 1316 (1990); State v. Crutchfield, 53 Wn. App. 916, 924-25, 771 P.2d 746 (1989).
+A person is guilty of tampering with a witness if he or she attempts to induce a witness to testify falsely or to withhold any testimony. RCW 9A.72.120. The facts in this case clearly constitute the additional crime of tampering with a witness. The trial court found that appellant "exerted pressure and influence on the victim and her mother to get the victim to recant the allegations of sexual abuse."
+The State cites a judicially created exception to the real facts doctrine for "attempt[s] to frustrate the criminal justice system". State v. Cook, 52 Wn. App. 416, 421, 760 P.2d 964 (1988). In Cook, the defendant pleaded guilty to charges of malicious mischief and custodial assault. Throughout the period prior to sentencing, the defendant lied to judges and officers of the court concerning his identity and his criminal history. The trial court imposed an exceptional sentence based in part on this conduct. On appeal, the defendant contended that his conduct constituted additional crimes and so it could not be the basis for an exceptional sentence. In rejecting this challenge, the court stated:
+We believe that an exception for acts, like defendant's, that are designed to subvert or defraud the criminal justice process generally and the proportionality goals of the SRA, specifically, is consistent with the intent of the act.
+... To require the State to charge and prosecute every attempt to frustrate the criminal justice system which may, speculatively, amount to a crime would require an inordinate expenditure of time, manpower, and delay.
+Cook, 52 Wn. App. at 421.
+To apply Cook in the present case would significantly expand the exception. Cook discussed the fact that one of the goals of the Sentencing Reform Act of 1981 was to create accurate criminal histories, and stated: "defendant's criminal history would be unaltered since his alleged crimes were misdemeanors and would not be counted in a future offender score. RCW 9.94A.030(8)(b)." Cook, 52 Wn. App. at 421. In the present case, by contrast, the alleged additional crime is a felony.
+Moreover, it is common for prosecutors to add charges of tampering with or intimidating a witness based on conduct occurring subsequent to an original charge. See, e.g., State v. Rempel, 114 Wn.2d 77, 785 P.2d 1134 (1990) (defendant telephoned rape victim from jail and requested that she drop the charges); State v. Jensen, 57 Wn. App. 501, 789 P.2d 772 (1990) (defendant in burglary case threatened witness with property damage if she did not drop the charge), aff d sub nom. State v. Howe, 116 Wn.2d 466, 805 P.2d 806 (1991). This indicates that the prosecution of such charges is not considered "an inordinate expenditure of time, manpower, and delay." Cook, at 421. It may well have been difficult for the State to prosecute appellant for tampering with a witness, since both of the witnesses to the alleged tampering would have denied that it occurred. But the real facts doctrine does not turn on the ease or difficulty of prosecution for the uncharged crime. "Defendants will be held accountable for what they have been convicted of, but not for crimes that the prosecution either could not or chose not to prove." (Italics omitted.) State v. McAlpin, 108 Wn.2d 458, 466, 740 P.2d 824 (1987) (quoting D. Boerner, Sentencing in Washington § 9.16, at 9-49 to 9-50 (1985)). To apply the Cook exception in this case would eviscerate the real facts doctrine. We decline respondent's invitation to do so.
+The trial court relied on a second aggravating factor in imposing the exceptional sentence: appellant's abuse of a position of trust and confidence to facilitate the crime. Appellant does not challenge the use of this factor.
+Where fewer than all of the trial court's reasons for imposing an exceptional sentence are justified, remand is unnecessary if the reviewing court can determine that the trial court deemed the valid reasons sufficiently significant to warrant the exceptional sentence imposed. Sly, 58 Wn. App. at 750; State v. Roberts, 55 Wn. App. 573, 587, 779 P.2d 732, review denied, 113 Wn.2d 1026 (1989). If, on the other hand, the trial court placed considerable weight on the invalid factor, remand is necessary. Sly; Roberts, 55 Wn. App. at 587. Since it is not possible to determine whether the trial court would have imposed an exceptional sentence of 84 months on the basis of the abuse of trust factor alone, a remand is required. Sly, 58 Wn. App. at 751.
+Pekelis and Kennedy, JJ., concur.
+RCW 9A.72.120 provides:
+"Tampering with a witness. (1) A person is guilty of tampering with a witness if he attempts to induce a witness or person he has reason to believe is about to be called as a witness in any official proceeding or a person whom he has reason to believe may have information relevant to a criminal investigation to:
+"(a) Testify falsely or, without right or privilege to do so, to withhold any testimony; or
+"(b) Absent himself from such proceedings.
+"(2) Tampering with a witness is a class C felony."
+The State contends that this case does not fall within the real facts doctrine because the court focused not on the defendant’s conduct, but on how it affected the victim's psyche. In its oral ruling, the court stated that the pressure that had been put on the victim "has also been a threat to her future on [sic] her mental health." However, the court's written findings do not mention the effect on her mental health. Moreover, focusing on the effect of an additional crime does not make it any less an additional crime for purposes of the real facts doctrine.
