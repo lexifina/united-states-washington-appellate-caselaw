@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "20536-6-I"
 decided: "1988-09-19"
-citations: ["52 Wash. App. 707", "52 Wash. App. 1041"]
+citations: ["52 Wash. App. 707"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Kenneth A. Sheppard, Appellan
 source_url: "https://static.case.law/wash-app/52/cases/0707-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1708657
-cites_cases: ["102 Wn.2d 527", "279 F.2d 623", "44 Wn. App. 547", "448 P.2d 490", "52 Wn. App. 707", "548 F.2d 1347", "688 P.2d 506", "723 P.2d 448", "75 Wn.2d 1", "803 F.2d 493", "817 F.2d 64", "84 A.L.R. Fed. 833", "840 F.2d 1424", "95 A.L.R.2d 303"]
+cites_cases: ["102 Wn.2d 527", "279 F.2d 623", "44 Wn. App. 547", "448 P.2d 490", "548 F.2d 1347", "688 P.2d 506", "723 P.2d 448", "75 Wn.2d 1", "803 F.2d 493", "817 F.2d 64", "84 A.L.R. Fed. 833", "840 F.2d 1424", "95 A.L.R.2d 303"]
 ---
 
 # State v. Sheppard
