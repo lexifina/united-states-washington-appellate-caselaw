@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23815-2-II; 24133-1-II"
 decided: "2001-02-09"
-citations: ["105 Wash. App. 632", "104 Wash. App. 1042"]
+citations: ["105 Wash. App. 632"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Aldoren F. Kauzlarich, Appellant, v. Jesse E. Yarbrough, et al., Resp
 source_url: "https://static.case.law/wash-app/105/cases/0632-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 358784
-cites_cases: ["100 Wn.2d 343", "105 Wn. App. 632", "105 Wn.2d 653", "106 Wn.2d 1", "106 Wn.2d 443", "107 Wn.2d 300", "119 Wn.2d 167", "119 Wn.2d 452", "123 Wn.2d 1022", "125 Wn.2d 1010", "125 Wn.2d 212", "127 Wn.2d 1013", "128 Wn.2d 164", "128 Wn.2d 40", "130 Wn.2d 594", "134 Wn.2d 74", "139 Wn.2d 1012", "144 Wn.2d 1007", "24 Wn. App. 281", "284 P.2d 296", "350 U.S. 968", "388 P.2d 139", "46 Wn.2d 666", "52 Wn. App. 334", "600 P.2d 683", "603 P.2d 828", "621 P.2d 1285", "63 Wn.2d 537", "637 P.2d 645", "656 P.2d 1030", "664 P.2d 492", "670 P.2d 240", "71 Wn. App. 336", "717 P.2d 1371", "721 P.2d 1", "722 P.2d 796", "730 P.2d 54", "74 Wn. App. 733", "760 P.2d 368", "77 Wn. App. 720", "829 P.2d 1082", "832 P.2d 1303", "858 P.2d 516", "875 P.2d 697", "883 P.2d 320", "89 Wn. App. 283", "893 P.2d 674", "905 P.2d 338", "905 P.2d 355", "91 Wn. App. 663", "92 Wn.2d 956", "925 P.2d 978", "93 Wn. App. 654", "949 P.2d 1337", "949 P.2d 382", "95 Wn. App. 670", "95 Wn.2d 265", "96 Wn.2d 568", "960 P.2d 457", "969 P.2d 1118", "977 P.2d 29", "98 Wn.2d 434", "99 Wn.2d 582"]
+cites_cases: ["100 Wn.2d 343", "105 Wn.2d 653", "106 Wn.2d 1", "106 Wn.2d 443", "107 Wn.2d 300", "119 Wn.2d 167", "119 Wn.2d 452", "123 Wn.2d 1022", "125 Wn.2d 1010", "125 Wn.2d 212", "127 Wn.2d 1013", "128 Wn.2d 164", "128 Wn.2d 40", "130 Wn.2d 594", "134 Wn.2d 74", "139 Wn.2d 1012", "144 Wn.2d 1007", "24 Wn. App. 281", "284 P.2d 296", "350 U.S. 968", "388 P.2d 139", "46 Wn.2d 666", "52 Wn. App. 334", "600 P.2d 683", "603 P.2d 828", "621 P.2d 1285", "63 Wn.2d 537", "637 P.2d 645", "656 P.2d 1030", "664 P.2d 492", "670 P.2d 240", "71 Wn. App. 336", "717 P.2d 1371", "721 P.2d 1", "722 P.2d 796", "730 P.2d 54", "74 Wn. App. 733", "760 P.2d 368", "77 Wn. App. 720", "829 P.2d 1082", "832 P.2d 1303", "858 P.2d 516", "875 P.2d 697", "883 P.2d 320", "89 Wn. App. 283", "893 P.2d 674", "905 P.2d 338", "905 P.2d 355", "91 Wn. App. 663", "92 Wn.2d 956", "925 P.2d 978", "93 Wn. App. 654", "949 P.2d 1337", "949 P.2d 382", "95 Wn. App. 670", "95 Wn.2d 265", "96 Wn.2d 568", "960 P.2d 457", "969 P.2d 1118", "977 P.2d 29", "98 Wn.2d 434", "99 Wn.2d 582"]
 ---
 
 # Kauzlarich v. Yarbrough
