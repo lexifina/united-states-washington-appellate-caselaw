@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27889-8-II"
 decided: "2002-12-13"
-citations: ["115 Wash. App. 752", "114 Wash. App. 1062"]
+citations: ["115 Wash. App. 752"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Gerald Rhoades, et al., Petitioners, v. The City of Battle Ground, Re
 source_url: "https://static.case.law/wash-app/115/cases/0752-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 222201
-cites_cases: ["103 Wn. App. 325", "107 Wn.2d 370", "110 Wn.2d 643", "111 Wn.2d 923", "113 Wn.2d 213", "114 Wn.2d 320", "114 Wn.2d 392", "115 Wn. App. 752", "119 Wn.2d 34", "12 P.3d 1030", "120 Wn.2d 203", "121 Wn.2d 586", "122 Wn.2d 738", "124 Wn.2d 732", "129 Wn.2d 238", "132 Wn.2d 1010", "132 Wn.2d 484", "134 Wn.2d 692", "141 Wn.2d 201", "145 P. 462", "149 Wn.2d 1028", "166 U.S. 698", "26 Wn. App. 687", "339 U.S. 306", "366 U.S. 420", "374 P.2d 246", "380 U.S. 545", "388 P.2d 926", "41 Cal. 138", "413 U.S. 601", "42 U.S.C. § 1983", "42 U.S.C. § 1988", "424 U.S. 319", "470 U.S. 532", "482 U.S. 451", "498 U.S. 911", "5 P.3d 691", "505 U.S. 1003", "506 U.S. 1028", "510 U.S. 1176", "529 P.2d 1096", "532 U.S. 920", "585 P.2d 1191", "587 P.2d 537", "60 Wn.2d 397", "601 P.2d 936", "615 P.2d 1297", "63 Wn.2d 664", "730 P.2d 636", "757 P.2d 499", "767 P.2d 572", "777 P.2d 1046", "787 P.2d 1352", "787 P.2d 907", "83 Wash. 322", "830 P.2d 318", "84 Wn.2d 874", "840 P.2d 174", "85 Wn. App. 171", "854 P.2d 1", "863 P.2d 535", "87 Wn. App. 27", "881 P.2d 226", "90 Wn.2d 818", "91 Wn.2d 126", "916 P.2d 374", "92 Wn.2d 831", "931 P.2d 208", "939 P.2d 691", "94 L. Ed. 865", "94 Wn.2d 1022", "940 P.2d 274", "952 P.2d 590", "96 L. Ed. 2d 398"]
+cites_cases: ["103 Wn. App. 325", "107 Wn.2d 370", "110 Wn.2d 643", "111 Wn.2d 923", "113 Wn.2d 213", "114 Wn.2d 320", "114 Wn.2d 392", "119 Wn.2d 34", "12 P.3d 1030", "120 Wn.2d 203", "121 Wn.2d 586", "122 Wn.2d 738", "124 Wn.2d 732", "129 Wn.2d 238", "132 Wn.2d 1010", "132 Wn.2d 484", "134 Wn.2d 692", "141 Wn.2d 201", "145 P. 462", "149 Wn.2d 1028", "166 U.S. 698", "26 Wn. App. 687", "339 U.S. 306", "366 U.S. 420", "374 P.2d 246", "380 U.S. 545", "388 P.2d 926", "41 Cal. 138", "413 U.S. 601", "42 U.S.C. § 1983", "42 U.S.C. § 1988", "424 U.S. 319", "470 U.S. 532", "482 U.S. 451", "498 U.S. 911", "5 P.3d 691", "505 U.S. 1003", "506 U.S. 1028", "510 U.S. 1176", "529 P.2d 1096", "532 U.S. 920", "585 P.2d 1191", "587 P.2d 537", "60 Wn.2d 397", "601 P.2d 936", "615 P.2d 1297", "63 Wn.2d 664", "730 P.2d 636", "757 P.2d 499", "767 P.2d 572", "777 P.2d 1046", "787 P.2d 1352", "787 P.2d 907", "83 Wash. 322", "830 P.2d 318", "84 Wn.2d 874", "840 P.2d 174", "85 Wn. App. 171", "854 P.2d 1", "863 P.2d 535", "87 Wn. App. 27", "881 P.2d 226", "90 Wn.2d 818", "91 Wn.2d 126", "916 P.2d 374", "92 Wn.2d 831", "931 P.2d 208", "939 P.2d 691", "94 L. Ed. 865", "94 Wn.2d 1022", "940 P.2d 274", "952 P.2d 590", "96 L. Ed. 2d 398"]
 ---
 
 # Rhoades v. City of Battle Ground
