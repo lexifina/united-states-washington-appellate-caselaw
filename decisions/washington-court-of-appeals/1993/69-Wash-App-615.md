@@ -1,0 +1,45 @@
+---
+court: "Washington Court of Appeals"
+docket: "12026-1-III"
+decided: "1993-04-27"
+citations: ["69 Wash. App. 615"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Miley John, Appellant."]
+source_url: "https://static.case.law/wash-app/69/cases/0615-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1700388
+cites_cases: ["104 Wn.2d 44", "108 Wn.2d 1025", "110 Wn.2d 793", "47 Wn. App. 42", "58 Wn. App. 1", "700 P.2d 1152", "733 P.2d 564", "756 P.2d 1303", "790 P.2d 1266"]
+---
+
+# State v. John
+
+## Majority (Sweeney, J.)
+
+Sweeney, J.
+Miley John appeals a contempt order for violation of a consent decree. Mr. John contends (1) the contempt proceeding was criminal in nature and he was denied his constitutional right to due process; (2) the court erred in failing to enter findings of fact; and (3) he is entitled to an award of attorney fees. We reverse.
+Facts and Procedural History
+On May 2, 1986, the State of Washington brought an action against Miley and Mary John, individually, and d.b.a. Miley's Used Cars, alleging violation of the Consumer Protection Act, RCW 19.86, and the Unfair Business Practices — Dealers' Licenses Act, RCW 46.70. On December 29,1986, the State and Mr. John entered into a consent decree in which Mr. John agreed not to act as a vehicle dealer withoüt first obtaining a current dealer's license. RCW 46.70.021. The decree imposed a $4,000 penalty, $2,000 of which was suspended "upon the condition that deféndants comply with all terms of this Consent Decree." Mr. John agreed to pay all costs of enforcing the decree.
+On December 20, 1989, the State filed a criminal complaint against Mr. John, alleging that he had acted as a vehicle dealer without holding a current dealer’s license in violation of RCW 46.70.021. Mr. John pleaded guilty to the charge. In June 1991, the State moved for an order requiring Mr. John to show cause why he should not be held in contempt of court for violating the provisions of the consent decree. The State requested that Mr. John be sentenced to jail for a period of time to be determined by the trial court and that the $2,000 suspended fine be reinstated. Mr. John requested a fact-finding evidentiary hearing and a trial by jury. His requests were denied.
+After considering only the consent decree and Mr. John's plea of guilty, the court found Mr. John in contempt of court and reinstated the $2,000 suspended penalty, but did not impose a jail sentence. Mr. John was also ordered to pay costs and attorney fees of $900. This appeal follows.
+Discussion
+Mr. John contends that because the contempt proceeding was criminal in nature he was entitled to various constitutional safeguards. Specifically, Mr. John alleges violations of his rights under the sixth amendment to the United States Constitution and article 1, sections 21 and 22 of the Washington Constitution because he was not given the opportunity to present evidence, call witnesses, testify in his own behalf or confront adverse witnesses. The State argues that because the contempt proceeding was civil in nature Mr. John was not entitled to these constitutional protections. The State urges that the purpose of the contempt sanction was to coerce Mr. John's future compliance with the court order, rather than punish him for a past violation. The State contends that its request for the imposition of a jail sentence does not render the proceeding criminal. We disagree.
+Contempt of court is an intentional "[djisobedience of any lawful judgment, decree, order, or process of the court". RCW 7.21.010(l)(b). There are two categories of contempt: punitive (criminal) and coercive (civil). In re Marriage of Haugh, 58 Wn. App. 1, 6, 790 P.2d 1266 (1990). To determine whether an act of contempt is civil or criminal, we look to the substance of the proceeding and the character of the relief it will afford. In re King, 110 Wn.2d 793, 799, 756 P.2d 1303 (1988).
+A contempt sanction is criminal if it is intended to punish past behavior, and if it results in a determinate jail sentence with no opportunity for the contemnor to purge himself of the contempt. RCW 7.21.010(2); King, at 799; State v. Boat man, 104 Wn.2d 44, 48, 700 P.2d 1152 (1985). Criminal contempt is determinate and unconditional, and imposed for the purpose of vindicating the authority of the court. King, at 799-800. If a contempt order is criminal, due process protections must be afforded, including the right to a trial by jury. Haugh, at 6.
+On the other hand, a remedial (civil) sanction is one "imposed for the purpose of coercing performance when the contempt consists of the omission or refusal to perform an act that is yet in the person's power to perform." RCW 7.21.010(3). The purpose of a civil contempt sanction is to coerce compliance with a lawful court order — a contemnor is jailed only so long as he fails to comply with such order. King, at 799. Civil contempt sanctions are coercive, conditional and indeterminate. The contemnor carries the keys of the prison door in his own pocket and can let himself out by simply obeying the court order. King, at 800. There is no right to a trial by jury in a civil contempt proceeding.
+Here, the State sought to hold Mr. John in contempt for his violation of a consent decree. It requested a jail sentence for a definite period of time and reinstatement of a $2,000 fine. Although the court did not impose a jail sentence, the proceeding was nevertheless punitive. The State was not attempting to coerce Mr. John, but to punish him for past behavior. See State v. Boatman, supra (appellants who had repeatedly failed to pay child support held to be in civil contempt); In re Marriage of Haugh, supra (court's order sentencing defendant to 10 days in jail, suspended on condition he comply with previously ordered visitation schedule, held to be civil). The consent decree suspended $2,000 of the fine imposed. Even though there was a criminal complaint and a guilty plea in 1989, Mr. John was entitled to an evidentiary hearing on whether he is in contempt. Because the proceeding was criminal in nature, Mr. John was entitled to those rights afforded criminal defendants, including the right to a jury trial. King, at 800. The contempt order is therefore reversed.
+Because of our holding, we do not address the court's failure to enter findings of fact and conclusions of law.
+Award op Attorney Fees and Costs
+Mr. John contends he is entitled to attorney fees and costs pursuant to RCW 4.84.330. The act provides that:
+In any action on a contract or lease entered into after September 21, 1977, where such contract or lease specifically provides that attorney's fees and costs, which are incurred to enforce the provisions of such contract or lease, shall be awarded to one of the parties, the prevailing party, whether he is the party specified in the contract or lease or not, shall be entitled to reasonable attorney's fees in addition to costs and necessary disbursements.
+As used in this section "prevailing party" means the party in whose favor final judgment is rendered.
+The consent decree required Mr. John to bear all costs of enforcing the consent decree. A consent decree is a judgment by stipulation and, therefore, is construed as a contract. Centennial Villas, Inc. v. Department of Social & Health Servs., 47 Wn. App. 42, 49, 733 P.2d 564, review denied, 108 Wn.2d 1025 (1987). Here, the State concedes that if final judgment were entered on behalf of Mr. John, he would be entitled to an award of attorney fees and costs. Because we reverse the order of contempt, Mr. John is the prevailing party and is entitled to an award of fees and costs. RCW 4.84.330.
+The order of contempt is reversed. The case is remanded for an award to Mr. John of attorney fees and costs incurred in both the superior court proceeding and on appeal. RAP 18.1(i).
+Shields, C.J., and Thompson, J., concur.
+On reconsideration, the court vacated the judgment as to Mary John and the marital community.
+The sixth amendment to the United States Constitution states:
+In all criminal prosecutions, the accused shall enjoy the right to a speedy and public trial, by an impartial jury. ..; to be confronted with the witnesses against him; to have compulsory process for obtaining witnesses in his favor, and to have the assistance of counsel for his defense.
+Article 1, section 21 of our constitution provides that the right of trial by jury remains inviolate. Section 22 provides that in a criminal prosecution, an accused has the right "to meet the witnesses against him face to face, to have compulsory process to compel the attendance of witnesses in his own behalf, to have a speedy public trial by an impartial jury . . .".
+Mr. John had been punished already pursuant to the 1989 criminal complaint to which he pleaded guilty.
+Section 3.3 stated: "Defendants shall bear all costs of enforcing this Consent Decree should any enforcement action become necessary."
