@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "6613-1"
+decided: "1979-08-13"
+citations: ["24 Wash. App. 349", "24 Wash. App. 1003"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Swanson, A.C.J., and James, J., concur."]
+parties: ["Reeb, Incorporated, Appellant, v. The Washington State Liquor Control Board, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/24/cases/0349-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 459566
+cites_cases: ["418 P.2d 735", "461 P.2d 531", "508 P.2d 166", "518 P.2d 1237", "527 P.2d 1121", "543 P.2d 343", "549 P.2d 18", "552 P.2d 1038", "69 Wn.2d 472", "77 Wn.2d 255", "82 Wn.2d 109", "83 Wn.2d 446", "84 Wn.2d 551", "86 Wn.2d 233", "87 Wn.2d 280", "87 Wn.2d 56"]
+---
+
+# Reeb, Inc. v. Washington State Liquor Control Board
+
+## Majority (Dore, J.—)
+
+Dore, J.—
+Facts op Case
+This is an appeal by Reeb, Inc., from the imposition of an administrative penalty. The Washington State Liquor Control Board found that Reeb, Inc., doing business as the Bavarian Gardens, had violated WAC 314-16-125(3) and (5). The Board ordered a license suspension of 7 days or, in the alternative, payment of a penalty of seven times the average daily gross profit attributable to the sale of liquor. The trial court 'affirmed the finding of a violation. Reeb, Inc., now appeals to this court. We affirm.
+The facts which resulted in this violation are as follows:
+[O]n April 1, 1977, at about 10:10 p.m., Enforcement Officer Ross E. Johnson entered the licensed premises; ... he positioned himself near the exit, standing about 20 feet from a huge woman who was astraddle a male customer; . . . the dancer, who was later identified as "Annie Fannie," allowed the right knee of the customer to move with her and her knee was against his crotch; . . . there was definite contact made between the bodies of the dancer and the customer; . . . Enforcement Officer Johnson then moved to within two feet of the dancer when she again performed a "table dance" for a male customer; . . . "Annie" is about 6'4" tall and she weighs about 400 pounds, but she exhibited less of her body than any of the other 18 dancers employed on the premises; . . . "Annie" again straddled the customer and his head nearly disappeared between her breasts as she bent over him; . . . the dancer saw Officer Johnson, but she continued to allow the customer to place his face between her ample breasts; . . . Officer Johnson saw the head floor girl . . . when he was leaving, but he did not advise [her] as to what he had observed; . . . the licensee was advised of Officer Johnson's observation approximately three weeks after they were seen because the Seattle police were working on a case (which did not materialize) and had requested of the enforcement officer that no action be taken until the police investigation had been completed; . . . the only violation observed by Enforcement Officer Johnson was the one described herein and none were made by any of the other dancers.
+Finding of fact No. 2.
+[T]he licensee regularly employs at least one door checker and a floor girl, who is in charge of the dancers, and they are charged with following the instructions and list of "can't do's" issued by the licensee;. . . upon being informed of this prohibited performance three weeks after the events described . . . above, the door checker, the floor girl and "Annie" (who denied the charge) were terminated by the licensee; . . . there have been no other violations reported to the Board in relation to the operation of Bavarian Gardens, and this performance appears to be an isolated instance; ... at the hearing it was not shown that the licensee permitted or allowed "Annie" to touch her customers, but there was an unobstructed view from the bar to the tables where the "dance" was performed; and, if the bartender or the floor girl had looked, they could have seen what Officer Johnson saw.
+Finding of fact No. 3.
+Reeb, Inc., raises two issues.
+Issues
+Issue 1. Was the decision of the Washington State Liquor Control Board arbitrary or capricious and/or clearly erroneous in view of the entire record?
+Issue 2. Should Reeb, Inc., be responsible for the acts of its employees when it had no actual knowledge of the conduct and had taken reasonable precautions to prevent such conduct?
+Decision
+Issue 1.
+Reeb argues that the trial court erred when it failed to find that the decision of the Liquor Control Board was arbitrary or capricious and/or clearly erroneous in view of the entire record. Standards for judicial review of decisions of an administrative nature are set forth in the administrative procedures act, RCW 34.04.130(1) and (2). Hayes v. Yount, 87 Wn.2d 280, 286, 552 P.2d 1038 (1976) states:
+[Administrative decisions] are to be affirmed unless the administrative findings, conclusions, or decisions are "clearly erroneous in view of the entire record as submitted and the public policy contained in the act of the legislature authorizing the decision or order; or . . . arbitrary or capricious." RCW 34.04.130(6)(e), (f); Department of Ecology v. Ballard Elks Lodge 827, 84 Wn.2d 551, 555, 527 P.2d 1121 (1974); Stempel v. Department of Water Resources, 82 Wn.2d 109, 113-14, 508 P.2d 166 (1973). Agency action is "arbitrary or capricious" if there is no support in the record for the action which is therefore "'wilful and unreasoning action, in disregard of facts and circumstances.'" Northern Pac. Transp. Co. v. State Util. & Transp. Comm'n, 69 Wn.2d 472, 478, 418 P.2d 735 (1966). Under the more rigorous "clearly erroneous" standard agency action may be reversed where the reviewing court is firmly convinced that a mistake has been committed, even though there is evidence supporting the action. Ancheta v. Daly, 77 Wn.2d 255, 260, 461 P.2d 531 (1969). The existence of such a mistake must be considered by the court in light of the policy contained in the authorizing statute, which is made part of the standard of review by RCW 34.04-.130(6)(e). Schuffenhauer v. Department of Employment Security, 86 Wn.2d 233, 235, 543 P.2d 343 (1975). Under neither standard may a court, simply substitute its judgment for that of the agency. Farm Supply Distribs., Inc. v. State Util. & Transp. Comm'n, 83 Wn.2d 446, 449, 518 P.2d 1237 (1974).
+On appeal, this court's review is governed by all applicable standards of review, not only by that applied by the court below, since this court reviews the administrative action and record independently. Ancheta v. Daly, 77 Wn.2d 255, 461 P.2d 531 (1969). There is evidence in the record that the Liquor Control Board inspector stood within 2 feet of the dancer and had a clear opportunity to observe her performance for a period of 1 1/2 minutes. The management made no effort to approach the dancer during her performance to request that she discontinue. After reviewing the entire record before us, we are not left with a definite and firm conviction that a mistake had been made nor that the Board took willful and unreasoning action in disregard of the facts and circumstances.
+Issue 2.
+Next, Reeb argues there was no evidence that the conduct in question was permitted by the Bavarian Gardens. No evidence was submitted that Reeb's employees tried to stop the conduct of the go-go dancer, although Reeb did introduce evidence that it had established a procedure to police its dancers and had previously fired a number of employees when their conduct became questionable. However commendable these measures are, they do not excuse the violation of the rule to the extent described in the Board's findings of fact. The word "permit" as used in the regulation does not imply that the licensee must have permanently sanctioned the prohibited act; it refers to the licensee's actual or constructive knowledge of the circumstances which would foreseeably lead to the prohibited activity. See Boyce v. Adams, 87 Wn.2d 56, 549 P.2d 18 (1976). Reeb was aware of the propensity of its dancers to engage in questionable conduct and chose nevertheless to maintain topless dancing on its licensed premises. Under these circumstances, the Board could find that Reeb permitted the conduct in violation of WAC 314-16-125(3) and (5). This violation is sufficient to support the 7-day license suspension imposed by the Board.
+Judgment affirmed.
+Swanson, A.C.J., and James, J., concur.
+Reconsideration denied October 18, 1979.
