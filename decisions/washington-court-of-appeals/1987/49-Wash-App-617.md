@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "17210-7-I"
 decided: "1987-08-24"
-citations: ["49 Wash. App. 617", "49 Wash. App. 1009"]
+citations: ["49 Wash. App. 617"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Seattle Taxi, Inc., Appellant, v. King County, Respondent."]
 source_url: "https://static.case.law/wash-app/49/cases/0617-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1739169
-cites_cases: ["100 Wn.2d 232", "34 Wn. App. 210", "419 P.2d 993", "45 Wn. App. 832", "49 Wn. App. 617", "508 P.2d 149", "559 P.2d 991", "579 P.2d 359", "660 P.2d 764", "668 P.2d 1266", "69 Wn.2d 712", "727 P.2d 995", "82 Wn.2d 94", "88 Wn.2d 200", "90 Wn.2d 89"]
+cites_cases: ["100 Wn.2d 232", "34 Wn. App. 210", "419 P.2d 993", "45 Wn. App. 832", "508 P.2d 149", "559 P.2d 991", "579 P.2d 359", "660 P.2d 764", "668 P.2d 1266", "69 Wn.2d 712", "727 P.2d 995", "82 Wn.2d 94", "88 Wn.2d 200", "90 Wn.2d 89"]
 ---
 
 # Seattle Taxi, Inc. v. King County
