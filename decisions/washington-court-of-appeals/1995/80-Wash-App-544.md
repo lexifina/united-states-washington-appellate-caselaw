@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13977-8-III"
 decided: "1995-12-28"
-citations: ["80 Wash. App. 544", "80 Wash. App. 1014"]
+citations: ["80 Wash. App. 544"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Robert Lee Henry, Appellant."
 source_url: "https://static.case.law/wash-app/80/cases/0544-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 420829
-cites_cases: ["102 Wn.2d 733", "104 Wn.2d 1022", "107 Wn.2d 1012", "118 Wn.2d 1007", "123 Wn.2d 1028", "124 Wn.2d 107", "125 Wn.2d 1003", "128 Wn.2d 1019", "392 U.S. 1", "41 Wn. App. 506", "44 Wn. App. 485", "457 U.S. 687", "46 Wn. App. 388", "59 Wn. App. 23", "61 Wn. App. 626", "617 P.2d 429", "66 Wn. App. 706", "689 P.2d 1065", "705 P.2d 271", "71 Wn. App. 873", "723 P.2d 443", "73 Wn. App. 844", "731 P.2d 1101", "76 Wn. App. 726", "78 Wn. App. 239", "795 P.2d 739", "80 Wn. App. 544", "811 P.2d 241", "833 P.2d 421", "863 P.2d 75", "871 P.2d 656", "874 P.2d 160", "887 P.2d 492", "896 P.2d 747", "94 Wn.2d 437"]
+cites_cases: ["102 Wn.2d 733", "104 Wn.2d 1022", "107 Wn.2d 1012", "118 Wn.2d 1007", "123 Wn.2d 1028", "124 Wn.2d 107", "125 Wn.2d 1003", "128 Wn.2d 1019", "392 U.S. 1", "41 Wn. App. 506", "44 Wn. App. 485", "457 U.S. 687", "46 Wn. App. 388", "59 Wn. App. 23", "61 Wn. App. 626", "617 P.2d 429", "66 Wn. App. 706", "689 P.2d 1065", "705 P.2d 271", "71 Wn. App. 873", "723 P.2d 443", "73 Wn. App. 844", "731 P.2d 1101", "76 Wn. App. 726", "78 Wn. App. 239", "795 P.2d 739", "811 P.2d 241", "833 P.2d 421", "863 P.2d 75", "871 P.2d 656", "874 P.2d 160", "887 P.2d 492", "896 P.2d 747", "94 Wn.2d 437"]
 ---
 
 # State v. Henry
