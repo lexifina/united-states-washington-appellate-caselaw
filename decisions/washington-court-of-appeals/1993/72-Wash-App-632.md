@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29484-9-I"
 decided: "1993-12-13"
-citations: ["72 Wash. App. 632", "72 Wash. App. 1003"]
+citations: ["72 Wash. App. 632"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Carol J. Krivanek, as Personal Representative, Appellant, v. Fibreboa
 source_url: "https://static.case.law/wash-app/72/cases/0632-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1741795
-cites_cases: ["112 Wn.2d 145", "117 Wn.2d 1006", "12 Wn. App. 203", "120 Wn.2d 246", "124 Wn.2d 1005", "404 P.2d 997", "529 P.2d 17", "58 Wn. App. 649", "60 Wn. App. 466", "638 P.2d 566", "66 Wn.2d 738", "72 Wn. App. 632", "768 P.2d 998", "773 P.2d 420", "794 P.2d 554", "803 P.2d 1329", "804 P.2d 659", "840 P.2d 860", "96 Wn.2d 659"]
+cites_cases: ["112 Wn.2d 145", "117 Wn.2d 1006", "12 Wn. App. 203", "120 Wn.2d 246", "124 Wn.2d 1005", "404 P.2d 997", "529 P.2d 17", "58 Wn. App. 649", "60 Wn. App. 466", "638 P.2d 566", "66 Wn.2d 738", "768 P.2d 998", "773 P.2d 420", "794 P.2d 554", "803 P.2d 1329", "804 P.2d 659", "840 P.2d 860", "96 Wn.2d 659"]
 ---
 
 # Krivanek v. Fibreboard Corp.
