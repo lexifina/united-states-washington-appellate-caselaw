@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31019-8-II"
 decided: "2005-01-04"
-citations: ["125 Wash. App. 837", "125 Wash. App. 1002"]
+citations: ["125 Wash. App. 837"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Daniel J. Rushing, Appellant, v. ALCOA, Inc., et al., Respondents."]
 source_url: "https://static.case.law/wash-app/125/cases/0837-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270397
-cites_cases: ["102 Wn.2d 422", "117 Wn.2d 128", "121 Wn. App. 352", "125 Wn. App. 837", "290 P.2d 718", "425 P.2d 887", "47 Wn.2d 893", "61 Wn. App. 385", "656 P.2d 1030", "686 P.2d 483", "70 Wn.2d 988", "810 P.2d 1363", "814 P.2d 629", "88 P.3d 432", "98 Wn.2d 434"]
+cites_cases: ["102 Wn.2d 422", "117 Wn.2d 128", "121 Wn. App. 352", "290 P.2d 718", "425 P.2d 887", "47 Wn.2d 893", "61 Wn. App. 385", "656 P.2d 1030", "686 P.2d 483", "70 Wn.2d 988", "810 P.2d 1363", "814 P.2d 629", "88 P.3d 432", "98 Wn.2d 434"]
 ---
 
 # Rushing v. ALCOA, Inc.
