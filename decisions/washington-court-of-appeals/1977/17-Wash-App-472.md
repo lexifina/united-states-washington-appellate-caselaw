@@ -1,0 +1,42 @@
+---
+court: "Washington Court of Appeals"
+docket: "1536-3"
+decided: "1977-05-03"
+citations: ["17 Wash. App. 472"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["In the Matter of the Estate of Robert D. Reynolds. Linda D. Reynolds, Appellant, v. Central Life Assurance Company, et al, Respondents."]
+source_url: "https://static.case.law/wash-app/17/cases/0472-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1774222
+cites_cases: ["105 P.2d 122", "283 P.2d 119", "287 P.2d 334", "296 P.2d 317", "40 Cal. App. 2d 550", "424 P.2d 910", "46 Wash. 2d 587", "47 Wn.2d 291", "48 Wn.2d 680", "491 P.2d 238", "5 Wn. App. 747", "534 F.2d 1155", "560 P.2d 353", "70 A.L.R.3d 344", "70 Wash. 2d 694", "88 Wn.2d 331", "90 Idaho 182", "95 Idaho 628"]
+---
+
+# Reynolds v. Central Life Assurance Co.
+
+## Majority (Munson, C.J.)
+
+Munson, C.J.
+The sole issue in this case is whether the deceased's former wife or his children are entitled to the life insurance proceeds. The trial court granted summary judgment in favor of the children's guardian ad litem and dismissed the wife's complaint.
+Linda Reynolds and Robert Reynolds, the deceased, were married December 27, 1960, and had two children by that marriage. A default decree of dissolution was entered March 15, 1974, and provided in part:
+It Is Further Ordered, Adjudged and Decreed that respondent is required to pay to the petioner [sic] the sum of $125.00 per month per child for child support until said children attain the age of majority or are sooner self-supporting or emancipated.
+and awarded to Robert Reynolds, as his separate property: "Three life insurance policies insuring the life of husband with Central Life Insurance Co." In addition, the decree ordered that the husband be:
+required to maintain all existing life insurance policies insuring his life for the benefit of the minor children until said minor children attain the age of majority or are sooner self-supporting or emancipated.
+Robert Reynolds died unexpectedly in a fire on April 21, 1974, without having changed the named beneficiary, Linda Reynolds, on these three policies. The decedent's sister petitioned for letters of administration and obtained possession of the three policies, placing them in trust for the two children. Linda Reynolds commenced a separate action against the insurer, claiming the proceeds from these policies as the named beneficiary. The insurer sought, and was successful in obtaining, a guardian ad litem for the children. The guardian ad litem commenced an action against the estate for the insurance proceeds; the insurer paid the proceeds into the court; the court consolidated the actions, and both the guardian ad litem and Linda Reynolds moved for summary judgment in their favor. The court awarded the proceeds to the guardian ad litem.
+Linda Reynolds appeals, contending that it was the decedent's intent that she be the recipient of the proceeds in her own right (not as a natural guardian of the children) or, in the alternative, that the funds were part of the deceased's estate. As noted in Beneficial Life Ins. Co. v. Stoddard, 95 Idaho 628, 516 P.2d 187, 188, 70 A.L.R.3d 344 (1973):
+It is a general rule that when a husband names his wife as the beneficiary in a life insurance policy on his own life, and thereafter they are divorced but no change is made in the beneficiary, the mere fact of divorce does not affect the right of the named beneficiary to the proceeds of the insurance policy. United Benefit Life Ins. Co. v. Price, 46 Wash. 2d 587, 283, P.2d 119 (1955); Stokes v. McDowell, 70 Wash. 2d 694, 424 P.2d 910 (1967); 5 Couch on Insurance, § 29:4 at p. 266, (2d Ed. 1960); 2 Insurance Law and Practice, Appleman, § 804, at p. 250 (1966).
+The weight of competent authority, however, supports the proposition urged by respondent in the instant case that the beneficiary's interest in the policy may be terminated by a property settlement agreement which may reasonably be construed as a relinquishment of the spouse's rights to the insurance. This is true even though the insured does not remove the former spouse as the beneficiary under the policy. Koenig v. Bishop, 90 Idaho 182, 409 P.2d 102 (1965).
+Here there was a default divorce decree entered in compliance with Linda Reynold's petition. As noted in United Benefit Life Ins. Co. v. Price, 46 Wn.2d 587, 589, 283 P.2d 119 (1955), however:
+The decree operates not only to vest in the spouse designated the property awarded to him or her, but to divest the other spouse of all interest in the property so awarded, except as the decree may otherwise designate. By the terms of the decree in question, the husband was . . . awarded all policies of life insurance on his life,. . .
+. . . We consequently hold that by the decree she was divested of any interest she might have had as the beneficiary under the policy of insurance conceded to be community property and awarded to the husband.
+Thus, the facts in this case are distinguishable from Cowan v. Sullivan, 48 Wn.2d 680, 296 P.2d 317 (1956), and Northwestern Life Ins. Co. v. Perrigo, 47 Wn.2d 291, 287 P.2d 334 (1955), cited by Mrs. Reynolds, in that the divorce decree in those cases did not mention or dispose of the policies. Cf. Stephen v. Gallion, 5 Wn. App. 747, 491 P.2d 238 (1971). Here, the policies were specifically awarded to the husband. The insurance provision of the decree obviously was security for the payment of support and maintenance of the children. Had the father survived until the children reached the age of 18 or were sooner self-supporting, his support obligation would have terminated, and he would have been free to name any beneficiary he so desired. Until that time, however, the policies existed to provide the children's necessary support and maintenance in the event of his death.
+While it is argued on behalf of the respondent guardian ad litem that this decree is in the nature of an equitable assignment to these minor children, we do not reach that issue, although we recognize that there is support for that position. Chilwell v. Chilwell, 40 Cal. App. 2d 550, 105 P.2d 122 (1940), cited in United Benefit Life Ins. Co. v. Price, supra, and Murphy v. Travelers Ins. Co., 534 F.2d 1155 (5th Cir. 1976).
+Linda Reynolds also contends the court should not have stricken her affidavit in support of her motion for summary judgment and in contravention of the guardian ad litem's motion. Pertinent parts of the affidavit relate to conversations she had had with her husband pertaining to the insurance policies. These are clearly within the prohibition of RCW 5.60.030. Dwelley v. Chesterfield, 88 Wn.2d 331, 560 P.2d 353 (1977), and cases cited therein. Attached to her affidavit was a copy of an insurance application with this insurer dated February 11, 1974, which states in part:
+Applicant received policy in a business transaction from former employer. The existing policy has a loan against it and the insured does not wish to pay it off. He must carry $25000.00 of protection (under decree of divorce) and he wishes to replace existing policy with one that has no loans against it.
+The court properly struck this application; based on her personal knowledge, Linda Reynolds could not testify as to its contents, as required by CR 56(e). Furthermore, inasmuch as the application preceded the divorce, the court in its decree determined to whom the policies should be awarded and the conditions imposed thereon. We find no error.
+Linda Reynolds' contention that her motion for summary judgment should have been granted is not well taken. We find that no genuine issue of material fact existed and that the court properly granted the guardian's motion. Linda Reynolds is not in a position to contend that the court should have awarded the proceeds to the administrator of the decedent's estate; the administrator has not seen fit to appeal that ruling, and Linda Reynolds has no standing to make that contention.
+Judgment is affirmed.
+Green and McInturff, JJ., concur.
+The wife's petition for dissolution requested that the husband be: "required to maintain all existing life insurance policies insuring his life, with the children named as irrevocable beneficiaries thereon until said children attain age 18 or are sooner self-supporting or emancipated."
+This is an oversimplification of the procedural facts, but is sufficient for the purposes of the issues presented.
