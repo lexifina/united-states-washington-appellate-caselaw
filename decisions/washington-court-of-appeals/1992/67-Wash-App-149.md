@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28457-6-I"
 decided: "1992-07-27"
-citations: ["67 Wash. App. 149", "66 Wash. App. 1046"]
+citations: ["67 Wash. App. 149"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Steven Bruce Muir, Appellant.
 source_url: "https://static.case.law/wash-app/67/cases/0149-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1715287
-cites_cases: ["10 A.L.R.3d 974", "103 Wn.2d 1017", "105 Wn.2d 632", "107 Wn.2d 1033", "116 Wn.2d 1014", "117 Wn.2d 332", "15 Wn. App. 98", "20 Wn. App. 462", "37 Wn. App. 628", "384 U.S. 436", "387 U.S. 294", "389 U.S. 347", "39 Wn. App. 1", "395 U.S. 752", "435 F.2d 385", "436 U.S. 499", "44 Wn. App. 830", "506 P.2d 892", "53 Wn. App. 543", "54 Wn. App. 18", "547 P.2d 295", "58 Wn. App. 733", "581 P.2d 1371", "59 Wn. App. 586", "59 Wn. App. 606", "647 P.2d 489", "659 P.2d 1087", "67 Wn. App. 149", "683 P.2d 1110", "691 P.2d 587", "716 P.2d 295", "723 P.2d 534", "768 P.2d 502", "771 P.2d 770", "794 P.2d 1289", "799 P.2d 1188", "799 P.2d 1191", "8 Wn. App. 306", "815 P.2d 761", "82 Wn.2d 1002", "91 Wn.2d 1004", "97 Wn.2d 562", "99 Wn.2d 54"]
+cites_cases: ["10 A.L.R.3d 974", "103 Wn.2d 1017", "105 Wn.2d 632", "107 Wn.2d 1033", "116 Wn.2d 1014", "117 Wn.2d 332", "15 Wn. App. 98", "20 Wn. App. 462", "37 Wn. App. 628", "384 U.S. 436", "387 U.S. 294", "389 U.S. 347", "39 Wn. App. 1", "395 U.S. 752", "435 F.2d 385", "436 U.S. 499", "44 Wn. App. 830", "506 P.2d 892", "53 Wn. App. 543", "54 Wn. App. 18", "547 P.2d 295", "58 Wn. App. 733", "581 P.2d 1371", "59 Wn. App. 586", "59 Wn. App. 606", "647 P.2d 489", "659 P.2d 1087", "683 P.2d 1110", "691 P.2d 587", "716 P.2d 295", "723 P.2d 534", "768 P.2d 502", "771 P.2d 770", "794 P.2d 1289", "799 P.2d 1188", "799 P.2d 1191", "8 Wn. App. 306", "815 P.2d 761", "82 Wn.2d 1002", "91 Wn.2d 1004", "97 Wn.2d 562", "99 Wn.2d 54"]
 ---
 
 # State v. Muir
