@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "13649-3-III"
 decided: "1994-12-08"
-citations: ["76 Wash. App. 661", "76 Wash. App. 1038"]
+citations: ["76 Wash. App. 661"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Paul Kreager, Appellant, v. Washington State University, Respondent."
 source_url: "https://static.case.law/wash-app/76/cases/0661-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490104
-cites_cases: ["101 Wn.2d 68", "119 Wn.2d 1023", "65 Wn. App. 739", "658 P.2d 648", "677 P.2d 114", "76 Wn. App. 661", "829 P.2d 1109", "98 Wn.2d 690"]
+cites_cases: ["101 Wn.2d 68", "119 Wn.2d 1023", "65 Wn. App. 739", "658 P.2d 648", "677 P.2d 114", "829 P.2d 1109", "98 Wn.2d 690"]
 ---
 
 # Kreager v. Washington State University
