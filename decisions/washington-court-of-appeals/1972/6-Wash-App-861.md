@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "356-3"
 decided: "1972-04-05"
-citations: ["6 Wash. App. 861", "6 Wash. App. 1012"]
+citations: ["6 Wash. App. 861"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
