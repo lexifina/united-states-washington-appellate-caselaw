@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53036-4-I"
 decided: "2004-12-13"
-citations: ["125 Wash. App. 50", "124 Wash. App. 1034"]
+citations: ["125 Wash. App. 50"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ronnie A. Childs, Appellant, v. Barbara Allen, et al., Respondents."]
 source_url: "https://static.case.law/wash-app/125/cases/0050-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1270402
-cites_cases: ["1 P.3d 1148", "102 Wn. App. 742", "103 Wn.2d 768", "113 Wn. App. 770", "113 Wn.2d 123", "116 Wn.2d 596", "125 Wn. App. 50", "129 Wn.2d 320", "136 Wn.2d 888", "141 Wn.2d 68", "155 Wn.2d 1005", "349 P.2d 215", "50 Wn. App. 849", "54 P.3d 743", "55 Wn.2d 639", "698 P.2d 77", "751 P.2d 854", "776 P.2d 666", "809 P.2d 143", "83 Wn. App. 263", "89 Wn. App. 569", "9 P.3d 927", "917 P.2d 100", "921 P.2d 1066", "950 P.2d 20", "969 P.2d 64"]
+cites_cases: ["1 P.3d 1148", "102 Wn. App. 742", "103 Wn.2d 768", "113 Wn. App. 770", "113 Wn.2d 123", "116 Wn.2d 596", "129 Wn.2d 320", "136 Wn.2d 888", "141 Wn.2d 68", "155 Wn.2d 1005", "349 P.2d 215", "50 Wn. App. 849", "54 P.3d 743", "55 Wn.2d 639", "698 P.2d 77", "751 P.2d 854", "776 P.2d 666", "809 P.2d 143", "83 Wn. App. 263", "89 Wn. App. 569", "9 P.3d 927", "917 P.2d 100", "921 P.2d 1066", "950 P.2d 20", "969 P.2d 64"]
 ---
 
 # Childs v. Allen
