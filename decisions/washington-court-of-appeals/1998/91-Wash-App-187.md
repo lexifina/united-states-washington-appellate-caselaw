@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39630-7-I"
 decided: "1998-05-04"
-citations: ["91 Wash. App. 187", "90 Wash. App. 1043"]
+citations: ["91 Wash. App. 187"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Petitioner, v. Timothy G. Dolson, Respondent
 source_url: "https://static.case.law/wash-app/91/cases/0187-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1681577
-cites_cases: ["104 Wn.2d 211", "114 Wn.2d 1021", "114 Wn.2d 1025", "123 Wn.2d 376", "133 Wn.2d 523", "137 Wn.2d 1001", "16 Wn. App. 77", "339 U.S. 306", "402 U.S. 535", "43 Wn. App. 326", "49 Wn. App. 778", "553 P.2d 1110", "56 Wn. App. 603", "56 Wn. App. 725", "62 Wn. App. 608", "704 P.2d 591", "717 P.2d 277", "745 P.2d 1335", "784 P.2d 1280", "785 P.2d 470", "814 P.2d 1197", "868 P.2d 861", "91 Wn. App. 187", "94 L. Ed. 865", "946 P.2d 783"]
+cites_cases: ["104 Wn.2d 211", "114 Wn.2d 1021", "114 Wn.2d 1025", "123 Wn.2d 376", "133 Wn.2d 523", "137 Wn.2d 1001", "16 Wn. App. 77", "339 U.S. 306", "402 U.S. 535", "43 Wn. App. 326", "49 Wn. App. 778", "553 P.2d 1110", "56 Wn. App. 603", "56 Wn. App. 725", "62 Wn. App. 608", "704 P.2d 591", "717 P.2d 277", "745 P.2d 1335", "784 P.2d 1280", "785 P.2d 470", "814 P.2d 1197", "868 P.2d 861", "94 L. Ed. 865", "946 P.2d 783"]
 ---
 
 # State v. Dolson
