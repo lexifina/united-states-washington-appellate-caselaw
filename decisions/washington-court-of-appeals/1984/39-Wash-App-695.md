@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11742-4-I"
 decided: "1984-12-19"
-citations: ["39 Wash. App. 695", "39 Wash. App. 1027"]
+citations: ["39 Wash. App. 695"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Katherine Jean Fernau, Respondent, a
 source_url: "https://static.case.law/wash-app/39/cases/0695-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1794513
-cites_cases: ["101 Wn.2d 168", "15 Wn. App. 792", "17 Wn. App. 110", "30 Wn. App. 908", "34 Wn. App. 643", "39 Wn. App. 695", "458 P.2d 556", "552 P.2d 83", "561 P.2d 1116", "575 P.2d 201", "639 P.2d 225", "663 P.2d 164", "665 P.2d 883", "677 P.2d 152", "76 Wn.2d 703", "89 Wn.2d 592", "99 Wn.2d 913"]
+cites_cases: ["101 Wn.2d 168", "15 Wn. App. 792", "17 Wn. App. 110", "30 Wn. App. 908", "34 Wn. App. 643", "458 P.2d 556", "552 P.2d 83", "561 P.2d 1116", "575 P.2d 201", "639 P.2d 225", "663 P.2d 164", "665 P.2d 883", "677 P.2d 152", "76 Wn.2d 703", "89 Wn.2d 592", "99 Wn.2d 913"]
 ---
 
 # In re the Marriage of Fernau
