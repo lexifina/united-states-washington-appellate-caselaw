@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "11800-2-III"
 decided: "1994-12-20"
-citations: ["76 Wash. App. 705", "76 Wash. App. 1047"]
+citations: ["76 Wash. App. 705"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Suzanne K. Graves, Appellant, v. The Department of Game, et al, Respo
 source_url: "https://static.case.law/wash-app/76/cases/0705-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 490146
-cites_cases: ["103 Wn.2d 401", "105 Wn.2d 1005", "107 Wn.2d 1017", "112 Wn.2d 1027", "114 Wn.2d 613", "114 Wn.2d 907", "118 Wn.2d 46", "118 Wn.2d 512", "118 Wn.2d 79", "119 Wn.2d 251", "124 Wn.2d 158", "20 Wn. App. 406", "23 Wn. App. 265", "42 Wn. App. 214", "45 Wn. App. 469", "498 U.S. 1046", "53 Wn. App. 203", "581 P.2d 1060", "59 Wn. App. 624", "594 P.2d 1386", "66 Wn. App. 829", "685 F.2d 1149", "693 P.2d 708", "7 A.L.R.5th 1014", "709 P.2d 1247", "726 P.2d 468", "76 Wn. App. 705", "765 P.2d 1341", "790 P.2d 610", "792 P.2d 520", "799 P.2d 1195", "821 P.2d 18", "821 P.2d 34", "826 P.2d 664", "830 P.2d 646", "832 P.2d 1378", "876 P.2d 435", "92 Wn.2d 1023"]
+cites_cases: ["103 Wn.2d 401", "105 Wn.2d 1005", "107 Wn.2d 1017", "112 Wn.2d 1027", "114 Wn.2d 613", "114 Wn.2d 907", "118 Wn.2d 46", "118 Wn.2d 512", "118 Wn.2d 79", "119 Wn.2d 251", "124 Wn.2d 158", "20 Wn. App. 406", "23 Wn. App. 265", "42 Wn. App. 214", "45 Wn. App. 469", "498 U.S. 1046", "53 Wn. App. 203", "581 P.2d 1060", "59 Wn. App. 624", "594 P.2d 1386", "66 Wn. App. 829", "685 F.2d 1149", "693 P.2d 708", "7 A.L.R.5th 1014", "709 P.2d 1247", "726 P.2d 468", "765 P.2d 1341", "790 P.2d 610", "792 P.2d 520", "799 P.2d 1195", "821 P.2d 18", "821 P.2d 34", "826 P.2d 664", "830 P.2d 646", "832 P.2d 1378", "876 P.2d 435", "92 Wn.2d 1023"]
 ---
 
 # Graves v. Department of Game
