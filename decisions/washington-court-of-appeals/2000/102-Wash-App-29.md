@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43805-1-I"
 decided: "2000-05-22"
-citations: ["102 Wash. App. 29", "100 Wash. App. 1063"]
+citations: ["102 Wash. App. 29"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Albertson’s, Inc., Appellant, v. The Employment Security Department
 source_url: "https://static.case.law/wash-app/102/cases/0029-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1301289
-cites_cases: ["102 Wn. App. 29", "122 Wn.2d 397", "134 Wn.2d 413", "137 Wn.2d 1036", "179 P.2d 707", "27 Wn.2d 641", "29 Wn. App. 344", "31 Wn. App. 675", "461 P.2d 531", "525 So. 2d 1330", "628 P.2d 500", "644 P.2d 154", "71 Wn. App. 120", "77 Wn. App. 838", "77 Wn.2d 255", "82 Wn. App. 646", "857 P.2d 1053", "858 P.2d 494", "87 Wn. App. 197", "87 Wn. App. 634", "89 Wn. App. 128", "894 P.2d 1352", "920 P.2d 192", "93 Wn. App. 140", "93 Wn. App. 21", "940 P.2d 269", "942 P.2d 1040", "947 P.2d 1271", "951 P.2d 250", "96 Wn. App. 129", "966 P.2d 1282", "966 P.2d 399", "978 P.2d 543"]
+cites_cases: ["122 Wn.2d 397", "134 Wn.2d 413", "137 Wn.2d 1036", "179 P.2d 707", "27 Wn.2d 641", "29 Wn. App. 344", "31 Wn. App. 675", "461 P.2d 531", "525 So. 2d 1330", "628 P.2d 500", "644 P.2d 154", "71 Wn. App. 120", "77 Wn. App. 838", "77 Wn.2d 255", "82 Wn. App. 646", "857 P.2d 1053", "858 P.2d 494", "87 Wn. App. 197", "87 Wn. App. 634", "89 Wn. App. 128", "894 P.2d 1352", "920 P.2d 192", "93 Wn. App. 140", "93 Wn. App. 21", "940 P.2d 269", "942 P.2d 1040", "947 P.2d 1271", "951 P.2d 250", "96 Wn. App. 129", "966 P.2d 1282", "966 P.2d 399", "978 P.2d 543"]
 ---
 
 # Albertson's, Inc. v. Employment Security Department
