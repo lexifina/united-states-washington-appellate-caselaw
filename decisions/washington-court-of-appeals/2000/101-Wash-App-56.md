@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "18362-9-III"
 decided: "2000-04-18"
-citations: ["101 Wash. App. 56", "100 Wash. App. 1034"]
+citations: ["101 Wash. App. 56"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Kathy Kay Balcom, Respondent, and Ti
 source_url: "https://static.case.law/wash-app/101/cases/0056-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 1170544
-cites_cases: ["101 Wn. App. 56", "137 Wash. 448", "137 Wn.2d 979", "242 P. 969", "32 Gonz. L. Rev. 1", "976 P.2d 1240"]
+cites_cases: ["137 Wash. 448", "137 Wn.2d 979", "242 P. 969", "32 Gonz. L. Rev. 1", "976 P.2d 1240"]
 ---
 
 # In re the Marriage of Balcom
