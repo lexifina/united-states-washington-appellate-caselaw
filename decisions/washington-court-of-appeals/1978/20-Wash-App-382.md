@@ -1,0 +1,53 @@
+---
+court: "Washington Court of Appeals"
+docket: "5469-1"
+decided: "1978-06-08"
+citations: ["20 Wash. App. 382"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Appellant, v. Clarence Melvin Scott, Respondent."]
+source_url: "https://static.case.law/wash-app/20/cases/0382-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 464597
+cites_cases: ["11 Wn. App. 481", "110 P. 15", "13 Wn. App. 98", "14 Wn. App. 939", "15 A.L.R. Fed. 193", "15 Wn. App. 559", "261 F. Supp. 289", "3 Wn. App. 387", "335 U.S. 601", "342 P.2d 612", "370 P.2d 979", "475 P.2d 564", "500 P.2d 91", "513 P.2d 60", "523 P.2d 942", "527 P.2d 674", "533 P.2d 852", "54 Wn.2d 489", "546 P.2d 1230", "550 P.2d 699", "59 Wash. 460", "59 Wn.2d 788", "81 Wn.2d 132", "82 Wn.2d 663", "84 Wn.2d 498", "93 L. Ed. 266"]
+---
+
+# State v. Scott
+
+## Majority (Ringold, J.)
+
+Ringold, J.
+On January 3,1974, Clarence Scott pleaded guilty to a charge of second-degree burglary. King County Superior Court Judge Norman Ackley sentenced him to 15 years imprisonment, suspended on certain conditions including abstention from the use of drugs. When Scott pleaded guilty to possession of heroin on January 26, 1977, the State moved for revocation of his probation. The court initially granted the State's motion, but on its own motion after the entry of the judgment and sentence of conviction, tHe court modified its ruling and put Scott on probation for both offenses. The State appeals from this modification.
+Facts
+On January 26, 1977, when Scott pleaded guilty to the heroin charge, the court granted a continuance to allow him to take urine tests at the Center for Addiction Services (CAS) to demonstrate that he was not taking drugs. At Scott's hearing for sentencing and revocation on February 16, 1977, it was disclosed that he had begun these tests only 2 days before. Scott explained that he had gone to CAS on the 28th of January and thereafter, but CAS would not administer the tests until certain paperwork was finished and it had not been possible to take the tests earlier.
+The court indicated that it had been unable to contact one Salvador Ramos at CAS. Another person at CAS had told the court over the telephone that there was nothing in their records indicating that Scott had come in earlier, and since Scott had only just taken the test the results were still at the lab. At the court's request the lab was called and its report was "positive for opiates on the one test that was given two days ago." Scott explained that the positive result was caused by codeine in a cold pill and his counsel then requested a continuance to clear the matter up. The court rejected this request, stating that "regardless of the . . . urine test" Scott's record supported revocation. It then sentenced on the heroin charge and revoked Scott's probation on the burglary charge, recommending concurrent sentences and a 3-year minimum.
+The next day, February 17, 1977, Ramos of CAS visited the judge and informed him that Scott had in fact been to CAS several times to make appointments, but it was not until February 14,1977, that CAS had been able to give the test. Ramos also stated that only one part of the test had indicated positive and it could have been the codeine that caused it.
+The court on its own accord set a motion for reconsideration of its judgment and sentence. It stated that it had earlier believed Scott was giving "the usual runaround that we get from so many heroin addicts who give all kinds of excuses," and "I thought he was just trying to get out of taking them and going in at the last minute so that the court wouldn't get the results of those tests." The court then agreed to modify its previous judgment and sentence, putting Scott on probation for both offenses. It indicated that it was acting under its inherent power to reconsider a decision based on "erroneous and incomplete" information. The court stated:
+I think [this is] a discretionary matter, and had the correct information been conveyed to me by [CAS], I would not have reached the result I did on January [sic] 17th.
+The State argues that State v. Sampson, 82 Wn.2d 663, 513 P.2d 60 (1973) and RCW 4.72.010 control, and that the court lost jurisdiction to modify in the absence of any indication that one of the statutory grounds for modification or vacation of judgments was present. Scott responds that CR 60(b) authorized the court's action in this case.
+In State v. Sampson, supra, it was held that RCW 4.72-.010 provides the exclusive grounds for modifying or vacating a judgment in a criminal case. RCW 4.72.010 provides:
+The superior court in which a judgment or final order has been rendered, or made, shall have power to vacate or modify such judgment or order:
+(1) By granting a new trial for the cause, within the time and in the manner, and for any of the causes prescribed by the rules of court relating to new trials.
+(2) By a new trial granted in proceedings against defendant served by publication only as prescribed in RCW 4.28.200.
+(3) For mistakes, neglect or omission of the clerk, or irregularity in obtaining a judgment or order.
+(4) For fraud practiced by the successful party in obtaining the judgment or order.
+(5) For erroneous proceedings against a minor or person of unsound mind, when the condition of such defendant does not appear in the record, nor the error, in the proceedings.
+(6) For the death of one of the parties before the judgment in the action.
+(7) For unavoidable casualty, or misfortune preventing the party from prosecuting or defending.
+(8) For error in a judgment shown by a minor, within twelve months after arriving at full age.
+None of these grounds applies to this case. Nevertheless we believe the court acted within its authority.
+In State v. Sampson, supra, the Supreme Court attempted to resolve an ongoing controversy whether RCW 4.72.010, a civil procedure statute, applied to criminal cases. After noting the controversy, it stated: "Nonetheless, in State v. Price, 59 Wn.2d 788, 370 P.2d 979 (1962), we explicitly said that the statutes relative to vacation of judgment apply to both civil and criminal cases." State v. Sampson, supra at 665.
+Decision
+The applicability of CP 60(b) to the vacation of judgments in criminal cases was not considered in State v. Sampson, supra That rule had the effect of superseding RCW 4.72.010 to the extent that the statute covered relief from judgments. See CR 60(b), comment by the court; Commercial Courier Serv., Inc. v. Miller, 13 Wn. App. 98, 533 P.2d 852 (1975). If the civil procedure statute, RCW 4.72.010, applies to both civil and criminal cases then CR 60(b), which supersedes it, should also apply to both. Although State v. Sampson, supra, cites and relies on both civil and criminal cases as though the rule is the same in both instances, it was not argued in that case that any of the grounds of CR 60(b) might apply.
+By incorporating the provisions of RCW 4.72.010 into CR 60(b) the Supreme Court intended CR 60(b) to be the exclusive basis for modifying or vacating final judgments in both civil and criminal cases. Commercial Courier Serv., Inc. v. Miller, supra; State v. Sampson, supra. In addition to all the grounds of RCW 4.72.010, CR 60(b) provides that the court may relieve a party from a final judgment for: " (11) Any other reason justifying relief from the operation of the judgment."
+We are unable to discover any Washington cases construing subsection (11). This subsection follows Fed. R. Civ. P. 60(b), see CR 60(b), comment by the court; where a federal court rule has been adopted as the state rule, the construction of the former should be applied to the latter. Harding v. Will, 81 Wn.2d 132, 500 P.2d 91 (1972); In re Green, 14 Wn. App. 939, 546 P.2d 1230 (1976); Eberle v. Sutor, 3 Wn. App. 387, 475 P.2d 564 (1970).
+Federal, cases considering the application of subsection (11) have held that there must be "extraordinary circumstances" not covered by any other section of the rule. Klapprott v. United States, 335 U.S. 601, 93 L. Ed. 266, 69 S. Ct. 384 (1949). It has been interpreted to allow a court to reopen a case to hear additional evidence not presented at the first hearing "because the Court wishes to consider all relevant evidence." Chicago & E. Ill. R.R. v. Illinois C. R.R., 261 F. Supp. 289, 305 (N.D. Ill. 1966). In the foregoing federal case the court initially believed that evidence at a hearing made further hearings unnecessary and made a final judgment. It was later discovered that one party had not presented all available evidence believing that there would be a second hearing. Fed. R. Civ. P. 60(b)(6) (identical to CR 60(b)(11)) permitted vacation. This holding supports the court's action in this case. See Annot., 15 A.L.R. Fed. 193.
+Vacation or modification of a judgment on the grounds set forth in CR 60(b) lies within the discretion of the trial court. United Pac. Ins. Co. v. Discount Co., 15 Wn. App. 559, 550 P.2d 699 (1976). The State has not shown an abuse of discretion. The court indicated that if it had been given the correct information over the phone it would not have made its initial decision. The court properly exercised its discretionary power.
+Affirmed.
+Farris, C.J., and James, J., concur.
+Reconsideration denied August 22,1978.
+Review granted by Supreme Court December 14,1978.
+Scott argues that section 3 or section 7 applies. While there is authority that' section 3 allows modification for a mistake of fact, National Bank of Commerce v. L. Kilsheimer & Co., 59 Wash. 460, 110 P. 15 (1910), more recent cases have held that mistake of fact is not a ground under RCW 4.72.010. See Handley v. Mortland, 54 Wn.2d 489, 342 P.2d 612 (1959). "Irregularities in obtaining judgment" have been held to mean those irregularities relating to want of adherence to some prescribed rule or mode of proceeding. State v. Price, 59 Wn.2d 788, 370 P.2d 979 (1962). It strains the language of section 7 to apply it to something other than an accident or disease or natural catastrophe preventing the appearance of a party or his witness.
+The Supreme Court has authority to alter procedural statutes by court rule, and statutes which conflict with such rules are of no effect. State v. Smith, 84 Wn.2d 498, 527 P.2d 674 (1974). CR 60(b) was adopted in 1967, superseding much of RCW 4.72.010.
+Other civil rules concerning orders and judgments apply to both civil and criminal cases. Seattle v. Sage, 11 Wn. App. 481, 523 P.2d 942 (1974).
