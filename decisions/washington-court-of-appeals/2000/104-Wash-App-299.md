@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24560-4-II"
 decided: "2000-12-01"
-citations: ["104 Wash. App. 299", "103 Wash. App. 1036"]
+citations: ["104 Wash. App. 299"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Maplewood Estates, Inc., Respondent, v. The Department of Labor and I
 source_url: "https://static.case.law/wash-app/104/cases/0299-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 700415
-cites_cases: ["101 Wn. App. 350", "104 Wn. App. 299", "123 Wn.2d 641", "125 Wn.2d 196", "133 Wn.2d 769", "139 Wn.2d 1017", "139 Wn.2d 1021", "140 Wn.2d 368", "3 P.3d 756", "513 P.2d 36", "613 P.2d 115", "74 Wn. App. 420", "77 Wn. App. 154", "82 Wn.2d 475", "870 P.2d 313", "873 P.2d 583", "884 P.2d 910", "890 P.2d 25", "93 Wn.2d 742", "94 Wn. App. 306", "947 P.2d 732", "95 Wn. App. 653", "95 Wn. App. 858", "96 Wn. App. 662", "972 P.2d 491", "975 P.2d 567", "976 P.2d 185", "980 P.2d 794", "998 P.2d 818"]
+cites_cases: ["101 Wn. App. 350", "123 Wn.2d 641", "125 Wn.2d 196", "133 Wn.2d 769", "139 Wn.2d 1017", "139 Wn.2d 1021", "140 Wn.2d 368", "3 P.3d 756", "513 P.2d 36", "613 P.2d 115", "74 Wn. App. 420", "77 Wn. App. 154", "82 Wn.2d 475", "870 P.2d 313", "873 P.2d 583", "884 P.2d 910", "890 P.2d 25", "93 Wn.2d 742", "94 Wn. App. 306", "947 P.2d 732", "95 Wn. App. 653", "95 Wn. App. 858", "96 Wn. App. 662", "972 P.2d 491", "975 P.2d 567", "976 P.2d 185", "980 P.2d 794", "998 P.2d 818"]
 ---
 
 # Maplewood Estates, Inc. v. Department of Labor & Industries
