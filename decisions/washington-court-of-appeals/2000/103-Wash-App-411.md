@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44982-6-I"
 decided: "2000-09-18"
-citations: ["103 Wash. App. 411", "102 Wash. App. 1041"]
+citations: ["103 Wash. App. 411"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Silver Firs Town Homes, Inc., et al., Appellants, v. Silver Lake Wate
 source_url: "https://static.case.law/wash-app/103/cases/0411-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 102639
-cites_cases: ["100 Wn. App. 208", "103 Wn. App. 411", "107 Wn.2d 359", "118 Wn.2d 133", "118 Wn.2d 801", "120 Wn.2d 140", "120 Wn.2d 394", "123 Wn.2d 573", "125 Wn.2d 337", "127 Wn.2d 544", "128 Wn.2d 40", "135 Wn.2d 658", "138 Wn.2d 561", "143 Wn.2d 1013", "186 Wash. 378", "42 U.S.C. § 1983", "45 Wn. App. 123", "459 P.2d 633", "503 P.2d 1068", "58 P.2d 350", "580 P.2d 246", "63 Wn. App. 159", "65 Wn. App. 856", "724 P.2d 1083", "729 P.2d 42", "77 Wn.2d 94", "81 Wn.2d 618", "816 P.2d 1268", "821 P.2d 482", "828 P.2d 549", "829 P.2d 1136", "839 P.2d 324", "84 Wn. App. 214", "842 P.2d 938", "870 P.2d 299", "883 P.2d 1383", "90 Wn.2d 123", "901 P.2d 1028", "905 P.2d 338", "928 P.2d 1119", "958 P.2d 301", "980 P.2d 1234", "99 Wn. App. 287", "992 P.2d 1045", "997 P.2d 399"]
+cites_cases: ["100 Wn. App. 208", "107 Wn.2d 359", "118 Wn.2d 133", "118 Wn.2d 801", "120 Wn.2d 140", "120 Wn.2d 394", "123 Wn.2d 573", "125 Wn.2d 337", "127 Wn.2d 544", "128 Wn.2d 40", "135 Wn.2d 658", "138 Wn.2d 561", "143 Wn.2d 1013", "186 Wash. 378", "42 U.S.C. § 1983", "45 Wn. App. 123", "459 P.2d 633", "503 P.2d 1068", "58 P.2d 350", "580 P.2d 246", "63 Wn. App. 159", "65 Wn. App. 856", "724 P.2d 1083", "729 P.2d 42", "77 Wn.2d 94", "81 Wn.2d 618", "816 P.2d 1268", "821 P.2d 482", "828 P.2d 549", "829 P.2d 1136", "839 P.2d 324", "84 Wn. App. 214", "842 P.2d 938", "870 P.2d 299", "883 P.2d 1383", "90 Wn.2d 123", "901 P.2d 1028", "905 P.2d 338", "928 P.2d 1119", "958 P.2d 301", "980 P.2d 1234", "99 Wn. App. 287", "992 P.2d 1045", "997 P.2d 399"]
 ---
 
 # Silver Firs Town Homes, Inc. v. Silver Lake Water District
