@@ -1,0 +1,32 @@
+---
+court: "Washington Court of Appeals"
+docket: "1882-2"
+decided: "1977-04-20"
+citations: ["17 Wash. App. 368"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Zelmer L. Williams, Appellant."]
+source_url: "https://static.case.law/wash-app/17/cases/0368-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 1773951
+cites_cases: ["163 A.L.R. 1043", "244 F. Supp. 261", "299 F.2d 625", "328 U.S. 293", "409 F.2d 635", "500 P.2d 115", "510 P.2d 1140", "6 Gonz. L. Rev. 187", "81 Wn.2d 95", "9 Wn. App. 59"]
+---
+
+# State v. Williams
+
+## Majority (Pearson, J.)
+
+Pearson, J.
+Defendant, Zelmer Williams, appeals from a conviction of fraudulent sale of securities and sale of unregistered securities. The issue on appeal is whether fractional patent interests and fractional royalty interests in a patent are "securities" within the meaning of The Securities Act of Washington, RCW 21.20. For the reasons stated below, we affirm.
+Defendant obtained a patent for a windshield wiper. In various transactions, he sold a 5 percent interest in the patent, as well as several royalty interests, each of which was less than 4 percent of the royalties. In the course of his dealings, defendant made misrepresentations to the purchasers, such as the existence of purchase orders for the new wiper. Additionally, defendant failed to register the patent and royalty interests as securities under The Securities Act of Washington.
+Defendant was charged with eight counts of fraudulent sale of securities in the form of patent and royalty interests, and one count of sale of unregistered securities, involving the same interests. Before trial and at the end of the State's case, defendant moved for dismissal on the ground that the patent and royalty interests were not subject to The Securities Act of Washington. All of the motions were denied, and after a trial to the court without a jury, the judge entered findings, conclusions, and a judgment of guilty on all counts. On appeal, defendant contends that his conviction was improper because the patent and royalty interests sold by defendant are not securities within the meaning of the act.
+The Securities Act of Washington, RCW 21.20, provides that it is a criminal offense to fraudulently sell a security, RCW 21.20.010 or to sell an unregistered security, RCW 21.20.140. RCW 21.20.400.
+A security, for purposes of the act, is defined in RCW 21.20.005(12). This definition is substantially identical to the definition of security in the federal Securities Act of 1933. Chapman v. Rudd Paint & Varnish Co., 409 F.2d 635 (9th Cir. 1969). The definition in RCW 21.20.005(12) was basically derived from the federal act. Rooks, The Blue Sky Law of Washington: Registration of Securities of a New Venture, 6 Gonz. L. Rev. 187-214, 198 n.69 (1971).
+When a state borrows federal legislation it also borrows the construction placed upon such legislation by the federal courts. State v. Carroll, 81 Wn.2d 95, 500 P.2d 115 (1972); Juanita Bay Valley Community Ass'n v. Kirkland, 9 Wn. App. 59, 510 P.2d 1140 (1973). Thus federal decisions construing the definition of "security" under the federal Securities Act of 1933 are pertinent to the construction of the same definition under the Washington act.
+Federal courts have held that royalty interests in patents are securities. In Nicewarner v. Bleavins, 244 F. Supp. 261 (D. Colo. 1965) the court held that a 1 percent patent royalty interest is a security under the federal Securities Act of 1933. The court emphasized the small size and speculative nature of such an interest. In United States v. Schaefer, 299 F.2d 625 (7th Cir. 1962), a criminal case, contracts assigning royalties and profits resulting from the sale or lease of patent rights were held to be securities under the federal Securities Act of 1933. These federal decisions hold that the small royalty and patent interests sold by promoters are securities for purposes of the federal statute. The reasoning of those decisions is persuasive in the construction of The Securities Act of Washington. The need for protection through disclosure, which is the dominant purpose of both the federal Securities Act of 1933 and The Securities Act of Washington, is as significant for patent and royalty interests as it is for other securities.
+We find no errors and therefore affirm.
+Petrie, C.J., and Reed, J., concur.
+RCW 21.20.005(12) provides:
+"'Security' means any note; stock; treasury stock; bond; debenture; evidence of indebtedness; certifícate of interest or participation in any profit-sharing agreement; collateral-trust certificate; preorganization certificate or subscription; transferable share; investment contract; voting-trust certificate; certificate of deposit for a security; certificate of interest or participation in an oil, gas or mining title or lease or in payments out of production under such a title or lease; or, in general any interest or instrument commonly known as a 'security', or any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase, any of the foregoing; or any sale of or indenture, bond or contract for the conveyance of land or any interest therein where such land is situated outside of the state of Washington and such sale or its offering is not conducted by a real estate broker licensed by the state of Washington. 'Security' does not include any insurance or endowment policy or annuity contract under which an insurance company promises to pay money either in a lump sum or periodically for life or some other specified period."
+We note that the same patent and royalty interests may also come within the investment contract portion of the definition of security. An investment contract security Under the federal Security Act of 1933 is "an investment of money in a common enterprise with profits to come solely from the efforts of others." Securities & Exch. Comm’n v. W.J. Howey Co., 328 U.S. 293, 301, 90 L. Ed. 1244, 66 S. Ct. 1100, 163 A.L.R. 1043 (1946). The royalty and patent interests appear to satisfy this test, which has been utilized by a federal court applying The Securities Act of Washington. Chapman v. Rudd Paint & Varnish Co., 409 F.2d 635 (9th Cir. 1969).
