@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42857-8-I"
 decided: "1999-07-06"
-citations: ["97 Wash. App. 201", "96 Wash. App. 1030"]
+citations: ["97 Wash. App. 201"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bertran L. Wolstein, Appellant, v. The Yorkshire Insurance Co., Ltd.,
 source_url: "https://static.case.law/wash-app/97/cases/0201-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 184046
-cites_cases: ["113 Wn.2d 869", "120 Wn.2d 439", "121 Wn.2d 869", "123 Wn.2d 131", "124 Wn.2d 618", "18 Wn. App. 262", "297 So. 2d 96", "348 U.S. 310", "48 F. Supp. 808", "549 P.2d 9", "566 P.2d 1294", "59 B.R. 314", "628 F.2d 376", "635 F.2d 379", "77 B.R. 753", "784 P.2d 507", "81 Wn. App. 696", "842 P.2d 956", "854 P.2d 622", "86 Wn. App. 390", "87 A.L.R.4th 405", "87 Wn. App. 1", "87 Wn.2d 70", "874 F.2d 1551", "881 P.2d 201", "915 P.2d 1146", "916 F.2d 267", "930 S.W.2d 829", "937 P.2d 1106", "937 P.2d 1143", "97 Wn. App. 201", "99 L. Ed. 337"]
+cites_cases: ["113 Wn.2d 869", "120 Wn.2d 439", "121 Wn.2d 869", "123 Wn.2d 131", "124 Wn.2d 618", "18 Wn. App. 262", "297 So. 2d 96", "348 U.S. 310", "48 F. Supp. 808", "549 P.2d 9", "566 P.2d 1294", "59 B.R. 314", "628 F.2d 376", "635 F.2d 379", "77 B.R. 753", "784 P.2d 507", "81 Wn. App. 696", "842 P.2d 956", "854 P.2d 622", "86 Wn. App. 390", "87 A.L.R.4th 405", "87 Wn. App. 1", "87 Wn.2d 70", "874 F.2d 1551", "881 P.2d 201", "915 P.2d 1146", "916 F.2d 267", "930 S.W.2d 829", "937 P.2d 1106", "937 P.2d 1143", "99 L. Ed. 337"]
 ---
 
 # Wolstein v. Yorkshire Insurance
