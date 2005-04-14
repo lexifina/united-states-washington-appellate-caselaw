@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22856-8-III"
 decided: "2005-04-14"
-citations: ["127 Wash. App. 41", "126 Wash. App. 1060"]
+citations: ["127 Wash. App. 41"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Robert G. Posenjak, Petitione
 source_url: "https://static.case.law/wash-app/127/cases/0041-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2462011
-cites_cases: ["104 Wn. App. 703", "113 Wn. App. 100", "113 Wn.2d 35", "114 Wn. App. 653", "117 Wn.2d 332", "123 Wn.2d 173", "123 Wn.2d 641", "124 Wn.2d 778", "127 Wn. App. 41", "128 Wn.2d 388", "137 Wn.2d 208", "139 Wn.2d 486", "146 Wn.2d 400", "17 P.3d 668", "29 F.3d 481", "384 U.S. 436", "411 U.S. 145", "443 U.S. 658", "47 P.3d 127", "483 P.2d 832", "52 P.3d 539", "520 F.2d 676", "59 P.3d 711", "616 P.2d 649", "63 Wn. App. 911", "632 P.2d 44", "641 F.2d 1368", "65 Wn. App. 541", "72 Wn. App. 869", "730 F.2d 1314", "76 Wn. App. 560", "775 P.2d 458", "79 Wn.2d 104", "80 Wn. App. 495", "815 P.2d 761", "822 P.2d 787", "828 P.2d 1180", "841 F.2d 317", "866 P.2d 670", "867 P.2d 593", "870 P.2d 313", "881 P.2d 210", "886 P.2d 1164", "901 F.2d 772", "909 P.2d 280", "909 P.2d 949", "94 Wn.2d 263", "95 Wn.2d 898", "96 F.3d 334", "970 P.2d 722", "987 P.2d 73"]
+cites_cases: ["104 Wn. App. 703", "113 Wn. App. 100", "113 Wn.2d 35", "114 Wn. App. 653", "117 Wn.2d 332", "123 Wn.2d 173", "123 Wn.2d 641", "124 Wn.2d 778", "128 Wn.2d 388", "137 Wn.2d 208", "139 Wn.2d 486", "146 Wn.2d 400", "17 P.3d 668", "29 F.3d 481", "384 U.S. 436", "411 U.S. 145", "443 U.S. 658", "47 P.3d 127", "483 P.2d 832", "52 P.3d 539", "520 F.2d 676", "59 P.3d 711", "616 P.2d 649", "63 Wn. App. 911", "632 P.2d 44", "641 F.2d 1368", "65 Wn. App. 541", "72 Wn. App. 869", "730 F.2d 1314", "76 Wn. App. 560", "775 P.2d 458", "79 Wn.2d 104", "80 Wn. App. 495", "815 P.2d 761", "822 P.2d 787", "828 P.2d 1180", "841 F.2d 317", "866 P.2d 670", "867 P.2d 593", "870 P.2d 313", "881 P.2d 210", "886 P.2d 1164", "901 F.2d 772", "909 P.2d 280", "909 P.2d 949", "94 Wn.2d 263", "95 Wn.2d 898", "96 F.3d 334", "970 P.2d 722", "987 P.2d 73"]
 ---
 
 # State v. Posenjak
