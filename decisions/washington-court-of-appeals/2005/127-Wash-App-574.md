@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54570-1-I"
 decided: "2005-04-18"
-citations: ["127 Wash. App. 574", "126 Wash. App. 1067"]
+citations: ["127 Wash. App. 574"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Exendine et al., Appellants, v. The City of Sammamish, Respon
 source_url: "https://static.case.law/wash-app/127/cases/0574-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2464383
-cites_cases: ["105 Wn. App. 143", "113 Wn. App. 34", "118 Wn. App. 96", "123 Wn.2d 260", "124 Wn.2d 300", "127 Wn. App. 574", "137 Wn.2d 296", "140 Wn.2d 143", "156 Wn.2d 1018", "19 P.3d 453", "26 Wn. App. 623", "298 F.3d 880", "38 Wn. App. 630", "482 P.2d 775", "52 P.3d 522", "537 P.2d 268", "585 P.2d 71", "613 P.2d 564", "654 P.2d 1199", "689 P.2d 1084", "73 F.3d 232", "74 P.3d 692", "79 Wn.2d 12", "85 Wn.2d 509", "868 P.2d 134", "877 P.2d 686", "90 Wn.2d 476", "93 Wn. App. 472", "969 P.2d 519", "971 P.2d 32", "98 Wn.2d 321", "995 P.2d 33"]
+cites_cases: ["105 Wn. App. 143", "113 Wn. App. 34", "118 Wn. App. 96", "123 Wn.2d 260", "124 Wn.2d 300", "137 Wn.2d 296", "140 Wn.2d 143", "156 Wn.2d 1018", "19 P.3d 453", "26 Wn. App. 623", "298 F.3d 880", "38 Wn. App. 630", "482 P.2d 775", "52 P.3d 522", "537 P.2d 268", "585 P.2d 71", "613 P.2d 564", "654 P.2d 1199", "689 P.2d 1084", "73 F.3d 232", "74 P.3d 692", "79 Wn.2d 12", "85 Wn.2d 509", "868 P.2d 134", "877 P.2d 686", "90 Wn.2d 476", "93 Wn. App. 472", "969 P.2d 519", "971 P.2d 32", "98 Wn.2d 321", "995 P.2d 33"]
 ---
 
 # Exendine v. City of Sammamish
