@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53419-0-I"
 decided: "2005-04-18"
-citations: ["127 Wash. App. 356", "126 Wash. App. 1061"]
+citations: ["127 Wash. App. 356"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Bruce Hines, Appellant, v. Todd Pacific Shipyards Corporation, Respon
 source_url: "https://static.case.law/wash-app/127/cases/0356-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2461199
-cites_cases: ["100 Wn.2d 26", "108 Wn.2d 162", "110 Wn. App. 628", "112 Wn.2d 216", "118 Wn.2d 476", "118 Wn.2d 801", "120 Wn. App. 374", "120 Wn. App. 481", "121 Wn.2d 8", "127 Wn. App. 356", "128 Wn.2d 537", "129 Wn.2d 43", "130 Wn.2d 97", "141 Wn.2d 629", "144 Wn.2d 172", "144 Wn.2d 91", "148 Wn.2d 788", "149 Wn.2d 521", "152 Wn.2d 1029", "152 Wn.2d 138", "2 Wn. App. 348", "23 P.3d 440", "26 P.3d 257", "32 Wn. App. 116", "411 U.S. 792", "42 P.3d 418", "42 U.S.C. § 12112", "450 U.S. 248", "467 P.2d 868", "482 P.2d 775", "519 P.2d 7", "613 P.2d 1170", "64 P.3d 22", "646 R2d 139", "656 P.2d 1030", "666 P.2d 351", "70 P.3d 126", "736 P.2d 249", "770 P.2d 182", "79 Wn. App. 732", "79 Wn.2d 12", "824 P.2d 483", "828 P.2d 549", "83 Wn.2d 491", "84 P.3d 1231", "84 Wn. App. 411", "846 P.2d 531", "85 P.3d 931", "9 P.3d 787", "904 P.2d 793", "909 P.2d 1303", "914 P.2d 728", "922 P.2d 43", "928 P.2d 431", "93 Wn.2d 881", "94 P.3d 930", "95 Wn. App. 18", "95 Wn. App. 794", "974 P.2d 847", "977 P.2d 651", "98 Wn. App. 245", "98 Wn.2d 434", "989 P.2d 604"]
+cites_cases: ["100 Wn.2d 26", "108 Wn.2d 162", "110 Wn. App. 628", "112 Wn.2d 216", "118 Wn.2d 476", "118 Wn.2d 801", "120 Wn. App. 374", "120 Wn. App. 481", "121 Wn.2d 8", "128 Wn.2d 537", "129 Wn.2d 43", "130 Wn.2d 97", "141 Wn.2d 629", "144 Wn.2d 172", "144 Wn.2d 91", "148 Wn.2d 788", "149 Wn.2d 521", "152 Wn.2d 1029", "152 Wn.2d 138", "2 Wn. App. 348", "23 P.3d 440", "26 P.3d 257", "32 Wn. App. 116", "411 U.S. 792", "42 P.3d 418", "42 U.S.C. § 12112", "450 U.S. 248", "467 P.2d 868", "482 P.2d 775", "519 P.2d 7", "613 P.2d 1170", "64 P.3d 22", "646 R2d 139", "656 P.2d 1030", "666 P.2d 351", "70 P.3d 126", "736 P.2d 249", "770 P.2d 182", "79 Wn. App. 732", "79 Wn.2d 12", "824 P.2d 483", "828 P.2d 549", "83 Wn.2d 491", "84 P.3d 1231", "84 Wn. App. 411", "846 P.2d 531", "85 P.3d 931", "9 P.3d 787", "904 P.2d 793", "909 P.2d 1303", "914 P.2d 728", "922 P.2d 43", "928 P.2d 431", "93 Wn.2d 881", "94 P.3d 930", "95 Wn. App. 18", "95 Wn. App. 794", "974 P.2d 847", "977 P.2d 651", "98 Wn. App. 245", "98 Wn.2d 434", "989 P.2d 604"]
 ---
 
 # Hines v. Todd Pacific Shipyards Corp.
