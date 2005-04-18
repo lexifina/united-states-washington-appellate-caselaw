@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53848-9-I; 53849-7-I; 54527-2-I"
 decided: "2005-04-18"
-citations: ["127 Wash. App. 54", "126 Wash. App. 1063"]
+citations: ["127 Wash. App. 54"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Auburn, Petitioner, v. Edward Kelly, Respondent. The City
 source_url: "https://static.case.law/wash-app/127/cases/0054-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2461686
-cites_cases: ["105 P.3d 1029", "112 Wn. App. 515", "119 Wn.2d 178", "125 Wn. App. 666", "125 Wn.2d 666", "127 Wn. App. 54", "129 Wn.2d 211", "155 Wn.2d 1015", "384 U.S. 436", "49 P.3d 954", "73 Wn. App. 758", "829 P.2d 1061", "872 P.2d 61", "916 P.2d 384"]
+cites_cases: ["105 P.3d 1029", "112 Wn. App. 515", "119 Wn.2d 178", "125 Wn. App. 666", "125 Wn.2d 666", "129 Wn.2d 211", "155 Wn.2d 1015", "384 U.S. 436", "49 P.3d 954", "73 Wn. App. 758", "829 P.2d 1061", "872 P.2d 61", "916 P.2d 384"]
 ---
 
 # City of Auburn v. Kelly
