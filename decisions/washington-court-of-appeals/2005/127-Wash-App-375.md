@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30932-7-II"
 decided: "2005-04-19"
-citations: ["127 Wash. App. 375", "127 Wash. App. 1001"]
+citations: ["127 Wash. App. 375"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Russell Garrett, as Trustee of Bankrupt Estates, Appellant, v. Bruce 
 source_url: "https://static.case.law/wash-app/127/cases/0375-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2460657
-cites_cases: ["107 Wn. App. 902", "108 P.3d 147", "11 U.S.C. § 521", "126 Wn. App. 222", "127 Wn. App. 375", "205 B.R. 346", "266 B.R. 916", "270 F.3d 778", "28 P.3d 832", "308 B.R. 448", "358 F.3d 1107", "482 P.2d 775", "532 U.S. 742", "79 Wn.2d 12"]
+cites_cases: ["107 Wn. App. 902", "108 P.3d 147", "11 U.S.C. § 521", "126 Wn. App. 222", "205 B.R. 346", "266 B.R. 916", "270 F.3d 778", "28 P.3d 832", "308 B.R. 448", "358 F.3d 1107", "482 P.2d 775", "532 U.S. 742", "79 Wn.2d 12"]
 cites_law: ["united-states/federal/usc/title-11/521.md"]
 ---
 
