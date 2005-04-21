@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22389-2-III"
 decided: "2005-04-21"
-citations: ["129 Wash. App. 607", "127 Wash. App. 1002"]
+citations: ["129 Wash. App. 607"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Kelly B. Marzetta, Appellant, and Al
 source_url: "https://static.case.law/wash-app/129/cases/0607-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3683090
-cites_cases: ["1 Wn. App. 348", "100 Wn. App. 444", "101 Wn.2d 168", "105 Wn. App. 545", "112 Wn. App. 657", "114 Wn.2d 772", "129 Wn. App. 607", "137 Wn.2d 756", "138 Wn.2d 213", "144 P. 22", "157 Wn.2d 1009", "18 Wn. App. 549", "20 P.3d 481", "201 P.2d 136", "272 P.2d 125", "30 Wn. App. 169", "32 Wn.2d 149", "44 Wn.2d 851", "461 P.2d 560", "482 P.2d 775", "494 P.2d 208", "50 P.3d 298", "565 P.2d 790", "57 Wn. App. 707", "571 P.2d 210", "632 P.2d 889", "677 P.2d 152", "69 Wn. App. 324", "70 Wn. App. 116", "70 Wn. App. 860", "789 P.2d 807", "79 Wn.2d 12", "791 P.2d 519", "80 Wn.2d 293", "82 Wash. 271", "84 Wn. App. 263", "84 Wn. App. 839", "848 P.2d 1281", "853 P.2d 462", "855 P.2d 1210", "88 Wn.2d 649", "89 Wn. App. 390", "90 Wn. App. 796", "927 P.2d 679", "930 P.2d 929", "948 P.2d 1338", "954 P.2d 330", "96 Wn. App. 474", "976 P.2d 102", "978 P.2d 498", "980 P.2d 265", "997 P.2d 447"]
+cites_cases: ["1 Wn. App. 348", "100 Wn. App. 444", "101 Wn.2d 168", "105 Wn. App. 545", "112 Wn. App. 657", "114 Wn.2d 772", "137 Wn.2d 756", "138 Wn.2d 213", "144 P. 22", "157 Wn.2d 1009", "18 Wn. App. 549", "20 P.3d 481", "201 P.2d 136", "272 P.2d 125", "30 Wn. App. 169", "32 Wn.2d 149", "44 Wn.2d 851", "461 P.2d 560", "482 P.2d 775", "494 P.2d 208", "50 P.3d 298", "565 P.2d 790", "57 Wn. App. 707", "571 P.2d 210", "632 P.2d 889", "677 P.2d 152", "69 Wn. App. 324", "70 Wn. App. 116", "70 Wn. App. 860", "789 P.2d 807", "79 Wn.2d 12", "791 P.2d 519", "80 Wn.2d 293", "82 Wash. 271", "84 Wn. App. 263", "84 Wn. App. 839", "848 P.2d 1281", "853 P.2d 462", "855 P.2d 1210", "88 Wn.2d 649", "89 Wn. App. 390", "90 Wn. App. 796", "927 P.2d 679", "930 P.2d 929", "948 P.2d 1338", "954 P.2d 330", "96 Wn. App. 474", "976 P.2d 102", "978 P.2d 498", "980 P.2d 265", "997 P.2d 447"]
 ---
 
 # In re the Marriage of Marzetta
