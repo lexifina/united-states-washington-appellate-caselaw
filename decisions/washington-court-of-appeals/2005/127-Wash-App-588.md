@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53792-0-I"
 decided: "2005-04-25"
-citations: ["127 Wash. App. 588", "127 Wash. App. 1005"]
+citations: ["127 Wash. App. 588"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sammy Barker, Appellant, v. The Employment Security Department, Respo
 source_url: "https://static.case.law/wash-app/127/cases/0588-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2463311
-cites_cases: ["102 Wn. App. 29", "122 Wn.2d 397", "127 Wn. App. 588", "136 Vt. 571", "15 P.3d 153", "296 S.E.2d 809", "343 N.W.2d 43", "423 A.2d 469", "444 N.Y.S.2d 492", "55 Pa. Commw. 323", "59 N.C. App. 341", "69 Wn. App. 655", "799 S.W.2d 202", "82 Wn. App. 30", "84 A.D.2d 622", "850 P.2d 546", "858 P.2d 494", "87 Wn. App. 634", "89 Wn. App. 128", "917 P.2d 136", "93 Wn. App. 140", "942 P.2d 1040", "947 P.2d 1271", "966 P.2d 1282"]
+cites_cases: ["102 Wn. App. 29", "122 Wn.2d 397", "136 Vt. 571", "15 P.3d 153", "296 S.E.2d 809", "343 N.W.2d 43", "423 A.2d 469", "444 N.Y.S.2d 492", "55 Pa. Commw. 323", "59 N.C. App. 341", "69 Wn. App. 655", "799 S.W.2d 202", "82 Wn. App. 30", "84 A.D.2d 622", "850 P.2d 546", "858 P.2d 494", "87 Wn. App. 634", "89 Wn. App. 128", "917 P.2d 136", "93 Wn. App. 140", "942 P.2d 1040", "947 P.2d 1271", "966 P.2d 1282"]
 ---
 
 # Barker v. Employment Security Department
