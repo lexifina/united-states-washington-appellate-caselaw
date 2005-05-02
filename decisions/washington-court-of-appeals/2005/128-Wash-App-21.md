@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53332-1-I"
 decided: "2005-05-02"
-citations: ["128 Wash. App. 21", "127 Wash. App. 1014"]
+citations: ["128 Wash. App. 21"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Roy Donald Stout, Jr. The State of 
 source_url: "https://static.case.law/wash-app/128/cases/0021-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3272502
-cites_cases: ["103 P.3d 193", "109 Wn.2d 222", "116 Wn. App. 616", "117 Wn. App. 611", "122 Wn.2d 1", "123 Wn. App. 172", "124 Wn. App. 206", "128 Wn. App. 21", "138 Wn.2d 70", "149 Wn.2d 724", "150 Wn.2d 905", "153 Wn.2d 207", "156 Wn.2d 1030", "396 P.2d 782", "400 U.S. 25", "466 U.S. 668", "521 U.S. 346", "534 U.S. 407", "541 U.S. 990", "65 Wn.2d 290", "67 P.3d 496", "72 P.3d 186", "72 P.3d 708", "743 P.2d 816", "84 P.3d 245", "857 P.2d 989", "92 Wn. App. 783", "964 P.2d 1222", "97 P.3d 767", "98 P.3d 1206", "980 P.2d 1204", "Kan. Stat. Ann. § 59"]
+cites_cases: ["103 P.3d 193", "109 Wn.2d 222", "116 Wn. App. 616", "117 Wn. App. 611", "122 Wn.2d 1", "123 Wn. App. 172", "124 Wn. App. 206", "138 Wn.2d 70", "149 Wn.2d 724", "150 Wn.2d 905", "153 Wn.2d 207", "156 Wn.2d 1030", "396 P.2d 782", "400 U.S. 25", "466 U.S. 668", "521 U.S. 346", "534 U.S. 407", "541 U.S. 990", "65 Wn.2d 290", "67 P.3d 496", "72 P.3d 186", "72 P.3d 708", "743 P.2d 816", "84 P.3d 245", "857 P.2d 989", "92 Wn. App. 783", "964 P.2d 1222", "97 P.3d 767", "98 P.3d 1206", "980 P.2d 1204", "Kan. Stat. Ann. § 59"]
 ---
 
 # State v. Stout
