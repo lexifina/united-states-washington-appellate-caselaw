@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52001-6-I"
 decided: "2005-05-02"
-citations: ["128 Wash. App. 11", "127 Wash. App. 1013"]
+citations: ["128 Wash. App. 11"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lori J. Bundrick, Individually and as Guardian, Appellant, v. Barry C
 source_url: "https://static.case.law/wash-app/128/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3275179
-cites_cases: ["101 Wn. App. 323", "11 Wn. App. 272", "114 Wn.2d 42", "125 Wn.2d 456", "126 F.2d 121", "128 Wn. App. 11", "135 Wn.2d 255", "2 P.3d 1029", "279 P.2d 1091", "42 Wn. App. 234", "457 A.2d 431", "46 Wn.2d 197", "522 P.2d 852", "622 P.2d 1246", "711 P.2d 347", "785 P.2d 815", "886 P.2d 556", "92 N.J. 446", "95 Wn.2d 306", "956 P.2d 312"]
+cites_cases: ["101 Wn. App. 323", "11 Wn. App. 272", "114 Wn.2d 42", "125 Wn.2d 456", "126 F.2d 121", "135 Wn.2d 255", "2 P.3d 1029", "279 P.2d 1091", "42 Wn. App. 234", "457 A.2d 431", "46 Wn.2d 197", "522 P.2d 852", "622 P.2d 1246", "711 P.2d 347", "785 P.2d 815", "886 P.2d 556", "92 N.J. 446", "95 Wn.2d 306", "956 P.2d 312"]
 ---
 
 # Bundrick v. Stewart
