@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30722-7-II"
 decided: "2005-05-10"
-citations: ["128 Wash. App. 34", "127 Wash. App. 1023"]
+citations: ["128 Wash. App. 34"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Curtis E. Warner et al., Petitioners, v. Design and Build Homes, Inc.
 source_url: "https://static.case.law/wash-app/128/cases/0034-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3274633
-cites_cases: ["102 Wn.2d 30", "104 Wn. App. 525", "105 Wn.2d 1009", "105 Wn.2d 878", "106 Wn.2d 714", "106 Wn.2d 96", "109 Wn.2d 406", "111 Wn.2d 1007", "114 Wn. App. 639", "119 Wn. App. 249", "119 Wn.2d 1014", "121 Wn.2d 304", "123 Wn.2d 1025", "128 Wn. App. 34", "129 N.M. 185", "144 Wn.2d 1021", "146 Wn.2d 428", "151 Wn.2d 534", "16 P.3d 701", "209 S.E.2d 776", "286 N.C. 51", "42 Wn. App. 252", "47 P.3d 940", "485 P.2d 626", "491 P.2d 262", "5 Wn. App. 661", "5 Wn. App. 68", "51 Wn. App. 285", "535 U.S. 980", "554 P.2d 1349", "59 P.3d 112", "632 F.2d 51", "64 Wn. App. 318", "686 P.2d 465", "711 P.2d 356", "719 P.2d 120", "72 Wn. App. 169", "720 P.2d 805", "725 P.2d 422", "745 P.2d 1284", "753 P.2d 530", "76 P.3d 1205", "79 Wn.2d 1009", "80 Wn.2d 1003", "824 P.2d 1225", "849 P.2d 1209", "863 P.2d 1355", "87 Wn.2d 567", "899 S.W.2d 415", "90 P.3d 1062", "92 Colum. L. Rev. 1358"]
+cites_cases: ["102 Wn.2d 30", "104 Wn. App. 525", "105 Wn.2d 1009", "105 Wn.2d 878", "106 Wn.2d 714", "106 Wn.2d 96", "109 Wn.2d 406", "111 Wn.2d 1007", "114 Wn. App. 639", "119 Wn. App. 249", "119 Wn.2d 1014", "121 Wn.2d 304", "123 Wn.2d 1025", "129 N.M. 185", "144 Wn.2d 1021", "146 Wn.2d 428", "151 Wn.2d 534", "16 P.3d 701", "209 S.E.2d 776", "286 N.C. 51", "42 Wn. App. 252", "47 P.3d 940", "485 P.2d 626", "491 P.2d 262", "5 Wn. App. 661", "5 Wn. App. 68", "51 Wn. App. 285", "535 U.S. 980", "554 P.2d 1349", "59 P.3d 112", "632 F.2d 51", "64 Wn. App. 318", "686 P.2d 465", "711 P.2d 356", "719 P.2d 120", "72 Wn. App. 169", "720 P.2d 805", "725 P.2d 422", "745 P.2d 1284", "753 P.2d 530", "76 P.3d 1205", "79 Wn.2d 1009", "80 Wn.2d 1003", "824 P.2d 1225", "849 P.2d 1209", "863 P.2d 1355", "87 Wn.2d 567", "899 S.W.2d 415", "90 P.3d 1062", "92 Colum. L. Rev. 1358"]
 ---
 
 # Warner v. Design & Build Homes, Inc.
