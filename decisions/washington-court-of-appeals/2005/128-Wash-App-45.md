@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "52643-0-I; 52684-7-I; 53141-7-I"
 decided: "2005-05-16"
-citations: ["128 Wash. App. 45", "127 Wash. App. 1027"]
+citations: ["128 Wash. App. 45"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of S.M.H. et al. The Department of So
 source_url: "https://static.case.law/wash-app/128/cases/0045-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3267497
-cites_cases: ["106 Wn. App. 123", "108 Wn. App. 149", "108 Wn. App. 692", "109 Wn.2d 222", "111 Wn. App. 180", "118 Wn.2d 801", "128 Wn. App. 45", "128 Wn.2d 129", "130 Wn.2d 418", "137 Wn.2d 736", "143 Wn.2d 715", "150 Wn.2d 559", "156 Wn.2d 1001", "22 P.3d 828", "23 P.3d 499", "29 P.3d 1275", "32 P.3d 1016", "43 P.3d 1273", "466 U.S. 668", "53 Wn. App. 22", "58 Wn. App. 18", "611 P.2d 1245", "743 P.2d 816", "75 Wn. App. 762", "765 P.2d 307", "79 P.3d 432", "792 P.2d 159", "828 P.2d 549", "880 P.2d 80", "90 Wn. App. 417", "904 P.2d 1132", "92 Wn. App. 420", "924 P.2d 21", "93 Wn.2d 689", "953 P.2d 104", "961 P.2d 963", "975 P.2d 512"]
+cites_cases: ["106 Wn. App. 123", "108 Wn. App. 149", "108 Wn. App. 692", "109 Wn.2d 222", "111 Wn. App. 180", "118 Wn.2d 801", "128 Wn.2d 129", "130 Wn.2d 418", "137 Wn.2d 736", "143 Wn.2d 715", "150 Wn.2d 559", "156 Wn.2d 1001", "22 P.3d 828", "23 P.3d 499", "29 P.3d 1275", "32 P.3d 1016", "43 P.3d 1273", "466 U.S. 668", "53 Wn. App. 22", "58 Wn. App. 18", "611 P.2d 1245", "743 P.2d 816", "75 Wn. App. 762", "765 P.2d 307", "79 P.3d 432", "792 P.2d 159", "828 P.2d 549", "880 P.2d 80", "90 Wn. App. 417", "904 P.2d 1132", "92 Wn. App. 420", "924 P.2d 21", "93 Wn.2d 689", "953 P.2d 104", "961 P.2d 963", "975 P.2d 512"]
 ---
 
 # Department of Social & Health Services v. Hamm
