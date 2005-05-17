@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31401-1-II"
 decided: "2005-05-17"
-citations: ["128 Wash. App. 64", "127 Wash. App. 1030"]
+citations: ["128 Wash. App. 64"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David Miles, Respondent, v. Lynda M. Miles, Appellant."]
 source_url: "https://static.case.law/wash-app/128/cases/0064-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3267442
-cites_cases: ["107 Wn.2d 388", "114 Wn. App. 781", "115 Wn.2d 60", "123 Wn. App. 783", "128 Wn. App. 64", "149 Wn.2d 1025", "152 Wn.2d 387", "60 P.3d 1215", "730 P.2d 45", "74 Wn. App. 23", "794 P.2d 850", "871 P.2d 1115", "97 P.3d 745", "98 P.3d 1264"]
+cites_cases: ["107 Wn.2d 388", "114 Wn. App. 781", "115 Wn.2d 60", "123 Wn. App. 783", "149 Wn.2d 1025", "152 Wn.2d 387", "60 P.3d 1215", "730 P.2d 45", "74 Wn. App. 23", "794 P.2d 850", "871 P.2d 1115", "97 P.3d 745", "98 P.3d 1264"]
 ---
 
 # Miles v. Miles
