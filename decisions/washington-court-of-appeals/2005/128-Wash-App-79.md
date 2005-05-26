@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23118-6-III"
 decided: "2005-05-26"
-citations: ["128 Wash. App. 79", "127 Wash. App. 1045"]
+citations: ["128 Wash. App. 79"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James Becker, Appellant, v. Harry Cashman et al., Respondents."]
 source_url: "https://static.case.law/wash-app/128/cases/0079-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3269304
-cites_cases: ["116 Wn. App. 127", "128 Wn. App. 79", "128 Wn.2d 931", "144 Wn.2d 172", "145 Wn.2d 379", "150 Wn.2d 1016", "152 Wn.2d 138", "23 P.3d 440", "36 P.3d 1014", "64 P.3d 691", "913 P.2d 377", "94 P.3d 930"]
+cites_cases: ["116 Wn. App. 127", "128 Wn.2d 931", "144 Wn.2d 172", "145 Wn.2d 379", "150 Wn.2d 1016", "152 Wn.2d 138", "23 P.3d 440", "36 P.3d 1014", "64 P.3d 691", "913 P.2d 377", "94 P.3d 930"]
 ---
 
 # Becker v. Cashman
