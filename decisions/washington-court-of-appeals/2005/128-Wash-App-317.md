@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54398-9-I"
 decided: "2005-05-31"
-citations: ["128 Wash. App. 317", "127 Wash. App. 1048"]
+citations: ["128 Wash. App. 317"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Red Oaks Condominium Owners Association, Respondent, v. Sundquist Hol
 source_url: "https://static.case.law/wash-app/128/cases/0317-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3271149
-cites_cases: ["105 P.3d 441", "105 Wn.2d 381", "109 P.3d 22", "110 Wn.2d 695", "121 Wn. App. 372", "124 Wn.2d 789", "125 Wn. App. 622", "126 Wn. App. 342", "128 Wn. App. 317", "146 Wn.2d 730", "176 U.S. 398", "214 U.S. 71", "339 U.S. 306", "49 P.3d 887", "60 Wn. App. 504", "658 P.2d 1230", "715 P.2d 1133", "756 P.2d 717", "803 P.2d 1339", "812 P.2d 487", "881 P.2d 1020", "89 P.3d 265", "94 L. Ed. 865", "98 Wn.2d 708"]
+cites_cases: ["105 P.3d 441", "105 Wn.2d 381", "109 P.3d 22", "110 Wn.2d 695", "121 Wn. App. 372", "124 Wn.2d 789", "125 Wn. App. 622", "126 Wn. App. 342", "146 Wn.2d 730", "176 U.S. 398", "214 U.S. 71", "339 U.S. 306", "49 P.3d 887", "60 Wn. App. 504", "658 P.2d 1230", "715 P.2d 1133", "756 P.2d 717", "803 P.2d 1339", "812 P.2d 487", "881 P.2d 1020", "89 P.3d 265", "94 L. Ed. 865", "98 Wn.2d 708"]
 ---
 
 # Red Oaks Condominium Owners Ass'n v. Sundquist Holdings, Inc.
