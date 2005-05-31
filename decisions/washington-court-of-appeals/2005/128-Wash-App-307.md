@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22705-7-III"
 decided: "2005-05-31"
-citations: ["128 Wash. App. 307", "127 Wash. App. 1049"]
+citations: ["128 Wash. App. 307"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Bud Ray Brown, Appellant."]
 source_url: "https://static.case.law/wash-app/128/cases/0307-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3272855
-cites_cases: ["107 P.3d 755", "107 Wn. App. 960", "109 Wn. App. 749", "123 Wn. App. 634", "123 Wn. App. 906", "126 Wn. App. 136", "128 Wn. App. 307", "134 Wn.2d 588", "137 Wn.2d 490", "148 Wn.2d 91", "29 P.3d 752", "37 P.3d 343", "45 Wn. App. 824", "477 U.S. 79", "530 U.S. 466", "542 U.S. 296", "59 P.3d 58", "616 P.2d 628", "72 Wn. App. 34", "727 P.2d 988", "81 Wn. App. 425", "863 P.2d 560", "87 Wn. App. 433", "88 Wn. App. 485", "89 Wn. App. 857", "914 P.2d 788", "94 Wn.2d 216", "942 P.2d 1018", "945 P.2d 736", "950 P.2d 1004", "952 P.2d 167", "973 P.2d 461", "98 P.3d 1235", "98 Wn. App. 397", "989 P.2d 591", "99 P.3d 902"]
+cites_cases: ["107 P.3d 755", "107 Wn. App. 960", "109 Wn. App. 749", "123 Wn. App. 634", "123 Wn. App. 906", "126 Wn. App. 136", "134 Wn.2d 588", "137 Wn.2d 490", "148 Wn.2d 91", "29 P.3d 752", "37 P.3d 343", "45 Wn. App. 824", "477 U.S. 79", "530 U.S. 466", "542 U.S. 296", "59 P.3d 58", "616 P.2d 628", "72 Wn. App. 34", "727 P.2d 988", "81 Wn. App. 425", "863 P.2d 560", "87 Wn. App. 433", "88 Wn. App. 485", "89 Wn. App. 857", "914 P.2d 788", "94 Wn.2d 216", "942 P.2d 1018", "945 P.2d 736", "950 P.2d 1004", "952 P.2d 167", "973 P.2d 461", "98 P.3d 1235", "98 Wn. App. 397", "989 P.2d 591", "99 P.3d 902"]
 ---
 
 # State v. Brown
