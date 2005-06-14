@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31137-2-II"
 decided: "2005-06-14"
-citations: ["128 Wash. App. 327", "128 Wash. App. 1008"]
+citations: ["128 Wash. App. 327"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michelle Pruitt et al., Individually, as Parents, and as Natural Guar
 source_url: "https://static.case.law/wash-app/128/cases/0327-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3267823
-cites_cases: ["104 Wn. App. 464", "105 Wn. App. 800", "108 Wn. App. 242", "112 Wn. App. 558", "113 Wn. App. 359", "115 Wn. App. 590", "117 Wn.2d 1011", "118 Wn. App. 144", "118 Wn. App. 246", "118 Wn.2d 1015", "123 Wn.2d 15", "128 Wn. App. 327", "129 Wn.2d 84", "130 Wn.2d 486", "138 Wn.2d 1017", "149 Wn.2d 1008", "149 Wn.2d 1021", "17 P.3d 641", "21 P.3d 716", "29 P3d 738", "50 P.3d 284", "515 P.2d 160", "53 P.3d 1020", "61 Wn. App. 520", "62 P.3d 933", "62 Wn. App. 818", "75 P.3d 592", "75 P.3d 980", "810 P.2d 1387", "816 P.2d 751", "83 Wn.2d 22", "864 P.2d 921", "915 P.2d 1089", "925 P.2d 194", "93 Wn. App. 189", "963 P.2d 934"]
+cites_cases: ["104 Wn. App. 464", "105 Wn. App. 800", "108 Wn. App. 242", "112 Wn. App. 558", "113 Wn. App. 359", "115 Wn. App. 590", "117 Wn.2d 1011", "118 Wn. App. 144", "118 Wn. App. 246", "118 Wn.2d 1015", "123 Wn.2d 15", "129 Wn.2d 84", "130 Wn.2d 486", "138 Wn.2d 1017", "149 Wn.2d 1008", "149 Wn.2d 1021", "17 P.3d 641", "21 P.3d 716", "29 P3d 738", "50 P.3d 284", "515 P.2d 160", "53 P.3d 1020", "61 Wn. App. 520", "62 P.3d 933", "62 Wn. App. 818", "75 P.3d 592", "75 P.3d 980", "810 P.2d 1387", "816 P.2d 751", "83 Wn.2d 22", "864 P.2d 921", "915 P.2d 1089", "925 P.2d 194", "93 Wn. App. 189", "963 P.2d 934"]
 ---
 
 # Pruitt v. Savage
