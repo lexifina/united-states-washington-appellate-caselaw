@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23138-1-III"
 decided: "2005-06-16"
-citations: ["129 Wash. App. 10", "128 Wash. App. 1011"]
+citations: ["129 Wash. App. 10"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Meredith Campbell, Appellant, v. The State of Washington et al., Resp
 source_url: "https://static.case.law/wash-app/129/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3681821
-cites_cases: ["103 Wn.2d 401", "105 Wn.2d 546", "113 Wn. App. 643", "114 Wn. App. 611", "116 Wn. App. 424", "121 Wn. App. 295", "124 Wn. App. 454", "129 Wn. App. 10", "130 Wn.2d 128", "136 Wn.2d 1016", "148 Wn.2d 35", "149 Wn.2d 1011", "150 Wn.2d 1016", "157 Wn.2d 1002", "386 P.2d 958", "418 P.2d 253", "54 P.3d 166", "59 P.3d 611", "60 P.3d 106", "63 Wn.2d 252", "65 P.3d 696", "69 Wn.2d 285", "693 P.2d 708", "716 P.2d 306", "88 P.3d 966", "90 Wn. App. 110", "921 P.2d 1059", "951 P.2d 321", "98 P.3d 827"]
+cites_cases: ["103 Wn.2d 401", "105 Wn.2d 546", "113 Wn. App. 643", "114 Wn. App. 611", "116 Wn. App. 424", "121 Wn. App. 295", "124 Wn. App. 454", "130 Wn.2d 128", "136 Wn.2d 1016", "148 Wn.2d 35", "149 Wn.2d 1011", "150 Wn.2d 1016", "157 Wn.2d 1002", "386 P.2d 958", "418 P.2d 253", "54 P.3d 166", "59 P.3d 611", "60 P.3d 106", "63 Wn.2d 252", "65 P.3d 696", "69 Wn.2d 285", "693 P.2d 708", "716 P.2d 306", "88 P.3d 966", "90 Wn. App. 110", "921 P.2d 1059", "951 P.2d 321", "98 P.3d 827"]
 ---
 
 # Campbell v. State
