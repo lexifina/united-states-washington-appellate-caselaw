@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54460-8-I"
 decided: "2005-07-05"
-citations: ["129 Wash. App. 303", "128 Wash. App. 1029"]
+citations: ["129 Wash. App. 303"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Spectrum Glass Company, Inc., Appellant, v. Public Utility District N
 source_url: "https://static.case.law/wash-app/129/cases/0303-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3681836
-cites_cases: ["110 Wn. App. 290", "115 Wn.2d 657", "118 Wn.2d 801", "120 Wn.2d 573", "123 Wn.2d 678", "128 Wn.2d 656", "129 Wn. App. 303", "129 Wn.2d 565", "13 P.3d 622", "134 Wn.2d 491", "136 Wn.2d 87", "137 Wn.2d 683", "143 Wn.2d 57", "146 Wn.2d 370", "150 Wn.2d 478", "17 P.3d 603", "31 F.3d 1130", "38 P.3d 1024", "42 Wn. App. 269", "46 P.3d 789", "578 P.2d 1292", "616 P.2d 644", "711 P.2d 361", "78 P.3d 1274", "801 P.2d 222", "828 P.2d 549", "844 P.2d 428", "871 P.2d 146", "90 Wn. App. 650", "90 Wn.2d 19", "911 P.2d 1301", "919 P.2d 594", "94 Wn.2d 255", "951 P.2d 761", "953 P.2d 812", "960 P.2d 912", "974 P.2d 836"]
+cites_cases: ["110 Wn. App. 290", "115 Wn.2d 657", "118 Wn.2d 801", "120 Wn.2d 573", "123 Wn.2d 678", "128 Wn.2d 656", "129 Wn.2d 565", "13 P.3d 622", "134 Wn.2d 491", "136 Wn.2d 87", "137 Wn.2d 683", "143 Wn.2d 57", "146 Wn.2d 370", "150 Wn.2d 478", "17 P.3d 603", "31 F.3d 1130", "38 P.3d 1024", "42 Wn. App. 269", "46 P.3d 789", "578 P.2d 1292", "616 P.2d 644", "711 P.2d 361", "78 P.3d 1274", "801 P.2d 222", "828 P.2d 549", "844 P.2d 428", "871 P.2d 146", "90 Wn. App. 650", "90 Wn.2d 19", "911 P.2d 1301", "919 P.2d 594", "94 Wn.2d 255", "951 P.2d 761", "953 P.2d 812", "960 P.2d 912", "974 P.2d 836"]
 ---
 
 # Spectrum Glass Co. v. Public Utility District No. 1
