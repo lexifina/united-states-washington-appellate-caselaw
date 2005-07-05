@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54427-6-I"
 decided: "2005-07-05"
-citations: ["128 Wash. App. 794", "128 Wash. App. 1028"]
+citations: ["128 Wash. App. 794"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Larry Spokoiny, Appellant, v. The Washington State Youth Soccer Assoc
 source_url: "https://static.case.law/wash-app/128/cases/0794-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3272088
-cites_cases: ["103 Wn. App. 62", "106 Wn. App. 231", "11 P.3d 833", "118 Wn.2d 801", "121 Wn. App. 799", "128 Wn. App. 794", "145 Wn.2d 1008", "156 Wn.2d 1036", "23 P.3d 520", "51 Wn. App. 216", "60 Wn. App. 930", "752 P.2d 1357", "808 P.2d 1155", "81 Wn. App. 353", "828 P.2d 549", "91 P.3d 117", "914 P.2d 1180"]
+cites_cases: ["103 Wn. App. 62", "106 Wn. App. 231", "11 P.3d 833", "118 Wn.2d 801", "121 Wn. App. 799", "145 Wn.2d 1008", "156 Wn.2d 1036", "23 P.3d 520", "51 Wn. App. 216", "60 Wn. App. 930", "752 P.2d 1357", "808 P.2d 1155", "81 Wn. App. 353", "828 P.2d 549", "91 P.3d 117", "914 P.2d 1180"]
 ---
 
 # Spokoiny v. Washington State Youth Soccer Ass'n
