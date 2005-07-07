@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30984-0-II"
 decided: "2005-07-07"
-citations: ["128 Wash. App. 555", "128 Wash. App. 1032"]
+citations: ["128 Wash. App. 555"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Samuel Glen Douglas, Appellan
 source_url: "https://static.case.law/wash-app/128/cases/0555-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3267660
-cites_cases: ["121 Wn.2d 220", "123 Wn. App. 415", "123 Wn. App. 423", "123 Wn. App. 424", "128 Wn. App. 555", "128 Wn.2d 85", "128 Wn.2d 896", "130 Wn.2d 726", "136 Wn.2d 767", "137 Wn.2d 904", "138 Wn.2d 1002", "147 Wn.2d 602", "42 Wn. App. 120", "43 Wn. App. 893", "44 Wn. App. 305", "56 P.3d 981", "708 P.2d 1230", "721 P.2d 12", "722 P.2d 848", "80 Wn. App. 511", "850 P.2d 495", "904 P.2d 715", "909 P.2d 1341", "913 P.2d 369", "927 P.2d 240", "93 Wn. App. 340", "966 P.2d 883", "968 P.2d 26", "976 P.2d 624", "98 P.3d 111"]
+cites_cases: ["121 Wn.2d 220", "123 Wn. App. 415", "123 Wn. App. 423", "123 Wn. App. 424", "128 Wn.2d 85", "128 Wn.2d 896", "130 Wn.2d 726", "136 Wn.2d 767", "137 Wn.2d 904", "138 Wn.2d 1002", "147 Wn.2d 602", "42 Wn. App. 120", "43 Wn. App. 893", "44 Wn. App. 305", "56 P.3d 981", "708 P.2d 1230", "721 P.2d 12", "722 P.2d 848", "80 Wn. App. 511", "850 P.2d 495", "904 P.2d 715", "909 P.2d 1341", "913 P.2d 369", "927 P.2d 240", "93 Wn. App. 340", "966 P.2d 883", "968 P.2d 26", "976 P.2d 624", "98 P.3d 111"]
 ---
 
 # State v. Douglas
