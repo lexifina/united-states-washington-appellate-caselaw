@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22179-2-III"
 decided: "2005-07-12"
-citations: ["129 Wash. App. 648", "128 Wash. App. 1037"]
+citations: ["129 Wash. App. 648"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tri-City Metro Drug Task Force, Respondent, v. Maria Contreras, Appel
 source_url: "https://static.case.law/wash-app/129/cases/0648-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3681308
-cites_cases: ["113 Wn.2d 701", "122 Wn.2d 397", "129 Wn. App. 648", "782 P.2d 1045", "858 P.2d 494", "89 Wn. App. 554", "950 P.2d 7"]
+cites_cases: ["113 Wn.2d 701", "122 Wn.2d 397", "782 P.2d 1045", "858 P.2d 494", "89 Wn. App. 554", "950 P.2d 7"]
 ---
 
 # Tri-City Metro Drug Task Force v. Contreras
