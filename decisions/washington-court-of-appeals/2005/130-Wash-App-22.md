@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23217-4-III"
 decided: "2005-07-19"
-citations: ["130 Wash. App. 22", "128 Wash. App. 1045"]
+citations: ["130 Wash. App. 22"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jerry S. Olinger, Appellant."
 source_url: "https://static.case.law/wash-app/130/cases/0022-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3769353
-cites_cases: ["130 Wn. App. 22", "151 Wn.2d 664", "151 Wn.2d 783", "152 Wn.2d 64", "157 Wn.2d 1009", "64 Wn. App. 410", "824 P.2d 533", "87 Wn. App. 925", "91 P.3d 875", "91 P.3d 888", "93 P.3d 872", "93 Wn. App. 149", "943 P.2d 676", "967 P.2d 548"]
+cites_cases: ["151 Wn.2d 664", "151 Wn.2d 783", "152 Wn.2d 64", "157 Wn.2d 1009", "64 Wn. App. 410", "824 P.2d 533", "87 Wn. App. 925", "91 P.3d 875", "91 P.3d 888", "93 P.3d 872", "93 Wn. App. 149", "943 P.2d 676", "967 P.2d 548"]
 ---
 
 # State v. Olinger
