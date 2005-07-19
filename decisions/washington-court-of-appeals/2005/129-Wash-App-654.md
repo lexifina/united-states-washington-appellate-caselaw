@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31135-6-II"
 decided: "2005-07-19"
-citations: ["129 Wash. App. 654", "128 Wash. App. 1044"]
+citations: ["129 Wash. App. 654"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Appellant, v. Michael E. Orick, Respondent."
 source_url: "https://static.case.law/wash-app/129/cases/0654-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3683658
-cites_cases: ["104 Wn. App. 377", "124 Wn.2d 1018", "126 Wn.2d 1004", "129 Wn. App. 654", "133 Wn.2d 332", "138 Wn.2d 133", "144 Wn.2d 1002", "16 P.3d 69", "256 U.S. 465", "301 A.2d 689", "367 F.2d 1", "409 U.S. 973", "451 Pa. 1", "486 P.2d 1143", "492 P.2d 249", "5 Wn. App. 153", "6 Wn. App. 284", "71 Wn. App. 798", "75 Wn. App. 692", "80 Wn.2d 1002", "80 Wn.2d 1009", "863 P.2d 85", "879 P.2d 984", "88 Wn. App. 503", "945 P.2d 196", "945 P.2d 263", "977 P.2d 582"]
+cites_cases: ["104 Wn. App. 377", "124 Wn.2d 1018", "126 Wn.2d 1004", "133 Wn.2d 332", "138 Wn.2d 133", "144 Wn.2d 1002", "16 P.3d 69", "256 U.S. 465", "301 A.2d 689", "367 F.2d 1", "409 U.S. 973", "451 Pa. 1", "486 P.2d 1143", "492 P.2d 249", "5 Wn. App. 153", "6 Wn. App. 284", "71 Wn. App. 798", "75 Wn. App. 692", "80 Wn.2d 1002", "80 Wn.2d 1009", "863 P.2d 85", "879 P.2d 984", "88 Wn. App. 503", "945 P.2d 196", "945 P.2d 263", "977 P.2d 582"]
 ---
 
 # State v. Orick
