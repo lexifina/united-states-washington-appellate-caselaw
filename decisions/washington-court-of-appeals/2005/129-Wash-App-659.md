@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54142-1-I"
 decided: "2005-08-01"
-citations: ["129 Wash. App. 659", "129 Wash. App. 1001"]
+citations: ["129 Wash. App. 659"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Eva M. Frese et al., Respondents, v. Snohomish County et al., Petitio
 source_url: "https://static.case.law/wash-app/129/cases/0659-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3682177
-cites_cases: ["117 Wn. App. 618", "118 Wn. App. 272", "129 Wn. App. 659", "134 Wn.2d 437", "146 Wn.2d 841", "29 U.S.C. §§ 201-219", "45 Wn. App. 70", "50 P.3d 256", "63 Wn. App. 516", "656 P.2d 1030", "72 P.3d 772", "724 P.2d 396", "75 P.3d 990", "820 P.2d 964", "951 P.2d 782", "98 Wn.2d 434"]
+cites_cases: ["117 Wn. App. 618", "118 Wn. App. 272", "134 Wn.2d 437", "146 Wn.2d 841", "29 U.S.C. §§ 201-219", "45 Wn. App. 70", "50 P.3d 256", "63 Wn. App. 516", "656 P.2d 1030", "72 P.3d 772", "724 P.2d 396", "75 P.3d 990", "820 P.2d 964", "951 P.2d 782", "98 Wn.2d 434"]
 ---
 
 # Frese v. Snohomish County
