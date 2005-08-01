@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54955-3-I"
 decided: "2005-08-01"
-citations: ["129 Wash. App. 318", "128 Wash. App. 1059"]
+citations: ["129 Wash. App. 318"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Scott Crow, Appellant, v. The Boeing Company, Respondent."]
 source_url: "https://static.case.law/wash-app/129/cases/0318-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3683201
-cites_cases: ["103 P.3d 807", "106 Wn. App. 26", "108 Wn. App. 185", "109 P.3d 805", "115 Wn.2d 506", "123 Wn. App. 6", "125 Wn. App. 41", "127 Wn.2d 853", "129 Wn. App. 318", "135 Wn.2d 658", "144 Wn.2d 1020", "153 Wn.2d 1027", "154 Wn.2d 16", "156 Wn.2d 1028", "22 P.3d 810", "29 P.3d 1268", "799 P.2d 250", "80 Wn. App. 775", "904 P.2d 278", "912 P.2d 501", "94 P.3d 332", "95 Wn. App. 802", "958 P.2d 301", "977 P.2d 660"]
+cites_cases: ["103 P.3d 807", "106 Wn. App. 26", "108 Wn. App. 185", "109 P.3d 805", "115 Wn.2d 506", "123 Wn. App. 6", "125 Wn. App. 41", "127 Wn.2d 853", "135 Wn.2d 658", "144 Wn.2d 1020", "153 Wn.2d 1027", "154 Wn.2d 16", "156 Wn.2d 1028", "22 P.3d 810", "29 P.3d 1268", "799 P.2d 250", "80 Wn. App. 775", "904 P.2d 278", "912 P.2d 501", "94 P.3d 332", "95 Wn. App. 802", "958 P.2d 301", "977 P.2d 660"]
 ---
 
 # Crow v. Boeing Co.
