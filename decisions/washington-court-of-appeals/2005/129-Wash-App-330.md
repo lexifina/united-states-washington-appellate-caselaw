@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31244-1-II"
 decided: "2005-08-03"
-citations: ["129 Wash. App. 330", "128 Wash. App. 1062"]
+citations: ["129 Wash. App. 330"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Peter T. Littlefair, Appellan
 source_url: "https://static.case.law/wash-app/129/cases/0330-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3680772
-cites_cases: ["106 Wn. App. 876", "112 Wn. App. 749", "113 Wn. App. 100", "114 Wn. App. 653", "118 Wn.2d 870", "120 Wn. App. 43", "123 Wn.2d 641", "127 Wn.2d 322", "128 Wn.2d 388", "128 Wn.2d 431", "129 Wn. App. 330", "129 Wn.2d 61", "139 Wn.2d 486", "140 Wn.2d 1027", "141 Wn.2d 304", "145 Wn.2d 1016", "146 Wn.2d 400", "148 Wn.2d 91", "149 Wn.2d 1020", "26 P.3d 298", "389 U.S. 871", "4 P.3d 130", "423 P.2d 539", "43 Wn. App. 656", "438 U.S. 154", "442 U.S. 753", "47 P.3d 127", "51 P.3d 116", "52 P.3d 539", "538 U.S. 912", "59 P.3d 58", "59 P.3d 711", "622 P.2d 1218", "632 P.2d 44", "640 P.2d 1061", "70 Wn.2d 430", "719 P.2d 576", "827 P.2d 1388", "83 P.3d 1038", "870 P.2d 313", "88 Wn. App. 905", "899 P.2d 1251", "909 P.2d 280", "909 P.2d 293", "917 P.2d 563", "946 P.2d 1229", "95 Wn.2d 143", "95 Wn.2d 898", "97 Wn.2d 92", "98 Wn. App. 528", "987 P.2d 73", "990 P.2d 446"]
+cites_cases: ["106 Wn. App. 876", "112 Wn. App. 749", "113 Wn. App. 100", "114 Wn. App. 653", "118 Wn.2d 870", "120 Wn. App. 43", "123 Wn.2d 641", "127 Wn.2d 322", "128 Wn.2d 388", "128 Wn.2d 431", "129 Wn.2d 61", "139 Wn.2d 486", "140 Wn.2d 1027", "141 Wn.2d 304", "145 Wn.2d 1016", "146 Wn.2d 400", "148 Wn.2d 91", "149 Wn.2d 1020", "26 P.3d 298", "389 U.S. 871", "4 P.3d 130", "423 P.2d 539", "43 Wn. App. 656", "438 U.S. 154", "442 U.S. 753", "47 P.3d 127", "51 P.3d 116", "52 P.3d 539", "538 U.S. 912", "59 P.3d 58", "59 P.3d 711", "622 P.2d 1218", "632 P.2d 44", "640 P.2d 1061", "70 Wn.2d 430", "719 P.2d 576", "827 P.2d 1388", "83 P.3d 1038", "870 P.2d 313", "88 Wn. App. 905", "899 P.2d 1251", "909 P.2d 280", "909 P.2d 293", "917 P.2d 563", "946 P.2d 1229", "95 Wn.2d 143", "95 Wn.2d 898", "97 Wn.2d 92", "98 Wn. App. 528", "987 P.2d 73", "990 P.2d 446"]
 ---
 
 # State v. Littlefair
