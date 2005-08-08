@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54017-3-I"
 decided: "2005-08-08"
-citations: ["129 Wash. App. 345", "128 Wash. App. 1065"]
+citations: ["129 Wash. App. 345"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["American Discount Corporation, Plaintiff, United Collection Service, 
 source_url: "https://static.case.law/wash-app/129/cases/0345-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3682121
-cites_cases: ["103 Wn.2d 111", "104 Wn.2d 710", "106 Wn. App. 576", "107 Wn. App. 266", "109 Wn.2d 207", "110 Wn.2d 74", "113 Wn. App. 691", "115 Wn. App. 319", "115 Wn.2d 74", "118 Wn.2d 498", "119 Wn.2d 452", "128 Wn.2d 341", "129 Wn. App. 345", "135 Wn.2d 45", "136 Wash. 322", "145 Wn.2d 528", "151 P.2d 440", "157 Wn.2d 1012", "21 Wn.2d 420", "239 P. 1015", "24 P.3d 1074", "26 P.3d 1006", "39 P.3d 984", "416 P.2d 80", "491 P.2d 258", "5 Wn. App. 840", "52 Wn. App. 265", "54 P.3d 243", "557 P.2d 1299", "68 Wn.2d 804", "691 P.2d 178", "709 P.2d 793", "73 Wn. App. 818", "743 P.2d 1237", "75 P.3d 521", "750 P.2d 620", "758 P.2d 1019", "79 Wn. App. 739", "794 P.2d 508", "82 Wn. App. 236", "825 P.2d 706", "832 P.2d 1303", "85 Wn. App. 311", "87 Wn.2d 922", "871 P.2d 652", "904 P.2d 1176", "908 P.2d 359", "917 P.2d 604", "932 P.2d 691", "954 P.2d 1301"]
+cites_cases: ["103 Wn.2d 111", "104 Wn.2d 710", "106 Wn. App. 576", "107 Wn. App. 266", "109 Wn.2d 207", "110 Wn.2d 74", "113 Wn. App. 691", "115 Wn. App. 319", "115 Wn.2d 74", "118 Wn.2d 498", "119 Wn.2d 452", "128 Wn.2d 341", "135 Wn.2d 45", "136 Wash. 322", "145 Wn.2d 528", "151 P.2d 440", "157 Wn.2d 1012", "21 Wn.2d 420", "239 P. 1015", "24 P.3d 1074", "26 P.3d 1006", "39 P.3d 984", "416 P.2d 80", "491 P.2d 258", "5 Wn. App. 840", "52 Wn. App. 265", "54 P.3d 243", "557 P.2d 1299", "68 Wn.2d 804", "691 P.2d 178", "709 P.2d 793", "73 Wn. App. 818", "743 P.2d 1237", "75 P.3d 521", "750 P.2d 620", "758 P.2d 1019", "79 Wn. App. 739", "794 P.2d 508", "82 Wn. App. 236", "825 P.2d 706", "832 P.2d 1303", "85 Wn. App. 311", "87 Wn.2d 922", "871 P.2d 652", "904 P.2d 1176", "908 P.2d 359", "917 P.2d 604", "932 P.2d 691", "954 P.2d 1301"]
 ---
 
 # American Discount Corp. v. Shepherd
