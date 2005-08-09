@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31722-2-II"
 decided: "2005-08-09"
-citations: ["129 Wash. App. 356", "128 Wash. App. 1069"]
+citations: ["129 Wash. App. 356"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Legacy Roofing, Inc., Appellant, v. The Department of Labor and Indus
 source_url: "https://static.case.law/wash-app/129/cases/0356-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3681102
-cites_cases: ["107 Wn.2d 693", "112 Wn. App. 34", "117 F.3d 691", "119 Wn. App. 906", "129 Wn. App. 356", "138 Wn.2d 318", "146 Wn.2d 740", "152 Wn.2d 1003", "156 Wn.2d 1028", "29 U.S.C. §§ 651-678", "47 P.3d 960", "49 P.3d 867", "639 F.2d 1289", "647 F.2d 1063", "732 P.2d 974", "818 F.2d 1270", "83 P.3d 1012", "93 Wn. App. 547", "969 P.2d 525", "979 P.2d 429"]
+cites_cases: ["107 Wn.2d 693", "112 Wn. App. 34", "117 F.3d 691", "119 Wn. App. 906", "138 Wn.2d 318", "146 Wn.2d 740", "152 Wn.2d 1003", "156 Wn.2d 1028", "29 U.S.C. §§ 651-678", "47 P.3d 960", "49 P.3d 867", "639 F.2d 1289", "647 F.2d 1063", "732 P.2d 974", "818 F.2d 1270", "83 P.3d 1012", "93 Wn. App. 547", "969 P.2d 525", "979 P.2d 429"]
 ---
 
 # Legacy Roofing, Inc. v. Department of Labor & Industries
