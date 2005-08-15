@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54936-7-I"
 decided: "2005-08-15"
-citations: ["129 Wash. App. 368", "128 Wash. App. 1073"]
+citations: ["129 Wash. App. 368"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Centimark Corporation, Appellant, v. The Department of Labor and Indu
 source_url: "https://static.case.law/wash-app/129/cases/0368-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3683853
-cites_cases: ["101 Wn.2d 1012", "106 Wn.2d 54", "115 Wn.2d 571", "119 S. Ct. 404", "119 Wn.2d 229", "123 Wn.2d 260", "129 Wn. App. 368", "135 Wn.2d 369", "138 Wn.2d 343", "142 L. Ed. 2d 328", "143 Wn.2d 384", "148 Wn.2d 20", "149 Wn.2d 29", "20 P.3d 907", "235 F.3d 453", "328 F.3d 543", "36 Wn. App. 592", "385 U.S. 206", "387 U.S. 541", "389 U.S. 347", "436 U.S. 307", "482 U.S. 691", "518 P.2d 1237", "525 U.S. 83", "525 U.S. 962", "533 U.S. 27", "57 Wn. App. 836", "60 P.3d 46", "65 P.3d 1194", "675 P.2d 631", "720 P.2d 808", "790 P.2d 645", "800 P.2d 1112", "83 Wn.2d 446", "830 P.2d 658", "868 P.2d 134", "957 P.2d 741", "979 P.2d 833"]
+cites_cases: ["101 Wn.2d 1012", "106 Wn.2d 54", "115 Wn.2d 571", "119 S. Ct. 404", "119 Wn.2d 229", "123 Wn.2d 260", "135 Wn.2d 369", "138 Wn.2d 343", "142 L. Ed. 2d 328", "143 Wn.2d 384", "148 Wn.2d 20", "149 Wn.2d 29", "20 P.3d 907", "235 F.3d 453", "328 F.3d 543", "36 Wn. App. 592", "385 U.S. 206", "387 U.S. 541", "389 U.S. 347", "436 U.S. 307", "482 U.S. 691", "518 P.2d 1237", "525 U.S. 83", "525 U.S. 962", "533 U.S. 27", "57 Wn. App. 836", "60 P.3d 46", "65 P.3d 1194", "675 P.2d 631", "720 P.2d 808", "790 P.2d 645", "800 P.2d 1112", "83 Wn.2d 446", "830 P.2d 658", "868 P.2d 134", "957 P.2d 741", "979 P.2d 833"]
 ---
 
 # Centimark Corp. v. Department of Labor & Industries
