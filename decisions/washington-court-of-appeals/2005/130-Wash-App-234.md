@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53871-3-I"
 decided: "2005-08-15"
-citations: ["130 Wash. App. 234", "128 Wash. App. 1071"]
+citations: ["130 Wash. App. 234"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kathy Wilcox et al., Individually and on Behalf of a Marital Communit
 source_url: "https://static.case.law/wash-app/130/cases/0234-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3770656
-cites_cases: ["103 P.3d 753", "108 Wn. App. 745", "111 Wn. App. 446", "114 Wn.2d 572", "130 Wn. App. 234", "153 Wn.2d 293", "157 Wn.2d 1022", "33 P.3d 91", "42 Wn. App. 611", "45 P.3d 594", "51 Wn. App. 936", "593 P.2d 156", "62 Wn. App. 575", "634 P.2d 868", "712 P.2d 876", "741 F.2d 273", "756 P.2d 150", "790 P.2d 124", "814 P.2d 1212", "86 Wn. App. 613", "92 Wn.2d 21", "937 P.2d 1158", "95 Wn. App. 896", "96 Wn.2d 215", "97 Wn. App. 1", "970 P.2d 343", "977 P.2d 639"]
+cites_cases: ["103 P.3d 753", "108 Wn. App. 745", "111 Wn. App. 446", "114 Wn.2d 572", "153 Wn.2d 293", "157 Wn.2d 1022", "33 P.3d 91", "42 Wn. App. 611", "45 P.3d 594", "51 Wn. App. 936", "593 P.2d 156", "62 Wn. App. 575", "634 P.2d 868", "712 P.2d 876", "741 F.2d 273", "756 P.2d 150", "790 P.2d 124", "814 P.2d 1212", "86 Wn. App. 613", "92 Wn.2d 21", "937 P.2d 1158", "95 Wn. App. 896", "96 Wn.2d 215", "97 Wn. App. 1", "970 P.2d 343", "977 P.2d 639"]
 ---
 
 # Wilcox v. Lexington Eye Institute
