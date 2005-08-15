@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54900-6-I"
 decided: "2005-08-15"
-citations: ["130 Wash. App. 27", "128 Wash. App. 1073"]
+citations: ["130 Wash. App. 27"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Department of Labor and Industries, Respondent, v. Morrison Knuds
 source_url: "https://static.case.law/wash-app/130/cases/0027-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3770865
-cites_cases: ["104 Wn. App. 307", "127 Wn.2d 774", "130 Wn. App. 27", "130 Wn.2d 1009", "156 Wn.2d 1037", "16 P.3d 35", "381 P.2d 605", "532 P.2d 278", "62 Wn.2d 136", "759 F.2d 922", "81 Wn. App. 123", "85 Wn.2d 182", "903 P.2d 443", "913 P.2d 402"]
+cites_cases: ["104 Wn. App. 307", "127 Wn.2d 774", "130 Wn.2d 1009", "156 Wn.2d 1037", "16 P.3d 35", "381 P.2d 605", "532 P.2d 278", "62 Wn.2d 136", "759 F.2d 922", "81 Wn. App. 123", "85 Wn.2d 182", "903 P.2d 443", "913 P.2d 402"]
 ---
 
 # Department of Labor & Industries v. Knudsen
