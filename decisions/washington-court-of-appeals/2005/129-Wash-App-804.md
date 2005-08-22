@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55009-8-I"
 decided: "2005-08-22"
-citations: ["129 Wash. App. 804", "129 Wash. App. 1006"]
+citations: ["129 Wash. App. 804"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Heike Werlinger, Individually and as Parent and Guardian, et al., App
 source_url: "https://static.case.law/wash-app/129/cases/0804-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3681263
-cites_cases: ["101 Wn. App. 323", "108 Wn. App. 133", "109 P.3d 22", "118 Wn.2d 383", "126 Wn. App. 342", "129 Wn. App. 804", "136 Wn.2d 269", "145 Wn.2d 417", "150 Wn.2d 478", "157 Wn.2d 1004", "2 P.3d 1029", "29 P.3d 777", "36 P.3d 552", "38 P.3d 322", "78 P.3d 1274", "823 P.2d 499", "961 P.2d 933"]
+cites_cases: ["101 Wn. App. 323", "108 Wn. App. 133", "109 P.3d 22", "118 Wn.2d 383", "126 Wn. App. 342", "136 Wn.2d 269", "145 Wn.2d 417", "150 Wn.2d 478", "157 Wn.2d 1004", "2 P.3d 1029", "29 P.3d 777", "36 P.3d 552", "38 P.3d 322", "78 P.3d 1274", "823 P.2d 499", "961 P.2d 933"]
 ---
 
 # Werlinger v. Clarendon National Insurance
