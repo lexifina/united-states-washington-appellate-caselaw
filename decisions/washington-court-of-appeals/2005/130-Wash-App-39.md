@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31848-2-II"
 decided: "2005-08-23"
-citations: ["130 Wash. App. 39", "129 Wash. App. 1008"]
+citations: ["130 Wash. App. 39"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David H. Regan, Appellant, v. The Department of Licensing, Respondent
 source_url: "https://static.case.law/wash-app/130/cases/0039-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3771214
-cites_cases: ["110 Wn.2d 308", "115 Wn.2d 171", "117 Wn.2d 720", "120 Wn.2d 394", "122 Wn.2d 397", "122 Wn.2d 405", "125 Wn.2d 488", "127 Wn.2d 1020", "127 Wn.2d 595", "130 Wn. App. 39", "130 Wn.2d 1004", "132 Wn.2d 1004", "135 Wn.2d 678", "137 Wn.2d 93", "138 Wn.2d 1010", "143 Wn.2d 162", "144 Wn.2d 889", "149 Wn.2d 444", "157 Wn.2d 1013", "19 P.3d 1012", "31 P.3d 1174", "341 U.S. 223", "518 U.S. 1006", "59 Wn. App. 65", "658 P.2d 648", "663 P.2d 457", "68 Wn. App. 320", "69 P.3d 318", "752 P.2d 372", "77 Wn. App. 838", "77 Wn. App. 849", "795 P.2d 1178", "795 P.2d 693", "818 P.2d 1062", "82 Wn. App. 30", "84 Wn. App 663", "842 P.2d 938", "843 P.2d 535", "858 P.2d 494", "886 P.2d 147", "894 P.2d 1352", "894 P.2d 582", "903 P.2d 433", "909 P.2d 1294", "917 P.2d 136", "929 P.2d 510", "94 Wn. App. 7", "95 L. Ed. 886", "958 P.2d 273", "969 P.2d 93", "972 P.2d 101", "98 Wn.2d 690", "99 Wn.2d 466"]
+cites_cases: ["110 Wn.2d 308", "115 Wn.2d 171", "117 Wn.2d 720", "120 Wn.2d 394", "122 Wn.2d 397", "122 Wn.2d 405", "125 Wn.2d 488", "127 Wn.2d 1020", "127 Wn.2d 595", "130 Wn.2d 1004", "132 Wn.2d 1004", "135 Wn.2d 678", "137 Wn.2d 93", "138 Wn.2d 1010", "143 Wn.2d 162", "144 Wn.2d 889", "149 Wn.2d 444", "157 Wn.2d 1013", "19 P.3d 1012", "31 P.3d 1174", "341 U.S. 223", "518 U.S. 1006", "59 Wn. App. 65", "658 P.2d 648", "663 P.2d 457", "68 Wn. App. 320", "69 P.3d 318", "752 P.2d 372", "77 Wn. App. 838", "77 Wn. App. 849", "795 P.2d 1178", "795 P.2d 693", "818 P.2d 1062", "82 Wn. App. 30", "84 Wn. App 663", "842 P.2d 938", "843 P.2d 535", "858 P.2d 494", "886 P.2d 147", "894 P.2d 1352", "894 P.2d 582", "903 P.2d 433", "909 P.2d 1294", "917 P.2d 136", "929 P.2d 510", "94 Wn. App. 7", "95 L. Ed. 886", "958 P.2d 273", "969 P.2d 93", "972 P.2d 101", "98 Wn.2d 690", "99 Wn.2d 466"]
 ---
 
 # Regan v. Department of Licensing
