@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "19517-1-III; 22530-5-III"
 decided: "2005-08-25"
-citations: ["130 Wash. App. 653", "129 Wash. App. 1010"]
+citations: ["130 Wash. App. 653"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Casey Dalton, Individually and as Personal Representative, et al., Ap
 source_url: "https://static.case.law/wash-app/130/cases/0653-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3769482
-cites_cases: ["107 Wn.2d 196", "109 Wn. App. 795", "115 Wn. App. 703", "128 Wn.2d 784", "130 Wn. App. 653", "132 Wn.2d 318", "158 Wn.2d 1003", "159 F.2d 332", "16 Wn. App. 466", "38 P.3d 354", "380 F.3d 33", "431 P.2d 595", "543 U.S. 1055", "55 Wn. App. 367", "558 P.2d 258", "56 Wn. App. 181", "58 Wn. App. 588", "63 P.3d 847", "71 Wn.2d 860", "728 P.2d 138", "777 P.2d 1056", "782 P.2d 1107", "794 P.2d 526", "84 Wn. App. 608", "911 P.2d 1004", "929 P.2d 494", "937 P.2d 1062", "98 Wn. App. 307", "989 P.2d 1144"]
+cites_cases: ["107 Wn.2d 196", "109 Wn. App. 795", "115 Wn. App. 703", "128 Wn.2d 784", "132 Wn.2d 318", "158 Wn.2d 1003", "159 F.2d 332", "16 Wn. App. 466", "38 P.3d 354", "380 F.3d 33", "431 P.2d 595", "543 U.S. 1055", "55 Wn. App. 367", "558 P.2d 258", "56 Wn. App. 181", "58 Wn. App. 588", "63 P.3d 847", "71 Wn.2d 860", "728 P.2d 138", "777 P.2d 1056", "782 P.2d 1107", "794 P.2d 526", "84 Wn. App. 608", "911 P.2d 1004", "929 P.2d 494", "937 P.2d 1062", "98 Wn. App. 307", "989 P.2d 1144"]
 ---
 
 # Dalton v. State
