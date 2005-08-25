@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23176-3-III"
 decided: "2005-08-25"
-citations: ["130 Wash. App. 61", "129 Wash. App. 1011"]
+citations: ["130 Wash. App. 61"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Corey Winston, Appellant, v. The Department of Corrections, Responden
 source_url: "https://static.case.law/wash-app/130/cases/0061-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3769661
-cites_cases: ["100 Wash. 318", "104 Wn. App. 606", "113 Wash. 449", "116 Wn. App. 291", "120 Wn.2d 68", "130 Wn. App. 61", "142 P. 479", "15 P.3d 210", "170 P. 1023", "194 P. 415", "474 U.S. 344", "482 P.2d 775", "56 Wn. App. 499", "65 P.3d 671", "656 P.2d 1030", "78 Wn. App. 125", "784 P.2d 554", "79 Wn.2d 12", "794 F.2d 457", "81 Wash. 128", "838 P.2d 111", "845 P.2d 1325", "896 P.2d 66", "98 Wn.2d 434"]
+cites_cases: ["100 Wash. 318", "104 Wn. App. 606", "113 Wash. 449", "116 Wn. App. 291", "120 Wn.2d 68", "142 P. 479", "15 P.3d 210", "170 P. 1023", "194 P. 415", "474 U.S. 344", "482 P.2d 775", "56 Wn. App. 499", "65 P.3d 671", "656 P.2d 1030", "78 Wn. App. 125", "784 P.2d 554", "79 Wn.2d 12", "794 F.2d 457", "81 Wash. 128", "838 P.2d 111", "845 P.2d 1325", "896 P.2d 66", "98 Wn.2d 434"]
 ---
 
 # Winston v. Department of Corrections
