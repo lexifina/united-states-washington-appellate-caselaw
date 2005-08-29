@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54487-0-I"
 decided: "2005-08-29"
-citations: ["129 Wash. App. 672", "129 Wash. App. 1013"]
+citations: ["129 Wash. App. 672"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James D. Lindsay, Appellant, v. Pacific Topsoils, Inc., et al., Respo
 source_url: "https://static.case.law/wash-app/129/cases/0672-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3683173
-cites_cases: ["10 P.3d 408", "102 Wn. App. 66", "103 Wn. App. 240", "11 P.3d 871", "112 Wn. App. 818", "118 Wn. App. 236", "120 Wn. App. 137", "129 Wn. App. 672", "142 Wn.2d 654", "15 P.3d 115", "157 Wn.2d 1011", "198 F.3d 311", "203 F. Supp. 2d. 312", "229 P.2d 335", "29 U.S.C. §§ 201-219", "354 P.2d 920", "38 Wn.2d 289", "51 P.3d 130", "56 Wn.2d 623", "71 Wn. App. 120", "75 P.3d 603", "84 P.3d 286", "857 P.2d 1053", "89 Wn. App. 148", "948 P.2d 397", "96 Wn. App. 773", "982 P.2d 619"]
+cites_cases: ["10 P.3d 408", "102 Wn. App. 66", "103 Wn. App. 240", "11 P.3d 871", "112 Wn. App. 818", "118 Wn. App. 236", "120 Wn. App. 137", "142 Wn.2d 654", "15 P.3d 115", "157 Wn.2d 1011", "198 F.3d 311", "203 F. Supp. 2d. 312", "229 P.2d 335", "29 U.S.C. §§ 201-219", "354 P.2d 920", "38 Wn.2d 289", "51 P.3d 130", "56 Wn.2d 623", "71 Wn. App. 120", "75 P.3d 603", "84 P.3d 286", "857 P.2d 1053", "89 Wn. App. 148", "948 P.2d 397", "96 Wn. App. 773", "982 P.2d 619"]
 ---
 
 # Lindsay v. Pacific Topsoils, Inc.
