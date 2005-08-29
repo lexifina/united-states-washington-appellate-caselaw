@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55370-4-I"
 decided: "2005-08-29"
-citations: ["129 Wash. App. 810", "129 Wash. App. 1014"]
+citations: ["129 Wash. App. 810"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["James L. Cawdrey, as Personal Representative, Appellant, v. Hanson Ba
 source_url: "https://static.case.law/wash-app/129/cases/0810-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3683528
-cites_cases: ["101 Wn. App. 472", "106 P.3d 268", "109 Wn. App. 655", "114 Wn.2d 271", "116 Wn.2d 1005", "118 Wn.2d 476", "120 Wn.2d 246", "121 Wn.2d 810", "125 Wn. App. 724", "128 Wn.2d 366", "129 Wn. App. 810", "146 Wn.2d 1019", "157 Wn.2d 1004", "3 P.3d 805", "37 P.3d 309", "552 P.2d 1053", "59 Wn. App. 92", "598 P.2d 1358", "656 P.2d 1030", "71 Wn. App. 48", "71 Wn. App. 5", "73 Wn. App. 448", "760 P.2d 348", "787 P.2d 562", "795 P.2d 1192", "824 P.2d 483", "840 P.2d 860", "854 P.2d 1072", "856 P.2d 410", "856 P.2d 713", "869 P.2d 1114", "87 Wn.2d 400", "907 P.2d 290", "92 Wn.2d 507", "98 Wn.2d 434"]
+cites_cases: ["101 Wn. App. 472", "106 P.3d 268", "109 Wn. App. 655", "114 Wn.2d 271", "116 Wn.2d 1005", "118 Wn.2d 476", "120 Wn.2d 246", "121 Wn.2d 810", "125 Wn. App. 724", "128 Wn.2d 366", "146 Wn.2d 1019", "157 Wn.2d 1004", "3 P.3d 805", "37 P.3d 309", "552 P.2d 1053", "59 Wn. App. 92", "598 P.2d 1358", "656 P.2d 1030", "71 Wn. App. 48", "71 Wn. App. 5", "73 Wn. App. 448", "760 P.2d 348", "787 P.2d 562", "795 P.2d 1192", "824 P.2d 483", "840 P.2d 860", "854 P.2d 1072", "856 P.2d 410", "856 P.2d 713", "869 P.2d 1114", "87 Wn.2d 400", "907 P.2d 290", "92 Wn.2d 507", "98 Wn.2d 434"]
 ---
 
 # Cawdrey v. Hanson Baker Ludlow Drumheller, P.S.
