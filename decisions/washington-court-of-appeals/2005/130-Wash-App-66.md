@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54468-3-I"
 decided: "2005-09-12"
-citations: ["130 Wash. App. 66", "129 Wash. App. 1018"]
+citations: ["130 Wash. App. 66"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Guardianship of Loretta Hope Thorpe Beecher. Wat
 source_url: "https://static.case.law/wash-app/130/cases/0066-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3768204
-cites_cases: ["117 Wn. App. 251", "130 Wn. App. 66", "146 Wn.2d 1", "150 Wn.2d 1029", "150 Wn.2d 881", "151 Wn.2d 221", "43 P.3d 4", "70 P.3d 158", "83 P.3d 999", "86 P.3d 1166"]
+cites_cases: ["117 Wn. App. 251", "146 Wn.2d 1", "150 Wn.2d 1029", "150 Wn.2d 881", "151 Wn.2d 221", "43 P.3d 4", "70 P.3d 158", "83 P.3d 999", "86 P.3d 1166"]
 ---
 
 # Blair v. Beecher
