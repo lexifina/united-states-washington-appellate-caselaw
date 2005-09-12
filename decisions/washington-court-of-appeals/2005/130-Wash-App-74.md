@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55232-5-I"
 decided: "2005-09-12"
-citations: ["130 Wash. App. 74", "129 Wash. App. 1020"]
+citations: ["130 Wash. App. 74"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ratilal M. Shah et al., Appellants, v. Allstate Insurance Company, De
 source_url: "https://static.case.law/wash-app/130/cases/0074-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3769945
-cites_cases: ["105 Wn.2d 778", "130 Wn. App. 74", "134 Wn.2d 468", "135 Wn.2d 820", "147 Wn.2d 536", "151 Wn.2d 221", "157 Wn.2d 1006", "55 P.3d 619", "62 Wn. App. 318", "66 Wn. App. 350", "719 P.2d 531", "814 P.2d 670", "831 P.2d 1147", "86 P.3d 1166", "92 Wn. App. 326", "951 P.2d 749", "959 P.2d 651", "966 P.2d 351"]
+cites_cases: ["105 Wn.2d 778", "134 Wn.2d 468", "135 Wn.2d 820", "147 Wn.2d 536", "151 Wn.2d 221", "157 Wn.2d 1006", "55 P.3d 619", "62 Wn. App. 318", "66 Wn. App. 350", "719 P.2d 531", "814 P.2d 670", "831 P.2d 1147", "86 P.3d 1166", "92 Wn. App. 326", "951 P.2d 749", "959 P.2d 651", "966 P.2d 351"]
 ---
 
 # Shah v. Allstate Insurance
