@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22774-0-III"
 decided: "2005-09-15"
-citations: ["130 Wash. App. 87", "129 Wash. App. 1027"]
+citations: ["130 Wash. App. 87"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Roberto Sotelo Lopez et al., Respondents, v. Erendira Salgado-Guadara
 source_url: "https://static.case.law/wash-app/130/cases/0087-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3770609
-cites_cases: ["110 Wn.2d 827", "112 Wn.2d 636", "12 Wn. App. 203", "120 Wn.2d 712", "122 Wn.2d 299", "130 Wn. App. 87", "132 Wn.2d 193", "157 Wn.2d 1011", "529 P.2d 17", "755 P.2d 806", "771 P.2d 711", "780 P.2d 260", "845 P.2d 987", "858 P2d 1054", "937 P.2d 597"]
+cites_cases: ["110 Wn.2d 827", "112 Wn.2d 636", "12 Wn. App. 203", "120 Wn.2d 712", "122 Wn.2d 299", "132 Wn.2d 193", "157 Wn.2d 1011", "529 P.2d 17", "755 P.2d 806", "771 P.2d 711", "780 P.2d 260", "845 P.2d 987", "858 P2d 1054", "937 P.2d 597"]
 ---
 
 # Lopez v. Salgado-Guadarama
