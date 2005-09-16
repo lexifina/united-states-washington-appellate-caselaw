@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53537-4-I"
 decided: "2005-09-16"
-citations: ["130 Wash. App. 94", "129 Wash. App. 1029"]
+citations: ["130 Wash. App. 94"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["D.L.S. et al., Appellants, v. David Maybin et al., Respondents."]
 source_url: "https://static.case.law/wash-app/130/cases/0094-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3767235
-cites_cases: ["125 Wn.2d 500", "130 Wn. App. 94", "135 Wn.2d 658", "146 Wn.2d 608", "20 Wn. App. 98", "31 F. Supp. 2d 792", "374 P.2d 566", "402 P.2d 356", "49 P.3d 117", "579 P.2d 970", "60 Wn.2d 508", "68 Wn.2d 1", "68 Wn.2d 5", "85 Wn. App. 424", "886 P.2d 160", "932 P.2d 724", "958 P.2d 301"]
+cites_cases: ["125 Wn.2d 500", "135 Wn.2d 658", "146 Wn.2d 608", "20 Wn. App. 98", "31 F. Supp. 2d 792", "374 P.2d 566", "402 P.2d 356", "49 P.3d 117", "579 P.2d 970", "60 Wn.2d 508", "68 Wn.2d 1", "68 Wn.2d 5", "85 Wn. App. 424", "886 P.2d 160", "932 P.2d 724", "958 P.2d 301"]
 ---
 
 # D.L.S. v. Maybin
