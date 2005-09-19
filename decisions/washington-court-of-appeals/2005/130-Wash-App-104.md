@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53858-6-I"
 decided: "2005-09-19"
-citations: ["130 Wash. App. 104", "129 Wash. App. 1030"]
+citations: ["130 Wash. App. 104"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Arthur Smith, Jr. The State of Wash
 source_url: "https://static.case.law/wash-app/130/cases/0104-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3767293
-cites_cases: ["106 Wn.2d 500", "122 Wn.2d 1", "130 Wn. App. 104", "130 Wn.2d 244", "136 Wn.2d 453", "147 Wn.2d 1", "149 Wn.2d 724", "15 U. Puget Sound L. Rev. 525", "15 U. Puget Sound L. Rev. 821", "157 Wn.2d 1022", "49 Wn. App. 251", "51 P.3d 73", "585 P.2d 142", "72 P.3d 708", "723 P.2d 1103", "742 P.2d 190", "857 P.2d 989", "90 Wn.2d 657", "922 P.2d 1304", "963 P.2d 812"]
+cites_cases: ["106 Wn.2d 500", "122 Wn.2d 1", "130 Wn.2d 244", "136 Wn.2d 453", "147 Wn.2d 1", "149 Wn.2d 724", "15 U. Puget Sound L. Rev. 525", "15 U. Puget Sound L. Rev. 821", "157 Wn.2d 1022", "49 Wn. App. 251", "51 P.3d 73", "585 P.2d 142", "72 P.3d 708", "723 P.2d 1103", "742 P.2d 190", "857 P.2d 989", "90 Wn.2d 657", "922 P.2d 1304", "963 P.2d 812"]
 ---
 
 # State v. Smith
