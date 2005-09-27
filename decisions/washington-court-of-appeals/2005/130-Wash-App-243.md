@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23201-8-III"
 decided: "2005-09-27"
-citations: ["130 Wash. App. 243", "129 Wash. App. 1039"]
+citations: ["130 Wash. App. 243"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ted Morris, Individually and as Personal Representative, Appellant, v
 source_url: "https://static.case.law/wash-app/130/cases/0243-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3769159
-cites_cases: ["110 Wn.2d 128", "114 Wn.2d 454", "116 Wn.2d 131", "121 Wn. App. 242", "129 Wn.2d 84", "130 Wn. App. 243", "147 Wn.2d 114", "399 P.2d 591", "52 P.3d 472", "582 P.2d 500", "65 Wn.2d 777", "656 P.2d 1030", "74 Wn. App. 741", "750 P.2d 1257", "788 P.2d 545", "802 P.2d 790", "85 P.3d 918", "875 P.2d 1228", "90 Wn. App. 110", "90 Wn.2d 323", "915 P.2d 1089", "93 Wn. App. 867", "951 P.2d 321", "971 P.2d 523", "98 Wn.2d 434"]
+cites_cases: ["110 Wn.2d 128", "114 Wn.2d 454", "116 Wn.2d 131", "121 Wn. App. 242", "129 Wn.2d 84", "147 Wn.2d 114", "399 P.2d 591", "52 P.3d 472", "582 P.2d 500", "65 Wn.2d 777", "656 P.2d 1030", "74 Wn. App. 741", "750 P.2d 1257", "788 P.2d 545", "802 P.2d 790", "85 P.3d 918", "875 P.2d 1228", "90 Wn. App. 110", "90 Wn.2d 323", "915 P.2d 1089", "93 Wn. App. 867", "951 P.2d 321", "971 P.2d 523", "98 Wn.2d 434"]
 ---
 
 # Morris v. Vaagen Bros. Lumber, Inc.
