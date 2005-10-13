@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23345-6-III"
 decided: "2005-10-13"
-citations: ["130 Wash. App. 481", "129 Wash. App. 1051"]
+citations: ["130 Wash. App. 481"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Spokane, Petitioner, v. Stacy A. Beck, Respondent."]
 source_url: "https://static.case.law/wash-app/130/cases/0481-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3770927
-cites_cases: ["106 P.3d 794", "125 Wn. App. 854", "130 Wn. App. 481", "130 Wn.2d 1", "132 P. 735", "132 Wn.2d 214", "133 Wn.2d 985", "146 Wn.2d 55", "149 Wn.2d 178", "150 Wn.2d 626", "157 Wn.2d 1022", "16 Ill. Dec. 377", "374 N.E.2d 1152", "43 P.3d 1", "48 Wn. App. 867", "53 Wn. App. 452", "58 Ill. App. 3d 910", "66 P.3d 1050", "71 Wn. App. 392", "74 Wash. 60", "740 P.2d 916", "767 P.2d 597", "79 Wn. App. 412", "81 P.3d 830", "859 P.2d 55", "902 P.2d 678", "921 P.2d 1035", "937 P.2d 186", "948 P.2d 833", "98 Wn. App. 152", "988 P.2d 1038"]
+cites_cases: ["106 P.3d 794", "125 Wn. App. 854", "130 Wn.2d 1", "132 P. 735", "132 Wn.2d 214", "133 Wn.2d 985", "146 Wn.2d 55", "149 Wn.2d 178", "150 Wn.2d 626", "157 Wn.2d 1022", "16 Ill. Dec. 377", "374 N.E.2d 1152", "43 P.3d 1", "48 Wn. App. 867", "53 Wn. App. 452", "58 Ill. App. 3d 910", "66 P.3d 1050", "71 Wn. App. 392", "74 Wash. 60", "740 P.2d 916", "767 P.2d 597", "79 Wn. App. 412", "81 P.3d 830", "859 P.2d 55", "902 P.2d 678", "921 P.2d 1035", "937 P.2d 186", "948 P.2d 833", "98 Wn. App. 152", "988 P.2d 1038"]
 ---
 
 # City of Spokane v. Beck
