@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55397-6-I"
 decided: "2005-10-17"
-citations: ["130 Wash. App. 672", "130 Wash. App. 1003"]
+citations: ["130 Wash. App. 672"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lanette Ramey, Respondent, v. William Knorr et al., Appellants."]
 source_url: "https://static.case.law/wash-app/130/cases/0672-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3768654
-cites_cases: ["109 P.3d 47", "111 P.3d 1258", "112 Wn.2d 636", "119 Wn.2d 251", "123 Wash. 604", "126 Wn. App. 655", "127 Wn. App. 657", "130 Wn. App. 672", "130 Wn.2d 486", "14 Wn. App. 946", "140 Wn.2d 517", "147 Colo. 203", "150 Wis. 2d 801", "157 Wn.2d 1024", "2000 WI 64", "213 P. 7", "221 N.J. Super. 340", "24 Wn. App. 251", "398 P.2d 14", "45 Wis. 2d 536", "49 A.L.R.3d 189", "534 A.2d 448", "546 P.2d 930", "56 Wn. App. 1", "600 P.2d 666", "65 Wn.2d 461", "771 P.2d 711", "781 P.2d 1329", "830 P.2d 646", "92 Wn. App. 38", "925 P.2d 194", "93 Yale L.J. 153", "962 P.2d 834", "998 P.2d 856"]
+cites_cases: ["109 P.3d 47", "111 P.3d 1258", "112 Wn.2d 636", "119 Wn.2d 251", "123 Wash. 604", "126 Wn. App. 655", "127 Wn. App. 657", "130 Wn.2d 486", "14 Wn. App. 946", "140 Wn.2d 517", "147 Colo. 203", "150 Wis. 2d 801", "157 Wn.2d 1024", "2000 WI 64", "213 P. 7", "221 N.J. Super. 340", "24 Wn. App. 251", "398 P.2d 14", "45 Wis. 2d 536", "49 A.L.R.3d 189", "534 A.2d 448", "546 P.2d 930", "56 Wn. App. 1", "600 P.2d 666", "65 Wn.2d 461", "771 P.2d 711", "781 P.2d 1329", "830 P.2d 646", "92 Wn. App. 38", "925 P.2d 194", "93 Yale L.J. 153", "962 P.2d 834", "998 P.2d 856"]
 ---
 
 # Ramey v. Knorr
