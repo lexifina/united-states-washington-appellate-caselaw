@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55160-4-I"
 decided: "2005-10-31"
-citations: ["130 Wash. App. 489", "130 Wash. App. 1013"]
+citations: ["130 Wash. App. 489"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The Department of Labor and Industries, Appellant, v. William A. Gran
 source_url: "https://static.case.law/wash-app/130/cases/0489-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3769705
-cites_cases: ["117 Wn.2d 122", "117 Wn.2d 128", "117 Wn.2d 148", "120 P.3d 564", "120 Wn. App. 886", "130 Wn. App. 489", "132 Wn.2d 162", "133 Wn.2d 793", "142 Wn.2d 801", "152 Wn.2d 1032", "155 Wn.2d 470", "157 Wn.2d 1021", "16 P.3d 583", "637 P.2d 652", "80 Wn. App. 704", "812 P.2d 858", "814 P.2d 626", "814 P.2d 629", "86 P.3d 1231", "910 P.2d 1325", "937 P.2d 565", "94 Wn. App. 670", "947 P.2d 727", "96 Wn.2d 552", "972 P.2d 941"]
+cites_cases: ["117 Wn.2d 122", "117 Wn.2d 128", "117 Wn.2d 148", "120 P.3d 564", "120 Wn. App. 886", "132 Wn.2d 162", "133 Wn.2d 793", "142 Wn.2d 801", "152 Wn.2d 1032", "155 Wn.2d 470", "157 Wn.2d 1021", "16 P.3d 583", "637 P.2d 652", "80 Wn. App. 704", "812 P.2d 858", "814 P.2d 626", "814 P.2d 629", "86 P.3d 1231", "910 P.2d 1325", "937 P.2d 565", "94 Wn. App. 670", "947 P.2d 727", "96 Wn.2d 552", "972 P.2d 941"]
 ---
 
 # Department of Labor & Industries v. Granger
