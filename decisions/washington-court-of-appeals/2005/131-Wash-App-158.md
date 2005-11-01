@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23568-8-III"
 decided: "2005-11-01"
-citations: ["131 Wash. App. 158", "130 Wash. App. 1016"]
+citations: ["131 Wash. App. 158"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dale Morrison et al., Respondents, v. Basin Asphalt Co. et al., Appel
 source_url: "https://static.case.law/wash-app/131/cases/0158-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2518500
-cites_cases: ["107 Wn. App. 833", "111 P.3d 1192", "112 Wn. App. 291", "113 Wn. App. 532", "120 Wn.2d 1030", "127 Wn. App. 13", "131 Wn. App. 158", "132 Wn.2d 1009", "136 Wn.2d 152", "145 Wn.2d 1025", "149 Wn.2d 1003", "150 Wn.2d 234", "151 Wn.2d 884", "158 Wn.2d 1012", "28 P.3d 802", "289 U.S. App. D.C. 369", "49 P.3d 135", "54 P.3d 192", "67 Wn. App. 24", "76 P.3d 216", "834 P.2d 638", "84 Wn. App. 401", "929 P.2d 1120", "93 P.3d 124", "932 F.2d 985", "961 P.2d 371"]
+cites_cases: ["107 Wn. App. 833", "111 P.3d 1192", "112 Wn. App. 291", "113 Wn. App. 532", "120 Wn.2d 1030", "127 Wn. App. 13", "132 Wn.2d 1009", "136 Wn.2d 152", "145 Wn.2d 1025", "149 Wn.2d 1003", "150 Wn.2d 234", "151 Wn.2d 884", "158 Wn.2d 1012", "28 P.3d 802", "289 U.S. App. D.C. 369", "49 P.3d 135", "54 P.3d 192", "67 Wn. App. 24", "76 P.3d 216", "834 P.2d 638", "84 Wn. App. 401", "929 P.2d 1120", "93 P.3d 124", "932 F.2d 985", "961 P.2d 371"]
 ---
 
 # Morrison v. Basin Asphalt Co.
