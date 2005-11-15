@@ -1,0 +1,54 @@
+---
+court: "Washington Court of Appeals"
+docket: "31567-0-II"
+decided: "2005-11-15"
+citations: ["130 Wash. App. 320"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["Jerre Crisp et al., Appellants, v. Ronald A. VanLaecken et al., Respondents."]
+source_url: "https://static.case.law/wash-app/130/cases/0320-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3768232
+cites_cases: ["101 N.J. Eq. 649", "107 Wn.2d 225", "111 Wn. App. 188", "113 Wn.2d 320", "117 P. 497", "123 P.2d 771", "13 Wn.2d 75", "138 A. 569", "148 Wn.2d 528", "151 Wn.2d 148", "183 P.2d 802", "24 Wn. App. 120", "28 Wn.2d 476", "32 Wn. App. 318", "351 P.2d 520", "367 P.2d 798", "45 P.3d 570", "55 Wn.2d 848", "59 Wn.2d 397", "600 P.2d 619", "608 P.2d 254", "61 P.3d 1130", "64 Wash. 666", "647 P.2d 51", "728 P.2d 135", "779 P.2d 263", "86 P.3d 1159", "93 Wn.2d 210"]
+---
+
+# Crisp v. VanLaecken
+
+## Majority (Houghton, J.)
+
+¶1
+Houghton, J.
+— Jerre and Sharon Crisp appeal from a trial court summary judgment order. They argue that the trial court erred in refusing to relocate an easement without the easement holders’ consent. We decline to adopt a rule proposed in Restatement (Third) of Property (Servitudes) section 4.8(3) (2000) that, under certain circumstances, would allow a servient estate owner to relocate the easement without the dominant estate owner’s consent and, accordingly, we affirm.
+FACTS
+¶2 The Crisps own two adjoining lots in Ridgefield: (1) tax lot 103/104 where they reside and (2) vacant tax lot 67. Ronald and Peggy VanLaeken, who own land to the north and northeast of lot 67, hold an easement allowing them to travel across lot 67 to access their property. But the VanLaekens have been using a driveway on lot 103/104 to access their property.
+¶3 The Crisps want to sell lot 67 to a third party who would construct a single family home on it. Due to some legal and physical constraints, the only appropriate place for a homesite is in the middle of lot 67, near the VanLaekens’ easement.
+¶4 In order to facilitate the sale and future development of lot 67, the Crisps proposed granting the VanLaekens an express easement across lot 103/104. The proposed easement would be located approximately 75 feet to the west of the easement’s present location. The Crisps offered to grade and pave the proposed easement.
+¶5 The VanLaekens refused to accept the new proposed easement in exchange for relinquishing their rights to the existing easement. The Crisps filed an action seeking a court order relocating the easement. The trial court granted the VanLaekens’ motion for summary judgment. The Crisps appeal.
+ANALYSIS
+Standard of Review
+¶6 We review a grant of summary judgment de novo, applying the same standard as the trial court. Stalter v. State, 151 Wn.2d 148, 155, 86 P.3d 1159 (2004). Summary judgment is appropriate “if the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.” CR 56(c). Here, the facts are undisputed, and we decide whether as a matter of law the trial court properly granted summary judgment. Clawson v. Grays Harbor Coll. Dist. No. 2, 148 Wn.2d 528, 536-37, 61 P.3d 1130 (2003).
+Easement Relocation
+¶7 The Crisps contend that the trial court erred in granting summary judgment. They argue that the VanLaekens’ refusal to accept the new easement renders the Crisps’ lot 67 “virtually worthless.” Appellant’s Br. at 5. For policy reasons, the Crisps urge us to adopt the rule proposed in section 4.8(3) of the Restatement that would allow an owner of servient estate to relocate an easement without an easement holder’s consent under certain conditions.
+¶8 The term “easement” means “ ‘a right, distinct from ownership, to use in some way the land of another, without compensation.’ ” City of Olympia v. Palzer, 107 Wn.2d 225, 229, 728 P.2d 135 (1986) (quoting Kutschinski v. Thompson, 101 N.J. Eq. 649, 656, 138 A. 569 (1927)). It forms a burden on the land and an interest in land. Kesinger v. Logan, 113 Wn.2d 320, 326, 779 P.2d 263 (1989). A servient estate owner may use the easement for any purpose that does not interfere with the proper enjoyment of the easement. Thompson v. Smith, 59 Wn.2d 397, 407-08, 367 P.2d 798 (1962). “Unless limited by the terms of creation or transfer, appurtenant easements follow possession of the dominant estate through successive transfers.” Green v. Lupo, 32 Wn. App. 318, 323, 647 P.2d 51 (1982).
+¶9 Section 4.8(3) of the Restatement' sets forth a minority view:
+Unless expressly denied by the terms of an easement, . . . the owner of the servient estate is entitled to make reasonable changes in the location or dimensions of an easement, at the servient owner’s expense, to permit normal use or development of the servient estate, but only if the changes do not
+(a) significantly lessen the utility of the easement,
+(b) increase the burdens on the owner of the easement in its use and enjoyment, or
+(c) frustrate the purpose for which the easement was created.
+¶10 In MacMeekin v Low Income Housing Institute, Inc., 111 Wn. App. 188, 190, 45 P.3d 570 (2002), Division One declined to adopt this minority view, noting:
+Washington appellate courts have not adopted the approach of Restatement (Third) of Property (Servitudes) (2000) under which an easement generally may be relocated by the owner of the servient estate, regardless of how the easement was acquired, so long as the relocation will not significantly lessen the utility of the easement, increase the burdens on the owner of the easement in its use and enjoyment, or frustrate the purpose for which the easement was created. We decline to adopt the Restatement (Third) approach, and adhere to the traditional rule that easements may not be relocated absent mutual consent of the owners of the dominant and servient estates, regardless of how the easement was created.
+¶11 The MacMeekin court provided a detailed analysis of its reasons for refusing to adopt the minority rule, reviewing a number of Washington cases with similar holdings. Coast Storage Co. v. Schwartz, 55 Wn.2d 848, 854-55, 351 P.2d 520 (1960) (consent required of all interested parties to relocate express easement); State ex rel. Nw. Elec. Co. v. Clark County Superior Court, 28 Wn.2d 476, 488, 183 P.2d 802 (1947) (easement right, once granted and exercised, cannot be changed “at the pleasure of the grantee”); Nw. Cities Gas Co. v. W. Fuel Co., 13 Wn.2d 75, 88,123 P.2d 771 (1942) (an adverse use creates a prescriptive easement that cannot be terminated or abridged at the will of the servient estate owner); White Bros. & Crum Co. v. Watson, 64 Wash. 666, 670, 117 P. 497 (1911) (cannot change character of servitude without consent).
+¶12 Division One observed that
+[t]he traditional approach favors uniformity, stability, predictability and property rights. The Restatement (Third) approach favors flexibility, and the development potential of the servient estate. Under the traditional approach, the holder of the servient estate must purchase the right to relocate the easement if he is to have it at all. Under the Restatement (Third) approach, relocation may be forced upon the holder of the dominant estate against his will.
+MacMeekin, 111 Wn. App. at 205-06. We agree with Division One.
+¶13 Here, the warranty deed unambiguously created an easement burdening lot 67. The Crisps argue only that they want to build a home on their lot and, therefore, this court should grant them the right to relocate the VanLaekens’ easement. We decline to do so.
+¶14 Judicial relocation of established easements, such as the one at issue here, would introduce uncertainty in real estate transactions. The Restatement's version of the relevant rule could invite endless litigation between property owners as to whether a servient estate owner may relocate an existing easement without a dominant estate owner’s consent.
+¶15 Affirmed.
+Quinn-Brintnall, C.J., and Bridgewater, J., concur.
+In 1969, the VanLaekens acquired the easement by statutory warranty deed from Ronald VanLaeken’s parents, Joseph and Margaret VanLaeken. Joseph and Margaret originally acquired the easement in 1957. The deed describes the easement as one “for road purposes as the same is presently laid under the property above excepted, which easement gives access to the public road on the South line of said excepted property to the property herein conveyed.” Clerk’s Papers at 67.
+The VanLaekens do not assert prescriptive rights to use the driveway on lot 103/104.
+The west side of the parcel is comprised of a steep wooded ravine and a creek. A septic tank and drain field must be located on the east side to avoid contaminating the water source used by a neighbor, Jerry Keesee. Therefore, a home can be placed only in the middle of the parcel.
+Comment f to that section explains:
+This rule is designed to permit development of the servient estate to the extent it can be accomplished without unduly interfering with the legitimate interests of the easement holder. It complements the rule that the easement holder may increase use of the easement to permit normal development of the dominant estate, if the increase does not unduly burden the servient estate.. .. This rule is not reciprocal. It permits unilateral relocation only by the owner of the servient estate; it does not entitle the owner of the easement to relocate the easement. The reasons for the rule are that it will increase overall utility because it will increase the value of the servient estate without diminishing the value of the dominant estate and it will encourage the use of easements and lower their price by decreasing the risk the easements will unduly restrict future development of the servient estate. In addition, permitting the servient owner to change the location under the enumerated circumstances provides a fair trade-off for the vulnerability of the servient estate to increased use of the easement to accommodate changes in technology and development of the dominant estate.
+Although the Crisps call it a “purported” easement because it lacks legal description, they impliedly concede that the easement exists. The Crisps also impliedly concede that, although easement location may not have been described precisely, its present location interferes with the Crisps’ ability to build a home on lot 67. Thus, they ask us to treat the easement’s existence and location interfering with home construction on lot 67 as a verity. Yakima Cement Prods. Co. v. Great Am. Ins. Co., 93 Wn.2d 210, 213, 608 P.2d 254 (1980); McIntyre v. Fort Vancouver Plywood Co., 24 Wn. App. 120, 123, 600 P.2d 619 (1979).
