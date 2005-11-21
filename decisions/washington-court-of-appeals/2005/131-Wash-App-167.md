@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55246-5-I"
 decided: "2005-11-21"
-citations: ["131 Wash. App. 167", "130 Wash. App. 1031"]
+citations: ["131 Wash. App. 167"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Robert K. Zabka et al., Appellants, v. Bank of America Corporation, R
 source_url: "https://static.case.law/wash-app/131/cases/0167-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2513560
-cites_cases: ["104 Wn.2d 181", "106 Mich. App. 290", "109 Wn.2d 107", "118 P.3d 311", "121 Wn. App. 530", "130 Wn.2d 486", "131 Wn. App. 167", "135 Wn.2d 820", "146 Wn.2d 237", "146 Wn.2d 841", "155 Wn.2d 198", "158 Wn.2d 1012", "18 Wn. App. 21", "21 A.L.R.3d 964", "301 F.3d 220", "307 N.W.2d 761", "44 P.3d 845", "49 Cal. App. 4th 472", "50 P.3d 256", "56 Cal. Rptr. 2d 756", "567 P.2d 1141", "681 So. 2d 1364", "704 P.2d 140", "710 A.2d 661", "744 P.2d 1032", "750 P.2d 254", "81 Wn. App. 552", "89 P.3d 302", "892 So. 2d 905", "915 P.2d 1103", "925 P.2d 194", "931 S.W.2d 655", "94 Wn. App. 7", "959 P.2d 651", "972 P.2d 101", "983 P.2d 812"]
+cites_cases: ["104 Wn.2d 181", "106 Mich. App. 290", "109 Wn.2d 107", "118 P.3d 311", "121 Wn. App. 530", "130 Wn.2d 486", "135 Wn.2d 820", "146 Wn.2d 237", "146 Wn.2d 841", "155 Wn.2d 198", "158 Wn.2d 1012", "18 Wn. App. 21", "21 A.L.R.3d 964", "301 F.3d 220", "307 N.W.2d 761", "44 P.3d 845", "49 Cal. App. 4th 472", "50 P.3d 256", "56 Cal. Rptr. 2d 756", "567 P.2d 1141", "681 So. 2d 1364", "704 P.2d 140", "710 A.2d 661", "744 P.2d 1032", "750 P.2d 254", "81 Wn. App. 552", "89 P.3d 302", "892 So. 2d 905", "915 P.2d 1103", "925 P.2d 194", "931 S.W.2d 655", "94 Wn. App. 7", "959 P.2d 651", "972 P.2d 101", "983 P.2d 812"]
 ---
 
 # Zabka v. Bank of America Corp.
