@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31969-1-II"
 decided: "2005-11-22"
-citations: ["131 Wash. App. 175", "130 Wash. App. 467"]
+citations: ["131 Wash. App. 175"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Dennis Wayne Nelson, Appellan
 source_url: "https://static.case.law/wash-app/131/cases/0175-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2510864
-cites_cases: ["106 P.3d 196", "106 Wn. App. 792", "109 Wn. App. 508", "111 Wn. App. 430", "118 Wn.2d 551", "119 Wn.2d 192", "129 Wn.2d 257", "131 Wn. App. 175", "136 Wn.2d 453", "153 Wn.2d 614", "25 P.3d 1052", "35 P.3d 1189", "45 P.3d 221", "618 P.2d 99", "825 P.2d 314", "829 P.2d 1068", "916 P.2d 922", "94 Wn.2d 634", "963 P.2d 812"]
+cites_cases: ["106 P.3d 196", "106 Wn. App. 792", "109 Wn. App. 508", "111 Wn. App. 430", "118 Wn.2d 551", "119 Wn.2d 192", "129 Wn.2d 257", "136 Wn.2d 453", "153 Wn.2d 614", "25 P.3d 1052", "35 P.3d 1189", "45 P.3d 221", "618 P.2d 99", "825 P.2d 314", "829 P.2d 1068", "916 P.2d 922", "94 Wn.2d 634", "963 P.2d 812"]
 ---
 
 # State v. Nelson
