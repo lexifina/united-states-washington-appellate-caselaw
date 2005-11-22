@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32307-9-II"
 decided: "2005-11-22"
-citations: ["131 Wash. App. 13", "130 Wash. App. 1033"]
+citations: ["131 Wash. App. 13"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Johnson Forestry Contracting, Inc., Appellant, v. The Department of N
 source_url: "https://static.case.law/wash-app/131/cases/0013-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2511711
-cites_cases: ["104 Wn. App. 901", "105 Wn.2d 606", "109 Wn.2d 819", "110 P.3d 1132", "111 Wn. App. 697", "112 Wn. App. 291", "115 Wn.2d 506", "115 Wn.2d 609", "117 P.3d 348", "119 Wn.2d 1005", "12 Wn. App. 529", "120 Wn. App. 434", "121 Wn. App. 73", "121 Wn.2d 1017", "122 Wn.2d 397", "123 Wn.2d 1003", "123 Wn.2d 621", "127 Wn. 2d 281", "128 Wn.2d 508", "131 Wn. App. 13", "137 Wn.2d 957", "138 Wn.2d 466", "139 Wn.2d 546", "148 Wn.2d 1011", "149 Wn.2d 1003", "149 Wn.2d 148", "149 Wn.2d 67", "152 Wn.2d 1026", "154 Wn.2d 224", "155 Wn.2d 70", "158 Wn.2d 1002", "17 P.3d 697", "398 P.2d 1", "401 U.S. 917", "433 F.2d 1364", "45 P.3d 1131", "49 P.3d 135", "530 P.2d 684", "64 Wn. App. 273", "65 Wn.2d 477", "66 P.3d 1036", "66 P.3d 614", "68 Wn. App. 447", "69 Wn. App. 655", "717 P.2d 1353", "748 P.2d 1112", "75 Wn. App. 263", "799 P.2d 250", "801 P.2d 193", "823 P.2d 1132", "843 P.2d 1092", "85 P.3d 894", "85 Wn.2d 1005", "850 P.2d 546", "858 P.2d 494", "869 P.2d 1034", "87 P.3d 1187", "877 P.2d 228", "898 P.2d 838", "910 P.2d 462", "977 P.2d 554", "980 P.2d 1223", "988 P.2d 961"]
+cites_cases: ["104 Wn. App. 901", "105 Wn.2d 606", "109 Wn.2d 819", "110 P.3d 1132", "111 Wn. App. 697", "112 Wn. App. 291", "115 Wn.2d 506", "115 Wn.2d 609", "117 P.3d 348", "119 Wn.2d 1005", "12 Wn. App. 529", "120 Wn. App. 434", "121 Wn. App. 73", "121 Wn.2d 1017", "122 Wn.2d 397", "123 Wn.2d 1003", "123 Wn.2d 621", "127 Wn. 2d 281", "128 Wn.2d 508", "137 Wn.2d 957", "138 Wn.2d 466", "139 Wn.2d 546", "148 Wn.2d 1011", "149 Wn.2d 1003", "149 Wn.2d 148", "149 Wn.2d 67", "152 Wn.2d 1026", "154 Wn.2d 224", "155 Wn.2d 70", "158 Wn.2d 1002", "17 P.3d 697", "398 P.2d 1", "401 U.S. 917", "433 F.2d 1364", "45 P.3d 1131", "49 P.3d 135", "530 P.2d 684", "64 Wn. App. 273", "65 Wn.2d 477", "66 P.3d 1036", "66 P.3d 614", "68 Wn. App. 447", "69 Wn. App. 655", "717 P.2d 1353", "748 P.2d 1112", "75 Wn. App. 263", "799 P.2d 250", "801 P.2d 193", "823 P.2d 1132", "843 P.2d 1092", "85 P.3d 894", "85 Wn.2d 1005", "850 P.2d 546", "858 P.2d 494", "869 P.2d 1034", "87 P.3d 1187", "877 P.2d 228", "898 P.2d 838", "910 P.2d 462", "977 P.2d 554", "980 P.2d 1223", "988 P.2d 961"]
 ---
 
 # Johnson Forestry Contracting, Inc. v. Department of Natural Resources
