@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55302-0-I"
 decided: "2005-11-28"
-citations: ["130 Wash. App. 707", "130 Wash. App. 1036"]
+citations: ["130 Wash. App. 707"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Dana B. Mower et al., Appellants, v. King County, Respondent."]
 source_url: "https://static.case.law/wash-app/130/cases/0707-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3770190
-cites_cases: ["118 Wn. App. 383", "119 Wn. App. 886", "124 Wn.2d 402", "130 Wn. App. 707", "143 Wn.2d 384", "146 Wn.2d 740", "151 Wn.2d 279", "20 P.3d 907", "214 P.2d 171", "35 Wn.2d 465", "49 P.3d 867", "609 P.2d 1375", "76 P.3d 741", "80 Wn. App. 522", "83 P.3d 433", "83 Wn. App. 188", "87 P.3d 1176", "879 P.2d 920", "910 P.2d 513", "920 P.2d 1216", "93 Wn.2d 398", "94 Wn. App. 593", "94 Wn. App. 849", "972 P.2d 470", "973 P.2d 1078"]
+cites_cases: ["118 Wn. App. 383", "119 Wn. App. 886", "124 Wn.2d 402", "143 Wn.2d 384", "146 Wn.2d 740", "151 Wn.2d 279", "20 P.3d 907", "214 P.2d 171", "35 Wn.2d 465", "49 P.3d 867", "609 P.2d 1375", "76 P.3d 741", "80 Wn. App. 522", "83 P.3d 433", "83 Wn. App. 188", "87 P.3d 1176", "879 P.2d 920", "910 P.2d 513", "920 P.2d 1216", "93 Wn.2d 398", "94 Wn. App. 593", "94 Wn. App. 849", "972 P.2d 470", "973 P.2d 1078"]
 ---
 
 # Mower v. King County
