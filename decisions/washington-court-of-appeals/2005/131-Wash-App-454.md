@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23959-4-III"
 decided: "2005-12-06"
-citations: ["131 Wash. App. 454", "130 Wash. App. 1042"]
+citations: ["131 Wash. App. 454"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Julie Garibay, Individually, as Guardian, and as Personal Representat
 source_url: "https://static.case.law/wash-app/131/cases/0454-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2516973
-cites_cases: ["100 Wn.2d 275", "105 P.3d 26", "105 P.3d 33", "105 Wn.2d 606", "108 Wn.2d 262", "109 Wn.2d 1008", "111 Wn.2d 159", "111 Wn.2d 182", "118 Wn.2d 167", "123 Wn. App. 701", "123 Wn.2d 418", "125 Wn. App. 531", "131 Wn. App. 454", "136 Wn.2d 911", "144 Wn.2d 160", "144 Wn.2d 774", "153 Wn.2d 530", "154 Wn.2d 1018", "158 Wn.2d 1017", "26 P.3d 925", "30 P.3d 1261", "47 Wn. App. 352", "506 P.2d 873", "509 P.2d 1009", "608 P.2d 261", "669 P.2d 451", "717 P.2d 1353", "734 P.2d 961", "737 P.2d 1257", "759 P.2d 1188", "759 P.2d 447", "8 Wn. App. 370", "8 Wn. App. 921", "82 Wn.2d 1005", "82 Wn.2d 1011", "822 P.2d 162", "869 P.2d 14", "93 Wn.2d 205", "969 P.2d 75", "98 P.3d 52"]
+cites_cases: ["100 Wn.2d 275", "105 P.3d 26", "105 P.3d 33", "105 Wn.2d 606", "108 Wn.2d 262", "109 Wn.2d 1008", "111 Wn.2d 159", "111 Wn.2d 182", "118 Wn.2d 167", "123 Wn. App. 701", "123 Wn.2d 418", "125 Wn. App. 531", "136 Wn.2d 911", "144 Wn.2d 160", "144 Wn.2d 774", "153 Wn.2d 530", "154 Wn.2d 1018", "158 Wn.2d 1017", "26 P.3d 925", "30 P.3d 1261", "47 Wn. App. 352", "506 P.2d 873", "509 P.2d 1009", "608 P.2d 261", "669 P.2d 451", "717 P.2d 1353", "734 P.2d 961", "737 P.2d 1257", "759 P.2d 1188", "759 P.2d 447", "8 Wn. App. 370", "8 Wn. App. 921", "82 Wn.2d 1005", "82 Wn.2d 1011", "822 P.2d 162", "869 P.2d 14", "93 Wn.2d 205", "969 P.2d 75", "98 P.3d 52"]
 ---
 
 # Garibay v. State
