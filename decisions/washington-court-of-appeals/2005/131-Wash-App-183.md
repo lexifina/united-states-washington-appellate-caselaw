@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32916-6-II"
 decided: "2005-12-13"
-citations: ["131 Wash. App. 183", "130 Wash. App. 1046"]
+citations: ["131 Wash. App. 183"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Alan A. Fredrickson et al., Appellants, v. Bertolino’s Tacoma, Inc.
 source_url: "https://static.case.law/wash-app/131/cases/0183-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2513986
-cites_cases: ["100 Wn.2d 39", "101 Wn.2d 226", "106 Wn.2d 658", "107 Wn. App. 854", "116 Wn.2d 452", "123 Wn.2d 649", "124 Wn.2d 121", "126 P.2d 44", "129 Wn.2d 84", "13 Wn. App. 815", "13 Wn.2d 573", "131 Wn. App. 183", "135 Wn.2d 112", "137 Wn.2d 580", "146 Wn.2d 63", "148 Wn.2d 602", "157 Wn.2d 1026", "28 P.3d 799", "39 Cal. App. 4th 1051", "42 P.3d 968", "433 P.2d 863", "450 P.2d 957", "46 Cal. Rptr. 2d 309", "537 P.2d 850", "62 P.3d 470", "656 P.2d 1030", "666 P.2d 888", "677 P.2d 166", "70 Wn. App. 213", "72 Wn.2d 446", "724 P.2d 991", "75 Wn.2d 393", "78 Wn. App. 272", "805 P.2d 793", "853 P.2d 473", "869 P.2d 1014", "875 P.2d 621", "896 P.2d 750", "915 P.2d 1089", "954 P.2d 1327", "973 P.2d 1011", "98 Wn.2d 434"]
+cites_cases: ["100 Wn.2d 39", "101 Wn.2d 226", "106 Wn.2d 658", "107 Wn. App. 854", "116 Wn.2d 452", "123 Wn.2d 649", "124 Wn.2d 121", "126 P.2d 44", "129 Wn.2d 84", "13 Wn. App. 815", "13 Wn.2d 573", "135 Wn.2d 112", "137 Wn.2d 580", "146 Wn.2d 63", "148 Wn.2d 602", "157 Wn.2d 1026", "28 P.3d 799", "39 Cal. App. 4th 1051", "42 P.3d 968", "433 P.2d 863", "450 P.2d 957", "46 Cal. Rptr. 2d 309", "537 P.2d 850", "62 P.3d 470", "656 P.2d 1030", "666 P.2d 888", "677 P.2d 166", "70 Wn. App. 213", "72 Wn.2d 446", "724 P.2d 991", "75 Wn.2d 393", "78 Wn. App. 272", "805 P.2d 793", "853 P.2d 473", "869 P.2d 1014", "875 P.2d 621", "896 P.2d 750", "915 P.2d 1089", "954 P.2d 1327", "973 P.2d 1011", "98 Wn.2d 434"]
 ---
 
 # Fredrickson v. Bertolino's Tacoma, Inc.
