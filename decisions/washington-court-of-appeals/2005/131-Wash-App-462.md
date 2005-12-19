@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54841-7-I"
 decided: "2005-12-19"
-citations: ["131 Wash. App. 462", "130 Wash. App. 1048"]
+citations: ["131 Wash. App. 462"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Fidelity Mortgage Corporation, Appellant, v. Seattle Times Company et
 source_url: "https://static.case.law/wash-app/131/cases/0462-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2517802
-cites_cases: ["105 Wn.2d 778", "118 Wn.2d 801", "119 Ill. App. 3d 1049", "131 Wn. App. 462", "15 U.S.C. §§ 1601", "185 F.3d 957", "22 Wn. App. 384", "241 F.3d 696", "26 Wn. App. 430", "31 Wn. App. 286", "457 N.E.2d 480", "589 P.2d 1265", "613 P.2d 187", "614 P.2d 184", "640 P.2d 1077", "656 P.2d 1030", "719 P.2d 531", "75 Ill. Dec. 486", "828 P.2d 549", "94 Wn.2d 40", "98 Wn.2d 434"]
+cites_cases: ["105 Wn.2d 778", "118 Wn.2d 801", "119 Ill. App. 3d 1049", "15 U.S.C. §§ 1601", "185 F.3d 957", "22 Wn. App. 384", "241 F.3d 696", "26 Wn. App. 430", "31 Wn. App. 286", "457 N.E.2d 480", "589 P.2d 1265", "613 P.2d 187", "614 P.2d 184", "640 P.2d 1077", "656 P.2d 1030", "719 P.2d 531", "75 Ill. Dec. 486", "828 P.2d 549", "94 Wn.2d 40", "98 Wn.2d 434"]
 ---
 
 # Fidelity Mortgage Corp. v. Seattle Times Co.
