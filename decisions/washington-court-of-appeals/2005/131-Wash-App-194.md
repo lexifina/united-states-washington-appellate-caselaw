@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32647-7-II"
 decided: "2005-12-28"
-citations: ["131 Wash. App. 194", "131 Wash. App. 1002"]
+citations: ["131 Wash. App. 194"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Kenneth Lloyd Goble, Appellan
 source_url: "https://static.case.law/wash-app/131/cases/0194-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2514272
-cites_cases: ["104 Wn. 2d 412", "105 N.M. 592", "109 N.M. 640", "110 Wn.2d 682", "115 Wn.2d 60", "123 Wn. App. 1", "128 Wn.2d 693", "128 Wn.2d 98", "129 Wn.2d 336", "131 Wn. App. 194", "131 Wn.2d 258", "135 Wn.2d 97", "140 Wn.2d 456", "144 Wn.2d 236", "150 Wn.2d 821", "27 P.3d 184", "443 U.S. 307", "607 P.2d 304", "612 S.W.2d 598", "616 P.2d 628", "64 Wn. App. 410", "67 Wn. App. 824", "705 P.2d 1182", "757 P.2d 492", "794 P.2d 850", "824 P.2d 533", "83 P.3d 970", "840 P.2d 905", "905 P.2d 346", "911 P.2d 996", "917 P.2d 95", "93 Wn.2d 186", "930 P.2d 917", "94 P.3d 323", "94 Wn.2d 216", "954 P.2d 900", "998 P.2d 321"]
+cites_cases: ["104 Wn. 2d 412", "105 N.M. 592", "109 N.M. 640", "110 Wn.2d 682", "115 Wn.2d 60", "123 Wn. App. 1", "128 Wn.2d 693", "128 Wn.2d 98", "129 Wn.2d 336", "131 Wn.2d 258", "135 Wn.2d 97", "140 Wn.2d 456", "144 Wn.2d 236", "150 Wn.2d 821", "27 P.3d 184", "443 U.S. 307", "607 P.2d 304", "612 S.W.2d 598", "616 P.2d 628", "64 Wn. App. 410", "67 Wn. App. 824", "705 P.2d 1182", "757 P.2d 492", "794 P.2d 850", "824 P.2d 533", "83 P.3d 970", "840 P.2d 905", "905 P.2d 346", "911 P.2d 996", "917 P.2d 95", "93 Wn.2d 186", "930 P.2d 917", "94 P.3d 323", "94 Wn.2d 216", "954 P.2d 900", "998 P.2d 321"]
 ---
 
 # State v. Goble
