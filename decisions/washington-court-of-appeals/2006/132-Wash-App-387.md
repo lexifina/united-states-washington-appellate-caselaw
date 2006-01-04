@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32256-1-II"
 decided: "2006-01-04"
-citations: ["132 Wash. App. 387", "131 Wash. App. 1004"]
+citations: ["132 Wash. App. 387"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Rosalie A. Hyatt et al., Appellants, v. The Department of Labor and I
 source_url: "https://static.case.law/wash-app/132/cases/0387-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5876516
-cites_cases: ["112 Wn. App. 450", "113 Wn. App. 401", "113 Wn. App. 84", "118 P.3d 392", "122 Wn.2d 738", "125 P.3d 202", "125 Wn.2d 533", "129 Wn. App. 236", "130 Wn. App. 829", "130 Wn.2d 1011", "132 Wn. App. 387", "132 Wn.2d 162", "135 Wn.2d 582", "142 Wn.2d 801", "143 Wn.2d 422", "151 Wn.2d 853", "159 Wn.2d 1004", "16 P.3d 583", "20 P.3d 939", "286 P.2d 104", "45 P.3d 1121", "46 Wn.2d 895", "52 P.3d 43", "54 P.3d 687", "663 P.2d 104", "81 Wn. App. 79", "863 P.2d 535", "886 P.2d 189", "913 P.2d 393", "93 P.3d 108", "937 P.2d 565", "957 P.2d 1241", "99 Wn.2d 394"]
+cites_cases: ["112 Wn. App. 450", "113 Wn. App. 401", "113 Wn. App. 84", "118 P.3d 392", "122 Wn.2d 738", "125 P.3d 202", "125 Wn.2d 533", "129 Wn. App. 236", "130 Wn. App. 829", "130 Wn.2d 1011", "132 Wn.2d 162", "135 Wn.2d 582", "142 Wn.2d 801", "143 Wn.2d 422", "151 Wn.2d 853", "159 Wn.2d 1004", "16 P.3d 583", "20 P.3d 939", "286 P.2d 104", "45 P.3d 1121", "46 Wn.2d 895", "52 P.3d 43", "54 P.3d 687", "663 P.2d 104", "81 Wn. App. 79", "863 P.2d 535", "886 P.2d 189", "913 P.2d 393", "93 P.3d 108", "937 P.2d 565", "957 P.2d 1241", "99 Wn.2d 394"]
 ---
 
 # Hyatt v. Department of Labor & Industries
