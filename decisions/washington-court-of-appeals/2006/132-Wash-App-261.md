@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54796-8-I"
 decided: "2006-01-09"
-citations: ["132 Wash. App. 261", "131 Wash. App. 1005"]
+citations: ["132 Wash. App. 261"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Seaborn Pile Driving Company, Inc., Appellant, v. Gayle Glew et al., 
 source_url: "https://static.case.law/wash-app/132/cases/0261-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5883170
-cites_cases: ["110 P.3d 840", "110 Wn. App. 786", "115 Wn.2d 657", "12 F.3d 901", "122 F.3d 830", "127 Wn. App. 180", "132 Wn. App. 261", "147 P.2d 310", "158 Wn.2d 1027", "1992 U.S. Dist. LEXIS 10228", "20 Wn.2d 337", "270 F.3d 551", "316 P.2d 126", "40 P.3d 679", "473 U.S. 1", "50 Wn. App. 780", "51 Wn.2d 89", "58 Fair Empl. Prac. Cas. (BNA) 1340", "59 Empl. Prac. Dec. (CCH) ¶ 41,713", "65 Wn. App. 576", "750 P.2d 1279", "801 P.2d 222", "828 P.2d 1175", "858 F.2d 397", "926 F.2d 877"]
+cites_cases: ["110 P.3d 840", "110 Wn. App. 786", "115 Wn.2d 657", "12 F.3d 901", "122 F.3d 830", "127 Wn. App. 180", "147 P.2d 310", "158 Wn.2d 1027", "1992 U.S. Dist. LEXIS 10228", "20 Wn.2d 337", "270 F.3d 551", "316 P.2d 126", "40 P.3d 679", "473 U.S. 1", "50 Wn. App. 780", "51 Wn.2d 89", "58 Fair Empl. Prac. Cas. (BNA) 1340", "59 Empl. Prac. Dec. (CCH) ¶ 41,713", "65 Wn. App. 576", "750 P.2d 1279", "801 P.2d 222", "828 P.2d 1175", "858 F.2d 397", "926 F.2d 877"]
 ---
 
 # Seaborn Pile Driving Co. v. Glew
