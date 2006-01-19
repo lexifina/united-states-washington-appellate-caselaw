@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "22818-5-III"
 decided: "2006-01-19"
-citations: ["132 Wash. App. 1", "131 Wash. App. 1013"]
+citations: ["132 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jack French et al., Respondents, v. Uribe, Inc., Petitioner."]
 source_url: "https://static.case.law/wash-app/132/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5879700
-cites_cases: ["103 Wn.2d 768", "103 Wn.2d 800", "104 Wn.2d 710", "108 Wn. App. 185", "109 P.3d 805", "116 Wn.2d 217", "119 P.3d 318", "119 Wn. App. 61", "119 Wn. App. 95", "124 Wn. App. 196", "127 Wn.2d 853", "128 Wn.2d 931", "13 Wn. App. 269", "132 Wn. App. 1", "136 Wn.2d 350", "154 Wn.2d 16", "155 Wn.2d 290", "158 Wn.2d 1022", "185 Wash. 284", "22 Wn. App. 163", "289 P.2d 338", "29 P.3d 1268", "297 P.2d 235", "43 Wn. App. 223", "47 Wn.2d 680", "48 Wn.2d 825", "519 P.2d 7", "534 P.2d 596", "54 P.2d 235", "588 P.2d 1346", "589 P.2d 250", "698 P.2d 77", "699 P.2d 217", "709 P.2d 793", "716 P.2d 925", "79 P.3d 18", "79 P.3d 6", "802 P.2d 1360", "83 Wn.2d 491", "85 Wn.2d 1013", "904 P.2d 278", "91 Wn.2d 345", "913 P.2d 377", "95 Wn. App. 802", "961 P.2d 952", "977 P.2d 660", "99 P.3d 394"]
+cites_cases: ["103 Wn.2d 768", "103 Wn.2d 800", "104 Wn.2d 710", "108 Wn. App. 185", "109 P.3d 805", "116 Wn.2d 217", "119 P.3d 318", "119 Wn. App. 61", "119 Wn. App. 95", "124 Wn. App. 196", "127 Wn.2d 853", "128 Wn.2d 931", "13 Wn. App. 269", "136 Wn.2d 350", "154 Wn.2d 16", "155 Wn.2d 290", "158 Wn.2d 1022", "185 Wash. 284", "22 Wn. App. 163", "289 P.2d 338", "29 P.3d 1268", "297 P.2d 235", "43 Wn. App. 223", "47 Wn.2d 680", "48 Wn.2d 825", "519 P.2d 7", "534 P.2d 596", "54 P.2d 235", "588 P.2d 1346", "589 P.2d 250", "698 P.2d 77", "699 P.2d 217", "709 P.2d 793", "716 P.2d 925", "79 P.3d 18", "79 P.3d 6", "802 P.2d 1360", "83 Wn.2d 491", "85 Wn.2d 1013", "904 P.2d 278", "91 Wn.2d 345", "913 P.2d 377", "95 Wn. App. 802", "961 P.2d 952", "977 P.2d 660", "99 P.3d 394"]
 ---
 
 # French v. Uribe, Inc.
