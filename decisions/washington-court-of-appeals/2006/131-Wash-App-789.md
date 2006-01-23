@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55081-1-I"
 decided: "2006-01-23"
-citations: ["131 Wash. App. 789", "131 Wash. App. 1015"]
+citations: ["131 Wash. App. 789"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jeremy Monroe King, Appellant
 source_url: "https://static.case.law/wash-app/131/cases/0789-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2517006
-cites_cases: ["107 P.3d 133", "113 Wn.2d 1002", "124 Wn.2d 1018", "126 Wn. App. 97", "131 Wn. App. 789", "155 Wn.2d 1014", "49 Wn. App. 251", "53 Wn. App. 754", "64 Wn. App. 147", "71 Wn. App. 798", "742 P.2d 190", "770 P.2d 662", "822 P.2d 1250", "863 P.2d 85"]
+cites_cases: ["107 P.3d 133", "113 Wn.2d 1002", "124 Wn.2d 1018", "126 Wn. App. 97", "155 Wn.2d 1014", "49 Wn. App. 251", "53 Wn. App. 754", "64 Wn. App. 147", "71 Wn. App. 798", "742 P.2d 190", "770 P.2d 662", "822 P.2d 1250", "863 P.2d 85"]
 ---
 
 # State v. King
