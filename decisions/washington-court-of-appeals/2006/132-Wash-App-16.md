@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55140-0-I"
 decided: "2006-02-06"
-citations: ["132 Wash. App. 16", "131 Wash. App. 1030"]
+citations: ["132 Wash. App. 16"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Deryle D. Hovinga, Appellant."]
 source_url: "https://static.case.law/wash-app/132/cases/0016-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5878331
-cites_cases: ["101 P.3d 422", "107 Wn.2d 503", "122 Wn.2d 1", "124 Wn. App. 344", "125 P.3d 111", "125 Wn.2d 24", "126 Wn.2d 244", "132 Wn. App. 16", "140 Wn.2d 686", "147 Wn.2d 1", "149 Wn.2d 724", "156 Wn.2d 150", "158 Wn.2d 1024", "2 P.3d 473", "400 U.S. 25", "51 P.3d 73", "72 P.3d 708", "730 P.2d 1327", "857 P.2d 989", "882 P.2d 747", "893 P.2d 615"]
+cites_cases: ["101 P.3d 422", "107 Wn.2d 503", "122 Wn.2d 1", "124 Wn. App. 344", "125 P.3d 111", "125 Wn.2d 24", "126 Wn.2d 244", "140 Wn.2d 686", "147 Wn.2d 1", "149 Wn.2d 724", "156 Wn.2d 150", "158 Wn.2d 1024", "2 P.3d 473", "400 U.S. 25", "51 P.3d 73", "72 P.3d 708", "730 P.2d 1327", "857 P.2d 989", "882 P.2d 747", "893 P.2d 615"]
 ---
 
 # In re the Detention of Hovinga
