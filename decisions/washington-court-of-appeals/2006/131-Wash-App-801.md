@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55461-1-I; 55660-6-I; 55462-0-I; 55519-7-I; 55595-2-I"
 decided: "2006-02-13"
-citations: ["131 Wash. App. 801", "131 Wash. App. 1037"]
+citations: ["131 Wash. App. 801"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Seattle, Respondent, v. Lisa K. Hammon, Petitioner. The C
 source_url: "https://static.case.law/wash-app/131/cases/0801-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 2515668
-cites_cases: ["101 Wn.2d 576", "112 Wn.2d 140", "113 Wn.2d 154", "116 Wn.2d 189", "118 Wn.2d 801", "128 Wn.2d 492", "131 Wn. App. 801", "158 Wn.2d 1017", "32 Wn. App. 827", "442 U.S. 114", "513 P.2d 301", "550 P.2d 685", "56 Wn. App. 490", "58 Wn. App. 698", "650 P.2d 238", "681 P.2d 237", "769 P.2d 295", "776 P.2d 676", "784 P.2d 533", "794 P.2d 862", "802 P.2d 1371", "828 P.2d 549", "87 Wn.2d 206", "9 Wn. App. 541", "909 P.2d 1294"]
+cites_cases: ["101 Wn.2d 576", "112 Wn.2d 140", "113 Wn.2d 154", "116 Wn.2d 189", "118 Wn.2d 801", "128 Wn.2d 492", "158 Wn.2d 1017", "32 Wn. App. 827", "442 U.S. 114", "513 P.2d 301", "550 P.2d 685", "56 Wn. App. 490", "58 Wn. App. 698", "650 P.2d 238", "681 P.2d 237", "769 P.2d 295", "776 P.2d 676", "784 P.2d 533", "794 P.2d 862", "802 P.2d 1371", "828 P.2d 549", "87 Wn.2d 206", "9 Wn. App. 541", "909 P.2d 1294"]
 ---
 
 # City of Seattle v. Hammon
