@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55365-8-I"
 decided: "2006-02-13"
-citations: ["132 Wash. App. 26", "131 Wash. App. 1037"]
+citations: ["132 Wash. App. 26"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Keith Burlin Fisher, Appellan
 source_url: "https://static.case.law/wash-app/132/cases/0026-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5883138
-cites_cases: ["105 Wn.2d 632", "118 Wn.2d 826", "132 Wn. App. 26", "148 Wn.2d 564", "150 Wn.2d 774", "158 Wn.2d 1021", "356 P.2d 292", "57 Wn.2d 106", "594 P.2d 448", "62 P.3d 489", "716 P.2d 295", "827 P.2d 1374", "83 P.3d 410", "92 Wn.2d 106"]
+cites_cases: ["105 Wn.2d 632", "118 Wn.2d 826", "148 Wn.2d 564", "150 Wn.2d 774", "158 Wn.2d 1021", "356 P.2d 292", "57 Wn.2d 106", "594 P.2d 448", "62 P.3d 489", "716 P.2d 295", "827 P.2d 1374", "83 P.3d 410", "92 Wn.2d 106"]
 ---
 
 # State v. Fisher
