@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55803-0-I"
 decided: "2006-02-27"
-citations: ["132 Wash. App. 32", "131 Wash. App. 1049"]
+citations: ["132 Wash. App. 32"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Delinda Middleton Taylor, Appellant, v. The Baseball Club of Seattle,
 source_url: "https://static.case.law/wash-app/132/cases/0032-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5876943
-cites_cases: ["109 Wn.2d 448", "112 Ohio St. 175", "119 Wn.2d 484", "125 Wn.2d 337", "129 Wn.2d 43", "132 Wn. App. 32", "133 Wn.2d 192", "147 N.E. 86", "153 S.W. 1076", "158 Wn.2d 1026", "168 Mo. App. 301", "168 S.W. 908", "181 Mo. App. 327", "225 N.E.2d 83", "229 P.2d 329", "260 Ga. App. 791", "29 N.Y.S.2d 56", "31 Misc. 142", "38 Wn.2d 362", "483 Pa. 75", "588 P.2d 1346", "746 P.2d 285", "80 Ill. App. 2d 336", "834 P.2d 6", "883 P.2d 1383", "91 Wn.2d 345", "914 P.2d 728", "92 Wn. App. 297", "92 Wn. App. 709", "943 P.2d 286", "965 P.2d 1112", "966 P.2d 342", "97 Wn. App. 519", "984 P.2d 448"]
+cites_cases: ["109 Wn.2d 448", "112 Ohio St. 175", "119 Wn.2d 484", "125 Wn.2d 337", "129 Wn.2d 43", "133 Wn.2d 192", "147 N.E. 86", "153 S.W. 1076", "158 Wn.2d 1026", "168 Mo. App. 301", "168 S.W. 908", "181 Mo. App. 327", "225 N.E.2d 83", "229 P.2d 329", "260 Ga. App. 791", "29 N.Y.S.2d 56", "31 Misc. 142", "38 Wn.2d 362", "483 Pa. 75", "588 P.2d 1346", "746 P.2d 285", "80 Ill. App. 2d 336", "834 P.2d 6", "883 P.2d 1383", "91 Wn.2d 345", "914 P.2d 728", "92 Wn. App. 297", "92 Wn. App. 709", "943 P.2d 286", "965 P.2d 1112", "966 P.2d 342", "97 Wn. App. 519", "984 P.2d 448"]
 ---
 
 # Taylor v. Baseball Club of Seattle, L.P.
