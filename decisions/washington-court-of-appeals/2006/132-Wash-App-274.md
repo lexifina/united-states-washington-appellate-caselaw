@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55708-4-I"
 decided: "2006-03-06"
-citations: ["132 Wash. App. 274", "131 Wash. App. 1056"]
+citations: ["132 Wash. App. 274"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Laser Underground & Earthworks, Inc., Appellant, v. The Department of
 source_url: "https://static.case.law/wash-app/132/cases/0274-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5876861
-cites_cases: ["113 P.3d 481", "119 Wn. App. 906", "122 Wn. App. 402", "132 Wn. App. 274", "154 Wn.2d 1001", "29 U.S.C. §§ 651-678", "83 P.3d 1012", "97 P.3d 17"]
+cites_cases: ["113 P.3d 481", "119 Wn. App. 906", "122 Wn. App. 402", "154 Wn.2d 1001", "29 U.S.C. §§ 651-678", "83 P.3d 1012", "97 P.3d 17"]
 ---
 
 # Laser Underground & Earthworks, Inc. v. Department of Labor & Industries
