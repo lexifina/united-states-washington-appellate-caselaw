@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32595-1-II"
 decided: "2006-03-07"
-citations: ["132 Wash. App. 415", "131 Wash. App. 1059"]
+citations: ["132 Wash. App. 415"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Chris Alfred Burke, Jr., Appe
 source_url: "https://static.case.law/wash-app/132/cases/0415-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5883625
-cites_cases: ["103 Wn.2d 361", "119 Wn.2d 192", "127 Wn.2d 322", "129 Wn.2d 61", "130 Wn.2d 711", "132 Wn. App. 415", "136 Wn.2d 1018", "136 Wn.2d 467", "150 Wn.2d 821", "466 U.S. 668", "693 P.2d 81", "829 P.2d 1068", "83 P.3d 970", "89 Wn. App. 794", "899 P.2d 1251", "917 P.2d 563", "927 P.2d 227", "950 P.2d 38", "965 P.2d 593"]
+cites_cases: ["103 Wn.2d 361", "119 Wn.2d 192", "127 Wn.2d 322", "129 Wn.2d 61", "130 Wn.2d 711", "136 Wn.2d 1018", "136 Wn.2d 467", "150 Wn.2d 821", "466 U.S. 668", "693 P.2d 81", "829 P.2d 1068", "83 P.3d 970", "89 Wn. App. 794", "899 P.2d 1251", "917 P.2d 563", "927 P.2d 227", "950 P.2d 38", "965 P.2d 593"]
 ---
 
 # State v. Burke
