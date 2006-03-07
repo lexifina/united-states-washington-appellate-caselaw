@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31830-0-II"
 decided: "2006-03-07"
-citations: ["132 Wash. App. 400", "131 Wash. App. 1057"]
+citations: ["132 Wash. App. 400"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Ronald K. Johnson, Appellant.
 source_url: "https://static.case.law/wash-app/132/cases/0400-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5880950
-cites_cases: ["103 Wn.2d 1", "107 Wn.2d 1028", "107 Wn.2d 346", "110 P.3d 748", "110 P.3d 849", "112 Wn.2d 1020", "117 Wn. App. 758", "125 Wn.2d 1015", "127 Wn. App. 125", "132 Wn. App. 400", "137 Wn.2d 1012", "149 Wn.2d 342", "154 Wn.2d 193", "159 Wn.2d 1006", "33 Wn. App. 859", "44 Wn. App. 26", "45 Wn. App. 653", "45 Wn. App. 667", "471 U.S. 1094", "53 Wn. App. 367", "616 P.2d 628", "658 P.2d 55", "68 A.L.R.4th 425", "68 P.3d 282", "691 P.2d 929", "71 Wn. App. 634", "720 P.2d 1387", "726 P.2d 1015", "726 P.2d 1257", "729 P.2d 48", "73 P.3d 416", "75 Wn. App. 134", "76 Wn. App. 445", "768 P.2d 509", "861 P.2d 492", "876 P.2d 970", "886 P.2d 578", "90 Wn. App. 720", "91 Wn. App. 869", "94 Wn.2d 216", "954 P.2d 925", "960 P.2d 464", "99 Wn.2d 1023"]
+cites_cases: ["103 Wn.2d 1", "107 Wn.2d 1028", "107 Wn.2d 346", "110 P.3d 748", "110 P.3d 849", "112 Wn.2d 1020", "117 Wn. App. 758", "125 Wn.2d 1015", "127 Wn. App. 125", "137 Wn.2d 1012", "149 Wn.2d 342", "154 Wn.2d 193", "159 Wn.2d 1006", "33 Wn. App. 859", "44 Wn. App. 26", "45 Wn. App. 653", "45 Wn. App. 667", "471 U.S. 1094", "53 Wn. App. 367", "616 P.2d 628", "658 P.2d 55", "68 A.L.R.4th 425", "68 P.3d 282", "691 P.2d 929", "71 Wn. App. 634", "720 P.2d 1387", "726 P.2d 1015", "726 P.2d 1257", "729 P.2d 48", "73 P.3d 416", "75 Wn. App. 134", "76 Wn. App. 445", "768 P.2d 509", "861 P.2d 492", "876 P.2d 970", "886 P.2d 578", "90 Wn. App. 720", "91 Wn. App. 869", "94 Wn.2d 216", "954 P.2d 925", "960 P.2d 464", "99 Wn.2d 1023"]
 ---
 
 # State v. Johnson
