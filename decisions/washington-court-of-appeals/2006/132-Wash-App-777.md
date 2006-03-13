@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56243-6-I"
 decided: "2006-03-13"
-citations: ["132 Wash. App. 777", "131 Wash. App. 1063"]
+citations: ["132 Wash. App. 777"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jared Little, Appellant, v. Countrywood Homes, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/132/cases/0777-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3830919
-cites_cases: ["104 Wn.2d 254", "112 Wn.2d 216", "114 P.3d 637", "114 Wn.2d 454", "119 P.3d 825", "129 Wn.2d 43", "132 Wn. App. 777", "154 Wn.2d 477", "155 Wn.2d 306", "158 Wn.2d 1017", "180 P.2d 564", "27 Wn.2d 802", "704 P.2d 600", "770 P.2d 182", "788 P.2d 545", "914 P.2d 728", "94 Wn. App. 372", "972 P.2d 475"]
+cites_cases: ["104 Wn.2d 254", "112 Wn.2d 216", "114 P.3d 637", "114 Wn.2d 454", "119 P.3d 825", "129 Wn.2d 43", "154 Wn.2d 477", "155 Wn.2d 306", "158 Wn.2d 1017", "180 P.2d 564", "27 Wn.2d 802", "704 P.2d 600", "770 P.2d 182", "788 P.2d 545", "914 P.2d 728", "94 Wn. App. 372", "972 P.2d 475"]
 ---
 
 # Little v. Countrywood Homes, Inc.
