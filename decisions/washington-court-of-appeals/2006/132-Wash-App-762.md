@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55524-3-I"
 decided: "2006-03-13"
-citations: ["132 Wash. App. 762", "131 Wash. App. 1062"]
+citations: ["132 Wash. App. 762"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Vesna Erakovic, Respondent, v. The Department of Labor and Industries
 source_url: "https://static.case.law/wash-app/132/cases/0762-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5883241
-cites_cases: ["117 Wn. App. 251", "120 P.3d 564", "120 P.3d 941", "123 P.3d 858", "130 Wn. App. 489", "132 Wn. App. 762", "142 Wn.2d 801", "146 Wn.2d 1", "150 Wn.2d 1029", "150 Wn.2d 881", "151 Wn.2d 221", "155 Wn.2d 470", "155 Wn.2d 527", "16 P.3d 583", "26 U.S.C. § 3111", "42 U.S.C. § 1381", "42 U.S.C. § 1382", "43 P.3d 4", "70 P.3d 158", "703 P.2d 632", "776 P.2d 1163", "785 P.2d 916", "817 P.2d 534", "83 P.3d 999", "86 P.3d 1166", "961 P.2d 547", "968 P.2d 164"]
+cites_cases: ["117 Wn. App. 251", "120 P.3d 564", "120 P.3d 941", "123 P.3d 858", "130 Wn. App. 489", "142 Wn.2d 801", "146 Wn.2d 1", "150 Wn.2d 1029", "150 Wn.2d 881", "151 Wn.2d 221", "155 Wn.2d 470", "155 Wn.2d 527", "16 P.3d 583", "26 U.S.C. § 3111", "42 U.S.C. § 1381", "42 U.S.C. § 1382", "43 P.3d 4", "70 P.3d 158", "703 P.2d 632", "776 P.2d 1163", "785 P.2d 916", "817 P.2d 534", "83 P.3d 999", "86 P.3d 1166", "961 P.2d 547", "968 P.2d 164"]
 ---
 
 # Erakovic v. Department of Labor & Industries
