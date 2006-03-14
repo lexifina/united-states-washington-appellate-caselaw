@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32942-5-II"
 decided: "2006-03-14"
-citations: ["132 Wash. App. 784", "132 Wash. App. 1003"]
+citations: ["132 Wash. App. 784"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Richard Asche et al., Appellants, v. Melany Bloomquist et al., Respon
 source_url: "https://static.case.law/wash-app/132/cases/0784-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5879879
-cites_cases: ["104 Wn.2d 181", "109 Wn.2d 107", "117 P.3d 1089", "119 Wn.2d 504", "120 P.3d 56", "123 Wn.2d 621", "128 Wn.2d 40", "129 Wn.2d 787", "132 Wn. App. 784", "134 Wn.2d 947", "135 Wn.2d 1", "136 Wn.2d 195", "136 Wn.2d 946", "146 Wn.2d 904", "147 Wn.2d 440", "155 Wn.2d 1", "155 Wn.2d 397", "159 Wn.2d 1005", "22 Wash. 419", "22 Wn. App. 229", "24 F.3d 56", "52 P.3d 1", "520 U.S. 1210", "54 P.3d 1194", "55 Wn. App. 481", "588 P.2d 750", "61 P. 33", "704 P.2d 140", "744 P.2d 1032", "750 P.2d 254", "76 Wn. App. 357", "778 P.2d 534", "833 P.2d 381", "869 P.2d 1034", "87 Wn. App. 468", "884 P.2d 1339", "905 P.2d 338", "920 P.2d 581", "943 P.2d 306", "954 P.2d 250", "954 P.2d 877", "961 P.2d 333", "968 P.2d 871"]
+cites_cases: ["104 Wn.2d 181", "109 Wn.2d 107", "117 P.3d 1089", "119 Wn.2d 504", "120 P.3d 56", "123 Wn.2d 621", "128 Wn.2d 40", "129 Wn.2d 787", "134 Wn.2d 947", "135 Wn.2d 1", "136 Wn.2d 195", "136 Wn.2d 946", "146 Wn.2d 904", "147 Wn.2d 440", "155 Wn.2d 1", "155 Wn.2d 397", "159 Wn.2d 1005", "22 Wash. 419", "22 Wn. App. 229", "24 F.3d 56", "52 P.3d 1", "520 U.S. 1210", "54 P.3d 1194", "55 Wn. App. 481", "588 P.2d 750", "61 P. 33", "704 P.2d 140", "744 P.2d 1032", "750 P.2d 254", "76 Wn. App. 357", "778 P.2d 534", "833 P.2d 381", "869 P.2d 1034", "87 Wn. App. 468", "884 P.2d 1339", "905 P.2d 338", "920 P.2d 581", "943 P.2d 306", "954 P.2d 250", "954 P.2d 877", "961 P.2d 333", "968 P.2d 871"]
 ---
 
 # Asche v. Bloomquist
