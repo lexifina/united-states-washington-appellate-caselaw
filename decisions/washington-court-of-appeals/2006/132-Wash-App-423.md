@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56372-6-I"
 decided: "2006-03-20"
-citations: ["132 Wash. App. 423", "132 Wash. App. 1008"]
+citations: ["132 Wash. App. 423"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Paul J. Engbrecht, Appellant, v. The Employment Security Department, 
 source_url: "https://static.case.law/wash-app/132/cases/0423-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5884204
-cites_cases: ["102 Wn.2d 385", "122 Wn.2d 397", "127 Wn.2d 595", "132 Wn. App. 423", "159 Wn.2d 1005", "178 Wash. 118", "262 P.2d 772", "34 P.2d 428", "43 Wn.2d 618", "687 P.2d 195", "73 Wn. App. 405", "858 P.2d 494", "869 P.2d 1086", "903 P.2d 433", "98 Wn. App. 791", "990 P.2d 981"]
+cites_cases: ["102 Wn.2d 385", "122 Wn.2d 397", "127 Wn.2d 595", "159 Wn.2d 1005", "178 Wash. 118", "262 P.2d 772", "34 P.2d 428", "43 Wn.2d 618", "687 P.2d 195", "73 Wn. App. 405", "858 P.2d 494", "869 P.2d 1086", "903 P.2d 433", "98 Wn. App. 791", "990 P.2d 981"]
 ---
 
 # Engbrecht v. Employment Security Department
