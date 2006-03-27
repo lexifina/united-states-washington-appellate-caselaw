@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53366-5-I"
 decided: "2006-03-27"
-citations: ["132 Wash. App. 592", "132 Wash. App. 1011"]
+citations: ["132 Wash. App. 592"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Reginald Saunders, Appellant.
 source_url: "https://static.case.law/wash-app/132/cases/0592-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5883804
-cites_cases: ["10 P.3d 977", "104 Wn.2d 412", "106 Wn.2d 54", "111 P.3d 249", "111 P.3d 844", "112 Wis. 2d 131", "115 Wn.2d 171", "128 P.3d 87", "132 Wn. App. 592", "135 Wn.2d 326", "135 Wn.2d 369", "135 Wn.2d 441", "141 Wn.2d 1015", "141 Wn.2d 798", "143 Wn.2d 561", "150 Wn.2d 774", "150 Wn.2d 821", "154 Wn.2d 262", "154 Wn.2d 291", "156 Wn.2d 381", "23 P.3d 1046", "242 Neb. 176", "299 Or. 633", "334 Or. 328", "36 P. 139", "423 P.2d 539", "448 U.S. 56", "475 U.S. 673", "502 U.S. 346", "541 U.S. 36", "618 P.2d 99", "70 Wn.2d 430", "705 P.2d 1182", "720 P.2d 808", "77 Wn. App. 236", "795 P.2d 693", "8 Wash. 292", "801 S.W.2d 695", "83 P.3d 410", "83 P.3d 970", "88 Wn. App. 836", "890 P.2d 521", "94 Wn.2d 634", "947 P.2d 765", "957 P.2d 655", "957 P.2d 712", "957 P.2d 741", "96 Wn. App. 813", "981 P.2d 25", "99 Wn. App. 435", "998 P.2d 330"]
+cites_cases: ["10 P.3d 977", "104 Wn.2d 412", "106 Wn.2d 54", "111 P.3d 249", "111 P.3d 844", "112 Wis. 2d 131", "115 Wn.2d 171", "128 P.3d 87", "135 Wn.2d 326", "135 Wn.2d 369", "135 Wn.2d 441", "141 Wn.2d 1015", "141 Wn.2d 798", "143 Wn.2d 561", "150 Wn.2d 774", "150 Wn.2d 821", "154 Wn.2d 262", "154 Wn.2d 291", "156 Wn.2d 381", "23 P.3d 1046", "242 Neb. 176", "299 Or. 633", "334 Or. 328", "36 P. 139", "423 P.2d 539", "448 U.S. 56", "475 U.S. 673", "502 U.S. 346", "541 U.S. 36", "618 P.2d 99", "70 Wn.2d 430", "705 P.2d 1182", "720 P.2d 808", "77 Wn. App. 236", "795 P.2d 693", "8 Wash. 292", "801 S.W.2d 695", "83 P.3d 410", "83 P.3d 970", "88 Wn. App. 836", "890 P.2d 521", "94 Wn.2d 634", "947 P.2d 765", "957 P.2d 655", "957 P.2d 712", "957 P.2d 741", "96 Wn. App. 813", "981 P.2d 25", "99 Wn. App. 435", "998 P.2d 330"]
 ---
 
 # State v. Saunders
