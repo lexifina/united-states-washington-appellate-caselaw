@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24320-6-III"
 decided: "2006-03-28"
-citations: ["133 Wash. App. 176", "132 Wash. App. 1016"]
+citations: ["133 Wash. App. 176"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Adam Grant et al., Appellants, v. Gertrude Boccia et al., Respondents
 source_url: "https://static.case.law/wash-app/133/cases/0176-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4109581
-cites_cases: ["105 P.3d 1022", "107 Wn. App. 289", "113 F. Supp. 2d 1205", "120 Wn.2d 879", "123 Wn.2d 351", "125 Wn. App. 582", "125 Wn.2d 24", "128 Wn.2d 300", "130 Wn.2d 244", "133 Wn. App. 176", "133 Wn.2d 63", "140 Wn.2d 1", "159 Wn.2d 1014", "171 F.3d 308", "28 P.3d 1", "293 F. 1013", "317 F.3d 498", "393 F. Supp. 2d 801", "509 U.S. 579", "514 U.S. 1129", "56 Pa. D. & C.4th 86", "846 P.2d 502", "869 P.2d 43", "882 P.2d 747", "907 P.2d 282", "917 So. 2d 313", "922 P.2d 1304", "941 P.2d 667", "991 P.2d 1151"]
+cites_cases: ["105 P.3d 1022", "107 Wn. App. 289", "113 F. Supp. 2d 1205", "120 Wn.2d 879", "123 Wn.2d 351", "125 Wn. App. 582", "125 Wn.2d 24", "128 Wn.2d 300", "130 Wn.2d 244", "133 Wn.2d 63", "140 Wn.2d 1", "159 Wn.2d 1014", "171 F.3d 308", "28 P.3d 1", "293 F. 1013", "317 F.3d 498", "393 F. Supp. 2d 801", "509 U.S. 579", "514 U.S. 1129", "56 Pa. D. & C.4th 86", "846 P.2d 502", "869 P.2d 43", "882 P.2d 747", "907 P.2d 282", "917 So. 2d 313", "922 P.2d 1304", "941 P.2d 667", "991 P.2d 1151"]
 ---
 
 # Grant v. Boccia
