@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56030-1-I"
 decided: "2006-04-03"
-citations: ["132 Wash. App. 430", "132 Wash. App. 1020"]
+citations: ["132 Wash. App. 430"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Equilon Enterprises L.L.C., Appellant, v. Great American Alliance Ins
 source_url: "https://static.case.law/wash-app/132/cases/0430-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5884020
-cites_cases: ["117 Wn.2d 37", "119 Wn.2d 724", "126 Ill. App. 3d 150", "128 Ohio App. 3d 733", "132 Wn. App. 430", "143 F.3d 5", "2005 WI 150", "2005 WI App 92", "206 F.3d 487", "242 Ill. Dec. 971", "243 F.3d 1232", "286 Wis. 2d 98", "309 Ill. App. 3d 501", "346 F. Supp. 2d 958", "358 F. Supp. 2d 553", "43 Wn. App. 816", "466 N.E.2d 1091", "56 Wn. App. 773", "621 P.2d 1279", "69 Cal. App. 4th 321", "705 N.W.2d 660", "716 N.E.2d 766", "719 P.2d 954", "722 N.E.2d 755", "785 P.2d 843", "81 Cal. Rptr. 2d 557", "81 Ill. Dec. 289", "811 P.2d 673", "837 P.2d 1000", "847 A.2d 254", "95 Wn.2d 94", "96 Wn. App. 698", "97 Wn. App. 417", "981 P.2d 872", "983 P.2d 1155", "992 F.2d 251"]
+cites_cases: ["117 Wn.2d 37", "119 Wn.2d 724", "126 Ill. App. 3d 150", "128 Ohio App. 3d 733", "143 F.3d 5", "2005 WI 150", "2005 WI App 92", "206 F.3d 487", "242 Ill. Dec. 971", "243 F.3d 1232", "286 Wis. 2d 98", "309 Ill. App. 3d 501", "346 F. Supp. 2d 958", "358 F. Supp. 2d 553", "43 Wn. App. 816", "466 N.E.2d 1091", "56 Wn. App. 773", "621 P.2d 1279", "69 Cal. App. 4th 321", "705 N.W.2d 660", "716 N.E.2d 766", "719 P.2d 954", "722 N.E.2d 755", "785 P.2d 843", "81 Cal. Rptr. 2d 557", "81 Ill. Dec. 289", "811 P.2d 673", "837 P.2d 1000", "847 A.2d 254", "95 Wn.2d 94", "96 Wn. App. 698", "97 Wn. App. 417", "981 P.2d 872", "983 P.2d 1155", "992 F.2d 251"]
 ---
 
 # Equilon Enterprises L.L.C. v. Great American Alliance Insurance
