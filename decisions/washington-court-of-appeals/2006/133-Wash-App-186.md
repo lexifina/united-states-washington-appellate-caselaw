@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33584-1-II"
 decided: "2006-04-04"
-citations: ["133 Wash. App. 186", "132 Wash. App. 1024"]
+citations: ["133 Wash. App. 186"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kerry Christal, as Personal Representative, Appellant, v. Farmers Ins
 source_url: "https://static.case.law/wash-app/133/cases/0186-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4108300
-cites_cases: ["111 Wn.2d 452", "111 Wn.2d 636", "117 Wn.2d 37", "124 Wn.2d 789", "128 Wn.2d 207", "131 Wn.2d 420", "133 Wn. App. 186", "140 Ga. App. 3", "143 Wn.2d 43", "143 Wn.2d 57", "145 Wn.2d 417", "151 Wn.2d 396", "159 Wn.2d 1008", "17 P.3d 596", "17 P.3d 603", "189 S.E.2d 320", "213 Va. 81", "230 S.E.2d 70", "268 F. Supp. 2d 873", "38 P.3d 322", "45 Wn. App. 111", "45 Wn. App. 272", "543 P.2d 634", "545 P.2d 1193", "724 P.2d 1096", "724 P.2d 418", "760 P.2d 337", "762 P.2d 1141", "794 A.2d 897", "811 P.2d 673", "86 Wn.2d 264", "86 Wn.2d 432", "881 P.2d 1020", "89 P.3d 689", "905 P.2d 379", "932 P.2d 1244"]
+cites_cases: ["111 Wn.2d 452", "111 Wn.2d 636", "117 Wn.2d 37", "124 Wn.2d 789", "128 Wn.2d 207", "131 Wn.2d 420", "140 Ga. App. 3", "143 Wn.2d 43", "143 Wn.2d 57", "145 Wn.2d 417", "151 Wn.2d 396", "159 Wn.2d 1008", "17 P.3d 596", "17 P.3d 603", "189 S.E.2d 320", "213 Va. 81", "230 S.E.2d 70", "268 F. Supp. 2d 873", "38 P.3d 322", "45 Wn. App. 111", "45 Wn. App. 272", "543 P.2d 634", "545 P.2d 1193", "724 P.2d 1096", "724 P.2d 418", "760 P.2d 337", "762 P.2d 1141", "794 A.2d 897", "811 P.2d 673", "86 Wn.2d 264", "86 Wn.2d 432", "881 P.2d 1020", "89 P.3d 689", "905 P.2d 379", "932 P.2d 1244"]
 ---
 
 # Christal v. Farmers Insurance
