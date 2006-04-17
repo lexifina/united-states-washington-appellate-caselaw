@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57196-6-I"
 decided: "2006-04-17"
-citations: ["133 Wash. App. 77", "132 Wash. App. 1032"]
+citations: ["133 Wash. App. 77"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Khamchanh Soratsavong, Appellant, v. Stephen Haskell et al., Responde
 source_url: "https://static.case.law/wash-app/133/cases/0077-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4107091
-cites_cases: ["101 P.3d 409", "104 Wn.2d 181", "119 Wn.2d 251", "121 Wn.2d 243", "131 Wn.2d 1", "133 Wn. App. 77", "140 Wn.2d 1007", "140 Wn.2d 88", "149 Wn.2d 288", "149 Wn.2d 622", "153 Wn.2d 102", "159 Wn.2d 1007", "438 P.2d 581", "599 P.2d 1289", "67 P.3d 1068", "704 P.2d 140", "71 P.3d 644", "73 Wn.2d 348", "830 P.2d 646", "850 P.2d 1298", "92 Wn.2d 576", "929 P.2d 396", "95 Wn. App. 231", "974 P.2d 1275", "993 P.2d 259"]
+cites_cases: ["101 P.3d 409", "104 Wn.2d 181", "119 Wn.2d 251", "121 Wn.2d 243", "131 Wn.2d 1", "140 Wn.2d 1007", "140 Wn.2d 88", "149 Wn.2d 288", "149 Wn.2d 622", "153 Wn.2d 102", "159 Wn.2d 1007", "438 P.2d 581", "599 P.2d 1289", "67 P.3d 1068", "704 P.2d 140", "71 P.3d 644", "73 Wn.2d 348", "830 P.2d 646", "850 P.2d 1298", "92 Wn.2d 576", "929 P.2d 396", "95 Wn. App. 231", "974 P.2d 1275", "993 P.2d 259"]
 ---
 
 # Soratsavong v. Haskell
