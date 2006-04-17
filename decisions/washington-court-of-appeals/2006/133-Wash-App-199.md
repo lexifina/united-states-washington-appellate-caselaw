@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54834-4-I"
 decided: "2006-04-17"
-citations: ["133 Wash. App. 199", "132 Wash. App. 1033"]
+citations: ["133 Wash. App. 199"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. John A. Whitaker, Appellant."
 source_url: "https://static.case.law/wash-app/133/cases/0199-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4108548
-cites_cases: ["10 P.3d 977", "102 Wn.2d 277", "104 Wn.2d 412", "11 Wn. App. 583", "110 Wn.2d 682", "111 Wn.2d 105", "116 Wn.2d 364", "117 Wn.2d 829", "120 Wn.2d 549", "133 Wn. App. 199", "134 Wn.2d 868", "139 Wn.2d 250", "14 P.3d 713", "14 P.3d 752", "140 Wn.2d 19", "141 Wn.2d 798", "142 Wn.2d 471", "142 Wn.2d 568", "150 Wn.2d 251", "150 Wn.2d 498", "150 Wn.2d 821", "159 Wn.2d 1017", "29 L. Ed. 2d 855", "366 U.S. 717", "384 U.S. 333", "384 U.S. 436", "40 Wn. App. 340", "403 U.S. 947", "447 U.S. 264", "451 U.S. 477", "458 P.2d 558", "474 U.S. 159", "487 U.S. 285", "524 P.2d 479", "530 U.S. 466", "536 U.S. 584", "541 U.S. 36", "60 Wn. App. 662", "628 P.2d 472", "653 P.2d 284", "659 P.2d 488", "687 P.2d 172", "698 P.2d 598", "705 P.2d 1182", "757 P.2d 492", "759 P.2d 383", "76 P.3d 217", "76 Wn.2d 650", "77 Wn. App. 149", "79 P.3d 1144", "805 P.2d 211", "806 P.2d 1251", "822 P.2d 177", "83 P.3d 970", "844 P.2d 416", "85 Wn. App. 638", "890 P.2d 511", "90 Wn. App. 344", "91 S. Ct. 2273", "932 P.2d 669", "95 Wn. App. 41", "95 Wn.2d 616", "952 P.2d 116", "957 P.2d 218", "975 P.2d 520", "98 Wn.2d 30", "98 Wn.2d 789", "985 P.2d 289", "992 P.2d 496"]
+cites_cases: ["10 P.3d 977", "102 Wn.2d 277", "104 Wn.2d 412", "11 Wn. App. 583", "110 Wn.2d 682", "111 Wn.2d 105", "116 Wn.2d 364", "117 Wn.2d 829", "120 Wn.2d 549", "134 Wn.2d 868", "139 Wn.2d 250", "14 P.3d 713", "14 P.3d 752", "140 Wn.2d 19", "141 Wn.2d 798", "142 Wn.2d 471", "142 Wn.2d 568", "150 Wn.2d 251", "150 Wn.2d 498", "150 Wn.2d 821", "159 Wn.2d 1017", "29 L. Ed. 2d 855", "366 U.S. 717", "384 U.S. 333", "384 U.S. 436", "40 Wn. App. 340", "403 U.S. 947", "447 U.S. 264", "451 U.S. 477", "458 P.2d 558", "474 U.S. 159", "487 U.S. 285", "524 P.2d 479", "530 U.S. 466", "536 U.S. 584", "541 U.S. 36", "60 Wn. App. 662", "628 P.2d 472", "653 P.2d 284", "659 P.2d 488", "687 P.2d 172", "698 P.2d 598", "705 P.2d 1182", "757 P.2d 492", "759 P.2d 383", "76 P.3d 217", "76 Wn.2d 650", "77 Wn. App. 149", "79 P.3d 1144", "805 P.2d 211", "806 P.2d 1251", "822 P.2d 177", "83 P.3d 970", "844 P.2d 416", "85 Wn. App. 638", "890 P.2d 511", "90 Wn. App. 344", "91 S. Ct. 2273", "932 P.2d 669", "95 Wn. App. 41", "95 Wn.2d 616", "952 P.2d 116", "957 P.2d 218", "975 P.2d 520", "98 Wn.2d 30", "98 Wn.2d 789", "985 P.2d 289", "992 P.2d 496"]
 ---
 
 # State v. Whitaker
