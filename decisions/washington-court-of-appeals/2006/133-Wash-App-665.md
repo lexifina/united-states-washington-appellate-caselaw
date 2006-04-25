@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33483-6-II"
 decided: "2006-04-25"
-citations: ["133 Wash. App. 665", "132 Wash. App. 1042"]
+citations: ["133 Wash. App. 665"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Lawrence, Appellant, v. The Department of Health, Respondent.
 source_url: "https://static.case.law/wash-app/133/cases/0665-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4106638
-cites_cases: ["1 Wn. App. 285", "110 P.3d 1132", "116 P.3d 1081", "120 P.3d 616", "123 P.3d 102", "128 Wn. App. 833", "129 Wn. App. 832", "133 Wn. App. 665", "133 Wn.2d 861", "144 Wn.2d 516", "148 Wn.2d 1", "151 Wn.2d 568", "154 Wn.2d 224", "155 Wn.2d 824", "29 P.3d 689", "395 U.S. 185", "408 U.S. 471", "424 U.S. 693", "426 U.S. 341", "461 P.2d 9", "541 P.2d 982", "57 P.3d 1156", "637 P.2d 940", "86 Wn.2d 29", "90 P.3d 659", "947 P.2d 1208", "96 Wn.2d 503"]
+cites_cases: ["1 Wn. App. 285", "110 P.3d 1132", "116 P.3d 1081", "120 P.3d 616", "123 P.3d 102", "128 Wn. App. 833", "129 Wn. App. 832", "133 Wn.2d 861", "144 Wn.2d 516", "148 Wn.2d 1", "151 Wn.2d 568", "154 Wn.2d 224", "155 Wn.2d 824", "29 P.3d 689", "395 U.S. 185", "408 U.S. 471", "424 U.S. 693", "426 U.S. 341", "461 P.2d 9", "541 P.2d 982", "57 P.3d 1156", "637 P.2d 940", "86 Wn.2d 29", "90 P.3d 659", "947 P.2d 1208", "96 Wn.2d 503"]
 ---
 
 # Lawrence v. Department of Health
