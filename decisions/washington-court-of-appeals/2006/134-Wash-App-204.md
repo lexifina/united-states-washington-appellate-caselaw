@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33043-1-II"
 decided: "2006-04-25"
-citations: ["134 Wash. App. 204", "132 Wash. App. 1041"]
+citations: ["134 Wash. App. 204"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Mary C. DeVany, Appellant, v. Farmers Insurance Company of Washington
 source_url: "https://static.case.law/wash-app/134/cases/0204-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3517690
-cites_cases: ["104 Wn.2d 518", "107 Wn.2d 721", "109 P.3d 805", "111 P.3d 1173", "115 P.3d 363", "117 Wn.2d 37", "128 Wn. App. 333", "134 Wn. App. 204", "151 Wn.2d 303", "154 Wn.2d 16", "154 Wn.2d 345", "160 Wn.2d 1011", "47 Wn. App. 283", "707 P.2d 125", "73 Wn. App. 426", "733 P.2d 213", "734 P.2d 945", "811 P.2d 673", "869 P.2d 1093", "88 P.3d 395", "93 Wn. App. 671", "963 P.2d 965"]
+cites_cases: ["104 Wn.2d 518", "107 Wn.2d 721", "109 P.3d 805", "111 P.3d 1173", "115 P.3d 363", "117 Wn.2d 37", "128 Wn. App. 333", "151 Wn.2d 303", "154 Wn.2d 16", "154 Wn.2d 345", "160 Wn.2d 1011", "47 Wn. App. 283", "707 P.2d 125", "73 Wn. App. 426", "733 P.2d 213", "734 P.2d 945", "811 P.2d 673", "869 P.2d 1093", "88 P.3d 395", "93 Wn. App. 671", "963 P.2d 965"]
 ---
 
 # DeVany v. Farmers Insurance
