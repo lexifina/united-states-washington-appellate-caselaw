@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33398-8-II"
 decided: "2006-04-25"
-citations: ["133 Wash. App. 394", "132 Wash. App. 1042"]
+citations: ["133 Wash. App. 394"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Claire L. Hall et al, Appellants, v. State Farm Mutual Automobile Ins
 source_url: "https://static.case.law/wash-app/133/cases/0394-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4108217
-cites_cases: ["103 Wn.2d 708", "110 P.3d 733", "115 P.3d 332", "128 Wn. App. 72", "132 Wn.2d 507", "133 Wn. App. 394", "142 Wn.2d 654", "15 P.3d 115", "154 Wn.2d 165", "37 Wn. App. 703", "52 Wn. App. 822", "59 Wn. App. 383", "59 Wn. App. 388", "65 Wn. App. 872", "683 P.2d 221", "694 P.2d 1087", "764 P.2d 1005", "797 P.2d 540", "829 P.2d 783", "88 Wn. App. 306", "940 P.2d 252", "945 P.2d 727"]
+cites_cases: ["103 Wn.2d 708", "110 P.3d 733", "115 P.3d 332", "128 Wn. App. 72", "132 Wn.2d 507", "142 Wn.2d 654", "15 P.3d 115", "154 Wn.2d 165", "37 Wn. App. 703", "52 Wn. App. 822", "59 Wn. App. 383", "59 Wn. App. 388", "65 Wn. App. 872", "683 P.2d 221", "694 P.2d 1087", "764 P.2d 1005", "797 P.2d 540", "829 P.2d 783", "88 Wn. App. 306", "940 P.2d 252", "945 P.2d 727"]
 ---
 
 # Hall v. State Farm Mutual Automobile Insurance
