@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55787-4-I"
 decided: "2006-05-01"
-citations: ["133 Wash. App. 403", "132 Wash. App. 1045"]
+citations: ["133 Wash. App. 403"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Emilie Johnson, Appellant, v. The Department of Health, Respondent."]
 source_url: "https://static.case.law/wash-app/133/cases/0403-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4107876
-cites_cases: ["117 Wn.2d 720", "127 Wn.2d 595", "127 Wn.2d 782", "133 Wn. App. 403", "663 P.2d 457", "818 P.2d 1062", "903 P.2d 433", "903 P.2d 986", "94 Wn. App. 7", "972 P.2d 101", "99 Wn.2d 466"]
+cites_cases: ["117 Wn.2d 720", "127 Wn.2d 595", "127 Wn.2d 782", "663 P.2d 457", "818 P.2d 1062", "903 P.2d 433", "903 P.2d 986", "94 Wn. App. 7", "972 P.2d 101", "99 Wn.2d 466"]
 ---
 
 # Johnson v. Department of Health
