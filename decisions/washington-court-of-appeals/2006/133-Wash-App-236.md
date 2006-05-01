@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55910-9-I"
 decided: "2006-05-01"
-citations: ["133 Wash. App. 236", "132 Wash. App. 1049"]
+citations: ["133 Wash. App. 236"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Raymond Guerra Gonzales, Appe
 source_url: "https://static.case.law/wash-app/133/cases/0236-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4107912
-cites_cases: ["108 Wn.2d 506", "11 Wn. App. 491", "110 P.3d 849", "110 Wn.2d 403", "117 Wn. App. 758", "119 Wn.2d 192", "127 Wn. App. 125", "133 Wn. App. 236", "156 Wn.2d 1014", "156 Wn.2d 1022", "159 Wn.2d 1010", "47 Wn. App. 114", "524 P.2d 466", "56 Wn. App. 490", "617 P.2d 993", "73 P.3d 416", "733 P.2d 1000", "739 P.2d 1150", "756 P.2d 105", "784 P.2d 533", "829 P.2d 1068", "93 Wn. App. 599", "94 Wn.2d 489", "969 P.2d 1097"]
+cites_cases: ["108 Wn.2d 506", "11 Wn. App. 491", "110 P.3d 849", "110 Wn.2d 403", "117 Wn. App. 758", "119 Wn.2d 192", "127 Wn. App. 125", "156 Wn.2d 1014", "156 Wn.2d 1022", "159 Wn.2d 1010", "47 Wn. App. 114", "524 P.2d 466", "56 Wn. App. 490", "617 P.2d 993", "73 P.3d 416", "733 P.2d 1000", "739 P.2d 1150", "756 P.2d 105", "784 P.2d 533", "829 P.2d 1068", "93 Wn. App. 599", "94 Wn.2d 489", "969 P.2d 1097"]
 ---
 
 # State v. Gonzales
