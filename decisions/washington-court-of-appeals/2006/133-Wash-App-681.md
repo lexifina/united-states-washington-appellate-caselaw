@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55973-7-I"
 decided: "2006-05-22"
-citations: ["133 Wash. App. 681", "132 Wash. App. 1062"]
+citations: ["133 Wash. App. 681"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Roberta Creech, as Personal Representative, Appellant, v. AGCO Corpor
 source_url: "https://static.case.law/wash-app/133/cases/0681-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4109520
-cites_cases: ["103 Wn.2d 258", "133 Wn. App. 681", "135 Wn.2d 255", "198 B.R. 519", "656 P.2d 1030", "692 P.2d 787", "956 P.2d 312", "98 Wn.2d 434"]
+cites_cases: ["103 Wn.2d 258", "135 Wn.2d 255", "198 B.R. 519", "656 P.2d 1030", "692 P.2d 787", "956 P.2d 312", "98 Wn.2d 434"]
 ---
 
 # Creech v. AGCO Corp.
