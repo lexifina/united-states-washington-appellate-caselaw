@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23834-2-III; 24313-3-III"
 decided: "2006-05-23"
-citations: ["133 Wash. App. 415", "133 Wash. App. 1003"]
+citations: ["133 Wash. App. 415"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Anthony D. Davis, Appellant. 
 source_url: "https://static.case.law/wash-app/133/cases/0415-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4111867
-cites_cases: ["109 P.3d 849", "109 Wn.2d 484", "110 P.3d 192", "113 Wn.2d 462", "114 P.3d 607", "115 Wn.2d 1014", "116 Wn. App. 219", "117 Wn.2d 479", "118 Wn.2d 1007", "120 Wn.2d 1025", "123 P.3d 126", "125 Wn.2d 24", "126 Wn. App. 670", "126 Wn.2d 136", "130 Wn. App. 395", "133 Wn. App. 415", "140 Wn.2d 1006", "148 Wn.2d 193", "154 Wn.2d 118", "154 Wn.2d 400", "155 Wn.2d 1020", "159 Wn.2d 1019", "384 U.S. 436", "514 U.S. 1129", "516 U.S. 1121", "542 U.S. 296", "57 Wn. App. 471", "59 P.3d 632", "60 Wn. App. 869", "61 Wn. App. 354", "65 P.3d 325", "67 Wn. App. 228", "69 Wn. App. 295", "745 P.2d 854", "78 Wn. App. 71", "780 P.2d 844", "788 P.2d 1114", "809 P.2d 209", "810 P.2d 74", "816 P.2d 718", "834 P.2d 671", "846 P.2d 564", "882 P.2d 747", "892 P.2d 29", "895 P.2d 423", "92 Wn. App. 442", "963 P.2d 928", "97 Wn. App. 257", "983 P.2d 687"]
+cites_cases: ["109 P.3d 849", "109 Wn.2d 484", "110 P.3d 192", "113 Wn.2d 462", "114 P.3d 607", "115 Wn.2d 1014", "116 Wn. App. 219", "117 Wn.2d 479", "118 Wn.2d 1007", "120 Wn.2d 1025", "123 P.3d 126", "125 Wn.2d 24", "126 Wn. App. 670", "126 Wn.2d 136", "130 Wn. App. 395", "140 Wn.2d 1006", "148 Wn.2d 193", "154 Wn.2d 118", "154 Wn.2d 400", "155 Wn.2d 1020", "159 Wn.2d 1019", "384 U.S. 436", "514 U.S. 1129", "516 U.S. 1121", "542 U.S. 296", "57 Wn. App. 471", "59 P.3d 632", "60 Wn. App. 869", "61 Wn. App. 354", "65 P.3d 325", "67 Wn. App. 228", "69 Wn. App. 295", "745 P.2d 854", "78 Wn. App. 71", "780 P.2d 844", "788 P.2d 1114", "809 P.2d 209", "810 P.2d 74", "816 P.2d 718", "834 P.2d 671", "846 P.2d 564", "882 P.2d 747", "892 P.2d 29", "895 P.2d 423", "92 Wn. App. 442", "963 P.2d 928", "97 Wn. App. 257", "983 P.2d 687"]
 ---
 
 # State v. Davis
