@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24152-1-III"
 decided: "2006-05-30"
-citations: ["134 Wash. App. 536", "133 Wash. App. 1011"]
+citations: ["134 Wash. App. 536"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["State Farm Fire and Casualty Company, Respondent, v. David A. Parrell
 source_url: "https://static.case.law/wash-app/134/cases/0536-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3513143
-cites_cases: ["107 Wn.2d 1024", "110 P.3d 733", "110 Wn.2d 99", "113 Wn.2d 1017", "113 Wn.2d 869", "113 Wn.2d 91", "134 Wn. App. 536", "136 Wn.2d 567", "142 Wn.2d 654", "15 P.3d 115", "154 Wn.2d 165", "160 Wn.2d 1009", "20 Wn. App. 261", "38 Wn. App. 382", "45 Wn. App. 383", "54 Wn. App. 299", "579 P.2d 1015", "685 P.2d 632", "725 P.2d 642", "733 P.2d 426", "751 P.2d 282", "776 P.2d 123", "784 P.2d 507", "96 Wn. App. 11", "964 P.2d 1173", "977 P.2d 617"]
+cites_cases: ["107 Wn.2d 1024", "110 P.3d 733", "110 Wn.2d 99", "113 Wn.2d 1017", "113 Wn.2d 869", "113 Wn.2d 91", "136 Wn.2d 567", "142 Wn.2d 654", "15 P.3d 115", "154 Wn.2d 165", "160 Wn.2d 1009", "20 Wn. App. 261", "38 Wn. App. 382", "45 Wn. App. 383", "54 Wn. App. 299", "579 P.2d 1015", "685 P.2d 632", "725 P.2d 642", "733 P.2d 426", "751 P.2d 282", "776 P.2d 123", "784 P.2d 507", "96 Wn. App. 11", "964 P.2d 1173", "977 P.2d 617"]
 ---
 
 # State Farm Fire & Casualty Co. v. Parrella
