@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "54106-4-I"
 decided: "2006-05-30"
-citations: ["134 Wash. App. 228", "133 Wash. App. 1006"]
+citations: ["134 Wash. App. 228"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Puget Sound Energy, Respondent, v. Certain Underwriters at Lloyd’s,
 source_url: "https://static.case.law/wash-app/134/cases/0228-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3512782
-cites_cases: ["10 P.3d 445", "102 Wn. App. 729", "106 Wn.2d 806", "109 Wn. App. 683", "117 Wn.2d 37", "127 Wn.2d 355", "134 Wn. App. 228", "134 Wn.2d 413", "142 Wn.2d 654", "149 Wn.2d 135", "15 P.3d 115", "160 Wn.2d 1022", "36 P.3d 1072", "398 P.2d 299", "42 U.S.C. §§ 9601-9675", "52 F.3d 478", "661 F. Supp. 1403", "68 P.3d 1061", "725 P.2d 957", "811 P.2d 673", "83 Wn. App. 432", "878 F.2d 596", "884 F.2d 1222", "922 P.2d 126", "951 P.2d 250", "969 F. Supp. 1231", "98 Wn. App. 286", "991 P.2d 638"]
+cites_cases: ["10 P.3d 445", "102 Wn. App. 729", "106 Wn.2d 806", "109 Wn. App. 683", "117 Wn.2d 37", "127 Wn.2d 355", "134 Wn.2d 413", "142 Wn.2d 654", "149 Wn.2d 135", "15 P.3d 115", "160 Wn.2d 1022", "36 P.3d 1072", "398 P.2d 299", "42 U.S.C. §§ 9601-9675", "52 F.3d 478", "661 F. Supp. 1403", "68 P.3d 1061", "725 P.2d 957", "811 P.2d 673", "83 Wn. App. 432", "878 F.2d 596", "884 F.2d 1222", "922 P.2d 126", "951 P.2d 250", "969 F. Supp. 1231", "98 Wn. App. 286", "991 P.2d 638"]
 ---
 
 # Puget Sound Energy v. Certain Underwriters at Lloyd's, London
