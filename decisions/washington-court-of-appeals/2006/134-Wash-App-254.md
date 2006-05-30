@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56555-9-I"
 decided: "2006-05-30"
-citations: ["134 Wash. App. 254", "133 Wash. App. 1010"]
+citations: ["134 Wash. App. 254"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Susan N. Stallman, Respondent, and D
 source_url: "https://static.case.law/wash-app/134/cases/0254-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3516498
-cites_cases: ["134 Wn. App. 254", "215 P.2d 32", "217 P.2d 603", "293 P.2d 759", "34 Cal. 2d 811", "36 Wn.2d 244", "38 Wn. App. 351", "48 Wn.2d 373", "684 P.2d 1381"]
+cites_cases: ["215 P.2d 32", "217 P.2d 603", "293 P.2d 759", "34 Cal. 2d 811", "36 Wn.2d 244", "38 Wn. App. 351", "48 Wn.2d 373", "684 P.2d 1381"]
 ---
 
 # In re the Marriage of Stallman
