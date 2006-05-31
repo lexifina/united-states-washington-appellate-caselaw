@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32386-9-II"
 decided: "2006-05-31"
-citations: ["133 Wash. App. 689", "133 Wash. App. 1012"]
+citations: ["133 Wash. App. 689"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Anthony Wayne Fankhouser, App
 source_url: "https://static.case.law/wash-app/133/cases/0689-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4109293
-cites_cases: ["10 Wn. App. 678", "129 Wn.2d 1007", "133 Wn. App. 689", "133 Wn.2d 389", "140 Wn.2d 1017", "145 Wn.2d 612", "23 Wn. App. 567", "258 P.2d 1212", "29 Wn. App. 610", "381 P.2d 617", "41 P.3d 1189", "42 Wn.2d 777", "458 P.2d 17", "519 P.2d 1305", "596 P.2d 1361", "614 P.2d 179", "619 P.2d 968", "62 Wn.2d 118", "630 P.2d 476", "643 P.2d 882", "76 Wn.2d 449", "79 Wn. App. 706", "84 Wn.2d 1003", "904 P.2d 324", "94 Wn.2d 31", "94 Wn.2d 733", "945 P.2d 1120", "97 Wn. App. 865", "97 Wn.2d 255", "989 P2d 553"]
+cites_cases: ["10 Wn. App. 678", "129 Wn.2d 1007", "133 Wn.2d 389", "140 Wn.2d 1017", "145 Wn.2d 612", "23 Wn. App. 567", "258 P.2d 1212", "29 Wn. App. 610", "381 P.2d 617", "41 P.3d 1189", "42 Wn.2d 777", "458 P.2d 17", "519 P.2d 1305", "596 P.2d 1361", "614 P.2d 179", "619 P.2d 968", "62 Wn.2d 118", "630 P.2d 476", "643 P.2d 882", "76 Wn.2d 449", "79 Wn. App. 706", "84 Wn.2d 1003", "904 P.2d 324", "94 Wn.2d 31", "94 Wn.2d 733", "945 P.2d 1120", "97 Wn. App. 865", "97 Wn.2d 255", "989 P2d 553"]
 ---
 
 # State v. Fankhouser
