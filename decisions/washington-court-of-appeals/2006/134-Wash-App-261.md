@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56556-7-I"
 decided: "2006-06-12"
-citations: ["134 Wash. App. 261", "133 Wash. App. 1018"]
+citations: ["134 Wash. App. 261"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Dana Klotz, as Administrator-Personal Representative, Appellant, v. R
 source_url: "https://static.case.law/wash-app/134/cases/0261-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3512952
-cites_cases: ["102 Wn. App. 545", "104 L. Ed. 2d 400", "109 S. Ct. 1928", "113 Wn.2d 254", "115 Wn.2d 123", "134 Wn. App. 261", "152 Wn.2d 85", "160 Wn.2d 1014", "301 F.3d 377", "315 F.3d 390", "330 U.S. 501", "354 U.S. App. D.C. 309", "38 Wn. App. 125", "454 U.S. 235", "490 U.S. 1032", "555 P.2d 997", "686 P.2d 492", "778 P.2d 1031", "794 P.2d 1272", "8 P.3d 1067", "821 F.2d 1147", "87 Wn.2d 577", "883 F.2d 17", "93 P.3d 158", "96 Wn. App. 537", "983 P.2d 666"]
+cites_cases: ["102 Wn. App. 545", "104 L. Ed. 2d 400", "109 S. Ct. 1928", "113 Wn.2d 254", "115 Wn.2d 123", "152 Wn.2d 85", "160 Wn.2d 1014", "301 F.3d 377", "315 F.3d 390", "330 U.S. 501", "354 U.S. App. D.C. 309", "38 Wn. App. 125", "454 U.S. 235", "490 U.S. 1032", "555 P.2d 997", "686 P.2d 492", "778 P.2d 1031", "794 P.2d 1272", "8 P.3d 1067", "821 F.2d 1147", "87 Wn.2d 577", "883 F.2d 17", "93 P.3d 158", "96 Wn. App. 537", "983 P.2d 666"]
 ---
 
 # Klotz v. Dehkhoda
