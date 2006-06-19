@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55682-7-I"
 decided: "2006-06-19"
-citations: ["134 Wash. App. 376", "133 Wash. App. 1024"]
+citations: ["134 Wash. App. 376"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Paul Michael Pittman, Appella
 source_url: "https://static.case.law/wash-app/134/cases/0376-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3515038
-cites_cases: ["100 Wn.2d 421", "104 P.3d 670", "105 Wn.2d 692", "114 Wn.2d 59", "116 Wn.2d 531", "117 Wn.2d 479", "118 Wn.2d 876", "123 Wn.2d 641", "125 Wn. App. 243", "127 Wn.2d 322", "129 Wn.2d 1012", "131 Wn.2d 258", "134 Wn. App. 376", "141 Wn.2d 448", "142 Wn.2d 838", "144 Wn.2d 236", "15 P.3d 145", "152 Wn.2d 375", "18 Wn. App. 686", "210 P.2d 747", "24 F.3d 1125", "259 P.2d 845", "27 P.3d 184", "34 Wn. App. 750", "404 U.S. 853", "412 U.S. 205", "42 Wn.2d 799", "445 F.2d 134", "466 U.S. 668", "479 U.S. 995", "506 U.S. 958", "571 P.2d 237", "584 P.2d 382", "589 P.2d 789", "6 P.3d 1150", "62 Wn. App. 53", "665 P.2d 895", "671 P.2d 230", "718 P.2d 407", "785 P.2d 808", "790 F. Supp. 223", "80 Wn. App. 406", "80 Wn. App. 692", "806 P.2d 1220", "813 P.2d 156", "816 P.2d 718", "828 P.2d 1086", "870 P.2d 313", "899 P.2d 1251", "90 Wn.2d 1001", "90 Wn.2d 443", "906 P.2d 990", "907 P.2d 310", "91 Wn.2d 466", "930 P.2d 917", "94 Cal. App. 2d 468", "958 F.2d 980", "97 P.3d 11"]
+cites_cases: ["100 Wn.2d 421", "104 P.3d 670", "105 Wn.2d 692", "114 Wn.2d 59", "116 Wn.2d 531", "117 Wn.2d 479", "118 Wn.2d 876", "123 Wn.2d 641", "125 Wn. App. 243", "127 Wn.2d 322", "129 Wn.2d 1012", "131 Wn.2d 258", "141 Wn.2d 448", "142 Wn.2d 838", "144 Wn.2d 236", "15 P.3d 145", "152 Wn.2d 375", "18 Wn. App. 686", "210 P.2d 747", "24 F.3d 1125", "259 P.2d 845", "27 P.3d 184", "34 Wn. App. 750", "404 U.S. 853", "412 U.S. 205", "42 Wn.2d 799", "445 F.2d 134", "466 U.S. 668", "479 U.S. 995", "506 U.S. 958", "571 P.2d 237", "584 P.2d 382", "589 P.2d 789", "6 P.3d 1150", "62 Wn. App. 53", "665 P.2d 895", "671 P.2d 230", "718 P.2d 407", "785 P.2d 808", "790 F. Supp. 223", "80 Wn. App. 406", "80 Wn. App. 692", "806 P.2d 1220", "813 P.2d 156", "816 P.2d 718", "828 P.2d 1086", "870 P.2d 313", "899 P.2d 1251", "90 Wn.2d 1001", "90 Wn.2d 443", "906 P.2d 990", "907 P.2d 310", "91 Wn.2d 466", "930 P.2d 917", "94 Cal. App. 2d 468", "958 F.2d 980", "97 P.3d 11"]
 ---
 
 # State v. Pittman
