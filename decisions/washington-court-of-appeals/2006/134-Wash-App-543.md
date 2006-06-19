@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56809-4-I"
 decided: "2006-06-19"
-citations: ["134 Wash. App. 543", "133 Wash. App. 1027"]
+citations: ["134 Wash. App. 543"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Reanna L. Plancich, on Behalf of Herself and All Persons Similarly Si
 source_url: "https://static.case.law/wash-app/134/cases/0543-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3516519
-cites_cases: ["109 Wn. App. 405", "115 Wn.2d 657", "134 Wn. App. 543", "144 Wn.2d 869", "149 Wn.2d 589", "151 Wn.2d 303", "160 Wn.2d 1014", "31 P.3d 1164", "36 P.3d 1065", "37 Wn. App. 690", "682 P.2d 317", "70 P.3d 954", "801 P.2d 222", "88 P.3d 395"]
+cites_cases: ["109 Wn. App. 405", "115 Wn.2d 657", "144 Wn.2d 869", "149 Wn.2d 589", "151 Wn.2d 303", "160 Wn.2d 1014", "31 P.3d 1164", "36 P.3d 1065", "37 Wn. App. 690", "682 P.2d 317", "70 P.3d 954", "801 P.2d 222", "88 P.3d 395"]
 ---
 
 # Plancich v. Progressive American Insurance
