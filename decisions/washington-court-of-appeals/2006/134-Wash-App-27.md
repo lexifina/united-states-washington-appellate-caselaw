@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55866-8-I"
 decided: "2006-06-26"
-citations: ["134 Wash. App. 27", "133 Wash. App. 1030"]
+citations: ["134 Wash. App. 27"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Mee Hui Kim, Appellant."]
 source_url: "https://static.case.law/wash-app/134/cases/0027-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3517770
-cites_cases: ["10 Wn. App. 869", "100 Wn. App. 701", "102 P.3d 192", "103 Wn. App. 527", "105 P.3d 420", "107 Wn.2d 807", "112 P.3d 566", "114 Wn.2d 613", "115 Wn. App. 927", "116 Wn.2d 154", "116 Wn.2d 859", "125 Wn. App. 259", "125 Wn. App. 390", "127 Wn. App. 753", "13 P.3d 226", "132 P.3d 735", "134 Wn. App. 27", "147 Wn.2d 238", "148 Wn.2d 564", "150 Wn.2d 821", "152 Wn.2d 39", "156 Wn.2d 1019", "159 Wn.2d 1022", "384 U.S. 436", "53 P.3d 26", "62 P.3d 489", "62 Wn. App. 263", "64 P.3d 92", "659 P.2d 514", "67 Wn. App. 157", "733 P.2d 969", "790 P.2d 610", "804 P.2d 566", "810 P.2d 888", "814 P.2d 222", "83 P.3d 970", "834 P.2d 651", "93 P.3d 141", "99 Wn.2d 1", "998 P.2d 350", "999 P.2d 1275"]
+cites_cases: ["10 Wn. App. 869", "100 Wn. App. 701", "102 P.3d 192", "103 Wn. App. 527", "105 P.3d 420", "107 Wn.2d 807", "112 P.3d 566", "114 Wn.2d 613", "115 Wn. App. 927", "116 Wn.2d 154", "116 Wn.2d 859", "125 Wn. App. 259", "125 Wn. App. 390", "127 Wn. App. 753", "13 P.3d 226", "132 P.3d 735", "147 Wn.2d 238", "148 Wn.2d 564", "150 Wn.2d 821", "152 Wn.2d 39", "156 Wn.2d 1019", "159 Wn.2d 1022", "384 U.S. 436", "53 P.3d 26", "62 P.3d 489", "62 Wn. App. 263", "64 P.3d 92", "659 P.2d 514", "67 Wn. App. 157", "733 P.2d 969", "790 P.2d 610", "804 P.2d 566", "810 P.2d 888", "814 P.2d 222", "83 P.3d 970", "834 P.2d 651", "93 P.3d 141", "99 Wn.2d 1", "998 P.2d 350", "999 P.2d 1275"]
 ---
 
 # State v. Mee Hui Kim
