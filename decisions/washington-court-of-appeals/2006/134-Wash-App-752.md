@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32702-3-II"
 decided: "2006-07-05"
-citations: ["134 Wash. App. 752", "133 Wash. App. 1043"]
+citations: ["134 Wash. App. 752"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Personal Restraint of Donald T. McCarthy, Petiti
 source_url: "https://static.case.law/wash-app/134/cases/0752-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3518160
-cites_cases: ["104 Wn. App. 422", "134 P.3d 188", "134 Wn. App. 752", "141 Wn.2d 121", "156 Wn.2d 880", "16 P.3d 664", "408 U.S. 471", "411 U.S. 778", "442 U.S. 1", "445 U.S. 480", "5 P.3d 658", "530 U.S. 466", "542 U.S. 296", "658 P.2d 663", "98 Wn.2d 775", "Neb. Rev. Stat. § 83-1"]
+cites_cases: ["104 Wn. App. 422", "134 P.3d 188", "141 Wn.2d 121", "156 Wn.2d 880", "16 P.3d 664", "408 U.S. 471", "411 U.S. 778", "442 U.S. 1", "445 U.S. 480", "5 P.3d 658", "530 U.S. 466", "542 U.S. 296", "658 P.2d 663", "98 Wn.2d 775", "Neb. Rev. Stat. § 83-1"]
 ---
 
 # In re the Personal Restraint of McCarthy
