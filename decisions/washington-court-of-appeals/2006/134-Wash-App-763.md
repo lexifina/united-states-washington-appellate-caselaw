@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32861-5-II"
 decided: "2006-07-11"
-citations: ["134 Wash. App. 763", "133 Wash. App. 1046"]
+citations: ["134 Wash. App. 763"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Wade William Pierce, Appellan
 source_url: "https://static.case.law/wash-app/134/cases/0763-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3518536
-cites_cases: ["101 Wn.2d 445", "106 Wn.2d 54", "114 Wn.2d 613", "123 Wn.2d 794", "124 Wn.2d 719", "126 Wn.2d 283", "134 Wn. App. 763", "478 P.2d 220", "55 Wn. App. 780", "55 Wn. App. 895", "56 Wn. App. 803", "653 P.2d 618", "66 Wn. App. 380", "680 P.2d 1051", "72 Wn. App. 453", "720 P.2d 808", "78 Wn.2d 571", "780 P.2d 894", "781 P.2d 505", "785 P.2d 1144", "790 P.2d 610", "832 P.2d 1326", "864 P.2d 1001", "872 P.2d 502", "881 P.2d 979", "892 P.2d 85", "98 Wn.2d 87"]
+cites_cases: ["101 Wn.2d 445", "106 Wn.2d 54", "114 Wn.2d 613", "123 Wn.2d 794", "124 Wn.2d 719", "126 Wn.2d 283", "478 P.2d 220", "55 Wn. App. 780", "55 Wn. App. 895", "56 Wn. App. 803", "653 P.2d 618", "66 Wn. App. 380", "680 P.2d 1051", "72 Wn. App. 453", "720 P.2d 808", "78 Wn.2d 571", "780 P.2d 894", "781 P.2d 505", "785 P.2d 1144", "790 P.2d 610", "832 P.2d 1326", "864 P.2d 1001", "872 P.2d 502", "881 P.2d 979", "892 P.2d 85", "98 Wn.2d 87"]
 ---
 
 # State v. Pierce
