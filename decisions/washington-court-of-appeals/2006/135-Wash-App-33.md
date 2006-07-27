@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24573-0-III"
 decided: "2006-07-27"
-citations: ["135 Wash. App. 33", "134 Wash. App. 1012"]
+citations: ["135 Wash. App. 33"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Postsentence Review of Myron A. Manier."]
 source_url: "https://static.case.law/wash-app/135/cases/0033-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3647074
-cites_cases: ["119 P.3d 840", "135 Wn. App. 33", "139 Wn.2d 462", "155 Wn.2d 374", "987 P.2d 626"]
+cites_cases: ["119 P.3d 840", "139 Wn.2d 462", "155 Wn.2d 374", "987 P.2d 626"]
 ---
 
 # In re the Postsentence Review of Manier
