@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24835-6-III"
 decided: "2006-07-27"
-citations: ["135 Wash. App. 37", "134 Wash. App. 1013"]
+citations: ["135 Wash. App. 37"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Postsentence Review of Nicholas Dean Childers."]
 source_url: "https://static.case.law/wash-app/135/cases/0037-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3646403
-cites_cases: ["116 P.3d 1012", "120 P.3d 84", "128 Wn. App. 555", "129 Wn. App. 626", "135 Wn. App. 37", "59 Wn. App. 258", "796 P.2d 755"]
+cites_cases: ["116 P.3d 1012", "120 P.3d 84", "128 Wn. App. 555", "129 Wn. App. 626", "59 Wn. App. 258", "796 P.2d 755"]
 ---
 
 # In re the Postsentence Review of Childers
