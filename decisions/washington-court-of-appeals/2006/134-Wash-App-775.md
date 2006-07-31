@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57060-9-I"
 decided: "2006-07-31"
-citations: ["134 Wash. App. 775", "134 Wash. App. 1020"]
+citations: ["134 Wash. App. 775"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Daniel L. Bedker, Jr., Appellant."]
 source_url: "https://static.case.law/wash-app/134/cases/0775-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3513578
-cites_cases: ["112 Wn. App. 525", "129 Wn.2d 697", "134 Wn. App. 775", "27 Wn. App. 326", "3 Wn. App. 20", "40 Wn. App. 893", "472 P.2d 584", "49 P.3d 960", "617 P.2d 1041", "659 P.2d 488", "70 Wn. App. 573", "700 P.2d 1164", "84 Wn. App. 88", "854 P.2d 658", "921 P.2d 495", "929 P.2d 436", "98 Wn.2d 789"]
+cites_cases: ["112 Wn. App. 525", "129 Wn.2d 697", "27 Wn. App. 326", "3 Wn. App. 20", "40 Wn. App. 893", "472 P.2d 584", "49 P.3d 960", "617 P.2d 1041", "659 P.2d 488", "70 Wn. App. 573", "700 P.2d 1164", "84 Wn. App. 88", "854 P.2d 658", "921 P.2d 495", "929 P.2d 436", "98 Wn.2d 789"]
 ---
 
 # In re the Detention of Bedker
