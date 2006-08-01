@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33498-4-II"
 decided: "2006-08-01"
-citations: ["135 Wash. App. 233", "134 Wash. App. 1023"]
+citations: ["135 Wash. App. 233"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Brett L. Duryea et al., Respondents, v. Michael E. Wilson, Appellant.
 source_url: "https://static.case.law/wash-app/135/cases/0233-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3644625
-cites_cases: ["101 P.3d 867", "101 Wash. 12", "103 Wash. 499", "104 P. 608", "116 Wn. App. 833", "124 Wn. App. 506", "135 Wn. App. 233", "154 P. 1095", "171 P. 1040", "175 P. 181", "271 P.2d 683", "31 Wn. App. 250", "34 Wn. App. 392", "41 Wn. App. 323", "438 P.2d 581", "44 Wn.2d 837", "55 Wash. 401", "640 P.2d 1075", "661 P.2d 609", "68 P.3d 1099", "704 P.2d 164", "73 Wn.2d 348", "89 Wash. 519", "95 Wn. App. 231", "974 P.2d 1275"]
+cites_cases: ["101 P.3d 867", "101 Wash. 12", "103 Wash. 499", "104 P. 608", "116 Wn. App. 833", "124 Wn. App. 506", "154 P. 1095", "171 P. 1040", "175 P. 181", "271 P.2d 683", "31 Wn. App. 250", "34 Wn. App. 392", "41 Wn. App. 323", "438 P.2d 581", "44 Wn.2d 837", "55 Wash. 401", "640 P.2d 1075", "661 P.2d 609", "68 P.3d 1099", "704 P.2d 164", "73 Wn.2d 348", "89 Wash. 519", "95 Wn. App. 231", "974 P.2d 1275"]
 ---
 
 # Duryea v. Wilson
