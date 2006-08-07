@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55908-7-I"
 decided: "2006-08-07"
-citations: ["135 Wash. App. 446", "134 Wash. App. 1029"]
+citations: ["135 Wash. App. 446"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The Central Puget Sound Regional Transit Authority, Respondent, v. Th
 source_url: "https://static.case.law/wash-app/135/cases/0446-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3643705
-cites_cases: ["100 P.3d 791", "101 P.3d 430", "118 Wn. App. 543", "123 Wn.2d 550", "124 Wn. App. 381", "135 Wn. App. 446", "14 Wn. App. 674", "145 R 964", "152 Wn.2d 463", "152 Wn.2d 828", "204 P.2d 845", "24 Wn. App. 1", "266 U.S. 368", "31 Wash. 558", "314 P.2d 449", "33 Wn.2d 219", "50 Wn.2d 716", "544 P.2d 138", "547 P.2d 282", "600 P.2d 573", "656 P.2d 1043", "72 P. 114", "76 P.3d 782", "806 P.2d 843", "83 Wash. 648", "86 Wn.2d 585", "870 P.2d 305", "91 Wn. App. 381", "93 Wn. App. 357", "957 P.2d 805", "967 P.2d 1274", "98 P.3d 795", "98 Wn.2d 521"]
+cites_cases: ["100 P.3d 791", "101 P.3d 430", "118 Wn. App. 543", "123 Wn.2d 550", "124 Wn. App. 381", "14 Wn. App. 674", "145 R 964", "152 Wn.2d 463", "152 Wn.2d 828", "204 P.2d 845", "24 Wn. App. 1", "266 U.S. 368", "31 Wash. 558", "314 P.2d 449", "33 Wn.2d 219", "50 Wn.2d 716", "544 P.2d 138", "547 P.2d 282", "600 P.2d 573", "656 P.2d 1043", "72 P. 114", "76 P.3d 782", "806 P.2d 843", "83 Wash. 648", "86 Wn.2d 585", "870 P.2d 305", "91 Wn. App. 381", "93 Wn. App. 357", "957 P.2d 805", "967 P.2d 1274", "98 P.3d 795", "98 Wn.2d 521"]
 ---
 
 # Central Puget Sound Regional Transit Authority v. Heirs & Devisees of Eastey
