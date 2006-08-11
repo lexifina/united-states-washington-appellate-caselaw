@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33289-2-II"
 decided: "2006-08-11"
-citations: ["134 Wash. App. 780", "134 Wash. App. 1034"]
+citations: ["134 Wash. App. 780"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Devonn Shontelle Hopkins, App
 source_url: "https://static.case.law/wash-app/134/cases/0780-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3512391
-cites_cases: ["105 Wn.2d 606", "114 Wn.2d 533", "119 Wn.2d 167", "120 Wn.2d 549", "123 P.3d 489", "125 P.3d 245", "126 Wn.2d 244", "130 Wn. App. 422", "130 Wn. App. 912", "132 Wn.2d 529", "134 Wn. App. 780", "151 Wn.2d 793", "16 C.M.A. 629", "160 Wn.2d 1020", "242 Ga. 28", "247 S.E.2d 834", "314 F.3d 384", "384 U.S. 436", "523 U.S. 1007", "53 Wn. App. 214", "541 U.S. 36", "71 Wn. App. 444", "717 P.2d 1353", "766 P.2d 505", "779 F.2d 430", "789 P.2d 79", "829 P.2d 1082", "844 P.2d 416", "859 P.2d 60", "893 P.2d 615", "92 P.3d 228", "940 P.2d 546"]
+cites_cases: ["105 Wn.2d 606", "114 Wn.2d 533", "119 Wn.2d 167", "120 Wn.2d 549", "123 P.3d 489", "125 P.3d 245", "126 Wn.2d 244", "130 Wn. App. 422", "130 Wn. App. 912", "132 Wn.2d 529", "151 Wn.2d 793", "16 C.M.A. 629", "160 Wn.2d 1020", "242 Ga. 28", "247 S.E.2d 834", "314 F.3d 384", "384 U.S. 436", "523 U.S. 1007", "53 Wn. App. 214", "541 U.S. 36", "71 Wn. App. 444", "717 P.2d 1353", "766 P.2d 505", "779 F.2d 430", "789 P.2d 79", "829 P.2d 1082", "844 P.2d 416", "859 P.2d 60", "893 P.2d 615", "92 P.3d 228", "940 P.2d 546"]
 ---
 
 # State v. Hopkins
