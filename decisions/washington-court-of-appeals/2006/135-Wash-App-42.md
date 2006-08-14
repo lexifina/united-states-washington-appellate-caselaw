@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "53511-1-I"
 decided: "2006-08-14"
-citations: ["135 Wash. App. 42", "134 Wash. App. 1036"]
+citations: ["135 Wash. App. 42"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Guy Henry Washington, Appella
 source_url: "https://static.case.law/wash-app/135/cases/0042-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3646869
-cites_cases: ["104 Wn. App. 935", "109 Wn.2d 303", "110 P.3d 192", "114 Wn. App. 75", "116 Wn.2d 777", "119 Wn.2d 192", "120 P.3d 929", "135 Wn. App. 42", "147 P.3d 573", "154 Wn.2d 118", "155 Wn.2d 549", "158 Wn.2d 731", "160 Wn.2d 1017", "18 P.3d 596", "20 Wn. App. 882", "530 U.S. 466", "542 U.S. 296", "55 P.3d 1178", "582 P.2d 580", "597 P.2d 892", "616 P.2d 628", "659 P.2d 488", "745 P.2d 479", "808 P.2d 1141", "829 P.2d 1068", "92 Wn. App. 442", "92 Wn.2d 357", "94 Wn.2d 216", "963 P.2d 928", "98 Wn.2d 789"]
+cites_cases: ["104 Wn. App. 935", "109 Wn.2d 303", "110 P.3d 192", "114 Wn. App. 75", "116 Wn.2d 777", "119 Wn.2d 192", "120 P.3d 929", "147 P.3d 573", "154 Wn.2d 118", "155 Wn.2d 549", "158 Wn.2d 731", "160 Wn.2d 1017", "18 P.3d 596", "20 Wn. App. 882", "530 U.S. 466", "542 U.S. 296", "55 P.3d 1178", "582 P.2d 580", "597 P.2d 892", "616 P.2d 628", "659 P.2d 488", "745 P.2d 479", "808 P.2d 1141", "829 P.2d 1068", "92 Wn. App. 442", "92 Wn.2d 357", "94 Wn.2d 216", "963 P.2d 928", "98 Wn.2d 789"]
 ---
 
 # State v. Washington
