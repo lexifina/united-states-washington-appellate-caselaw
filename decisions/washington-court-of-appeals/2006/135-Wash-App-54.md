@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55858-7-I"
 decided: "2006-08-21"
-citations: ["135 Wash. App. 54", "134 Wash. App. 1044"]
+citations: ["135 Wash. App. 54"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Miguel Angel Esparza, Defenda
 source_url: "https://static.case.law/wash-app/135/cases/0054-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3646659
-cites_cases: ["100 P.3d 291", "106 Wn.2d 1016", "108 Mass. 433", "108 P.3d 753", "108 Wn.2d 1018", "118 Wn. App. 92", "125 Wn.2d 769", "135 Wn. App. 54", "136 Wn.2d 629", "14 Wash. 664", "152 Wn.2d 795", "153 Wn.2d 765", "161 Wn.2d 1004", "220 U.S. 338", "284 U.S. 299", "43 Wn. App. 808", "445 U.S. 684", "45 P. 318", "47 Wn. App. 317", "542 U.S. 296", "584 P.2d 382", "600 P.2d 1249", "662 P.2d 853", "69 Wn. App. 412", "719 P.2d 605", "734 P.2d 542", "74 P.3d 672", "83 Wn. App. 803", "848 P.2d 1325", "888 P.2d 155", "90 Wn.2d 443", "92 Wn.2d 671", "924 P.2d 384", "965 P.2d 1072"]
+cites_cases: ["100 P.3d 291", "106 Wn.2d 1016", "108 Mass. 433", "108 P.3d 753", "108 Wn.2d 1018", "118 Wn. App. 92", "125 Wn.2d 769", "136 Wn.2d 629", "14 Wash. 664", "152 Wn.2d 795", "153 Wn.2d 765", "161 Wn.2d 1004", "220 U.S. 338", "284 U.S. 299", "43 Wn. App. 808", "445 U.S. 684", "45 P. 318", "47 Wn. App. 317", "542 U.S. 296", "584 P.2d 382", "600 P.2d 1249", "662 P.2d 853", "69 Wn. App. 412", "719 P.2d 605", "734 P.2d 542", "74 P.3d 672", "83 Wn. App. 803", "848 P.2d 1325", "888 P.2d 155", "90 Wn.2d 443", "92 Wn.2d 671", "924 P.2d 384", "965 P.2d 1072"]
 ---
 
 # State v. Esparza
