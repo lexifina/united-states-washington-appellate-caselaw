@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56804-3-I"
 decided: "2006-08-21"
-citations: ["135 Wash. App. 465", "134 Wash. App. 1046"]
+citations: ["135 Wash. App. 465"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Bernadette J. Parker, Respondent, an
 source_url: "https://static.case.law/wash-app/135/cases/0465-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3643754
-cites_cases: ["115 Wn. App. 563", "118 Wn. App. 96", "135 Wn. App. 465", "63 P.3d 164", "74 P. 3d 692"]
+cites_cases: ["115 Wn. App. 563", "118 Wn. App. 96", "63 P.3d 164", "74 P. 3d 692"]
 ---
 
 # In re the Marriage of Parker
