@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32840-2-II"
 decided: "2006-09-06"
-citations: ["135 Wash. App. 605", "134 Wash. App. 1055"]
+citations: ["135 Wash. App. 605"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Teresa Schmidt, Appellant, v. Timothy P. Coogan et al., Respondents."
 source_url: "https://static.case.law/wash-app/135/cases/0605-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3645723
-cites_cases: ["100 Wn.2d 204", "100 Wn.2d 39", "104 Wn.2d 254", "107 Wn. App. 854", "116 Wn.2d 452", "119 Wn.2d 251", "123 Wn.2d 649", "128 Wn.2d 366", "13 Wn. App. 815", "135 Wn. App. 605", "28 P.3d 799", "450 P.2d 957", "537 P.2d 850", "666 P.2d 888", "667 P.2d 78", "704 P.2d 600", "75 Wn.2d 393", "78 Wn. App. 272", "805 P.2d 793", "830 P.2d 646", "869 P.2d 1014", "896 P.2d 750", "907 P.2d 290"]
+cites_cases: ["100 Wn.2d 204", "100 Wn.2d 39", "104 Wn.2d 254", "107 Wn. App. 854", "116 Wn.2d 452", "119 Wn.2d 251", "123 Wn.2d 649", "128 Wn.2d 366", "13 Wn. App. 815", "28 P.3d 799", "450 P.2d 957", "537 P.2d 850", "666 P.2d 888", "667 P.2d 78", "704 P.2d 600", "75 Wn.2d 393", "78 Wn. App. 272", "805 P.2d 793", "830 P.2d 646", "869 P.2d 1014", "896 P.2d 750", "907 P.2d 290"]
 ---
 
 # Schmidt v. Coogan
