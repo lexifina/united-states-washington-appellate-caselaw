@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56873-6-I"
 decided: "2006-09-11"
-citations: ["136 Wash. App. 110", "134 Wash. App. 1060"]
+citations: ["136 Wash. App. 110"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jack Oltman et al., Appellants, v. Holland America Line USA, Inc., et
 source_url: "https://static.case.law/wash-app/136/cases/0110-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5582119
-cites_cases: ["100 Wn.2d 739", "101 Wn. App. 801", "103 P.3d 753", "103 P.3d 773", "108 Wn. App. 745", "112 Wn. App. 896", "119 Wn. App. 1", "122 P.3d 729", "123 Wn.2d 819", "129 Wn.2d 43", "130 Wn. App. 234", "135 Wn.2d 112", "136 Wn. App. 110", "136 Wn.2d 87", "148 Wn.2d 602", "153 Wn.2d 293", "153 Wn.2d 331", "161 Wn.2d 1001", "18 L. Ed. 397", "2005 U.S. Dist. LEXIS 14338", "28 U.S.C. § 1333", "306 F.3d 827", "33 P.3d 91", "358 U.S. 625", "45 Wn. App. 369", "45 Wn. App. 779", "45 Wn. App. 847", "482 P.2d 775", "499 U.S. 585", "51 P.3d 175", "52 P.3d 720", "529 P.2d 1068", "546 U.S. 1173", "6 P.3d 30", "62 P.3d 470", "63 Mass. App. Ct. 785", "675 P.2d 226", "68 Wn. App. 427", "725 P.2d 445", "727 P.2d 687", "728 P.2d 617", "741 F.2d 273", "79 Wn.2d 12", "816 F.2d 1360", "829 N.E.2d 1171", "84 P.3d 252", "842 P.2d 1047", "85 Wn.2d 95", "86 Wn. App. 613", "872 P.2d 516", "914 P.2d 728", "937 P.2d 1158", "94 Wn. App. 268", "954 P.2d 1327", "960 P.2d 912", "970 P.2d 828"]
+cites_cases: ["100 Wn.2d 739", "101 Wn. App. 801", "103 P.3d 753", "103 P.3d 773", "108 Wn. App. 745", "112 Wn. App. 896", "119 Wn. App. 1", "122 P.3d 729", "123 Wn.2d 819", "129 Wn.2d 43", "130 Wn. App. 234", "135 Wn.2d 112", "136 Wn.2d 87", "148 Wn.2d 602", "153 Wn.2d 293", "153 Wn.2d 331", "161 Wn.2d 1001", "18 L. Ed. 397", "2005 U.S. Dist. LEXIS 14338", "28 U.S.C. § 1333", "306 F.3d 827", "33 P.3d 91", "358 U.S. 625", "45 Wn. App. 369", "45 Wn. App. 779", "45 Wn. App. 847", "482 P.2d 775", "499 U.S. 585", "51 P.3d 175", "52 P.3d 720", "529 P.2d 1068", "546 U.S. 1173", "6 P.3d 30", "62 P.3d 470", "63 Mass. App. Ct. 785", "675 P.2d 226", "68 Wn. App. 427", "725 P.2d 445", "727 P.2d 687", "728 P.2d 617", "741 F.2d 273", "79 Wn.2d 12", "816 F.2d 1360", "829 N.E.2d 1171", "84 P.3d 252", "842 P.2d 1047", "85 Wn.2d 95", "86 Wn. App. 613", "872 P.2d 516", "914 P.2d 728", "937 P.2d 1158", "94 Wn. App. 268", "954 P.2d 1327", "960 P.2d 912", "970 P.2d 828"]
 ---
 
 # Oltman v. Holland America Line USA, Inc.
