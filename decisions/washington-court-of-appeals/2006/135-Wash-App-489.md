@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56808-6-I"
 decided: "2006-09-18"
-citations: ["135 Wash. App. 489", "134 Wash. App. 1067"]
+citations: ["135 Wash. App. 489"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["KMS Financial Services, Inc., Respondent, v. The City of Seattle, App
 source_url: "https://static.case.law/wash-app/135/cases/0489-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3645001
-cites_cases: ["113 Wn.2d 929", "114 Wn.2d 213", "115 S. Ct. 1331", "120 Wn.2d 357", "121 Wn.2d 243", "135 Wn. App. 489", "138 P.3d 963", "140 Wn.2d 88", "161 Wn.2d 1011", "202 Ariz. 326", "283 U.S. 123", "303 U.S. 250", "400 P.2d 297", "429 P.2d 909", "430 U.S. 274", "44 Wn. App. 538", "463 U.S. 159", "488 U.S. 252", "494 P.2d 1376", "496 P.2d 504", "498 P.2d 864", "504 U.S. 298", "504 U.S. 768", "514 U.S. 175", "528 P.2d 474", "528 U.S. 458", "544 U.S. 962", "573 Pa. 189", "579 Pa. 463", "6 Wn. App. 581", "627 P.2d 101", "65 Wn.2d 889", "71 Wn.2d 564", "722 P.2d 1357", "785 P.2d 431", "787 P.2d 39", "80 Wn.2d 590", "81 Wn.2d 7", "823 A.2d 108", "84 Wn.2d 588", "841 P.2d 752", "850 P.2d 1298", "856 A.2d 789", "87 Mich. L. Rev. 138", "95 Wn.2d 536", "993 P.2d 259"]
+cites_cases: ["113 Wn.2d 929", "114 Wn.2d 213", "115 S. Ct. 1331", "120 Wn.2d 357", "121 Wn.2d 243", "138 P.3d 963", "140 Wn.2d 88", "161 Wn.2d 1011", "202 Ariz. 326", "283 U.S. 123", "303 U.S. 250", "400 P.2d 297", "429 P.2d 909", "430 U.S. 274", "44 Wn. App. 538", "463 U.S. 159", "488 U.S. 252", "494 P.2d 1376", "496 P.2d 504", "498 P.2d 864", "504 U.S. 298", "504 U.S. 768", "514 U.S. 175", "528 P.2d 474", "528 U.S. 458", "544 U.S. 962", "573 Pa. 189", "579 Pa. 463", "6 Wn. App. 581", "627 P.2d 101", "65 Wn.2d 889", "71 Wn.2d 564", "722 P.2d 1357", "785 P.2d 431", "787 P.2d 39", "80 Wn.2d 590", "81 Wn.2d 7", "823 A.2d 108", "84 Wn.2d 588", "841 P.2d 752", "850 P.2d 1298", "856 A.2d 789", "87 Mich. L. Rev. 138", "95 Wn.2d 536", "993 P.2d 259"]
 ---
 
 # KMS Financial Services, Inc. v. City of Seattle
