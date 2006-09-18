@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55556-1-I"
 decided: "2006-09-18"
-citations: ["135 Wash. App. 474", "134 Wash. App. 1065"]
+citations: ["135 Wash. App. 474"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Gregory L. Thomas, Appellant.
 source_url: "https://static.case.law/wash-app/135/cases/0474-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3647330
-cites_cases: ["111 P.3d 837", "115 Wn. App. 135", "120 Wn. App. 165", "130 P.3d 389", "132 P.3d 725", "133 Wn. App. 1", "134 Wn.2d 588", "135 Wn. App. 474", "145 Wn.2d 116", "150 Wn.2d 135", "150 Wn.2d 666", "152 Wn.2d 220", "154 Wn.2d 249", "156 Wn.2d 819", "161 Wn.2d 1009", "18 U.S.C. § 922", "18 U.S.C. § 924", "34 P.3d 799", "495 U.S. 575", "530 U.S. 466", "542 U.S. 296", "544 U.S. 13", "61 P.3d 375", "75 P.3d 934", "80 P.3d 168", "84 P.3d 935", "95 P.3d 1225", "952 P.2d 167", "Cal. Penal Code § 459"]
+cites_cases: ["111 P.3d 837", "115 Wn. App. 135", "120 Wn. App. 165", "130 P.3d 389", "132 P.3d 725", "133 Wn. App. 1", "134 Wn.2d 588", "145 Wn.2d 116", "150 Wn.2d 135", "150 Wn.2d 666", "152 Wn.2d 220", "154 Wn.2d 249", "156 Wn.2d 819", "161 Wn.2d 1009", "18 U.S.C. § 922", "18 U.S.C. § 924", "34 P.3d 799", "495 U.S. 575", "530 U.S. 466", "542 U.S. 296", "544 U.S. 13", "61 P.3d 375", "75 P.3d 934", "80 P.3d 168", "84 P.3d 935", "95 P.3d 1225", "952 P.2d 167", "Cal. Penal Code § 459"]
 ---
 
 # State v. Thomas
