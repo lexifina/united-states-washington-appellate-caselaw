@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56469-2-I"
 decided: "2006-09-25"
-citations: ["135 Wash. App. 613", "135 Wash. App. 1002"]
+citations: ["135 Wash. App. 613"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Ernest Coulter et al., Appellants, v. Asten Group, Inc., Respondent."
 source_url: "https://static.case.law/wash-app/135/cases/0613-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3645256
-cites_cases: ["109 Wn.2d 235", "112 Wn.2d 636", "127 Wn.2d 512", "135 Wn. App. 613", "136 Wn.2d 437", "137 Wn.2d 319", "161 Wn.2d 1011", "17 Wn. App. 853", "530 P.2d 630", "565 P.2d 1224", "744 P.2d 605", "771 P.2d 711", "780 P.2d 260", "84 Wn.2d 959", "86 Wn. App. 22", "901 P.2d 297", "935 P.2d 684", "963 P.2d 834", "971 P.2d 500"]
+cites_cases: ["109 Wn.2d 235", "112 Wn.2d 636", "127 Wn.2d 512", "136 Wn.2d 437", "137 Wn.2d 319", "161 Wn.2d 1011", "17 Wn. App. 853", "530 P.2d 630", "565 P.2d 1224", "744 P.2d 605", "771 P.2d 711", "780 P.2d 260", "84 Wn.2d 959", "86 Wn. App. 22", "901 P.2d 297", "935 P.2d 684", "963 P.2d 834", "971 P.2d 500"]
 ---
 
 # Coulter v. Asten Group, Inc.
