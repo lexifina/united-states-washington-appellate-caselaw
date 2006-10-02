@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57147-8-I"
 decided: "2006-10-02"
-citations: ["135 Wash. App. 852", "135 Wash. App. 1008"]
+citations: ["135 Wash. App. 852"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lisa Pappas, Appellant, v. The Employment Security Department, Respon
 source_url: "https://static.case.law/wash-app/135/cases/0852-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3647517
-cites_cases: ["122 Wn.2d 397", "124 Wn.2d 1019", "135 Wn. App. 852", "561 P.2d 1085", "70 Wn. App. 541", "73 Wn. App. 327", "854 P.2d 665", "858 P.2d 494", "869 P.2d 102", "88 Wn.2d 385"]
+cites_cases: ["122 Wn.2d 397", "124 Wn.2d 1019", "561 P.2d 1085", "70 Wn. App. 541", "73 Wn. App. 327", "854 P.2d 665", "858 P.2d 494", "869 P.2d 102", "88 Wn.2d 385"]
 ---
 
 # Pappas v. Employment Security Department
