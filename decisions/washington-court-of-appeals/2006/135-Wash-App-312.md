@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57930-4-I"
 decided: "2006-10-02"
-citations: ["135 Wash. App. 312", "135 Wash. App. 1008"]
+citations: ["135 Wash. App. 312"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Jurisdiction of the King County Hearing Examiner
 source_url: "https://static.case.law/wash-app/135/cases/0312-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3646590
-cites_cases: ["104 Wn. App. 388", "116 Wn.2d 342", "125 P.3d 997", "131 Wn. App. 85", "135 Wn. App. 312", "15 P.3d 716", "635 P.2d 135", "76 Wn. App. 765", "804 P.2d 24", "888 P.2d 735", "96 Wn.2d 316"]
+cites_cases: ["104 Wn. App. 388", "116 Wn.2d 342", "125 P.3d 997", "131 Wn. App. 85", "15 P.3d 716", "635 P.2d 135", "76 Wn. App. 765", "804 P.2d 24", "888 P.2d 735", "96 Wn.2d 316"]
 ---
 
 # King County v. King County Hearing Examiner
