@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56232-1-I"
 decided: "2006-10-02"
-citations: ["135 Wash. App. 628", "135 Wash. App. 1006"]
+citations: ["135 Wash. App. 628"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Darrell R. Plouffe, Appellant, v. Paul M. Rook, Respondent."]
 source_url: "https://static.case.law/wash-app/135/cases/0628-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3646548
-cites_cases: ["109 Wn. App. 896", "119 Wn.2d 273", "120 Wn. App. 217", "13 Wn. App. 32", "133 Wn.2d 39", "133 Wn.2d 804", "135 Wn. App. 628", "137 Wn.2d 1", "143 Wn.2d 323", "148 Wn.2d 224", "21 P.3d 255", "37 P.3d 1255", "48 Wn. App. 506", "533 P.2d 426", "59 P.3d 655", "62 Wn. App. 647", "739 P.2d 119", "78 Wn. App. 125", "814 P.2d 1249", "82 Wn. App. 819", "830 P.2d 668", "84 P.3d 919", "896 P.2d 66", "920 P.2d 206", "940 P.2d 1362", "947 P.2d 721", "969 P.2d 21", "98 Wn. App. 307", "989 P.2d 1144"]
+cites_cases: ["109 Wn. App. 896", "119 Wn.2d 273", "120 Wn. App. 217", "13 Wn. App. 32", "133 Wn.2d 39", "133 Wn.2d 804", "137 Wn.2d 1", "143 Wn.2d 323", "148 Wn.2d 224", "21 P.3d 255", "37 P.3d 1255", "48 Wn. App. 506", "533 P.2d 426", "59 P.3d 655", "62 Wn. App. 647", "739 P.2d 119", "78 Wn. App. 125", "814 P.2d 1249", "82 Wn. App. 819", "830 P.2d 668", "84 P.3d 919", "896 P.2d 66", "920 P.2d 206", "940 P.2d 1362", "947 P.2d 721", "969 P.2d 21", "98 Wn. App. 307", "989 P.2d 1144"]
 ---
 
 # Plouffe v. Rook
