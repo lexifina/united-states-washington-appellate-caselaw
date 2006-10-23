@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56415-3-I"
 decided: "2006-10-23"
-citations: ["135 Wash. App. 859", "135 Wash. App. 1022"]
+citations: ["135 Wash. App. 859"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Terry R. Smith, Appellant, v. Preston Gates Ellis, L.L.P., et al., Re
 source_url: "https://static.case.law/wash-app/135/cases/0859-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3646184
-cites_cases: ["106 Wn.2d 1", "107 Wn. App. 757", "111 P.3d 866", "112 Wn.2d 216", "127 Wn. App. 309", "134 Wn.2d 243", "135 Wn. App. 859", "138 Wn.2d 265", "14 Wn. App. 78", "161 Wn.2d 1011", "17 Wn. App. 853", "27 P.3d 246", "29 Wn. App. 433", "538 P.2d 1238", "565 P.2d 1224", "618 P.2d 96", "628 P.2d 1336", "70 Wn. App. 286", "721 P.2d 1", "77 Wn. App. 500", "770 P.2d 182", "852 P.2d 1092", "892 P.2d 760", "94 Wn.2d 640", "947 P.2d 223", "979 P.2d 400"]
+cites_cases: ["106 Wn.2d 1", "107 Wn. App. 757", "111 P.3d 866", "112 Wn.2d 216", "127 Wn. App. 309", "134 Wn.2d 243", "138 Wn.2d 265", "14 Wn. App. 78", "161 Wn.2d 1011", "17 Wn. App. 853", "27 P.3d 246", "29 Wn. App. 433", "538 P.2d 1238", "565 P.2d 1224", "618 P.2d 96", "628 P.2d 1336", "70 Wn. App. 286", "721 P.2d 1", "77 Wn. App. 500", "770 P.2d 182", "852 P.2d 1092", "892 P.2d 760", "94 Wn.2d 640", "947 P.2d 223", "979 P.2d 400"]
 ---
 
 # Smith v. Ellis
