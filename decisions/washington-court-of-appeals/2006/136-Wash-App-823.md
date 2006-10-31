@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32838-1-II"
 decided: "2006-10-31"
-citations: ["136 Wash. App. 823", "135 Wash. App. 1029"]
+citations: ["136 Wash. App. 823"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Estate of Anita E. Moi. Terry A. Nelson, Appella
 source_url: "https://static.case.law/wash-app/136/cases/0823-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5582180
-cites_cases: ["100 P. 1019", "105 P.3d 434", "109 Wn.2d 467", "117 Wn.2d 631", "125 Wn. App. 468", "126 P.3d 802", "128 Wn.2d 317", "136 Wn. App. 823", "141 Wn.2d 539", "151 Wn.2d 853", "156 Wn.2d 289", "162 Wn.2d 1003", "273 P.2d 235", "280 P.2d 789", "44 Cal. 2d 147", "441 P.2d 768", "45 Wn.2d 58", "52 Wash. 539", "73 Wn.2d 865", "745 P.2d 1295", "76 Wn. App. 656", "818 P.2d 1324", "886 P.2d 1155", "9 P.3d 805", "906 P.2d 922", "93 P.3d 108"]
+cites_cases: ["100 P. 1019", "105 P.3d 434", "109 Wn.2d 467", "117 Wn.2d 631", "125 Wn. App. 468", "126 P.3d 802", "128 Wn.2d 317", "141 Wn.2d 539", "151 Wn.2d 853", "156 Wn.2d 289", "162 Wn.2d 1003", "273 P.2d 235", "280 P.2d 789", "44 Cal. 2d 147", "441 P.2d 768", "45 Wn.2d 58", "52 Wash. 539", "73 Wn.2d 865", "745 P.2d 1295", "76 Wn. App. 656", "818 P.2d 1324", "886 P.2d 1155", "9 P.3d 805", "906 P.2d 922", "93 P.3d 108"]
 ---
 
 # Nelson v. Jusenius
