@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56574-5-I"
 decided: "2006-11-06"
-citations: ["136 Wash. App. 277", "135 Wash. App. 1038"]
+citations: ["136 Wash. App. 277"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, on the relation of The Public Disclosure Com
 source_url: "https://static.case.law/wash-app/136/cases/0277-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5585905
-cites_cases: ["100 Wn.2d 643", "117 Wn. App. 625", "118 Wn.2d 801", "119 Wn.2d 273", "12 Wn.2d 600", "120 P.3d 130", "123 P.2d 322", "125 Wn.2d 876", "126 Wn.2d 22", "131 Wn. App. 406", "132 Wn.2d 103", "136 Wn. App. 277", "149 Wn.2d 130", "162 Wn.2d 1003", "213 F.3d 1132", "246 P.2d 465", "328 F.3d 1088", "364 P.2d 225", "397 U.S. 254", "40 Wn.2d 809", "424 U.S. 1", "424 U.S. 319", "454 U.S. 290", "46 L. Ed. 2d 659", "486 U.S. 414", "514 U.S. 334", "517 P.2d 911", "58 Wn.2d 467", "64 Wash. L. Rev. 781", "65 P.3d 1192", "673 P.2d 610", "71 P.3d 244", "828 P.2d 549", "83 Wn.2d 275", "830 P.2d 668", "889 P.2d 479", "891 P.2d 29", "937 P.2d 154", "96 S. Ct. 612"]
+cites_cases: ["100 Wn.2d 643", "117 Wn. App. 625", "118 Wn.2d 801", "119 Wn.2d 273", "12 Wn.2d 600", "120 P.3d 130", "123 P.2d 322", "125 Wn.2d 876", "126 Wn.2d 22", "131 Wn. App. 406", "132 Wn.2d 103", "149 Wn.2d 130", "162 Wn.2d 1003", "213 F.3d 1132", "246 P.2d 465", "328 F.3d 1088", "364 P.2d 225", "397 U.S. 254", "40 Wn.2d 809", "424 U.S. 1", "424 U.S. 319", "454 U.S. 290", "46 L. Ed. 2d 659", "486 U.S. 414", "514 U.S. 334", "517 P.2d 911", "58 Wn.2d 467", "64 Wash. L. Rev. 781", "65 P.3d 1192", "673 P.2d 610", "71 P.3d 244", "828 P.2d 549", "83 Wn.2d 275", "830 P.2d 668", "889 P.2d 479", "891 P.2d 29", "937 P.2d 154", "96 S. Ct. 612"]
 ---
 
 # State ex rel. Public Disclosure Commission v. Permanent Offense
