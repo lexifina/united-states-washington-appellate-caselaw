@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33701-1-II"
 decided: "2006-11-07"
-citations: ["136 Wash. App. 836", "135 Wash. App. 1040"]
+citations: ["136 Wash. App. 836"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jerry Ronald Lampley, Appella
 source_url: "https://static.case.law/wash-app/136/cases/0836-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5582392
-cites_cases: ["128 Wn.2d 693", "132 P.3d 1076", "134 Wn. App. 483", "136 Wn. App. 836", "140 P.3d 633", "143 Wn.2d 561", "156 Wn.2d 709", "23 P.3d 1046", "422 P.2d 7", "57 Wn. App. 144", "69 Wn.2d 965", "787 P.2d 54", "911 P.2d 996"]
+cites_cases: ["128 Wn.2d 693", "132 P.3d 1076", "134 Wn. App. 483", "140 P.3d 633", "143 Wn.2d 561", "156 Wn.2d 709", "23 P.3d 1046", "422 P.2d 7", "57 Wn. App. 144", "69 Wn.2d 965", "787 P.2d 54", "911 P.2d 996"]
 ---
 
 # State v. Lampley
