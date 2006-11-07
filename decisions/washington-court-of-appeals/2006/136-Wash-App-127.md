@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32943-3-II"
 decided: "2006-11-07"
-citations: ["136 Wash. App. 127", "135 Wash. App. 1039"]
+citations: ["136 Wash. App. 127"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Gordon Smith Bird, Appellant.
 source_url: "https://static.case.law/wash-app/136/cases/0127-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5581930
-cites_cases: ["100 Wn. App. 757", "118 Wn.2d 681", "125 P.3d 990", "131 Wn. App. 71", "136 Wn. App. 127", "143 Wn.2d 923", "149 Wn.2d 873", "161 Wn.2d 1013", "26 P.3d 236", "354 P.2d 928", "380 U.S. 400", "539 P.2d 86", "541 U.S. 36", "547 U.S. 813", "56 Wn.2d 596", "591 P.2d 452", "73 P.3d 369", "826 P.2d 194", "85 Wn.2d 730", "91 Wn.2d 638", "998 P.2d 373"]
+cites_cases: ["100 Wn. App. 757", "118 Wn.2d 681", "125 P.3d 990", "131 Wn. App. 71", "143 Wn.2d 923", "149 Wn.2d 873", "161 Wn.2d 1013", "26 P.3d 236", "354 P.2d 928", "380 U.S. 400", "539 P.2d 86", "541 U.S. 36", "547 U.S. 813", "56 Wn.2d 596", "591 P.2d 452", "73 P.3d 369", "826 P.2d 194", "85 Wn.2d 730", "91 Wn.2d 638", "998 P.2d 373"]
 ---
 
 # State v. Bird
