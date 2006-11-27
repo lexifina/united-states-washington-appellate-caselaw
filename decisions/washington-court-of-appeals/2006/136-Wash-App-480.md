@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "55451-4-I"
 decided: "2006-11-27"
-citations: ["136 Wash. App. 480", "136 Wash. App. 1006"]
+citations: ["136 Wash. App. 480"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Daniel W. Griffith. The State of Wa
 source_url: "https://static.case.law/wash-app/136/cases/0480-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5584036
-cites_cases: ["114 Wash. 623", "122 Wn.2d 1", "124 Wn.2d 57", "127 Wn.2d 628", "130 Wn.2d 700", "132 P.3d 714", "136 Wn. App. 480", "136 Wn.2d 1024", "156 Wn.2d 795", "161 Wn.2d 1027", "195 P. 1003", "293 F. 1013", "338 P.2d 137", "54 App. D.C. 46", "54 Wn.2d 90", "67 Wn. App. 838", "841 P.2d 76", "857 P.2d 989", "873 P.2d 514", "90 Wn. App. 980", "904 P.2d 245", "927 P.2d 235", "95 Wn. App. 842", "955 P.2d 406", "980 P.2d 224"]
+cites_cases: ["114 Wash. 623", "122 Wn.2d 1", "124 Wn.2d 57", "127 Wn.2d 628", "130 Wn.2d 700", "132 P.3d 714", "136 Wn.2d 1024", "156 Wn.2d 795", "161 Wn.2d 1027", "195 P. 1003", "293 F. 1013", "338 P.2d 137", "54 App. D.C. 46", "54 Wn.2d 90", "67 Wn. App. 838", "841 P.2d 76", "857 P.2d 989", "873 P.2d 514", "90 Wn. App. 980", "904 P.2d 245", "927 P.2d 235", "95 Wn. App. 842", "955 P.2d 406", "980 P.2d 224"]
 ---
 
 # State v. Griffith
