@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "23721-4-III"
 decided: "2006-12-14"
-citations: ["136 Wash. App. 859", "136 Wash. App. 1020"]
+citations: ["136 Wash. App. 859"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Westway Construction, Inc., et al., Appellants, v. Benton County et a
 source_url: "https://static.case.law/wash-app/136/cases/0859-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5586002
-cites_cases: ["102 Wn.2d 271", "117 P.3d 1089", "117 Wn. App. 1089", "121 Wn. App. 898", "121 Wn.2d 1031", "126 F.3d 1125", "129 Wn.2d 1023", "131 Wn.2d 706", "132 Wn.2d 214", "134 Wn. App. 175", "136 Wn. App. 859", "139 P.3d 386", "150 Wn.2d 881", "153 Wn.2d 1019", "155 Wn.2d 1", "23 F. Supp. 2d 1199", "522 U.S. 1153", "548 P.2d 1085", "68 Wn. App. 486", "684 P.2d 709", "76 Wn. App. 237", "80 Wn. App. 843", "83 P.3d 999", "843 P.2d 1109", "87 Wn.2d 6", "885 P.2d 845", "91 P.3d 133", "912 P.2d 1035", "934 P.2d 1179", "937 P.2d 186", "943 P.2d 265", "98 Wn. App. 724", "991 P.2d 1169"]
+cites_cases: ["102 Wn.2d 271", "117 P.3d 1089", "117 Wn. App. 1089", "121 Wn. App. 898", "121 Wn.2d 1031", "126 F.3d 1125", "129 Wn.2d 1023", "131 Wn.2d 706", "132 Wn.2d 214", "134 Wn. App. 175", "139 P.3d 386", "150 Wn.2d 881", "153 Wn.2d 1019", "155 Wn.2d 1", "23 F. Supp. 2d 1199", "522 U.S. 1153", "548 P.2d 1085", "68 Wn. App. 486", "684 P.2d 709", "76 Wn. App. 237", "80 Wn. App. 843", "83 P.3d 999", "843 P.2d 1109", "87 Wn.2d 6", "885 P.2d 845", "91 P.3d 133", "912 P.2d 1035", "934 P.2d 1179", "937 P.2d 186", "943 P.2d 265", "98 Wn. App. 724", "991 P.2d 1169"]
 ---
 
 # Westway Construction, Inc. v. Benton County
