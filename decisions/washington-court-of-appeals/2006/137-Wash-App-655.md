@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57382-9-I"
 decided: "2006-12-18"
-citations: ["137 Wash. App. 655", "136 Wash. App. 1023"]
+citations: ["137 Wash. App. 655"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Andrew Oliver, Appellant, v. Flow International Corporation, 
 source_url: "https://static.case.law/wash-app/137/cases/0655-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4043724
-cites_cases: ["100 Wn.2d 343", "111 P.3d 1192", "115 P.3d 262", "115 Wn.2d 657", "118 N.E. 214", "125 Wn.2d 521", "127 Wn. App. 13", "132 Wn.2d 103", "137 Wn. App. 655", "14 Wn. App. 128", "154 Wn.2d 493", "222 N.Y. 88", "402 F. Supp. 881", "539 P.2d 868", "542 F.2d 111", "617 P.2d 704", "670 P.2d 240", "801 P.2d 222", "886 P.2d 1121", "908 F.2d 98", "937 P.2d 154", "94 Wn.2d 359"]
+cites_cases: ["100 Wn.2d 343", "111 P.3d 1192", "115 P.3d 262", "115 Wn.2d 657", "118 N.E. 214", "125 Wn.2d 521", "127 Wn. App. 13", "132 Wn.2d 103", "14 Wn. App. 128", "154 Wn.2d 493", "222 N.Y. 88", "402 F. Supp. 881", "539 P.2d 868", "542 F.2d 111", "617 P.2d 704", "670 P.2d 240", "801 P.2d 222", "886 P.2d 1121", "908 F.2d 98", "937 P.2d 154", "94 Wn.2d 359"]
 ---
 
 # Oliver v. Flow International Corp.
