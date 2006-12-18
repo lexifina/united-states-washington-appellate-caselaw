@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57390-0-I"
 decided: "2006-12-18"
-citations: ["136 Wash. App. 869", "136 Wash. App. 1023"]
+citations: ["136 Wash. App. 869"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Donald R. Saben et al., Respondents, v. Skagit County et al., Appella
 source_url: "https://static.case.law/wash-app/136/cases/0869-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5585652
-cites_cases: ["115 U.S. App. D.C. 366", "136 Wn. App. 869", "145 Wn.2d 417", "320 F.2d 685", "35 Wn. App. 169", "38 P.3d 322", "411 U.S. 192", "42 U.S.C. § 1983", "531 P.2d 299", "665 P.2d 1383", "72 Wn. App. 1", "85 Wn.2d 154", "863 P.2d 578", "902 F.2d 185"]
+cites_cases: ["115 U.S. App. D.C. 366", "145 Wn.2d 417", "320 F.2d 685", "35 Wn. App. 169", "38 P.3d 322", "411 U.S. 192", "42 U.S.C. § 1983", "531 P.2d 299", "665 P.2d 1383", "72 Wn. App. 1", "85 Wn.2d 154", "863 P.2d 578", "902 F.2d 185"]
 ---
 
 # Saben v. Skagit County
