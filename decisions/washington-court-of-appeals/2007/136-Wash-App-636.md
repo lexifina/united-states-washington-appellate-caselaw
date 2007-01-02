@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56450-1-I"
 decided: "2007-01-02"
-citations: ["136 Wash. App. 636", "136 Wash. App. 1032"]
+citations: ["136 Wash. App. 636"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["North Coast Electric Company, Appellant, v. Martin Selig et al., Resp
 source_url: "https://static.case.law/wash-app/136/cases/0636-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5581181
-cites_cases: ["100 Wn.2d 581", "105 Wn. App. 447", "119 Wn.2d 210", "121 Wn.2d 52", "124 Wn.2d 193", "131 Wn.2d 587", "136 Wn. App. 636", "136 Wn.2d 888", "144 Wn.2d 130", "152 Ariz. 537", "20 P.3d 958", "26 P.3d 910", "37 Wn. App. 203", "491 U.S. 274", "561 P.2d 201", "675 P.2d 193", "680 P.2d 425", "738 F.2d 836", "78 Wn. App. 384", "79 Wn. App. 841", "829 P.2d 1099", "847 P.2d 440", "876 P.2d 448", "88 Wn.2d 380", "896 P.2d 1309", "905 P.2d 1229", "917 P.2d 1086", "934 P.2d 685", "96 Or. App. 257", "969 P.2d 64"]
+cites_cases: ["100 Wn.2d 581", "105 Wn. App. 447", "119 Wn.2d 210", "121 Wn.2d 52", "124 Wn.2d 193", "131 Wn.2d 587", "136 Wn.2d 888", "144 Wn.2d 130", "152 Ariz. 537", "20 P.3d 958", "26 P.3d 910", "37 Wn. App. 203", "491 U.S. 274", "561 P.2d 201", "675 P.2d 193", "680 P.2d 425", "738 F.2d 836", "78 Wn. App. 384", "79 Wn. App. 841", "829 P.2d 1099", "847 P.2d 440", "876 P.2d 448", "88 Wn.2d 380", "896 P.2d 1309", "905 P.2d 1229", "917 P.2d 1086", "934 P.2d 685", "96 Or. App. 257", "969 P.2d 64"]
 ---
 
 # North Coast Electric Co. v. Selig
