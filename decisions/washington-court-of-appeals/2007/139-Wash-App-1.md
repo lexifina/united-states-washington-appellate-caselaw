@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57862-6-I; 57863-4-I; 57864-2-I; 57865-1-I; 58560-6-I; 58561-4-I"
 decided: "2007-01-16"
-citations: ["139 Wash. App. 1", "136 Wash. App. 1041"]
+citations: ["139 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Dependency of T.L.G. et al. Bonnie Lee Dunlavy e
 source_url: "https://static.case.law/wash-app/139/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3832982
-cites_cases: ["101 Wn.2d 392", "105 P.3d 991", "108 P.3d 156", "110 P.3d 1132", "118 Wn. App. 71", "122 Wn.2d 131", "125 Wn.2d 1002", "126 Wn. App. 181", "128 Wn.2d 129", "133 Wn.2d 39", "137 P.3d 825", "137 Wn.2d 1038", "139 Wn. App. 1", "14 P.3d 133", "142 Wn.2d 543", "149 Wn.2d 647", "153 Wn.2d 646", "154 Wn.2d 224", "157 Wn.2d 167", "67 Wn. App. 339", "679 P.2d 916", "71 P.3d 638", "74 P.3d 674", "74 Wn. App. 81", "835 P.2d 251", "856 P.2d 694", "871 P.2d 1123", "904 P.2d 1132", "91 Wn. App. 488", "940 P.2d 1362", "957 P.2d 1270"]
+cites_cases: ["101 Wn.2d 392", "105 P.3d 991", "108 P.3d 156", "110 P.3d 1132", "118 Wn. App. 71", "122 Wn.2d 131", "125 Wn.2d 1002", "126 Wn. App. 181", "128 Wn.2d 129", "133 Wn.2d 39", "137 P.3d 825", "137 Wn.2d 1038", "14 P.3d 133", "142 Wn.2d 543", "149 Wn.2d 647", "153 Wn.2d 646", "154 Wn.2d 224", "157 Wn.2d 167", "67 Wn. App. 339", "679 P.2d 916", "71 P.3d 638", "74 P.3d 674", "74 Wn. App. 81", "835 P.2d 251", "856 P.2d 694", "871 P.2d 1123", "904 P.2d 1132", "91 Wn. App. 488", "940 P.2d 1362", "957 P.2d 1270"]
 ---
 
 # Dunlavy v. Department of Social & Health Services
