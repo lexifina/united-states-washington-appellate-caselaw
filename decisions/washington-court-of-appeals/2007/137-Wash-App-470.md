@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34473-4-II"
 decided: "2007-01-17"
-citations: ["137 Wash. App. 470", "136 Wash. App. 1045"]
+citations: ["137 Wash. App. 470"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Stephen Clapp et al., Appellants, v. Olympic View Publishing Company,
 source_url: "https://static.case.law/wash-app/137/cases/0470-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4045825
-cites_cases: ["100 Wn.2d 343", "102 Wn. App. 687", "107 Wn.2d 427", "108 Wn.2d 162", "11 P.3d 313", "114 Wn. App. 371", "119 P.3d 325", "124 Wn.2d 749", "135 Wn.2d 618", "137 Wn. App. 470", "137 Wn.2d 746", "155 Wn.2d 225", "157 N.E. 153", "162 Wn.2d 1013", "245 N.Y. 320", "271 A.2d 696", "271 P.2d 683", "380 F.2d 131", "44 Wn.2d 837", "499 P.2d 24", "57 P.3d 1178", "635 P.2d 1081", "670 P.2d 240", "7 Wn. App. 107", "730 P.2d 653", "736 P.2d 249", "881 P.2d 216", "957 P.2d 691", "96 Wn.2d 473", "975 P.2d 963"]
+cites_cases: ["100 Wn.2d 343", "102 Wn. App. 687", "107 Wn.2d 427", "108 Wn.2d 162", "11 P.3d 313", "114 Wn. App. 371", "119 P.3d 325", "124 Wn.2d 749", "135 Wn.2d 618", "137 Wn.2d 746", "155 Wn.2d 225", "157 N.E. 153", "162 Wn.2d 1013", "245 N.Y. 320", "271 A.2d 696", "271 P.2d 683", "380 F.2d 131", "44 Wn.2d 837", "499 P.2d 24", "57 P.3d 1178", "635 P.2d 1081", "670 P.2d 240", "7 Wn. App. 107", "730 P.2d 653", "736 P.2d 249", "881 P.2d 216", "957 P.2d 691", "96 Wn.2d 473", "975 P.2d 963"]
 ---
 
 # Clapp v. Olympic View Publishing Co.
