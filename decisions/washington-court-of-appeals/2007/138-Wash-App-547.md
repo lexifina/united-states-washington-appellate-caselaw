@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57214-8-I"
 decided: "2007-01-29"
-citations: ["138 Wash. App. 547", "136 Wash. App. 1053"]
+citations: ["138 Wash. App. 547"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kathie Costanich, Respondent, v. The Department of Social and Health 
 source_url: "https://static.case.law/wash-app/138/cases/0547-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3726803
-cites_cases: ["102 Wn. App. 1", "102 Wn. App. 29", "112 Wn. App. 712", "115 Wn. App. 164", "120 P.3d 130", "122 Wn. App. 402", "122 Wn.2d 397", "126 Wn.2d 36", "131 Wn. App. 406", "134 Wn.2d 1004", "135 P.3d 913", "138 Wn. App. 547", "15 P.3d 153", "150 Wn.2d 1016", "157 Wn.2d 90", "487 U.S. 552", "50 P.3d 668", "53 Wn. App. 868", "62 P.3d 510", "65 Wn. App. 614", "71 Wn. App. 367", "770 P.2d 1084", "829 P.2d 217", "858 P.2d 494", "859 P.2d 610", "87 Wn. App. 634", "891 P.2d 725", "942 P.2d 1040", "97 P.3d 17", "979 P.2d 929", "99 Wn. App. 148", "992 P.2d 1023"]
+cites_cases: ["102 Wn. App. 1", "102 Wn. App. 29", "112 Wn. App. 712", "115 Wn. App. 164", "120 P.3d 130", "122 Wn. App. 402", "122 Wn.2d 397", "126 Wn.2d 36", "131 Wn. App. 406", "134 Wn.2d 1004", "135 P.3d 913", "15 P.3d 153", "150 Wn.2d 1016", "157 Wn.2d 90", "487 U.S. 552", "50 P.3d 668", "53 Wn. App. 868", "62 P.3d 510", "65 Wn. App. 614", "71 Wn. App. 367", "770 P.2d 1084", "829 P.2d 217", "858 P.2d 494", "859 P.2d 610", "87 Wn. App. 634", "891 P.2d 725", "942 P.2d 1040", "97 P.3d 17", "979 P.2d 929", "99 Wn. App. 148", "992 P.2d 1023"]
 ---
 
 # Costanich v. Department of Social & Health Services
