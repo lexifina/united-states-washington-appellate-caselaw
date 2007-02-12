@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57723-9-I"
 decided: "2007-02-12"
-citations: ["138 Wash. App. 564", "137 Wash. App. 233"]
+citations: ["138 Wash. App. 564"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Gary D. Allen, Appellant, v. Asbestos Corporation, Ltd., et al., Defe
 source_url: "https://static.case.law/wash-app/138/cases/0564-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3726695
-cites_cases: ["103 P.3d 232", "103 Wn. App. 312", "103 Wn. App. 324", "106 Wn.2d 391", "109 Wn.2d 235", "112 Wn.2d 216", "122 Wn. App. 132", "122 Wn. App. 736", "123 Wn.2d 819", "125 P.3d 111", "127 Wn. App. 809", "138 Wn. App. 564", "14 P.3d 789", "156 Wn.2d 150", "157 Ill. Dec. 272", "162 Wn.2d 1022", "182 F.2d 1156", "2003 WI App 85", "213 Ill. App. 3d 38", "225 Or. 143", "271 A.D. 986", "30 Wn. App. 288", "444 P.2d 787", "572 N.E.2d 342", "633 P.2d 921", "64 Wn. App. 128", "68 N.Y.S.2d 71", "722 P.2d 787", "74 Wn.2d 372", "744 P.2d 605", "754 F.2d 110", "770 P.2d 182", "777 F.2d 296", "822 P.2d 1257", "854 So. 2d 979", "87 P.3d 774", "872 P.2d 516", "90 P.3d 1081", "950 F.2d 481"]
+cites_cases: ["103 P.3d 232", "103 Wn. App. 312", "103 Wn. App. 324", "106 Wn.2d 391", "109 Wn.2d 235", "112 Wn.2d 216", "122 Wn. App. 132", "122 Wn. App. 736", "123 Wn.2d 819", "125 P.3d 111", "127 Wn. App. 809", "14 P.3d 789", "156 Wn.2d 150", "157 Ill. Dec. 272", "162 Wn.2d 1022", "182 F.2d 1156", "2003 WI App 85", "213 Ill. App. 3d 38", "225 Or. 143", "271 A.D. 986", "30 Wn. App. 288", "444 P.2d 787", "572 N.E.2d 342", "633 P.2d 921", "64 Wn. App. 128", "68 N.Y.S.2d 71", "722 P.2d 787", "74 Wn.2d 372", "744 P.2d 605", "754 F.2d 110", "770 P.2d 182", "777 F.2d 296", "822 P.2d 1257", "854 So. 2d 979", "87 P.3d 774", "872 P.2d 516", "90 P.3d 1081", "950 F.2d 481"]
 ---
 
 # Allen v. Asbestos Corp.
