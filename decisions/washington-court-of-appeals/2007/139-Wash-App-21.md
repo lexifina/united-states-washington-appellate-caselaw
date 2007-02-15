@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24472-5-III"
 decided: "2007-02-15"
-citations: ["139 Wash. App. 21", "137 Wash. App. 1015"]
+citations: ["139 Wash. App. 21"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Stephen K. Eugster, Appellant, v. The City of Spokane, Respondent."]
 source_url: "https://static.case.law/wash-app/139/cases/0021-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3837369
-cites_cases: ["100 P.3d 349", "105 Wn.2d 499", "107 Wn.2d 427", "110 P.3d 214", "113 Wn.2d 413", "115 Wn.2d 194", "116 Wn. App. 1020", "116 Wn.2d 1", "117 P.3d 1117", "117 Wn. App. 178", "118 Wn. App. 383", "119 P.3d 325", "119 Wn. App. 501", "120 Wn. App. 892", "120 Wn.2d 178", "121 Wn. App. 584", "121 Wn. App. 799", "124 Wn. App. 113", "125 Wn.2d 173", "126 Wn. App. 930", "133 Wn.2d 455", "134 Wn.2d 437", "137 Wn.2d 1035", "139 Wn. App. 21", "140 Wn.2d 1001", "143 Wn.2d 68", "144 Wn.2d 306", "146 Wn.2d 370", "147 Wn.2d 303", "151 Wn.2d 1027", "151 Wn.2d 60", "153 Wn.2d 1012", "155 Wn.2d 1026", "155 Wn.2d 225", "155 Wn.2d 89", "17 P.3d 1178", "27 P.3d 600", "46 P.3d 789", "52 Wn. App. 716", "53 P.3d 993", "534 P.2d 114", "578 P.2d 1292", "69 P.3d 351", "716 P.2d 869", "730 P.2d 653", "74 Wn. App. 81", "76 P.3d 741", "763 P.2d 834", "780 P.2d 1282", "796 P.2d 412", "802 P.2d 784", "81 P.3d 876", "840 P.2d 851", "85 P.3d 346", "85 Wn.2d 266", "86 P.3d 835", "86 Wn. App. 521", "871 P.2d 1123", "883 P.2d 303", "89 P.3d 319", "90 Wn.2d 19", "91 P.3d 117", "93 Wn. App. 406", "937 P.2d 1119", "947 P.2d 1169", "951 P.2d 782", "96 Wn. App. 568", "968 P.2d 431", "983 P.2d 676"]
+cites_cases: ["100 P.3d 349", "105 Wn.2d 499", "107 Wn.2d 427", "110 P.3d 214", "113 Wn.2d 413", "115 Wn.2d 194", "116 Wn. App. 1020", "116 Wn.2d 1", "117 P.3d 1117", "117 Wn. App. 178", "118 Wn. App. 383", "119 P.3d 325", "119 Wn. App. 501", "120 Wn. App. 892", "120 Wn.2d 178", "121 Wn. App. 584", "121 Wn. App. 799", "124 Wn. App. 113", "125 Wn.2d 173", "126 Wn. App. 930", "133 Wn.2d 455", "134 Wn.2d 437", "137 Wn.2d 1035", "140 Wn.2d 1001", "143 Wn.2d 68", "144 Wn.2d 306", "146 Wn.2d 370", "147 Wn.2d 303", "151 Wn.2d 1027", "151 Wn.2d 60", "153 Wn.2d 1012", "155 Wn.2d 1026", "155 Wn.2d 225", "155 Wn.2d 89", "17 P.3d 1178", "27 P.3d 600", "46 P.3d 789", "52 Wn. App. 716", "53 P.3d 993", "534 P.2d 114", "578 P.2d 1292", "69 P.3d 351", "716 P.2d 869", "730 P.2d 653", "74 Wn. App. 81", "76 P.3d 741", "763 P.2d 834", "780 P.2d 1282", "796 P.2d 412", "802 P.2d 784", "81 P.3d 876", "840 P.2d 851", "85 P.3d 346", "85 Wn.2d 266", "86 P.3d 835", "86 Wn. App. 521", "871 P.2d 1123", "883 P.2d 303", "89 P.3d 319", "90 Wn.2d 19", "91 P.3d 117", "93 Wn. App. 406", "937 P.2d 1119", "947 P.2d 1169", "951 P.2d 782", "96 Wn. App. 568", "968 P.2d 431", "983 P.2d 676"]
 ---
 
 # Eugster v. City of Spokane
