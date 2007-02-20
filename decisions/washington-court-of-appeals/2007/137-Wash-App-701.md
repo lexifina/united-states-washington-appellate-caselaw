@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57468-0-I"
 decided: "2007-02-20"
-citations: ["137 Wash. App. 701", "137 Wash. App. 1018"]
+citations: ["137 Wash. App. 701"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Charles E. Johnson, Appellant, v. Safeway, Inc., et al., Respondents.
 source_url: "https://static.case.law/wash-app/137/cases/0701-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4043255
-cites_cases: ["108 P.3d 1220", "109 Wn.2d 467", "117 P.3d 365", "121 P.3d 747", "128 Wn. App. 846", "129 Wn. App. 687", "137 Wn. App. 701", "153 Ohio App. 3d 507", "153 Wn.2d 780", "157 Wn.2d 1010", "462 P.2d 917", "745 P.2d 1295", "77 Wn.2d 355", "794 N.E.2d 766"]
+cites_cases: ["108 P.3d 1220", "109 Wn.2d 467", "117 P.3d 365", "121 P.3d 747", "128 Wn. App. 846", "129 Wn. App. 687", "153 Ohio App. 3d 507", "153 Wn.2d 780", "157 Wn.2d 1010", "462 P.2d 917", "745 P.2d 1295", "77 Wn.2d 355", "794 N.E.2d 766"]
 ---
 
 # Johnson v. Safeway, Inc.
