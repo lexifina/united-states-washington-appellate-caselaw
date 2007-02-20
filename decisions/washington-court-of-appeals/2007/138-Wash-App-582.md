@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56465-0-I"
 decided: "2007-02-20"
-citations: ["138 Wash. App. 582", "137 Wash. App. 1016"]
+citations: ["138 Wash. App. 582"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of Sammy Wright, Appellant."]
 source_url: "https://static.case.law/wash-app/138/cases/0582-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3728146
-cites_cases: ["122 Wn.2d 1", "124 Wn.2d 158", "138 Wn. App. 582", "139 Wn.2d 379", "162 Wn.2d 1017", "261 P.2d 684", "43 Wn.2d 449", "857 P.2d 989", "876 P.2d 435", "986 P.2d 790"]
+cites_cases: ["122 Wn.2d 1", "124 Wn.2d 158", "139 Wn.2d 379", "162 Wn.2d 1017", "261 P.2d 684", "43 Wn.2d 449", "857 P.2d 989", "876 P.2d 435", "986 P.2d 790"]
 ---
 
 # In re the Detention of Wright
