@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56812-4-I"
 decided: "2007-02-26"
-citations: ["137 Wash. App. 709", "137 Wash. App. 1021"]
+citations: ["137 Wash. App. 709"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Eric G. Bahl, Appellant."]
 source_url: "https://static.case.law/wash-app/137/cases/0709-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4046726
-cites_cases: ["111 P.3d 1251", "115 Wn.2d 171", "118 Wn.2d 801", "121 Wn.2d 22", "123 P.3d 896", "127 Wn. App. 630", "128 P.3d 139", "130 Wn. App. 721", "131 Wn. App. 601", "135 Wn. App. 938", "135 Wn.2d 326", "137 Wn. App. 709", "146 P.3d 1215", "162 Wn.2d 1011", "237 F.3d 251", "274 F.3d 155", "319 F.3d 177", "46 Wn. App. 223", "48 Wn. App. 121", "682 F.2d 1203", "730 P.2d 98", "737 P.2d 1308", "76 Wn. App. 780", "795 P.2d 693", "828 P.2d 549", "846 P.2d 1365", "887 P.2d 920", "91 Wn. App. 367", "957 P.2d 655", "957 P.2d 797"]
+cites_cases: ["111 P.3d 1251", "115 Wn.2d 171", "118 Wn.2d 801", "121 Wn.2d 22", "123 P.3d 896", "127 Wn. App. 630", "128 P.3d 139", "130 Wn. App. 721", "131 Wn. App. 601", "135 Wn. App. 938", "135 Wn.2d 326", "146 P.3d 1215", "162 Wn.2d 1011", "237 F.3d 251", "274 F.3d 155", "319 F.3d 177", "46 Wn. App. 223", "48 Wn. App. 121", "682 F.2d 1203", "730 P.2d 98", "737 P.2d 1308", "76 Wn. App. 780", "795 P.2d 693", "828 P.2d 549", "846 P.2d 1365", "887 P.2d 920", "91 Wn. App. 367", "957 P.2d 655", "957 P.2d 797"]
 ---
 
 # State v. Bahl
