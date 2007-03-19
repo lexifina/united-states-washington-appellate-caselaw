@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57813-8-I"
 decided: "2007-03-19"
-citations: ["138 Wash. App. 771", "137 Wash. App. 1045"]
+citations: ["138 Wash. App. 771"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Swinomish Indian Tribal Community, Appellant, v. Skagit County, Respo
 source_url: "https://static.case.law/wash-app/138/cases/0771-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3729164
-cites_cases: ["10 Wn. App. 332", "109 Wn.2d 107", "124 Wn.2d 26", "138 Wn. App. 771", "138 Wn.2d 161", "141 P.2d 651", "19 Wn.2d 109", "422 P.2d 790", "459 F. Supp. 1020", "517 P.2d 625", "70 Wn.2d 207", "744 P.2d 1032", "750 P.2d 254", "873 P.2d 498", "979 P.2d 374"]
+cites_cases: ["10 Wn. App. 332", "109 Wn.2d 107", "124 Wn.2d 26", "138 Wn.2d 161", "141 P.2d 651", "19 Wn.2d 109", "422 P.2d 790", "459 F. Supp. 1020", "517 P.2d 625", "70 Wn.2d 207", "744 P.2d 1032", "750 P.2d 254", "873 P.2d 498", "979 P.2d 374"]
 ---
 
 # Swinomish Indian Tribal Community v. Skagit County
