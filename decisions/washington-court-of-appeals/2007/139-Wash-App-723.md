@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24780-5-III"
 decided: "2007-04-12"
-citations: ["139 Wash. App. 723", "138 Wash. App. 1002"]
+citations: ["139 Wash. App. 723"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Discover Bank, Respondent, v. Rickey Dean Ray et al., Appellants."]
 source_url: "https://static.case.law/wash-app/139/cases/0723-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3839449
-cites_cases: ["1 P.3d 1124", "135 Wn.2d 658", "139 Wn. App. 723", "140 Wn.2d 568", "141 Wn.2d 29", "152 Wn.2d 171", "239 F. Supp. 2d 262", "56 Wn. App. 301", "783 P.2d 606", "86 F.3d 1447", "94 P.3d 945", "958 P.2d 301", "998 P.2d 305"]
+cites_cases: ["1 P.3d 1124", "135 Wn.2d 658", "140 Wn.2d 568", "141 Wn.2d 29", "152 Wn.2d 171", "239 F. Supp. 2d 262", "56 Wn. App. 301", "783 P.2d 606", "86 F.3d 1447", "94 P.3d 945", "958 P.2d 301", "998 P.2d 305"]
 ---
 
 # Discover Bank v. Ray
