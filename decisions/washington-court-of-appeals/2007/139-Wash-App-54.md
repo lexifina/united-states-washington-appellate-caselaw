@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57451-5-I"
 decided: "2007-04-16"
-citations: ["139 Wash. App. 54", "138 Wash. App. 1004"]
+citations: ["139 Wash. App. 54"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Phil Gross, Appellant, v. Kenyon Sunding et al., Respondents."]
 source_url: "https://static.case.law/wash-app/139/cases/0054-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3836734
-cites_cases: ["1 P.3d 1124", "106 Wn.2d 1", "108 Wn.2d 545", "119 Wn.2d 34", "121 Wn.2d 726", "127 Wn.2d 726", "139 Wn. App. 54", "141 Wn.2d 29", "17 Wn. App. 853", "2 N.E.2d 687", "24 Wn. App. 112", "245 A.D. 622", "271 N.Y. 544", "283 N.Y.S. 823", "39 Wn. App. 333", "45 Wn. App. 192", "503 P.2d 1110", "506 U.S. 1028", "531 P.2d 299", "54 Wn. App. 688", "565 P.2d 1224", "600 P.2d 614", "618 P.2d 96", "66 Wn. App. 350", "660 P.2d 756", "67 Wn. App. 176", "69 Wn. App. 227", "693 P.2d 175", "71 Wn. App. 590", "721 P.2d 1", "724 P.2d 425", "741 P.2d 11", "76 Wn. App. 207", "77 Wn. App. 500", "775 P.2d 474", "8 Wn. App. 36", "830 P.2d 318", "831 P.2d 1147", "848 P.2d 1268", "85 Wn.2d 154", "853 P.2d 913", "858 P.2d 1110", "860 P.2d 417", "883 P.2d 936", "892 P.2d 760", "903 P.2d 455", "92 Wn. App. 805", "94 Wn.2d 640", "965 P.2d 644", "99 Wn.2d 206"]
+cites_cases: ["1 P.3d 1124", "106 Wn.2d 1", "108 Wn.2d 545", "119 Wn.2d 34", "121 Wn.2d 726", "127 Wn.2d 726", "141 Wn.2d 29", "17 Wn. App. 853", "2 N.E.2d 687", "24 Wn. App. 112", "245 A.D. 622", "271 N.Y. 544", "283 N.Y.S. 823", "39 Wn. App. 333", "45 Wn. App. 192", "503 P.2d 1110", "506 U.S. 1028", "531 P.2d 299", "54 Wn. App. 688", "565 P.2d 1224", "600 P.2d 614", "618 P.2d 96", "66 Wn. App. 350", "660 P.2d 756", "67 Wn. App. 176", "69 Wn. App. 227", "693 P.2d 175", "71 Wn. App. 590", "721 P.2d 1", "724 P.2d 425", "741 P.2d 11", "76 Wn. App. 207", "77 Wn. App. 500", "775 P.2d 474", "8 Wn. App. 36", "830 P.2d 318", "831 P.2d 1147", "848 P.2d 1268", "85 Wn.2d 154", "853 P.2d 913", "858 P.2d 1110", "860 P.2d 417", "883 P.2d 936", "892 P.2d 760", "903 P.2d 455", "92 Wn. App. 805", "94 Wn.2d 640", "965 P.2d 644", "99 Wn.2d 206"]
 ---
 
 # Gross v. Sunding
