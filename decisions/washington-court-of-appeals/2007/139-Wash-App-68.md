@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57959-2-I"
 decided: "2007-04-16"
-citations: ["139 Wash. App. 68", "138 Wash. App. 1004"]
+citations: ["139 Wash. App. 68"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The City of Oak Harbor, Appellant, v. St. Paul Mercury Insurance Comp
 source_url: "https://static.case.law/wash-app/139/cases/0068-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3838999
-cites_cases: ["108 Wn.2d 162", "110 Wn.2d 912", "119 Wn.2d 724", "129 Wn.2d 368", "132 Wn.2d 507", "136 Vt. 484", "136 Wn. App. 751", "136 Wn.2d 567", "139 Wn. App. 68", "150 P.3d 1147", "353 F. Supp. 2d 274", "594 F. Supp. 304", "736 P.2d 249", "754 N.E.2d 971", "757 P.2d 507", "790 F. Supp. 1043", "837 P.2d 1000", "917 P.2d 116", "929 F.2d 447", "930 F. Supp. 184", "940 P.2d 252", "964 P.2d 1173", "98 Wn. App. 7", "98 Wn.App. 286", "990 P.2d 414", "991 P.2d 638"]
+cites_cases: ["108 Wn.2d 162", "110 Wn.2d 912", "119 Wn.2d 724", "129 Wn.2d 368", "132 Wn.2d 507", "136 Vt. 484", "136 Wn. App. 751", "136 Wn.2d 567", "150 P.3d 1147", "353 F. Supp. 2d 274", "594 F. Supp. 304", "736 P.2d 249", "754 N.E.2d 971", "757 P.2d 507", "790 F. Supp. 1043", "837 P.2d 1000", "917 P.2d 116", "929 F.2d 447", "930 F. Supp. 184", "940 P.2d 252", "964 P.2d 1173", "98 Wn. App. 7", "98 Wn.App. 286", "990 P.2d 414", "991 P.2d 638"]
 ---
 
 # City of Oak Harbor v. St. Paul Mercury Insurance
