@@ -1,0 +1,70 @@
+---
+court: "Washington Court of Appeals"
+docket: "55995-8-I"
+decided: "2007-04-23"
+citations: ["138 Wash. App. 141"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Steven L. Gaworski, Appellant."]
+source_url: "https://static.case.law/wash-app/138/cases/0141-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3727226
+cites_cases: ["101 Wn. App. 945", "107 P.3d 728", "108 P.3d 753", "117 Wn. App. 702", "119 Wn. App. 494", "12 P.3d 603", "120 Wn. App. 800", "133 Wn. App. 875", "135 Wn. App. 54", "136 Wn.2d 629", "138 P.3d 1095", "142 Wn.2d 165", "143 P.3d 612", "153 Wn.2d 705", "153 Wn.2d 765", "284 U.S. 299", "450 U.S. 333", "6 P.3d 86", "63 Wn. App. 441", "662 P.2d 853", "72 P.3d 1134", "79 Wn. App. 755", "81 P.3d 157", "820 P.2d 53", "86 P.3d 232", "904 P.2d 1179", "965 P.2d 1072", "99 Wn.2d 413"]
+---
+
+# State v. Gaworski
+
+## Majority (Ellington, J.)
+
+¶1 Steven Gaworski was convicted of manufacture of methamphetamine. He was also convicted of several related offenses, including separate counts of possession of pseudoephedrine and anhydrous ammonia with intent to manufacture methamphetamine, and two counts of endangering a child with a controlled substance. We agree with Gaworski that certain sentencing errors occurred. First, the unit of prosecution for possession of precursor ingredients with intent to manufacture methamphetamine is determined by examining intent, not the number of ingredients. Second, sentencing enhancements for manufacturing methamphetamine near a school bus stop and within the presence of a child must run concurrently. We therefore remand for vacation of one of Gaworski’s two possession convictions and imposition of concurrent enhancements. Otherwise, we affirm.
+Ellington, J.
+BACKGROUND
+¶2 Starr Gaworski lived in a town home with her children, C.N. and J.N. She was separated from her husband, Steven Gaworski, but he visited frequently. Late on December 4, 2003, officers from the Auburn Police Department entered the home. They walked into a thick, gray cloud of strong-smelling chemicals and found considerable evidence of methamphetamine manufacturing, including items containing methamphetamine residue, reduced methamphetamine compound, and a residue comprised of pseudo-ephedrine and antihistamines. They also found a coffee grinder with a powdery residue, six boxes of pseudoephedrine, empty canisters of the gasoline additive Heet, toluene, propane tanks containing anhydrous ammonia, muriatic acid, and plastic tubing. The State charged Steven Gaworski with five counts: manufacturing methamphetamine, possessing pseudoephedrine with intent to manufacture methamphetamine, possessing ammonia with intent to manufacture methamphetamine, endangering a dependent child (C.N.) with a controlled substance, and endangering a dependent child (J.N.) with a controlled substance.
+¶3 At trial, Gaworski’s wife, Starr, testified that she used the toluene, Heet, muriatic acid, and coffee filters for art projects and household chores, and had bought six boxes of Sudafed because it was on sale. She also testified, for the first time, that some of the evidence recovered by the officers belonged to an acquaintance, Marcus Bush, who was using the materials to build cabinets for his mother as a Christmas present. She had not mentioned Bush before trial because “she didn’t think it was important.” The jury convicted Gaworski on all charged counts. The jury also found that the first three offenses were committed in the presence of two minors and within 1,000 feet of a school bus stop.
+¶4 In the published portion of this opinion, we address Gaworski’s double jeopardy claims that (1) his convictions for possession of precursor chemicals with intent to manufacture should merge with his conviction for manufacture of methamphetamine, (2) he cannot suffer the sentence enhancement imposed for manufacturing in the presence of a minor and also be convicted of child endangerment, and (3) he cannot be separately convicted of possession of two ingredients (pseudoephedrine and ammonia) with intent to manufacture. The remaining issues are addressed in the unpublished portion of this opinion.
+ANALYSIS
+Double Jeopardy
+¶5 Double jeopardy analysis, within the bounds of the Eighth Amendment, is an inquiry into legislative intent: Did the legislature authorize separate punishments for crimes that violate multiple statutes?
+¶6 Gaworski first contends that possession of pseudo-ephedrine and anhydrous ammonia with the intent to manufacture merge with unlawful manufacture of methamphetamine, because manufacture necessarily involves possession of precursors with intent to manufacture. This proposition is incorrect and, in any case, the doctrine of merger does not apply here.
+¶7 The doctrine of merger is one means of determining whether the legislature intends multiple punishments and applies when a crime is elevated to a higher degree by proof of some other crime. None of Gaworski’s offenses was elevated to a higher degree by commission of another crime.
+¶8 Gaworski’s argument is better evaluated under the test announced in Blockburger v. United States, which asks whether each crime requires proof of a fact the other does not. If so, we presume the legislature intended separate punishment. The Blockburger presumption may be rebutted by evidence of contrary legislative intent.
+¶9 The criminal code defines “manufacturing” as
+the production, preparation, propagation, compounding, conversion, or processing of a controlled substance, either directly or indirectly or by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis, and includes any packaging or repackaging of the substance or labeling or relabeling of its container.
+Possession of precursor ingredients is not a required element of manufacturing. A person who knowingly plays even a limited role in any of these processes manufactures methamphetamine, and a person can knowingly commit the crime of manufacturing a controlled substance without ever constructively possessing it. For example, fingerprints on four items in a “box lab” used only to manufacture methamphetamine were sufficient evidence to sustain a conviction of manufacturing. Conversely, a person may possess precursor ingredients with intent to manufacture methamphetamine without ever beginning the actual manufacturing process. The two crimes do not require proof of the same facts, and we presume the legislature intended separate punishments.
+¶10 Gaworski presents no contrary evidence of legislative intent. His conviction under both statutes does not violate double jeopardy.
+Sentence Enhancement
+¶11 Under RCW 9.94A.605, Gaworski’s sentence was enhanced for manufacturing methamphetamine in the presence of a minor. He contends the enhancement merges with his convictions for child endangerment under RCW 9A.42.100. Again, the merger doctrine does not apply. Enhancement statutes increase the punishment for the underlying crime, but they do not elevate the degree of a crime or create a separate criminal offense. Here, the enhancement applies when a defendant manufactures methamphetamine or possesses precursors with intent to manufacture methamphetamine, and a child was on the “premises of manufacture,” regardless of whether the defendant knew of the child’s presence. A person is guilty of endangerment with a controlled substance when he or she “knowingly or intentionally permits a dependent child or dependent adult to be exposed to, ingest, inhale, or have contact with methamphetamine” or its ingredients when they are being used to manufacture methamphetamine. The element requires only that the child be on the premises, while the crime of endangerment requires knowingly permitting exposure, ingestion, inhalation, or contact on the part of the child. Again, the enhancement and the endangerment offense do not require proof of the same fact. Even if an enhancement can be subject to double jeopardy analysis, here there is clearly no violation.
+Unit of Prosecution
+¶12 The State charged Gaworski with two violations of RCW 69.50.440, one for possession of pseudoephedrine with the intent to manufacture methamphetamine and one for possession of anhydrous ammonia, with the same intent. The jury convicted on both counts. Gaworski contends that where a defendant possesses the precursors at the same time and location and has a single manufacturing operation, the State cannot separately prosecute possession of each precursor. The State responds that the legislature, by listing individual substances in the statute, indicated its intent to permit a separate prosecution for each substance.
+¶13 As in cases where the same conduct violates multiple statutes, we look to legislative intent to determine whether multiple convictions are authorized for separate violations of the same statute. We determine the unit of prosecution intended by the legislature by looking first to the language of the statute. If the legislature has failed to define the unit of prosecution or its intent is unclear, then the rule of lenity applies, and we resolve any uncertainty against turning a single transaction into multiple offenses.
+¶14 The statute provides as follows:
+It is unlawful for any person to possess ephedrine or any of its salts or isomers or salts of isomers, pseudoephedrine or any of its salts or isomers or salts of isomers, pressurized ammonia gas, or pressurized ammonia gas solution with intent to manufacture methamphetamine, including its salts, isomers, and salts of isomers.
+¶15 Under this plain language, a crime occurs whenever a person possesses any one of the ingredients listed, with intent to manufacture methamphetamine. Had the legislature banned simple possession of these ingredients, regardless of intent, there would be no question but that separate prosecutions were authorized for each substance.
+¶16 Gaworski argues, however, that the mens rea element demonstrates a legislative purpose to punish possession of precursor ingredients for a single manufacturing operation as a single crime, regardless of the number of individual ingredients. He contends the statute is at best ambiguous and must be interpreted in his favor.
+¶17 Previous cases have addressed the unit of prosecution for possession of controlled substances with intent to manufacture or deliver. In those cases, the unit of prosecution turned on the nature of the defendant’s intent. For example, establishing two “wholly self-contained” marijuana grow operations in different towns evidenced two separate intents to manufacture marijuana, and the defendant was properly convicted of two counts of possession of marijuana with intent to deliver. A defendant who brought 5.5 grams of cocaine into an apartment during a buy-bust operation had an immediate intent to deliver, distinct from his intent for future delivery of the 83.9 grams of cocaine remaining outside in his van. Consequently, his conviction for two counts of possession with intent to deliver did not violate double jeopardy. But when officers arresting a defendant in his car found cocaine on the floorboard and on his person, the evidence showed only one future intent to deliver the cocaine, and the defendant could be convicted of only one count of possession with intent to deliver.
+¶18 As Justice Talmadge noted in State v. Adel, the unit of prosecution is necessarily a case-by-case determination. In this case, possession of precursor chemicals is legal unless joined with the intent to manufacture methamphetamine. Gaworski had only one manufacturing operation. The statute does not answer whether possession of each and every item listed in the statute for a single manufacturing operation may be prosecuted separately. The rule of lenity thus favors Gaworski. Under these circumstances, we hold there is a single unit of prosecution. We therefore remand with instructions to vacate one of the two convictions under RCW 69.50.440 and resentence accordingly.
+¶19 Affirmed in part, reversed in part, and remanded.
+¶20 The balance of this opinion having no precedential value, the panel has determined it should not be published in accordance with RCW 2.06.040.
+Grosse and Cox, JJ., concur.
+Report of Proceedings (RP) (July 7, 2004) at 85.
+State v. Vladovic, 99 Wn.2d 413, 422, 662 P.2d 853 (1983) (quoting Albernaz v. United States, 450 U.S. 333, 344, 101 S. Ct. 1137, 67 L. Ed. 2d 275 (1981)).
+Id. at 420-21.
+284 U.S. 299, 52 S. Ct. 180, 76 L. Ed. 306 (1932).
+State v. Freeman, 153 Wn.2d 765, 772, 108 P.3d 753 (2005).
+Id.; see also State v. Leming, 133 Wn. App. 875, 886-87, 138 P.3d 1095 (2006).
+7 RCW 69.50.101(p).
+State v. Davis, 117 Wn. App. 702, 708, 72 P.3d 1134 (2003).
+State v. Todd, 101 Wn. App. 945, 952, 6 P.3d 86 (2000), overruled on other grounds by State v. Rangel-Reyes, 119 Wn. App. 494, 499, 81 P.3d 157 (2003).
+State v. Saunders, 120 Wn. App. 800, 820-21, 86 P.3d 232 (2004).
+See State v. Esparza, 135 Wn. App. 54, 67, 143 P.3d 612 (2006).
+RCW 9.94A.605(2) (“There has been a special allegation pleaded and proven beyond a reasonable doubt that the defendant committed the crime [of manufacturing] when a person under the age of eighteen was present in or upon the premises of manufacture.” (Emphasis added.))
+RCW 9A.42.100.
+State v. Tvedt, 153 Wn.2d 705, 710-11, 107 P.3d 728 (2005).
+Id.
+16 RCW 69.50.440(1).
+See In re Pers. Restraint of Davis, 142 Wn.2d 165, 174-76, 12 P.3d 603 (2000); State v. Adel, 136 Wn.2d 629, 634-40, 965 P.2d 1072 (1998) (discussing State v. McFadden, 63 Wn. App. 441, 820 P.2d 53 (1991); State v. Lopez, 79 Wn. App. 755, 904 P.2d 1179 (1995)).
+Davis, 142 Wn.2d at 176.
+Adel, 136 Wn.2d at 638 (discussing McFadden, 63 Wn. App. at 452).
+Id. at 638-39 (discussing Lopez, 79 Wn. App. at 762).
+136 Wn.2d 629, 640, 965 P.2d 1072 (1998) (Talmadge, J., concurring).
