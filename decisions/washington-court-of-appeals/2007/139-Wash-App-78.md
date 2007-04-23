@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57192-3-I"
 decided: "2007-04-23"
-citations: ["139 Wash. App. 78", "138 Wash. App. 1012"]
+citations: ["139 Wash. App. 78"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["David Bauman et al., Respondents, v. Ronald Turpen et al., Appellants
 source_url: "https://static.case.law/wash-app/139/cases/0078-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3839234
-cites_cases: ["102 Wn. App. 60", "108 Wn.2d 338", "109 Wn.2d 29", "115 Wn.2d 657", "118 Wn. App. 746", "125 Wn.2d 445", "128 Wn.2d 431", "131 Wn.2d 612", "137 Wn.2d 683", "139 Wn. App. 78", "141 Wn.2d 201", "149 Wn.2d 647", "15 Wn. App. 749", "151 Wn.2d 1018", "151 Wn.2d 884", "154 Cal. App. 2d 825", "17 Wn. App. 193", "22 Wn. App. 70", "239 Or. 97", "3 Wn. App. 139", "317 P.2d 653", "32 Wn. App. 22", "399 P.2d 68", "445 P.2d 648", "473 P.2d 202", "5 P.3d 691", "508 P.2d 628", "53 Wn. App. 463", "532 U.S. 920", "551 P.2d 768", "563 P.2d 1260", "587 P.2d 1087", "645 P.2d 727", "65 Wn.2d 619", "665 P.2d 1337", "7 P.3d 818", "71 P.3d 638", "738 P.2d 251", "74 Wn.2d 575", "742 P.2d 1244", "76 P.3d 1190", "767 P.2d 961", "78 Wn.2d 996", "8 Wn. App. 600", "801 P.2d 222", "88 Wn.2d 1001", "886 P.2d 154", "909 P.2d 293", "93 P.3d 124", "93 Wn. App. 886", "934 P.2d 669", "97 Wn.2d 1036", "970 P.2d 825", "974 P.2d 836", "99 Wn.2d 878"]
+cites_cases: ["102 Wn. App. 60", "108 Wn.2d 338", "109 Wn.2d 29", "115 Wn.2d 657", "118 Wn. App. 746", "125 Wn.2d 445", "128 Wn.2d 431", "131 Wn.2d 612", "137 Wn.2d 683", "141 Wn.2d 201", "149 Wn.2d 647", "15 Wn. App. 749", "151 Wn.2d 1018", "151 Wn.2d 884", "154 Cal. App. 2d 825", "17 Wn. App. 193", "22 Wn. App. 70", "239 Or. 97", "3 Wn. App. 139", "317 P.2d 653", "32 Wn. App. 22", "399 P.2d 68", "445 P.2d 648", "473 P.2d 202", "5 P.3d 691", "508 P.2d 628", "53 Wn. App. 463", "532 U.S. 920", "551 P.2d 768", "563 P.2d 1260", "587 P.2d 1087", "645 P.2d 727", "65 Wn.2d 619", "665 P.2d 1337", "7 P.3d 818", "71 P.3d 638", "738 P.2d 251", "74 Wn.2d 575", "742 P.2d 1244", "76 P.3d 1190", "767 P.2d 961", "78 Wn.2d 996", "8 Wn. App. 600", "801 P.2d 222", "88 Wn.2d 1001", "886 P.2d 154", "909 P.2d 293", "93 P.3d 124", "93 Wn. App. 886", "934 P.2d 669", "97 Wn.2d 1036", "970 P.2d 825", "974 P.2d 836", "99 Wn.2d 878"]
 ---
 
 # Bauman v. Turpen
