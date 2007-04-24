@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34886-1-II"
 decided: "2007-04-24"
-citations: ["139 Wash. App. 98", "138 Wash. App. 1019"]
+citations: ["139 Wash. App. 98"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["BD Roofing, Inc., Appellant, v. The Department of Labor and Industrie
 source_url: "https://static.case.law/wash-app/139/cases/0098-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3839094
-cites_cases: ["104 Wn. App. 307", "106 Wn. App. 333", "110 Wn.2d 128", "117 F.3d 691", "117 P.3d 385", "119 P.3d 366", "119 Wn. App. 906", "121 Wn.2d 513", "122 Wn. App. 402", "128 Wn. App. 922", "129 Wn. App. 356", "133 P.3d 473", "135 P.3d 913", "136 Wn.2d 693", "139 Wn. App. 98", "143 Wn.2d 1020", "149 Wn.2d 827", "152 Wn.2d 1003", "156 Wn.2d 1028", "157 Wn.2d 90", "16 P.3d 35", "17 O.S.H. Cas. (BNA) 1869", "24 P.3d 424", "29 U.S.C. §§ 651-678", "647 F.2d 1063", "74 P.3d 115", "750 P.2d 1257", "756 P.2d 142", "818 F.2d 1270", "83 P.3d 1012", "852 P.2d 288", "95 Wn. App. 858", "965 P.2d 619", "97 P.3d 17", "975 P.2d 567"]
+cites_cases: ["104 Wn. App. 307", "106 Wn. App. 333", "110 Wn.2d 128", "117 F.3d 691", "117 P.3d 385", "119 P.3d 366", "119 Wn. App. 906", "121 Wn.2d 513", "122 Wn. App. 402", "128 Wn. App. 922", "129 Wn. App. 356", "133 P.3d 473", "135 P.3d 913", "136 Wn.2d 693", "143 Wn.2d 1020", "149 Wn.2d 827", "152 Wn.2d 1003", "156 Wn.2d 1028", "157 Wn.2d 90", "16 P.3d 35", "17 O.S.H. Cas. (BNA) 1869", "24 P.3d 424", "29 U.S.C. §§ 651-678", "647 F.2d 1063", "74 P.3d 115", "750 P.2d 1257", "756 P.2d 142", "818 F.2d 1270", "83 P.3d 1012", "852 P.2d 288", "95 Wn. App. 858", "965 P.2d 619", "97 P.3d 17", "975 P.2d 567"]
 ---
 
 # BD Roofing, Inc. v. Department of Labor & Industries
