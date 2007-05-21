@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58487-1-I"
 decided: "2007-05-21"
-citations: ["139 Wash. App. 469", "138 Wash. App. 1048"]
+citations: ["139 Wash. App. 469"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Markel American Insurance Company, Appellant, v. Dagmar’s Marina, L
 source_url: "https://static.case.law/wash-app/139/cases/0469-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3838517
-cites_cases: ["118 Wn.2d 476", "122 F.2d 531", "13 F.3d 888", "135 F.2d 443", "139 Wn. App. 469", "173 U.S. 430", "181 Neb. 381", "194 F.3d 1009", "1995 U.S. Dist. LEXIS 7468", "22 F.3d 568", "23 F.3d 967", "239 F. Supp. 2d 316", "334 F.3d 712", "397 U.S. 203", "496 F.2d 466", "548 F.2d 554", "70 Wn. App. 676", "730 F.2d 665", "81 F.3d 871", "81 Wn. App. 148", "821 F.2d 1556", "824 P.2d 483", "855 P.2d 320", "863 F.2d 1250", "872 F. Supp. 1283", "913 P.2d 413"]
+cites_cases: ["118 Wn.2d 476", "122 F.2d 531", "13 F.3d 888", "135 F.2d 443", "173 U.S. 430", "181 Neb. 381", "194 F.3d 1009", "1995 U.S. Dist. LEXIS 7468", "22 F.3d 568", "23 F.3d 967", "239 F. Supp. 2d 316", "334 F.3d 712", "397 U.S. 203", "496 F.2d 466", "548 F.2d 554", "70 Wn. App. 676", "730 F.2d 665", "81 F.3d 871", "81 Wn. App. 148", "821 F.2d 1556", "824 P.2d 483", "855 P.2d 320", "863 F.2d 1250", "872 F. Supp. 1283", "913 P.2d 413"]
 ---
 
 # Markel American Insurance v. Dagmar's Marina, LLC
