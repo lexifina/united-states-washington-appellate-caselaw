@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57844-8-I"
 decided: "2007-05-29"
-citations: ["139 Wash. App. 483", "138 Wash. App. 1052"]
+citations: ["139 Wash. App. 483"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Samuel Asseta Tessema, Appell
 source_url: "https://static.case.law/wash-app/139/cases/0483-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3833159
-cites_cases: ["101 Wn.2d 536", "109 P. 316", "109 P.3d 405", "11 P.3d 762", "110 P.3d 192", "116 Wn.2d 414", "129 Wn.2d 652", "129 Wn.2d 736", "131 P.2d 943", "134 Wn. App. 863", "139 Wn. App. 483", "141 Wn.2d 201", "142 P.3d 1117", "142 Wn.2d 183", "142 Wn.2d 710", "15 Wn.2d 673", "150 P.3d 1130", "154 Wn.2d 118", "154 Wn.2d 52", "159 Wn.2d 459", "16 P.3d 1", "163 Wn.2d 1018", "225 P.2d 895", "347 P.2d 1081", "37 Wn.2d 652", "44 Wn. App. 83", "466 U.S. 668", "5 P.3d 691", "542 U.S. 296", "548 U.S. 212", "55 Wn.2d 286", "59 Wash. 76", "604 P.2d 950", "630 P.2d 925", "652 P.2d 1347", "682 P.2d 869", "721 P.2d 524", "805 P.2d 200", "812 P.2d 858", "921 P.2d 473", "921 P.2d 514", "93 Wn.2d 37", "95 Wn.2d 753", "97 Wn.2d 899"]
+cites_cases: ["101 Wn.2d 536", "109 P. 316", "109 P.3d 405", "11 P.3d 762", "110 P.3d 192", "116 Wn.2d 414", "129 Wn.2d 652", "129 Wn.2d 736", "131 P.2d 943", "134 Wn. App. 863", "141 Wn.2d 201", "142 P.3d 1117", "142 Wn.2d 183", "142 Wn.2d 710", "15 Wn.2d 673", "150 P.3d 1130", "154 Wn.2d 118", "154 Wn.2d 52", "159 Wn.2d 459", "16 P.3d 1", "163 Wn.2d 1018", "225 P.2d 895", "347 P.2d 1081", "37 Wn.2d 652", "44 Wn. App. 83", "466 U.S. 668", "5 P.3d 691", "542 U.S. 296", "548 U.S. 212", "55 Wn.2d 286", "59 Wash. 76", "604 P.2d 950", "630 P.2d 925", "652 P.2d 1347", "682 P.2d 869", "721 P.2d 524", "805 P.2d 200", "812 P.2d 858", "921 P.2d 473", "921 P.2d 514", "93 Wn.2d 37", "95 Wn.2d 753", "97 Wn.2d 899"]
 ---
 
 # State v. Tessema
