@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25076-8-III"
 decided: "2007-05-31"
-citations: ["140 Wash. App. 470", "138 Wash. App. 1058"]
+citations: ["140 Wash. App. 470"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Otis Housing Association, Inc., Appellant, v. John Ha et al., Respond
 source_url: "https://static.case.law/wash-app/140/cases/0470-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4091578
-cites_cases: ["103 P.3d 753", "117 Wn.2d 631", "120 Wn.2d 935", "138 P.3d 936", "140 Wn. App. 470", "153 Wn.2d 293", "157 Wn.2d 290", "163 Wn.2d 1032", "323 P.2d 903", "52 Wn.2d 129", "818 P.2d 1324", "845 P.2d 1331"]
+cites_cases: ["103 P.3d 753", "117 Wn.2d 631", "120 Wn.2d 935", "138 P.3d 936", "153 Wn.2d 293", "157 Wn.2d 290", "163 Wn.2d 1032", "323 P.2d 903", "52 Wn.2d 129", "818 P.2d 1324", "845 P.2d 1331"]
 ---
 
 # Otis Housing Ass'n v. Ha
