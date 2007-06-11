@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58178-3-I"
 decided: "2007-06-11"
-citations: ["140 Wash. App. 735", "139 Wash. App. 1011"]
+citations: ["140 Wash. App. 735"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tukwila School District No. 406, Appellant, v. The City of Tukwila, R
 source_url: "https://static.case.law/wash-app/140/cases/0735-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4092068
-cites_cases: ["1 P.3d 1124", "104 Wn.2d 227", "105 Wn.2d 288", "112 Wn.2d 216", "118 Wn.2d 826", "123 P.3d 823", "123 Wn. App. 45", "127 Wn.2d 194", "127 Wn.2d 874", "135 Wn.2d 1007", "136 Wn.2d 195", "136 Wn.2d 737", "140 Wn. App. 735", "141 Wn.2d 29", "143 Wn.2d 12", "143 Wn.2d 798", "150 Wn.2d 540", "151 Wn.2d 359", "155 Wn.2d 858", "18 P.3d 523", "226 P.2d 214", "23 P.3d 477", "33 U.S.C. §§ 1251-1387", "37 Wn.2d 806", "477 U.S. 317", "526 U.S. 1066", "556 P.2d 936", "704 P.2d 1171", "714 P.2d 1163", "770 P.2d 182", "78 P.3d 1279", "827 P.2d 1374", "87 Wn.2d 717", "89 P.3d 217", "89 Wn. App. 340", "897 P.2d 358", "905 P.2d 324", "948 P.2d 1301", "96 P.3d 442", "961 P.2d 333", "966 P.2d 1232"]
+cites_cases: ["1 P.3d 1124", "104 Wn.2d 227", "105 Wn.2d 288", "112 Wn.2d 216", "118 Wn.2d 826", "123 P.3d 823", "123 Wn. App. 45", "127 Wn.2d 194", "127 Wn.2d 874", "135 Wn.2d 1007", "136 Wn.2d 195", "136 Wn.2d 737", "141 Wn.2d 29", "143 Wn.2d 12", "143 Wn.2d 798", "150 Wn.2d 540", "151 Wn.2d 359", "155 Wn.2d 858", "18 P.3d 523", "226 P.2d 214", "23 P.3d 477", "33 U.S.C. §§ 1251-1387", "37 Wn.2d 806", "477 U.S. 317", "526 U.S. 1066", "556 P.2d 936", "704 P.2d 1171", "714 P.2d 1163", "770 P.2d 182", "78 P.3d 1279", "827 P.2d 1374", "87 Wn.2d 717", "89 P.3d 217", "89 Wn. App. 340", "897 P.2d 358", "905 P.2d 324", "948 P.2d 1301", "96 P.3d 442", "961 P.2d 333", "966 P.2d 1232"]
 ---
 
 # Tukwila School District No. 406 v. City of Tukwila
