@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24926-3-III"
 decided: "2007-06-14"
-citations: ["140 Wash. App. 12", "139 Wash. App. 1015"]
+citations: ["140 Wash. App. 12"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Mandi S. Ratliff, Appellant."
 source_url: "https://static.case.law/wash-app/140/cases/0012-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4090623
-cites_cases: ["106 P.3d 196", "123 Wn.2d 794", "136 Wn.2d 767", "140 Wn. App. 12", "153 Wn.2d 614", "872 P.2d 502", "90 Wn. App. 41", "950 P.2d 977", "966 P.2d 883"]
+cites_cases: ["106 P.3d 196", "123 Wn.2d 794", "136 Wn.2d 767", "153 Wn.2d 614", "872 P.2d 502", "90 Wn. App. 41", "950 P.2d 977", "966 P.2d 883"]
 ---
 
 # State v. Ratliff
