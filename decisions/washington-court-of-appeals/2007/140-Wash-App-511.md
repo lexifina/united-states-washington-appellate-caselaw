@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24867-4-III"
 decided: "2007-06-14"
-citations: ["140 Wash. App. 511", "139 Wash. App. 1014"]
+citations: ["140 Wash. App. 511"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["MBNA America Bank, NA, Respondent, v. Robert E. Miles, Appellant."]
 source_url: "https://static.case.law/wash-app/140/cases/0511-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4089623
-cites_cases: ["127 Wn.2d 322", "133 Wn.2d 490", "140 Wn. App. 511", "15 U.S.C. § 1666", "15 U.S.C. § 1692", "163 Wn.2d 1040", "58 Wn. App. 843", "66 Wn. App. 370", "795 P.2d 166", "832 P.2d 118", "899 P.2d 1251", "946 P.2d 388"]
+cites_cases: ["127 Wn.2d 322", "133 Wn.2d 490", "15 U.S.C. § 1666", "15 U.S.C. § 1692", "163 Wn.2d 1040", "58 Wn. App. 843", "66 Wn. App. 370", "795 P.2d 166", "832 P.2d 118", "899 P.2d 1251", "946 P.2d 388"]
 ---
 
 # MBNA America Bank, NA v. Miles
