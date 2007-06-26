@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "34321-5-II"
 decided: "2007-06-26"
-citations: ["140 Wash. App. 516", "139 Wash. App. 1030"]
+citations: ["140 Wash. App. 516"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kitsap County Deputy Sheriff’s Guild et al., Appellants, v. Kitsap 
 source_url: "https://static.case.law/wash-app/140/cases/0516-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4091993
-cites_cases: ["135 Wn.2d 112", "140 Wn. App. 516", "150 Wn.2d 237", "163 Wn.2d 1038", "29 U.S.C. §§ 201-219", "324 U.S. 49", "334 U.S. 24", "373 U.S. 83", "461 U.S. 757", "470 U.S. 532", "49 U.S.C. § 31306", "531 U.S. 57", "61 Wn. App. 778", "76 P.3d 248", "81 Wn. App. 696", "812 P.2d 500", "915 P.2d 1146", "92 L. Ed. 1187", "954 P.2d 1327"]
+cites_cases: ["135 Wn.2d 112", "150 Wn.2d 237", "163 Wn.2d 1038", "29 U.S.C. §§ 201-219", "324 U.S. 49", "334 U.S. 24", "373 U.S. 83", "461 U.S. 757", "470 U.S. 532", "49 U.S.C. § 31306", "531 U.S. 57", "61 Wn. App. 778", "76 P.3d 248", "81 Wn. App. 696", "812 P.2d 500", "915 P.2d 1146", "92 L. Ed. 1187", "954 P.2d 1327"]
 ---
 
 # Kitsap County Deputy Sheriff's Guild v. Kitsap County
