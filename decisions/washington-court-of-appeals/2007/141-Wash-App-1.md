@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58140-6-I"
 decided: "2007-07-02"
-citations: ["141 Wash. App. 1", "139 Wash. App. 1038"]
+citations: ["141 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Prezant Associates, Inc., Appellant, v. The Department of Labor and I
 source_url: "https://static.case.law/wash-app/141/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3857955
-cites_cases: ["106 Wn. App. 333", "110 Wn.2d 128", "112 Wn. App. 34", "119 Wn.2d 167", "122 Wn. App. 402", "129 Wn.2d 289", "135 P.3d 913", "136 Wn. App. 1", "141 Wn. App. 1", "146 P.3d 1212", "15 U.S.C. § 2641", "157 Wn.2d 90", "24 P.3d 424", "40 C.F.R. § 763.83", "40 C.F.R. § 763.86", "47 P.3d 960", "750 P.2d 1257", "829 P.2d 1082", "88 Wn. App. 925", "916 P.2d 399", "946 P.2d 1235", "97 P.3d 17"]
+cites_cases: ["106 Wn. App. 333", "110 Wn.2d 128", "112 Wn. App. 34", "119 Wn.2d 167", "122 Wn. App. 402", "129 Wn.2d 289", "135 P.3d 913", "136 Wn. App. 1", "146 P.3d 1212", "15 U.S.C. § 2641", "157 Wn.2d 90", "24 P.3d 424", "40 C.F.R. § 763.83", "40 C.F.R. § 763.86", "47 P.3d 960", "750 P.2d 1257", "829 P.2d 1082", "88 Wn. App. 925", "916 P.2d 399", "946 P.2d 1235", "97 P.3d 17"]
 ---
 
 # Prezant Associates, Inc. v. Department of Labor & Industries
