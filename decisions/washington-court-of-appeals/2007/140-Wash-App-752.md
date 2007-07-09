@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58669-6-I"
 decided: "2007-07-09"
-citations: ["140 Wash. App. 752", "139 Wash. App. 1051"]
+citations: ["140 Wash. App. 752"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jorda L. Hatch, Plaintiff, v. The City of Algona, Appellant, The Boei
 source_url: "https://static.case.law/wash-app/140/cases/0752-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4091663
-cites_cases: ["1 Wn. App. 1035", "102 Wn.2d 235", "104 Wn. App. 823", "105 Wn.2d 48", "105 Wn.2d 546", "128 Wn.2d 745", "134 Wn.2d 491", "140 Wn. App. 752", "16 P.3d 1278", "163 Wn.2d 1040", "26 Wn. App. 206", "40 Wn. App. 532", "44 Wn. App. 244", "467 P.2d 386", "527 P.2d 1115", "588 P.2d 1308", "613 P.2d 143", "615 P.2d 1285", "684 P.2d 73", "700 P.2d 331", "710 P.2d 192", "716 P.2d 306", "722 P.2d 819", "83 Wn. App. 407", "84 Wn.2d 518", "91 Wn.2d 230", "912 P.2d 472", "924 P.2d 925", "93 Wn. App. 177", "94 Wn.2d 198", "951 P.2d 761", "968 P.2d 18"]
+cites_cases: ["1 Wn. App. 1035", "102 Wn.2d 235", "104 Wn. App. 823", "105 Wn.2d 48", "105 Wn.2d 546", "128 Wn.2d 745", "134 Wn.2d 491", "16 P.3d 1278", "163 Wn.2d 1040", "26 Wn. App. 206", "40 Wn. App. 532", "44 Wn. App. 244", "467 P.2d 386", "527 P.2d 1115", "588 P.2d 1308", "613 P.2d 143", "615 P.2d 1285", "684 P.2d 73", "700 P.2d 331", "710 P.2d 192", "716 P.2d 306", "722 P.2d 819", "83 Wn. App. 407", "84 Wn.2d 518", "91 Wn.2d 230", "912 P.2d 472", "924 P.2d 925", "93 Wn. App. 177", "94 Wn.2d 198", "951 P.2d 761", "968 P.2d 18"]
 ---
 
 # Hatch v. City of Algona
