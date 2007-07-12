@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24200-5-III"
 decided: "2007-07-12"
-citations: ["140 Wash. App. 526", "139 Wash. App. 1053"]
+citations: ["140 Wash. App. 526"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Estate of Maurice G. Hitchcock."]
 source_url: "https://static.case.law/wash-app/140/cases/0526-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4088610
-cites_cases: ["113 P.3d 505", "127 Wn. App. 915", "140 Wn. App. 526", "156 Wn.2d 1019", "96 Wn. App. 708", "980 P.2d 771"]
+cites_cases: ["113 P.3d 505", "127 Wn. App. 915", "156 Wn.2d 1019", "96 Wn. App. 708", "980 P.2d 771"]
 ---
 
 # In re the Estate of Hitchcock
