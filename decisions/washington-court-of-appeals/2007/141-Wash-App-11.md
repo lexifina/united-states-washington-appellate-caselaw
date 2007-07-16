@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58679-3-I"
 decided: "2007-07-16"
-citations: ["141 Wash. App. 11", "139 Wash. App. 1061"]
+citations: ["141 Wash. App. 11"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Luis Ramos et al., Appellants, v. Debbie Arnold et al., Respondents."
 source_url: "https://static.case.law/wash-app/141/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3858602
-cites_cases: ["103 Wn.2d 52", "105 Wn.2d 778", "106 Wn.2d 96", "109 Wn.2d 107", "112 Wn.2d 216", "121 Wn.2d 479", "125 Wn.2d 337", "127 Wn.2d 17", "134 Wn. App. 210", "135 P.3d 499", "141 Wn. App. 11", "56 Wn. App. 181", "662 P.2d 385", "691 P.2d 163", "719 P.2d 531", "720 P.2d 805", "744 P.2d 1032", "770 P.2d 182", "782 P.2d 1107", "852 P.2d 1055", "883 P.2d 1383", "896 P.2d 665", "99 Wn.2d 353"]
+cites_cases: ["103 Wn.2d 52", "105 Wn.2d 778", "106 Wn.2d 96", "109 Wn.2d 107", "112 Wn.2d 216", "121 Wn.2d 479", "125 Wn.2d 337", "127 Wn.2d 17", "134 Wn. App. 210", "135 P.3d 499", "56 Wn. App. 181", "662 P.2d 385", "691 P.2d 163", "719 P.2d 531", "720 P.2d 805", "744 P.2d 1032", "770 P.2d 182", "782 P.2d 1107", "852 P.2d 1055", "883 P.2d 1383", "896 P.2d 665", "99 Wn.2d 353"]
 ---
 
 # Ramos v. Arnold
