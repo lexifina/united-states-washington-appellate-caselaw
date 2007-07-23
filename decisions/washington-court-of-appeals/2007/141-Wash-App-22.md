@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56504-4-I"
 decided: "2007-07-23"
-citations: ["141 Wash. App. 22", "139 Wash. App. 1065"]
+citations: ["141 Wash. App. 22"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Jeffrey R. McKee, Appellant."
 source_url: "https://static.case.law/wash-app/141/cases/0022-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3855528
-cites_cases: ["110 Wn. App. 112", "111 P.3d 1251", "115 Wn.2d 171", "119 Wn.2d 192", "12 P.3d 585", "121 Wn.2d 333", "127 Wn. App. 630", "137 Wn. App. 1035", "137 Wn. App. 709", "141 Wn. App. 22", "142 Wn.2d 298", "145 Wn.2d 400", "150 Wn.2d 821", "159 P.3d 416", "163 Wn.2d 1049", "237 F.3d 251", "322 P.2d 876", "33 Wn. App. 405", "36 Wn. App. 798", "38 P.3d 335", "39 P.3d 324", "390 U.S. 377", "51 Wn.2d 843", "655 P.2d 714", "678 P.2d 1273", "75 Wn. App. 128", "76 Wn. App. 454", "795 P.2d 693", "829 P.2d 1068", "83 P.3d 970", "851 P.2d 654", "876 P.2d 935", "886 P.2d 234"]
+cites_cases: ["110 Wn. App. 112", "111 P.3d 1251", "115 Wn.2d 171", "119 Wn.2d 192", "12 P.3d 585", "121 Wn.2d 333", "127 Wn. App. 630", "137 Wn. App. 1035", "137 Wn. App. 709", "142 Wn.2d 298", "145 Wn.2d 400", "150 Wn.2d 821", "159 P.3d 416", "163 Wn.2d 1049", "237 F.3d 251", "322 P.2d 876", "33 Wn. App. 405", "36 Wn. App. 798", "38 P.3d 335", "39 P.3d 324", "390 U.S. 377", "51 Wn.2d 843", "655 P.2d 714", "678 P.2d 1273", "75 Wn. App. 128", "76 Wn. App. 454", "795 P.2d 693", "829 P.2d 1068", "83 P.3d 970", "851 P.2d 654", "876 P.2d 935", "886 P.2d 234"]
 ---
 
 # State v. McKee
