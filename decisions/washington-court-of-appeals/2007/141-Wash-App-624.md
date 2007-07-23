@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58408-1-I"
 decided: "2007-07-23"
-citations: ["141 Wash. App. 624", "139 Wash. App. 1070"]
+citations: ["141 Wash. App. 624"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["IBF, LLC, Respondent, v. Carmen Heuft, Appellant."]
 source_url: "https://static.case.law/wash-app/141/cases/0624-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3855942
-cites_cases: ["109 P.3d 422", "111 Wn. App. 617", "114 Wash. 326", "114 Wn.2d 558", "115 Wn.2d 148", "119 Wn.2d 210", "126 Wn. App. 382", "128 P.2d 968", "134 Wn. App. 295", "139 P.3d 379", "14 Wn.2d 600", "141 Wn. App. 624", "145 P.3d 371", "155 Wash. 493", "155 Wash. 613", "158 Wn.2d 506", "160 Wn.2d 1010", "194 P. 974", "198 P.2d 496", "284 P. 782", "285 P. 654", "3 Wn. App. 120", "307 P.2d 1064", "31 Wn.2d 633", "36 Wn. App. 34", "39 Wn. App. 466", "45 P.3d 627", "472 P.2d 616", "49 Wn.2d 891", "54 Wn. App. 371", "56 Wn. App. 301", "661 P.2d 971", "671 P.2d 289", "69 Wn. App. 655", "694 P.2d 1101", "773 P.2d 875", "783 P.2d 606", "789 P.2d 745", "795 P.2d 1143", "829 P.2d 1099", "850 P.2d 546", "94 Wn. App. 731", "972 P.2d 952", "98 Wn. App. 780", "99 Wn.2d 280", "990 P.2d 986"]
+cites_cases: ["109 P.3d 422", "111 Wn. App. 617", "114 Wash. 326", "114 Wn.2d 558", "115 Wn.2d 148", "119 Wn.2d 210", "126 Wn. App. 382", "128 P.2d 968", "134 Wn. App. 295", "139 P.3d 379", "14 Wn.2d 600", "145 P.3d 371", "155 Wash. 493", "155 Wash. 613", "158 Wn.2d 506", "160 Wn.2d 1010", "194 P. 974", "198 P.2d 496", "284 P. 782", "285 P. 654", "3 Wn. App. 120", "307 P.2d 1064", "31 Wn.2d 633", "36 Wn. App. 34", "39 Wn. App. 466", "45 P.3d 627", "472 P.2d 616", "49 Wn.2d 891", "54 Wn. App. 371", "56 Wn. App. 301", "661 P.2d 971", "671 P.2d 289", "69 Wn. App. 655", "694 P.2d 1101", "773 P.2d 875", "783 P.2d 606", "789 P.2d 745", "795 P.2d 1143", "829 P.2d 1099", "850 P.2d 546", "94 Wn. App. 731", "972 P.2d 952", "98 Wn. App. 780", "99 Wn.2d 280", "990 P.2d 986"]
 ---
 
 # IBF, LLC v. Heuft
