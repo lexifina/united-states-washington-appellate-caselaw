@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58854-1-I"
 decided: "2007-07-23"
-citations: ["140 Wash. App. 761", "139 Wash. App. 1072"]
+citations: ["140 Wash. App. 761"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Serena L. Whitehall, Individually and as Guardian, Appellant, v. King
 source_url: "https://static.case.law/wash-app/140/cases/0761-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4090265
-cites_cases: ["104 Wn. App. 328", "113 P.3d 487", "113 Wn. App. 556", "118 Wn.2d 195", "119 P.3d 825", "127 Wn. App. 833", "13 P.3d 1065", "137 Wn.2d 518", "138 Wn.2d 265", "140 Wn. App. 761", "140 Wn.2d 88", "142 Wn.2d 450", "155 Wn.2d 306", "17 P.3d 1189", "407 P.2d 798", "54 P.3d 197", "67 Wn.2d 322", "822 P.2d 243", "973 P.2d 465", "979 P.2d 400", "993 P.2d 259"]
+cites_cases: ["104 Wn. App. 328", "113 P.3d 487", "113 Wn. App. 556", "118 Wn.2d 195", "119 P.3d 825", "127 Wn. App. 833", "13 P.3d 1065", "137 Wn.2d 518", "138 Wn.2d 265", "140 Wn.2d 88", "142 Wn.2d 450", "155 Wn.2d 306", "17 P.3d 1189", "407 P.2d 798", "54 P.3d 197", "67 Wn.2d 322", "822 P.2d 243", "973 P.2d 465", "979 P.2d 400", "993 P.2d 259"]
 ---
 
 # Whitehall v. King County
