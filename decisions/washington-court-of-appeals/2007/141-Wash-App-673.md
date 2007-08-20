@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58313-1-I"
 decided: "2007-08-20"
-citations: ["141 Wash. App. 673", "140 Wash. App. 1013"]
+citations: ["141 Wash. App. 673"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Mark Harris, Appellant."]
 source_url: "https://static.case.law/wash-app/141/cases/0673-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3855672
-cites_cases: ["111 P.3d 1227", "114 Wn. App. 755", "127 Wn. App. 463", "139 Wn.2d 379", "141 Wn. App. 673", "147 P.3d 982", "147 Wn.2d 288", "158 Wn.2d 712", "53 P.3d 974", "60 P.3d 635", "982 F.2d 423", "986 P.2d 790"]
+cites_cases: ["111 P.3d 1227", "114 Wn. App. 755", "127 Wn. App. 463", "139 Wn.2d 379", "147 P.3d 982", "147 Wn.2d 288", "158 Wn.2d 712", "53 P.3d 974", "60 P.3d 635", "982 F.2d 423", "986 P.2d 790"]
 ---
 
 # State v. Harris
