@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56954-6-I"
 decided: "2007-08-27"
-citations: ["141 Wash. App. 235", "140 Wash. App. 1018"]
+citations: ["141 Wash. App. 235"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Carmen P. Rockwell, Respondent, and 
 source_url: "https://static.case.law/wash-app/141/cases/0235-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3856968
-cites_cases: ["100 P. 321", "103 Wn.2d 236", "103 Wn.2d 807", "105 Wn. App. 545", "106 Wn.2d 212", "108 P.3d 779", "112 Wn. App. 333", "119 Wn.2d 438", "138 Wn.2d 213", "141 Wn. App. 235", "153 Wn.2d 795", "163 Wn.2d 1055", "17 Wn. App. 728", "17 Wn. App. 772", "20 P.3d 481", "343 P.2d 183", "42 U.S.C. § 407", "439 U.S. 572", "48 P.3d 1018", "52 Wash. 160", "54 Wn.2d 570", "56 Wn. App. 827", "565 P.2d 825", "566 P.2d 212", "59 Wn. App. 630", "69 Wn. App. 484", "692 P.2d 175", "699 P.2d 214", "721 P.2d 918", "786 P.2d 285", "80 Wn. App. 252", "80 Wn. App. 432", "800 P.2d 394", "81 Wn. App. 589", "832 P.2d 871", "849 P.2d 1243", "907 P.2d 1234", "909 P.2d 314", "91 Wn. App. 78", "915 P.2d 575", "955 P.2d 412", "97 Wn. App. 708", "978 P.2d 498", "986 P.2d 144"]
+cites_cases: ["100 P. 321", "103 Wn.2d 236", "103 Wn.2d 807", "105 Wn. App. 545", "106 Wn.2d 212", "108 P.3d 779", "112 Wn. App. 333", "119 Wn.2d 438", "138 Wn.2d 213", "153 Wn.2d 795", "163 Wn.2d 1055", "17 Wn. App. 728", "17 Wn. App. 772", "20 P.3d 481", "343 P.2d 183", "42 U.S.C. § 407", "439 U.S. 572", "48 P.3d 1018", "52 Wash. 160", "54 Wn.2d 570", "56 Wn. App. 827", "565 P.2d 825", "566 P.2d 212", "59 Wn. App. 630", "69 Wn. App. 484", "692 P.2d 175", "699 P.2d 214", "721 P.2d 918", "786 P.2d 285", "80 Wn. App. 252", "80 Wn. App. 432", "800 P.2d 394", "81 Wn. App. 589", "832 P.2d 871", "849 P.2d 1243", "907 P.2d 1234", "909 P.2d 314", "91 Wn. App. 78", "915 P.2d 575", "955 P.2d 412", "97 Wn. App. 708", "978 P.2d 498", "986 P.2d 144"]
 ---
 
 # In re the Marriage of Rockwell
