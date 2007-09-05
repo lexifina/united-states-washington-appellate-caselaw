@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35015-7-II"
 decided: "2007-09-05"
-citations: ["141 Wash. App. 39", "140 Wash. App. 1023"]
+citations: ["141 Wash. App. 39"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Welfare of B.R.S.H. et al. Dannie Higgins et al.
 source_url: "https://static.case.law/wash-app/141/cases/0039-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3856424
-cites_cases: ["112 Wn. App. 1", "113 Wn.2d 912", "121 Wn.2d 795", "122 Wn.2d 471", "122 Wn.2d 604", "129 Wn.2d 535", "137 Wn.2d 1", "141 Wn. App. 39", "57 P.3d 1166", "784 P.2d 1258", "854 P.2d 629", "859 P.2d 1239", "860 P.2d 1009", "919 P.2d 69", "969 P.2d 21"]
+cites_cases: ["112 Wn. App. 1", "113 Wn.2d 912", "121 Wn.2d 795", "122 Wn.2d 471", "122 Wn.2d 604", "129 Wn.2d 535", "137 Wn.2d 1", "57 P.3d 1166", "784 P.2d 1258", "854 P.2d 629", "859 P.2d 1239", "860 P.2d 1009", "919 P.2d 69", "969 P.2d 21"]
 ---
 
 # Higgins v. Evans
