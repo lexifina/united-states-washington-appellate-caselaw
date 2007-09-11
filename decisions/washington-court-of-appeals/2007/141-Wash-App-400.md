@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25445-3-III"
 decided: "2007-09-11"
-citations: ["141 Wash. App. 400", "140 Wash. App. 1027"]
+citations: ["141 Wash. App. 400"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["James McFarling, Appellant, v. Crystal Evaneski et al., Respondents."
 source_url: "https://static.case.law/wash-app/141/cases/0400-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3857310
-cites_cases: ["10 Wn. App. 514", "107 Wn. App. 902", "108 P.3d 147", "112 Wn. App. 697", "126 Wn. App. 222", "128 P.3d 574", "134 Wn. App. 95", "138 P.3d 1103", "139 Wash. 510", "141 Wn. App. 400", "156 Wn.2d 441", "160 P.3d 13", "160 Wn.2d 535", "179 F.3d 197", "247 P. 960", "270 F.3d 778", "28 P.3d 832", "291 F.3d 1282", "51 P.3d 108", "518 P.2d 206", "80 Nw. U. L. Rev. 1244", "85 Wn. App. 207", "931 P.2d 925"]
+cites_cases: ["10 Wn. App. 514", "107 Wn. App. 902", "108 P.3d 147", "112 Wn. App. 697", "126 Wn. App. 222", "128 P.3d 574", "134 Wn. App. 95", "138 P.3d 1103", "139 Wash. 510", "156 Wn.2d 441", "160 P.3d 13", "160 Wn.2d 535", "179 F.3d 197", "247 P. 960", "270 F.3d 778", "28 P.3d 832", "291 F.3d 1282", "51 P.3d 108", "518 P.2d 206", "80 Nw. U. L. Rev. 1244", "85 Wn. App. 207", "931 P.2d 925"]
 ---
 
 # McFarling v. Evaneski
