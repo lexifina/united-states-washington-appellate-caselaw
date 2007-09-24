@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "56883-3-I"
 decided: "2007-09-24"
-citations: ["142 Wash. App. 1", "140 Wash. App. 1033"]
+citations: ["142 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Detention of James S. Allen, Appellant."]
 source_url: "https://static.case.law/wash-app/142/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3975570
-cites_cases: ["128 P.3d 87", "142 Wn. App. 1", "150 P.3d 86", "156 Wn.2d 381", "159 Wn.2d 357", "424 U.S. 319", "541 U.S. 36", "549 U.S. 1019"]
+cites_cases: ["128 P.3d 87", "150 P.3d 86", "156 Wn.2d 381", "159 Wn.2d 357", "424 U.S. 319", "541 U.S. 36", "549 U.S. 1019"]
 ---
 
 # In re the Detention of Allen
