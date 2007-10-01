@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58649-1-I"
 decided: "2007-10-01"
-citations: ["146 Wash. App. 485", "140 Wash. App. 1040"]
+citations: ["146 Wash. App. 485"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
