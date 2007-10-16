@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36256-2-II"
 decided: "2007-10-16"
-citations: ["142 Wash. App. 6", "141 Wash. App. 1010"]
+citations: ["142 Wash. App. 6"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["State Farm Fire and Casualty Company, Respondent, v. Ham & Rye, LLC, 
 source_url: "https://static.case.law/wash-app/142/cases/0006-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3975396
-cites_cases: ["102 Wn.2d 665", "109 Wn. App. 614", "110 Wn.2d 99", "111 P.3d 1173", "111 Wn.2d 452", "115 Wn.2d 679", "118 Wn.2d 383", "119 Wn.2d 724", "121 P.3d 82", "131 Wn.2d 420", "134 Wn. App. 536", "134 Wn.2d 413", "134 Wn.2d 814", "136 Wn. App. 531", "136 Wn.2d 567", "141 P.3d 643", "142 Wn. App. 6", "143 P.3d 590", "144 Wn.2d 130", "150 P.3d 589", "151 Wn.2d 396", "154 Wn.2d 345", "155 Wn.2d 585", "158 Wn.2d 247", "160 Wn.2d 1009", "20 Wn. App. 261", "242 Minn. 354", "26 P.3d 910", "36 P.3d 582", "38 Wn. App. 382", "43 Wn. App. 816", "54 Wn. App. 299", "579 P.2d 1015", "608 P.2d 254", "65 N.W.2d 122", "656 P.2d 1030", "685 P.2d 632", "689 P.2d 68", "719 P.2d 954", "751 P.2d 282", "760 P.2d 337", "77 Wn. App. 201", "773 P.2d 426", "801 P.2d 207", "823 P.2d 499", "837 P.2d 1000", "89 P.3d 689", "890 P.2d 469", "93 Wn.2d 210", "932 P.2d 1244", "951 P.2d 250", "953 P.2d 462", "964 P.2d 1173", "98 Wn.2d 434"]
+cites_cases: ["102 Wn.2d 665", "109 Wn. App. 614", "110 Wn.2d 99", "111 P.3d 1173", "111 Wn.2d 452", "115 Wn.2d 679", "118 Wn.2d 383", "119 Wn.2d 724", "121 P.3d 82", "131 Wn.2d 420", "134 Wn. App. 536", "134 Wn.2d 413", "134 Wn.2d 814", "136 Wn. App. 531", "136 Wn.2d 567", "141 P.3d 643", "143 P.3d 590", "144 Wn.2d 130", "150 P.3d 589", "151 Wn.2d 396", "154 Wn.2d 345", "155 Wn.2d 585", "158 Wn.2d 247", "160 Wn.2d 1009", "20 Wn. App. 261", "242 Minn. 354", "26 P.3d 910", "36 P.3d 582", "38 Wn. App. 382", "43 Wn. App. 816", "54 Wn. App. 299", "579 P.2d 1015", "608 P.2d 254", "65 N.W.2d 122", "656 P.2d 1030", "685 P.2d 632", "689 P.2d 68", "719 P.2d 954", "751 P.2d 282", "760 P.2d 337", "77 Wn. App. 201", "773 P.2d 426", "801 P.2d 207", "823 P.2d 499", "837 P.2d 1000", "89 P.3d 689", "890 P.2d 469", "93 Wn.2d 210", "932 P.2d 1244", "951 P.2d 250", "953 P.2d 462", "964 P.2d 1173", "98 Wn.2d 434"]
 ---
 
 # State Farm Fire & Casualty Co. v. Ham & Rye, LLC
