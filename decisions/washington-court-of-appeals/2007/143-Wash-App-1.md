@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24850-0-III"
 decided: "2007-10-25"
-citations: ["143 Wash. App. 1", "141 Wash. App. 1015"]
+citations: ["143 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Guylin Michael Johnston, Appe
 source_url: "https://static.case.law/wash-app/143/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3969298
-cites_cases: ["101 P.3d 1", "109 P.3d 27", "116 Wn.2d 831", "117 Wn.2d 829", "119 Wn.2d 294", "122 Wn. App. 804", "124 Wn.2d 467", "125 P.3d 211", "126 Wn. App. 617", "127 Wn.2d 322", "129 Wn.2d 61", "130 Wn. App. 841", "130 Wn.2d 244", "132 P.3d 725", "143 Wn. App. 1", "143 Wn.2d 506", "144 Wn.2d 222", "145 Wn.2d 352", "147 P.3d 553", "151 Wn.2d 179", "152 Wn.2d 647", "155 Wn.2d 1018", "156 Wn.2d 819", "158 Wn.2d 699", "22 P.3d 791", "229 Ill. Dec. 842", "25 P.3d 1011", "295 Ill. App. 3d 327", "37 P.3d 280", "373 U.S. 83", "436 F.3d 992", "463 N.E.2d 483", "486 U.S. 153", "488 U.S. 51", "53 Wn. App. 754", "557 P.2d 1", "56 Wn. App. 217", "650 P.2d 201", "659 P.2d 528", "692 N.E.2d 831", "71 Wn. App. 164", "75 Wn. App. 808", "755 So. 2d 170", "770 P.2d 662", "783 P.2d 589", "809 P.2d 190", "822 P.2d 177", "831 P.2d 1060", "857 P.2d 300", "86 P.3d 139", "863 So. 2d 236", "87 Wn.2d 783", "880 P.2d 517", "881 P.2d 268", "899 P.2d 1251", "917 P.2d 563", "92 Wn. App. 931", "922 P.2d 1304", "95 P.3d 1248", "966 P.2d 935", "97 Wn.2d 801", "99 Wn.2d 44"]
+cites_cases: ["101 P.3d 1", "109 P.3d 27", "116 Wn.2d 831", "117 Wn.2d 829", "119 Wn.2d 294", "122 Wn. App. 804", "124 Wn.2d 467", "125 P.3d 211", "126 Wn. App. 617", "127 Wn.2d 322", "129 Wn.2d 61", "130 Wn. App. 841", "130 Wn.2d 244", "132 P.3d 725", "143 Wn.2d 506", "144 Wn.2d 222", "145 Wn.2d 352", "147 P.3d 553", "151 Wn.2d 179", "152 Wn.2d 647", "155 Wn.2d 1018", "156 Wn.2d 819", "158 Wn.2d 699", "22 P.3d 791", "229 Ill. Dec. 842", "25 P.3d 1011", "295 Ill. App. 3d 327", "37 P.3d 280", "373 U.S. 83", "436 F.3d 992", "463 N.E.2d 483", "486 U.S. 153", "488 U.S. 51", "53 Wn. App. 754", "557 P.2d 1", "56 Wn. App. 217", "650 P.2d 201", "659 P.2d 528", "692 N.E.2d 831", "71 Wn. App. 164", "75 Wn. App. 808", "755 So. 2d 170", "770 P.2d 662", "783 P.2d 589", "809 P.2d 190", "822 P.2d 177", "831 P.2d 1060", "857 P.2d 300", "86 P.3d 139", "863 So. 2d 236", "87 Wn.2d 783", "880 P.2d 517", "881 P.2d 268", "899 P.2d 1251", "917 P.2d 563", "92 Wn. App. 931", "922 P.2d 1304", "95 P.3d 1248", "966 P.2d 935", "97 Wn.2d 801", "99 Wn.2d 44"]
 ---
 
 # State v. Johnston
