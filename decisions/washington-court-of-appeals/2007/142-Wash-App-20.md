@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58284-4-I"
 decided: "2007-10-29"
-citations: ["142 Wash. App. 20", "141 Wash. App. 1016"]
+citations: ["142 Wash. App. 20"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["William E. Lipscomb, Appellant, v. Farmers Insurance Company of Washi
 source_url: "https://static.case.law/wash-app/142/cases/0020-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3973547
-cites_cases: ["1 P.3d 1138", "111 Wn.2d 1005", "112 Wn.2d 127", "112 Wn.2d 216", "113 Wn.2d 346", "115 Wn. App. 833", "118 Wn.2d 801", "121 P.3d 1204", "123 Wn.2d 1026", "128 P.3d 574", "130 Wn. App. 74", "130 Wn.2d 368", "134 Wn.2d 509", "138 Wn.2d 265", "141 Wn.2d 1", "142 Wn. App. 20", "150 Wn.2d 1011", "156 Wn.2d 441", "157 Wn.2d 1006", "189 Cal. App. 3d 950", "234 Cal. Rptr. 717", "381 P.2d 966", "478 P.2d 228", "51 Wn. App. 524", "62 Wn.2d 195", "63 P.3d 860", "653 P.2d 280", "71 Wn. App. 673", "71 Wn. App. 677", "754 P.2d 155", "769 P.2d 298", "770 P.2d 182", "779 P.2d 697", "78 Wn.2d 577", "828 P.2d 549", "862 P.2d 134", "922 P.2d 1343", "951 P.2d 1118", "97 Wn.2d 929", "979 P.2d 400"]
+cites_cases: ["1 P.3d 1138", "111 Wn.2d 1005", "112 Wn.2d 127", "112 Wn.2d 216", "113 Wn.2d 346", "115 Wn. App. 833", "118 Wn.2d 801", "121 P.3d 1204", "123 Wn.2d 1026", "128 P.3d 574", "130 Wn. App. 74", "130 Wn.2d 368", "134 Wn.2d 509", "138 Wn.2d 265", "141 Wn.2d 1", "150 Wn.2d 1011", "156 Wn.2d 441", "157 Wn.2d 1006", "189 Cal. App. 3d 950", "234 Cal. Rptr. 717", "381 P.2d 966", "478 P.2d 228", "51 Wn. App. 524", "62 Wn.2d 195", "63 P.3d 860", "653 P.2d 280", "71 Wn. App. 673", "71 Wn. App. 677", "754 P.2d 155", "769 P.2d 298", "770 P.2d 182", "779 P.2d 697", "78 Wn.2d 577", "828 P.2d 549", "862 P.2d 134", "922 P.2d 1343", "951 P.2d 1118", "97 Wn.2d 929", "979 P.2d 400"]
 ---
 
 # Lipscomb v. Farmers Insurance
