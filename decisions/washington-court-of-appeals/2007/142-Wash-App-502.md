@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35495-1-II"
 decided: "2007-11-14"
-citations: ["142 Wash. App. 502", "141 Wash. App. 1033"]
+citations: ["142 Wash. App. 502"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["J&S Services, Inc., Appellant, v. The Department of Labor and Industr
 source_url: "https://static.case.law/wash-app/142/cases/0502-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3974030
-cites_cases: ["104 Wn.2d 662", "106 Wn. App. 333", "117 P.3d 385", "123 Wn.2d 621", "125 Wn.2d 150", "128 Wn. App. 922", "137 Wn. App. 592", "142 Wn. App. 502", "154 P.3d 287", "24 P.3d 424", "530 P.2d 302", "709 P.2d 774", "85 Wn.2d 140", "869 P.2d 1034", "882 P.2d 183", "95 Wn. App. 858", "975 P.2d 567"]
+cites_cases: ["104 Wn.2d 662", "106 Wn. App. 333", "117 P.3d 385", "123 Wn.2d 621", "125 Wn.2d 150", "128 Wn. App. 922", "137 Wn. App. 592", "154 P.3d 287", "24 P.3d 424", "530 P.2d 302", "709 P.2d 774", "85 Wn.2d 140", "869 P.2d 1034", "882 P.2d 183", "95 Wn. App. 858", "975 P.2d 567"]
 ---
 
 # J&S Services, Inc. v. Department of Labor & Industries
