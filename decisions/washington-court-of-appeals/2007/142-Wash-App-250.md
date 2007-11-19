@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57869-3-I"
 decided: "2007-11-19"
-citations: ["142 Wash. App. 250", "141 Wash. App. 1035"]
+citations: ["142 Wash. App. 250"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["David McAllister et al., Appellants, v. The City of Bellevue Firemenâ
 source_url: "https://static.case.law/wash-app/142/cases/0250-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3973994
-cites_cases: ["104 Wn.2d 1", "127 Wn.2d 281", "142 Wn. App. 250", "146 Wn.2d 1", "164 Wn.2d 1002", "296 P.2d 536", "344 P.2d 718", "43 P.3d 4", "48 Wn.2d 695", "522 P.2d 1157", "54 Wn.2d 733", "592 P.2d 1096", "700 P.2d 1143", "83 Wn.2d 782", "898 P.2d 838", "90 Wn. App. 816", "91 Wn.2d 767", "960 P.2d 434", "97 Wn. App. 613", "987 P.2d 103", "99 Wn. App. 287", "992 P.2d 1045"]
+cites_cases: ["104 Wn.2d 1", "127 Wn.2d 281", "146 Wn.2d 1", "164 Wn.2d 1002", "296 P.2d 536", "344 P.2d 718", "43 P.3d 4", "48 Wn.2d 695", "522 P.2d 1157", "54 Wn.2d 733", "592 P.2d 1096", "700 P.2d 1143", "83 Wn.2d 782", "898 P.2d 838", "90 Wn. App. 816", "91 Wn.2d 767", "960 P.2d 434", "97 Wn. App. 613", "987 P.2d 103", "99 Wn. App. 287", "992 P.2d 1045"]
 ---
 
 # McAllister v. City of Bellevue Firemen's Pension Board
