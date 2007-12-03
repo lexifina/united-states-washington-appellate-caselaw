@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58908-3-I"
 decided: "2007-12-03"
-citations: ["142 Wash. App. 71", "142 Wash. App. 1004"]
+citations: ["142 Wash. App. 71"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Old Republic National Title Insurance Company, Respondent, v. Law Off
 source_url: "https://static.case.law/wash-app/142/cases/0071-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3975670
-cites_cases: ["110 Wn. App. 488", "142 Wn. App. 71", "160 Wn.2d 745", "161 P.3d 956", "164 Wn.2d 1022", "41 P.3d 506", "438 P.2d 581", "63 Wn. App. 266", "73 Wn.2d 348", "818 P.2d 618"]
+cites_cases: ["110 Wn. App. 488", "160 Wn.2d 745", "161 P.3d 956", "164 Wn.2d 1022", "41 P.3d 506", "438 P.2d 581", "63 Wn. App. 266", "73 Wn.2d 348", "818 P.2d 618"]
 ---
 
 # Old Republic National Title Insurance v. Law Office of Robert E. Brandt, PLLC
