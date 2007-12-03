@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57827-8-I"
 decided: "2007-12-03"
-citations: ["143 Wash. App. 258", "142 Wash. App. 1001"]
+citations: ["143 Wash. App. 258"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jeffrey Dean Schaller, Appell
 source_url: "https://static.case.law/wash-app/143/cases/0258-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3969684
-cites_cases: ["117 Wn.2d 369", "132 P.3d 80", "132 Wn.2d 668", "142 Wn.2d 710", "143 Wn. App. 258", "151 Wn.2d 179", "156 Wn.2d 580", "159 F.3d 1154", "16 P.3d 1", "164 Wn.2d 1015", "262 F.3d 998", "268 F.3d 772", "384 U.S. 436", "486 U.S. 153", "79 Wn. App. 755", "816 P.2d 1", "819 F.2d 952", "86 P.3d 139", "878 F.2d 1341", "904 P.2d 1179", "923 F.2d 1314", "940 P.2d 1239", "941 F.2d 1384", "946 F.2d 484"]
+cites_cases: ["117 Wn.2d 369", "132 P.3d 80", "132 Wn.2d 668", "142 Wn.2d 710", "151 Wn.2d 179", "156 Wn.2d 580", "159 F.3d 1154", "16 P.3d 1", "164 Wn.2d 1015", "262 F.3d 998", "268 F.3d 772", "384 U.S. 436", "486 U.S. 153", "79 Wn. App. 755", "816 P.2d 1", "819 F.2d 952", "86 P.3d 139", "878 F.2d 1341", "904 P.2d 1179", "923 F.2d 1314", "940 P.2d 1239", "941 F.2d 1384", "946 F.2d 484"]
 ---
 
 # State v. Schaller
