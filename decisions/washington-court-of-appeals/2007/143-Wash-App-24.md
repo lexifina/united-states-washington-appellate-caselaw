@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24932-8-III"
 decided: "2007-12-04"
-citations: ["143 Wash. App. 24", "142 Wash. App. 1006"]
+citations: ["143 Wash. App. 24"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Florentino S. Barajas, Appell
 source_url: "https://static.case.law/wash-app/143/cases/0024-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3965227
-cites_cases: ["100 Wn.2d 757", "102 Wn.2d 140", "103 Wn. App. 845", "110 Wn.2d 504", "116 Wn.2d 51", "125 Wn.2d 24", "125 Wn.2d 570", "127 Wn.2d 628", "137 Wn.2d 792", "14 P.3d 713", "14 P.3d 841", "142 Wn.2d 471", "143 Wn. App. 24", "143 Wn.2d 731", "144 Wn.2d 222", "147 P.3d 1201", "158 N.Y. 542", "158 P.3d 1152", "158 Wn.2d 759", "160 Wn.2d 503", "164 Wn.2d 1022", "24 P.3d 1006", "25 P.3d 1011", "476 U.S. 79", "53 N.E. 497", "573 P.2d 22", "647 P.2d 6", "675 P.2d 1213", "684 P.2d 699", "72 Wn. App. 359", "755 P.2d 174", "804 P.2d 577", "864 P.2d 426", "882 P.2d 747", "888 P.2d 1105", "89 Wn.2d 430", "904 P.2d 245", "96 Wn. App. 672", "97 Wn.2d 493", "975 P.2d 967", "981 P.2d 16"]
+cites_cases: ["100 Wn.2d 757", "102 Wn.2d 140", "103 Wn. App. 845", "110 Wn.2d 504", "116 Wn.2d 51", "125 Wn.2d 24", "125 Wn.2d 570", "127 Wn.2d 628", "137 Wn.2d 792", "14 P.3d 713", "14 P.3d 841", "142 Wn.2d 471", "143 Wn.2d 731", "144 Wn.2d 222", "147 P.3d 1201", "158 N.Y. 542", "158 P.3d 1152", "158 Wn.2d 759", "160 Wn.2d 503", "164 Wn.2d 1022", "24 P.3d 1006", "25 P.3d 1011", "476 U.S. 79", "53 N.E. 497", "573 P.2d 22", "647 P.2d 6", "675 P.2d 1213", "684 P.2d 699", "72 Wn. App. 359", "755 P.2d 174", "804 P.2d 577", "864 P.2d 426", "882 P.2d 747", "888 P.2d 1105", "89 Wn.2d 430", "904 P.2d 245", "96 Wn. App. 672", "97 Wn.2d 493", "975 P.2d 967", "981 P.2d 16"]
 ---
 
 # State v. Barajas
