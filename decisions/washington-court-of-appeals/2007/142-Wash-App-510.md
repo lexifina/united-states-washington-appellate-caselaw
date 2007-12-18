@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35901-4-II"
 decided: "2007-12-18"
-citations: ["142 Wash. App. 510", "142 Wash. App. 1011"]
+citations: ["142 Wash. App. 510"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Joel Havlina, Appellant, v. The Department of Transportation et al., 
 source_url: "https://static.case.law/wash-app/142/cases/0510-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3974762
-cites_cases: ["104 Wn.2d 627", "106 Wn.2d 102", "126 Wn.2d 22", "126 Wn.2d 315", "137 Wn.2d 1036", "142 Wn. App. 510", "261 F.3d 877", "42 U.S.C. §§ 12101-12213", "66 F.3d 1045", "708 P.2d 393", "720 P.2d 793", "891 P.2d 29", "893 P.2d 629", "93 Wn. App. 140", "966 P.2d 1282", "98 Wn. App. 471", "989 P.2d 1214"]
+cites_cases: ["104 Wn.2d 627", "106 Wn.2d 102", "126 Wn.2d 22", "126 Wn.2d 315", "137 Wn.2d 1036", "261 F.3d 877", "42 U.S.C. §§ 12101-12213", "66 F.3d 1045", "708 P.2d 393", "720 P.2d 793", "891 P.2d 29", "893 P.2d 629", "93 Wn. App. 140", "966 P.2d 1282", "98 Wn. App. 471", "989 P.2d 1214"]
 ---
 
 # Havlina v. Department of Transportation
