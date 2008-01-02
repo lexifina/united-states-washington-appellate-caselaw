@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36055-1-II"
 decided: "2008-01-02"
-citations: ["143 Wash. App. 41", "142 Wash. App. 1019"]
+citations: ["143 Wash. App. 41"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Amy E. Riley, Appellant."]
 source_url: "https://static.case.law/wash-app/143/cases/0041-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3967362
-cites_cases: ["128 Wn.2d 40", "143 Wn. App. 41", "144 Wn.2d 829", "151 P.3d 990", "159 Wn.2d 639", "31 P.3d 1155", "905 P.2d 338"]
+cites_cases: ["128 Wn.2d 40", "144 Wn.2d 829", "151 P.3d 990", "159 Wn.2d 639", "31 P.3d 1155", "905 P.2d 338"]
 ---
 
 # State v. Riley
