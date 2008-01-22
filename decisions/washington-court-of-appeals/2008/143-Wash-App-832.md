@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25094-6-III"
 decided: "2008-01-22"
-citations: ["143 Wash. App. 832", "142 Wash. App. 1040"]
+citations: ["143 Wash. App. 832"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Tammy J. Rhoades, Appellant, v. The Department of Labor and Industrie
 source_url: "https://static.case.law/wash-app/143/cases/0832-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3969696
-cites_cases: ["110 Wn.2d 183", "110 Wn.2d 917", "118 Wn. App. 635", "119 P.3d 865", "129 Wn. App. 368", "129 Wn.2d 289", "133 Wn. App. 903", "138 P.3d 177", "138 Wn.2d 1", "141 Wn.2d 169", "143 Wn. App. 832", "149 Wn.2d 29", "4 P.3d 123", "422 P.2d 520", "442 U.S. 191", "540 P.2d 882", "582 P.2d 487", "65 P.3d 1194", "70 Wn.2d 141", "74 Wn. App. 420", "751 P.2d 294", "756 P.2d 1311", "77 P.3d 1184", "85 Wn.2d 859", "873 P.2d 583", "90 Wn.2d 298", "916 P.2d 399", "977 P.2d 570"]
+cites_cases: ["110 Wn.2d 183", "110 Wn.2d 917", "118 Wn. App. 635", "119 P.3d 865", "129 Wn. App. 368", "129 Wn.2d 289", "133 Wn. App. 903", "138 P.3d 177", "138 Wn.2d 1", "141 Wn.2d 169", "149 Wn.2d 29", "4 P.3d 123", "422 P.2d 520", "442 U.S. 191", "540 P.2d 882", "582 P.2d 487", "65 P.3d 1194", "70 Wn.2d 141", "74 Wn. App. 420", "751 P.2d 294", "756 P.2d 1311", "77 P.3d 1184", "85 Wn.2d 859", "873 P.2d 583", "90 Wn.2d 298", "916 P.2d 399", "977 P.2d 570"]
 ---
 
 # Rhoades v. Department of Labor & Industries
