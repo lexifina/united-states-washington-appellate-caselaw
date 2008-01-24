@@ -1,0 +1,61 @@
+---
+court: "Washington Court of Appeals"
+docket: "26117-4-III"
+decided: "2008-01-24"
+citations: ["142 Wash. App. 819"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Brown, J., and Stephens, J. Pro Tem., concur."]
+parties: ["Steven Jachetta et al., Appellants, v. Warden Joint Consolidated School District, Respondent."]
+source_url: "https://static.case.law/wash-app/142/cases/0819-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3977417
+cites_cases: ["161 Wn.2d 189", "165 P.3d 4", "201 P.2d 697", "255 P.2d 360", "32 Wn.2d 353", "42 Wn.2d 316", "65 Wn. App. 285", "656 P.2d 1030", "74 Wn. App. 49", "827 P.2d 1108", "871 P.2d 1106", "98 Wn.2d 434"]
+---
+
+# Jachetta v. Warden Joint Consolidated School District
+
+## Majority (Sweeney, C.J.)
+
+¶1 — Plaintiffs in a negligence action must show breach of a duty of care. Here, the plaintiff parents claim that a school district acted inappropriately or failed to react appropriately to a death threat aimed at their son. The school district suspended the student who made the threat and required a clearance by a psychiatrist before readmitting the student. The parents argue this was not enough and offer other responses they say the district could have and should have followed. We are unable to conclude that the district breached its duty of care given its response and the legislative mandates set out in the statutes. We therefore affirm the summary dismissal of the complaint.
+Sweeney, C.J.
+FACTS
+¶2 A school bus driver found a backpack left behind on the bus. He looked through the backpack to find the owner’s name. He found a handwritten list of names with the words “2 kill list” at the top. Clerk’s Papers (CP) at 16. The bus driver gave the backpack and list to the school principal.
+¶3 The principal interviewed the student, K.S., who had written the list. She admitted writing the list while on the phone with her friend, S.M. She said that neither she nor S.M. intended to harm anyone on the list. She said that they created the list because they were bored.
+¶4 The principal and Warden police chief interviewed the other student, S.M., that same afternoon. S.M. admitted that he compiled the list with K.S. over the phone. He said that the list was a joke and they did not actually intend to harm anyone. The list contained 128 names that included classmates, staff at the Warden Joint Consolidated School District (School District), and famous figures such as “Shania twain,” “big bird,” “goerge [sic] bush,” “bill clinton,” “al gore,” “Martha Stewart,” “opra [sic],” and “garth brooks.” CP at 33-35. The first name on the list was “billy.” Id. at 33.
+¶5 The police chief did not believe that S.M. was a threat. The School District nevertheless expelled S.M. for three days on an emergency basis. It then converted the emergency expulsion to a long-term suspension (45 days) the same day.
+¶6 The School District gave notice to all parents and staff that a threatening reference had been made. The notice informed that the students involved had been suspended and that the School District had a zero tolerance policy for threats made on school grounds. The School District sent the notice five days after finding the list.
+¶7 The School District required S.M. to complete “a full scale Mental Health Assessment that determines that he is not a risk to himself or those around him” as a condition of returning to school. CP at 322. This assessment had to be done by a master-level psychologist or someone with a higher degree.
+¶8 A psychiatrist, Dr. Benjamin Marte, evaluated S.M. He concluded that “[t]here currently does not appear to be any reason for [S.M.] to not be in school and I would recommend his return” and so advised the School District. CP at 41.
+¶9 The School District concluded that the school environment was safe for Billy Jachetta, despite S.M.’s presence at the same school. Steven and Juanita Jachetta wanted S.M. to be suspended for the remainder of the school year. The School District admitted S.M. back into school. It did not notify the Jachettas. The Jachettas refused to allow their son Billy to return to school as long as S.M. was there.
+¶10 The Jachettas met with representatives of the School District. And the District worked with the Jachettas to provide an alternative educational plan for Billy. The Jachettas helped create the plan and signed it. The alternative educational plan allowed Billy to do his studies at home. The Jachettas wanted a full-time tutor assigned to Billy. The School District refused. The School District offered Billy counseling. A counselor retained by the Jachettas later diagnosed Billy with posttraumatic stress disorder (PTSD).
+¶11 The Jachettas sued the School District for negligence. The District moved for summary judgment. And the trial court dismissed the Jachettas’ complaint.
+DISCUSSION
+¶12 The Jachettas take issue with the way the School District handled the situation and argue that in doing so they have raised a genuine issue of material fact. And, they contend, the trial judge then erred in summarily dismissing their suit. Specifically, the Jachettas argue that the School District breached its duty because it (1) gave the Jachettas late notice of the “2 kill list,” (2) did not expel or suspend S.M. for the rest of the year, (3) accepted Dr. Marte’s opinion, and (4) failed to notify the Jachettas that it was allowing S.M. to return to school. The Jachettas contend that these breaches caused Billy’s PTSD.
+¶13 The School District responds that it did not owe any duty to Mr. and Ms. Jachetta. It agrees it did owe a duty to Billy but denies that it breached that duty. The School District argues that the Jachettas do not create a genuine issue of material fact by simply saying that the District could have done something other than what it did. And moreover, the District argues, there is no proximal relationship between anything it did, or did not do, and Billy’s PTSD.
+¶14 The court here dismissed the Jachettas’ complaint on a motion for summary judgment. Our review is then de novo. And we view the facts in a light most favorable to the Jachettas. Herring v. Texaco, Inc., 161 Wn.2d 189, 194, 165 P.3d 4 (2007). Summary judgment is appropriate when there is no genuine issue of material fact. CR 56(c).
+¶15 A school district must protect students in its custody from reasonably anticipated dangers. J.N. v. Bellingham Sch. Dist. No. 501, 74 Wn. App. 49, 56-57, 871 P.2d 1106 (1994). The duty imposed is reasonable care: “[T]he district is required to exercise such care as a reasonably prudent person would exercise under the same or similar circumstances.” Id. at 57 (citing Briscoe v. Sch. Dist. No. 123, 32 Wn.2d 353, 362, 201 P.2d 697 (1949); McLeod v. Grant County Sch. Dist. No. 128, 42 Wn.2d 316, 319-20, 255 P.2d 360 (1953)). The district’s duty “to use reasonable care only extends to such risks of harm as are foreseeable.” Id. And that is generally a jury question. Id.
+¶16 The School District admits its duty to protect Billy but denies any similar duty to Mr. and Ms. Jachetta. And the only authority cited by Mr. and Ms. Jachetta supports only the notion that the duty is owed to students. Id. at 56-58. “It is undisputed that the District had a duty to protect the pupils in its custody from dangers reasonably to be anticipated.” Id. at 56-57. Mr. and Ms. Jachetta are not students. And the School District therefore has no duty to protect Mr. and Ms. Jachetta. Id. at 56-58, 62; Peck v. Siau, 65 Wn. App. 285, 293, 827 P.2d 1108 (1992).
+¶17 The Jachettas wanted S.M. to be expelled for the remaining part of the school year even after the psychiatrist’s evaluation. They contended that S.M.’s presence at school would negatively impact their son, Billy. But there is no showing that this was necessary to protect their son. And the School District had legal obligations to consider the educational needs of S.M. as well as Billy. RCW 28A.600.410.
+¶18 Here is what the School District did, thought, or acted upon:
+• the School District emergency-expelled S.M. for three days under former WAC 180-40-295 (1997) (CP at 36);
+• the School District suspended S.M. for 45 days under former WAC 180-40-260 (1997) (CP at 39);
+• the School District notified all parents and staff associated with the district on March 29, 2004, that a threatening reference had been made (CP at 5, 9);
+• the notice to parents and staff explained that the students involved had been placed on suspension (CP at 5, 9);
+• the School District ordered a full mental health assessment of S.M. before readmitting him back into school (CP at 322);
+• the School District determined on May 3, 2004, that S.M. should be readmitted following a psychiatrist’s evaluation that S.M. was not a threat to anyone (CP at 5, 9, 41);
+• the School District believed the school environment was safe for Billy, despite S.M.’s presence at the same school (CP at 6, 10);
+• the School District worked with the Jachettas to formulate an alternative educational plan for Billy to finish the rest of the school year (CP at 248-52, 273-74, 302);
+• the Jachettas signed off on the alternative educational plan (CP at 310).
+¶19 It was not foreseeable that the School District’s actions (listed above) would result in Billy’s PTSD. The School District’s “duty to use reasonable care only extends to such risks of harm as are foreseeable.” J.N., 74 Wn. App. at 57.
+¶20 The School District had the authority to expel S.M. after the list was found. “A student who commits an offense under [chapter 9A.46 RCW], when directed toward another student, may ... be expelled or suspended.” RCW 28A.600.460(3). Yet “[s]chool districts are encouraged to find alternatives to suspension including reducing the length of a student’s suspension conditioned by the commencement of counseling or other treatment services.” RCW 28A.600.410.
+¶21 The School District acted well within its authority when it expelled S.M. on an emergency basis and then suspended him. RCW 28A.600.460(3), .410. The School District acted in accordance with legislative mandates when it later reduced the length of S.M.’s suspension after the psychiatrist assessed S.M., found him to be no threat, and reported that to the district. RCW 28A.600.460(3), .410. The psychiatrist concluded that “[t]here currently does not appear to be any reason for [S.M.] to not be in school and I would recommend his return.” CP at 41.
+¶22 The School District was not under an obligation to keep S.M. out of school for the remainder of the year just to accommodate the Jachettas. RCW 28A.600.410. It reasonably acted in accord with the law and its policies when it relied on the assessment of a mental health care professional who examined S.M. and the professional’s recommendation to allow S.M. back into school. RCW 28A-.600.460(3), .410.
+¶23 In response to the summary judgment motion, the Jachettas offer no professional or lay opinion that the School District’s handling of the situation here was below the standard of care. The best that can be said is that the Jachettas say the district could have done more. That does not create a genuine issue of material fact. The School District is liable only if “ ‘the wrongful activities are foreseeable, and the activities will be foreseeable only if the district knew or in the exercise of reasonable care should have known of the risk that resulted in their occurrence.’ ” J.N., 74 Wn. App. at 58 (emphasis omitted) (quoting Peck, 65 Wn. App. at 293). Billy’s PTSD, in light of the School District’s response, was not foreseeable.
+¶24 The trial court correctly dismissed the case as a matter of law. Wilson v. Steinbach, 98 Wn.2d 434, 437, 656 P.2d 1030 (1982); J.N., 74 Wn. App. at 57; Peck, 65 Wn. App. at 293; RCW 28A.600.460(3), .410.
+¶25 We affirm.
+Brown, J., and Stephens, J. Pro Tem., concur.
+Recodified as WAC 392-400-295. Laws of 2006, ch. 263.
+Recodified as WAC 392-400-260. Laws of 2006, ch. 263.
+A person is guilty of harassment under chapter 9A.46 RCW if he or she knowingly threatens, by words or conduct, to cause bodily injury to another immediately or in the future. RCW 9A.46.020(l)(a), (b).
