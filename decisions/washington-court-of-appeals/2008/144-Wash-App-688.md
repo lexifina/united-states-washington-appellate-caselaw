@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35019-0-II"
 decided: "2008-01-29"
-citations: ["144 Wash. App. 688", "142 Wash. App. 868"]
+citations: ["144 Wash. App. 688"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Ryna Ra, Appellant."]
 source_url: "https://static.case.law/wash-app/144/cases/0688-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737568
-cites_cases: ["116 Wn.2d 51", "125 Wn.2d 847", "127 S. Ct. 2986", "127 Wn.2d 628", "130 P.3d 852", "132 Wn. App. 98", "136 Wn.2d 767", "143 Wn.2d 731", "144 Wn. App. 688", "145 Wn.2d 630", "147 P.3d 1201", "147 P.3d 581", "147 Wn.2d 238", "149 P.3d 646", "158 Wn.2d 1018", "158 Wn.2d 759", "159 Wn.2d 1", "159 Wn.2d 252", "161 Wn.2d 168", "163 P.3d 786", "164 Wn.2d 1016", "189 Wash. 422", "24 P.3d 1006", "353 P.2d 885", "392 P.2d 442", "41 P.3d 1159", "53 P.3d 26", "56 Wn.2d 344", "60 Wn. App. 131", "606 P.2d 1214", "64 Wn.2d 491", "65 P.2d 1075", "67 Wn. App. 749", "69 Wn. App. 167", "77 Wn. App. 720", "803 P.2d 340", "804 P.2d 577", "840 P.2d 228", "847 P.2d 953", "889 P.2d 487", "89 Wn. App. 780", "893 P.2d 674", "904 P.2d 245", "93 Wn.2d 127", "950 P.2d 964", "966 P.2d 883", "98 Wn. App. 328", "989 P.2d 576"]
+cites_cases: ["116 Wn.2d 51", "125 Wn.2d 847", "127 S. Ct. 2986", "127 Wn.2d 628", "130 P.3d 852", "132 Wn. App. 98", "136 Wn.2d 767", "143 Wn.2d 731", "145 Wn.2d 630", "147 P.3d 1201", "147 P.3d 581", "147 Wn.2d 238", "149 P.3d 646", "158 Wn.2d 1018", "158 Wn.2d 759", "159 Wn.2d 1", "159 Wn.2d 252", "161 Wn.2d 168", "163 P.3d 786", "164 Wn.2d 1016", "189 Wash. 422", "24 P.3d 1006", "353 P.2d 885", "392 P.2d 442", "41 P.3d 1159", "53 P.3d 26", "56 Wn.2d 344", "60 Wn. App. 131", "606 P.2d 1214", "64 Wn.2d 491", "65 P.2d 1075", "67 Wn. App. 749", "69 Wn. App. 167", "77 Wn. App. 720", "803 P.2d 340", "804 P.2d 577", "840 P.2d 228", "847 P.2d 953", "889 P.2d 487", "89 Wn. App. 780", "893 P.2d 674", "904 P.2d 245", "93 Wn.2d 127", "950 P.2d 964", "966 P.2d 883", "98 Wn. App. 328", "989 P.2d 576"]
 ---
 
 # State v. Ra
