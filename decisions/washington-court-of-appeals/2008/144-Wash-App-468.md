@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59291-2-I"
 decided: "2008-02-04"
-citations: ["144 Wash. App. 468", "142 Wash. App. 1049"]
+citations: ["144 Wash. App. 468"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Dependency of M.S.D. Kyisha Davis, Appellant, v.
 source_url: "https://static.case.law/wash-app/144/cases/0468-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5735019
-cites_cases: ["109 Wn. App. 718", "110 Wn. App. 628", "114 Wn.2d 353", "115 P.3d 990", "128 Wn. App. 45", "137 Wn.2d 1", "144 Wn. App. 468", "25 Wn. App. 726", "37 P.3d 1227", "400 U.S. 25", "42 P3d 418", "610 P.2d 371", "76 Wn. App. 87", "788 P.2d 1066", "882 P.2d 1180", "969 P.2d 21"]
+cites_cases: ["109 Wn. App. 718", "110 Wn. App. 628", "114 Wn.2d 353", "115 P.3d 990", "128 Wn. App. 45", "137 Wn.2d 1", "25 Wn. App. 726", "37 P.3d 1227", "400 U.S. 25", "42 P3d 418", "610 P.2d 371", "76 Wn. App. 87", "788 P.2d 1066", "882 P.2d 1180", "969 P.2d 21"]
 ---
 
 # Davis v. Department of Social & Health Services
