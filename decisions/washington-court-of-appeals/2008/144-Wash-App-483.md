@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25960-9-III"
 decided: "2008-02-21"
-citations: ["144 Wash. App. 483", "143 Wash. App. 1012"]
+citations: ["144 Wash. App. 483"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["William Davies, Individually and as Personal Representative, Appellan
 source_url: "https://static.case.law/wash-app/144/cases/0483-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737615
-cites_cases: ["100 Wn. App. 53", "104 Wn. App. 606", "105 Wn. App. 666", "112 Wn.2d 216", "112 Wn.2d 829", "113 Wn. App. 930", "113 Wn.2d 701", "115 Wn. App. 73", "125 Wn.2d 697", "133 Wn.2d 39", "135 Wn.2d 658", "144 Wn. App. 483", "15 P.3d 210", "19 P.3d 1068", "440 P.2d 823", "48 Wn. App. 554", "49 Wn. App. 321", "55 P.3d 657", "60 P.3d 1245", "61 Wn. App. 163", "663 P.2d 113", "70 Wn. App. 18", "73 Wn.2d 814", "739 P.2d 1188", "742 P.2d 127", "75 Wn. App. 424", "76 Wn. App. 542", "770 P.2d 182", "774 P.2d 1171", "782 P.2d 1045", "810 P.2d 4", "851 P.2d 689", "878 P.2d 483", "887 P.2d 468", "887 P.2d 886", "90 Wn. App. 110", "940 P.2d 1362", "95 Wn. App. 896", "951 P.2d 321", "958 P.2d 301", "977 P.2d 639", "99 Wn.2d 438", "995 P.2d 621"]
+cites_cases: ["100 Wn. App. 53", "104 Wn. App. 606", "105 Wn. App. 666", "112 Wn.2d 216", "112 Wn.2d 829", "113 Wn. App. 930", "113 Wn.2d 701", "115 Wn. App. 73", "125 Wn.2d 697", "133 Wn.2d 39", "135 Wn.2d 658", "15 P.3d 210", "19 P.3d 1068", "440 P.2d 823", "48 Wn. App. 554", "49 Wn. App. 321", "55 P.3d 657", "60 P.3d 1245", "61 Wn. App. 163", "663 P.2d 113", "70 Wn. App. 18", "73 Wn.2d 814", "739 P.2d 1188", "742 P.2d 127", "75 Wn. App. 424", "76 Wn. App. 542", "770 P.2d 182", "774 P.2d 1171", "782 P.2d 1045", "810 P.2d 4", "851 P.2d 689", "878 P.2d 483", "887 P.2d 468", "887 P.2d 886", "90 Wn. App. 110", "940 P.2d 1362", "95 Wn. App. 896", "951 P.2d 321", "958 P.2d 301", "977 P.2d 639", "99 Wn.2d 438", "995 P.2d 621"]
 ---
 
 # Davies v. Holy Family Hospital
