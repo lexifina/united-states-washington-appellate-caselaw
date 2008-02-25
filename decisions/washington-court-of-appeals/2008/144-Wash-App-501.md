@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57997-5-I; 58053-1-I; 58918-1-I"
 decided: "2008-02-25"
-citations: ["144 Wash. App. 501", "143 Wash. App. 1014"]
+citations: ["144 Wash. App. 501"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Mahmoud Sourakli, Respondent, v. Kyriakos, Inc., et al., Defendants, 
 source_url: "https://static.case.law/wash-app/144/cases/0501-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5736046
-cites_cases: ["116 Wn.2d 217", "117 Wn. App. 881", "123 P.3d 88", "124 Wn.2d 318", "144 Wn. App. 501", "146 Wn.2d 291", "155 Wn.2d 790", "165 Wn.2d 1017", "186 Wash. 372", "41 Wn. App. 343", "45 P.3d 1068", "58 P.2d 290", "704 P.2d 1193", "73 P.3d 1019", "80 Wn. App. 843", "802 P.2d 1360", "879 P.2d 912", "912 P.2d 1035", "94 Wn. App. 820", "976 P.2d 126"]
+cites_cases: ["116 Wn.2d 217", "117 Wn. App. 881", "123 P.3d 88", "124 Wn.2d 318", "146 Wn.2d 291", "155 Wn.2d 790", "165 Wn.2d 1017", "186 Wash. 372", "41 Wn. App. 343", "45 P.3d 1068", "58 P.2d 290", "704 P.2d 1193", "73 P.3d 1019", "80 Wn. App. 843", "802 P.2d 1360", "879 P.2d 912", "912 P.2d 1035", "94 Wn. App. 820", "976 P.2d 126"]
 ---
 
 # Sourakli v. Kyriakos, Inc.
