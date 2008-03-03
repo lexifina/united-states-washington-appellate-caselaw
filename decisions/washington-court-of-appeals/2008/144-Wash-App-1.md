@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59637-3-I"
 decided: "2008-03-03"
-citations: ["144 Wash. App. 1", "143 Wash. App. 1025"]
+citations: ["144 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Marcia R. Magee, Appellant, v. Rite Aid, Respondent."]
 source_url: "https://static.case.law/wash-app/144/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5735124
-cites_cases: ["108 Wn.2d 143", "115 P.2d 1014", "116 Wn.2d 352", "120 P.3d 941", "132 Okla. 300", "137 Wn.2d 319", "144 Wn. App. 1", "144 Wn.2d 252", "155 Wn.2d 527", "161 N.E. 204", "164 Wn.2d 1036", "185 P.2d 113", "1991 WL 246462", "2002 WL 32303605", "211 P.2d 503", "240 P.2d 567", "248 N.Y. 10", "26 P.3d 903", "27 Wn.2d 911", "270 P. 1103", "35 Wn.2d 151", "38 Wn. App. 553", "40 Wn.2d 56", "569 P.2d 67", "623 P.2d 683", "65 Wn. App. 386", "686 P.2d 509", "736 P.2d 265", "804 P.2d 621", "81 Wn. App. 123", "828 P.2d 1138", "89 Wn.2d 57", "9 Wn.2d 621", "913 P.2d 402", "95 Wn.2d 257", "971 P.2d 500"]
+cites_cases: ["108 Wn.2d 143", "115 P.2d 1014", "116 Wn.2d 352", "120 P.3d 941", "132 Okla. 300", "137 Wn.2d 319", "144 Wn.2d 252", "155 Wn.2d 527", "161 N.E. 204", "164 Wn.2d 1036", "185 P.2d 113", "1991 WL 246462", "2002 WL 32303605", "211 P.2d 503", "240 P.2d 567", "248 N.Y. 10", "26 P.3d 903", "27 Wn.2d 911", "270 P. 1103", "35 Wn.2d 151", "38 Wn. App. 553", "40 Wn.2d 56", "569 P.2d 67", "623 P.2d 683", "65 Wn. App. 386", "686 P.2d 509", "736 P.2d 265", "804 P.2d 621", "81 Wn. App. 123", "828 P.2d 1138", "89 Wn.2d 57", "9 Wn.2d 621", "913 P.2d 402", "95 Wn.2d 257", "971 P.2d 500"]
 ---
 
 # Magee v. Rite Aid
