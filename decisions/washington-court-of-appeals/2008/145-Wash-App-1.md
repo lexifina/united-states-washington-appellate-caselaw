@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58935-1-I"
 decided: "2008-03-03"
-citations: ["145 Wash. App. 1", "143 Wash. App. 1024"]
+citations: ["145 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Matthew Preston Mitchell, App
 source_url: "https://static.case.law/wash-app/145/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5736649
-cites_cases: ["123 Wn.2d 173", "129 Wn.2d 347", "138 Wn.2d 343", "145 Wn. App. 1", "165 Wn.2d 1022", "207 Ariz. 562", "3 Md. J. Contemp. Legal Issues 119", "373 U.S. 503", "392 U.S. 1", "443 U.S. 47", "460 U.S. 491", "540 U.S. 419", "71 Wn. App. 267", "857 P.2d 1074", "867 P.2d 593", "89 Wn. App. 608", "917 P.2d 108", "949 P.2d 845", "979 P.2d 833"]
+cites_cases: ["123 Wn.2d 173", "129 Wn.2d 347", "138 Wn.2d 343", "165 Wn.2d 1022", "207 Ariz. 562", "3 Md. J. Contemp. Legal Issues 119", "373 U.S. 503", "392 U.S. 1", "443 U.S. 47", "460 U.S. 491", "540 U.S. 419", "71 Wn. App. 267", "857 P.2d 1074", "867 P.2d 593", "89 Wn. App. 608", "917 P.2d 108", "949 P.2d 845", "979 P.2d 833"]
 ---
 
 # State v. Mitchell
