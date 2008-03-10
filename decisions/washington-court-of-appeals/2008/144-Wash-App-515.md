@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "58717-0-I; 60082-6-I"
 decided: "2008-03-10"
-citations: ["144 Wash. App. 515", "143 Wash. App. 1028"]
+citations: ["144 Wash. App. 515"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Clarence Andrew Kintz, Appell
 source_url: "https://static.case.law/wash-app/144/cases/0515-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737509
-cites_cases: ["117 Wn.2d 141", "118 Wn.2d 801", "144 Wn. App. 515", "165 Wn.2d 1011", "812 P.2d 483", "828 P.2d 549"]
+cites_cases: ["117 Wn.2d 141", "118 Wn.2d 801", "165 Wn.2d 1011", "812 P.2d 483", "828 P.2d 549"]
 ---
 
 # State v. Kintz
