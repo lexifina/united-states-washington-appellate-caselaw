@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25783-5-III"
 decided: "2008-03-13"
-citations: ["144 Wash. App. 524", "143 Wash. App. 1035"]
+citations: ["144 Wash. App. 524"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Dennis Patrick Bucknell, Appe
 source_url: "https://static.case.law/wash-app/144/cases/0524-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5738887
-cites_cases: ["119 Wn.2d 192", "133 Wn.2d 26", "139 Misc. 2d 200", "144 Wn. App. 524", "193 A.D.2d 305", "212 A.D.2d 1030", "434 U.S. 898", "528 N.Y.S.2d 286", "558 P.2d 202", "59 Wn. App. 838", "614 So. 2d 533", "616 P.2d 628", "616 So. 2d 1036", "801 P.2d 1004", "81 Wn. App. 470", "829 P.2d 1068", "84 N.Y.2d 930", "88 Wn.2d 13", "915 P.2d 535", "94 Wn.2d 216", "941 P.2d 1102", "Fla. Stat. § 794.011", "N.Y. Penal Law § 130.00"]
+cites_cases: ["119 Wn.2d 192", "133 Wn.2d 26", "139 Misc. 2d 200", "193 A.D.2d 305", "212 A.D.2d 1030", "434 U.S. 898", "528 N.Y.S.2d 286", "558 P.2d 202", "59 Wn. App. 838", "614 So. 2d 533", "616 P.2d 628", "616 So. 2d 1036", "801 P.2d 1004", "81 Wn. App. 470", "829 P.2d 1068", "84 N.Y.2d 930", "88 Wn.2d 13", "915 P.2d 535", "94 Wn.2d 216", "941 P.2d 1102", "Fla. Stat. § 794.011", "N.Y. Penal Law § 130.00"]
 ---
 
 # State v. Bucknell
