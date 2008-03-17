@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59275-1-I"
 decided: "2008-03-17"
-citations: ["144 Wash. App. 531", "143 Wash. App. 1037"]
+citations: ["144 Wash. App. 531"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Kent Ducote, Appellant, v. The Department of Social and Health Servic
 source_url: "https://static.case.law/wash-app/144/cases/0531-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737536
-cites_cases: ["1 P.3d 1148", "113 Wn.2d 912", "127 P.3d 752", "131 Wn. App. 372", "134 Wn.2d 523", "141 Wn.2d 68", "144 Wn. App. 531", "164 Wn.2d 1014", "63 Wn. App. 35", "784 P.2d 1258", "816 P.2d 1237", "83 Wn. App. 263", "85 Wn. App. 71", "921 P.2d 1066", "930 P.2d 958", "951 P.2d 770", "98 Wn. App. 553", "990 P.2d 453"]
+cites_cases: ["1 P.3d 1148", "113 Wn.2d 912", "127 P.3d 752", "131 Wn. App. 372", "134 Wn.2d 523", "141 Wn.2d 68", "164 Wn.2d 1014", "63 Wn. App. 35", "784 P.2d 1258", "816 P.2d 1237", "83 Wn. App. 263", "85 Wn. App. 71", "921 P.2d 1066", "930 P.2d 958", "951 P.2d 770", "98 Wn. App. 553", "990 P.2d 453"]
 ---
 
 # Ducote v. Department of Social & Health Services
