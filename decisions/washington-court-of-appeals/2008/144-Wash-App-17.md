@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59064-2-I"
 decided: "2008-03-17"
-citations: ["144 Wash. App. 17", "143 Wash. App. 1036"]
+citations: ["144 Wash. App. 17"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Christina S. Orozco, Appellan
 source_url: "https://static.case.law/wash-app/144/cases/0017-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5738961
-cites_cases: ["102 P.3d 856", "114 Wn. App. 395", "118 Wn.2d 801", "119 P.3d 350", "119 Wn. App. 26", "124 Wn. App. 662", "124 Wn.2d 789", "132 Wn.2d 668", "137 Wn.2d 792", "144 Wn. App. 17", "149 Wn.2d 1035", "152 Wn.2d 1008", "155 Wn.2d 272", "161 Wn.2d 517", "165 Wn.2d 1005", "166 P.3d 1167", "2002 Pa. Super 51", "295 U.S. 78", "446 U.S. 238", "523 U.S. 1008", "528 U.S. 922", "529 Pa. 387", "57 P.3d 1191", "604 A.2d 700", "79 P.3d 1", "793 A.2d 949", "828 P.2d 549", "83 Wn. App. 622", "881 P.2d 1020", "922 P.2d 193", "940 P.2d 1239", "975 P.2d 967"]
+cites_cases: ["102 P.3d 856", "114 Wn. App. 395", "118 Wn.2d 801", "119 P.3d 350", "119 Wn. App. 26", "124 Wn. App. 662", "124 Wn.2d 789", "132 Wn.2d 668", "137 Wn.2d 792", "149 Wn.2d 1035", "152 Wn.2d 1008", "155 Wn.2d 272", "161 Wn.2d 517", "165 Wn.2d 1005", "166 P.3d 1167", "2002 Pa. Super 51", "295 U.S. 78", "446 U.S. 238", "523 U.S. 1008", "528 U.S. 922", "529 Pa. 387", "57 P.3d 1191", "604 A.2d 700", "79 P.3d 1", "793 A.2d 949", "828 P.2d 549", "83 Wn. App. 622", "881 P.2d 1020", "922 P.2d 193", "940 P.2d 1239", "975 P.2d 967"]
 ---
 
 # State v. Orozco
