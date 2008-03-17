@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59156-8-I"
 decided: "2008-03-17"
-citations: ["144 Wash. App. 22", "143 Wash. App. 1036"]
+citations: ["144 Wash. App. 22"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. T.A.W., Appellant."]
 source_url: "https://static.case.law/wash-app/144/cases/0022-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5735332
-cites_cases: ["101 Wn. App. 309", "101 Wn. App. 425", "110 Wn.2d 793", "144 Wn. App. 22", "162 Wn.2d 451", "162 Wn.2d 632", "173 P.3d 234", "174 P.3d 11", "2 P.3d 501", "3 P.3d 780", "512 U.S. 821", "53 Wn. App. 163", "553 P.2d 1328", "67 Wn. App. 741", "756 P.2d 1303", "765 P.2d 1327", "840 P.2d 218", "87 Wn.2d 374"]
+cites_cases: ["101 Wn. App. 309", "101 Wn. App. 425", "110 Wn.2d 793", "162 Wn.2d 451", "162 Wn.2d 632", "173 P.3d 234", "174 P.3d 11", "2 P.3d 501", "3 P.3d 780", "512 U.S. 821", "53 Wn. App. 163", "553 P.2d 1328", "67 Wn. App. 741", "756 P.2d 1303", "765 P.2d 1327", "840 P.2d 218", "87 Wn.2d 374"]
 ---
 
 # State v. T.A.W.
