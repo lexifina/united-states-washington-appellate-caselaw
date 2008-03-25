@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25703-7-III; 25704-5-III; 25705-3-III; 25706-1-III"
 decided: "2008-03-25"
-citations: ["145 Wash. App. 10", "143 Wash. App. 1045"]
+citations: ["145 Wash. App. 10"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Welfare of M.R.H. et al."]
 source_url: "https://static.case.law/wash-app/145/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5736079
-cites_cases: ["108 Wn. App. 149", "109 P.3d 405", "112 Wn.2d 1017", "114 P.3d 1215", "115 Wn.2d 1019", "120 Wn.2d 156", "128 Wn. App. 108", "128 Wn.2d 129", "134 Wn. App. 336", "137 Wn.2d 1", "139 P.3d 1119", "139 Wn. App. 784", "145 Wn. App. 10", "154 Wn.2d 52", "155 Wn.2d 1021", "162 P.3d 1141", "162 Wn.2d 1001", "165 Wn.2d 1009", "20 P.3d 1275", "262 U.S. 390", "32 Wn. App. 865", "529 U.S. 1108", "53 Wn. App. 22", "530 U.S. 57", "58 Wn. App. 18", "61 Wn. App. 280", "62 Wn. App. 562", "621 P.2d 108", "650 P.2d 1118", "656 P.2d 503", "664 P.2d 1245", "765 P.2d 307", "792 P.2d 159", "810 P.2d 518", "815 P.2d 277", "839 P.2d 890", "904 P.2d 1132", "94 Wn. App. 511", "94 Wn.2d 757", "969 P.2d 21", "973 P.2d 474", "98 Wn.2d 589", "99 Wn.2d 842"]
+cites_cases: ["108 Wn. App. 149", "109 P.3d 405", "112 Wn.2d 1017", "114 P.3d 1215", "115 Wn.2d 1019", "120 Wn.2d 156", "128 Wn. App. 108", "128 Wn.2d 129", "134 Wn. App. 336", "137 Wn.2d 1", "139 P.3d 1119", "139 Wn. App. 784", "154 Wn.2d 52", "155 Wn.2d 1021", "162 P.3d 1141", "162 Wn.2d 1001", "165 Wn.2d 1009", "20 P.3d 1275", "262 U.S. 390", "32 Wn. App. 865", "529 U.S. 1108", "53 Wn. App. 22", "530 U.S. 57", "58 Wn. App. 18", "61 Wn. App. 280", "62 Wn. App. 562", "621 P.2d 108", "650 P.2d 1118", "656 P.2d 503", "664 P.2d 1245", "765 P.2d 307", "792 P.2d 159", "810 P.2d 518", "815 P.2d 277", "839 P.2d 890", "904 P.2d 1132", "94 Wn. App. 511", "94 Wn.2d 757", "969 P.2d 21", "973 P.2d 474", "98 Wn.2d 589", "99 Wn.2d 842"]
 ---
 
 # In re the Welfare of M.R.H.
