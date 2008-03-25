@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25970-6-III"
 decided: "2008-03-25"
-citations: ["145 Wash. App. 492", "143 Wash. App. 1045"]
+citations: ["145 Wash. App. 492"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Debra Ann Ashue, Appellant."]
 source_url: "https://static.case.law/wash-app/145/cases/0492-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737518
-cites_cases: ["100 Wn.2d 719", "101 P.3d 80", "101 Wn.2d 445", "103 Wn.2d 203", "109 Wn.2d 222", "116 Wn. App. 375", "123 Wn.2d 641", "124 Wn.2d 719", "127 Wn.2d 460", "132 Wn.2d 229", "132 Wn.2d 498", "132 Wn.2d 80", "133 Wn.2d 828", "145 Wn. App. 492", "145 Wn.2d 352", "148 Wn.2d 738", "150 P.3d 59", "153 Wn.2d 126", "159 Wn.2d 311", "26 Wn. App. 297", "37 P.3d 280", "37 Wn. App. 131", "422 P.2d 475", "429 P.2d 231", "466 U.S. 668", "55 Wn. App. 780", "591 P.2d 452", "613 P.2d 156", "621 P.2d 115", "64 P.3d 594", "65 P.3d 688", "674 P.2d 171", "678 P.2d 827", "680 P.2d 1051", "691 P.2d 957", "70 Wn.2d 69", "71 Wn.2d 470", "743 P.2d 816", "75 Wn. App. 634", "780 P.2d 894", "83 Wn. App. 825", "870 P.2d 313", "879 P.2d 333", "881 P.2d 979", "901 P.2d 286", "91 Wn.2d 638", "924 P.2d 392", "936 P.2d 408", "937 P.2d 587", "939 P.2d 1223", "94 Wn.2d 772", "947 P.2d 1199"]
+cites_cases: ["100 Wn.2d 719", "101 P.3d 80", "101 Wn.2d 445", "103 Wn.2d 203", "109 Wn.2d 222", "116 Wn. App. 375", "123 Wn.2d 641", "124 Wn.2d 719", "127 Wn.2d 460", "132 Wn.2d 229", "132 Wn.2d 498", "132 Wn.2d 80", "133 Wn.2d 828", "145 Wn.2d 352", "148 Wn.2d 738", "150 P.3d 59", "153 Wn.2d 126", "159 Wn.2d 311", "26 Wn. App. 297", "37 P.3d 280", "37 Wn. App. 131", "422 P.2d 475", "429 P.2d 231", "466 U.S. 668", "55 Wn. App. 780", "591 P.2d 452", "613 P.2d 156", "621 P.2d 115", "64 P.3d 594", "65 P.3d 688", "674 P.2d 171", "678 P.2d 827", "680 P.2d 1051", "691 P.2d 957", "70 Wn.2d 69", "71 Wn.2d 470", "743 P.2d 816", "75 Wn. App. 634", "780 P.2d 894", "83 Wn. App. 825", "870 P.2d 313", "879 P.2d 333", "881 P.2d 979", "901 P.2d 286", "91 Wn.2d 638", "924 P.2d 392", "936 P.2d 408", "937 P.2d 587", "939 P.2d 1223", "94 Wn.2d 772", "947 P.2d 1199"]
 ---
 
 # State v. Ashue
