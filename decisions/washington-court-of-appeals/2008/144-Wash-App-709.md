@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59932-1-I"
 decided: "2008-04-07"
-citations: ["144 Wash. App. 709", "143 Wash. App. 1051"]
+citations: ["144 Wash. App. 709"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Eli Rodriguez, Individually and on Behalf of Others Similarly Situate
 source_url: "https://static.case.law/wash-app/144/cases/0709-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5738386
-cites_cases: ["10 Wn. App. 227", "109 Wn.2d 107", "112 Wn.2d 347", "114 Wn.2d 867", "120 Wn.2d 1014", "124 Wn.2d 749", "135 Wn.2d 618", "136 Wn.2d 322", "14 F.3d 449", "144 Wn. App. 709", "1999 WL 64265", "2000 WL 130630", "256 P.2d 294", "280 A.2d 717", "307 F.3d 1119", "31 Wn. App. 126", "371 U.S. 178", "42 Wn.2d 460", "488 A.2d 858", "488 U.S. 805", "50 Wn. App. 879", "512 U.S. 1219", "515 U.S. 1169", "517 P.2d 207", "520 U.S. 1103", "525 U.S. 1171", "542 A.2d 770", "545 P.2d 13", "567 P.2d 187", "634 A.2d 345", "634 A.2d 927", "636 A.2d 956", "637 A.2d 34", "639 P.2d 240", "65 Wn. App. 71", "669 A.2d 59", "671 A.2d 1368", "722 A.2d 5", "734 A.2d 611", "744 A.2d 523", "744 P.2d 1032", "750 P.2d 254", "751 F.2d 1507", "751 P.2d 334", "757 A.2d 1278", "757 A.2d 720", "768 A.2d 492", "771 P.2d 330", "780 A.2d 1075", "787 A.2d 85", "792 P.2d 514", "82 Wn. App. 236", "825 A.2d 275", "828 P.2d 12", "86 Wn.2d 293", "88 Wn.2d 756", "881 P.2d 216", "89 F.3d 1399", "891 A.2d 150", "906 A.2d 114", "906 A.2d 27", "917 P.2d 604", "957 P.2d 691", "962 P.2d 104"]
+cites_cases: ["10 Wn. App. 227", "109 Wn.2d 107", "112 Wn.2d 347", "114 Wn.2d 867", "120 Wn.2d 1014", "124 Wn.2d 749", "135 Wn.2d 618", "136 Wn.2d 322", "14 F.3d 449", "1999 WL 64265", "2000 WL 130630", "256 P.2d 294", "280 A.2d 717", "307 F.3d 1119", "31 Wn. App. 126", "371 U.S. 178", "42 Wn.2d 460", "488 A.2d 858", "488 U.S. 805", "50 Wn. App. 879", "512 U.S. 1219", "515 U.S. 1169", "517 P.2d 207", "520 U.S. 1103", "525 U.S. 1171", "542 A.2d 770", "545 P.2d 13", "567 P.2d 187", "634 A.2d 345", "634 A.2d 927", "636 A.2d 956", "637 A.2d 34", "639 P.2d 240", "65 Wn. App. 71", "669 A.2d 59", "671 A.2d 1368", "722 A.2d 5", "734 A.2d 611", "744 A.2d 523", "744 P.2d 1032", "750 P.2d 254", "751 F.2d 1507", "751 P.2d 334", "757 A.2d 1278", "757 A.2d 720", "768 A.2d 492", "771 P.2d 330", "780 A.2d 1075", "787 A.2d 85", "792 P.2d 514", "82 Wn. App. 236", "825 A.2d 275", "828 P.2d 12", "86 Wn.2d 293", "88 Wn.2d 756", "881 P.2d 216", "89 F.3d 1399", "891 A.2d 150", "906 A.2d 114", "906 A.2d 27", "917 P.2d 604", "957 P.2d 691", "962 P.2d 104"]
 ---
 
 # Rodriguez v. Loudeye Corp.
