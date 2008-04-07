@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60073-7-I"
 decided: "2008-04-07"
-citations: ["145 Wash. App. 507", "143 Wash. App. 1051"]
+citations: ["145 Wash. App. 507"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Teamsters Local Union No. 117, Appellant, v. The Department of Correc
 source_url: "https://static.case.law/wash-app/145/cases/0507-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737352
-cites_cases: ["109 Wn.2d 282", "117 Wn. App. 251", "121 P.3d 82", "145 Wn. App. 507", "146 Wn.2d 207", "155 Wn.2d 585", "215 Ill. 2d 37", "293 Ill. Dec. 606", "432 U.S. 333", "45 P.3d 186", "477 U.S. 274", "70 P.3d 158", "745 P.2d 1", "828 N.E.2d 1104"]
+cites_cases: ["109 Wn.2d 282", "117 Wn. App. 251", "121 P.3d 82", "146 Wn.2d 207", "155 Wn.2d 585", "215 Ill. 2d 37", "293 Ill. Dec. 606", "432 U.S. 333", "45 P.3d 186", "477 U.S. 274", "70 P.3d 158", "745 P.2d 1", "828 N.E.2d 1104"]
 ---
 
 # Teamsters Local Union No. 117 v. Department of Corrections
