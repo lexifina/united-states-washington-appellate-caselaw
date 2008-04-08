@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36339-9-II"
 decided: "2008-04-08"
-citations: ["145 Wash. App. 249", "143 Wash. App. 1056"]
+citations: ["145 Wash. App. 249"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Estates of Alfred S. Palmer et al. Donald Palmer
 source_url: "https://static.case.law/wash-app/145/cases/0249-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737257
-cites_cases: ["101 Wn. App. 954", "111 Wn. App. 527", "114 Wn. App. 409", "119 Wn.2d 251", "122 U.S. 611", "125 Wn.2d 113", "135 Wn.2d 518", "141 Wn.2d 431", "142 Wn. App. 175", "142 Wn.2d 766", "145 Wn. App. 249", "145 Wn.2d 674", "146 Wn.2d 194", "147 Wn.2d 78", "15 P.3d 640", "150 Wn.2d 478", "152 Wn.2d 387", "161 Wn.2d 353", "166 P.3d 667", "17 Wn. App. 464", "178 P.3d 1042", "199 Wash. 320", "361 P.2d 551", "41 P.3d 1175", "411 P.2d 157", "43 P.3d 1233", "45 P.3d 1107", "5 P.3d 1265", "51 P.3d 793", "513 P.2d 831", "56 Wn. App. 589", "563 P.2d 1307", "58 P.3d 292", "58 Wn. App. 588", "58 Wn.2d 111", "592 P.2d 631", "6 P.3d 91", "67 Wn.2d 948", "78 P.3d 1274", "784 P.2d 1284", "794 P.2d 526", "82 Wn.2d 736", "830 P.2d 646", "85 Wn. App. 15", "882 P.2d 169", "91 Wn.2d 704", "92 P.2d 221", "931 P.2d 163", "95 Wn. App. 358", "957 P.2d 755", "97 P.3d 745", "977 P.2d 591"]
+cites_cases: ["101 Wn. App. 954", "111 Wn. App. 527", "114 Wn. App. 409", "119 Wn.2d 251", "122 U.S. 611", "125 Wn.2d 113", "135 Wn.2d 518", "141 Wn.2d 431", "142 Wn. App. 175", "142 Wn.2d 766", "145 Wn.2d 674", "146 Wn.2d 194", "147 Wn.2d 78", "15 P.3d 640", "150 Wn.2d 478", "152 Wn.2d 387", "161 Wn.2d 353", "166 P.3d 667", "17 Wn. App. 464", "178 P.3d 1042", "199 Wash. 320", "361 P.2d 551", "41 P.3d 1175", "411 P.2d 157", "43 P.3d 1233", "45 P.3d 1107", "5 P.3d 1265", "51 P.3d 793", "513 P.2d 831", "56 Wn. App. 589", "563 P.2d 1307", "58 P.3d 292", "58 Wn. App. 588", "58 Wn.2d 111", "592 P.2d 631", "6 P.3d 91", "67 Wn.2d 948", "78 P.3d 1274", "784 P.2d 1284", "794 P.2d 526", "82 Wn.2d 736", "830 P.2d 646", "85 Wn. App. 15", "882 P.2d 169", "91 Wn.2d 704", "92 P.2d 221", "931 P.2d 163", "95 Wn. App. 358", "957 P.2d 755", "97 P.3d 745", "977 P.2d 591"]
 ---
 
 # Palmer v. Golden
