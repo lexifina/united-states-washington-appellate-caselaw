@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26131-0-III"
 decided: "2008-04-08"
-citations: ["144 Wash. App. 537", "143 Wash. App. 1057"]
+citations: ["144 Wash. App. 537"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Michelle Smith et al., Appellants, v. Sacred Heart Medical Center et 
 source_url: "https://static.case.law/wash-app/144/cases/0537-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737223
-cites_cases: ["100 Wn.2d 421", "105 Wn. App. 666", "112 Wn.2d 216", "113 Wn.2d 479", "116 Wn.2d 217", "131 Wn.2d 39", "134 Wn.2d 468", "135 Wn.2d 658", "144 Wn. App. 537", "145 Wn.2d 233", "145 Wn.2d 65", "148 Wn.2d 35", "19 P.3d 1068", "33 P.3d 68", "35 P.3d 1158", "4 Wn. App. 14", "481 P.2d 593", "59 P.3d 611", "671 P.2d 230", "71 Wn. App. 548", "73 Wn. App. 492", "75 Wn. App. 201", "770 P.2d 182", "780 P.2d 1307", "79 Wn. App. 660", "80 Wn. App. 862", "802 P.2d 1360", "860 P.2d 1054", "870 P.2d 981", "877 P.2d 220", "904 P.2d 784", "912 P.2d 1044", "929 P.2d 39", "929 P.2d 420", "951 P.2d 749", "958 P.2d 301", "98 Wn. App. 315", "988 P.2d 1023"]
+cites_cases: ["100 Wn.2d 421", "105 Wn. App. 666", "112 Wn.2d 216", "113 Wn.2d 479", "116 Wn.2d 217", "131 Wn.2d 39", "134 Wn.2d 468", "135 Wn.2d 658", "145 Wn.2d 233", "145 Wn.2d 65", "148 Wn.2d 35", "19 P.3d 1068", "33 P.3d 68", "35 P.3d 1158", "4 Wn. App. 14", "481 P.2d 593", "59 P.3d 611", "671 P.2d 230", "71 Wn. App. 548", "73 Wn. App. 492", "75 Wn. App. 201", "770 P.2d 182", "780 P.2d 1307", "79 Wn. App. 660", "80 Wn. App. 862", "802 P.2d 1360", "860 P.2d 1054", "870 P.2d 981", "877 P.2d 220", "904 P.2d 784", "912 P.2d 1044", "929 P.2d 39", "929 P.2d 420", "951 P.2d 749", "958 P.2d 301", "98 Wn. App. 315", "988 P.2d 1023"]
 ---
 
 # Smith v. Sacred Heart Medical Center
