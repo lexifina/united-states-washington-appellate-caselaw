@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26010-1-III"
 decided: "2008-04-24"
-citations: ["145 Wash. App. 268", "144 Wash. App. 1012"]
+citations: ["145 Wash. App. 268"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Tana Loy Smith, Appellant."]
 source_url: "https://static.case.law/wash-app/145/cases/0268-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737220
-cites_cases: ["101 P.3d 80", "121 Wn. App. 872", "134 Wn.2d 1", "137 Wn.2d 208", "14 Wn. App. 200", "141 Wn.2d 373", "145 Wn. App. 268", "153 Wn.2d 126", "367 U.S. 643", "392 U.S. 1", "442 U.S. 753", "444 U.S. 85", "452 U.S. 692", "5 P.3d 668", "500 U.S. 44", "502 P.2d 1043", "508 U.S. 366", "540 P.2d 444", "551 U.S. 249", "622 P.2d 1218", "654 P.2d 96", "7 Wn. App. 668", "75 Wn. App. 692", "879 P.2d 984", "89 Wn. App. 612", "90 P.3d 1088", "94 Wn. App. 573", "948 P.2d 1280", "949 P.2d 856", "95 Wn.2d 143", "970 P.2d 722", "976 P.2d 121", "98 Wn.2d 289"]
+cites_cases: ["101 P.3d 80", "121 Wn. App. 872", "134 Wn.2d 1", "137 Wn.2d 208", "14 Wn. App. 200", "141 Wn.2d 373", "153 Wn.2d 126", "367 U.S. 643", "392 U.S. 1", "442 U.S. 753", "444 U.S. 85", "452 U.S. 692", "5 P.3d 668", "500 U.S. 44", "502 P.2d 1043", "508 U.S. 366", "540 P.2d 444", "551 U.S. 249", "622 P.2d 1218", "654 P.2d 96", "7 Wn. App. 668", "75 Wn. App. 692", "879 P.2d 984", "89 Wn. App. 612", "90 P.3d 1088", "94 Wn. App. 573", "948 P.2d 1280", "949 P.2d 856", "95 Wn.2d 143", "970 P.2d 722", "976 P.2d 121", "98 Wn.2d 289"]
 ---
 
 # State v. Smith
