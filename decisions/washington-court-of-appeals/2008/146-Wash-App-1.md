@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25303-1-III"
 decided: "2008-04-29"
-citations: ["146 Wash. App. 1", "144 Wash. App. 1020"]
+citations: ["146 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Custody of B.J.B. et al. Daniel Barrett, Jr., et
 source_url: "https://static.case.law/wash-app/146/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3974630
-cites_cases: ["100 Wn. App. 208", "105 P.3d 991", "118 Wn. App. 71", "121 Wn.2d 795", "129 Wn.2d 1014", "136 P.3d 117", "136 Wn.2d 800", "137 Wn.2d 1", "146 Wn. App. 1", "146 Wn.2d 878", "149 Wn.2d 123", "153 Wn.2d 646", "157 Wn.2d 126", "165 Wn.2d 1037", "25 Wn. App. 849", "39 Wn. App. 493", "41 Wn. App. 531", "51 P.3d 776", "530 U.S. 57", "611 P.2d 794", "65 P.3d 664", "693 P.2d 1386", "705 P.2d 277", "74 P.3d 674", "78 Wn. App. 287", "80 Wn. App. 148", "854 P.2d 629", "897 P.2d 388", "906 P.2d 1009", "966 P.2d 1247", "969 P.2d 21", "997 P.2d 399"]
+cites_cases: ["100 Wn. App. 208", "105 P.3d 991", "118 Wn. App. 71", "121 Wn.2d 795", "129 Wn.2d 1014", "136 P.3d 117", "136 Wn.2d 800", "137 Wn.2d 1", "146 Wn.2d 878", "149 Wn.2d 123", "153 Wn.2d 646", "157 Wn.2d 126", "165 Wn.2d 1037", "25 Wn. App. 849", "39 Wn. App. 493", "41 Wn. App. 531", "51 P.3d 776", "530 U.S. 57", "611 P.2d 794", "65 P.3d 664", "693 P.2d 1386", "705 P.2d 277", "74 P.3d 674", "78 Wn. App. 287", "80 Wn. App. 148", "854 P.2d 629", "897 P.2d 388", "906 P.2d 1009", "966 P.2d 1247", "969 P.2d 21", "997 P.2d 399"]
 ---
 
 # Barrett v. Barrett
