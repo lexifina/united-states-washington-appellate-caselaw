@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59092-8-I"
 decided: "2008-05-05"
-citations: ["145 Wash. App. 278", "144 Wash. App. 1023"]
+citations: ["145 Wash. App. 278"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Claudia Maureen Treseler, Respondent
 source_url: "https://static.case.law/wash-app/145/cases/0278-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5739237
-cites_cases: ["114 P.3d 1182", "118 Wn. App. 297", "145 Wn. App. 278", "151 Wn.2d 900", "154 Wn.2d 530", "165 Wn.2d 1026", "504 F.3d 792", "61 Wn. App. 195", "615 P.2d 440", "640 P.2d 716", "75 P.3d 998", "810 P.2d 31", "93 P.3d 861", "94 Wn.2d 51", "97 Wn.2d 30"]
+cites_cases: ["114 P.3d 1182", "118 Wn. App. 297", "151 Wn.2d 900", "154 Wn.2d 530", "165 Wn.2d 1026", "504 F.3d 792", "61 Wn. App. 195", "615 P.2d 440", "640 P.2d 716", "75 P.3d 998", "810 P.2d 31", "93 P.3d 861", "94 Wn.2d 51", "97 Wn.2d 30"]
 ---
 
 # In re the Marriage of Treseler
