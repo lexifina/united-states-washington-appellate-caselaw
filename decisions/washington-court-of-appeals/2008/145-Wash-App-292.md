@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59283-1-I"
 decided: "2008-05-05"
-citations: ["145 Wash. App. 292", "144 Wash. App. 1023"]
+citations: ["145 Wash. App. 292"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Matthew Southwick, Appellant, v. Seattle Police Officer John Doe No. 
 source_url: "https://static.case.law/wash-app/145/cases/0292-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5736294
-cites_cases: ["109 Wn.2d 621", "110 Wn.2d 415", "119 Wn.2d 34", "125 Wn.2d 745", "135 Wn.2d 658", "136 Wn.2d 322", "138 P.3d 943", "140 Wn.2d 615", "145 Wn. App. 292", "157 Wn.2d 251", "162 Wn.2d 192", "169 F.3d 608", "170 P.3d 570", "42 U.S.C. § 1983", "42 Wn. App. 38", "48 Wn. App. 554", "481 U.S. 35", "487 U.S. 131", "708 P.2d 407", "72 Wn. App. 164", "739 P.2d 1188", "747 P.2d 1062", "755 P.2d 781", "76 Wn. App. 403", "830 P.2d 318", "864 P.2d 1075", "886 P.2d. 219", "888 P.2d 147", "889 F.2d 906", "90 Wn. App. 586", "953 P.2d 112", "958 P.2d 301", "962 P.2d 104", "999 P.2d 602"]
+cites_cases: ["109 Wn.2d 621", "110 Wn.2d 415", "119 Wn.2d 34", "125 Wn.2d 745", "135 Wn.2d 658", "136 Wn.2d 322", "138 P.3d 943", "140 Wn.2d 615", "157 Wn.2d 251", "162 Wn.2d 192", "169 F.3d 608", "170 P.3d 570", "42 U.S.C. § 1983", "42 Wn. App. 38", "48 Wn. App. 554", "481 U.S. 35", "487 U.S. 131", "708 P.2d 407", "72 Wn. App. 164", "739 P.2d 1188", "747 P.2d 1062", "755 P.2d 781", "76 Wn. App. 403", "830 P.2d 318", "864 P.2d 1075", "886 P.2d. 219", "888 P.2d 147", "889 F.2d 906", "90 Wn. App. 586", "953 P.2d 112", "958 P.2d 301", "962 P.2d 104", "999 P.2d 602"]
 ---
 
 # Southwick v. Seattle Police Officer John Doe No. 1
