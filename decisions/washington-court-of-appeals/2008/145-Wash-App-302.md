@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36268-6-II"
 decided: "2008-05-06"
-citations: ["145 Wash. App. 302", "144 Wash. App. 1028"]
+citations: ["145 Wash. App. 302"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Cindy J. Lewis, Respondent, v. Simpson Timber Company, Appellant."]
 source_url: "https://static.case.law/wash-app/145/cases/0302-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5737535
-cites_cases: ["105 P.3d 378", "105 P.3d 411", "105 Wn.2d 99", "107 Wn. App. 289", "109 Wn.2d 467", "114 P.3d 607", "115 P.3d 1031", "125 Wn. App. 50", "128 Wn. App. 351", "132 P.3d 115", "132 Wn. App. 827", "133 Wn. App. 176", "134 P.3d 254", "134 Wn.2d 24", "135 Wn.2d 1", "137 P.3d 20", "138 Wn.2d 1", "141 P.3d 1", "141 Wn.2d 169", "145 Wn. App. 302", "146 Wn.2d 237", "147 P.3d 1201", "147 Wn.2d 702", "147 Wn.2d 78", "149 Wn.2d 521", "149 Wn.2d 647", "15 Wn. App. 223", "152 Wn.2d 85", "153 P. 1074", "153 Wn.2d 447", "154 Wn.2d 400", "156 Wn.2d 677", "157 Wn.2d 569", "158 Wn.2d 759", "159 Wn.2d 1006", "159 Wn.2d 1014", "202 P.2d 448", "275 P.2d 426", "278 P.2d 319", "28 P.3d 1", "28 Wn. App. 501", "293 F. 1013", "32 Wn.2d 472", "36 Wn. App. 598", "4 P.3d 123", "401 P.2d 982", "406 P.2d 603", "44 P.3d 845", "45 Wn.2d 413", "45 Wn.2d 797", "51 P.3d 793", "515 P2d 840", "548 P.2d 558", "57 P.3d 248", "57 Wn. App. 242", "578 P.2d 525", "625 P.2d 703", "66 Wn. App. 644", "66 Wn.2d 263", "67 Wn.2d 71", "676 P.2d 538", "69 Wn. App. 735", "70 P.3d 126", "71 P.3d 638", "713 P.2d 79", "745 P.2d 1295", "77 Wn. App. 909", "78 Wn. App. 554", "787 P2d 963", "81 Wn. App. 123", "833 P.2d 390", "85 Wn. App. 7", "850 P.2d 559", "88 Wash. 694", "895 P.2d 16", "897 P.2d 431", "9 Wn. App. 891", "90 Wn.2d 39", "913 P.2d 402", "93 P.3d 158", "931 P.2d 907", "948 P.2d 816", "954 P.2d 877", "977 P.2d 570"]
+cites_cases: ["105 P.3d 378", "105 P.3d 411", "105 Wn.2d 99", "107 Wn. App. 289", "109 Wn.2d 467", "114 P.3d 607", "115 P.3d 1031", "125 Wn. App. 50", "128 Wn. App. 351", "132 P.3d 115", "132 Wn. App. 827", "133 Wn. App. 176", "134 P.3d 254", "134 Wn.2d 24", "135 Wn.2d 1", "137 P.3d 20", "138 Wn.2d 1", "141 P.3d 1", "141 Wn.2d 169", "146 Wn.2d 237", "147 P.3d 1201", "147 Wn.2d 702", "147 Wn.2d 78", "149 Wn.2d 521", "149 Wn.2d 647", "15 Wn. App. 223", "152 Wn.2d 85", "153 P. 1074", "153 Wn.2d 447", "154 Wn.2d 400", "156 Wn.2d 677", "157 Wn.2d 569", "158 Wn.2d 759", "159 Wn.2d 1006", "159 Wn.2d 1014", "202 P.2d 448", "275 P.2d 426", "278 P.2d 319", "28 P.3d 1", "28 Wn. App. 501", "293 F. 1013", "32 Wn.2d 472", "36 Wn. App. 598", "4 P.3d 123", "401 P.2d 982", "406 P.2d 603", "44 P.3d 845", "45 Wn.2d 413", "45 Wn.2d 797", "51 P.3d 793", "515 P2d 840", "548 P.2d 558", "57 P.3d 248", "57 Wn. App. 242", "578 P.2d 525", "625 P.2d 703", "66 Wn. App. 644", "66 Wn.2d 263", "67 Wn.2d 71", "676 P.2d 538", "69 Wn. App. 735", "70 P.3d 126", "71 P.3d 638", "713 P.2d 79", "745 P.2d 1295", "77 Wn. App. 909", "78 Wn. App. 554", "787 P2d 963", "81 Wn. App. 123", "833 P.2d 390", "85 Wn. App. 7", "850 P.2d 559", "88 Wash. 694", "895 P.2d 16", "897 P.2d 431", "9 Wn. App. 891", "90 Wn.2d 39", "913 P.2d 402", "93 P.3d 158", "931 P.2d 907", "948 P.2d 816", "954 P.2d 877", "977 P.2d 570"]
 ---
 
 # Lewis v. Simpson Timber Co.
