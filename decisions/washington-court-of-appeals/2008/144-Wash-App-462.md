@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "26076-3-III; 26214-6-III"
+decided: "2008-05-06"
+citations: ["144 Wash. App. 462"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Sweeney and Korsmo, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Dennis Lee et al., Appellants."]
+source_url: "https://static.case.law/wash-app/144/cases/0462-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5738287
+cites_cases: ["135 Wn.2d 658", "146 P.3d 914", "158 Wn.2d 603", "161 Wn.2d 189", "165 P.3d 4", "165 Wn.2d 1017", "958 P.2d 301"]
+---
+
+# State v. Lee
+
+## Majority (Brown, J.)
+
+Brown, J.
+¶1 Dennis Lee, pro se, appeals (1) the trial court’s 2007 summary order deciding he had violated a 2002 consumer protection decree and (2) the court’s order enforcing its 2002 injunction against him. We reject Mr. Lee’s contentions in these consolidated appeals that the trial court erred (1) when granting summary judgment because his conduct did not violate the 2002 injunction, (2) by improperly considering a declaration from the 2002 proceedings, (3) in failing to consider Mr. Lee’s motions, and (4) in enjoining unrelated individuals and entities. Accordingly, we affirm.
+FACTS
+¶2 In 2000, Mr. Lee began promoting his Hummingbird Motor and Sundance Generator as energy-efficient products that he claimed generated more energy than they consumed. In 2002, the State filed a Consumer Protection Act, chapter 19.86 RCW, violation complaint against Mr. Lee, d/b/a United Community Services of America (UCSA), individually and on behalf of his marital community with Alison David, for falsely and deceptively promoting the products. The State successfully requested summary judgment, relying partly on the declaration of Dr. Robert Park, a physics professor and expert in thermodynamics, who opined that Mr. Lee’s machines violated at least two foundational laws of thermodynamics.
+¶3 The 2002 trial court entered a judgment and decree ordering Mr. Lee to pay $64,082.78 and permanently enjoining him and his “assigns, successors, agents, representatives, transferees, servants, subsidiaries, affiliates, employees, and all other persons acting or claiming to act for, on behalf of, or in concert or active participation [ ] with [Mr. Lee]” from “[m]aking scientific claims about the performance of products ... without first having at least two prior independent, peer reviewed, scientific tests” and “[s]elling products, services, or business opportunities to residents of the State of Washington . . . until all of the monetary provisions of this Judgment and Decree . . . have been satisfied.” Clerk’s Papers (CP) at 22-23. In 2004, the parties stipulated to lower the monetary obligation to $25,000, with $500 monthly installments guaranteed by UCSA. The stipulation states all other provisions of the 2002 judgment and decree “shall remain in full force and effect.” CP at 2. Payments were incomplete in February 2006.
+¶4 On February 7, 2006, Mr. Lee gave a presentation in Seattle. He introduced himself as a spokesman for Better World Alternative (BWA), a multilevel marketing company. Mr. Lee discussed potential business opportunities with BWA and introduced his Hummingbird Motor and Sun-dance Generator as “potential future product[s].” CP at 145. Mr. Lee presented several unproven BWA products and a video about his company, Business World Technologies.
+¶5 Ón February 10, the State petitioned to enforce the 2002 judgment and decree. Mr. Lee filed motions for an order to set the correct date for his response due date and for mediation without noting them for hearing. Mr. Lee requested a continuance of the summary judgment hearing but withdrew it just before the hearing.
+¶6 The State first successfully requested summary judgment. Then, by a separate order to enforce the 2002 judgment and decree, the State received permanent injunctions restraining Mr. Lee and those persons he acted on behalf of, or in concert with, from committing the earlier enjoined acts. The court noted it considered the documents reviewed by the court in the previous summary judgment, including Dr. Park’s declaration. Mr. Lee unsuccessfully requested reconsideration. He appealed.
+ANALYSIS
+A. Summary Judgment
+¶7 The issue is whether the trial court erred in summarily concluding that Mr. Lee violated the 2002 judgment and decree by improperly considering the 2004 stipulation and failing to recognize that the products he presented were just research projects.
+¶8 We review summary judgment de novo, taking all facts in a light most favorable to the nonmoving party. Herring v. Texaco, Inc., 161 Wn.2d 189, 194, 165 P.3d 4 (2007). Summary judgment is proper if “the pleadings, depositions, answers to interrogatories, and admissions on file, together with the affidavits, if any, show that there is no genuine issue as to any material fact and that the moving party is entitled to a judgment as a matter of law.” CR 56(c). Summary judgment is proper if “reasonable minds could reach only one conclusion from the evidence presented.” Ballard Square Condo. Owners Ass’n v. Dynasty Constr. Co., 158 Wn.2d 603, 609, 146 P.3d 914 (2006).
+¶9 Mr. Lee was prohibited in 2002 from “ [m] aking scientific claims about the performance of products . . . without first having at least two prior independent, peer reviewed, scientific tests” and “[s]elling products, services, or business opportunities to residents of the State of Washington . . . until all of the monetary provisions of this Judgment and Decree . . . have been satisfied.” CP at 22-23. The 2004 stipulation reduced Mr. Lee’s obligation to $25,000 and set $500 monthly payments guaranteed by UCSA, but it did not affect the other 2002 prohibitions. On February 7, 2006, before Mr. Lee satisfied the judgment, he introduced himself in Seattle as a spokesman for a multilevel marketing company and discussed business opportunities with BWA for its unproven products. Further, Mr. Lee discussed his Hummingbird Motor and Sundance Generator as potential future products to encourage audience participation.
+¶10 Reasonable minds could reach but one conclusion; Mr. Lee’s 2006 presentation violated the 2002 injunction. The trial court did not err in granting summary judgment.
+B. Dr. Park’s Declaration
+¶11 The next issue is whether the trial court erred in considering Dr. Park’s 2002 declaration. We review de novo a trial court’s decision on the admissibility of evidence in a summary judgment proceeding. Folsom v. Burger King, 135 Wn.2d 658, 663, 958 P.2d 301 (1998).
+¶12 ER 702 provides that expert witness testimony is admissible if the witness qualifies as an expert and has “specialized knowledge [to] assist the trier of fact to understand the evidence or to determine a fact in issue.” Here, Dr. Park is a physics professor. He has in-depth knowledge of thermodynamics and belongs to several professional science organizations. He opined that Mr. Lee’s machines violated at least two foundational laws of thermodynamics. Mr. Lee referenced these machines at the 2006 presentation in Seattle. Because Dr. Park is an expert in the area in question and because his declaration helped the court in determining whether Mr. Lee’s 2006 presentation violated the 2002 judgment and decree, the court properly considered his declaration. The court did not abuse its discretion in noting the earlier declaration.
+C. Mr. Lee’s Motions
+¶13 Mr. Lee contends the trial court ignored his motions for an order to set the due date for his summary judgment response, for mediation, for a continuance for the summary judgment hearing, and for reconsideration. He is mistaken.
+¶14 Judgment enforcement and summary judgment proceedings are civil matters. Under CR 7(b), “[a]n application to the court for an order shall be by motion which, unless made during a hearing or trial, shall be made in writing, shall state with particularity the grounds therefor, and shall set forth the relief or order sought.” The party then provides “written notice of the hearing of the motion.” Id. Notice of the hearing must be provided within 5 days of the hearing. CR 6(d).
+¶15 Mr. Lee did not note for hearing his motion to set the due date for his summary judgment response or his motion for mediation. Mr. Lee withdrew his motion for a continuance on the day of the summary judgment hearing, and the court properly withheld ruling on his motion for reconsideration until after entry of the summary judgment order. The court entered an order in September 2007 at the State’s request. Given this record, the trial court did not ignore Mr. Lee’s motions.
+D. Injunctive Relief
+¶16 The issue is whether the trial court erred in including individuals and entities other than Mr. Lee in the 2007 order enforcing the 2002 judgment and decree.
+Reconsideration denied July 1, 2008.
+¶17 The 2002 judgment and decree enjoined Mr. Lee and his “assigns, successors, agents, representatives, transferees, servants, subsidiaries, affiliates, employees, and all other persons acting or claiming to act for, on behalf of, or in concert or active participations with [Mr. Lee]” from making unproven scientific claims about products and selling these unproven products. CP at 22. The trial court by letter opinion found the State was entitled to a permanent injunction as requested and then in its order stated, “All terms and conditions of the [2002 judgment and decree] are reinstated.” CP at 296.
+¶18 CR 65(d) specifically permits an injunction to be issued against the parties to an action and “their officers, agents, servants, employees, and attorneys, and upon those persons in active concert or participation with them.” Based on this language, the court’s 2002 injunction and the consistent 2007 injunction are proper.
+¶19 Because no genuine issues of material fact remain, the trial court properly granted the State’s motion for summary judgment.
+¶20 Affirmed.
+Sweeney and Korsmo, JJ., concur.
+Review denied at 165 Wn.2d 1017 (2009).
