@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25909-9-III"
 decided: "2008-05-20"
-citations: ["146 Wash. App. 16", "144 Wash. App. 1041"]
+citations: ["146 Wash. App. 16"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Dave Woody, Appellant, v. Darby Stapp et al., Respondents."]
 source_url: "https://static.case.law/wash-app/146/cases/0016-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3972959
-cites_cases: ["100 Wn. App. 732", "105 Wn.2d 653", "108 P.3d 768", "112 Wn.2d 193", "131 Wn.2d 133", "143 Wn.2d 349", "143 Wn.2d 687", "146 Wn. App. 16", "146 Wn.2d 699", "153 Wn.2d 812", "20 P.3d 921", "24 P.3d 390", "477 U.S. 242", "50 P.3d 602", "52 Wn. App. 334", "536 U.S. 273", "61 Wn. App. 280", "61 Wn. App. 615", "63 Wn. App. 917", "635 P.2d 1081", "717 P.2d 1371", "74 Wn. App. 733", "760 P.2d 368", "770 P.2d 1027", "810 P.2d 518", "811 P.2d 697", "826 P.2d 214", "84 Wn. App. 332", "875 P.2d 697", "929 P.2d 448", "930 P.2d 288", "96 Wn.2d 473", "98 Wn. App. 739", "992 P.2d 517", "998 P.2d 367"]
+cites_cases: ["100 Wn. App. 732", "105 Wn.2d 653", "108 P.3d 768", "112 Wn.2d 193", "131 Wn.2d 133", "143 Wn.2d 349", "143 Wn.2d 687", "146 Wn.2d 699", "153 Wn.2d 812", "20 P.3d 921", "24 P.3d 390", "477 U.S. 242", "50 P.3d 602", "52 Wn. App. 334", "536 U.S. 273", "61 Wn. App. 280", "61 Wn. App. 615", "63 Wn. App. 917", "635 P.2d 1081", "717 P.2d 1371", "74 Wn. App. 733", "760 P.2d 368", "770 P.2d 1027", "810 P.2d 518", "811 P.2d 697", "826 P.2d 214", "84 Wn. App. 332", "875 P.2d 697", "929 P.2d 448", "930 P.2d 288", "96 Wn.2d 473", "98 Wn. App. 739", "992 P.2d 517", "998 P.2d 367"]
 ---
 
 # Woody v. Stapp
