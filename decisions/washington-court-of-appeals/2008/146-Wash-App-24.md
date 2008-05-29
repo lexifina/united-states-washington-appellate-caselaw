@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26338-0-III; 26339-8-III"
 decided: "2008-05-29"
-citations: ["146 Wash. App. 24", "144 Wash. App. 1045"]
+citations: ["146 Wash. App. 24"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Thomas Melvin Crook, Appellan
 source_url: "https://static.case.law/wash-app/146/cases/0024-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3974660
-cites_cases: ["118 Wn.2d 911", "131 Wn.2d 230", "132 P.3d 767", "132 Wn. App. 454", "146 Wn. App. 24", "159 Wn.2d 1002", "165 Wn.2d 1044", "62 Wn. App. 676", "785 F.2d 378", "814 P.2d 1252", "829 P.2d 166", "930 P.2d 1213", "98 Wn. App. 342", "989 P.2d 583"]
+cites_cases: ["118 Wn.2d 911", "131 Wn.2d 230", "132 P.3d 767", "132 Wn. App. 454", "159 Wn.2d 1002", "165 Wn.2d 1044", "62 Wn. App. 676", "785 F.2d 378", "814 P.2d 1252", "829 P.2d 166", "930 P.2d 1213", "98 Wn. App. 342", "989 P.2d 583"]
 ---
 
 # State v. Crook
