@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59619-5-I"
 decided: "2008-06-02"
-citations: ["146 Wash. App. 28", "144 Wash. App. 1047"]
+citations: ["146 Wash. App. 28"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Dennis Erik Law. The State of Washi
 source_url: "https://static.case.law/wash-app/146/cases/0028-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3976534
-cites_cases: ["100 Wn.2d 832", "105 P.3d 400", "107 Wn. App. 68", "110 Wn.2d 504", "110 Wn.2d 682", "111 Wn. App. 401", "114 Wn.2d 613", "116 Wn.2d 51", "122 Wn.2d 1", "123 Wn.2d 234", "125 Wn. App. 511", "125 Wn.2d 570", "127 Wn.2d 1018", "127 Wn.2d 322", "129 Wn.2d 279", "130 Wn.2d 640", "133 Wn.2d 1015", "133 Wn.2d 1019", "135 Wn.2d 326", "137 Wn.2d 378", "137 Wn.2d 792", "140 Wn.2d 686", "146 Wn. App. 28", "148 Wn.2d 1009", "150 P.3d 59", "150 P.3d 86", "150 Wn.2d 626", "159 Wn.2d 311", "159 Wn.2d 357", "165 Wn.2d 1028", "2 P.3d 473", "24 Wn. App. 562", "26 P.3d 290", "297 U.S. 278", "324 U.S. 401", "351 P.2d 153", "384 U.S. 436", "424 U.S. 319", "45 P.3d 209", "475 U.S. 673", "478 U.S. 364", "498 U.S. 1046", "516 U.S. 843", "528 U.S. 922", "530 U.S. 428", "56 Wn.2d 23", "59 Wn. App. 418", "603 P.2d 835", "676 P.2d 444", "755 P.2d 174", "757 P.2d 492", "77 Wn. App. 882", "790 P.2d 610", "798 P.2d 314", "80 L. Ed. 2d 682", "804 P.2d 577", "81 P.3d 830", "84 Wn. App. 88", "857 P.2d 989", "86 Wn. App. 312", "867 P.2d 626", "888 P.2d 1105", "894 P.2d 1331", "899 P.2d 1251", "916 P.2d 405", "927 P.2d 210", "929 P.2d 436", "936 P.2d 426", "957 P.2d 655", "972 P.2d 1250", "975 P.2d 967", "98 Wn. App. 52", "989 P2d 93"]
+cites_cases: ["100 Wn.2d 832", "105 P.3d 400", "107 Wn. App. 68", "110 Wn.2d 504", "110 Wn.2d 682", "111 Wn. App. 401", "114 Wn.2d 613", "116 Wn.2d 51", "122 Wn.2d 1", "123 Wn.2d 234", "125 Wn. App. 511", "125 Wn.2d 570", "127 Wn.2d 1018", "127 Wn.2d 322", "129 Wn.2d 279", "130 Wn.2d 640", "133 Wn.2d 1015", "133 Wn.2d 1019", "135 Wn.2d 326", "137 Wn.2d 378", "137 Wn.2d 792", "140 Wn.2d 686", "148 Wn.2d 1009", "150 P.3d 59", "150 P.3d 86", "150 Wn.2d 626", "159 Wn.2d 311", "159 Wn.2d 357", "165 Wn.2d 1028", "2 P.3d 473", "24 Wn. App. 562", "26 P.3d 290", "297 U.S. 278", "324 U.S. 401", "351 P.2d 153", "384 U.S. 436", "424 U.S. 319", "45 P.3d 209", "475 U.S. 673", "478 U.S. 364", "498 U.S. 1046", "516 U.S. 843", "528 U.S. 922", "530 U.S. 428", "56 Wn.2d 23", "59 Wn. App. 418", "603 P.2d 835", "676 P.2d 444", "755 P.2d 174", "757 P.2d 492", "77 Wn. App. 882", "790 P.2d 610", "798 P.2d 314", "80 L. Ed. 2d 682", "804 P.2d 577", "81 P.3d 830", "84 Wn. App. 88", "857 P.2d 989", "86 Wn. App. 312", "867 P.2d 626", "888 P.2d 1105", "894 P.2d 1331", "899 P.2d 1251", "916 P.2d 405", "927 P.2d 210", "929 P.2d 436", "936 P.2d 426", "957 P.2d 655", "972 P.2d 1250", "975 P.2d 967", "98 Wn. App. 52", "989 P2d 93"]
 ---
 
 # State v. Law
