@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36211-2-II"
 decided: "2008-06-03"
-citations: ["146 Wash. App. 54", "144 Wash. App. 1051"]
+citations: ["146 Wash. App. 54"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Nancy N. Waples et al., Appellants, v. Peter H. Yi et al., Respondent
 source_url: "https://static.case.law/wash-app/146/cases/0054-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3978038
-cites_cases: ["105 Wn. App. 409", "107 Wn.2d 754", "112 P.3d 552", "113 Wn.2d 929", "120 P.3d 56", "127 Wn. App. 687", "128 Wn.2d 56", "128 Wn.2d 618", "129 Wn.2d 736", "141 Wn.2d 201", "144 P.3d 301", "146 Wn. App. 54", "155 Wn.2d 397", "158 Wn.2d 375", "162 Wn.2d 284", "165 Wn.2d 1031", "174 P.3d 1142", "19 P.3d 1119", "5 P.3d 691", "539 P.2d 845", "585 P.2d 1191", "733 P.2d 539", "785 P.2d 431", "85 Wn. App. 822", "85 Wn.2d 810", "90 Wn.2d 818", "904 P.2d 722", "911 P.2d 1319", "921 P.2d 514", "93 Wn. App. 762", "935 P.2d 637", "970 P.2d 774", "99 Wn. App. 414", "994 P.2d 262"]
+cites_cases: ["105 Wn. App. 409", "107 Wn.2d 754", "112 P.3d 552", "113 Wn.2d 929", "120 P.3d 56", "127 Wn. App. 687", "128 Wn.2d 56", "128 Wn.2d 618", "129 Wn.2d 736", "141 Wn.2d 201", "144 P.3d 301", "155 Wn.2d 397", "158 Wn.2d 375", "162 Wn.2d 284", "165 Wn.2d 1031", "174 P.3d 1142", "19 P.3d 1119", "5 P.3d 691", "539 P.2d 845", "585 P.2d 1191", "733 P.2d 539", "785 P.2d 431", "85 Wn. App. 822", "85 Wn.2d 810", "90 Wn.2d 818", "904 P.2d 722", "911 P.2d 1319", "921 P.2d 514", "93 Wn. App. 762", "935 P.2d 637", "970 P.2d 774", "99 Wn. App. 414", "994 P.2d 262"]
 ---
 
 # Waples v. Yi
