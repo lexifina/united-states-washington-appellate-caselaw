@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26442-4-III"
 decided: "2008-06-19"
-citations: ["146 Wash. App. 62", "145 Wash. App. 1018"]
+citations: ["146 Wash. App. 62"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Charles Weber et al., Appellants, v. Associated Surgeons, PS, Respond
 source_url: "https://static.case.law/wash-app/146/cases/0062-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3976230
-cites_cases: ["109 P.3d 489", "114 Wn.2d 817", "116 Wn.2d 923", "118 Wn.2d 801", "126 Wn. App. 752", "127 Wn.2d 726", "146 Wn. App. 62", "25 Wn. App. 214", "28 Wn. App. 319", "503 P.2d 1110", "607 P.2d 316", "621 P.2d 716", "623 P.2d 702", "690 S.W.2d 30", "74 Wn. App. 781", "792 P.2d 500", "8 Wn. App. 36", "809 P.2d 1377", "82 Wn. App. 1", "828 P.2d 549", "875 P.2d 647", "903 P.2d 455", "917 P.2d 131", "93 Wn. App. 606", "94 Wn.2d 889", "969 P.2d 1093"]
+cites_cases: ["109 P.3d 489", "114 Wn.2d 817", "116 Wn.2d 923", "118 Wn.2d 801", "126 Wn. App. 752", "127 Wn.2d 726", "25 Wn. App. 214", "28 Wn. App. 319", "503 P.2d 1110", "607 P.2d 316", "621 P.2d 716", "623 P.2d 702", "690 S.W.2d 30", "74 Wn. App. 781", "792 P.2d 500", "8 Wn. App. 36", "809 P.2d 1377", "82 Wn. App. 1", "828 P.2d 549", "875 P.2d 647", "903 P.2d 455", "917 P.2d 131", "93 Wn. App. 606", "94 Wn.2d 889", "969 P.2d 1093"]
 ---
 
 # Weber v. Associated Surgeons, PS
