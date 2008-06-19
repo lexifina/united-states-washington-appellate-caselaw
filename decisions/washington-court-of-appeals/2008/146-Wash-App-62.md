@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "26442-4-III"
+decided: "2008-06-19"
+citations: ["146 Wash. App. 62", "145 Wash. App. 1018"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Schultheis, C.J., and Korsmo, J., concur."]
+parties: ["Charles Weber et al., Appellants, v. Associated Surgeons, PS, Respondent."]
+source_url: "https://static.case.law/wash-app/146/cases/0062-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3976230
+cites_cases: ["109 P.3d 489", "114 Wn.2d 817", "116 Wn.2d 923", "118 Wn.2d 801", "126 Wn. App. 752", "127 Wn.2d 726", "146 Wn. App. 62", "25 Wn. App. 214", "28 Wn. App. 319", "503 P.2d 1110", "607 P.2d 316", "621 P.2d 716", "623 P.2d 702", "690 S.W.2d 30", "74 Wn. App. 781", "792 P.2d 500", "8 Wn. App. 36", "809 P.2d 1377", "82 Wn. App. 1", "828 P.2d 549", "875 P.2d 647", "903 P.2d 455", "917 P.2d 131", "93 Wn. App. 606", "94 Wn.2d 889", "969 P.2d 1093"]
+---
+
+# Weber v. Associated Surgeons, PS
+
+## Majority (Sweeney, J.)
+
+Sweeney, J.
+¶1 A plaintiff may serve a defendant corporation by delivering a summons and complaint to the corporation’s registered agent or the registered agent’s secretary or office assistant. The defendant corporation here was registered but no longer active. The plaintiffs served a “practice manager” of a nonparty corporation where the defendant corporation’s registered agent now worked. We conclude that this did not satisfy the statutory requirements. And we therefore affirm the trial court’s dismissal of the case.
+FACTS
+¶2 Charles Weber suffered leg injuries on November 29, 2002. Michael Moore, MD, treated him that day. Dr. Moore worked for Associated Surgeons, PS. Dr. Gregory Luna was Associated Surgeons’ registered agent. The corporation’s registered address was 105 West 8th Avenue, Suite 7060, Spokane, Washington.
+¶3 Associated Surgeons stopped doing business in 2004. The shareholders liquidated the assets of the corporation during 2005 and 2006. But Associated Surgeons remained a registered corporation as of February 2007.
+¶4 Dr. Moore began working for Surgical Specialists of Spokane, PS, in 2005. Surgical Specialists and Associated Surgeons are not affiliated. In 2007, Dr. Luna worked for Inland Vascular Institute, a division of Inland Imaging Associates, PS. He was 1 of 16 health care providers working for Inland Vascular. Inland Vascular is located at 122 West 7th Avenue, Suite 420, Spokane, Washington.
+¶5 Charles and Brenda Weber sued Associated Surgeons and Surgical Specialists on November 29, 2006, for malpractice. The Webers’ mediation request tolled the statute of limitations for one year. RCW 7.70.110. The Webers agreed to dismiss Surgical Specialists from the action.
+¶6 A process server attempted to serve process on Associated Surgeons by delivering a summons and complaint to Carol Braaten at Inland Vascular’s Seventh Avenue address on February 12, 2007. Ms. Braaten managed Inland Vascular. She was not authorized to accept service on Inland Vascular’s behalf. And she never worked for Associated Surgeons.
+¶7 Associated Surgeons moved to dismiss the suit because the Webers failed to properly serve it. The trial court granted the motion.
+¶8 The Webers moved for reconsideration. They argued that service was improper only because Dr. Luna no longer worked at Associated Surgeons’ registered address. Instead, he worked at a different location: 122 West 7th Avenue, Suite 420. And he worked for a different corporation: Inland Vascular. The court denied the Webers’ motion.
+DISCUSSION
+Order Denying Reconsideration
+¶9 The Webers do not dispute the court’s decision to deny their motion for reconsideration. Failure to provide argument or authority in support of an assignment of error precludes review. See RAP 10.3(a)(6); Cowiche Canyon Conservancy v. Bosley, 118 Wn.2d 801, 809, 828 P.2d 549 (1992). Our review is then limited to the order granting summary dismissal.
+Order Granting Summary Judgment
+¶10 We review de novo a trial court’s dismissal of an action for insufficient service of process. See Witt v. Port of Olympia, 126 Wn. App. 752, 757, 109 P.3d 489 (2005).
+¶11 The Webers argue that their process server served a person authorized to accept service for Dr. Luna, Associated Surgeons’ registered agent. The Webers also argue that they substantially complied with the statutory requirements for service of process on corporations because Dr. Luna actually received the copy of the summons and complaint.
+¶12 The failure to properly serve a defendant prevents the court from obtaining jurisdiction over the defendant. Crystal, China & Gold, Ltd. v. Factoria Ctr. Invs., Inc., 93 Wn. App. 606, 608-09, 969 P.2d 1093 (1999) (citing Scott v. Goldman, 82 Wn. App. 1, 6, 917 P.2d 131 (1996)). “‘[B]eyond due process [requirements], statutory service requirements must be complied with in order for the court to finally adjudicate the dispute between the parties.’ ” Weiss v. Glemp, 127 Wn.2d 726, 734, 903 P.2d 455 (1995) (alterations in original) (quoting Thayer v. Edmonds, 8 Wn. App. 36, 40, 503 P.2d 1110 (1972)). In other words, notice without proper service is not enough to confer jurisdiction. In re Marriage of Logg, 74 Wn. App. 781, 784, 875 P.2d 647 (1994).
+113 A plaintiff must make a prima facie showing of proper service to avoid dismissal. Witt, 126 Wn. App. at 757. The plaintiff may do so by producing a declaration of service that shows proper service on its face. Id. Once the plaintiff satisfies this burden, the burden shifts to the defendant to show that service was improper. Id.
+¶14 Here, the Webers produced a declaration of service. It showed that they served Associated Surgeons by delivering a summons and complaint “into the hands of and leaving same with CAROL BRAATEN, PRACTICE MANAGER.” Clerk’s Papers at 10. They contend that this constituted proper service by delivering a summons and complaint to someone who held a position similar to a registered agent’s secretary or office assistant.
+¶15 RCW 4.28.080(9) controls. And we follow the plain language of the statute. Nearing v. Golden State Foods Corp., 114 Wn.2d 817, 822, 792 P.2d 500 (1990). A plaintiff properly serves a corporation by delivering a copy of the summons and complaint to “the registered agent. . . thereof or to the secretary ... or office assistant of the . . . registered agent.” RCW 4.28.080(9). Personal service then must be made upon the “registered agent” of the defendant corporation or the registered agent’s “secretary” or “office assistant.” See 1987 Final Legislative Report, 50th Wash. Leg., H.B. 1199, at 173 (“Personal service must be made on the person designated by statute.”); see also Witt, 126 Wn. App. at 758.
+¶16 Dr. Luna was the registered agent for the defendant, Associated Surgeons. He was also a physician for Inland Vascular. Associated Surgeons is not affiliated with Inland Vascular in any way. Ms. Braaten never worked for Associated Surgeons. She worked for Inland Vascular. Nor did she work directly for Dr. Luna. She was not his secretary or office assistant. Ms. Braaten was not, then, qualified to accept service on behalf of Associated Surgeons. RCW 4.28.080(9).
+Substantial Compliance
+¶17 Mr. and Ms. Weber argue nonetheless that they substantially complied with the service statute because Dr. Luna received the summons and complaint and Associated Surgeons neglected to update its registered address. They urge us to follow Houston’s Wild West, Inc. v. Salinas, 690 S.W.2d 30 (Tex. App. 1985). We decline the invitation. The facts and issue in this Texas case are unlike the facts and issue presented here. In Houston’s Wild West, the issue was whether service on the secretary of state constituted proper substituted service upon the defendant. Id. at 31. Here, the Webers did not serve the secretary of state. And moreover, there is ample Washington authority on this point to resolve the issue here.
+¶18 “Substantial compliance” is “ ‘actual compliance in respect to the substance essential to every reasonable objective of [a] statute.’ ” City of Seattle v. Pub. Employment Relations Comm’n, 116 Wn.2d 923, 928, 809 P.2d 1377 (1991) (alteration in original) (quoting In re Habeas Corpus of Santore, 28 Wn. App. 319, 327, 623 P.2d 702 (1981)). Service can be actual and yet procedurally flawed. Id. For example, there was substantial compliance where a petition was delivered to the Department of Labor and Industries instead of the department’s “director” because the director would eventually receive the petition like the statute requires. In re Saltis, 25 Wn. App. 214, 218-19, 607 P.2d 316, aff’d, 94 Wn.2d 889, 621 P.2d 716 (1980).
+¶19 Similar to the process server in Saltis, the process server here did not deliver the summons and complaint to Associated Surgeons’ registered agent. Unlike the server in Saltis, however, the server here did not even deliver the documents to Associated Surgeons. The server served the documents on Inland Vascular, a nonparty. Associated Surgeons could not then reasonably expect to eventually receive notice. Service on Inland Vascular was not reasonably calculated to reach Associated Surgeons. See id. at 219.
+¶20 We also reject the Webers’ argument that they complied with the purpose of the service statute because Dr. Luna, Associated Surgeons’ registered agent, ultimately had actual notice of the lawsuit. Again, “there is a difference between constitutionally adequate service and service required by the statute.” Weiss, 127 Wn.2d at 734. Statutory service requirements may add to the constitutional requirements. See Crystal, 93 Wn. App. at 609. Here, the Webers did not serve the summons and complaint on Associated Surgeons as required by Washington law.
+¶21 The trial court properly granted Associated Surgeons’ motion.
+¶22 We affirm.
+Schultheis, C.J., and Korsmo, J., concur.
