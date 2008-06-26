@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26460-2-III"
 decided: "2008-06-26"
-citations: ["146 Wash. App. 69", "145 Wash. App. 1026"]
+citations: ["146 Wash. App. 69"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Saddle Mountain Minerals, LLC, et al., Appellants, v. Santiago Homes,
 source_url: "https://static.case.law/wash-app/146/cases/0069-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3975964
-cites_cases: ["116 Wn. App. 198", "14 Wn. App. 882", "146 Wn. App. 69", "152 Wn.2d 242", "165 Wn.2d 1033", "545 P.2d 1219", "65 P.3d 366", "95 P.3d 1236"]
+cites_cases: ["116 Wn. App. 198", "14 Wn. App. 882", "152 Wn.2d 242", "165 Wn.2d 1033", "545 P.2d 1219", "65 P.3d 366", "95 P.3d 1236"]
 ---
 
 # Saddle Mountain Minerals, LLC v. Santiago Homes, Inc.
