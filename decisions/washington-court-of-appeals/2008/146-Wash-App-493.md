@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26038-1-III"
 decided: "2008-06-26"
-citations: ["146 Wash. App. 493", "145 Wash. App. 1025"]
+citations: ["146 Wash. App. 493"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Stevens County, Appellant, v. Futurewise, Respondent."]
 source_url: "https://static.case.law/wash-app/146/cases/0493-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3975704
-cites_cases: ["100 Wn.2d 660", "107 Wn.2d 196", "108 Wn. App. 429", "108 Wn.2d 299", "117 P.3d 1117", "120 P.3d 89", "121 P.3d 764", "123 P.3d 102", "123 P.3d 844", "124 Wn.2d 26", "125 Wn.2d 759", "129 Wn. App. 659", "130 P.3d 809", "130 Wn. App. 127", "134 Wn.2d 437", "136 Wn.2d 255", "14 P.3d 133", "142 Wn.2d 543", "146 Wn. App. 493", "148 Wn.2d 1", "155 Wn.2d 824", "155 Wn.2d 89", "156 Wn.2d 33", "156 Wn.2d 485", "161 Wn.2d 214", "161 Wn.2d 415", "164 P.3d 500", "165 Wn.2d 1038", "166 P.3d 1198", "31 P.3d 28", "354 P.2d 696", "549 U.S. 976", "56 Wn.2d 564", "57 P.3d 1156", "63 Wn. App. 516", "674 P.2d 165", "681 F.2d 1199", "728 P.2d 138", "738 P.2d 254", "820 P.2d 964", "873 P.2d 498", "887 P.2d 898", "95 Wn. App. 606", "951 P.2d 782", "961 P.2d 343", "976 P.2d 649"]
+cites_cases: ["100 Wn.2d 660", "107 Wn.2d 196", "108 Wn. App. 429", "108 Wn.2d 299", "117 P.3d 1117", "120 P.3d 89", "121 P.3d 764", "123 P.3d 102", "123 P.3d 844", "124 Wn.2d 26", "125 Wn.2d 759", "129 Wn. App. 659", "130 P.3d 809", "130 Wn. App. 127", "134 Wn.2d 437", "136 Wn.2d 255", "14 P.3d 133", "142 Wn.2d 543", "148 Wn.2d 1", "155 Wn.2d 824", "155 Wn.2d 89", "156 Wn.2d 33", "156 Wn.2d 485", "161 Wn.2d 214", "161 Wn.2d 415", "164 P.3d 500", "165 Wn.2d 1038", "166 P.3d 1198", "31 P.3d 28", "354 P.2d 696", "549 U.S. 976", "56 Wn.2d 564", "57 P.3d 1156", "63 Wn. App. 516", "674 P.2d 165", "681 F.2d 1199", "728 P.2d 138", "738 P.2d 254", "820 P.2d 964", "873 P.2d 498", "887 P.2d 898", "95 Wn. App. 606", "951 P.2d 782", "961 P.2d 343", "976 P.2d 649"]
 ---
 
 # Stevens County v. Futurewise
