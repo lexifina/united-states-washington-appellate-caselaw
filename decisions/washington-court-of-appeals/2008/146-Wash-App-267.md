@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26434-3-III"
 decided: "2008-07-03"
-citations: ["146 Wash. App. 267", "145 Wash. App. 1034"]
+citations: ["146 Wash. App. 267"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Elsie Nakata et al., Appellants, v. Blue Bird, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/146/cases/0267-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3972762
-cites_cases: ["105 Wn. App. 666", "105 Wn. App. 813", "105 Wn.2d 778", "105 Wn.2d 878", "110 P.3d 214", "112 Wn.2d 216", "121 Wn. App. 372", "124 Wn.2d 277", "126 Wn. App. 930", "126 Wn.2d 269", "128 P.3d 621", "131 Wn. App. 462", "131 Wn.2d 612", "132 Wn.2d 103", "138 Wn. App. 235", "146 Wn. App. 267", "146 Wn.2d 370", "148 Wn.2d 701", "156 P.3d 919", "162 Wn.2d 1021", "165 Wn.2d 1033", "19 P.3d 1068", "21 P.3d 1157", "381 P.2d 966", "46 P.3d 789", "467 U.S. 20", "482 P.2d 775", "502 P.2d 1016", "544 P.2d 20", "62 Wn.2d 195", "64 P.3d 1", "654 P.2d 673", "68 Wn. App. 69", "719 P.2d 120", "719 P.2d 531", "770 P.2d 182", "79 Wn.2d 12", "81 Wn.2d 403", "84 Wn. App. 511", "841 P.2d 1289", "86 Wn.2d 256", "876 P.2d 896", "89 P.3d 265", "892 P.2d 98", "90 Wn. App. 638", "90 Wn. App. 923", "928 P.2d 1143", "934 P.2d 669", "937 P.2d 154", "943 P.2d 1358", "954 P.2d 279", "954 P.2d 352", "98 Wn.2d 226"]
+cites_cases: ["105 Wn. App. 666", "105 Wn. App. 813", "105 Wn.2d 778", "105 Wn.2d 878", "110 P.3d 214", "112 Wn.2d 216", "121 Wn. App. 372", "124 Wn.2d 277", "126 Wn. App. 930", "126 Wn.2d 269", "128 P.3d 621", "131 Wn. App. 462", "131 Wn.2d 612", "132 Wn.2d 103", "138 Wn. App. 235", "146 Wn.2d 370", "148 Wn.2d 701", "156 P.3d 919", "162 Wn.2d 1021", "165 Wn.2d 1033", "19 P.3d 1068", "21 P.3d 1157", "381 P.2d 966", "46 P.3d 789", "467 U.S. 20", "482 P.2d 775", "502 P.2d 1016", "544 P.2d 20", "62 Wn.2d 195", "64 P.3d 1", "654 P.2d 673", "68 Wn. App. 69", "719 P.2d 120", "719 P.2d 531", "770 P.2d 182", "79 Wn.2d 12", "81 Wn.2d 403", "84 Wn. App. 511", "841 P.2d 1289", "86 Wn.2d 256", "876 P.2d 896", "89 P.3d 265", "892 P.2d 98", "90 Wn. App. 638", "90 Wn. App. 923", "928 P.2d 1143", "934 P.2d 669", "937 P.2d 154", "943 P.2d 1358", "954 P.2d 279", "954 P.2d 352", "98 Wn.2d 226"]
 ---
 
 # Nakata v. Blue Bird, Inc.
