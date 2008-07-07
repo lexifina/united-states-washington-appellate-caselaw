@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "59167-3-I"
 decided: "2008-07-07"
-citations: ["146 Wash. App. 515", "145 Wash. App. 1035"]
+citations: ["146 Wash. App. 515"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Robert Bergen. The State of Washing
 source_url: "https://static.case.law/wash-app/146/cases/0515-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3975245
-cites_cases: ["100 Wn.2d 421", "105 Wn.2d 161", "111 Wn.2d 22", "115 Wn.2d 171", "115 Wn.2d 609", "117 Wn.2d 325", "122 Wn.2d 1", "123 Wn.2d 138", "127 Wn.2d 281", "128 P.3d 1266", "128 Wn.2d 1", "131 Wn. App. 706", "132 Wn.2d 668", "135 Wn.2d 326", "137 Wn.2d 792", "140 P.3d 593", "142 Wn.2d 608", "146 Wn. App. 515", "146 Wn.2d 561", "148 Wn.2d 820", "149 P.3d 646", "157 Wn.2d 529", "158 P.3d 1144", "158 Wn.2d 1029", "159 Wn.2d 252", "16 P.3d 563", "160 Wn.2d 543", "165 Wn.2d 1041", "422 U.S. 563", "461 U.S. 352", "490 U.S. 454", "51 P.3d 733", "521 U.S. 702", "523 U.S. 1008", "528 U.S. 922", "537 U.S. 1007", "551 U.S. 1137", "64 P.3d 633", "640 P.2d 1061", "671 P.2d 230", "682 F.2d 1203", "713 P.2d 88", "759 P.2d 366", "795 P.2d 693", "801 P.2d 193", "815 P.2d 781", "857 P.2d 989", "866 P.2d 8", "898 P.2d 838", "904 P.2d 754", "940 P.2d 1239", "957 P.2d 655", "97 Wn.2d 92", "975 P.2d 967"]
+cites_cases: ["100 Wn.2d 421", "105 Wn.2d 161", "111 Wn.2d 22", "115 Wn.2d 171", "115 Wn.2d 609", "117 Wn.2d 325", "122 Wn.2d 1", "123 Wn.2d 138", "127 Wn.2d 281", "128 P.3d 1266", "128 Wn.2d 1", "131 Wn. App. 706", "132 Wn.2d 668", "135 Wn.2d 326", "137 Wn.2d 792", "140 P.3d 593", "142 Wn.2d 608", "146 Wn.2d 561", "148 Wn.2d 820", "149 P.3d 646", "157 Wn.2d 529", "158 P.3d 1144", "158 Wn.2d 1029", "159 Wn.2d 252", "16 P.3d 563", "160 Wn.2d 543", "165 Wn.2d 1041", "422 U.S. 563", "461 U.S. 352", "490 U.S. 454", "51 P.3d 733", "521 U.S. 702", "523 U.S. 1008", "528 U.S. 922", "537 U.S. 1007", "551 U.S. 1137", "64 P.3d 633", "640 P.2d 1061", "671 P.2d 230", "682 F.2d 1203", "713 P.2d 88", "759 P.2d 366", "795 P.2d 693", "801 P.2d 193", "815 P.2d 781", "857 P.2d 989", "866 P.2d 8", "898 P.2d 838", "904 P.2d 754", "940 P.2d 1239", "957 P.2d 655", "97 Wn.2d 92", "975 P.2d 967"]
 ---
 
 # State v. Bergen
