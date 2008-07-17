@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24922-1-III; 24623-0-III; 25637-5-III"
 decided: "2008-07-17"
-citations: ["146 Wash. App. 536", "145 Wash. App. 1044"]
+citations: ["146 Wash. App. 536"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Thelma L. Draszt, as Trustee, Appellant, v. Dena Marie Naccarato et a
 source_url: "https://static.case.law/wash-app/146/cases/0536-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3977553
-cites_cases: ["106 Wn. App. 231", "106 Wn. App. 45", "108 Wn. App. 242", "111 Wn. App. 209", "112 Wn.2d 754", "140 Wn. App. 215", "146 Wn. App. 536", "149 Wn.2d 873", "165 P.3d 57", "21 P.3d 1179", "23 P.3d 520", "29 P.3d 738", "35 Wn. App. 496", "351 P.2d 1039", "377 P.2d 862", "43 P.3d 1277", "431 P.2d 998", "434 P.2d 565", "46 Wn. App. 409", "56 Wn.2d 211", "61 Wn.2d 251", "62 Wn. App. 575", "659 P.2d 1097", "668 P.2d 589", "72 Wn.2d 131", "72 Wn.2d 587", "73 P.3d 369", "731 P.2d 526", "774 P.2d 6", "814 P.2d 1212", "86 Wn. App. 488", "88 Wn. App. 306", "937 P.2d 1128", "945 P.2d 727", "99 Wn.2d 95"]
+cites_cases: ["106 Wn. App. 231", "106 Wn. App. 45", "108 Wn. App. 242", "111 Wn. App. 209", "112 Wn.2d 754", "140 Wn. App. 215", "149 Wn.2d 873", "165 P.3d 57", "21 P.3d 1179", "23 P.3d 520", "29 P.3d 738", "35 Wn. App. 496", "351 P.2d 1039", "377 P.2d 862", "43 P.3d 1277", "431 P.2d 998", "434 P.2d 565", "46 Wn. App. 409", "56 Wn.2d 211", "61 Wn.2d 251", "62 Wn. App. 575", "659 P.2d 1097", "668 P.2d 589", "72 Wn.2d 131", "72 Wn.2d 587", "73 P.3d 369", "731 P.2d 526", "774 P.2d 6", "814 P.2d 1212", "86 Wn. App. 488", "88 Wn. App. 306", "937 P.2d 1128", "945 P.2d 727", "99 Wn.2d 95"]
 ---
 
 # Draszt v. Naccarato
