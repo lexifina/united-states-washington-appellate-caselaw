@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60933-5-I"
 decided: "2008-07-21"
-citations: ["146 Wash. App. 737", "145 Wash. App. 1051"]
+citations: ["146 Wash. App. 737"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Da Juana Mickey Wilson, Appellant, v. The City of Seattle et al., Res
 source_url: "https://static.case.law/wash-app/146/cases/0737-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3973089
-cites_cases: ["105 Wn. App. 596", "112 Wn.2d 216", "113 Wn.2d 479", "116 Wn.2d 217", "129 Wn.2d 43", "146 Wn. App. 737", "17 P.2d 870", "171 Wash. 174", "20 P.3d 1003", "338 P.2d 743", "54 Wn.2d 174", "770 P.2d 182", "780 P.2d 1307", "802 P.2d 1360", "914 P.2d 728", "94 Wn. App. 372", "972 P.2d 475"]
+cites_cases: ["105 Wn. App. 596", "112 Wn.2d 216", "113 Wn.2d 479", "116 Wn.2d 217", "129 Wn.2d 43", "17 P.2d 870", "171 Wash. 174", "20 P.3d 1003", "338 P.2d 743", "54 Wn.2d 174", "770 P.2d 182", "780 P.2d 1307", "802 P.2d 1360", "914 P.2d 728", "94 Wn. App. 372", "972 P.2d 475"]
 ---
 
 # Wilson v. City of Seattle
