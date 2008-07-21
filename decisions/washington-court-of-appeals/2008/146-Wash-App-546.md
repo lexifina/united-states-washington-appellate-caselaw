@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "57810-3-I"
 decided: "2008-07-21"
-citations: ["146 Wash. App. 546", "145 Wash. App. 1044"]
+citations: ["146 Wash. App. 546"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Little Mountain Estates Tenants Association et al., Petitioners, v. L
 source_url: "https://static.case.law/wash-app/146/cases/0546-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3974564
-cites_cases: ["103 P.3d 1226", "103 P.3d 232", "106 Wn. App. 506", "109 Wn. App. 334", "113 Wn.2d 912", "118 Wn.2d 476", "118 Wn.2d 801", "120 Wn. App. 498", "120 Wn.2d 490", "123 Wn.2d 284", "127 Wn. App. 809", "134 Wn. App. 210", "135 P.3d 499", "135 Wn. App. 149", "138 Wn. App. 151", "141 Wn.2d 169", "142 P.3d 155", "142 Wn.2d 801", "143 P.3d 618", "146 Wn. App. 546", "146 Wn.2d 1", "148 Wn.2d 788", "152 Wn.2d 195", "153 Wn.2d 392", "158 Wn.2d 194", "159 P.3d 10", "16 P.3d 583", "160 Wn.2d 1019", "163 P.3d 793", "163 Wn.2d 1012", "166 Wn.2d 1001", "180 P.3d 1291", "24 P.3d 413", "35 P.3d 383", "4 P.3d 123", "43 P.3d 4", "51 Wn. App. 664", "623 P.2d 683", "63 Wn. App. 658", "64 P.3d 22", "641 P.2d 704", "68 Wn. App. 838", "754 P.2d 1255", "784 P.2d 1258", "821 P.2d 1227", "824 P.2d 483", "828 P.2d 549", "84 P.3d 1241", "844 P.2d 403", "846 P.2d 574", "868 P.2d 127", "90 Wn. App. 169", "949 P.2d 412", "95 P.3d 337", "95 Wn.2d 257", "97 Wn.2d 182"]
+cites_cases: ["103 P.3d 1226", "103 P.3d 232", "106 Wn. App. 506", "109 Wn. App. 334", "113 Wn.2d 912", "118 Wn.2d 476", "118 Wn.2d 801", "120 Wn. App. 498", "120 Wn.2d 490", "123 Wn.2d 284", "127 Wn. App. 809", "134 Wn. App. 210", "135 P.3d 499", "135 Wn. App. 149", "138 Wn. App. 151", "141 Wn.2d 169", "142 P.3d 155", "142 Wn.2d 801", "143 P.3d 618", "146 Wn.2d 1", "148 Wn.2d 788", "152 Wn.2d 195", "153 Wn.2d 392", "158 Wn.2d 194", "159 P.3d 10", "16 P.3d 583", "160 Wn.2d 1019", "163 P.3d 793", "163 Wn.2d 1012", "166 Wn.2d 1001", "180 P.3d 1291", "24 P.3d 413", "35 P.3d 383", "4 P.3d 123", "43 P.3d 4", "51 Wn. App. 664", "623 P.2d 683", "63 Wn. App. 658", "64 P.3d 22", "641 P.2d 704", "68 Wn. App. 838", "754 P.2d 1255", "784 P.2d 1258", "821 P.2d 1227", "824 P.2d 483", "828 P.2d 549", "84 P.3d 1241", "844 P.2d 403", "846 P.2d 574", "868 P.2d 127", "90 Wn. App. 169", "949 P.2d 412", "95 P.3d 337", "95 Wn.2d 257", "97 Wn.2d 182"]
 ---
 
 # Little Mountain Estates Tenants Ass'n v. Little Mountain Estates MHC, LLC
