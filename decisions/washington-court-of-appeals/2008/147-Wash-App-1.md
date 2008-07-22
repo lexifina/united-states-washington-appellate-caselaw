@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36260-1-II"
 decided: "2008-07-22"
-citations: ["147 Wash. App. 1", "146 Wash. App. 1004"]
+citations: ["147 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Elizabeth A. Urbana, Respondent, and
 source_url: "https://static.case.law/wash-app/147/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3977677
-cites_cases: ["108 P.3d 779", "114 Wn. App. 805", "128 Wn.2d 116", "13 Wn. App. 805", "137 Wn.2d 979", "138 Wn.2d 213", "141 Wn. App. 235", "147 Wn. App. 1", "153 Wn.2d 795", "161 Wn.2d 353", "166 P.3d 667", "170 P.3d 572", "433 P.2d 209", "49 Wn. App. 321", "50 Wn. App. 190", "538 P.2d 145", "60 P.3d 663", "63 Wn. App. 523", "634 P.2d 498", "69 Wn. App. 324", "71 Wn. App. 489", "72 Wn.2d 404", "742 P.2d 127", "747 P.2d 507", "81 Wn. App. 414", "82 Wn. App. 545", "821 P.2d 59", "848 P.2d 1281", "859 P.2d 646", "9 Gonz. L. Rev. 39", "904 P.2d 1150", "914 P.2d 773", "918 P.2d 954", "96 Wn.2d 183", "976 P.2d 1240", "978 P.2d 498"]
+cites_cases: ["108 P.3d 779", "114 Wn. App. 805", "128 Wn.2d 116", "13 Wn. App. 805", "137 Wn.2d 979", "138 Wn.2d 213", "141 Wn. App. 235", "153 Wn.2d 795", "161 Wn.2d 353", "166 P.3d 667", "170 P.3d 572", "433 P.2d 209", "49 Wn. App. 321", "50 Wn. App. 190", "538 P.2d 145", "60 P.3d 663", "63 Wn. App. 523", "634 P.2d 498", "69 Wn. App. 324", "71 Wn. App. 489", "72 Wn.2d 404", "742 P.2d 127", "747 P.2d 507", "81 Wn. App. 414", "82 Wn. App. 545", "821 P.2d 59", "848 P.2d 1281", "859 P.2d 646", "9 Gonz. L. Rev. 39", "904 P.2d 1150", "914 P.2d 773", "918 P.2d 954", "96 Wn.2d 183", "976 P.2d 1240", "978 P.2d 498"]
 ---
 
 # In re the Marriage of Urbana
