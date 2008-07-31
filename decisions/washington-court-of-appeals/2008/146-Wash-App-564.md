@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26313-4-III"
 decided: "2008-07-31"
-citations: ["146 Wash. App. 564", "146 Wash. App. 1019"]
+citations: ["146 Wash. App. 564"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Robert A. Gering, Appellant."
 source_url: "https://static.case.law/wash-app/146/cases/0564-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3979162
-cites_cases: ["102 Wn.2d 733", "113 Wn. App. 657", "115 Wn. App. 191", "116 Wn. App. 219", "120 Wn. App. 43", "139 Wn.2d 486", "146 Wn. App. 564", "148 Wn.2d 564", "152 Wn.2d 22", "468 U.S. 420", "56 P.3d 587", "61 P.3d 340", "62 P.3d 489", "65 P.3d 325", "689 P.2d 1065", "83 P.3d 1038", "93 P.3d 133", "987 P.2d 73"]
+cites_cases: ["102 Wn.2d 733", "113 Wn. App. 657", "115 Wn. App. 191", "116 Wn. App. 219", "120 Wn. App. 43", "139 Wn.2d 486", "148 Wn.2d 564", "152 Wn.2d 22", "468 U.S. 420", "56 P.3d 587", "61 P.3d 340", "62 P.3d 489", "65 P.3d 325", "689 P.2d 1065", "83 P.3d 1038", "93 P.3d 133", "987 P.2d 73"]
 ---
 
 # State v. Gering
