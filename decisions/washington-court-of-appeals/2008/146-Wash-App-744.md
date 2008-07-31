@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26180-8-III"
 decided: "2008-07-31"
-citations: ["146 Wash. App. 744", "146 Wash. App. 1019"]
+citations: ["146 Wash. App. 744"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. James Robert Nason, Appellant
 source_url: "https://static.case.law/wash-app/146/cases/0744-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3974361
-cites_cases: ["103 Wn.2d 215", "103 Wn.2d 224", "110 Wn.2d 793", "113 Wn.2d 83", "116 Wn. App. 697", "118 Wn.2d 911", "120 Wn.2d 334", "127 Wn.2d 322", "132 Wn. App. 854", "132 Wn.2d 668", "134 P.3d 261", "138 Wn.2d 595", "138 Wn.2d 680", "146 Wn. App. 744", "147 Wn.2d 98", "154 P.3d 220", "159 Wn.2d 849", "165 Wn.2d 1041", "203 P.2d 693", "32 Wn.2d 681", "411 U.S. 778", "52 P.3d 485", "64 Wn. App. 904", "67 P.3d 530", "691 P.2d 571", "691 P.2d 964", "74 Wn. App. 889", "756 P.2d 1303", "76 Wn. App. 882", "77 Wn. App. 678", "776 P.2d 132", "827 P.2d 318", "829 P.2d 166", "841 P.2d 1232", "86 Wn. App. 573", "876 P.2d 910", "888 P.2d 1211", "894 P.2d 1340", "899 P.2d 1251", "92 Wn. App. 723", "937 P.2d 636", "94 Wn. App. 46", "940 P.2d 1239", "964 P.2d 1192", "971 P.2d 88", "980 P.2d 1257", "981 P.2d 443"]
+cites_cases: ["103 Wn.2d 215", "103 Wn.2d 224", "110 Wn.2d 793", "113 Wn.2d 83", "116 Wn. App. 697", "118 Wn.2d 911", "120 Wn.2d 334", "127 Wn.2d 322", "132 Wn. App. 854", "132 Wn.2d 668", "134 P.3d 261", "138 Wn.2d 595", "138 Wn.2d 680", "147 Wn.2d 98", "154 P.3d 220", "159 Wn.2d 849", "165 Wn.2d 1041", "203 P.2d 693", "32 Wn.2d 681", "411 U.S. 778", "52 P.3d 485", "64 Wn. App. 904", "67 P.3d 530", "691 P.2d 571", "691 P.2d 964", "74 Wn. App. 889", "756 P.2d 1303", "76 Wn. App. 882", "77 Wn. App. 678", "776 P.2d 132", "827 P.2d 318", "829 P.2d 166", "841 P.2d 1232", "86 Wn. App. 573", "876 P.2d 910", "888 P.2d 1211", "894 P.2d 1340", "899 P.2d 1251", "92 Wn. App. 723", "937 P.2d 636", "94 Wn. App. 46", "940 P.2d 1239", "964 P.2d 1192", "971 P.2d 88", "980 P.2d 1257", "981 P.2d 443"]
 ---
 
 # State v. Nason
