@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60167-9-I"
 decided: "2008-08-11"
-citations: ["146 Wash. App. 760", "146 Wash. App. 1030"]
+citations: ["146 Wash. App. 760"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Westlake View Condominium Association, Appellant, v. Sixth Avenue Vie
 source_url: "https://static.case.law/wash-app/146/cases/0760-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3977147
-cites_cases: ["106 P.3d 258", "109 Wn.2d 406", "115 Wn.2d 506", "125 Wn. App. 684", "131 P.3d 905", "146 Wn. App. 760", "154 Colo. 78", "156 Wn.2d 696", "197 Mont. 234", "258 So. 2d 11", "264 So. 2d 418", "269 Or. 635", "349 So. 2d 676", "398 A.2d 1283", "426 S.W.2d 554", "457 P.2d 199", "745 P.2d 1284", "76 Wn.2d 428", "79 N.J. 275", "799 P.2d 250"]
+cites_cases: ["106 P.3d 258", "109 Wn.2d 406", "115 Wn.2d 506", "125 Wn. App. 684", "131 P.3d 905", "154 Colo. 78", "156 Wn.2d 696", "197 Mont. 234", "258 So. 2d 11", "264 So. 2d 418", "269 Or. 635", "349 So. 2d 676", "398 A.2d 1283", "426 S.W.2d 554", "457 P.2d 199", "745 P.2d 1284", "76 Wn.2d 428", "79 N.J. 275", "799 P.2d 250"]
 ---
 
 # Westlake View Condominium Ass'n v. Sixth Avenue View Partners, LLC
