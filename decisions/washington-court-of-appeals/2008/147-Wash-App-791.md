@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60223-3-I"
 decided: "2008-09-02"
-citations: ["147 Wash. App. 791", "146 Wash. App. 1044"]
+citations: ["147 Wash. App. 791"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["William Harald Backman, Appellant, v. Northwest Publishing Center, LL
 source_url: "https://static.case.law/wash-app/147/cases/0791-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3975932
-cites_cases: ["121 Wn.2d 479", "123 Wash. 158", "134 Wn. App. 515", "136 Wn.2d 152", "141 P.3d 72", "145 Wn.2d 417", "146 Wn.2d 841", "147 Wn. App. 791", "163 Wn.2d 69", "178 P.3d 936", "212 P. 181", "38 P.3d 322", "50 P.3d 256", "852 P.2d 1055", "95 Wn. App. 767", "961 P.2d 371", "976 P.2d 1262"]
+cites_cases: ["121 Wn.2d 479", "123 Wash. 158", "134 Wn. App. 515", "136 Wn.2d 152", "141 P.3d 72", "145 Wn.2d 417", "146 Wn.2d 841", "163 Wn.2d 69", "178 P.3d 936", "212 P. 181", "38 P.3d 322", "50 P.3d 256", "852 P.2d 1055", "95 Wn. App. 767", "961 P.2d 371", "976 P.2d 1262"]
 ---
 
 # Backman v. Northwest Publishing Center, LLC
