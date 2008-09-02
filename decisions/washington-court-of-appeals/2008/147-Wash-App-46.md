@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60656-5-I"
 decided: "2008-09-02"
-citations: ["147 Wash. App. 46", "146 Wash. App. 1045"]
+citations: ["147 Wash. App. 46"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Heller Building, LLC, Respondent, v. The City of Bellevue, Appellant.
 source_url: "https://static.case.law/wash-app/147/cases/0046-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3980202
-cites_cases: ["111 Wn.2d 159", "120 P.3d 56", "126 Wn.2d 315", "134 Wn. App. 876", "136 Wn.2d 1", "140 Wn. App. 155", "141 Wn.2d 169", "142 P.3d 1121", "147 Wn. App. 46", "147 Wn.2d 440", "155 Wn.2d 397", "165 P.3d 37", "4 P.3d 123", "54 P.3d 1194", "759 P.2d 447", "893 P.2d 629", "959 P.2d 1024"]
+cites_cases: ["111 Wn.2d 159", "120 P.3d 56", "126 Wn.2d 315", "134 Wn. App. 876", "136 Wn.2d 1", "140 Wn. App. 155", "141 Wn.2d 169", "142 P.3d 1121", "147 Wn.2d 440", "155 Wn.2d 397", "165 P.3d 37", "4 P.3d 123", "54 P.3d 1194", "759 P.2d 447", "893 P.2d 629", "959 P.2d 1024"]
 ---
 
 # Heller Building, LLC v. City of Bellevue
