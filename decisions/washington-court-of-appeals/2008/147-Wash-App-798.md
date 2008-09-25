@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "24691-4-III"
 decided: "2008-09-25"
-citations: ["147 Wash. App. 798", "146 Wash. App. 1062"]
+citations: ["147 Wash. App. 798"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Peter Savala. The State of Washingt
 source_url: "https://static.case.law/wash-app/147/cases/0798-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3979501
-cites_cases: ["104 P.3d 747", "109 Wn.2d 107", "120 Wn. App. 753", "122 Wn.2d 1", "125 Wn. App. 381", "125 Wn.2d 129", "138 Wn. App. 374", "145 Wn.2d 789", "147 Wn. App. 798", "147 Wn.2d 1", "147 Wn.2d 410", "147 Wn.2d 500", "151 Wn.2d 664", "158 P.3d 1144", "158 P.3d 69", "160 Wn.2d 543", "162 Wn.2d 1019", "162 Wn.2d 27", "168 P.3d 1285", "39 Wn. App. 609", "42 P.3d 952", "51 P.3d 73", "54 P.3d 147", "557 P.2d 1299", "58 P.3d 265", "694 P.2d 697", "744 P.2d 1032", "750 P.2d 254", "857 P.2d 989", "86 P.3d 810", "87 Wn.2d 922", "882 P.2d 173", "91 P.3d 875"]
+cites_cases: ["104 P.3d 747", "109 Wn.2d 107", "120 Wn. App. 753", "122 Wn.2d 1", "125 Wn. App. 381", "125 Wn.2d 129", "138 Wn. App. 374", "145 Wn.2d 789", "147 Wn.2d 1", "147 Wn.2d 410", "147 Wn.2d 500", "151 Wn.2d 664", "158 P.3d 1144", "158 P.3d 69", "160 Wn.2d 543", "162 Wn.2d 1019", "162 Wn.2d 27", "168 P.3d 1285", "39 Wn. App. 609", "42 P.3d 952", "51 P.3d 73", "54 P.3d 147", "557 P.2d 1299", "58 P.3d 265", "694 P.2d 697", "744 P.2d 1032", "750 P.2d 254", "857 P.2d 989", "86 P.3d 810", "87 Wn.2d 922", "882 P.2d 173", "91 P.3d 875"]
 ---
 
 # State v. Savala
