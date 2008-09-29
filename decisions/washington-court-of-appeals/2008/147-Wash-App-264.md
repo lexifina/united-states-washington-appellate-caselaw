@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60732-4-I"
 decided: "2008-09-29"
-citations: ["147 Wash. App. 264", "146 Wash. App. 1067"]
+citations: ["147 Wash. App. 264"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Chaun Lemueal Webb, Appellant
 source_url: "https://static.case.law/wash-app/147/cases/0264-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3979866
-cites_cases: ["101 P.3d 119", "102 Wn. App. 327", "103 Wn. App. 749", "105 Wn. App. 30", "106 Wn. App. 876", "106 Wn.2d 144", "107 Wn. App. 280", "113 Wn.2d 388", "114 Wn.2d 1011", "123 Wn.2d 641", "124 Wn. App. 372", "128 Wn.2d 1", "132 P.3d 1089", "14 P.3d 184", "142 Wn. App. 960", "146 Wn. App. 595", "147 Wn. App. 264", "156 Wn.2d 835", "176 P.3d 605", "18 P.3d 602", "191 P.3d 93", "26 P3d 298", "28 P.3d 775", "357 U.S. 493", "453 U.S. 454", "541 U.S. 615", "56 Wn. App. 339", "56 Wn. App. 617", "6 P.3d 1245", "60 Wn. App. 534", "622 P.2d 1218", "70 Wn. App. 259", "720 P.2d 436", "779 P.2d 707", "783 P.2d 626", "784 P.2d 1276", "80 Wn. App. 184", "805 P.2d 237", "85 Wn. App. 339", "85 Wn. App. 568", "856 P.2d 390", "870 P2d 313", "904 P.2d 754", "907 P.2d 328", "932 P.2d 1258", "933 P.2d 1088", "95 Wn.2d 143", "97 Wn. App. 884", "970 P.2d 821"]
+cites_cases: ["101 P.3d 119", "102 Wn. App. 327", "103 Wn. App. 749", "105 Wn. App. 30", "106 Wn. App. 876", "106 Wn.2d 144", "107 Wn. App. 280", "113 Wn.2d 388", "114 Wn.2d 1011", "123 Wn.2d 641", "124 Wn. App. 372", "128 Wn.2d 1", "132 P.3d 1089", "14 P.3d 184", "142 Wn. App. 960", "146 Wn. App. 595", "156 Wn.2d 835", "176 P.3d 605", "18 P.3d 602", "191 P.3d 93", "26 P3d 298", "28 P.3d 775", "357 U.S. 493", "453 U.S. 454", "541 U.S. 615", "56 Wn. App. 339", "56 Wn. App. 617", "6 P.3d 1245", "60 Wn. App. 534", "622 P.2d 1218", "70 Wn. App. 259", "720 P.2d 436", "779 P.2d 707", "783 P.2d 626", "784 P.2d 1276", "80 Wn. App. 184", "805 P.2d 237", "85 Wn. App. 339", "85 Wn. App. 568", "856 P.2d 390", "870 P2d 313", "904 P.2d 754", "907 P.2d 328", "932 P.2d 1258", "933 P.2d 1088", "95 Wn.2d 143", "97 Wn. App. 884", "970 P.2d 821"]
 ---
 
 # State v. Webb
