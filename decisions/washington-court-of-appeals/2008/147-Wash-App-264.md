@@ -1,0 +1,93 @@
+---
+court: "Washington Court of Appeals"
+docket: "60732-4-I"
+decided: "2008-09-29"
+citations: ["147 Wash. App. 264", "146 Wash. App. 1067"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwyer, A.C.J., and Lau, J., concur."]
+parties: ["The State of Washington, Respondent, v. Chaun Lemueal Webb, Appellant."]
+source_url: "https://static.case.law/wash-app/147/cases/0264-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3979866
+cites_cases: ["101 P.3d 119", "102 Wn. App. 327", "103 Wn. App. 749", "105 Wn. App. 30", "106 Wn. App. 876", "106 Wn.2d 144", "107 Wn. App. 280", "113 Wn.2d 388", "114 Wn.2d 1011", "123 Wn.2d 641", "124 Wn. App. 372", "128 Wn.2d 1", "132 P.3d 1089", "14 P.3d 184", "142 Wn. App. 960", "146 Wn. App. 595", "147 Wn. App. 264", "156 Wn.2d 835", "176 P.3d 605", "18 P.3d 602", "191 P.3d 93", "26 P3d 298", "28 P.3d 775", "357 U.S. 493", "453 U.S. 454", "541 U.S. 615", "56 Wn. App. 339", "56 Wn. App. 617", "6 P.3d 1245", "60 Wn. App. 534", "622 P.2d 1218", "70 Wn. App. 259", "720 P.2d 436", "779 P.2d 707", "783 P.2d 626", "784 P.2d 1276", "80 Wn. App. 184", "805 P.2d 237", "85 Wn. App. 339", "85 Wn. App. 568", "856 P.2d 390", "870 P2d 313", "904 P.2d 754", "907 P.2d 328", "932 P.2d 1258", "933 P.2d 1088", "95 Wn.2d 143", "97 Wn. App. 884", "970 P.2d 821"]
+---
+
+# State v. Webb
+
+## Majority (Cox, J.)
+
+Cox, J.
+¶1 Article I, section 7 of the state constitution prohibits warrantless searches of vehicles incident to arrest where the suspect is not physically proximate to the vehicle at the time of arrest. Because the State fails in its burden to prove that Chaun Webb was physically proximate to the passenger compartment of his vehicle at the time of his arrest for driving under the influence (DUI), the items that the police seized in that search must be suppressed. We reverse.
+¶2 Kent Police Officer John Shipman pulled over Webb on suspicion of DUI. Webb stopped his car in the right traffic lane of a four lane road. Officers Shipman and Tom Reiner approached Webb’s vehicle and asked him to exit the car so they could talk with him. Complying with the officers’ request, Webb exited his car and stumbled to the curb.
+¶3 Officer Matthew Wheeler then arrived at the scene and took over the DUI investigation. He administered field sobriety tests to Webb in the driveway of a bank parking lot. Upon failing the tests, the officer arrested Webb, handcuffed him, and placed him in a patrol car nearby.
+¶4 Immediately after Webb’s arrest, he gave officers permission to move his car off the street. Officer Reiner moved the car into the bank parking lot — about 20 feet from where it was parked in the road. Also immediately after arrest, a canine officer and police dog arrived to search Webb’s vehicle. Police searched the car without a warrant. At the time of the search, Webb’s vehicle was located approximately 40 to 50 feet from the patrol car where Webb sat.
+¶5 The canine officer and police dog searched the passenger compartment of Webb’s car. They found a crack pipe under the driver’s seat, a rock of crack cocaine on the floor, and an unlocked metal box that contained suspected cocaine, heroin, and 15 white pills. Police impounded the vehicle and, after obtaining a search warrant, searched the trunk and found marijuana.
+¶6 The State charged Webb with five counts of violation of the Uniform Controlled Substances Act, chapter 69.50 RCW, for possessing cocaine (count I), heroin (count II), oxycodone (count III), methadone (count IV), and marijuana (count V). Prior to trial, Webb moved to suppress the evidence, arguing that the search was not a valid search incident to arrest because he did not have immediate access to and control of his car at the time of arrest.
+¶7 After an evidentiary hearing, the trial court denied Webb’s motion. The court entered written findings of fact and conclusions of law for the CrR 3.6 hearing. Following a bench trial, the court found Webb guilty of all charged counts and imposed standard range sentences.
+¶8 Webb appeals.
+SEARCH INCIDENT TO ARREST
+¶9 Webb challenges the trial court’s ruling, arguing that the search of his vehicle violated article I, section 7 of the Washington Constitution. We agree.
+¶10 A warrantless search is unreasonable per se and can be justified only if it falls within one of the “jealously and carefully drawn” exceptions to the warrant requirement. One of these exceptions is the search of an automobile incident to a lawful custodial arrest. Under federal law, this exception justifies search of the entire passenger compartment, including any containers within it, even when the suspect has exited the vehicle before his or her arrest.
+¶11 In State v. Stroud, our supreme court held that article I, section 7 of the Washington Constitution provides greater protection than the Fourth Amendment. Locked containers within the passenger compartment of a vehicle may not be searched without a warrant. But Washington law permits automobile searches incident to arrest “immediately subsequent to the suspect’s being arrested, handcuffed, and placed in a patrol car.”
+¶12 While the ability to search “does not depend on an arrestee being in the vehicle when police arrive,” there must be “a close physical and temporal proximity between the arrest and the search.”
+¶13 We will affirm a refusal to suppress evidence if substantial evidence supports the court’s findings of fact and those findings support the court’s conclusions of law. We review the trial court’s conclusions of law de novo.
+¶14 Here, Webb does not challenge the search of the trunk after police impounded his vehicle. Moreover, he does not challenge whether his arrest was lawful or whether search of his car occurred contemporaneous to his arrest. Thus, the key issue on appeal is whether Webb was physically proximate to his vehicle at the time of arrest to justify a search of the passenger compartment of his car incident to arrest.
+¶15 In State v. Adams, this court upheld the validity of a vehicle search based on the defendant’s proximity to the vehicle at the time of arrest. The court held that the defendant was “in close temporal and spatial proximity to his car when he was arrested. He was never more than four or five feet from his car, and was at all times closer to it than was the deputy. He could have reached it quickly in a couple [of] steps.”
+¶16 Here, unlike in Adams, the trial court’s findings do not address Webb’s physical proximity to either the passenger compartment or his vehicle at the time of his arrest, a critical fact. In the absence of such a finding, the State has not borne its burden to show that the search of Webb’s vehicle incident to his lawful arrest falls within an exception to the warrant requirement.
+¶17 At the CrR 3.6 hearing, Officer Shipman testified that when he and Officer Reiner asked Webb to exit the vehicle, Webb staggered from his car to the sidewalk. The record does not show the distance between Webb’s car and the sidewalk. Shortly thereafter, Officer Wheeler administered field sobriety tests to Webb in the driveway of a bank. Officer Wheeler parked his patrol car in the adjacent bank parking lot about 15 feet away from where he administered the field sobriety test. During the test, Webb’s car remained parked in the right curb lane of the street. When Webb failed the tests, Officer Wheeler arrested him, placed him in handcuffs, and moved him to the patrol car. Nowhere in this record is there a showing of Webb’s proximity to his car at the time of his arrest. This is a fatal flaw.
+¶18 We note that there are situations where evidence in the record may support remand from an appeals court to allow the trial court to make omitted factual findings. But in such cases, evidence to support the omitted findings must already be in the record. This is not such a case. Reversal is required.
+¶19 The State argues that the search of Webb’s car was valid under Stroud. It argues that Stroud requires only that the search be contemporaneous with the arrest and that the arrestee remain at the scene during the search. This is incorrect.
+¶20 Washington courts have construed Stroud to require that a person be in close temporal and physical proximity to a vehicle at the time of arrest to permit a warrantless search of that vehicle.
+¶21 Relying on State v. Fladebo, the State argues that the warrantless search of Webb’s car was valid because the search was close in time and space to the arrest. The State argues that Webb’s argument was raised and rejected in Fladebo. We disagree.
+¶22 There, it appears that police arrested the defendant while she was still near her car. After police placed her in a patrol car, an officer returned to the defendant’s car and asked its occupant who owned the purse inside the passenger’s compartment. Upon learning that the purse belonged to Fladebo, the police took the purse back to the patrol car where the defendant sat. There, in the presence of the defendant, officers searched the purse and found illegal drugs.
+¶23 Nowhere in that opinion did the supreme court discuss the effect of the defendant’s physical proximity to the vehicle at the time of arrest for purposes of determining whether the search was valid. Thus, we reject the argument here that Fladebo decided that issue. Washington law requires more than temporal and physical proximity between the arrest and the search. It also requires physical proximity between the suspect and the vehicle at the time of arrest. Fladebo is not helpful or controlling here.
+¶24 Relying on State v. Fore and State v. Lopez, the State next argues that the search was valid because Webb remained at the scene during the search. In light of subsequent case law construing Stroud, the reasoning in these two cases does not require a different result here.
+¶ 25 In Fore, police officers observed two men involved in what appeared to be several drug transactions. The men left the area in their truck and police followed. When the men stopped at a market, police arrested them. At the time of arrest, one man stood in the doorway of the store and the other man stood at a pay phone. Although the record did not indicate how far the two men were from their vehicle when arrested, this court held that search of the vehicle incident to arrest was valid. The Fore court concluded that although neither man was in the vehicle, the two men were “sufficiently close [to the vehicle] to be immediately visible to the arriving officers.” To the extent that the opinion in that case did not contain more specific information about the men’s physical proximity to their vehicle at the time of arrest, the validity of the court’s analysis in Fore, in light of subsequent decisions, is not dispositive here.
+¶26 In Lopez, police observed and listened by hidden microphone to Lopez participating in an arranged sale of 10 pounds of marijuana. After police observed Lopez get into his vehicle, do something below the dashboard, and then return to the scene of the drug transaction, police arrested him 50 to 60 feet from his vehicle. Police then searched his truck and found a paper bag on the floor containing money. On appeal, Division Three upheld the search of the vehicle incident to arrest as valid because the search was contemporaneous with the arrest. Because the Lopez court did not analyze whether Lopez had physical proximity to the vehicle at the time of his arrest, its reasoning is not helpful here.
+¶27 Finally, although the trial court relied on State v. Mitzlaff to support its decision to deny the suppression order, and the State cites that case on appeal, that case does not control here. In Mitzlaff, the court addressed the question of whether the scope of a valid search of the “passenger compartment” included the engine compartment of the vehicle. Although the court relied on Stroud, it did not address the validity of the passenger compartment search, nor did it analyze whether Mitzlaff was physically proximate to his vehicle at the time of his arrest. Accordingly, Mitzlaff does not control here.
+¶28 In sum, the record is devoid of evidence showing that the search of Webb’s car falls within the narrowly drawn search incident to arrest exception as required by article I, section 7. The State has failed to carry its burden to show a valid exception to the warrant requirement for searches of the passenger compartment of a vehicle incident to arrest. Reversal of the suppression order is required.
+¶29 Webb does not challenge the search of the trunk of his vehicle, which police performed pursuant to a warrant. Thus, the conviction on count V (marijuana) remains undisturbed.
+INEVITABLE DISCOVERY
+¶30 The State argues for the first time on appeal that even if the search of Webb’s car was improper, the evidence was properly admitted because Webb’s car was impounded while police obtained a search warrant for the trunk. The State argues that the evidence would have inevitably been found during an inventory search prior to impound. We decline to reach this question.
+¶31 The inevitable discovery rule “permits admission of illegally obtained evidence if the State can prove that the police did not act unreasonably or attempt to accelerate discovery, and would have inevitably discovered the evidence through proper and predictable investigatory procedures.”
+¶32 Where the doctrine of inevitable discovery is not raised at the trial court, appellate courts have declined to reach the question. Where necessary facts have not been determined by the trial court, it is inappropriate for an appellate court to speculate as to whether the improperly acquired evidence would have inevitably been discovered.
+¶33 Here, the State did not argue inevitable discovery before the trial court. And this record is insufficient to address the question.
+¶34 We reverse the suppression order and the judgment and sentence to the extent of the conviction on counts I-IV only.
+Dwyer, A.C.J., and Lau, J., concur.
+State v. Adams, 146 Wn. App. 595, 191 P.3d 93 (2008).
+Jones v. United States, 357 U.S. 493, 499, 78 S. Ct. 1253, 2 L. Ed. 2d 1514 (1958); State v. Houser, 95 Wn.2d 143, 149, 622 P.2d 1218 (1980).
+New York v. Belton, 453 U.S. 454, 101 S. Ct. 2860, 69 L. Ed. 2d 768 (1981); State v. Stroud, 106 Wn.2d 144, 147, 720 P.2d 436 (1986).
+Belton, 453 U.S. at 457; Thornton v. United States, 541 U.S. 615, 623-24, 124 S. Ct. 2127, 158 L. Ed. 2d 905 (2004).
+106 Wn.2d 144, 147, 720 P.2d 436 (1986).
+Id. at 152.
+Id.
+State v. Fore, 56 Wn. App. 339, 347, 783 P.2d 626 (1989), review denied, 114 Wn.2d 1011 (1990).
+State v. Hill, 123 Wn.2d 641, 647, 870 P2d 313 (1994); State v. Ross, 106 Wn. App. 876, 880, 26 P3d 298 (2001).
+Ross, 106 Wn. App. at 880.
+146 Wn. App. 595, 191 P.3d 93 (2008).
+Id. at 605 (footnote omitted).
+See State v. Potter, 156 Wn.2d 835, 840, 132 P.3d 1089 (2006) (State bears the burden of establishing an exception to warrant requirement.).
+Cf. State v. Alvarez, 128 Wn.2d 1, 904 P.2d 754 (1995) (remanding for revision of written findings of fact and conclusions of law based on evidence already heard where findings did not meet requirements of court rule requiring findings to state ultimate facts); State v. Souza, 60 Wn. App. 534, 805 P.2d 237 (1991) (remanding to permit entry of additional written findings where evidence in the record is sufficient to support the conclusions of law and where insufficiency of the findings can be cured without introduction of new evidence).
+State v. Adams, 146 Wn. App. 595 (holding vehicle search valid where suspect locked vehicle in presence of investigating officers and was four to five feet from his car when arrested); State v. Quinlivan, 142 Wn. App. 960, 176 P.3d 605 (2008) (holding vehicle search invalid where suspect had no access to passenger compartment at time of arrest because vehicle was locked); State v. Rathbun, 124 Wn. App. 372, 101 P.3d 119 (2004) (holding vehicle search invalid where suspect arrested 40 feet from vehicle after fleeing and vehicle unrelated to arrest); State v. Johnston, 107 Wn. App. 280, 286, 28 P.3d 775 (2001) (holding vehicle search invalid where facts did not prove suspect was arrested near vehicle or that he had “immediate control” or “ready access” to passenger compartment); State v. Wheless, 103 Wn. App. 749, 14 P.3d 184 (2000) (holding vehicle search invalid where suspect was not arrested near the vehicle); State v. Porter, 102 Wn. App. 327, 6 P.3d 1245 (2000) (holding vehicle search invalid where passenger compartment not within arrestee’s immediate control); State v. Perea, 85 Wn. App. 339, 932 P.2d 1258 (1997) (holding vehicle search invalid where suspect arrested nearby but at time of arrest, car was lawfully parked and locked); State v. Fore, 56 Wn. App. 339 (construing Stroud to require both physical and temporal proximity between arrest and vehicle search) (holding vehicle search valid where arrestees were “sufficiently close” to vehicle and search “essentially contemporaneous” with arrest). But see State v. Bradley, 105 Wn. App. 30, 18 P.3d 602 (2001) (holding vehicle search that occurred before arrest valid where police had probable cause to arrest suspect) (not applying physical proximity analysis); State v. Lopez, 70 Wn. App. 259, 856 P.2d 390 (1993) (holding vehicle search valid where evidence showed search was contemporaneous with arrest and where suspect arrested 50 to 60 feet from vehicle) (not applying physical proximity analysis).
+113 Wn.2d 388, 779 P.2d 707 (1989).
+Id. at 390.
+Id.
+56 Wn. App. 339, 783 P.2d 626 (1989), review denied, 114 Wn.2d 1011 (1990).
+70 Wn. App. 259, 856 P.2d 390 (1993).
+Fore, 56 Wn. App. at 341.
+Id. at 342.
+Id.
+Id. at 342, 348.
+Id. at 348.
+See, e.g., Johnston, 107 Wn. App. 280 (holding vehicle search invalid where facts did not prove suspect was arrested near vehicle or that he had “immediate control” or “ready access” to passenger compartment).
+Lopez, 70 Wn. App. at 261.
+Id. at 261-62.
+Id. at 267.
+Id. at 270.
+80 Wn. App. 184, 907 P.2d 328 (1995).
+Id. at 187-88.
+State v. Richman, 85 Wn. App. 568, 572, 933 P.2d 1088 (1997).
+State v. Rulan C., 97 Wn. App. 884, 889, 970 P.2d 821 (1999) (declining to address whether inevitable discovery doctrine applies where State did not raise it below and where the requisite factual inquiry was not undertaken by the trial court); State v. Bartholomew, 56 Wn. App. 617, 624-25, 784 P.2d 1276 (1990) (remanding to the trial court for a hearing as to whether disputed items of evidence were inevitably discoverable or admissible on other grounds).
+Rulan C., 97 Wn. App. at 889.
