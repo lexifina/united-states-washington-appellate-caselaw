@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "61021-0-I"
 decided: "2008-10-13"
-citations: ["147 Wash. App. 807", "146 Wash. App. 1075"]
+citations: ["147 Wash. App. 807"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Dirk Yow, Respondent, v. The Department of Health Unlicensed Practice
 source_url: "https://static.case.law/wash-app/147/cases/0807-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3978697
-cites_cases: ["111 Wn.2d 923", "114 Wn.2d 353", "115 P.3d 281", "115 Wn.2d 60", "122 Wn.2d 397", "125 Wn.2d 533", "126 Wn.2d 22", "127 Wn.2d 595", "135 Wn. App. 149", "135 Wn.2d 542", "140 Wn.2d 19", "143 P.3d 618", "147 Wn. App. 807", "151 N.W. 623", "154 Wn.2d 596", "161 Wn.2d 85", "162 Wn.2d 59", "163 P.3d 757", "166 Wn.2d 1012", "170 P.3d 10", "184 Mich. 535", "249 Mich. App. 77", "349 N.Y.S.2d 604", "376 P.2d 446", "413 U.S. 601", "466 U.S. 789", "60 Wn.2d 797", "641 N.W.2d 595", "65 Wn. App. 533", "658 P.2d 648", "76 Misc. 2d 267", "767 P.2d 572", "788 P.2d 1066", "794 P.2d 850", "828 P.2d 1170", "858 P.2d 494", "886 P.2d 189", "891 P.2d 29", "903 P.2d 433", "958 P.2d 962", "98 Wn.2d 690", "992 P.2d 496", "Mich. Comp. Laws § 333.17001"]
+cites_cases: ["111 Wn.2d 923", "114 Wn.2d 353", "115 P.3d 281", "115 Wn.2d 60", "122 Wn.2d 397", "125 Wn.2d 533", "126 Wn.2d 22", "127 Wn.2d 595", "135 Wn. App. 149", "135 Wn.2d 542", "140 Wn.2d 19", "143 P.3d 618", "151 N.W. 623", "154 Wn.2d 596", "161 Wn.2d 85", "162 Wn.2d 59", "163 P.3d 757", "166 Wn.2d 1012", "170 P.3d 10", "184 Mich. 535", "249 Mich. App. 77", "349 N.Y.S.2d 604", "376 P.2d 446", "413 U.S. 601", "466 U.S. 789", "60 Wn.2d 797", "641 N.W.2d 595", "65 Wn. App. 533", "658 P.2d 648", "76 Misc. 2d 267", "767 P.2d 572", "788 P.2d 1066", "794 P.2d 850", "828 P.2d 1170", "858 P.2d 494", "886 P.2d 189", "891 P.2d 29", "903 P.2d 433", "958 P.2d 962", "98 Wn.2d 690", "992 P.2d 496", "Mich. Comp. Laws § 333.17001"]
 ---
 
 # Yow v. Department of Health Unlicensed Practice Program
