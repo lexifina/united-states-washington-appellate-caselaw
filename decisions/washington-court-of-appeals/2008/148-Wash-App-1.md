@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60554-2-I"
 decided: "2008-10-13"
-citations: ["148 Wash. App. 1", "146 Wash. App. 1074"]
+citations: ["148 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Overlake Hospital Association et al., Appellants, v. The Department o
 source_url: "https://static.case.law/wash-app/148/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3982810
-cites_cases: ["125 Wn.2d 733", "148 Wn. App. 1", "166 Wn.2d 1010", "887 P.2d 891"]
+cites_cases: ["125 Wn.2d 733", "166 Wn.2d 1010", "887 P.2d 891"]
 ---
 
 # Overlake Hospital Ass'n v. Department of Health
