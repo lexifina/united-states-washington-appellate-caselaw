@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36895-1-II"
 decided: "2008-11-04"
-citations: ["148 Wash. App. 500", "147 Wash. App. 1016"]
+citations: ["148 Wash. App. 500"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Robert Bonneville, Appellant, v. Pierce County et al., Respondents."]
 source_url: "https://static.case.law/wash-app/148/cases/0500-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3982602
-cites_cases: ["100 Wn. App. 732", "101 P.3d 80", "106 Wn.2d 1", "107 Wn.2d 196", "11 P.3d 714", "115 Ohio App. 3d 583", "117 Wn.2d 619", "121 P.3d 82", "123 P.3d 832", "128 P.3d 1241", "131 Wn. App. 255", "133 Wn.2d 210", "134 Wn.2d 947", "136 Wn.2d 103", "136 Wn.2d 678", "137 Wn. App. 174", "138 Wn.2d 964", "140 Wn.2d 599", "142 Wn.2d 17", "144 Wn.2d 516", "148 Wn. App. 500", "151 P.3d 1095", "151 Wn.2d 265", "153 Wn.2d 126", "155 Wn.2d 585", "156 Wn.2d 1", "163 Wn.2d 297", "166 Wn.2d 1020", "178 P.3d 995", "21 Wn. App. 929", "234 U.S. 385", "277 Conn. 617", "29 P.3d 689", "31 Wn. App. 501", "34 Wn. App. 5", "36 Wn. App. 330", "384 U.S. 436", "387 U.S. 523", "403 U.S. 88", "408 U.S. 564", "418 U.S. 539", "42 U.S.C. § 1983", "420 N.E.2d 55", "424 U.S. 319", "438 N.Y.S.2d 257", "441 U.S. 418", "47 Wn. App. 157", "47 Wn. App. 245", "511 P.2d 1002", "519 P.2d 7", "52 N.Y.2d 341", "546 P.2d 75", "587 P.2d 191", "588 P.2d 1346", "603 F. Supp. 1546", "643 P.2d 675", "656 P.2d 1030", "659 P.2d 1108", "67 Wn. App. 93", "674 P.2d 1257", "685 N.E.2d 1267", "721 P.2d 1", "728 P.2d 138", "734 P.2d 516", "734 P.2d 928", "76 Wn. App. 32", "77 Wn. App. 90", "801 F.2d 893", "818 P.2d 1056", "82 Wn.2d 418", "83 Wn.2d 491", "834 P.2d 84", "84 Wn. App. 332", "86 Wn.2d 503", "87 P.3d 1169", "882 P.2d 799", "890 P.2d 491", "894 A.2d 240", "91 Wn.2d 345", "929 P.2d 448", "943 P.2d 1369", "954 P.2d 250", "960 P.2d 927", "965 P.2d 1079", "98 Wn.2d 434", "983 P.2d 590", "998 P.2d 367", "998 P.2d 884"]
+cites_cases: ["100 Wn. App. 732", "101 P.3d 80", "106 Wn.2d 1", "107 Wn.2d 196", "11 P.3d 714", "115 Ohio App. 3d 583", "117 Wn.2d 619", "121 P.3d 82", "123 P.3d 832", "128 P.3d 1241", "131 Wn. App. 255", "133 Wn.2d 210", "134 Wn.2d 947", "136 Wn.2d 103", "136 Wn.2d 678", "137 Wn. App. 174", "138 Wn.2d 964", "140 Wn.2d 599", "142 Wn.2d 17", "144 Wn.2d 516", "151 P.3d 1095", "151 Wn.2d 265", "153 Wn.2d 126", "155 Wn.2d 585", "156 Wn.2d 1", "163 Wn.2d 297", "166 Wn.2d 1020", "178 P.3d 995", "21 Wn. App. 929", "234 U.S. 385", "277 Conn. 617", "29 P.3d 689", "31 Wn. App. 501", "34 Wn. App. 5", "36 Wn. App. 330", "384 U.S. 436", "387 U.S. 523", "403 U.S. 88", "408 U.S. 564", "418 U.S. 539", "42 U.S.C. § 1983", "420 N.E.2d 55", "424 U.S. 319", "438 N.Y.S.2d 257", "441 U.S. 418", "47 Wn. App. 157", "47 Wn. App. 245", "511 P.2d 1002", "519 P.2d 7", "52 N.Y.2d 341", "546 P.2d 75", "587 P.2d 191", "588 P.2d 1346", "603 F. Supp. 1546", "643 P.2d 675", "656 P.2d 1030", "659 P.2d 1108", "67 Wn. App. 93", "674 P.2d 1257", "685 N.E.2d 1267", "721 P.2d 1", "728 P.2d 138", "734 P.2d 516", "734 P.2d 928", "76 Wn. App. 32", "77 Wn. App. 90", "801 F.2d 893", "818 P.2d 1056", "82 Wn.2d 418", "83 Wn.2d 491", "834 P.2d 84", "84 Wn. App. 332", "86 Wn.2d 503", "87 P.3d 1169", "882 P.2d 799", "890 P.2d 491", "894 A.2d 240", "91 Wn.2d 345", "929 P.2d 448", "943 P.2d 1369", "954 P.2d 250", "960 P.2d 927", "965 P.2d 1079", "98 Wn.2d 434", "983 P.2d 590", "998 P.2d 367", "998 P.2d 884"]
 ---
 
 # Bonneville v. Pierce County
