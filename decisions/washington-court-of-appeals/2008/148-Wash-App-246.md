@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26564-1-III"
 decided: "2008-11-06"
-citations: ["148 Wash. App. 246", "147 Wash. App. 344"]
+citations: ["148 Wash. App. 246"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Cynthia Estep, Appellant, v. Gene Hamilton et al., Respondents."]
 source_url: "https://static.case.law/wash-app/148/cases/0246-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3981967
-cites_cases: ["103 Wn. App. 240", "103 Wn. App. 498", "107 Wn. App. 757", "108 P. 1069", "11 P.3d 871", "112 Wn.2d 193", "119 Wn.2d 251", "12 P.3d 1048", "125 Wn.2d 500", "128 Wn.2d 164", "128 Wn.2d 408", "135 Wn. App. 859", "146 Wn.2d 291", "147 P.3d 600", "148 Wn. App. 246", "161 Wn.2d 1011", "166 Wn.2d 1027", "177 Wash. 548", "179 P.2d 316", "2 Wn.2d 663", "20 Wn. App. 229", "23 Wn. App. 292", "26 Wn. App. 242", "27 P.3d 246", "27 Wn.2d 615", "32 P.2d 545", "34 Wn. App. 225", "45 P.3d 1068", "46 Wn. App. 708", "53 Wn. App. 579", "55 Wn. App. 417", "56 Wn. App. 312", "58 Wash. 453", "580 P.2d 642", "595 P.2d 67", "611 P.2d 1382", "618 P.2d 96", "660 P.2d 1124", "71 Wn. App. 120", "735 P.2d 675", "77 Wn. App. 867", "770 P.2d 1027", "770 P.2d 197", "777 P.2d 1080", "783 P.2d 601", "82 Wn. App. 339", "830 P.2d 646", "857 P.2d 1053", "88 Wn. App. 586", "886 P.2d 160", "895 P.2d 6", "90 Wn. App. 468", "905 P.2d 355", "908 P.2d 884", "918 P.2d 509", "94 Wn.2d 640", "945 P.2d 752", "957 P.2d 767", "99 P.2d 608"]
+cites_cases: ["103 Wn. App. 240", "103 Wn. App. 498", "107 Wn. App. 757", "108 P. 1069", "11 P.3d 871", "112 Wn.2d 193", "119 Wn.2d 251", "12 P.3d 1048", "125 Wn.2d 500", "128 Wn.2d 164", "128 Wn.2d 408", "135 Wn. App. 859", "146 Wn.2d 291", "147 P.3d 600", "161 Wn.2d 1011", "166 Wn.2d 1027", "177 Wash. 548", "179 P.2d 316", "2 Wn.2d 663", "20 Wn. App. 229", "23 Wn. App. 292", "26 Wn. App. 242", "27 P.3d 246", "27 Wn.2d 615", "32 P.2d 545", "34 Wn. App. 225", "45 P.3d 1068", "46 Wn. App. 708", "53 Wn. App. 579", "55 Wn. App. 417", "56 Wn. App. 312", "58 Wash. 453", "580 P.2d 642", "595 P.2d 67", "611 P.2d 1382", "618 P.2d 96", "660 P.2d 1124", "71 Wn. App. 120", "735 P.2d 675", "77 Wn. App. 867", "770 P.2d 1027", "770 P.2d 197", "777 P.2d 1080", "783 P.2d 601", "82 Wn. App. 339", "830 P.2d 646", "857 P.2d 1053", "88 Wn. App. 586", "886 P.2d 160", "895 P.2d 6", "90 Wn. App. 468", "905 P.2d 355", "908 P.2d 884", "918 P.2d 509", "94 Wn.2d 640", "945 P.2d 752", "957 P.2d 767", "99 P.2d 608"]
 ---
 
 # Estep v. Hamilton
