@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26455-6-III"
 decided: "2008-11-18"
-citations: ["148 Wash. App. 8", "147 Wash. App. 1031"]
+citations: ["148 Wash. App. 8"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The Department of Natural Resources, Respondent, v. Leonard Browning 
 source_url: "https://static.case.law/wash-app/148/cases/0008-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3982523
-cites_cases: ["105 Wn.2d 366", "108 Wn.2d 558", "115 Wn.2d 609", "117 Wn.2d 141", "131 Wn.2d 587", "138 Wn.2d 595", "148 Wn. App. 8", "148 Wn.2d 564", "148 Wn.2d 672", "202 P.2d 906", "32 Wn.2d 551", "54 Wn. App. 589", "62 P.3d 489", "63 P.3d 765", "715 P.2d 514", "740 P.2d 1379", "774 P.2d 1260", "79 Wn. App. 841", "801 P.2d 193", "812 P.2d 483", "91 Wn. App. 127", "917 P.2d 1086", "934 P.2d 685", "95 Wn. App. 106", "955 P.2d 826", "975 P.2d 536", "980 P.2d 1257", "99 Wn. App. 380", "993 P.2d 934"]
+cites_cases: ["105 Wn.2d 366", "108 Wn.2d 558", "115 Wn.2d 609", "117 Wn.2d 141", "131 Wn.2d 587", "138 Wn.2d 595", "148 Wn.2d 564", "148 Wn.2d 672", "202 P.2d 906", "32 Wn.2d 551", "54 Wn. App. 589", "62 P.3d 489", "63 P.3d 765", "715 P.2d 514", "740 P.2d 1379", "774 P.2d 1260", "79 Wn. App. 841", "801 P.2d 193", "812 P.2d 483", "91 Wn. App. 127", "917 P.2d 1086", "934 P.2d 685", "95 Wn. App. 106", "955 P.2d 826", "975 P.2d 536", "980 P.2d 1257", "99 Wn. App. 380", "993 P.2d 934"]
 ---
 
 # Department of Natural Resources v. Browning
