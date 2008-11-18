@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36336-4-II"
 decided: "2008-11-18"
-citations: ["147 Wash. App. 832", "147 Wash. App. 1031"]
+citations: ["147 Wash. App. 832"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. S.A.W., Appellant."]
 source_url: "https://static.case.law/wash-app/147/cases/0832-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3978570
-cites_cases: ["110 Wn.2d 682", "114 Wn. App. 781", "127 Wn.2d 322", "135 Wn. App. 366", "137 Wn.2d 746", "144 P.3d 358", "147 Wn. App. 832", "15 Wn. App. 51", "152 Wn.2d 210", "160 Wn.2d 1024", "163 P.3d 794", "24 L. Ed. 2d 122", "36 Wn. App. 503", "39 Wn. App. 287", "396 U.S. 868", "41 Wn. App. 60", "545 P.2d 538", "547 P.2d 880", "55 Wn. App. 102", "60 P.3d 1215", "674 P.2d 674", "693 P.2d 154", "701 P.2d 1120", "757 P.2d 492", "776 P.2d 984", "86 Wn.2d 419", "899 P.2d 1251", "90 S. Ct. 140", "91 Wn. App. 344", "95 P.3d 345", "955 P.2d 865", "975 P.2d 963"]
+cites_cases: ["110 Wn.2d 682", "114 Wn. App. 781", "127 Wn.2d 322", "135 Wn. App. 366", "137 Wn.2d 746", "144 P.3d 358", "15 Wn. App. 51", "152 Wn.2d 210", "160 Wn.2d 1024", "163 P.3d 794", "24 L. Ed. 2d 122", "36 Wn. App. 503", "39 Wn. App. 287", "396 U.S. 868", "41 Wn. App. 60", "545 P.2d 538", "547 P.2d 880", "55 Wn. App. 102", "60 P.3d 1215", "674 P.2d 674", "693 P.2d 154", "701 P.2d 1120", "757 P.2d 492", "776 P.2d 984", "86 Wn.2d 419", "899 P.2d 1251", "90 S. Ct. 140", "91 Wn. App. 344", "95 P.3d 345", "955 P.2d 865", "975 P.2d 963"]
 ---
 
 # State v. S.A.W.
