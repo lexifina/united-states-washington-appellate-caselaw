@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60836-3-I"
 decided: "2008-11-24"
-citations: ["148 Wash. App. 748", "147 Wash. App. 1035"]
+citations: ["148 Wash. App. 748"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Allan Parmelee, Appellant, v. Harold Clarke, as Secretary of the Depa
 source_url: "https://static.case.law/wash-app/148/cases/0748-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3983467
-cites_cases: ["108 Wn.2d 545", "138 Wn. App. 694", "145 Wn. App. 913", "148 Wn. App. 748", "158 P.3d 1217", "166 Wn.2d 1017", "187 P.3d 822", "741 P.2d 11"]
+cites_cases: ["108 Wn.2d 545", "138 Wn. App. 694", "145 Wn. App. 913", "158 P.3d 1217", "166 Wn.2d 1017", "187 P.3d 822", "741 P.2d 11"]
 ---
 
 # Parmelee v. Clarke
