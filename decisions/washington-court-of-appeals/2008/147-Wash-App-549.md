@@ -1,0 +1,49 @@
+---
+court: "Washington Court of Appeals"
+docket: "26208-1-III"
+decided: "2008-11-25"
+citations: ["147 Wash. App. 549"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kulik, A.C.J., and Brown, J., concur."]
+parties: ["The State of Washington, Respondent v. Charles John Werneth, Appellant."]
+source_url: "https://static.case.law/wash-app/147/cases/0549-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3978472
+cites_cases: ["100 Wn. App. 189", "104 Wn. App. 422", "133 P.3d 936", "157 Wn.2d 1", "16 P.3d 664", "400 U.S. 25", "569 P.2d 1129", "64 Wn. App. 641", "826 P.2d 698", "89 Wn.2d 38", "997 P.2d 941", "Ga. Code Ann. § 16-6-4"]
+---
+
+# State v. Werneth
+
+## Majority (Sweeney, J.)
+
+Sweeney, J.
+¶1 A convicted sex offender is required to register an address with the sheriff. And out-of-state convictions for qualifying sex offenses trigger this obligation. But the out-of-state convictions must be legally “comparable” to Washington sex offenses and, if not legally, then factually. Here, the defendant entered an Alford plea to child molestation in Georgia. We conclude that the conviction that resulted from that plea is not comparable to the Washington crime of attempted second degree child molestation. We, therefore, reverse the defendant’s conviction for failure to register as a sex offender.
+FACTS
+¶2 The State of Georgia charged Charles John Werneth with child molestation and attempted aggravated child molestation in 1992. He entered an Alford plea to the child molestation charge, and Georgia did not prosecute the charge for attempted aggravated child molestation.
+¶3 Mr. Werneth moved to Spokane County in 1994. He registered his address in August 1998 as 902 Bowman Road, Spokane, Washington. But he lived at 1420 East Decatur Avenue in Spokane from April 2003 to April 2006. He did not register his Decatur address with the sheriff. The State then charged Mr. Werneth with failure to register as a sex offender after “having been previously convicted of a sex offense as defined in RCW 9.94A.030, to-wit: Child Molestation.” Clerk’s Papers at 1.
+¶4 The State offered a certified copy of Mr. Werneth’s Georgia conviction record to prove that he had been convicted of an out-of-state offense that required him to register as a sex offender in Washington. The State rested. Mr. Werneth moved to dismiss on the ground that his Georgia offense was not comparable to a Washington sex offense and that he, therefore, was not required to register as a sex offender. The court concluded that the Georgia child molestation offense was comparable to Washington’s offense of attempted second degree child molestation, and it denied Mr. Werneth’s motion. The court convicted Mr. Werneth of failing to register.
+DISCUSSION
+¶5 Mr. Werneth argues that the State failed to prove that his Georgia conviction for child molestation is comparable to a Washington “felony sex offense” — a requisite of the failure to register conviction here.
+¶6 We review a challenge to the sufficiency of the evidence by determining whether any rational trier of fact could have found the elements of the crime beyond a reasonable doubt. State v. Hosier, 157 Wn.2d 1, 8, 133 P.3d 936 (2006). The test is whether the State has produced substantial evidence to support each element of the crime charged (a burden of production). State v. Huff, 64 Wn. App. 641, 655, 826 P.2d 698 (1992). There are no factual disputes here, however. The only question before us is whether the Georgia conviction is comparable to the Washington crime of attempted second degree child molestation. That is a question of law and so our review is de novo. State v. Beals, 100 Wn. App. 189, 196, 997 P.2d 941 (2000).
+¶7 The trial court here convicted Mr. Werneth of failure to register as a sex offender under former RCW 9A.44.130 (2006). The statute required the State to prove, among other elements, that Mr. Werneth’s Georgia conviction for child molestation would be a felony sex offense in Washington:
+A person who knowingly fails to comply with any of the requirements of this section is guilty of a class C felony if the crime for which the individual was convicted was a[ri\ . . . out-of-state conviction for an offense that under the laws of this state would be a felony sex offense as defined in subsection (10)(a) of this section.
+Former RCW 9A.44.130(ll)(a) (2006) (emphasis added).
+¶8 Mr. Werneth urges us to apply the three-step analysis for determining the Washington sentencing consequences of an out-of-state conviction set out in State v. Russell, 104 Wn. App. 422, 440, 16 P.3d 664 (2001). And Russell seems to provide an appropriate analytical approach.
+¶9 To determine whether Georgia’s crime of child molestation is a “felony sex offense” under former RCW 9A.44.130(ll)(a), we must (1) convert the out-of-state crime into its Washington counterpart; (2) determine whether the Washington counterpart was a “felony sex offense” on the date the current offense was committed; and (3) assign the same consequence (registration requirement), if any, to the out-of-state conviction. See Russell, 104 Wn. App. at 440. The purpose of this analysis is to “ensure that the out-of-state court found each element of the Washington counterpart crime, just as a Washington court would have if the defendant had been prosecuted here.” Id. at 442-43.
+¶10 Mr. Werneth entered an Alford plea to the Georgia crime of child molestation in 1992. Georgia’s child molestation statute provided:
+A person commits the offense of child molestation when he does any immoral or indecent act to or in the presence of or with any child under the age of 14 years with the intent to arouse or satisfy the sexual desires of either the child or the person.
+Former Ga. Code Ann. § 16-6-4(a) (1992).
+¶11 In 1992, Washington’s second degree child molestation statute required a showing of
+sexual contact with another who is at least twelve years old but less than fourteen years old and not married to the perpetrator and the perpetrator is at least thirty-six months older than the victim.
+Former RCW 9A.44.086(1) (1988). “Sexual contact” meant “any touching of the sexual or other intimate parts of a person done for the purpose of gratifying sexual desire of either party.” RCW 9A.44.010(2). And a person was guilty of criminal attempt in 1992 if “with intent to commit a specific crime, he does any act which is a substantial step toward the commission of that crime.” Former RCW 9A.28.020(1) (1981).
+¶12 The Georgia statute criminalizing child molestation did not include two essential elements required by the Washington crime of attempted second degree child molestation: (1) the victim is “not married to the perpetrator,” and (2) “the perpetrator is at least thirty-six months older than the victim.” Compare former RCW 9A.44.086(1) with former Ga. Code Ann. § 16-6-4(a).
+¶13 Therefore, “the out-of-state court did not necessarily find each fact essential to liability for the proposed Washington counterpart.” Russell, 104 Wn. App. at 441-42. Mr. Werneth’s Georgia crime cannot count as Washington’s crime of attempted second degree child molestation “without more.” Id. at 442. “More” means proof that the Georgia court entered findings of fact that support the additional elements of the Washington offense. See id.
+¶14 The State argues that it produced the additional evidence needed to establish that the Georgia crime is comparable to the proposed Washington crime. It maintains that, at trial, it offered Spokane County court documents that showed Mr. Werneth’s birth date. But the State did not offer any findings of fact made by the Georgia court that might have shown proof of these necessary elements. And the State’s evidence does not show that the Georgia court was aware of Mr. Werneth’s relationship to his victim (i.e., whether or not he was married to the victim).
+¶15 Mr. Werneth’s Georgia conviction is not comparable to the proposed Washington counterpart. Said another way, the Georgia court could not have, based on the facts before it, found Mr. Werneth guilty of Washington’s crime of attempted second degree child molestation in 1992. Mr. Werneth’s birth date was not presented to the Georgia trial court in 1992. And this record does not suggest that the Georgia court found Mr. Werneth was not married to his Georgia victim. We cannot assume the existence of facts that are not in the record. State v. Blight, 89 Wn.2d 38, 46, 569 P.2d 1129 (1977). The Georgia court, therefore, did not find Mr. Werneth’s age or his relationship to his victim beyond a reasonable doubt. And we conclude that the Georgia court did not find Mr. Werneth guilty of the Washington offense of attempted second degree child molestation in 1992. Russell, 104 Wn. App. at 442.
+¶16 We need not address steps two and three of the comparability analysis because step one has not been satisfied. Mr. Werneth’s Georgia conviction cannot be converted to Washington’s crime of attempted second degree child molestation.
+CONCLUSION
+¶17 To convict Mr. Werneth of failing to register as a sex offender, the State had to produce sufficient evidence that Mr. Werneth was convicted of an out-of-state offense that would be a “felony sex offense” as defined in former RCW 9A.44.130(10)(a) (2006). The State failed to show that Mr. Werneth’s Georgia conviction for child molestation is comparable to Washington’s crime of attempted second degree child molestation. The State, therefore, failed to establish an essential element of the crime of failure to register as a sex offender. We reverse Mr. Werneth’s conviction.
+Kulik, A.C.J., and Brown, J., concur.
+North Carolina v. Alford, 400 U.S. 25, 37, 91 S. Ct. 160, 27 L. Ed. 2d 162 (1970) {Alford plea allows defendant to enter guilty plea to settle a particular criminal proceeding while denying guilt).
