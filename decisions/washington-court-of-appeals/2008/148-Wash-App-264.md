@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60747-2-I"
 decided: "2008-12-08"
-citations: ["148 Wash. App. 264", "147 Wash. App. 1044"]
+citations: ["148 Wash. App. 264"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Sharon R. Reed, Respondent, v. ANM Health Care et al., Petitioners."]
 source_url: "https://static.case.law/wash-app/148/cases/0264-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3984409
-cites_cases: ["103 Wn.2d 52", "104 Wn. App. 478", "138 Wn.2d 265", "142 Wn. App. 20", "144 Wn.2d 91", "146 A.D.2d 268", "148 Wn. App. 264", "16 P.3d 1268", "174 P.3d 1182", "26 P.3d 257", "45 Wn. App. 175", "540 N.Y.S.2d 99", "691 P.2d 163", "724 P.2d 403", "75 Wn. App. 431", "878 P.2d 1241", "94 Wn. App. 964", "974 P.2d 335", "979 P.2d 400"]
+cites_cases: ["103 Wn.2d 52", "104 Wn. App. 478", "138 Wn.2d 265", "142 Wn. App. 20", "144 Wn.2d 91", "146 A.D.2d 268", "16 P.3d 1268", "174 P.3d 1182", "26 P.3d 257", "45 Wn. App. 175", "540 N.Y.S.2d 99", "691 P.2d 163", "724 P.2d 403", "75 Wn. App. 431", "878 P.2d 1241", "94 Wn. App. 964", "974 P.2d 335", "979 P.2d 400"]
 ---
 
 # Reed v. Anm Health Care
