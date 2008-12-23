@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36952-4-II"
 decided: "2008-12-23"
-citations: ["148 Wash. App. 533", "147 Wash. App. 1053"]
+citations: ["148 Wash. App. 533"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Richard K. Draxinger, Appella
 source_url: "https://static.case.law/wash-app/148/cases/0533-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3983488
-cites_cases: ["108 Wn.2d 1018", "116 Wn.2d 414", "129 Wn.2d 512", "129 Wn.2d 736", "132 P.3d 1137", "132 Wn. App. 663", "134 Wn. App. 931", "143 P.3d 321", "147 Wn.2d 141", "148 Wn. App. 533", "154 P.3d 220", "159 Wn.2d 849", "166 Wn.2d 1013", "189 Wash. 625", "449 U.S. 873", "47 Wn. App. 317", "52 P.3d 26", "610 P.2d 869", "66 P.2d 360", "734 P.2d 542", "805 P.2d 200", "812 P.2d 858", "919 P.2d 580", "921 P.2d 514", "93 Wn.2d 329"]
+cites_cases: ["108 Wn.2d 1018", "116 Wn.2d 414", "129 Wn.2d 512", "129 Wn.2d 736", "132 P.3d 1137", "132 Wn. App. 663", "134 Wn. App. 931", "143 P.3d 321", "147 Wn.2d 141", "154 P.3d 220", "159 Wn.2d 849", "166 Wn.2d 1013", "189 Wash. 625", "449 U.S. 873", "47 Wn. App. 317", "52 P.3d 26", "610 P.2d 869", "66 P.2d 360", "734 P.2d 542", "805 P.2d 200", "812 P.2d 858", "919 P.2d 580", "921 P.2d 514", "93 Wn.2d 329"]
 ---
 
 # State v. Draxinger
