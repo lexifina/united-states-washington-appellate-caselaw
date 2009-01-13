@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36803-0-II"
 decided: "2009-01-13"
-citations: ["149 Wash. App. 1", "148 Wash. App. 1008"]
+citations: ["149 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Jessie L. Hovig, Appellant."]
 source_url: "https://static.case.law/wash-app/149/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5744298
-cites_cases: ["110 P.3d 717", "111 Wn.2d 1022", "119 Wn.2d 192", "123 Wn.2d 1019", "126 Wn.2d 388", "138 Wn.2d 1014", "140 Wn. App. 858", "142 Wn.2d 631", "143 Wn. App. 507", "148 Wn. App. 1", "15 P.3d 1271", "152 Wn.2d 333", "154 Wn.2d 85", "163 Wn.2d 1041", "164 Wn.2d 1026", "166 P.3d 1268", "166 Wn.2d 1020", "178 P.3d 371", "25 Wn. App. 590", "443 U.S. 307", "464 P.2d 723", "51 Wn. App. 664", "549 P.2d 712", "567 P.2d 1136", "608 P.2d 1254", "616 P.2d 628", "622 P.2d 1240", "71 Wn. App. 444", "71 Wn. App. 556", "754 P.2d 1255", "77 Wn.2d 593", "829 P.2d 1068", "859 P.2d 60", "861 P.2d 473", "87 Wn.2d 112", "88 Wn.2d 899", "894 P.2d 1308", "94 Wn. App. 677", "94 Wn. App. 844", "94 Wn.2d 216", "95 Wn.2d 385", "96 P.3d 974", "973 P.2d 15", "974 P.2d 1253"]
+cites_cases: ["110 P.3d 717", "111 Wn.2d 1022", "119 Wn.2d 192", "123 Wn.2d 1019", "126 Wn.2d 388", "138 Wn.2d 1014", "140 Wn. App. 858", "142 Wn.2d 631", "143 Wn. App. 507", "15 P.3d 1271", "152 Wn.2d 333", "154 Wn.2d 85", "163 Wn.2d 1041", "164 Wn.2d 1026", "166 P.3d 1268", "166 Wn.2d 1020", "178 P.3d 371", "25 Wn. App. 590", "443 U.S. 307", "464 P.2d 723", "51 Wn. App. 664", "549 P.2d 712", "567 P.2d 1136", "608 P.2d 1254", "616 P.2d 628", "622 P.2d 1240", "71 Wn. App. 444", "71 Wn. App. 556", "754 P.2d 1255", "77 Wn.2d 593", "829 P.2d 1068", "859 P.2d 60", "861 P.2d 473", "87 Wn.2d 112", "88 Wn.2d 899", "894 P.2d 1308", "94 Wn. App. 677", "94 Wn. App. 844", "94 Wn.2d 216", "95 Wn.2d 385", "96 P.3d 974", "973 P.2d 15", "974 P.2d 1253"]
 ---
 
 # State v. Hovig
