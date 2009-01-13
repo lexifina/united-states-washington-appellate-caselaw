@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "36626-6-II"
 decided: "2009-01-13"
-citations: ["149 Wash. App. 594", "148 Wash. App. 1008"]
+citations: ["149 Wash. App. 594"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Thomas Trotzer, Appellant, v. Gary Vig et al., Respondents."]
 source_url: "https://static.case.law/wash-app/149/cases/0594-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5741648
-cites_cases: ["100 Wn.2d 1015", "102 Wn. App. 697", "107 Wn.2d 388", "108 Wn. App. 557", "109 Wn. App. 272", "113 P.3d 463", "115 Wn.2d 60", "125 Wn.2d 500", "127 Wn.2d 1002", "131 Wn.2d 1013", "134 P.2d 713", "134 Wn.2d 1012", "135 Wn.2d 193", "141 Wn.2d 169", "142 Wn. App. 557", "142 Wn. App. 81", "144 Wn. App. 755", "148 Wn. App. 594", "148 Wn.2d 701", "149 Wn.2d 873", "154 Wn.2d 365", "16 Wn.2d 693", "164 Wn.2d 1009", "164 Wn.2d 1014", "166 Wn.2d 1023", "173 P.3d 959", "174 P.3d 1250", "183 P.3d 1127", "314 P.2d 622", "32 P.3d 1002", "34 P.3d 899", "35 Wn. App. 169", "4 P.3d 123", "41 Wn. App. 547", "50 Wn.2d 684", "505 P.2d 825", "580 P.2d 617", "64 P.3d 1", "665 P.2d 1383", "704 P.2d 1256", "73 P.3d 369", "730 P.2d 45", "76 Wn. App. 733", "794 P.2d 850", "8 Wn. App. 279", "81 Wn. App. 532", "82 Wn.2d 1002", "86 Wn. App. 871", "886 P.2d 160", "888 P.2d 161", "9 P.3d 898", "90 Wn.2d 201", "914 P.2d 1220", "940 P.2d 671", "955 P.2d 791"]
+cites_cases: ["100 Wn.2d 1015", "102 Wn. App. 697", "107 Wn.2d 388", "108 Wn. App. 557", "109 Wn. App. 272", "113 P.3d 463", "115 Wn.2d 60", "125 Wn.2d 500", "127 Wn.2d 1002", "131 Wn.2d 1013", "134 P.2d 713", "134 Wn.2d 1012", "135 Wn.2d 193", "141 Wn.2d 169", "142 Wn. App. 557", "142 Wn. App. 81", "144 Wn. App. 755", "148 Wn.2d 701", "149 Wn.2d 873", "154 Wn.2d 365", "16 Wn.2d 693", "164 Wn.2d 1009", "164 Wn.2d 1014", "166 Wn.2d 1023", "173 P.3d 959", "174 P.3d 1250", "183 P.3d 1127", "314 P.2d 622", "32 P.3d 1002", "34 P.3d 899", "35 Wn. App. 169", "4 P.3d 123", "41 Wn. App. 547", "50 Wn.2d 684", "505 P.2d 825", "580 P.2d 617", "64 P.3d 1", "665 P.2d 1383", "704 P.2d 1256", "73 P.3d 369", "730 P.2d 45", "76 Wn. App. 733", "794 P.2d 850", "8 Wn. App. 279", "81 Wn. App. 532", "82 Wn.2d 1002", "86 Wn. App. 871", "886 P.2d 160", "888 P.2d 161", "9 P.3d 898", "90 Wn.2d 201", "914 P.2d 1220", "940 P.2d 671", "955 P.2d 791"]
 ---
 
 # Trotzer v. Vig
