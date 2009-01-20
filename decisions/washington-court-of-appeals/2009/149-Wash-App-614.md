@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60177-6-I"
 decided: "2009-01-20"
-citations: ["149 Wash. App. 614", "148 Wash. App. 1012"]
+citations: ["149 Wash. App. 614"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Conrad E. Fallentine, Appella
 source_url: "https://static.case.law/wash-app/149/cases/0614-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5744937
-cites_cases: ["107 Wn.2d 196", "119 Wn.2d 167", "119 Wn.2d 192", "128 S. Ct. 2678", "132 P.3d 1076", "132 P.3d 115", "133 Wn.2d 389", "138 Wn.2d 680", "148 Wn. App. 614", "150 P.3d 59", "152 Wn.2d 333", "156 Wn.2d 677", "156 Wn.2d 709", "159 Wn.2d 311", "160 Wn.2d 910", "162 P.3d 396", "166 Wn.2d 1028", "385 P.2d 727", "541 U.S. 36", "547 U.S. 813", "63 Wn.2d 150", "64 Wn. App. 661", "728 P.2d 138", "828 P.2d 565", "829 P.2d 1068", "829 P.2d 1082", "83 Wn. App. 229", "921 P.2d 575", "93 Wn. App. 453", "945 P.2d 1120", "96 P.3d 974", "970 P.2d 313", "981 P.2d 443"]
+cites_cases: ["107 Wn.2d 196", "119 Wn.2d 167", "119 Wn.2d 192", "128 S. Ct. 2678", "132 P.3d 1076", "132 P.3d 115", "133 Wn.2d 389", "138 Wn.2d 680", "150 P.3d 59", "152 Wn.2d 333", "156 Wn.2d 677", "156 Wn.2d 709", "159 Wn.2d 311", "160 Wn.2d 910", "162 P.3d 396", "166 Wn.2d 1028", "385 P.2d 727", "541 U.S. 36", "547 U.S. 813", "63 Wn.2d 150", "64 Wn. App. 661", "728 P.2d 138", "828 P.2d 565", "829 P.2d 1068", "829 P.2d 1082", "83 Wn. App. 229", "921 P.2d 575", "93 Wn. App. 453", "945 P.2d 1120", "96 P.3d 974", "970 P.2d 313", "981 P.2d 443"]
 ---
 
 # State v. Fallentine
