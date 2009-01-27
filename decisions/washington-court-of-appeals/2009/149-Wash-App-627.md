@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "25797-5-III"
 decided: "2009-01-27"
-citations: ["149 Wash. App. 627", "148 Wash. App. 1026"]
+citations: ["149 Wash. App. 627"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Deral Green et al., Respondents, v. Susan Hooper et al., Appellants."
 source_url: "https://static.case.law/wash-app/149/cases/0627-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5745607
-cites_cases: ["107 Wn. App. 947", "108 Wn.2d 162", "11 Wn. App. 80", "115 Wn. App. 634", "115 Wn.2d 217", "121 Wn.2d 795", "133 Wn.2d 39", "144 Wn. App. 72", "148 Wn. App. 627", "166 Wn.2d 1034", "178 P.2d 965", "180 P.3d 874", "2 Wn. App. 126", "27 Wn.2d 512", "29 P.3d 56", "29 Wn. App. 930", "434 P.2d 565", "467 P.2d 372", "500 P.2d 91", "521 P.2d 761", "558 P.2d 194", "617 P.2d 704", "63 P.3d 184", "631 P.2d 999", "68 Wn. App. 883", "72 Wn.2d 587", "736 P.2d 249", "79 Wn. App. 786", "797 P.2d 477", "81 Wn.2d 132", "83 Wn. App. 846", "846 P.2d 580", "854 P.2d 629", "88 Wn. App. 306", "88 Wn.2d 109", "905 P.2d 922", "924 P.2d 927", "94 Wn.2d 359", "940 P.2d 1362", "945 P.2d 727"]
+cites_cases: ["107 Wn. App. 947", "108 Wn.2d 162", "11 Wn. App. 80", "115 Wn. App. 634", "115 Wn.2d 217", "121 Wn.2d 795", "133 Wn.2d 39", "144 Wn. App. 72", "166 Wn.2d 1034", "178 P.2d 965", "180 P.3d 874", "2 Wn. App. 126", "27 Wn.2d 512", "29 P.3d 56", "29 Wn. App. 930", "434 P.2d 565", "467 P.2d 372", "500 P.2d 91", "521 P.2d 761", "558 P.2d 194", "617 P.2d 704", "63 P.3d 184", "631 P.2d 999", "68 Wn. App. 883", "72 Wn.2d 587", "736 P.2d 249", "79 Wn. App. 786", "797 P.2d 477", "81 Wn.2d 132", "83 Wn. App. 846", "846 P.2d 580", "854 P.2d 629", "88 Wn. App. 306", "88 Wn.2d 109", "905 P.2d 922", "924 P.2d 927", "94 Wn.2d 359", "940 P.2d 1362", "945 P.2d 727"]
 ---
 
 # Green v. Hooper
