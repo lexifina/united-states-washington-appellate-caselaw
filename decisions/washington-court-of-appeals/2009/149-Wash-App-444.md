@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26459-9-III"
 decided: "2009-02-05"
-citations: ["149 Wash. App. 444", "148 Wash. App. 1033"]
+citations: ["149 Wash. App. 444"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Lloyd A. Herman, Respondent, v. The Shorelines Hearings Board et al.,
 source_url: "https://static.case.law/wash-app/149/cases/0444-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5742615
-cites_cases: ["100 Wn. App. 341", "109 Wn. App. 904", "110 P.3d 1132", "110 P.3d 812", "115 Wn.2d 194", "123 Wn.2d 621", "125 Wn.2d 196", "125 Wn.2d 733", "127 Wn. App. 62", "127 Wn.2d 614", "133 Wn. App. 503", "137 P.3d 31", "148 Wn. App. 444", "149 Wn.2d 458", "149 Wn.2d 873", "151 Wn.2d 568", "154 Wn.2d 224", "162 Wn.2d 825", "166 Wn.2d 1029", "175 P.3d 1050", "1997 WL 104554", "2002 WL 1650523", "2004 WL 839243", "294 P.2d 921", "31 Wn. App. 853", "35 Wn. App. 533", "37 P.3d 1244", "39 Wn. App. 346", "48 Wn.2d 461", "528 U.S. 167", "529 P.2d 1058", "568 P.2d 783", "644 P.2d 1231", "667 P.2d 1133", "693 P.2d 183", "70 P.3d 931", "73 P.3d 369", "77 Wn. App. 154", "796 P.2d 412", "84 Wn.2d 858", "869 P.2d 1034", "884 P.2d 910", "887 P.2d 891", "89 Wn.2d 16", "890 P.2d 25", "90 P.3d 659", "902 P.2d 1247", "997 P.2d 380"]
+cites_cases: ["100 Wn. App. 341", "109 Wn. App. 904", "110 P.3d 1132", "110 P.3d 812", "115 Wn.2d 194", "123 Wn.2d 621", "125 Wn.2d 196", "125 Wn.2d 733", "127 Wn. App. 62", "127 Wn.2d 614", "133 Wn. App. 503", "137 P.3d 31", "149 Wn.2d 458", "149 Wn.2d 873", "151 Wn.2d 568", "154 Wn.2d 224", "162 Wn.2d 825", "166 Wn.2d 1029", "175 P.3d 1050", "1997 WL 104554", "2002 WL 1650523", "2004 WL 839243", "294 P.2d 921", "31 Wn. App. 853", "35 Wn. App. 533", "37 P.3d 1244", "39 Wn. App. 346", "48 Wn.2d 461", "528 U.S. 167", "529 P.2d 1058", "568 P.2d 783", "644 P.2d 1231", "667 P.2d 1133", "693 P.2d 183", "70 P.3d 931", "73 P.3d 369", "77 Wn. App. 154", "796 P.2d 412", "84 Wn.2d 858", "869 P.2d 1034", "884 P.2d 910", "887 P.2d 891", "89 Wn.2d 16", "890 P.2d 25", "90 P.3d 659", "902 P.2d 1247", "997 P.2d 380"]
 ---
 
 # Herman v. Shorelines Hearings Board
