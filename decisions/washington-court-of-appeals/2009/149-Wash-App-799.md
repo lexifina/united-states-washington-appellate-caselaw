@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37082-4-II"
 decided: "2009-02-24"
-citations: ["149 Wash. App. 799", "149 Wash. App. 1004"]
+citations: ["149 Wash. App. 799"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Elder Demolition, Inc., Appellant, v. The Department of Labor and Ind
 source_url: "https://static.case.law/wash-app/149/cases/0799-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5744624
-cites_cases: ["106 P.3d 776", "106 Wn. App. 333", "109 Wn. App. 471", "110 Wn.2d 128", "125 Wn. App. 843", "136 Wn. App. 1", "141 Wn. App. 1", "146 P.3d 1212", "149 Wn. App. 799", "15 U.S.C. §§ 2601-2629", "165 P.3d 12", "230 U.S. App. D.C. 362", "24 P.3d 424", "29 U.S.C. § 666", "29 U.S.C. §§ 651-678", "36 P.3d 558", "42 U.S.C. §§ 4851-4856", "466 U.S. 937", "532 P.2d 278", "586 F.2d 683", "607 F.2d 311", "717 F.2d 1419", "750 P.2d 1257", "809 F.2d 161", "85 Wn.2d 182"]
+cites_cases: ["106 P.3d 776", "106 Wn. App. 333", "109 Wn. App. 471", "110 Wn.2d 128", "125 Wn. App. 843", "136 Wn. App. 1", "141 Wn. App. 1", "146 P.3d 1212", "15 U.S.C. §§ 2601-2629", "165 P.3d 12", "230 U.S. App. D.C. 362", "24 P.3d 424", "29 U.S.C. § 666", "29 U.S.C. §§ 651-678", "36 P.3d 558", "42 U.S.C. §§ 4851-4856", "466 U.S. 937", "532 P.2d 278", "586 F.2d 683", "607 F.2d 311", "717 F.2d 1419", "750 P.2d 1257", "809 F.2d 161", "85 Wn.2d 182"]
 ---
 
 # Elder Demolition, Inc. v. Department of Labor & Industries
