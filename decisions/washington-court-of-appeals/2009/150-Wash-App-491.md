@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60801-1-I"
 decided: "2009-03-02"
-citations: ["150 Wash. App. 491", "149 Wash. App. 1007"]
+citations: ["150 Wash. App. 491"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Guardianship of Louise Laverne Wells. Care Plann
 source_url: "https://static.case.law/wash-app/150/cases/0491-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747467
-cites_cases: ["105 Wn. App. 937", "110 Wn.2d 793", "113 P.3d 1041", "118 Wn.2d 596", "126 Wn.2d 36", "127 Wn. App. 926", "127 Wn.2d 1013", "132 Wn.2d 1010", "137 Wn.2d 1023", "137 Wn.2d 792", "149 Wn. App. 491", "150 Wn.2d 518", "156 Wn.2d 1032", "21 P.3d 1165", "221 U.S. 418", "512 U.S. 821", "555 P.2d 1334", "67 Wn. App. 749", "756 P.2d 1303", "77 Wn. App. 720", "79 P.3d 1154", "826 P.2d 172", "837 P.2d 599", "840 P.2d 228", "85 Wn. App. 98", "87 Wn.2d 649", "891 P.2d 725", "893 P.2d 674", "92 Wn. App. 494", "931 P.2d 200", "963 P.2d 947", "975 P.2d 967"]
+cites_cases: ["105 Wn. App. 937", "110 Wn.2d 793", "113 P.3d 1041", "118 Wn.2d 596", "126 Wn.2d 36", "127 Wn. App. 926", "127 Wn.2d 1013", "132 Wn.2d 1010", "137 Wn.2d 1023", "137 Wn.2d 792", "150 Wn.2d 518", "156 Wn.2d 1032", "21 P.3d 1165", "221 U.S. 418", "512 U.S. 821", "555 P.2d 1334", "67 Wn. App. 749", "756 P.2d 1303", "77 Wn. App. 720", "79 P.3d 1154", "826 P.2d 172", "837 P.2d 599", "840 P.2d 228", "85 Wn. App. 98", "87 Wn.2d 649", "891 P.2d 725", "893 P.2d 674", "92 Wn. App. 494", "931 P.2d 200", "963 P.2d 947", "975 P.2d 967"]
 ---
 
 # Care Planning Associates v. Mayberry
