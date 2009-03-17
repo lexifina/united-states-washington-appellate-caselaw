@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26626-5-III"
 decided: "2009-03-17"
-citations: ["149 Wash. App. 810", "149 Wash. App. 1027"]
+citations: ["149 Wash. App. 810"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Cheryl L. Hollenback, Appellant, v. Shriners Hospitals for Children, 
 source_url: "https://static.case.law/wash-app/149/cases/0810-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5742774
-cites_cases: ["110 Wn.2d 355", "114 Wn. App. 611", "118 Wn.2d 79", "120 P.3d 579", "128 Wn.2d 931", "129 Wn. App. 774", "135 Wn.2d 658", "137 Wn.2d 518", "140 Wn.2d 58", "144 Wn.2d 335", "145 Wn.2d 379", "149 Wn. App. 810", "164 Wn.2d 432", "165 Wn.2d 200", "191 P.3d 879", "193 P.3d 128", "27 P.3d 1172", "33 Wn. App. 838", "36 P.3d 1014", "60 P.3d 106", "658 P.2d 42", "66 Wn. App. 829", "753 P.2d 517", "77 Wn. App. 294", "78 Wn. App. 34", "80 Wn. App. 97", "821 P.2d 34", "832 P.2d 1378", "890 P.2d 480", "894 P.2d 1379", "907 P.2d 299", "913 P.2d 377", "94 Wn. App. 976", "958 P.2d 301", "973 P.2d 465", "974 P.2d 348", "98 Wn. App. 845", "991 P.2d 1182", "993 P.2d 901"]
+cites_cases: ["110 Wn.2d 355", "114 Wn. App. 611", "118 Wn.2d 79", "120 P.3d 579", "128 Wn.2d 931", "129 Wn. App. 774", "135 Wn.2d 658", "137 Wn.2d 518", "140 Wn.2d 58", "144 Wn.2d 335", "145 Wn.2d 379", "164 Wn.2d 432", "165 Wn.2d 200", "191 P.3d 879", "193 P.3d 128", "27 P.3d 1172", "33 Wn. App. 838", "36 P.3d 1014", "60 P.3d 106", "658 P.2d 42", "66 Wn. App. 829", "753 P.2d 517", "77 Wn. App. 294", "78 Wn. App. 34", "80 Wn. App. 97", "821 P.2d 34", "832 P.2d 1378", "890 P.2d 480", "894 P.2d 1379", "907 P.2d 299", "913 P.2d 377", "94 Wn. App. 976", "958 P.2d 301", "973 P.2d 465", "974 P.2d 348", "98 Wn. App. 845", "991 P.2d 1182", "993 P.2d 901"]
 ---
 
 # Hollenback v. Shriners Hospitals for Children
