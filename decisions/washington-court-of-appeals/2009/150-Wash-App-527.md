@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26895-1-III"
 decided: "2009-03-17"
-citations: ["150 Wash. App. 527", "149 Wash. App. 1028"]
+citations: ["150 Wash. App. 527"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Sales Creators, Inc., Respondent, v. Little Loan Shoppe, LLC, et al.,
 source_url: "https://static.case.law/wash-app/150/cases/0527-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747081
-cites_cases: ["108 Wn. App. 403", "119 Wn.2d 724", "133 Wn.2d 490", "148 Wn.2d 451", "150 Wn. App. 527", "150 Wn.2d 518", "30 P.3d 537", "42 Wn. App. 281", "47 Wn. App. 681", "61 P.3d 1141", "709 P.2d 813", "736 P.2d 1100", "79 P.3d 1154", "80 Wn. App. 416", "837 P.2d 1000", "909 P.2d 1323", "946 P.2d 388", "95 Wn. App. 633", "976 P.2d 173"]
+cites_cases: ["108 Wn. App. 403", "119 Wn.2d 724", "133 Wn.2d 490", "148 Wn.2d 451", "150 Wn.2d 518", "30 P.3d 537", "42 Wn. App. 281", "47 Wn. App. 681", "61 P.3d 1141", "709 P.2d 813", "736 P.2d 1100", "79 P.3d 1154", "80 Wn. App. 416", "837 P.2d 1000", "909 P.2d 1323", "946 P.2d 388", "95 Wn. App. 633", "976 P.2d 173"]
 ---
 
 # Sales Creators, Inc. v. Little Loan Shoppe, LLC
