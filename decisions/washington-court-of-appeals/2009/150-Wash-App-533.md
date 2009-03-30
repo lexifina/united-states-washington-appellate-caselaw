@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "61925-0-I"
 decided: "2009-03-30"
-citations: ["150 Wash. App. 533", "149 Wash. App. 1035"]
+citations: ["150 Wash. App. 533"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Josephine Anne Johnson, Appellant, v. Ubar, LLC, Respondent."]
 source_url: "https://static.case.law/wash-app/150/cases/0533-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747763
-cites_cases: ["106 Wn. App. 506", "109 Wn. App. 334", "113 Wn. App. 442", "118 Wn.2d 476", "119 Wn.2d 484", "150 Wn. App. 533", "24 P.3d 413", "35 P.3d 383", "484 P.2d 405", "54 P.3d 161", "56 Wn. App. 80", "782 P.2d 574", "79 Wn. App. 732", "79 Wn.2d 198", "824 P.2d 483", "834 P.2d 6", "904 P.2d 793"]
+cites_cases: ["106 Wn. App. 506", "109 Wn. App. 334", "113 Wn. App. 442", "118 Wn.2d 476", "119 Wn.2d 484", "24 P.3d 413", "35 P.3d 383", "484 P.2d 405", "54 P.3d 161", "56 Wn. App. 80", "782 P.2d 574", "79 Wn. App. 732", "79 Wn.2d 198", "824 P.2d 483", "834 P.2d 6", "904 P.2d 793"]
 ---
 
 # Johnson v. Ubar, LLC
