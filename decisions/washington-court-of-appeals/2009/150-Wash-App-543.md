@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "35269-9-II; 35792-5-II; 35799-2-II"
 decided: "2009-03-31"
-citations: ["150 Wash. App. 543", "149 Wash. App. 1036"]
+citations: ["150 Wash. App. 543"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Benjamin S. Asaeli et al., Ap
 source_url: "https://static.case.law/wash-app/150/cases/0543-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5744380
-cites_cases: ["10 P.3d 390", "100 Wn.2d 757", "102 Wn.2d 188", "106 Wn.2d 772", "108 Wn. App. 894", "116 Wn.2d 51", "117 P.3d 1155", "119 Wn.2d 192", "120 Wn.2d 879", "121 Wn.2d 333", "123 Wn.2d 296", "123 Wn.2d 467", "124 Wn.2d 158", "127 Wn.2d 628", "128 Wn. App. 872", "132 Wn.2d 529", "133 Wn.2d 389", "133 Wn.2d 63", "134 P.3d 221", "137 Wn.2d 792", "138 Wn.2d 460", "141 Wn.2d 910", "144 Wn.2d 600", "145 Wn.2d 456", "150 Wn. App. 543", "150 Wn.2d 821", "151 Wn.2d 265", "157 Wn.2d 44", "161 Wn.2d 168", "163 P.3d 786", "167 Wn.2d 1001", "30 P.3d 1255", "34 P.3d 241", "39 P.3d 294", "391 U.S. 123", "482 P.2d 775", "56 Wn. App. 286", "618 P.2d 99", "675 P.2d 1213", "685 P.2d 564", "725 P.2d 951", "764 F.2d 1273", "786 P.2d 277", "79 Wn. App. 518", "79 Wn.2d 12", "80 Wn. App. 342", "804 P.2d 577", "829 P.2d 1068", "83 P.3d 970", "846 P.2d 502", "851 P.2d 654", "86 Wn. App. 312", "868 P.2d 835", "869 P.2d 392", "87 P.3d 1169", "876 P.2d 435", "903 P.2d 500", "904 P.2d 245", "908 P.2d 892", "936 P.2d 426", "94 Wn.2d 634", "940 P.2d 546", "941 P.2d 667", "945 P.2d 1120", "972 P.2d 552", "975 P.2d 967", "979 P.2d 850"]
+cites_cases: ["10 P.3d 390", "100 Wn.2d 757", "102 Wn.2d 188", "106 Wn.2d 772", "108 Wn. App. 894", "116 Wn.2d 51", "117 P.3d 1155", "119 Wn.2d 192", "120 Wn.2d 879", "121 Wn.2d 333", "123 Wn.2d 296", "123 Wn.2d 467", "124 Wn.2d 158", "127 Wn.2d 628", "128 Wn. App. 872", "132 Wn.2d 529", "133 Wn.2d 389", "133 Wn.2d 63", "134 P.3d 221", "137 Wn.2d 792", "138 Wn.2d 460", "141 Wn.2d 910", "144 Wn.2d 600", "145 Wn.2d 456", "150 Wn.2d 821", "151 Wn.2d 265", "157 Wn.2d 44", "161 Wn.2d 168", "163 P.3d 786", "167 Wn.2d 1001", "30 P.3d 1255", "34 P.3d 241", "39 P.3d 294", "391 U.S. 123", "482 P.2d 775", "56 Wn. App. 286", "618 P.2d 99", "675 P.2d 1213", "685 P.2d 564", "725 P.2d 951", "764 F.2d 1273", "786 P.2d 277", "79 Wn. App. 518", "79 Wn.2d 12", "80 Wn. App. 342", "804 P.2d 577", "829 P.2d 1068", "83 P.3d 970", "846 P.2d 502", "851 P.2d 654", "86 Wn. App. 312", "868 P.2d 835", "869 P.2d 392", "87 P.3d 1169", "876 P.2d 435", "903 P.2d 500", "904 P.2d 245", "908 P.2d 892", "936 P.2d 426", "94 Wn.2d 634", "940 P.2d 546", "941 P.2d 667", "945 P.2d 1120", "972 P.2d 552", "975 P.2d 967", "979 P.2d 850"]
 ---
 
 # State v. Asaeli
