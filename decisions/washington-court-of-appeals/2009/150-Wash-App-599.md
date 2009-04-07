@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37006-9-II; 37013-1-II"
 decided: "2009-04-07"
-citations: ["150 Wash. App. 599", "149 Wash. App. 1043"]
+citations: ["150 Wash. App. 599"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Welfare of T.B. et al."]
 source_url: "https://static.case.law/wash-app/150/cases/0599-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5748022
-cites_cases: ["108 Wn. App. 149", "108 Wn.2d 433", "117 Wn.2d 382", "122 P.3d 161", "122 Wn.2d 131", "128 Wn.2d 129", "134 Wn. App. 942", "135 Wn.2d 1002", "137 Wn.2d 918", "143 P.3d 846", "150 Wn. App. 599", "152 Wn.2d 1", "155 Wn.2d 679", "19 Wn. App. 85", "24 Wn. App. 398", "29 P.3d 1275", "503 U.S. 986", "574 P.2d 395", "600 P.2d 1308", "62 Wn. App. 562", "739 P.2d 677", "815 P.2d 277", "816 P.2d 18", "856 P.2d 694", "88 Wn. App. 690", "904 P.2d 1132", "93 P.3d 147", "947 P.2d 252", "976 P.2d 113"]
+cites_cases: ["108 Wn. App. 149", "108 Wn.2d 433", "117 Wn.2d 382", "122 P.3d 161", "122 Wn.2d 131", "128 Wn.2d 129", "134 Wn. App. 942", "135 Wn.2d 1002", "137 Wn.2d 918", "143 P.3d 846", "152 Wn.2d 1", "155 Wn.2d 679", "19 Wn. App. 85", "24 Wn. App. 398", "29 P.3d 1275", "503 U.S. 986", "574 P.2d 395", "600 P.2d 1308", "62 Wn. App. 562", "739 P.2d 677", "815 P.2d 277", "816 P.2d 18", "856 P.2d 694", "88 Wn. App. 690", "904 P.2d 1132", "93 P.3d 147", "947 P.2d 252", "976 P.2d 113"]
 ---
 
 # In re the Welfare of T.B.
