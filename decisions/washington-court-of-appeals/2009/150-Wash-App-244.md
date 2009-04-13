@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "61963-2-I"
 decided: "2009-04-13"
-citations: ["150 Wash. App. 244", "149 Wash. App. 1048"]
+citations: ["150 Wash. App. 244"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Donald Wayne Shuffelen, Respon
 source_url: "https://static.case.law/wash-app/150/cases/0244-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747301
-cites_cases: ["105 Wn.2d 898", "11 P.3d 714", "116 P3d 993", "119 Wn.2d 578", "127 Wn.2d 836", "129 S. Ct. 781", "138 Wn. App. 4", "138 Wn. App. 463", "142 Wn.2d 17", "146 Wn.2d 328", "148 Wn.2d 91", "150 Wn. App. 244", "151 Wn.2d 118", "152 Wn.2d 22", "154 Wn.2d 711", "157 P.3d 893", "384 U.S. 436", "394 U.S. 165", "45 P.3d 1062", "50 Wn. App. 583", "544 U.S. 93", "59 P.3d 58", "622 P.2d 1199", "669 F.2d 1231", "717 F.2d 1277", "719 P.2d 546", "749 P.2d 213", "752 F.2d 1485", "806 F.2d 566", "835 P.2d 216", "85 P.3d 887", "87 Wn. App. 891", "904 P.2d 290", "93 P.3d 133", "943 P.2d 1126", "95 Wn.2d 170"]
+cites_cases: ["105 Wn.2d 898", "11 P.3d 714", "116 P3d 993", "119 Wn.2d 578", "127 Wn.2d 836", "129 S. Ct. 781", "138 Wn. App. 4", "138 Wn. App. 463", "142 Wn.2d 17", "146 Wn.2d 328", "148 Wn.2d 91", "151 Wn.2d 118", "152 Wn.2d 22", "154 Wn.2d 711", "157 P.3d 893", "384 U.S. 436", "394 U.S. 165", "45 P.3d 1062", "50 Wn. App. 583", "544 U.S. 93", "59 P.3d 58", "622 P.2d 1199", "669 F.2d 1231", "717 F.2d 1277", "719 P.2d 546", "749 P.2d 213", "752 F.2d 1485", "806 F.2d 566", "835 P.2d 216", "85 P.3d 887", "87 Wn. App. 891", "904 P.2d 290", "93 P.3d 133", "943 P.2d 1126", "95 Wn.2d 170"]
 ---
 
 # State v. Shuffelen
