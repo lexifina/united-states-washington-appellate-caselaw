@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37092-1-II"
 decided: "2009-04-28"
-citations: ["151 Wash. App. 247", "149 Wash. App. 1065"]
+citations: ["151 Wash. App. 247"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["S&S Construction, Inc., Appellant, v. ADC Properties, LLC, et al., Re
 source_url: "https://static.case.law/wash-app/151/cases/0247-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3990019
-cites_cases: ["116 Wn.2d 1", "119 Wn.2d 151", "125 Ill. App. 2d 298", "127 Wn.2d 256", "135 Wn.2d 112", "151 Wn. App. 247", "168 Wn.2d 1002", "260 N.E.2d 860", "29 Wn. App. 257", "302 F.2d 17", "393 U.S. 145", "492 P.2d 575", "6 Wn. App. 205", "628 P.2d 488", "638 F.2d 548", "802 P.2d 784", "829 P.2d 1087", "84 Wn. App. 744", "85 Wn. App. 760", "87 Wn. App. 538", "897 P.2d 1239", "90 Wn. App. 533", "929 P.2d 1200", "934 P.2d 731", "943 P.2d 322", "954 P.2d 1327", "954 P.2d 290"]
+cites_cases: ["116 Wn.2d 1", "119 Wn.2d 151", "125 Ill. App. 2d 298", "127 Wn.2d 256", "135 Wn.2d 112", "168 Wn.2d 1002", "260 N.E.2d 860", "29 Wn. App. 257", "302 F.2d 17", "393 U.S. 145", "492 P.2d 575", "6 Wn. App. 205", "628 P.2d 488", "638 F.2d 548", "802 P.2d 784", "829 P.2d 1087", "84 Wn. App. 744", "85 Wn. App. 760", "87 Wn. App. 538", "897 P.2d 1239", "90 Wn. App. 533", "929 P.2d 1200", "934 P.2d 731", "943 P.2d 322", "954 P.2d 1327", "954 P.2d 290"]
 ---
 
 # S&S Construction, Inc. v. ADC Properties, LLC
