@@ -1,0 +1,75 @@
+---
+court: "Washington Court of Appeals"
+docket: "61262-0-I"
+decided: "2009-06-01"
+citations: ["150 Wash. App. 434"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwyer, A.C.J., and Becker, J., concur."]
+parties: ["The State of Washington, Respondent, v. Diego S. Marin, Appellant."]
+source_url: "https://static.case.law/wash-app/150/cases/0434-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5747925
+cites_cases: ["100 P.3d 291", "101 Wn. App. 885", "103 Wn. App. 346", "106 Wn.2d 176", "108 P.3d 753", "117 Wn.2d 93", "119 Wn.2d 192", "12 P.3d 160", "121 Wn.2d 333", "125 Wn.2d 769", "125 Wn.2d 782", "135 Wn. App. 54", "143 P.3d 612", "146 Wn.2d 328", "152 Wn.2d 795", "153 Wn.2d 765", "156 P.3d 905", "160 Wn.2d 256", "164 Wn.2d 499", "164 Wn.2d 798", "167 Wn.2d 1012", "192 P.3d 342", "194 P.3d 212", "445 U.S. 684", "45 P.3d 1062", "6 P.3d 53", "721 P.2d 902", "812 P.2d 86", "829 P.2d 1068", "851 P.2d 654", "888 P.2d 1177", "888 P.2d 155"]
+---
+
+# State v. Marin
+
+## Majority (Grosse, J.)
+
+Grosse, J.
+¶1 Double jeopardy prohibits multiple punishments for the same crime. Washington courts analyze double jeopardy issues by determining whether the crimes are both legally different, requiring differing elements, and factually different, as actually charged and tried. Here, the defendant appeals his convictions for possession of methamphetamine and maintaining a vehicle for drug trafficking, alleging double jeopardy. But here, the latter crime requires an element that the former does not, namely, a vehicle, in addition to having different time and mens rea elements. Accepting the State’s concession striking defendant’s bail jumping conviction, we reverse and remand for resentencing but otherwise affirm the trial court.
+FACTS
+¶2 After pulling Diego Marin over for erratic driving, an Anacortes police officer arrested him on an outstanding warrant. In a search incident to arrest, police officers found two small sealed plastic bags containing trace amounts of apparent drug residue, a small canister in the unlocked glove compartment containing 6.10 grams of methamphetamine, and a key fob in the center console containing 1.85 grams of methamphetamine.
+¶3 After its impoundment, police officers thoroughly searched the vehicle pursuant to a warrant. Aided by a specially trained narcotics dog, the police found a blue zippered pouch hidden inside the armrest on the rear passenger side door. The pouch was filled with smaller sealed plastic baggies, each containing varying amounts of a crystalline substance. Laboratory testing confirmed that the pouch’s baggies held a combined total of more than 45 grams of methamphetamine. The blue pouch also contained a small digital scale and a pipe. The police also discovered a large hidden compartment under the hood of the van.
+¶4 A jury convicted Marin of possession of methamphetamine (count I), maintaining a vehicle or premise for drug trafficking (count II), and for bail jumping (count III). The bail jumping charge was added by amended information after Marin failed to appear for an omnibus hearing on count H. Marin appeals.
+ANALYSIS
+Sufficiency of the Evidence—Maintaining a Vehicle for Drug Trafficking
+¶5 When reviewing a challenge to the sufficiency of evidence, this court must determine whether, after examining the facts in the light most favorable to the State, any rational trier of fact could have found the essential elements of a crime beyond a reasonable doubt. We consider “whether the totality of the evidence is sufficient to prove all the required elements.” That test is easily satisfied here. It is unlawful for any person
+[k]nowingly to keep or maintain any store, shop, warehouse, dwelling, building, vehicle, boat, aircraft, or other structure or place, which is resorted to by persons using controlled substances in violation of this chapter for the purpose of using these substances, or which is used for keeping or selling them in violation of this chapter.
+The crime requires some evidence that the drug activity was continuing and recurring in nature, and that a substantial purpose in the maintenance of the vehicle was to conduct illegal drug activities.
+¶6 Although Marin was not the registered owner of the van, he admitted to possessing and using the vehicle for at least several days prior to his arrest. The evidence presented at trial indicated that Marin had been in possession of and using the vehicle for far longer than a mere few days and that he was the vehicle’s owner in fact, if not in law. Neither the person named as the registered owner nor any other person ever claimed the vehicle after its seizure into evidence. The police found numerous personal items of Marin’s throughout the van. Further, Detective Chris Fuller, from the Skagit County Interlocal Drug Enforcement Unit, testified at trial that drug dealers rarely conduct drug operations using a vehicle registered in their own name.
+¶7 Police found a small digital scale in the blue zippered bag containing numerous small baggies filled with varying amounts of methamphetamine. Detective Fuller testified that such scales are commonly used in connection with drug trafficking activities and that the substantial amounts of drugs found throughout the vehicle appeared packaged and ready for resale rather than for personal use alone. Detective Fuller further testified that the drugs found in the vehicle had a street value of many thousands of dollars and that it was his professional opinion that Marin had been maintaining a vehicle for purposes of drug trafficking.
+¶8 Additionally, forensic evidence showed the hidden compartment had only recently been built into the van. Although the compartment was empty, police discovered it only when a narcotics police dog “alerted” them to its existence. This also furthered Detective Fuller’s belief that the vehicle was being used for drug trafficking. Sufficient evidence was presented at trial to support the jury’s finding that Marin was guilty of maintaining a vehicle for drug trafficking.
+Double Jeopardy
+¶9 Double jeopardy prohibits multiple punishments for the same crime. Outside that constraint, the legislature may define criminal conduct and assign such punishment as it sees fit, including imposing multiple punishments for a single course of conduct under different criminal statutes. “ ‘Where a defendant’s act supports charges under two criminal statutes, a court weighing a double jeopardy challenge must determine whether, in light of legislative intent, the charged crimes constitute the same offense.’ ” Double jeopardy challenges are legal questions we review de novo.
+¶10 Here, the legislature’s intention that possession of a controlled substance and maintaining a vehicle for trafficking purposes be separately punishable is clear. Where it is clear that the legislature intended cumulative punishments for conduct as separate crimes, there is no double jeopardy violation. As already noted, the crime of maintaining a vehicle for drug trafficking purposes requires proof that the vehicle was being used for drug activity that was recurring or ongoing in nature and that the defendant had knowledge of the vehicle’s pernicious use. The crime of possession of a controlled substance is equally straightforward:
+(1) It is unlawful for any person to possess a controlled substance unless the substance was obtained directly from, or pursuant to, a valid prescription or order of a practitioner while acting in the course of his or her professional practice, or except as otherwise authorized by this chapter.
+fll The first crime requires an element that the latter does not—a vehicle (or a premise) that is used in an ongoing manner to further drug activities. Although it is likely that actual drugs will be involved where the facts support a charge of maintaining a vehicle for drug trafficking, it is not a necessary element to that crime. The crime of possession, on the other hand, requires just that—possession of a controlled substance, here, methamphetamines. These crimes are clearly distinguishable. While the same set of facts support both convictions, these crimes’ unique elements are supported by different pieces of evidence within that collection of facts. The police found methamphetamines within Marin’s control in the vehicle. This is all that the crime of possession required. While the drugs in the vehicle were evidence of Marin’s maintaining a vehicle for illegal drug distribution purposes, it is not the only evidence supporting that conviction. Most significantly, the vehicle Marin was driving not only had drugs hidden all throughout but also had a compartment built into its hood. The police found it only because of a specially trained dog who “alerted” them to its existence and location. No drugs were actually found by the police in this compartment but the dog was trained to smell and alert its handlers to even trace amounts of the drug. Marin’s convictions do not violate double jeopardy as his crimes were legally distinguishable, each requiring proof the other did not, and these separate elements required different supporting evidence even if all facts supporting his convictions generally arose from the same course of conduct or circumstances.
+Same Criminal Conduct
+¶12 It is possible that a defendant’s criminal conduct may constitute multiple crimes without violating double jeopardy but must count as one crime for purposes of calculating an offender score by statute. RCW 9.94A-.589(l)(a) provides in relevant part:
+[I]f the court enters a finding that some or all of the current offenses encompass the same criminal conduct then those current offenses shall be counted as one crime.
+“Same criminal conduct” as used in this subsection means “two or more crimes that require the same criminal intent, are committed at the same time and place, and involve the same victim.” An appellate court reviews for abuse of discretion the trial court’s implicit assumption that the crimes were not for the same criminal conduct because it included both convictions when calculating Marin’s offender score. No such abuse exists here.
+¶13 As discussed with relation to double jeopardy, Marin was convicted of committing two different crimes and those crimes proscribed different conduct. For instance, the crime of maintaining a vehicle for drug trafficking purposes criminalizes conduct that is ongoing in nature, whereas possession does not. Marin’s same course of conduct argument fails.
+Admission of Bail Posted
+¶14 Marin appeals the trial court’s denial of his request to exclude evidence that Marin was able to post $150,000 bond under ER 403. A trial court is vested with broad discretion to admit or exclude evidence, subject only to appellate review for an abuse of that discretion. No abuse exists here, where the evidence was relevant to the State’s theory of the case, and any prejudice Marin suffered as a result of its admission was insufficient to warrant reversal on appeal.
+¶15 Marin contends the jury’s knowing that he posted $150,000 in bail was not relevant or, if it was, its probative value was so outweighed by its prejudicial effect that the trial court committed reversible error in declining to exclude it under ER 403. Marin had testified that he lived in a trailer, made modest sums of money as a handyman, and had little in the way of assets. Over Marin’s objection, the trial court allowed the State to question Marin on the stand whether he was able to post the high bond. The trial court considered Marin’s objection and found the evidence relevant. The fact that he could post $150,000 bond in cash was relevant to the State’s theory that Marin was actually a sophisticated drug dealer and not someone who worked only the occasional odd job.
+¶16 Moreover, Marin had the immediate opportunity to cure any unduly prejudicial effects of the bail evidence’s admission. Marin’s counsel inquired on redirect into the details of how Marin managed to post such a high bail. Marin testified that his father-in-law had posted the bail on his behalf because Marin’s girl friend was pregnant and her father was worried about the situation. On this record, it cannot be said that the trial court abused its discretion in declining to exclude the bail evidence under ER 403.
+Bail Jumping Conviction
+¶17 Washington law is clear that an essential element of the crime of bail jumping is notice of the underlying offense and its absence from the information renders it constitutionally deficient. The State has conceded this issue as no underlying crime was included on the charging information. Marin’s conviction for bail jumping is stricken.
+¶18 We reverse and remand for resentencing, striking the bail jumping conviction, but otherwise affirm Marin’s convictions and sentencing.
+Dwyer, A.C.J., and Becker, J., concur.
+Review denied at 167 Wn.2d 1012 (2009).
+RCW 69.50.4013.
+RCW 69.50.402(l)(f).
+RCW 9A.76.170(3)(c).
+State v. Joy, 121 Wn.2d 333, 338-39, 851 P.2d 654 (1993); State v. Salinas, 119 Wn.2d 192, 201, 829 P.2d 1068 (1992).
+State v. Ceglowski, 103 Wn. App. 346, 350, 12 P.3d 160 (2000).
+6 RCW 69.50.402(1)(f).
+Ceglowski, 103 Wn. App. at 349-50.
+Paperwork located in the glove compartment indicated that the registered owner of the vehicle was Roger Wills.
+U.S. Const. amend. V; Wash. Const. art. I, § 9.
+State v. Esparza, 135 Wn. App. 54, 59-60, 143 P.3d 612 (2006) (citing State v. Calle, 125 Wn.2d 769, 776, 888 P.2d 155 (1995) (citing Whalen v. United States, 445 U.S. 684, 688, 100 S. Ct. 1432, 63 L. Ed. 2d 715 (1980))); see also State v. Freeman, 153 Wn.2d 765, 771, 108 P.3d 753 (2005).
+Freeman, 153 Wn.2d at 771 (quoting In re Pers. Restraint of Orange, 152 Wn.2d 795, 815, 100 P.3d 291 (2004)); see also Calle, 125 Wn.2d at 777-78.
+State v. Daniels, 160 Wn.2d 256, 261, 156 P.3d 905 (2007).
+See, e.g., Calle, 125 Wn.2d at 777-78 (finding sufficient evidence of legislative intent that the legislature intended to punish rape and incest as separate offenses though arising from the same act).
+State v. Kier, 164 Wn.2d 798, 194 P.3d 212 (2008).
+See RCW 69.50.402(l)(f).
+16 RCW 69.50.4013.
+See State v. Jones, 146 Wn.2d 328, 333, 45 P.3d 1062 (2002) (constructive possession requires a person have dominion and control over the item, enabling its immediate conversion to actual possession).
+RCW 9.94A.589(l)(a).
+ER 403 provides:
+Although relevant, evidence may be excluded if its probative value is substantially outweighed by the danger of unfair prejudice, confusion of the issues, or misleading the jury, or by considerations of undue delay, waste of time, or needless presentation of cumulative evidence.
+ER 403; State v. Hughes, 106 Wn.2d 176, 201-02, 721 P.2d 902 (1986).
+State v. Green, 101 Wn. App. 885, 890, 6 P.3d 53 (2000); see also State v. Quismundo, 164 Wn.2d 499, 192 P.3d 342 (2008); State v. Vangerpen, 125 Wn.2d 782, 888 P.2d 1177 (1995); State v. Kjorsvih, 117 Wn.2d 93, 101, 812 P.2d 86 (1991).
