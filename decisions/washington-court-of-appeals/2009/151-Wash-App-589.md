@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "61569-6-I"
 decided: "2009-06-01"
-citations: ["151 Wash. App. 589", "150 Wash. App. 1028"]
+citations: ["151 Wash. App. 589"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Express Construction Company, Appellant, v. The Department of Labor a
 source_url: "https://static.case.law/wash-app/151/cases/0589-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3987235
-cites_cases: ["114 Wn.2d 454", "119 P.3d 366", "126 Wn.2d 36", "129 Wn. App. 356", "136 Wn. App. 1", "139 Wn. App. 35", "139 Wn. App. 98", "144 P.3d 1160", "146 P.3d 1212", "151 Wn. App. 589", "156 P.3d 250", "158 Wn.2d 422", "161 P.3d 387", "788 P.2d 545", "891 P.2d 725"]
+cites_cases: ["114 Wn.2d 454", "119 P.3d 366", "126 Wn.2d 36", "129 Wn. App. 356", "136 Wn. App. 1", "139 Wn. App. 35", "139 Wn. App. 98", "144 P.3d 1160", "146 P.3d 1212", "156 P.3d 250", "158 Wn.2d 422", "161 P.3d 387", "788 P.2d 545", "891 P.2d 725"]
 ---
 
 # Express Construction Co. v. Department of Labor & Industries
