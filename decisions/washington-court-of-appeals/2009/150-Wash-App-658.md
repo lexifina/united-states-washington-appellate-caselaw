@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "37738-1-II"
+decided: "2009-06-02"
+citations: ["150 Wash. App. 658"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Van Deren, A.C.J., and Hunt, J., concur."]
+parties: ["Barbara A. Stephenson, as Kitsap County Treasurer, Plaintiff, v. Linda A. Pleger et al., Respondents, Joseph Kaiser et al., as Assignees, Appellants."]
+source_url: "https://static.case.law/wash-app/150/cases/0658-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5745848
+cites_cases: ["111 P.3d 1173", "142 P.3d 155", "142 Wn.2d 801", "143 P.3d 590", "146 Wn.2d 947", "151 Wn.2d 226", "151 Wn.2d 512", "154 Wn.2d 345", "158 Wn.2d 194", "158 Wn.2d 247", "16 P.3d 583", "51 P.3d 66", "88 P.3d 375", "91 P.3d 864"]
+---
+
+# Stephenson v. Pleger
+
+## Majority (Armstrong, J.)
+
+Armstrong, J.
+¶1 After Kitsap County (County) started tax foreclosure proceedings against Linda and Daniel Plegers’ real estate, Linda and Daniel sold their interest in the property to Cumulative, LLC, and specifically assigned Cumulative their right to any “overage” (sale proceeds in excess of the delinquent tax amount). RCW 84.64.080 provides that the county treasurer shall pay any overage to the record owner at the time foreclosure proceedings are commenced. Paced with conflicting claims to the overage from the Pleger property sale, the Kitsap County treasurer deposited the overage funds in court and interpleaded the Plegers and Cumulative. The trial court granted summary judgment for the Plegers, reasoning that their transfer to Cumulative was void because it violated RCW 84.64.080, which requires the County to pay the overage to the Plegers, who were the recorded owners at the time foreclosure proceedings commenced. Because RCW 84.64.080 was intended to protect the treasurer in paying out tax sale proceedings and not to determine ownership or prevent a tax-delinquent property owner from selling his or her interests, we reverse and remand for the trial court to determine who actually owned the property at the time of the sale.
+FACTS
+¶2 Linda Pleger and her ex-husband, Daniel Pleger, owned property in the County. In July 2005, the Kitsap County treasurer filed a certificate of delinquency on the parcel because the Plegers had not paid the property taxes. About seven months after the certificate of delinquency was filed, and a few days before the tax foreclosure sale of the Plegers’ property, Cumulative contacted Linda and offered to purchase her property interest in the parcel. Linda assigned her property interest to Cumulative for $3,000. The agreement reads in part:
+Seller . . . acknowledges that as a result of the impending foreclosure sale ... there may be an overage. If such an overage materializes it would normally be paid to him/her. He/she further acknowledges that a condition of the agreement requires him/her to assign the right to that overage, so that the Buyer and not he/she will receive all of the overage, if any . . . in lieu of the contingency of possibly receiving an overage . . . he/she has instead chosen to accept: TWO THOUSAND FIVE HUNDRED AND 00/100 DOLLARS ($2,500.00).
+Clerk’s Papers at 202-03. Daniel similarly assigned his half of the property interest to Cumulative.
+¶3 After the County sold the property in a tax foreclosure sale with a resulting overage of $37,522.02, Cumulative asked the County for the excess funds from the foreclosure sale. A few months later, Linda formally applied for the foreclosure surplus. The County then commenced this interpleader action, naming Linda, Daniel, and Cumulative as defendants.
+¶4 Linda moved for summary judgment, asking the trial court to award her 50 percent of the total excess funds under RCW 84.64.080, a statute governing foreclosure proceedings. Cumulative responded that Linda failed to allege a contract theory that would allow the court to rescind their agreement. The court granted Linda’s motion after finding her assignment to Cumulative void and contrary to the public policy expressed in RCW 84.64.080. Daniel then also moved for summary judgment, asking for the remaining 50 percent of the proceeds. Cumulative did not respond to or oppose Daniel’s motion, and the trial court granted it.
+¶5 The trial court eventually disbursed $18,776.01 (50 percent of the total excess funds) to Daniel, $3,000.00 to Cumulative (the same amount it paid Linda for the assignment), and $15,776.01 (the balance) to Linda. Cumulative now appeals the trial court’s summary judgment rulings and its disbursal of the excess funds.
+ANALYSIS
+I. Daniel’s Motion
+¶6 Cumulative did not respond to or oppose Daniel’s motion for summary judgment. But we have discretion under RAP 2.5(a) to review an issue not raised in the trial court, and we choose to do so here because the facts and issues Linda’s motion raise are identical to those raised in Daniel’s motion.
+H. Summary Judgment
+¶7 Cumulative asserts that the trial court misinterpreted RCW 84.64.080 because the statute directs to whom the County must pay any overage following a foreclosure sale but does not create an ownership interest in the excess funds. We agree.
+¶8 We review a summary judgment order de novo. Go2Net, Inc. v. FreeYellow.com, Inc., 158 Wn.2d 247, 252, 143 P.3d 590 (2006) (citing Troxell v. Rainier Pub. Sch. Dist. No. 307, 154 Wn.2d 345, 350, 111 P.3d 1173 (2005)). Here, the trial court did not rule on the basis of undisputed facts. Rather, it interpreted the statute, RCW 84.64.080, as controlling ownership of the disputed funds.
+¶9 RCW 84.64.080 sets forth foreclosure proceedings for a tax judgment sale. The statute provides:
+If the highest amount bid for any such ... lot is in excess of the minimum bid due upon the whole property included in the certificate of delinquency, the excess shall be refunded... to the record owner of the property. The record owner of the property is the person who held title on the date of issuance of the certificate of delinquency. Assignments of interests, deeds, or other documents executed or recorded after filing the certificate of delinquency shall not affect the payment of excess funds to the record owner.
+RCW 84.64.080 (emphasis added).
+¶10 Our goal in construing a statute is to carry out the legislature’s intent. Am. Cont’l Ins. Co. v. Steen, 151 Wn.2d 512, 518, 91 P.3d 864 (2004) (citing State v. Watson, 146 Wn.2d 947, 954, 51 P.3d 66 (2002)). In interpreting a statute, we look first to its language; if the language is unambiguous, we follow its plain meaning. Cerrillo v. Esparza, 158 Wn.2d 194, 201, 142 P.3d 155 (2006). A statute is ambiguous if its language is susceptible to more than one reasonable interpretation. Cockle v. Dep’t of Labor & Indus., 142 Wn.2d 801, 808, 16 P.3d 583 (2001). If a statute is ambiguous, we look to principles of statutory construction and legislative history to discern the legislature’s intent. State ex rel. Citizens Against Tolls v. Murphy, 151 Wn.2d 226, 242-43, 88 P.3d 375 (2004); Cockle, 142 Wn.2d at 808. We find RCW 84.64.080 ambiguous as to whether it prevents an assignee from becoming the legal owner of the sale proceeds when the record owner assigns his or her interest in the property to the assignee after the certificate of delinquency is filed.
+¶11 The legislative history of RCW 84.64.080 shows that the statute was not intended to determine ownership interests in the proceeds of a tax judgment foreclosure sale. Rather, it was intended to ease the job of the county treasurer because the statute had previously been “ambiguous as to whether other creditors have rights to intervene and receive the refund before it goes to the record owner.” S.B. Rep. on Engrossed Substitute H.B. 1564, at 2, 58th Leg., Reg. Sess. (Wash. 2003). The bill was passed as a procedural rule intended to “assist county treasurers to operate in a more effective manner.” H.B. Rep. on Engrossed Substitute H.B. 1564, at 3, 58th Leg., Reg. Sess. (Wash. 2003). Thus, the trial court erred in finding the Pleger/Cumulative assignment void under RCW 84.64.080 because the procedural nature of RCW 84.64.080 has no impact on determining the rightful owner of the proceeds. Consequently, we reverse and remand for the trial court to determine the owner of the proceeds.
+¶12 Reversed and remanded.
+Van Deren, A.C.J., and Hunt, J., concur.
+Cumulative has assigned its interest to Joseph Kaiser. Although Cumulative may not be the true party in interest, we discuss the issues in its name for clarity. We also refer to the Plegers by their first names for clarity.
