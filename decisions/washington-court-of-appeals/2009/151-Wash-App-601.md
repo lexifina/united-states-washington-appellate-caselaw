@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "61431-2-I"
 decided: "2009-06-22"
-citations: ["151 Wash. App. 601", "150 Wash. App. 1050"]
+citations: ["151 Wash. App. 601"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Whatcom County Fire District No. 21, Respondent, v. Whatcom County, D
 source_url: "https://static.case.law/wash-app/151/cases/0601-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3990873
-cites_cases: ["102 Wn. App. 775", "11 P.3d 322", "133 Wn.2d 861", "140 Wn.2d 599", "143 Wn. App. 185", "146 Wn.2d 685", "147 Wn. App. 490", "151 Wn. App. 601", "164 Wn.2d 1035", "168 Wn.2d 1005", "177 P.3d 172", "195 P.3d 1008", "197 P.3d 1185", "49 P.3d 860", "947 P.2d 1208", "97 Wn. App. 360", "983 P.2d 1135", "998 P.2d 884"]
+cites_cases: ["102 Wn. App. 775", "11 P.3d 322", "133 Wn.2d 861", "140 Wn.2d 599", "143 Wn. App. 185", "146 Wn.2d 685", "147 Wn. App. 490", "164 Wn.2d 1035", "168 Wn.2d 1005", "177 P.3d 172", "195 P.3d 1008", "197 P.3d 1185", "49 P.3d 860", "947 P.2d 1208", "97 Wn. App. 360", "983 P.2d 1135", "998 P.2d 884"]
 ---
 
 # Whatcom County Fire District No. 21 v. Whatcom County
