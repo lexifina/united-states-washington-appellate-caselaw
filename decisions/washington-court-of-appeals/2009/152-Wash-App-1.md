@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37708-0-II"
 decided: "2009-06-23"
-citations: ["152 Wash. App. 1", "150 Wash. App. 1053"]
+citations: ["152 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Robert L. Wirtz, Appellant, v. David Gillogly et al., Respondents."]
 source_url: "https://static.case.law/wash-app/152/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747728
-cites_cases: ["103 Wn.2d 645", "109 Wn.2d 448", "111 Wn. App. 901", "118 Wn. App. 859", "119 Wn.2d 484", "137 Wn.2d 1022", "152 Wn. App. 1", "474 U.S. 827", "48 P.3d 334", "514 P.2d 923", "695 P.2d 116", "746 P.2d 285", "78 P.3d 1026", "834 P.2d 6", "88 Wn. App. 26", "9 Wn. App. 708", "92 Wn. App. 297", "943 P.2d 692", "966 P.2d 342"]
+cites_cases: ["103 Wn.2d 645", "109 Wn.2d 448", "111 Wn. App. 901", "118 Wn. App. 859", "119 Wn.2d 484", "137 Wn.2d 1022", "474 U.S. 827", "48 P.3d 334", "514 P.2d 923", "695 P.2d 116", "746 P.2d 285", "78 P.3d 1026", "834 P.2d 6", "88 Wn. App. 26", "9 Wn. App. 708", "92 Wn. App. 297", "943 P.2d 692", "966 P.2d 342"]
 ---
 
 # Wirtz v. Gillogly
