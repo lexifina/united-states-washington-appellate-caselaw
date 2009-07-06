@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63234-5-I"
 decided: "2009-07-06"
-citations: ["152 Wash. App. 12", "151 Wash. App. 1003"]
+citations: ["152 Wash. App. 12"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Vonage America, Inc., Appellant, v. The City of Seattle, Director of 
 source_url: "https://static.case.law/wash-app/152/cases/0012-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5750602
-cites_cases: ["105 Wn.2d 318", "107 Wn. App. 42", "143 Wn. App. 165", "152 Wn. App. 12", "156 P.3d 185", "160 Wn.2d 32", "161 Wn.2d 353", "164 Wn.2d 35", "166 P.3d 667", "177 P.3d 162", "186 P.3d 1032", "19 S.W.3d 831", "25 P.3d 1022", "313 S.C. 15", "376 U.S. App. D.C. 396", "386 U.S. 753", "430 U.S. 274", "47 C.F.R. § 61.3", "47 U.S.C. § 203", "483 U.S. 232", "489 F.3d 1232", "504 U.S. 298", "564 F.3d 900", "569 F. Supp. 2d 535", "715 P.2d 123"]
+cites_cases: ["105 Wn.2d 318", "107 Wn. App. 42", "143 Wn. App. 165", "156 P.3d 185", "160 Wn.2d 32", "161 Wn.2d 353", "164 Wn.2d 35", "166 P.3d 667", "177 P.3d 162", "186 P.3d 1032", "19 S.W.3d 831", "25 P.3d 1022", "313 S.C. 15", "376 U.S. App. D.C. 396", "386 U.S. 753", "430 U.S. 274", "47 C.F.R. § 61.3", "47 U.S.C. § 203", "483 U.S. 232", "489 F.3d 1232", "504 U.S. 298", "564 F.3d 900", "569 F. Supp. 2d 535", "715 P.2d 123"]
 ---
 
 # Vonage America, Inc. v. City of Seattle
