@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "61709-5-I"
 decided: "2009-07-06"
-citations: ["151 Wash. App. 762", "151 Wash. App. 1001"]
+citations: ["151 Wash. App. 762"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Dennis Gray, Appellant."]
 source_url: "https://static.case.law/wash-app/151/cases/0762-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3990766
-cites_cases: ["115 P.3d 281", "134 Wn. App. 648", "140 Wn. App. 124", "142 P.3d 189", "151 Wn. App. 762", "154 Wn.2d 596", "160 Wn.2d 1016", "161 P.3d 1027", "165 P.3d 31", "166 Wn.2d 358", "209 P.3d 467", "76 Fordham L. Rev. 1453"]
+cites_cases: ["115 P.3d 281", "134 Wn. App. 648", "140 Wn. App. 124", "142 P.3d 189", "154 Wn.2d 596", "160 Wn.2d 1016", "161 P.3d 1027", "165 P.3d 31", "166 Wn.2d 358", "209 P.3d 467", "76 Fordham L. Rev. 1453"]
 ---
 
 # State v. Gray
