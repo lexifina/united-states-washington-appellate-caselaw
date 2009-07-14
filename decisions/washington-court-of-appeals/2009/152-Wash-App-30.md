@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37110-3-II"
 decided: "2009-07-14"
-citations: ["152 Wash. App. 30", "151 Wash. App. 1008"]
+citations: ["152 Wash. App. 30"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Kenneth Miles Hunter, Appella
 source_url: "https://static.case.law/wash-app/152/cases/0030-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5751663
-cites_cases: ["100 P.3d 801", "105 Wn.2d 99", "128 Wn.2d 727", "133 Wn.2d 541", "133 Wn.2d 559", "141 Wn.2d 448", "144 Wn.2d 600", "147 Wn.2d 602", "147 Wn.2d 620", "152 Wn. App. 30", "152 Wn.2d 853", "168 Wn.2d 1008", "30 P.3d 1255", "323 P.2d 236", "52 Wn.2d 103", "56 P.3d 550", "56 P.3d 981", "584 P.2d 382", "6 P.3d 1150", "713 P.2d 79", "90 Wn.2d 443", "912 P.2d 483", "947 P.2d 700", "947 P.2d 708", "99 Wn. App. 312", "997 P.2d 923"]
+cites_cases: ["100 P.3d 801", "105 Wn.2d 99", "128 Wn.2d 727", "133 Wn.2d 541", "133 Wn.2d 559", "141 Wn.2d 448", "144 Wn.2d 600", "147 Wn.2d 602", "147 Wn.2d 620", "152 Wn.2d 853", "168 Wn.2d 1008", "30 P.3d 1255", "323 P.2d 236", "52 Wn.2d 103", "56 P.3d 550", "56 P.3d 981", "584 P.2d 382", "6 P.3d 1150", "713 P.2d 79", "90 Wn.2d 443", "912 P.2d 483", "947 P.2d 700", "947 P.2d 708", "99 Wn. App. 312", "997 P.2d 923"]
 ---
 
 # State v. Hunter
