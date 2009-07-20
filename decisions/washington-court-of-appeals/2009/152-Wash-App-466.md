@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60651-4-I"
 decided: "2009-07-20"
-citations: ["152 Wash. App. 466", "151 Wash. App. 1011"]
+citations: ["152 Wash. App. 466"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The City of Bothell, Respondent, v. Martin F. Kaiser, Petitioner."]
 source_url: "https://static.case.law/wash-app/152/cases/0466-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5748910
-cites_cases: ["103 P.3d 209", "104 Wn. App. 122", "112 P.3d 1284", "113 Wn.2d 679", "116 Wn.2d 831", "117 Wn.2d 93", "118 Wn.2d 424", "119 Wn.2d 143", "120 Wn.2d 196", "124 Wn. App. 798", "127 Wn. App. 893", "140 Wn.2d 229", "147 Wn.2d 353", "15 P.3d 1051", "152 Wn. App. 466", "156 Wn.2d 1022", "30 Wn. App. 119", "459 U.S. 842", "58 P.3d 245", "633 P.2d 92", "638 P.2d 1205", "782 P.2d 552", "809 P.2d 190", "812 P.2d 86", "823 P.2d 1101", "829 P.2d 1078", "840 P.2d 172", "96 Wn.2d 739", "996 P.2d 571"]
+cites_cases: ["103 P.3d 209", "104 Wn. App. 122", "112 P.3d 1284", "113 Wn.2d 679", "116 Wn.2d 831", "117 Wn.2d 93", "118 Wn.2d 424", "119 Wn.2d 143", "120 Wn.2d 196", "124 Wn. App. 798", "127 Wn. App. 893", "140 Wn.2d 229", "147 Wn.2d 353", "15 P.3d 1051", "156 Wn.2d 1022", "30 Wn. App. 119", "459 U.S. 842", "58 P.3d 245", "633 P.2d 92", "638 P.2d 1205", "782 P.2d 552", "809 P.2d 190", "812 P.2d 86", "823 P.2d 1101", "829 P.2d 1078", "840 P.2d 172", "96 Wn.2d 739", "996 P.2d 571"]
 ---
 
 # City of Bothell v. Kaiser
