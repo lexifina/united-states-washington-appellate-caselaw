@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "62840-2-I"
 decided: "2009-07-20"
-citations: ["152 Wash. App. 213", "151 Wash. App. 1016"]
+citations: ["152 Wash. App. 213"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Personal Restraint of Dawud Halisi Malik, Petiti
 source_url: "https://static.case.law/wash-app/152/cases/0213-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5748005
-cites_cases: ["101 Wn.2d 291", "108 Wn. App. 31", "112 Wn.2d 546", "120 Wn. App. 223", "138 Wn.2d 388", "152 Wn. App. 213", "152 Wn.2d 155", "29 P.3d 720", "471 U.S. 491", "678 P.2d 323", "772 P.2d 510", "80 Wn. App. 573", "831 F.2d 183", "84 P.3d 922", "854 F.2d 995", "910 P.2d 1295", "95 P.3d 330", "978 P.2d 1083"]
+cites_cases: ["101 Wn.2d 291", "108 Wn. App. 31", "112 Wn.2d 546", "120 Wn. App. 223", "138 Wn.2d 388", "152 Wn.2d 155", "29 P.3d 720", "471 U.S. 491", "678 P.2d 323", "772 P.2d 510", "80 Wn. App. 573", "831 F.2d 183", "84 P.3d 922", "854 F.2d 995", "910 P.2d 1295", "95 P.3d 330", "978 P.2d 1083"]
 ---
 
 # In re the Personal Restraint of Malik
