@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37989-9-II"
 decided: "2009-07-21"
-citations: ["152 Wash. App. 223", "151 Wash. App. 1019"]
+citations: ["152 Wash. App. 223"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Danny Joe Barber, Jr., Appell
 source_url: "https://static.case.law/wash-app/152/cases/0223-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5750406
-cites_cases: ["110 Wn.2d 528", "111 Wn.2d 34", "117 Wn.2d 175", "127 Wn.2d 322", "129 Wn.2d 279", "143 Wn.2d 1", "148 Wn.2d 550", "149 Wn.2d 395", "151 Wn.2d 294", "152 Wn. App. 223", "17 P.3d 591", "469 U.S. 983", "56 Md. App. 38", "564 P.2d 799", "61 P.3d 1104", "69 P.3d 338", "728 F.2d 809", "756 P.2d 122", "757 P.2d 970", "814 P.2d 635", "88 P.3d 390", "88 Wn.2d 579", "899 P.2d 1251", "916 P.2d 405", "99 Wn. App. 369", "993 P.2d 928"]
+cites_cases: ["110 Wn.2d 528", "111 Wn.2d 34", "117 Wn.2d 175", "127 Wn.2d 322", "129 Wn.2d 279", "143 Wn.2d 1", "148 Wn.2d 550", "149 Wn.2d 395", "151 Wn.2d 294", "17 P.3d 591", "469 U.S. 983", "56 Md. App. 38", "564 P.2d 799", "61 P.3d 1104", "69 P.3d 338", "728 F.2d 809", "756 P.2d 122", "757 P.2d 970", "814 P.2d 635", "88 P.3d 390", "88 Wn.2d 579", "899 P.2d 1251", "916 P.2d 405", "99 Wn. App. 369", "993 P.2d 928"]
 ---
 
 # State v. Barber
