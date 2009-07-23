@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27299-1-III"
 decided: "2009-07-23"
-citations: ["152 Wash. App. 479", "151 Wash. App. 1022"]
+citations: ["152 Wash. App. 479"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["A.W.R. Construction, Inc., Petitioner, v. The Department of Labor and
 source_url: "https://static.case.law/wash-app/152/cases/0479-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747536
-cites_cases: ["105 Wn.2d 353", "11 Wn. App. 838", "112 Wn.2d 347", "115 Wn.2d 171", "123 Wn.2d 641", "129 Wn.2d 289", "140 Wn.2d 291", "145 Wn.2d 445", "146 Wn.2d 1", "152 Wn. App. 479", "153 P.3d 846", "159 Wn.2d 700", "168 Wn.2d 1016", "17 Wn. App. 160", "269 U.S. 385", "38 P.3d 1010", "43 P.3d 4", "552 U.S. 1040", "561 P.2d 1129", "585 P.2d 1174", "609 P.2d 1348", "658 P.2d 648", "715 P.2d 115", "771 P.2d 330", "795 P.2d 693", "870 P.2d 313", "894 P.2d 1352", "90 Wn.2d 787", "916 P.2d 399", "93 Wn.2d 277", "98 Wn.2d 690", "996 P.2d 582"]
+cites_cases: ["105 Wn.2d 353", "11 Wn. App. 838", "112 Wn.2d 347", "115 Wn.2d 171", "123 Wn.2d 641", "129 Wn.2d 289", "140 Wn.2d 291", "145 Wn.2d 445", "146 Wn.2d 1", "153 P.3d 846", "159 Wn.2d 700", "168 Wn.2d 1016", "17 Wn. App. 160", "269 U.S. 385", "38 P.3d 1010", "43 P.3d 4", "552 U.S. 1040", "561 P.2d 1129", "585 P.2d 1174", "609 P.2d 1348", "658 P.2d 648", "715 P.2d 115", "771 P.2d 330", "795 P.2d 693", "870 P.2d 313", "894 P.2d 1352", "90 Wn.2d 787", "916 P.2d 399", "93 Wn.2d 277", "98 Wn.2d 690", "996 P.2d 582"]
 ---
 
 # A.W.R. Construction, Inc. v. Department of Labor & Industries
