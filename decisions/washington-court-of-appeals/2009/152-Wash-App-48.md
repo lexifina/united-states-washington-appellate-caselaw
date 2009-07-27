@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "62436-9-I"
 decided: "2009-07-27"
-citations: ["152 Wash. App. 48", "151 Wash. App. 1028"]
+citations: ["152 Wash. App. 48"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Kathleen Hardee, Appellant, v. The Department of Social and Health Se
 source_url: "https://static.case.law/wash-app/152/cases/0048-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5752081
-cites_cases: ["104 P.3d 1029", "110 Wn. App. 731", "121 P.3d 731", "122 Wn. App. 896", "124 Wn.2d 158", "125 Wn.2d 196", "130 Wn. App. 39", "135 Wn.2d 141", "141 Wn. App. 639", "143 P.3d 571", "144 Wn.2d 516", "149 Wn. App. 855", "151 Wn.2d 568", "152 Wn. App. 48", "158 Wn.2d 208", "159 Wn.2d 132", "168 Wn.2d 1006", "173 P.3d 275", "205 P.3d 963", "29 P.3d 689", "43 P.3d 57", "663 P.2d 457", "876 P.2d 435", "884 P.2d 910", "90 P.3d 659", "95 P.3d 1288", "955 P.2d 377", "99 Wn.2d 466"]
+cites_cases: ["104 P.3d 1029", "110 Wn. App. 731", "121 P.3d 731", "122 Wn. App. 896", "124 Wn.2d 158", "125 Wn.2d 196", "130 Wn. App. 39", "135 Wn.2d 141", "141 Wn. App. 639", "143 P.3d 571", "144 Wn.2d 516", "149 Wn. App. 855", "151 Wn.2d 568", "158 Wn.2d 208", "159 Wn.2d 132", "168 Wn.2d 1006", "173 P.3d 275", "205 P.3d 963", "29 P.3d 689", "43 P.3d 57", "663 P.2d 457", "876 P.2d 435", "884 P.2d 910", "90 P.3d 659", "95 P.3d 1288", "955 P.2d 377", "99 Wn.2d 466"]
 ---
 
 # Hardee v. Department of Social & Health Services
