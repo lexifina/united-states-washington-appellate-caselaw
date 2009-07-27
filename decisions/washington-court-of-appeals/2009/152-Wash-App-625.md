@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "60926-2-I"
 decided: "2009-07-27"
-citations: ["152 Wash. App. 625", "151 Wash. App. 1023"]
+citations: ["152 Wash. App. 625"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["MRC Receivables Corporation, Respondent, v. Almitra Zion, Appellant."
 source_url: "https://static.case.law/wash-app/152/cases/0625-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747297
-cites_cases: ["100 P.2d 401", "134 Wn.2d 692", "134 Wn.2d 814", "152 Wn. App. 625", "171 P.2d 177", "25 Wn.2d 391", "3 Wn.2d 320", "422 U.S. 490", "53 Wn. App. 11", "56 Wn. App. 499", "765 P.2d 905", "784 P.2d 554", "952 P.2d 590", "953 P.2d 462"]
+cites_cases: ["100 P.2d 401", "134 Wn.2d 692", "134 Wn.2d 814", "171 P.2d 177", "25 Wn.2d 391", "3 Wn.2d 320", "422 U.S. 490", "53 Wn. App. 11", "56 Wn. App. 499", "765 P.2d 905", "784 P.2d 554", "952 P.2d 590", "953 P.2d 462"]
 ---
 
 # Mrc Receivables Corp. v. Zion
