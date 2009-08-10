@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "62716-3-I"
 decided: "2009-08-10"
-citations: ["153 Wash. App. 1", "151 Wash. App. 1039"]
+citations: ["153 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jeffrey Moore, Respondent, v. Blue Frog Mobile, Inc., et al., Defenda
 source_url: "https://static.case.law/wash-app/153/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5749586
-cites_cases: ["117 Wn. App. 369", "120 Wn. App. 498", "128 P.3d 1253", "131 Wn. App. 675", "136 Wn.2d 152", "141 Wn. App. 143", "142 Wn. App. 20", "142 Wn. App. 886", "153 Wn. App. 1", "166 Wn.2d 526", "168 Wn.2d 1020", "169 P.3d 487", "174 P.3d 1182", "176 P.3d 577", "34 Wn. App. 495", "515 P.2d 523", "62 Wn. App. 386", "663 P.2d 132", "71 P.3d 692", "75 Wn. App. 634", "814 P.2d 255", "84 P.3d 1241", "879 P.2d 333", "9 Wn. App. 834", "961 P.2d 371"]
+cites_cases: ["117 Wn. App. 369", "120 Wn. App. 498", "128 P.3d 1253", "131 Wn. App. 675", "136 Wn.2d 152", "141 Wn. App. 143", "142 Wn. App. 20", "142 Wn. App. 886", "166 Wn.2d 526", "168 Wn.2d 1020", "169 P.3d 487", "174 P.3d 1182", "176 P.3d 577", "34 Wn. App. 495", "515 P.2d 523", "62 Wn. App. 386", "663 P.2d 132", "71 P.3d 692", "75 Wn. App. 634", "814 P.2d 255", "84 P.3d 1241", "879 P.2d 333", "9 Wn. App. 834", "961 P.2d 371"]
 ---
 
 # Moore v. Blue Frog Mobile, Inc.
