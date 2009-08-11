@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37770-5-II"
 decided: "2009-08-11"
-citations: ["152 Wash. App. 632", "151 Wash. App. 1041"]
+citations: ["152 Wash. App. 632"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Joshua Lee Hayward, Appellant
 source_url: "https://static.case.law/wash-app/152/cases/0632-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747129
-cites_cases: ["103 P.3d 1219", "104 Wn.2d 412", "109 P.3d 415", "112 Wn. App. 525", "114 Wn.2d 613", "116 Wn. App. 106", "119 Wn.2d 294", "126 P.3d 821", "127 Wn.2d 628", "128 S. Ct. 2964", "128 Wn.2d 693", "130 Wn.2d 228", "131 Wn. App. 194", "133 Wn.2d 389", "138 Wn. App. 716", "140 Wn. App. 858", "144 Wn.2d 753", "147 Wn.2d 330", "150 Wn.2d 821", "152 Wn. App. 632", "153 Wn.2d 378", "154 Wn.2d 1", "155 P.3d 125", "158 P.3d 1238", "159 Wn.2d 918", "161 Wn.2d 714", "163 Wn.2d 1008", "163 Wn.2d 1041", "166 P.3d 1268", "168 P.3d 359", "30 P.3d 1278", "32 Wn. App. 437", "386 U.S. 18", "49 P.3d 960", "500 U.S. 391", "502 U.S. 62", "527 U.S. 1", "58 P.3d 889", "64 P.3d 1253", "648 P.2d 443", "70 Wn. App. 573", "705 P.2d 1182", "790 P.2d 610", "83 P.3d 970", "831 P.2d 1060", "854 P.2d 658", "904 P.2d 245", "911 P.2d 996", "922 P.2d 1285", "945 P.2d 1120"]
+cites_cases: ["103 P.3d 1219", "104 Wn.2d 412", "109 P.3d 415", "112 Wn. App. 525", "114 Wn.2d 613", "116 Wn. App. 106", "119 Wn.2d 294", "126 P.3d 821", "127 Wn.2d 628", "128 S. Ct. 2964", "128 Wn.2d 693", "130 Wn.2d 228", "131 Wn. App. 194", "133 Wn.2d 389", "138 Wn. App. 716", "140 Wn. App. 858", "144 Wn.2d 753", "147 Wn.2d 330", "150 Wn.2d 821", "153 Wn.2d 378", "154 Wn.2d 1", "155 P.3d 125", "158 P.3d 1238", "159 Wn.2d 918", "161 Wn.2d 714", "163 Wn.2d 1008", "163 Wn.2d 1041", "166 P.3d 1268", "168 P.3d 359", "30 P.3d 1278", "32 Wn. App. 437", "386 U.S. 18", "49 P.3d 960", "500 U.S. 391", "502 U.S. 62", "527 U.S. 1", "58 P.3d 889", "64 P.3d 1253", "648 P.2d 443", "70 Wn. App. 573", "705 P.2d 1182", "790 P.2d 610", "83 P.3d 970", "831 P.2d 1060", "854 P.2d 658", "904 P.2d 245", "911 P.2d 996", "922 P.2d 1285", "945 P.2d 1120"]
 ---
 
 # State v. Hayward
