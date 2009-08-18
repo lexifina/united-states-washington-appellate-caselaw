@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37715-2-II"
 decided: "2009-08-18"
-citations: ["152 Wash. App. 490", "151 Wash. App. 1048"]
+citations: ["152 Wash. App. 490"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Charity L. Meade, Appellant, v. Michael A. Thomas, Respondent."]
 source_url: "https://static.case.law/wash-app/152/cases/0490-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5749878
-cites_cases: ["1 P.3d 1124", "141 Wn.2d 29", "146 Wn.2d 420", "152 Wn. App. 490", "161 Wn.2d 353", "166 P.3d 667", "47 P.3d 563"]
+cites_cases: ["1 P.3d 1124", "141 Wn.2d 29", "146 Wn.2d 420", "161 Wn.2d 353", "166 P.3d 667", "47 P.3d 563"]
 ---
 
 # Meade v. Thomas
