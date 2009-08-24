@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "61734-6-I"
 decided: "2009-08-24"
-citations: ["153 Wash. App. 10", "151 Wash. App. 1053"]
+citations: ["153 Wash. App. 10"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ronald Dean Harstad, Appellan
 source_url: "https://static.case.law/wash-app/153/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5750753
-cites_cases: ["115 Wn.2d 1010", "115 Wn.2d 171", "116 Wn.2d 315", "118 Wn.2d 1013", "118 Wn.2d 876", "121 Wn.2d 333", "124 Wn.2d 504", "127 Wn.2d 322", "142 Wn.2d 838", "142 Wn.2d 904", "145 Wn. App. 814", "15 P.3d 145", "153 Wn. App. 10", "154 P.3d 909", "155 P.3d 125", "159 Wn.2d 918", "16 P.3d 626", "160 Wn.2d 1", "187 P.3d 321", "24 Wn. App. 517", "269 U.S. 385", "306 Or. 458", "39 Wn. App. 652", "424 P.2d 1021", "45 Wn. App. 824", "459 U.S. 842", "501 U.S. 1237", "506 U.S. 958", "510 U.S. 838", "57 Wn. App. 927", "601 P.2d 995", "62 Wn. App. 914", "639 P.2d 737", "64 Wn. App. 755", "67 Wn. App. 572", "694 P.2d 1117", "70 Wn.2d 690", "727 P.2d 988", "791 P.2d 244", "795 P.2d 693", "80 Wn. App. 426", "804 P.2d 10", "816 P.2d 86", "828 P.2d 1086", "828 P.2d 1106", "837 P.2d 1037", "851 P.2d 654", "881 P.2d 185", "899 P.2d 1251", "907 P.2d 1220", "91 Wn. App. 35", "955 P.2d 805", "96 Wn.2d 902"]
+cites_cases: ["115 Wn.2d 1010", "115 Wn.2d 171", "116 Wn.2d 315", "118 Wn.2d 1013", "118 Wn.2d 876", "121 Wn.2d 333", "124 Wn.2d 504", "127 Wn.2d 322", "142 Wn.2d 838", "142 Wn.2d 904", "145 Wn. App. 814", "15 P.3d 145", "154 P.3d 909", "155 P.3d 125", "159 Wn.2d 918", "16 P.3d 626", "160 Wn.2d 1", "187 P.3d 321", "24 Wn. App. 517", "269 U.S. 385", "306 Or. 458", "39 Wn. App. 652", "424 P.2d 1021", "45 Wn. App. 824", "459 U.S. 842", "501 U.S. 1237", "506 U.S. 958", "510 U.S. 838", "57 Wn. App. 927", "601 P.2d 995", "62 Wn. App. 914", "639 P.2d 737", "64 Wn. App. 755", "67 Wn. App. 572", "694 P.2d 1117", "70 Wn.2d 690", "727 P.2d 988", "791 P.2d 244", "795 P.2d 693", "80 Wn. App. 426", "804 P.2d 10", "816 P.2d 86", "828 P.2d 1086", "828 P.2d 1106", "837 P.2d 1037", "851 P.2d 654", "881 P.2d 185", "899 P.2d 1251", "907 P.2d 1220", "91 Wn. App. 35", "955 P.2d 805", "96 Wn.2d 902"]
 ---
 
 # State v. Harstad
