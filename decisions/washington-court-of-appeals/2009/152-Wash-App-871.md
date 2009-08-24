@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "61839-3-I"
 decided: "2009-08-24"
-citations: ["152 Wash. App. 871", "151 Wash. App. 1053"]
+citations: ["152 Wash. App. 871"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Christine Elkins, Appellant."
 source_url: "https://static.case.law/wash-app/152/cases/0871-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5750174
-cites_cases: ["103 P.3d 1280", "104 Wn.2d 412", "112 Wn.2d 882", "112 Wn.2d 890", "114 Wn. App. 726", "126 Wn. App. 589", "127 Wn.2d 580", "127 Wn.2d 735", "152 Wn. App. 871", "384 U.S. 436", "60 P.3d 615", "61 Wn. App. 525", "705 P.2d 1182", "774 P.2d 1183", "774 P.2d 1187", "810 P.2d 1385", "902 P.2d 157", "903 P.2d 447"]
+cites_cases: ["103 P.3d 1280", "104 Wn.2d 412", "112 Wn.2d 882", "112 Wn.2d 890", "114 Wn. App. 726", "126 Wn. App. 589", "127 Wn.2d 580", "127 Wn.2d 735", "384 U.S. 436", "60 P.3d 615", "61 Wn. App. 525", "705 P.2d 1182", "774 P.2d 1183", "774 P.2d 1187", "810 P.2d 1385", "902 P.2d 157", "903 P.2d 447"]
 ---
 
 # State v. Elkins
