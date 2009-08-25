@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37529-0-II"
 decided: "2009-08-25"
-citations: ["152 Wash. App. 665", "151 Wash. App. 1059"]
+citations: ["152 Wash. App. 665"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Virginia Lynn Denney, Appella
 source_url: "https://static.case.law/wash-app/152/cases/0665-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5747225
-cites_cases: ["108 Wn.2d 230", "111 Wn.2d 641", "152 Wn. App. 665", "384 U.S. 436", "446 U.S. 291", "54 Wn. App. 377", "64 Wn. App. 410", "64 Wn. App. 634", "669 F.2d 1231", "737 P.2d 1005", "762 P.2d 1127", "773 P.2d 879", "824 P.2d 533", "825 P.2d 357"]
+cites_cases: ["108 Wn.2d 230", "111 Wn.2d 641", "384 U.S. 436", "446 U.S. 291", "54 Wn. App. 377", "64 Wn. App. 410", "64 Wn. App. 634", "669 F.2d 1231", "737 P.2d 1005", "762 P.2d 1127", "773 P.2d 879", "824 P.2d 533", "825 P.2d 357"]
 ---
 
 # State v. Denney
