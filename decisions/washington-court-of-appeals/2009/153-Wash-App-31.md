@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27313-0-III"
 decided: "2009-08-27"
-citations: ["153 Wash. App. 31", "151 Wash. App. 1062"]
+citations: ["153 Wash. App. 31"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["American Commerce Insurance Company, Respondent, v. William Ensley et
 source_url: "https://static.case.law/wash-app/153/cases/0031-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5752191
-cites_cases: ["105 Wn.2d 778", "112 Wn.2d 216", "114 Wn.2d 271", "115 Wn. App. 833", "116 Wn.2d 217", "117 Wn.2d 558", "121 Wn.2d 243", "125 Wn.2d 697", "150 Wn.2d 478", "153 Wn. App. 31", "161 Wn.2d 903", "169 P.3d 1", "169 Wn.2d 1010", "477 U.S. 317", "63 P.3d 860", "63 Wn. App. 187", "66 Wn. App. 149", "719 P.2d 531", "73 Wn. App. 107", "770 P.2d 182", "78 P.3d 1274", "78 Wn. App. 526", "787 P.2d 562", "802 P.2d 1360", "816 P.2d 1278", "817 P.2d 841", "831 P.2d 777", "850 P.2d 1298", "868 P.2d 164", "887 P.2d 886", "897 P.2d 417", "90 Wn. App. 408", "91 Wn. App. 952", "952 P.2d 630", "957 P.2d 1283", "97 Wn. App. 691", "988 P.2d 972"]
+cites_cases: ["105 Wn.2d 778", "112 Wn.2d 216", "114 Wn.2d 271", "115 Wn. App. 833", "116 Wn.2d 217", "117 Wn.2d 558", "121 Wn.2d 243", "125 Wn.2d 697", "150 Wn.2d 478", "161 Wn.2d 903", "169 P.3d 1", "169 Wn.2d 1010", "477 U.S. 317", "63 P.3d 860", "63 Wn. App. 187", "66 Wn. App. 149", "719 P.2d 531", "73 Wn. App. 107", "770 P.2d 182", "78 P.3d 1274", "78 Wn. App. 526", "787 P.2d 562", "802 P.2d 1360", "816 P.2d 1278", "817 P.2d 841", "831 P.2d 777", "850 P.2d 1298", "868 P.2d 164", "887 P.2d 886", "897 P.2d 417", "90 Wn. App. 408", "91 Wn. App. 952", "952 P.2d 630", "957 P.2d 1283", "97 Wn. App. 691", "988 P.2d 972"]
 ---
 
 # American Commerce Insurance v. Ensley
