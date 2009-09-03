@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37906-6-II"
 decided: "2009-09-03"
-citations: ["152 Wash. App. 879", "152 Wash. App. 1005"]
+citations: ["152 Wash. App. 879"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Sara Marie Mihali, Respondent.
 source_url: "https://static.case.law/wash-app/152/cases/0879-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5750744
-cites_cases: ["115 Wn.2d 416", "116 Wn. App. 185", "134 Wn.2d 328", "147 Wn. App. 177", "152 Wn. App. 879", "195 P.3d 556", "64 P.3d 684", "799 P.2d 235", "949 P.2d 810"]
+cites_cases: ["115 Wn.2d 416", "116 Wn. App. 185", "134 Wn.2d 328", "147 Wn. App. 177", "195 P.3d 556", "64 P.3d 684", "799 P.2d 235", "949 P.2d 810"]
 ---
 
 # State v. Mihali
