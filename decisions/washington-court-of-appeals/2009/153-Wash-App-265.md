@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "26998-1-III"
 decided: "2009-09-03"
-citations: ["153 Wash. App. 265", "152 Wash. App. 1006"]
+citations: ["153 Wash. App. 265"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Ricardo L. Aguilar, Appellant
 source_url: "https://static.case.law/wash-app/153/cases/0265-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5752372
-cites_cases: ["100 Wn. App. 624", "109 P.3d 415", "117 Wn. App. 531", "119 Wn.2d 192", "121 Wn.2d 333", "122 Wn. App. 185", "126 Wn.2d 136", "132 Wn. App. 750", "133 P.3d 955", "144 Wn.2d 600", "145 Wn.2d 612", "153 Wn. App. 265", "154 Wn.2d 1", "164 Wn.2d 174", "168 Wn.2d 1022", "189 P.3d 126", "30 P.3d 1255", "388 U.S. 14", "41 P.3d 1189", "457 U.S. 368", "618 P.2d 73", "659 P.2d 514", "678 S.W.2d 879", "72 P.3d 256", "829 P.2d 1068", "851 P.2d 654", "89 Wn. App. 857", "892 P.2d 29", "93 P.3d 900", "94 Wn.2d 520", "950 P.2d 1004", "97 Wn. App. 534", "987 P.2d 632", "99 Wn.2d 1", "999 P.2d 51"]
+cites_cases: ["100 Wn. App. 624", "109 P.3d 415", "117 Wn. App. 531", "119 Wn.2d 192", "121 Wn.2d 333", "122 Wn. App. 185", "126 Wn.2d 136", "132 Wn. App. 750", "133 P.3d 955", "144 Wn.2d 600", "145 Wn.2d 612", "154 Wn.2d 1", "164 Wn.2d 174", "168 Wn.2d 1022", "189 P.3d 126", "30 P.3d 1255", "388 U.S. 14", "41 P.3d 1189", "457 U.S. 368", "618 P.2d 73", "659 P.2d 514", "678 S.W.2d 879", "72 P.3d 256", "829 P.2d 1068", "851 P.2d 654", "89 Wn. App. 857", "892 P.2d 29", "93 P.3d 900", "94 Wn.2d 520", "950 P.2d 1004", "97 Wn. App. 534", "987 P.2d 632", "99 Wn.2d 1", "999 P.2d 51"]
 ---
 
 # State v. Aguilar
