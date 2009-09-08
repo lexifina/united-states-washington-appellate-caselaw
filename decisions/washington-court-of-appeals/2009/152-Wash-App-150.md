@@ -1,0 +1,52 @@
+---
+court: "Washington Court of Appeals"
+docket: "27701-1-III"
+decided: "2009-09-08"
+citations: ["152 Wash. App. 150"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Kulik and Korsmo, JJ., concur."]
+parties: ["Delbert Williams, Appellant, v. Leone & Keeble, Inc., Respondent."]
+source_url: "https://static.case.law/wash-app/152/cases/0150-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5749350
+cites_cases: ["132 Idaho 746", "137 P.3d 16", "144 Idaho 882", "157 Wn.2d 206", "168 Wn.2d 1025", "60 Wash. L. Rev. 805", "78 Wn. App. 115", "80 Wn. App. 643", "897 P.2d 365", "910 P.2d 548", "97 Idaho 813"]
+---
+
+# Williams v. Leone & Keeble, Inc.
+
+## Majority (Schultheis, C.J.)
+
+Schultheis, C.J.
+¶1 Delbert Williams appeals the trial court’s dismissal of his lawsuit against Leone & Keeble, Inc. (L&K) for lack of jurisdiction. He claims the trial court erred in concluding that res judicata bars relitigation of the issue of jurisdiction. We reject his argument and affirm.
+FACTS
+¶2 On August 3, 2007, Mr. Williams, a Washington resident, was injured while working for Pro-Set Erectors, an Idaho subcontractor of L&K, on a school remodeling project in Rathdrum, Idaho. L&K, whose main office is in Spokane, was the general contractor on the project. Mr. Williams submitted his workers’ compensation claim in Idaho and was paid workers’ compensation benefits by the Idaho State Insurance Fund. Later, Mr. Williams sued L&K for negligence in Washington. In its answer, L&K denied that Washington had jurisdiction of the matter.
+¶3 Mr. Williams moved for summary judgment, arguing that Washington law should apply because L&K did considerable work in both Washington and Idaho, used the same safety standards in both states, and applied the Washington Administrative Code to many of its Idaho projects. L&K moved for dismissal based on lack of Washington jurisdiction. In the alternative, it moved for application of Idaho law if the Washington court determined it had jurisdiction.
+¶4 L&K pointed out that once the Idaho Industrial Commission makes a final determination as to coverage, this determination is res judicata as to jurisdiction in subsequent proceedings before other tribunals. L&K argued, “The plaintiff... is attempting to re-litigate the issue of jurisdiction supporting a different conclusion. Idaho’s jurisdiction was previously decided in his favor and he has received the pecuniary benefits of that decision.” Clerk’s Papers (CP) at 256-57.
+¶5 Mr. Williams responded that res judicata did not apply because there had never been a final adjudication and he was neither present nor represented when the Idaho Industrial Commission determined he was entitled to workers’ compensation benefits.
+¶6 The trial court denied Mr. Williams’ motion for summary judgment and granted L&K’s motion to dismiss for lack of jurisdiction, finding that the Idaho Industrial Commission’s decision to award Mr. Williams benefits was res judicata as to the issue of jurisdiction in this state. Mr. Williams appeals.
+ANALYSIS
+¶7 The dispositive issue is whether the trial court erred in concluding that res judicata bars relitigation of the issue of jurisdiction in Washington. The trial court’s decision to decline jurisdiction is a matter of law that is reviewed de novo. In re Estate of Kordon, 157 Wn.2d 206, 209, 137 P.3d 16 (2006); Bour v. Johnson, 80 Wn. App. 643, 647, 910 P.2d 548 (1996). Whether res judicata bars relitigation of an issue or claim is also an issue of law we review de novo. Kuhlman v. Thomas, 78 Wn. App. 115, 119-20, 897 P.2d 365 (1995).
+¶8 In its letter opinion, the trial court wrote:
+The court finds that by submitting and receiving benefits on a claim to the Idaho Industrial Commission on his work-related injury, plaintiff is precluded from asserting that the superior court of Spokane County, Washington . . . has jurisdiction over this same matter. Res judicata applies to bar relitigation of the issue of jurisdiction in this state.
+CP at 263.
+¶9 In reaching this conclusion, the court noted that it was persuaded by L&K’s trial memorandum, which argued that “the jurisdictional issue has already been decided as a matter of law by the Idaho Industrial Commission. As a result, this Court and the parties are now precluded from re-litigating the jurisdictional issue by operation of the doctrine of res judicata” CP at 107-08 (Def’s Mem. of Authorities in Supp. of Mot. to Dismiss). L&K cited Baker v. Sullivan, 132 Idaho 746, 979 P.2d 619 (1999) and Anderson v. Gailey, 97 Idaho 813, 555 P.2d 144 (1976) to support its argument.
+¶10 These cases control here. In Baker, a plaintiff filed a workers’ compensation claim after he was injured in a car accident driving from one jobsite to another. The Idaho Industrial Commission awarded him workers’ compensation benefits. Baker, 132 Idaho at 748. Later, the plaintiff filed suit against his employer for negligence. The trial court dismissed the case, concluding that the suit was barred by the exclusive remedy provisions of Idaho’s workers’ compensation laws.
+¶11 The Idaho Supreme Court affirmed, noting that a person injured in the course of employment has only a workers’ compensation claim against the employer, not a tort action. Id. at 749. The court held that the operation of the exclusive remedy rule grants the Idaho Industrial Commission exclusive jurisdiction over claims arising in the course of employment. Id. at 750.
+¶12 In Anderson, the plaintiffs brought a wrongful death action on behalf of their son who was killed in an accident at work. One of the issues was whether the trial court had jurisdiction to consider the tort action or whether the plaintiffs’ exclusive remedy was before the Idaho Industrial Commission under workers’ compensation law. The court stated, “Whenever an employee is injured or killed in the course of an employer-employee relationship within the coverage of the Workmen’s Compensation Law, the injury or death ordinarily gives rise to no cause of action in tort regardless of the fault of the employer.” Anderson, 97 Idaho at 819.
+¶13 In Anderson, the court noted that it was not clear from the record whether the Idaho Industrial Commission had decided whether the injury gave rise to a workers’ compensation claim. However, for remand purposes, the court held:
+[I]f the notice of injury was filed with the Industrial Commission before the plaintiffs filed their original complaint with the district court, then the Industrial Commission has the first right to determine the jurisdictional issue, and its determination is res judicata upon the question of jurisdiction and the factual questions upon which the determination of jurisdiction must necessarily turn.
+Id. at 825.
+¶14 Mr. Williams argues that Anderson is “anomalous to the point of absurdity” and that the case merely holds that if two tribunals have concurrent jurisdiction to determine a legal issue, the first tribunal must make a final decision before res judicata applies. Appellant’s Br. at 11. Mr. Williams also argues that res judicata does not apply because the Idaho Industrial Commission’s award of benefits was an administrative decision, not a final adjudication. Finally, he argues that the elements of res judicata are not met.
+¶15 Mr. Williams’ arguments are meritless. It is undisputed that Mr. Williams filed his first report of injury in Idaho and the Idaho State Insurance Fund accepted his claim as compensable. Under Anderson, the filing of the claim and the Idaho Industrial Commission’s decision to pay benefits is determinative of the issue of jurisdiction. Anderson, 97 Idaho at 824 (holding that if the Idaho Industrial Commission or superior court makes a final decision as to coverage, such determination is res judicata in subsequent proceedings).
+¶16 Based on the principles adopted by the Idaho Supreme Court in Anderson and Baker, the Idaho Industrial Commission has the first right to determine the jurisdictional issue and its award of benefits to Mr. Williams is res judicata as to the jurisdictional issue in the proceeding before the Washington trial court. The trial court did not err by applying the clear language of the Anderson opinion to the undisputed facts of this case.
+¶17 We do not need to address whether the elements of res judicata or collateral estoppel are met here. The Idaho Supreme Court has held that res judicata bars relitigation of the issue of jurisdiction when the Idaho Industrial Commission awards workers’ compensation benefits to a plaintiff. Anderson and Baker are sound precedent. In view of these cases, the trial court did not find it necessary to address the elements of res judicata or collateral estoppel. It is not necessary for us to do so.
+CONCLUSION
+¶18 The issue of jurisdiction was determined by the Idaho Industrial Commission when it awarded workers’ compensation benefits to Mr. Williams. Accordingly, the trial court did not err in concluding that res judicata barred relitigation of the issue of jurisdiction and dismissing the case. We therefore affirm.
+Costs/Attorney Fees
+¶19 L&K requests costs and statutory attorney fees pursuant to RAP 14.2. RAP 14.2 provides for an award of costs “to the party that substantially prevails on review.” As the prevailing party in this appeal, L&K is entitled to its costs, including statutory attorney fees.
+Kulik and Korsmo, JJ., concur.
+Review granted at 168 Wn.2d 1025 (2010).
+Because the jurisdictional issue is dispositive, we do not address Mr. Williams’ other arguments.
+L&K points out that the more precise term here is collateral estoppel, which precludes relitigation of the same issue in a subsequent suit. However, it was not error for the trial court to use the term “res judicata.” In Washington and Idaho, the term “res judicata” often encompasses both issue and claim preclusion. See Navarro v. Yonkers, 144 Idaho 882, 885, 173 P.3d 1141 (2007) (res judicata includes claim preclusion and issue preclusion); see also Philip A. Trautman, Claim and Issue Preclusion in Civil Litigation in Washington, 60 Wash. L. Rev. 805, 805 (1985) (“At times the term ‘res judicata’ is used in the cases and literature to refer to the entire subject of the preclusive effect of judgments, including the relitigation of claims and issues that were litigated ... in a prior action.”).
