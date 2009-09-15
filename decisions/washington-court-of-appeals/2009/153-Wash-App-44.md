@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37451-0-II"
 decided: "2009-09-15"
-citations: ["153 Wash. App. 44", "152 Wash. App. 1015"]
+citations: ["153 Wash. App. 44"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["16th Street Investors, LLC, et al., Respondents, v. Joseph W. Morriso
 source_url: "https://static.case.law/wash-app/153/cases/0044-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5750492
-cites_cases: ["1 A 1031", "112 Wn. App. 428", "121 Wn.2d 715", "149 Wn.2d 1004", "152 Wn.2d 171", "153 Wn. App. 44", "168 Wn.2d 1033", "246 P.2d 468", "25 Wn. App. 552", "314 P.2d 428", "40 Wn.2d 779", "49 P.3d 947", "50 Wn.2d 539", "608 P.2d 266", "612 P.2d 371", "853 P.2d 1373", "93 Wn.2d 1030", "93 Wn.2d 709", "94 P.3d 945"]
+cites_cases: ["1 A 1031", "112 Wn. App. 428", "121 Wn.2d 715", "149 Wn.2d 1004", "152 Wn.2d 171", "168 Wn.2d 1033", "246 P.2d 468", "25 Wn. App. 552", "314 P.2d 428", "40 Wn.2d 779", "49 P.3d 947", "50 Wn.2d 539", "608 P.2d 266", "612 P.2d 371", "853 P.2d 1373", "93 Wn.2d 1030", "93 Wn.2d 709", "94 P.3d 945"]
 ---
 
 # 16th Street Investors, LLC v. Morrison
