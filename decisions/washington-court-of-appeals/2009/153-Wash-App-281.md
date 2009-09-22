@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38247-4-II"
 decided: "2009-09-22"
-citations: ["153 Wash. App. 281", "152 Wash. App. 1025"]
+citations: ["153 Wash. App. 281"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Washington Imaging Services, LLC, Appellant, v. The Department of Rev
 source_url: "https://static.case.law/wash-app/153/cases/0281-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5748778
-cites_cases: ["102 Wn.2d 355", "103 Wn.2d 183", "106 Wn. App. 448", "109 P.3d 805", "112 Wn. App. 428", "113 Wn.2d 561", "136 Wn.2d 1002", "141 Wn.2d 139", "145 Wn.2d 1009", "149 Wash. 234", "149 Wn.2d 1004", "151 Wn.2d 853", "153 Wn. App. 281", "154 Wn.2d 16", "168 Wn.2d 1031", "24 P.3d 460", "270 P. 813", "278 P.2d 305", "3 P.3d 741", "433 P.2d 201", "45 Wn.2d 749", "483 P.2d 628", "49 P.3d 947", "500 P.2d 764", "649 P.2d 839", "687 P.2d 186", "691 P.2d 559", "72 Wn.2d 422", "782 P.2d 986", "79 Wn.2d 143", "81 Wn.2d 171", "89 Wn. App. 39", "93 P.3d 108", "947 P.2d 784", "97 Wn.2d 764"]
+cites_cases: ["102 Wn.2d 355", "103 Wn.2d 183", "106 Wn. App. 448", "109 P.3d 805", "112 Wn. App. 428", "113 Wn.2d 561", "136 Wn.2d 1002", "141 Wn.2d 139", "145 Wn.2d 1009", "149 Wash. 234", "149 Wn.2d 1004", "151 Wn.2d 853", "154 Wn.2d 16", "168 Wn.2d 1031", "24 P.3d 460", "270 P. 813", "278 P.2d 305", "3 P.3d 741", "433 P.2d 201", "45 Wn.2d 749", "483 P.2d 628", "49 P.3d 947", "500 P.2d 764", "649 P.2d 839", "687 P.2d 186", "691 P.2d 559", "72 Wn.2d 422", "782 P.2d 986", "79 Wn.2d 143", "81 Wn.2d 171", "89 Wn. App. 39", "93 P.3d 108", "947 P.2d 784", "97 Wn.2d 764"]
 ---
 
 # Washington Imaging Services, LLC v. Department of Revenue
