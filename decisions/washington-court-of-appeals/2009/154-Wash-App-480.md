@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63814-9-I"
 decided: "2009-10-12"
-citations: ["154 Wash. App. 480", "152 Wash. App. 1038"]
+citations: ["154 Wash. App. 480"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Donnell Wayne Price, Appellan
 source_url: "https://static.case.law/wash-app/154/cases/0480-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5750959
-cites_cases: ["121 Wn.2d 205", "122 P.3d 150", "128 Wn.2d 254", "137 Wn.2d 792", "140 Wn. App. 713", "141 Wn. App. 705", "141 Wn. App. 797", "144 Wn. App. 914", "146 Wn. App. 200", "148 Wn. App. 425", "150 Wn. App. 121", "154 Wn. App. 480", "155 Wn.2d 506", "160 Wn.2d 873", "161 P.3d 990", "163 Wn.2d 1012", "167 P.3d 593", "169 Wn.2d 1021", "171 P.3d 1064", "173 P.3d 948", "184 P.3d 677", "189 P.3d 245", "200 P.3d 266", "206 P.3d 712", "443 U.S. 368", "541 U.S. 36", "554 U.S. 353", "615 P.2d 440", "848 P.2d 1258", "906 P.2d 325", "94 Wn.2d 51", "975 P.2d 967"]
+cites_cases: ["121 Wn.2d 205", "122 P.3d 150", "128 Wn.2d 254", "137 Wn.2d 792", "140 Wn. App. 713", "141 Wn. App. 705", "141 Wn. App. 797", "144 Wn. App. 914", "146 Wn. App. 200", "148 Wn. App. 425", "150 Wn. App. 121", "155 Wn.2d 506", "160 Wn.2d 873", "161 P.3d 990", "163 Wn.2d 1012", "167 P.3d 593", "169 Wn.2d 1021", "171 P.3d 1064", "173 P.3d 948", "184 P.3d 677", "189 P.3d 245", "200 P.3d 266", "206 P.3d 712", "443 U.S. 368", "541 U.S. 36", "554 U.S. 353", "615 P.2d 440", "848 P.2d 1258", "906 P.2d 325", "94 Wn.2d 51", "975 P.2d 967"]
 ---
 
 # State v. Price
