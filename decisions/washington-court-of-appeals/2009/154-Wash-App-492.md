@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "62167-0-I"
 decided: "2009-11-02"
-citations: ["154 Wash. App. 492", "152 Wash. App. 1055"]
+citations: ["154 Wash. App. 492"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Phoenix Development, Inc., et al., Appellants, v. The City of Woodinv
 source_url: "https://static.case.law/wash-app/154/cases/0492-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5754150
-cites_cases: ["100 P.3d 842", "120 P.3d 56", "124 Wn. App. 747", "133 Wn.2d 861", "138 Wn. App. 1", "141 Wn.2d 169", "143 Wn. App. 920", "154 P.3d 936", "154 Wn. App. 492", "155 Wn.2d 397", "162 Wn.2d 597", "169 Wn.2d 1006", "174 P.3d 25", "180 P.3d 848", "1997 WL 123989", "1997 WL 816261", "38 Wn. App. 630", "4 P.3d 123", "662 P.2d 816", "689 P.2d 1084", "78 Wn. App. 840", "899 P.2d 1290", "947 P.2d 1208", "99 Wn.2d 363"]
+cites_cases: ["100 P.3d 842", "120 P.3d 56", "124 Wn. App. 747", "133 Wn.2d 861", "138 Wn. App. 1", "141 Wn.2d 169", "143 Wn. App. 920", "154 P.3d 936", "155 Wn.2d 397", "162 Wn.2d 597", "169 Wn.2d 1006", "174 P.3d 25", "180 P.3d 848", "1997 WL 123989", "1997 WL 816261", "38 Wn. App. 630", "4 P.3d 123", "662 P.2d 816", "689 P.2d 1084", "78 Wn. App. 840", "899 P.2d 1290", "947 P.2d 1208", "99 Wn.2d 363"]
 ---
 
 # Phoenix Development, Inc. v. City of Woodinville
