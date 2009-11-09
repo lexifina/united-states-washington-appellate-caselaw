@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "37769-1-II"
 decided: "2009-11-09"
-citations: ["154 Wash. App. 1", "152 Wash. App. 1066"]
+citations: ["154 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Woodfield Neighborhood Homeowner’s Association, Respondent, v. Rica
 source_url: "https://static.case.law/wash-app/154/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 5753538
-cites_cases: ["111 Wn.2d 424", "112 Wn.2d 323", "118 Wn. App. 458", "119 Wn.2d 1024", "135 Wn.2d 799", "137 Wn.2d 736", "147 Wn. App. 365", "151 Wn.2d 1022", "154 Wn. App. 1", "198 P.3d 1033", "490 U.S. 1004", "65 Wn. App. 1", "759 P.2d 427", "76 P.3d 292", "771 P.2d 340", "828 P.2d 7", "959 P.2d 657", "975 P.2d 512"]
+cites_cases: ["111 Wn.2d 424", "112 Wn.2d 323", "118 Wn. App. 458", "119 Wn.2d 1024", "135 Wn.2d 799", "137 Wn.2d 736", "147 Wn. App. 365", "151 Wn.2d 1022", "198 P.3d 1033", "490 U.S. 1004", "65 Wn. App. 1", "759 P.2d 427", "76 P.3d 292", "771 P.2d 340", "828 P.2d 7", "959 P.2d 657", "975 P.2d 512"]
 ---
 
 # Woodfield Neighborhood Homeowner's Ass'n v. Graziano
