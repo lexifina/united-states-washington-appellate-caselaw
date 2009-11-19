@@ -1,0 +1,44 @@
+---
+court: "Washington Court of Appeals"
+docket: "27406-3-III"
+decided: "2009-11-19"
+citations: ["153 Wash. App. 235"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+parties: ["The State of Washington, Respondent, v. Jesse Edward Fry, Appellant."]
+source_url: "https://static.case.law/wash-app/153/cases/0235-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 5750850
+cites_cases: ["110 Wn.2d 128", "123 Wn.2d 114", "127 P.3d 740", "131 Wn. App. 329", "132 P.3d 743", "132 Wn. App. 592", "150 Wn.2d 774", "150 Wn.2d 821", "164 Wn.2d 499", "165 Wn.2d 842", "168 Wn.2d 1025", "192 P.3d 342", "204 P.3d 217", "750 P.2d 1257", "756 P.2d 142", "83 P.3d 410", "83 P.3d 970", "866 P.2d 631"]
+---
+
+# State v. Fry
+
+## Majority (Sweeney, J.)
+
+¶1 This appeal follows a successful prosecution for third degree assault — domestic violence. The defendant punched his wife in the face. He argues that the conviction should be reversed for two reasons. First, he argues the evidence is not sufficient to show the requisite substantial pain and considerable suffering. We will defer to the jury’s conclusion to the contrary. And second, he argues the court erred by refusing to grant him a new trial based on jury misconduct. A juror brought a dictionary to the jury room. We will defer to the trial judge’s discretionary decision to deny the motion for mistrial. Accordingly, we affirm the conviction.
+Sweeney, J.
+FACTS
+¶2 Linda Schirmer called 911 and reported that Jesse Fry had hit his wife, Lisa Fry. Officer James Canada responded. Ms. Fry told him that Mr. Fry had punched her in the face that morning. Her right eye and the right side of her face were swollen.
+¶3 The State charged Mr. Fry with one count of second degree assault — domestic violence.
+¶4 Mr. Fry testified that Ms. Fry told him “she had pain in her face” throughout the morning of July 3 because Mr. Fry had struck her. Report of Proceedings (RP) (Sept. 8, 2008) at 105. The court instructed the jury on second degree assault and on the lesser-included offense of third degree assault. It listed the elements of third degree assault as follows: (1) Mr. Fry caused Ms. Fry bodily harm; (2) “the bodily harm was accompanied by substantial pain that extended for a period of time sufficient to cause considerable suffering”; and (3) Mr. Fry acted with criminal negligence. Clerk’s Papers at 53. The jury found Mr. Fry guilty of third degree assault — domestic violence.
+f 5 The prosecutor and the defense lawyer went to the jury room to talk to jurors after the verdict. The prosecutor noticed that a juror had a dictionary with her. The bailiff told the prosecutor that the juror said the jury used the dictionary to look up the word “substantial.” The prosecutor related this information to the court by affidavit. And Mr. Fry moved for a new trial based on juror misconduct.
+¶6 The trial court held a hearing. The juror testified that she looked up the word “substantial” in her dictionary at home and brought the dictionary to deliberations but did not share the definition or dictionary with the other jurors until after the jury delivered its verdict to the bailiff. The juror said that this definition “had a little bit to do” with her verdict, “but it wasn’t the majority of it by any means.” RP (Sept. 8, 2008) at 11.
+¶7 The trial court found that the juror looked up the word “substantial” in her dictionary at home but was not enlightened by the definition and did not share it with other jurors while they deliberated. It also found that the instruction for third degree assault contained the word “substantial.” The court concluded that the juror’s conduct did not influence the verdict and denied Mr. Fry’s motion for a new trial.
+DISCUSSION
+New Trial — Juror Misconduct
+¶8 Mr. Fry contends that the trial court erred by denying his motion for a new trial. We review the decision for abuse of discretion. State v. Balisok, 123 Wn.2d 114, 117, 866 P.2d 631 (1994); State v. Boling, 131 Wn. App. 329, 332, 127 P.3d 740 (2006). Abuse occurs where the decision is based on untenable grounds or made for untenable reasons, i.e., it rests on facts unsupported in the record. State v. Quismundo, 164 Wn.2d 499, 504, 192 P.3d 342 (2008).
+¶9 A defendant is entitled to a new trial if a juror’s use of extraneous evidence could influence the verdict and prejudice the defendant. Boling, 131 Wn. App. at 332. But a trial court properly denies a motion for a new trial if “it is satisfied beyond a reasonable doubt that the extrinsic evidence did not contribute to the verdict.” Id. at 333.
+f 10 The trial court here concluded that the dictionary and the definition of “substantial” did not contribute to the verdict because they were not injected into the jury’s deliberations. This conclusion rests on findings that the juror did not share the dictionary or the definition with other jurors during deliberations and that the definition did not affect the juror’s verdict. The record supports these findings. The judge’s decision to deny Mr. Fry’s motion was, therefore, based on tenable grounds.
+¶11 But Mr. Fry argues that the offending juror was untruthful. He asserts that the juror’s testimony conflicted with the prosecutor’s affidavit; the affidavit said that the bailiff told the prosecutor that the juror had used the dictionary. He contends that the juror’s testimony, therefore, does not support the court’s findings that the juror did not use the dictionary. We, of course, defer to the trial court’s determinations on conflicting testimony, witness credibility, and the persuasiveness of the evidence. State v. Thomas, 150 Wn.2d 821, 874-75, 83 P.3d 970 (2004). And we will do so here.
+¶12 Mr. Fry also maintains that the trial court erred by concluding that the juror’s conduct did not prejudice him. And he must show prejudice. State v. Depaz, 165 Wn.2d 842, 856, 204 P.3d 217 (2009). We may presume prejudice on a showing of misconduct. Id. But that “presumption can be overcome by an adequate showing that the misconduct did not affect the deliberations.” Id. And the question of prejudice turns on whether the conduct had an effect on the outcome. Id. at 857.
+¶13 Here, there is no showing of prejudice for two reasons. First, the court concluded, based on adequate findings of fact, that neither the dictionary nor the juror’s use of the dictionary influenced the verdict. And, second, Mr. Fry makes no showing that the language in the dictionary, even if someone did look at it, adversely influenced the resolution of the case. Adkins v. Aluminum Co. of Am., 110 Wn.2d 128, 138, 750 P.2d 1257, 756 P.2d 142 (1988).
+f 14 He contends, nonetheless, that the juror’s misconduct affected the verdict because it helped the juror reach her decision and because other jurors might have used her dictionary during deliberations. The judge’s conclusion to the contrary was his to make. See Boling, 131 Wn. App. at 333 (court must grant new trial unless it is satisfied that the extrinsic evidence did not contribute to the verdict). We will defer to that decision.
+Sufficiency of the Evidence
+¶15 Mr. Fry also contends that the evidence does not support his third degree assault conviction. We view the evidence in the light most favorable to the State, afford it all reasonable inferences, and determine whether the jury could have found each element of the crime charged. State v. Goodman, 150 Wn.2d 774, 781, 83 P.3d 410 (2004); State v. Saunders, 132 Wn. App. 592, 600, 132 P.3d 743 (2006). The State here had to show a negligent act “caus [ing] bodily harm accompanied by substantial pain that extends for a period sufficient to cause considerable suffering.” RCW 9A.36.031(l)(f).
+¶16 Mr. Fry claims that the State did not make an adequate showing that Ms. Fry experienced “substantial pain that extended for a period of time sufficient to cause considerable suffering” because no evidence showed or suggested that she experienced pain or discomfort beyond July 3. Appellant’s Br. at 14. This is not helpful. Mr. Fry essentially invites us to conclude as a matter of law that the pain must last more than a day. We find no authority to support that notion. And, indeed, another court has con-eluded that pain lasting for three hours is sufficient to cause “considerable suffering.” Saunders, 132 Wn. App. at 600.
+¶17 Here, Ms. Fry’s swollen face and right eye and the pain in her face lasted throughout the morning of July 3. This is ample support for the jury’s conclusion that Ms. Fry experienced pain for a period of time sufficient to cause suffering. Id. The evidence, then, supports Mr. Fry’s conviction.
+¶18 We, therefore, affirm Mr. Fry’s third degree assault conviction.
+Kulik, A.C.J., and Korsmo, J., concur.
+Review denied at 168 Wn.2d 1025 (2010).
