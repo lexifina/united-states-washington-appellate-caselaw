@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "62374-5-I"
 decided: "2009-12-28"
-citations: ["155 Wash. App. 733", "153 Wash. App. 1046"]
+citations: ["155 Wash. App. 733"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Aecon Buildings, Inc., Respondent, v. Vandermolen Construction Compan
 source_url: "https://static.case.law/wash-app/155/cases/0733-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3995261
-cites_cases: ["113 Wn. App. 306", "127 Wn. App. 1021", "143 Wn. App. 345", "155 Wn. App. 733", "160 Wn.2d 696", "160 Wn.2d 745", "161 P.3d 345", "161 P.3d 956", "164 Wn.2d 1032", "177 P.3d 755", "2005 WL 1090134", "54 P.3d 665", "572 F. Supp. 2d 1227", "63 Wn. App. 266", "71 Wn. App. 69", "818 P.2d 618", "856 P.2d 725", "94 Wn. App. 20", "971 P.2d 58"]
+cites_cases: ["113 Wn. App. 306", "127 Wn. App. 1021", "143 Wn. App. 345", "160 Wn.2d 696", "160 Wn.2d 745", "161 P.3d 345", "161 P.3d 956", "164 Wn.2d 1032", "177 P.3d 755", "2005 WL 1090134", "54 P.3d 665", "572 F. Supp. 2d 1227", "63 Wn. App. 266", "71 Wn. App. 69", "818 P.2d 618", "856 P.2d 725", "94 Wn. App. 20", "971 P.2d 58"]
 ---
 
 # Aecon Buildings, Inc. v. Vandermolen Construction Co.
