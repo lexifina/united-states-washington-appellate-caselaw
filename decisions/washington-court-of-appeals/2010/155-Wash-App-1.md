@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63148-9-I"
 decided: "2010-01-11"
-citations: ["155 Wash. App. 1", "154 Wash. App. 1006"]
+citations: ["155 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Ernest Coulter et al., Appellants, v. Asten Group, Inc., Respondent."
 source_url: "https://static.case.law/wash-app/155/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3996311
-cites_cases: ["109 P.3d 22", "110 Wn.2d 695", "115 Wn.2d 364", "117 Wn. App. 212", "120 Wn. App. 137", "126 Wn. App. 342", "127 Wn.2d 512", "135 Wn. App. 613", "137 Wn. App. 810", "142 P.3d 155", "142 Wn.2d 801", "144 P.3d 301", "146 P.3d 444", "147 Wn.2d 16", "155 Wn. App. 1", "156 P.3d 240", "158 Wn.2d 194", "158 Wn.2d 375", "16 P.3d 583", "25 Wn. App. 520", "50 P.3d 638", "610 P.2d 387", "658 P.2d 1230", "70 P.3d 154", "756 P.2d 717", "798 P.2d 799", "84 P.3d 286", "901 P.2d 297", "98 Wn.2d 708"]
+cites_cases: ["109 P.3d 22", "110 Wn.2d 695", "115 Wn.2d 364", "117 Wn. App. 212", "120 Wn. App. 137", "126 Wn. App. 342", "127 Wn.2d 512", "135 Wn. App. 613", "137 Wn. App. 810", "142 P.3d 155", "142 Wn.2d 801", "144 P.3d 301", "146 P.3d 444", "147 Wn.2d 16", "156 P.3d 240", "158 Wn.2d 194", "158 Wn.2d 375", "16 P.3d 583", "25 Wn. App. 520", "50 P.3d 638", "610 P.2d 387", "658 P.2d 1230", "70 P.3d 154", "756 P.2d 717", "798 P.2d 799", "84 P.3d 286", "901 P.2d 297", "98 Wn.2d 708"]
 ---
 
 # Coulter v. Asten Group, Inc.
