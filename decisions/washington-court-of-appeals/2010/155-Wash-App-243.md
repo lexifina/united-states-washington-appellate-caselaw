@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38679-8-II"
 decided: "2010-02-04"
-citations: ["155 Wash. App. 243", "154 Wash. App. 1030"]
+citations: ["155 Wash. App. 243"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Joseph H. Steen, Appellant."]
 source_url: "https://static.case.law/wash-app/155/cases/0243-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3996903
-cites_cases: ["115 P.3d 281", "127 Wn.2d 628", "129 Wn.2d 736", "130 Wn.2d 1", "132 P.3d 1076", "136 Wn. App. 836", "146 Wn.2d 861", "147 Wn. App. 944", "149 Wn.2d 342", "151 P.3d 1001", "154 Wn.2d 596", "155 Wn. App. 243", "156 Wn.2d 709", "164 Wn.2d 739", "166 Wn.2d 664", "193 P.3d 678", "197 P.3d 1224", "211 P.3d 1023", "50 P.3d 618", "68 P.3d 282", "904 P.2d 245", "921 P.2d 1035", "921 P.2d 514"]
+cites_cases: ["115 P.3d 281", "127 Wn.2d 628", "129 Wn.2d 736", "130 Wn.2d 1", "132 P.3d 1076", "136 Wn. App. 836", "146 Wn.2d 861", "147 Wn. App. 944", "149 Wn.2d 342", "151 P.3d 1001", "154 Wn.2d 596", "156 Wn.2d 709", "164 Wn.2d 739", "166 Wn.2d 664", "193 P.3d 678", "197 P.3d 1224", "211 P.3d 1023", "50 P.3d 618", "68 P.3d 282", "904 P.2d 245", "921 P.2d 1035", "921 P.2d 514"]
 ---
 
 # State v. Steen
