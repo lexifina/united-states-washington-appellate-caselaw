@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38109-5-II"
 decided: "2010-02-09"
-citations: ["155 Wash. App. 250", "154 Wash. App. 1034"]
+citations: ["155 Wash. App. 250"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Tacoma Rescue Mission, Respondent, v. James Stewart, Appellant."]
 source_url: "https://static.case.law/wash-app/155/cases/0250-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3996661
-cites_cases: ["104 Wn. App. 763", "114 Wn.2d 558", "118 Wn.2d 801", "141 Wn. App. 624", "149 Wn.2d 130", "153 Wn. App. 366", "155 Wn. App. 250", "162 Wn.2d 365", "173 P.3d 228", "174 P.3d 95", "19 P.3d 1051", "19 Wn. App. 871", "190 Wash. 176", "218 P.2d 307", "223 P.3d 1172", "24 C.F.R. § 882.511", "294 F. Supp. 2d 1067", "36 Wn. App. 34", "36 Wn.2d 416", "425 F.2d 853", "578 P.2d 76", "639 N.E.2d 1253", "65 P.3d 1192", "67 P.2d 858", "671 P.2d 289", "789 P.2d 745", "828 P.2d 549", "93 Ohio App. 3d 819", "94 Wn. App. 731", "972 P.2d 952", "98 Wn. App. 780", "990 P.2d 986"]
+cites_cases: ["104 Wn. App. 763", "114 Wn.2d 558", "118 Wn.2d 801", "141 Wn. App. 624", "149 Wn.2d 130", "153 Wn. App. 366", "162 Wn.2d 365", "173 P.3d 228", "174 P.3d 95", "19 P.3d 1051", "19 Wn. App. 871", "190 Wash. 176", "218 P.2d 307", "223 P.3d 1172", "24 C.F.R. § 882.511", "294 F. Supp. 2d 1067", "36 Wn. App. 34", "36 Wn.2d 416", "425 F.2d 853", "578 P.2d 76", "639 N.E.2d 1253", "65 P.3d 1192", "67 P.2d 858", "671 P.2d 289", "789 P.2d 745", "828 P.2d 549", "93 Ohio App. 3d 819", "94 Wn. App. 731", "972 P.2d 952", "98 Wn. App. 780", "990 P.2d 986"]
 ---
 
 # Tacoma Rescue Mission v. Stewart
