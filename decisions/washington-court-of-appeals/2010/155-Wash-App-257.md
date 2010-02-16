@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63551-4-I; 63393-7-I; 63394-5-I; 63552-2-I; 63553-1-I; 63395-3-I"
 decided: "2010-02-16"
-citations: ["155 Wash. App. 257", "154 Wash. App. 1039"]
+citations: ["155 Wash. App. 257"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Dependency of P.P.T. et al."]
 source_url: "https://static.case.law/wash-app/155/cases/0257-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3998583
-cites_cases: ["112 P.3d 588", "123 Wn. App. 244", "125 Wn.2d 277", "127 Wn. App. 801", "130 Wn.2d 418", "136 Wn.2d 644", "137 Wn.2d 918", "151 Wn. App. 694", "155 Wn. App. 257", "213 P.3d 945", "23 Wn. App. 21", "594 P.2d 947", "892 P.2d 1067", "924 P.2d 21", "966 P.2d 305", "976 P.2d 113", "98 P.3d 89"]
+cites_cases: ["112 P.3d 588", "123 Wn. App. 244", "125 Wn.2d 277", "127 Wn. App. 801", "130 Wn.2d 418", "136 Wn.2d 644", "137 Wn.2d 918", "151 Wn. App. 694", "213 P.3d 945", "23 Wn. App. 21", "594 P.2d 947", "892 P.2d 1067", "924 P.2d 21", "966 P.2d 305", "976 P.2d 113", "98 P.3d 89"]
 ---
 
 # In re the Dependency of P.P.T.
