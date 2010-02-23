@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27422-5-III"
 decided: "2010-02-23"
-citations: ["155 Wash. App. 270", "154 Wash. App. 1043"]
+citations: ["155 Wash. App. 270"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Shirley A. Johnson, Appellant
 source_url: "https://static.case.law/wash-app/155/cases/0270-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3997215
-cites_cases: ["111 P.3d 1162", "117 Wn. App. 93", "119 Wn.2d 675", "119 Wn.2d 685", "129 S. Ct. 1710", "137 Wn.2d 208", "138 Wn.2d 343", "144 Wn. App. 254", "152 Wn. App. 536", "152 Wn.2d 64", "154 Wn.2d 517", "155 Wn. App. 270", "161 Wn.2d 1", "162 P.3d 1122", "182 P.3d 999", "216 P.3d 475", "419 P.2d 1012", "551 U.S. 249", "69 P.3d 367", "69 Wn.2d 744", "835 P.2d 1019", "835 P.2d 1025", "93 P.3d 872", "97 Wn. App. 446", "970 P.2d 722", "979 P.2d 833", "983 P.2d 1173"]
+cites_cases: ["111 P.3d 1162", "117 Wn. App. 93", "119 Wn.2d 675", "119 Wn.2d 685", "129 S. Ct. 1710", "137 Wn.2d 208", "138 Wn.2d 343", "144 Wn. App. 254", "152 Wn. App. 536", "152 Wn.2d 64", "154 Wn.2d 517", "161 Wn.2d 1", "162 P.3d 1122", "182 P.3d 999", "216 P.3d 475", "419 P.2d 1012", "551 U.S. 249", "69 P.3d 367", "69 Wn.2d 744", "835 P.2d 1019", "835 P.2d 1025", "93 P.3d 872", "97 Wn. App. 446", "970 P.2d 722", "979 P.2d 833", "983 P.2d 1173"]
 ---
 
 # State v. Johnson
