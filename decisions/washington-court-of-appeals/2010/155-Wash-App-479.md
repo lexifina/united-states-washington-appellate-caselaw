@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38721-2-II"
 decided: "2010-03-02"
-citations: ["155 Wash. App. 479", "154 Wash. App. 1051"]
+citations: ["155 Wash. App. 479"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Advocates for Responsible Development et al., Appellants, v. The West
 source_url: "https://static.case.law/wash-app/155/cases/0479-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3995594
-cites_cases: ["116 P.3d 1033", "117 Wn.2d 128", "118 P.3d 322", "128 Wn. App. 543", "135 Wn.2d 542", "136 Wn.2d 38", "139 P.3d 1096", "141 Wn. App. 840", "146 Wn. App. 929", "146 Wn.2d 291", "155 Wn. App. 479", "155 Wn.2d 112", "157 Wn.2d 488", "173 P.3d 300", "193 P.3d 1093", "2005 WL 3477427", "2008 WL 2783670", "366 F.3d 972", "370 P.2d 242", "40 F.3d 1058", "45 P.3d 1068", "45 Wn. App. 779", "586 P.2d 870", "59 Wn.2d 707", "6 L. Ed. 204", "727 P.2d 687", "75 Wn. App. 795", "783 F.2d 771", "814 P.2d 629", "880 P.2d 96", "91 Wn. App. 697", "91 Wn.2d 48", "92 Wn. App. 290", "92 Wn. App. 348", "958 P.2d 1035", "958 P.2d 962", "959 P.2d 1091", "962 P.2d 844", "966 P.2d 338", "98 Wn. App. 791", "990 P.2d 981"]
+cites_cases: ["116 P.3d 1033", "117 Wn.2d 128", "118 P.3d 322", "128 Wn. App. 543", "135 Wn.2d 542", "136 Wn.2d 38", "139 P.3d 1096", "141 Wn. App. 840", "146 Wn. App. 929", "146 Wn.2d 291", "155 Wn.2d 112", "157 Wn.2d 488", "173 P.3d 300", "193 P.3d 1093", "2005 WL 3477427", "2008 WL 2783670", "366 F.3d 972", "370 P.2d 242", "40 F.3d 1058", "45 P.3d 1068", "45 Wn. App. 779", "586 P.2d 870", "59 Wn.2d 707", "6 L. Ed. 204", "727 P.2d 687", "75 Wn. App. 795", "783 F.2d 771", "814 P.2d 629", "880 P.2d 96", "91 Wn. App. 697", "91 Wn.2d 48", "92 Wn. App. 290", "92 Wn. App. 348", "958 P.2d 1035", "958 P.2d 962", "959 P.2d 1091", "962 P.2d 844", "966 P.2d 338", "98 Wn. App. 791", "990 P.2d 981"]
 ---
 
 # Advocates for Responsible Development v. Western Washington Growth Management Hearings Board
