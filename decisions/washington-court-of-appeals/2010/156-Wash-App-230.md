@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38523-6-II"
 decided: "2010-03-02"
-citations: ["156 Wash. App. 230", "154 Wash. App. 1049"]
+citations: ["156 Wash. App. 230"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Daniel William Lewis, Jr., Ap
 source_url: "https://static.case.law/wash-app/156/cases/0230-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4000104
-cites_cases: ["101 Wn.2d 612", "105 Wn.2d 1017", "109 Wn.2d 222", "113 Wn. App. 347", "114 Wn.2d 613", "114 Wn.2d 867", "116 Wn. App. 909", "118 Wn. App. 668", "127 Wn.2d 322", "129 S. Ct. 2007", "129 Wn.2d 61", "132 Wn.2d 529", "132 Wn.2d 668", "138 Wn. App. 191", "144 Wn.2d 222", "147 P.3d 1201", "150 Wn. App. 139", "156 P.3d 309", "156 Wn. App. 230", "158 Wn.2d 759", "165 Wn.2d 17", "195 P.3d 940", "206 P.3d 703", "25 P.3d 1011", "33 Wn. App. 859", "42 Wn. App. 654", "466 U.S. 668", "57 P.3d 624", "658 P.2d 55", "68 P.3d 1145", "683 P.2d 1069", "71 Wn. App. 798", "713 P.2d 142", "743 P.2d 816", "77 P.3d 375", "790 P2d 610", "792 P.2d 514", "83 Wn. App. 209", "863 P.2d 85", "899 P.2d 1251", "90 Wn. App. 433", "917 P.2d 563", "921 P.2d 1076", "940 P.2d 1239", "940 P.2d 546", "952 P.2d 1097"]
+cites_cases: ["101 Wn.2d 612", "105 Wn.2d 1017", "109 Wn.2d 222", "113 Wn. App. 347", "114 Wn.2d 613", "114 Wn.2d 867", "116 Wn. App. 909", "118 Wn. App. 668", "127 Wn.2d 322", "129 S. Ct. 2007", "129 Wn.2d 61", "132 Wn.2d 529", "132 Wn.2d 668", "138 Wn. App. 191", "144 Wn.2d 222", "147 P.3d 1201", "150 Wn. App. 139", "156 P.3d 309", "158 Wn.2d 759", "165 Wn.2d 17", "195 P.3d 940", "206 P.3d 703", "25 P.3d 1011", "33 Wn. App. 859", "42 Wn. App. 654", "466 U.S. 668", "57 P.3d 624", "658 P.2d 55", "68 P.3d 1145", "683 P.2d 1069", "71 Wn. App. 798", "713 P.2d 142", "743 P.2d 816", "77 P.3d 375", "790 P2d 610", "792 P.2d 514", "83 Wn. App. 209", "863 P.2d 85", "899 P.2d 1251", "90 Wn. App. 433", "917 P.2d 563", "921 P.2d 1076", "940 P.2d 1239", "940 P.2d 546", "952 P.2d 1097"]
 ---
 
 # State v. Lewis
