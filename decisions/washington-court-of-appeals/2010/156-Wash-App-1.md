@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63143-8-I"
 decided: "2010-03-22"
-citations: ["156 Wash. App. 1", "155 Wash. App. 1009"]
+citations: ["156 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of David Wrathall, Respondent."]
 source_url: "https://static.case.law/wash-app/156/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3999224
-cites_cases: ["146 Wn. App. 515", "156 Wn. App. 1", "166 Wn.2d 689", "167 Wn.2d 205", "195 P.3d 529", "213 P.3d 32", "218 P.3d 913", "408 U.S. 471", "461 U.S. 660"]
+cites_cases: ["146 Wn. App. 515", "166 Wn.2d 689", "167 Wn.2d 205", "195 P.3d 529", "213 P.3d 32", "218 P.3d 913", "408 U.S. 471", "461 U.S. 660"]
 ---
 
 # In re the Detention of Wrathall
