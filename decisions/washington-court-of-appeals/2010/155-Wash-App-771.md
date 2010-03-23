@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38257-1-II"
 decided: "2010-03-23"
-citations: ["155 Wash. App. 771", "155 Wash. App. 1010"]
+citations: ["155 Wash. App. 771"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Darnell McGary, Appellant."]
 source_url: "https://static.case.law/wash-app/155/cases/0771-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3998629
-cites_cases: ["116 P.3d 415", "118 Wn.2d 801", "120 Wn. App. 770", "128 Wn. App. 467", "138 Wn. App. 374", "145 Wn.2d 789", "146 Wn. App. 179", "155 Wn. App. 771", "158 P.3d 69", "190 P.3d 74", "28 U.S.C. §§ 2241-2255", "42 P.3d 952", "424 U.S. 319", "504 U.S. 71", "828 P.2d 549", "86 P.3d 1202"]
+cites_cases: ["116 P.3d 415", "118 Wn.2d 801", "120 Wn. App. 770", "128 Wn. App. 467", "138 Wn. App. 374", "145 Wn.2d 789", "146 Wn. App. 179", "158 P.3d 69", "190 P.3d 74", "28 U.S.C. §§ 2241-2255", "42 P.3d 952", "424 U.S. 319", "504 U.S. 71", "828 P.2d 549", "86 P.3d 1202"]
 ---
 
 # In re the Detention of McGary
