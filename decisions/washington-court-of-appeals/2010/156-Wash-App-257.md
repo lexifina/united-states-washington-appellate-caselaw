@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39194-5-II"
 decided: "2010-05-04"
-citations: ["156 Wash. App. 257", "155 Wash. App. 1048"]
+citations: ["156 Wash. App. 257"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Maurico A. Larios-Lopez, Appe
 source_url: "https://static.case.law/wash-app/156/cases/0257-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4000586
-cites_cases: ["109 Wn.2d 222", "127 Wn.2d 322", "131 Wn.2d 1018", "132 Wn.2d 668", "147 P.3d 1201", "156 Wn. App. 257", "158 Wn.2d 759", "165 Wn.2d 727", "202 P.3d 937", "523 U.S. 1008", "743 P.2d 816", "83 Wn. App. 209", "899 P.2d 1251", "921 P.2d 1076", "936 P.2d 417", "940 P.2d 1239"]
+cites_cases: ["109 Wn.2d 222", "127 Wn.2d 322", "131 Wn.2d 1018", "132 Wn.2d 668", "147 P.3d 1201", "158 Wn.2d 759", "165 Wn.2d 727", "202 P.3d 937", "523 U.S. 1008", "743 P.2d 816", "83 Wn. App. 209", "899 P.2d 1251", "921 P.2d 1076", "936 P.2d 417", "940 P.2d 1239"]
 ---
 
 # State v. Larios-Lopez
