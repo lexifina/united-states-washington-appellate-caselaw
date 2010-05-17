@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64935-3-I"
 decided: "2010-05-17"
-citations: ["156 Wash. App. 655", "156 Wash. App. 1005"]
+citations: ["156 Wash. App. 655"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Ronald Renfro et al., Appellants, v. Paraminder Kaur et al., Responde
 source_url: "https://static.case.law/wash-app/156/cases/0655-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3997545
-cites_cases: ["102 Wn. App. 488", "115 P.3d 262", "115 Wn. App. 73", "118 P.3d 944", "123 Wn.2d 678", "128 Wn.2d 656", "129 Wn. App. 390", "135 Wn.2d 658", "137 Wn.2d 683", "143 Wn. App. 345", "146 Wn. App. 662", "147 Wn. App. 782", "148 Wn. App. 40", "152 P.3d 1013", "154 Wn.2d 493", "155 Wn. App. 16", "156 Wn. App. 655", "159 Wn.2d 607", "164 Wn.2d 1032", "170 Wn.2d 1006", "177 P.3d 755", "191 P.3d 946", "197 P.3d 710", "203 P.3d 383", "230 P.3d 177", "60 P.3d 1245", "7 P.3d 861", "87 Wn. App. 1", "871 P.2d 146", "911 P.2d 1301", "937 P.2d 1143", "95 Wn. App. 64", "958 P.2d 301", "974 P.2d 836", "975 P.2d 532"]
+cites_cases: ["102 Wn. App. 488", "115 P.3d 262", "115 Wn. App. 73", "118 P.3d 944", "123 Wn.2d 678", "128 Wn.2d 656", "129 Wn. App. 390", "135 Wn.2d 658", "137 Wn.2d 683", "143 Wn. App. 345", "146 Wn. App. 662", "147 Wn. App. 782", "148 Wn. App. 40", "152 P.3d 1013", "154 Wn.2d 493", "155 Wn. App. 16", "159 Wn.2d 607", "164 Wn.2d 1032", "170 Wn.2d 1006", "177 P.3d 755", "191 P.3d 946", "197 P.3d 710", "203 P.3d 383", "230 P.3d 177", "60 P.3d 1245", "7 P.3d 861", "87 Wn. App. 1", "871 P.2d 146", "911 P.2d 1301", "937 P.2d 1143", "95 Wn. App. 64", "958 P.2d 301", "974 P.2d 836", "975 P.2d 532"]
 ---
 
 # Renfro v. Kaur
