@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63338-4-I"
 decided: "2010-05-17"
-citations: ["156 Wash. App. 633", "156 Wash. App. 1004"]
+citations: ["156 Wash. App. 633"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Friends of Cedar Park Neighborhood, Appellant, v. The City of Seattle
 source_url: "https://static.case.law/wash-app/156/cases/0633-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3997757
-cites_cases: ["106 Wn. App. 461", "120 P.3d 56", "122 Wn. App. 520", "133 Wn. App. 456", "136 P.3d 140", "136 Wn.2d 38", "145 Wn. App. 118", "146 Wn.2d 685", "155 Wn.2d 397", "156 Wn. App. 633", "162 Wn.2d 825", "167 Wn.2d 242", "175 P.3d 1050", "186 P.3d 357", "218 P.3d 180", "24 P.3d 1079", "41 Wn. App. 402", "47 Wn. App. 352", "49 P.3d 860", "649 P.2d 103", "65 Wn. App. 614", "704 P.2d 663", "71 Wn. App. 367", "734 P.2d 961", "829 P.2d 217", "859 P.2d 610", "94 P.3d 366", "959 P.2d 1091", "97 Wn.2d 680"]
+cites_cases: ["106 Wn. App. 461", "120 P.3d 56", "122 Wn. App. 520", "133 Wn. App. 456", "136 P.3d 140", "136 Wn.2d 38", "145 Wn. App. 118", "146 Wn.2d 685", "155 Wn.2d 397", "162 Wn.2d 825", "167 Wn.2d 242", "175 P.3d 1050", "186 P.3d 357", "218 P.3d 180", "24 P.3d 1079", "41 Wn. App. 402", "47 Wn. App. 352", "49 P.3d 860", "649 P.2d 103", "65 Wn. App. 614", "704 P.2d 663", "71 Wn. App. 367", "734 P.2d 961", "829 P.2d 217", "859 P.2d 610", "94 P.3d 366", "959 P.2d 1091", "97 Wn.2d 680"]
 ---
 
 # Friends of Cedar Park Neighborhood v. City of Seattle
