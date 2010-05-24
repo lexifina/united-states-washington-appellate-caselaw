@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64975-2-I"
 decided: "2010-05-24"
-citations: ["156 Wash. App. 799", "156 Wash. App. 1013"]
+citations: ["156 Wash. App. 799"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Phillip Van Atkins, Appellant
 source_url: "https://static.case.law/wash-app/156/cases/0799-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4000420
-cites_cases: ["104 Wn.2d 412", "126 P.3d 821", "127 Wn.2d 628", "128 Wn.2d 693", "131 Wn. App. 194", "135 Wn.2d 97", "136 Wn. App. 720", "140 Wn.2d 456", "141 Wn. App. 479", "144 Wn.2d 197", "144 Wn.2d 472", "145 Wn. App. 628", "150 P.3d 627", "150 Wn.2d 821", "151 Wn.2d 36", "152 Wn. App. 632", "156 Wn. App. 799", "163 Wn.2d 519", "165 Wn.2d 1015", "170 P.3d 75", "182 P.3d 944", "186 P.3d 1170", "199 P.3d 411", "217 P.3d 354", "26 P.3d 890", "28 P.3d 720", "386 U.S. 18", "442 U.S. 140", "500 U.S. 391", "502 U.S. 62", "705 P.2d 1182", "83 P.3d 970", "84 P.3d 1215", "904 P.2d 245", "911 P.2d 996", "954 P.2d 900", "989 F.2d 1111", "998 P.2d 321"]
+cites_cases: ["104 Wn.2d 412", "126 P.3d 821", "127 Wn.2d 628", "128 Wn.2d 693", "131 Wn. App. 194", "135 Wn.2d 97", "136 Wn. App. 720", "140 Wn.2d 456", "141 Wn. App. 479", "144 Wn.2d 197", "144 Wn.2d 472", "145 Wn. App. 628", "150 P.3d 627", "150 Wn.2d 821", "151 Wn.2d 36", "152 Wn. App. 632", "163 Wn.2d 519", "165 Wn.2d 1015", "170 P.3d 75", "182 P.3d 944", "186 P.3d 1170", "199 P.3d 411", "217 P.3d 354", "26 P.3d 890", "28 P.3d 720", "386 U.S. 18", "442 U.S. 140", "500 U.S. 391", "502 U.S. 62", "705 P.2d 1182", "83 P.3d 970", "84 P.3d 1215", "904 P.2d 245", "911 P.2d 996", "954 P.2d 900", "989 F.2d 1111", "998 P.2d 321"]
 ---
 
 # State v. Van Atkins
