@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27832-8-III"
 decided: "2010-05-27"
-citations: ["157 Wash. App. 1", "156 Wash. App. 1014"]
+citations: ["157 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Deer Creek Developers, LLC, et al., Appellants, v. Spokane County, Re
 source_url: "https://static.case.law/wash-app/157/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4001973
-cites_cases: ["106 Wn.2d 47", "107 Wn.2d 621", "119 Wn. App. 886", "122 Wn. App. 520", "123 Wn.2d 864", "129 P.3d 300", "131 Wn. App. 756", "133 Wn.2d 269", "141 Wn. App. 184", "144 Wn.2d 640", "157 Wn. App. 1", "167 P.3d 1213", "167 Wn.2d 242", "170 Wn.2d 1021", "218 P.3d 180", "30 P3d 453", "438 P.2d 617", "573 P.2d 359", "65 Wn. App. 614", "720 P.2d 782", "73 Wn.2d 343", "733 P.2d 182", "829 P2d 217", "83 P.3d 433", "872 P.2d 1090", "89 Wn.2d 454", "94 P.3d 366", "943 P.2d 1378"]
+cites_cases: ["106 Wn.2d 47", "107 Wn.2d 621", "119 Wn. App. 886", "122 Wn. App. 520", "123 Wn.2d 864", "129 P.3d 300", "131 Wn. App. 756", "133 Wn.2d 269", "141 Wn. App. 184", "144 Wn.2d 640", "167 P.3d 1213", "167 Wn.2d 242", "170 Wn.2d 1021", "218 P.3d 180", "30 P3d 453", "438 P.2d 617", "573 P.2d 359", "65 Wn. App. 614", "720 P.2d 782", "73 Wn.2d 343", "733 P.2d 182", "829 P2d 217", "83 P.3d 433", "872 P.2d 1090", "89 Wn.2d 454", "94 P.3d 366", "943 P.2d 1378"]
 ---
 
 # Deer Creek Developers, LLC v. Spokane County
