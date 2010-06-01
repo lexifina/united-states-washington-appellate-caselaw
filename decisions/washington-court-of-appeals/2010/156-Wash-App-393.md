@@ -1,0 +1,100 @@
+---
+court: "Washington Court of Appeals"
+docket: "63504-2-I"
+decided: "2010-06-01"
+citations: ["156 Wash. App. 393"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Dwyer, C.J., and Ellington, J., concur."]
+parties: ["Mercer Island Citizens for Fair Process, Appellant, v. Tent City 4 et al., Respondents."]
+source_url: "https://static.case.law/wash-app/156/cases/0393-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3997489
+cites_cases: ["109 Wn. App. 896", "114 Wn. App. 245", "119 Wn.2d 34", "120 P.3d 56", "132 Wn. App. 784", "133 P.3d 475", "141 Wn.2d 169", "155 Wn.2d 397", "166 Wn.2d 633", "170 Wn.2d 1020", "211 P.3d 406", "37 P.3d 1255", "4 P.3d 123", "57 P.3d 273", "830 P.2d 318"]
+---
+
+# Mercer Island Citizens for Fair Process v. Tent City 4
+
+## Majority (Grosse, J.)
+
+Grosse, J.
+¶1 The failure to timely challenge a land use decision by means of a Land Use Petition Act (LUPA) petition bars any further claims challenging that decision, including challenges to the process for approving that decision. Here, the city’s approval of a temporary use agreement that permitted a church to use its property to host a homeless encampment was a land use decision within the meaning of LUPA because it was a decision on the church’s application for government approval required by law of a property use. Thus, the plaintiff’s failure to challenge that decision in a timely LUPA petition bars its due process claims, including its claims for damages under 42 U.S.C. section 1983, because those claims are simply challenges to the approval of the temporary use agreement. Accordingly, we affirm.
+FACTS
+¶2 In the spring of 2006, the Mercer Island Clergy Association (MICA) approached the city of Mercer Island (City) about allowing a church to host “Tent City 4,” a homeless encampment. Tent City 4 was organized and managed by a nonprofit organization comprised of the Seattle Housing and Resource Effort and the Women’s Housing Equality and Enhancement League (SHARE/WHEEL). Over the next two years, the City, MICA, and SHARE/WHEEL explored options for hosting Tent City 4.
+¶3 In the spring of 2007, MICA announced its intent to have the Mercer Island United Methodist Church host the encampment. The church is located in a single-family residential zone. The Mercer Island City Code (MICC) does not permit such temporary encampments in a single family residential area.
+¶4 The City acknowledged that the present code did not authorize such an encampment, but based on past litigation in other municipalities over similar church-sponsored homeless encampments, the City determined it was unlikely to prevent the church from hosting the Tent City 4 encampment. Rather than passing an ordinance authorizing the encampment and amending the city code as other municipalities had done, the City decided instead to enter into a binding “Temporary Use Agreement” (TUA) that would permit the church to host Tent City 4 and would ensure that all city code and regulatory requirements would be met.
+¶5 In May 2008, MICA leadership invited city staff to meet with a newly-appointed Tent City 4 subcommittee and the pastor of the church. At that meeting, city staff discussed the specific terms of the proposed TUA. Over the next two weeks, the City drafted the TUA, which was signed by representatives of the church and SHARE/ WHEEL.
+¶6 On June 11, 2008, notice of a city council meeting to be held on June 16, 2008 was published in the newspaper The Mercer Island Reporter and noted that the council would consider the TUA. The agenda for the meeting was also posted on the city’s web site and included the council’s consideration of the TUA. On June 16, 2008, the meeting was held and approximately 26 people testified about the TUA. The council then unanimously approved the TUA.
+¶7 The TUA permitted the church to invite Tent City 4 to operate its homeless encampment on church property beginning August 5, 2008 for a period of up to 93 days. The TUA acknowledged that “[c]ourt decisions hold that a church sponsoring a Temporary Homeless Encampment on its own property constitutes protected religious expression,” and that “[t]he [MICC] does not anticipate a Temporary Homeless Encampment such as that operated by SHARE/WHEEL, and none of the city’s regulations or administrative procedures address this special use.” The TUA then set forth a number of conditions on the encampment such as visual buffers, lighting, maximum number of residents, warrant and sex offender status checks on residents, parking, code of conduct, and compliance with state and city codes. The TUA also provided for notice and permit requirements before opening an encampment.
+¶8 On July 10, 2008, a citizens group, Mercer Island Citizens for Fair Process (group), filed a complaint against the City, church, and SHARE/WHEEL and challenged the TUA, seeking an injunction and temporary restraining order. The group also asserted claims alleging due process violations, nuisance, and violations under 42 U.S.C. section 1983. The court held a hearing on the motion for a temporary restraining order on July 28, 2009 and denied the motion on August 4, 2008, the day before the Tent City 4 encampment was scheduled to open on church property. The group did not appeal the court’s denial of the temporary restraining order.
+¶9 On August 28, 2008, the City moved for summary judgment, seeking dismissal of the group’s remaining claims. The City contended that the claims should have been asserted in a LUPA petition and that the 21-day limitation period for filing a LUPA claim had passed. The trial court granted the City’s motion, dismissed the group’s claims, and denied the group’s cross motion for summary judgment. The group appeals.
+ANALYSIS
+¶10 The group first contends that the TUA was not a land use decision and therefore the limitation period for challenging land use decisions under LUPA does not apply to bar its claims. We disagree.
+¶11 LUPA provides the process for judicial review of land use decisions. The stated purpose of LUPA is
+to reform the process for judicial review of land use decisions made by local jurisdictions, by establishing uniform, expedited appeal procedures and uniform criteria for reviewing such decisions, in order to provide consistent, predictable, and timely judicial review.
+“[T]he act quite clearly declares [the] legislative intent that chapter 36.70C RCW is to be ‘the exclusive means of judicial review of land use decisions.’ ”
+¶12 Under RCW 36.70C.020(2), LUPA defines “land use decision” as
+a final determination by a local jurisdiction’s body or officer with the highest level of authority to make the determination, including those with authority to hear appeals, on:
+(a) An application for a project permit or other governmental approval required by law before real property may be improved, developed, modified, sold, transferred, or used, but excluding applications for permits or approvals to use, vacate, or transfer streets, parks, and similar types of public property; excluding applications for legislative approvals such as area-wide rezones and annexations; and excluding applications for business licenses;
+(b) An interpretative or declaratory decision regarding the application to a specific property of zoning or other ordinances or rules regulating the improvement, development, modification, maintenance, or use of real property; and
+(c) The enforcement by a local jurisdiction of ordinances regulating the improvement, development, modification, maintenance, or use of real property. However, when a local jurisdiction is required by law to enforce the ordinances in a court of limited jurisdiction, a petition may not be brought under this chapter.
+¶13 Aland use decision becomes unreviewable by the courts if not appealed to the superior court within LUPA’s specified 21-day timeline. Once the 21-day period passes, a land use decision becomes final and binding and is deemed valid and lawful. Thus, “even illegal decisions must be challenged in a timely, appropriate manner.”
+¶14 The group contends that the TUA is not a land use decision because it does not fall within any of the categories specified in RCW 36.70C.020(2). The group first contends that the TUA is not “a project permit or other governmental approval required by law” under subsection (2)(a) because no city law authorized or described the temporary property use. The group notes that in fact the city code prohibits such temporary uses and provides that initial land use decisions are made by code officials, the planning commission, or the city hearing examiner, not the city council.
+¶15 The City contends that the TUA amounts to “other governmental approval required by law” because it was the result of the church’s request that the City approve its use of its property to host Tent City 4. The group argues that such approval was not required — and in fact prohibited — by the city code, but as the City contends, it is required by state law. In City of Woodinville v. Northshore United Church of Christ, the court held that the city’s refusal to process a permit to allow a church to host a Tent City encampment “substantially burden [ed] the free exercise of the Church’s religious ‘sentiment, belief [or] worship,’ ” and recognized that the cities have authority to address impacts and “externalities” resulting from such homeless encampments. Additionally, as recognized in the TUA’s recitals, the City approved the TUA to protect the welfare of Mercer Island citizens as required by law:
+G. The City of Mercer Island, its elected and appointed officials are committed to protect the health, safety and well-being of its citizens, as mandated by the State Constitution.
+I. In keeping with the duties and responsibilities of municipal government, the City of Mercer Island must apply to the Tent City 4 encampment and the hosting Mercer Island United Methodist Church all the public safety, health and welfare protections routinely provided to Mercer Island citizens and visitors.
+¶16 Thus, the TUA was a determination on the church’s application for government approval required by law of its property use. It therefore falls within the category of “land use decisions” defined by subsection (2)(a). Accordingly, we need not address the group’s additional argumerits that the TUA does not fall within the other two categories defined by subsections (2)(b) and (c).
+¶17 As a land use decision under RCW 36.70C.020(2)(a), the TUA was subject to LUPA and any challenges to it must have been made within the strict 21-day limitation. The group did not challenge the TUA until July 10, 2008, more than 21 days after the City approved it on June 16, 2008. The trial court therefore properly dismissed the group’s complaint.
+¶18 The group further contends that the trial court erred by concluding that its constitutional claims and claims based on 42 U.S.C. section 1983 (Section 1983 claims) were barred by its failure to seek relief under LUPA. The group asserts that these claims neither directly nor collaterally attack the TUA and therefore LUPA does apply to them.
+¶19 But as the complaint makes clear, each of these claims was based on the alleged illegality of the TUA and challenged its approval process. The due process claim alleges:
+5.2 Defendant City of Mercer Island has acted in an illegal fashion by entering into a Temporary Use Agreement regarding the Tent City 4 encampment.
+5.3 No provision in the Mercer Island municipal code authorizes such an agreement, because the Mercer Island municipal code does not provide for Temporary Use Agreements.
+5.4 By acting in an ad hoc arbitrary manner, in violation of the City Code, the City of Mercer Island has harmed the legitimate property interests of Plaintiff’s members.
+5.5 While conducting the negotiations regarding the Tent City 4 encampment, the City of Mercer Island violated the open meeting laws.
+5.6 Because the City of Mercer Island violated its own municipal code in enacting the Temporary Use Agreement, the agreement should be declared void.
+5.7 Principles of Due Process require a government agency to follow its own laws.
+5.8 It violates plaintiff’s right to due process for the City to fail to comply with its municipal code.
+The Section 1983 claims incorporated the due process allegations and further alleged:
+8.1 The City of Mercer Island, acting under color of law, has violated constitutional rights of the members of plaintiff to due process of law which is guaranteed by the United States Constitution.
+8.3 Members of the plaintiff have suffered damages as a result of the City’s unconstitutional conduct.
+8.4 The City of Mercer Island is liable to members of the plaintiff under 42 USC Section 1983.
+¶20 Each of these claims is contemplated by LUPA under RCW 36.70C.130(1), which provides that a court may grant relief under LUPA when
+(a) The body or officer that made the land use decision engaged in unlawful procedure or failed to follow a prescribed process, unless the error was harmless;
+(b) The land use decision is an erroneous interpretation of the law, after allowing for such deference as is due the construction of a law by a local jurisdiction with expertise;
+(d) The land use decision is a clearly erroneous application of the law to the facts;
+(e) The land use decision is outside the authority or jurisdiction of the body or officer making the decision; or
+(f) The land use decision violates the constitutional rights of the party seeking relief.
+¶21 The case law also recognizes that failure to challenge a land use decision in a LUPA petition bars any claims that are based on challenges to that land use decision, including those alleging due process violations. In Asche v. Bloomquist, homeowners failed to file a timely LUPA petition challenging a building permit and the court held that the homeowners’ due process claim failed because it was a challenge to the permit based on improper notice and therefore subject to LUPA. As the court recognized, “LUPA applies even when the litigant complains of lack of notice under the procedural due process clause.” The court then concluded, “[W]e are constrained to hold that the Asches’ due process challenge fails. Having failed to file a land use petition within 21 days of the building permit’s issuance, they have lost the right to challenge its validity.” The court further held that LUPA precluded a nuisance claim because it depended entirely upon a finding that the challenged permit was invalid. Likewise here, by failing to challenge the TUA in a timely LUPA petition, the group has lost its right to challenge the validity of the TUA in its due process claims and the Section 1983 claims, which are based solely on the alleged due process violations.
+¶22 The case cited by the group, Berst v. Snohomish County, does not require a different result. In Berst, the court held that a county-imposed moratorium on the appellant’s property under the Forest Practices Act of 1974 (FPA), RCW 76.09.010-.280, was not a land use decision subject to LUPA. The Bersts sought to short plat their lot into two lots and as part of the preapplication process, the county inspected the site and concluded that clearing and logging had taken place on the site. As a result, the county imposed a six-year moratorium on all permits on the site as required by statute. The Bersts decided not to apply for the short plat but instead applied for a permit for a larger mobile home to replace the home they had on the site. The county then waived the moratorium for the limited purpose of replacing the current home with another one of the same size and location and the Bersts did not appeal the decision that denied part of their permit application. Rather, the Bersts sought a declaratory judgment that the FPA did not support the moratorium, challenging its imposition without prior notice or a hearing.
+¶23 The court concluded that under the plain language of RCW 36.70C.020(2), the imposition of the moratorium did not fall within any of the three categories of land use decisions, noting that the Bersts did not challenge the denial of any land use permits. Thus, Berst did not involve a challenge to a governmental approval of an application for land use. But here, the group challenged the City’s approval of the TUA, which, as discussed above, was a governmental approval of the church’s application for a specific land use and therefore fell within the category of land use decisions defined in RCW 36.70C.020(2)(a).
+¶24 The group further contends that its due process claims and Section 1983 claims are not subject to the LUPA time limitations because RCW 36.70C.030(l)(c) specifically excludes damage actions from the LUPA time limitations. That provision states:
+Claims provided by any law for monetary damages or compensation. If one or more claims for damages or compensation are set forth in the same complaint with a land use petition brought under this chapter, the claims are not subject to the procedures and standards, including deadlines, provided in this chapter for review of the petition. The judge who hears the land use petition may, if appropriate, preside at a trial for damages or compensation.
+Reconsideration denied July 13, 2010.
+¶25 But as the case law recognizes, claims for damages based on a LUPA claim must be dismissed if the LUPA claim fails. Because all of the group’s claims challenged the validity of the TUA and were therefore subject to LUPA, the group’s failure to assert them within LUPA’s time limitations requires dismissal of all the claims, including those for damages. Thus, the trial court did not err by dismissing the claims. Accordingly, we need not reach the remaining issues raised that address the merits of those claims.
+¶26 We affirm.
+Dwyer, C.J., and Ellington, J., concur.
+Review granted and request for withdrawal of petition for review granted at 170 Wn.2d 1020 (2011).
+Ch. 36.70C ROW.
+MICC 19.02.010.
+The group voluntarily dismissed its nuisance claim.
+4 RCW 36.70C.010.
+Habitat Watch v. Skagit County, 155 Wn.2d 397, 407, 120 P.3d 56 (2005) (quoting RCW 36.700.030(1)).
+RCW 36.700.020(2). This is the current codification as amended by Laws of 2009, chapter 419, section 1. It was previously codified at 36.70C.020(1).
+Habitat Watch, 155 Wn.2d at 406-07; RCW 36.700.040(3).
+Wenatchee Sportsmen Ass’n v. Chelan County, 141 Wn.2d 169, 182, 4 P.3d 123 (2000).
+Habitat Watch, 155 Wn.2d at 407.
+166 Wn.2d 633, 642, 644, 211 P.3d 406 (2009) (second alteration in original). As the City also notes, the Religious Land Use and Institutionalized Persons Act of 2000 is a federal law that bans land use and zoning regulations that place a “substantial burden” on the exercise of religion. 42 U.S.C. § 2000cc(a)(l).
+132 Wn. App. 784, 133 P.3d 475 (2006).
+Asche, 132 Wn. App. at 798.
+Asche, 132 Wn. App. at 799.
+Asche, 132 Wn. App. at 801.
+See Robinson v. City of Seattle, 119 Wn.2d 34, 57-58, 830 P.2d 318 (1992) (recognizing that 42 U.S.C. section 1983 “does not create any new substantive rights” but “al!ow[s] an avenue of redress to persons injured by the actions of government which violate federal constitutional rights”).
+114 Wn. App. 245, 57 P.3d 273 (2002).
+114 Wn. App. at 253-54.
+Berst, 114 Wn. App. at 248-49.
+Berst, 114 Wn. App. at 249-50.
+Berst, 114 Wn. App. at 249-50.
+Berst, 114 Wn. App. at 254. The court further noted that the county did not argue that its decision fit within any of the categories defined in the statute.
+22 RCW 36.70C.030(1)(c).
+See Shaw v. City of Des Moines, 109 Wn. App. 896, 901-02, 37 P.3d 1255 (2002) (where LUPA petition challenging conditions imposed on building permit application included a claim for damages, court acknowledged, “If the petitioner loses the LUPA appeal, the damages case is moot and the matter is over.”); Asche, 132 Wn. App. at 800 (LUPA precluded nuisance claim for damages because it depended entirely upon a finding that the challenged permit was invalid).
