@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64241-3-I"
 decided: "2010-06-01"
-citations: ["156 Wash. App. 817", "156 Wash. App. 1018"]
+citations: ["156 Wash. App. 817"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Something Sweet, LLC, et al., Appellants, v. Nick-N-Willy’s Franchi
 source_url: "https://static.case.law/wash-app/156/cases/0817-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3999112
-cites_cases: ["1 P.3d 1138", "107 Wn.2d 314", "119 Wn.2d 640", "122 Wn. App. 736", "122 Wn.2d 574", "141 Wn.2d 1", "142 P.3d 155", "147 Wn.2d 16", "148 Wn.2d 788", "156 P.3d 201", "156 Wn. App. 817", "158 Wn.2d 194", "160 Wn.2d 106", "168 Wn.2d 738", "170 Wn.2d 1021", "239 P.3d 537", "50 P.3d 638", "64 P.3d 22", "729 P.2d 33", "835 P.2d 1030", "860 P.2d 1015", "87 P.3d 774", "95 Wn. App. 98", "974 P.2d 369"]
+cites_cases: ["1 P.3d 1138", "107 Wn.2d 314", "119 Wn.2d 640", "122 Wn. App. 736", "122 Wn.2d 574", "141 Wn.2d 1", "142 P.3d 155", "147 Wn.2d 16", "148 Wn.2d 788", "156 P.3d 201", "158 Wn.2d 194", "160 Wn.2d 106", "168 Wn.2d 738", "170 Wn.2d 1021", "239 P.3d 537", "50 P.3d 638", "64 P.3d 22", "729 P.2d 33", "835 P.2d 1030", "860 P.2d 1015", "87 P.3d 774", "95 Wn. App. 98", "974 P.2d 369"]
 ---
 
 # Something Sweet, LLC v. Nick-N-Willy's Franchise Co.
