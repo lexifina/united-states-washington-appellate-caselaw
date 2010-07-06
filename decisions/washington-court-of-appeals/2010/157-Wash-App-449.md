@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63079-2-I"
 decided: "2010-07-06"
-citations: ["157 Wash. App. 449", "156 Wash. App. 1046"]
+citations: ["157 Wash. App. 449"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Carmen P. Rockwell, Respondent, and 
 source_url: "https://static.case.law/wash-app/157/cases/0449-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4002586
-cites_cases: ["105 Wn. App. 545", "117 Wn. App. 212", "119 Wn.2d 438", "134 Wn. App. 635", "134 Wn.2d 232", "141 P.3d 658", "141 Wn. App. 235", "157 Wn. App. 449", "163 Wn.2d 1055", "163 Wn.2d 664", "170 P.3d 572", "185 P.3d 1151", "187 P.3d 752", "20 P.3d 481", "70 P.3d 154", "832 P.2d 871", "90 Wn. App. 135", "950 P.2d 1", "951 P.2d 346"]
+cites_cases: ["105 Wn. App. 545", "117 Wn. App. 212", "119 Wn.2d 438", "134 Wn. App. 635", "134 Wn.2d 232", "141 P.3d 658", "141 Wn. App. 235", "163 Wn.2d 1055", "163 Wn.2d 664", "170 P.3d 572", "185 P.3d 1151", "187 P.3d 752", "20 P.3d 481", "70 P.3d 154", "832 P.2d 871", "90 Wn. App. 135", "950 P.2d 1", "951 P.2d 346"]
 ---
 
 # In re the Marriage of Rockwell
