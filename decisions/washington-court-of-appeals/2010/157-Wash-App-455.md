@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38699-2-II"
 decided: "2010-07-07"
-citations: ["157 Wash. App. 455", "156 Wash. App. 1048"]
+citations: ["157 Wash. App. 455"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Colleen Edwards et al., Respondents, v. Barbara Le Duc et al., Appell
 source_url: "https://static.case.law/wash-app/157/cases/0455-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4004464
-cites_cases: ["106 Wn. App. 811", "109 P.3d 47", "113 Wn.2d 772", "126 Wn. App. 655", "134 Wn.2d 74", "145 P. 470", "147 Wn. App. 567", "148 Wn.2d 451", "157 Wn. App. 455", "170 Wn.2d 1024", "173 Wash. 460", "197 P.3d 678", "1998 WL 804815", "22 Wash. 245", "23 P.2d 396", "24 Wn. App. 251", "25 P.3d 467", "27 Wn. App. 474", "3 Wn. App. 139", "38 A.D. 234", "415 P.2d 4", "473 P.2d 202", "56 N.Y.S. 1038", "59 Wn. App. 266", "60 P. 403", "600 P.2d 666", "61 P.3d 1141", "619 P.2d 982", "68 Wn.2d 670", "783 P.2d 580", "796 P.2d 737", "83 Wash. 514", "86 Wn. App. 405", "90 Wn. App. 533", "93 Wn. App. 1011", "936 P.2d 1175", "949 P.2d 1337", "954 P.2d 290"]
+cites_cases: ["106 Wn. App. 811", "109 P.3d 47", "113 Wn.2d 772", "126 Wn. App. 655", "134 Wn.2d 74", "145 P. 470", "147 Wn. App. 567", "148 Wn.2d 451", "170 Wn.2d 1024", "173 Wash. 460", "197 P.3d 678", "1998 WL 804815", "22 Wash. 245", "23 P.2d 396", "24 Wn. App. 251", "25 P.3d 467", "27 Wn. App. 474", "3 Wn. App. 139", "38 A.D. 234", "415 P.2d 4", "473 P.2d 202", "56 N.Y.S. 1038", "59 Wn. App. 266", "60 P. 403", "600 P.2d 666", "61 P.3d 1141", "619 P.2d 982", "68 Wn.2d 670", "783 P.2d 580", "796 P.2d 737", "83 Wash. 514", "86 Wn. App. 405", "90 Wn. App. 533", "93 Wn. App. 1011", "936 P.2d 1175", "949 P.2d 1337", "954 P.2d 290"]
 ---
 
 # Edwards v. Le Duc
