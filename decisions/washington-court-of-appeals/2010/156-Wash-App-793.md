@@ -1,0 +1,52 @@
+---
+court: "Washington Court of Appeals"
+docket: "38873-1-II"
+decided: "2010-07-09"
+citations: ["156 Wash. App. 793"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Hunt, J., and Houghton, J. Pro Tem., concur."]
+parties: ["The State of Washington, Respondent, v. James J. Dockens, Appellant."]
+source_url: "https://static.case.law/wash-app/156/cases/0793-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 3997947
+cites_cases: ["119 Wn.2d 204", "126 Wn.2d 1005", "149 P.3d 372", "15 Cal. App. 4th 1159", "159 Wn.2d 224", "19 Cal. Rptr. 2d 390", "75 Wn. App. 896", "829 P.2d 1096", "881 P.2d 1058"]
+---
+
+# State v. Dockens
+
+## Majority (Quinn-Brintnall, J.)
+
+Quinn-Brintnall, J.
+¶1 Clallam County prosecutors entered into a plea agreement with James J. Dockens. Under the agreement, Dockens pleaded guilty to one count of first degree theft by embezzlement and agreed to be subject to a possible exceptional sentence based on the aggravating factors of abuse of trust and major economic offense. In exchange for his plea, the State dismissed multiple money laundering charges (counts II through XIX) without prejudice. The Clallam County Superior Court accepted Dockens’s guilty plea and, following a contested sentencing hearing, sentenced Dockens to 45 months confinement and $650,000 restitution. Dockens raises only one issue on appeal. He asserts that the trial court violated his equal protection rights when it failed to give him credit for presentence time he contends he served under house arrest. We hold that Dockens is not a member of a suspect class and was never under house arrest. Accordingly, the trial court properly credited him with only the 15 days he spent in jail before posting a bond and obtaining release on conditions. We affirm.
+FACTS
+¶2 Dockens stipulated that he had used his position as Evergreen Collision Centers’ bookkeeper to embezzle hundreds of thousands of dollars from Evergreen’s business administrative account over a three-year period. Dockens stipulated that he had used his position of trust, confidence, or fiduciary responsibility to commit the crime. He also stipulated that the amount embezzled was approximately 200 to 270 times the amount necessary to establish the crime of first degree theft. He also stipulated to the trial court’s authority to determine whether this was an amount substantially greater than typical for the offense and whether it was legally sufficient to support an exceptional sentence above the standard range. Dockens reserved the right to argue that the aggravator “major economic offense” is overbroad or vague and not supported by statistical evidence and that the “position of trust” factor inheres in the crime of theft by embezzlement. Clerk’s Papers at 68.
+¶3 After spending 15 days in jail, Dockens posted a $25,000 bond and was released on the following conditions:
+(1) Maintain a residence at 432 E. Front Street, Port Angeles, Washington;
+(2) Not travel outside western Washington;
+(3) Maintain a curfew at his residence of 8 pm to 6 am (later modified to allow attendance at voluntary drug treatment activities);
+(4) Have no contact or communication with Evergreen or employer David Anstett;
+(5) Not possess any firearms or other deadly weapons;
+(6) Not drink or possess intoxicating liquors and remain out of places where alcohol is the chief item of sale;
+(7) Not use or possess any drugs except as prescribed by a physician;
+(8) Obey all criminal laws;
+(9) Maintain contact with his attorney and return to court as directed;
+(10) Surrender his passport to Port Angeles Police Department prior to release; and
+(11) Report daily (Monday through Friday) to an electronic home monitoring office.
+¶4 Eventually Dockens and the State reached the plea agreement set out above. Dockens pleaded guilty on December 14,2006, to one count of first degree theft with a standard range of two to six months’ confinement. The trial court imposed an exceptional sentence on December 31,2008, of 45 months with credit for the 15 days Dockens was in jail before posting bond and obtaining release on conditions.
+¶5 In this timely appeal, Dockens contends that the trial court erred by failing to give him credit for approximately two years presentence time he served on bond and conditional release.
+ANALYSIS
+¶6 Dockens contends that the conditions of his pretrial release are equivalent to partial home confinement and that he should be given credit for that time against his 45-month prison sentence. The State contends that Dockens was not confined after he posted bail and that the trial court properly credited him with only the 15 days he spent in jail before posting bond. We agree with the State.
+¶7 Under RCW 9.94A.505(6), a defendant is entitled to credit for all time he served in confinement before sentencing. State v. Swiger, 159 Wn.2d 224, 227, 149 P.3d 372 (2006). Confinement includes “home detention.” See former RCW 9.94A.030(10), (26) (2002); Swiger, 159 Wn.2d at 227. Dockens argues that the conditions of his release are the functional equivalent of “confinement” and that he should have received credit for approximately two years that he spent subject to those conditions prior to sentencing. Because the trial court did not place Dockens on “home detention” as a condition of pretrial release, Dockens’s argument fails.
+¶8 “Home detention” is a program of partial confinement available to offenders who are confined in their private residence under electronic surveillance. Former RCW 9.94A-.030(31) (2002). As a condition for his release, the trial court required Dockens to report to an office once a day, Monday through Friday, and imposed a nighttime curfew. The trial court’s conditions of release did not subject Dockens to electronic surveillance. He was free to travel throughout western Washington after checking in with the entity assigned to verify his presence.
+¶9 In State v. Speaks, 119 Wn.2d 204, 209, 829 P.2d 1096 (1992), our Supreme Court held that former RCW 9.94A-.120(13) (1990) required the sentencing court to credit all presentence detention time toward the defendant’s sentence. Division Three of this court held that detention time requiring credit is clear: “With respect to “home detention’, it includes only confinement ‘subject to electronic surveillance’. There is no room therefore for judicial interpretation.” State v. Vasquez, 75 Wn. App. 896, 898, 881 P.2d 1058 (1994) (quoting former RCW 9.94A.030(36) (1991), review denied, 126 Wn.2d 1005 (1995). We agree with Vasquez. Because he was not on home detention, Dockens was not “confined” as defined under former RCW 9.94A.030(31), thus RCW 9.94A.505(6), which requires credit for all time served in confinement, does not apply.
+¶10 In an attempt to distinguish Vasquez, Dockens asserts that he was on house arrest and that home detention and house arrest are equivalent. Thus, he argues, his right to equal protection of the law was violated when the trial court refused to credit him with his presentence house arrest. Again, Dockens’s assertion that he was on house arrest fails. As a condition of his release, the trial court imposed a reasonable curfew and required that Dockens spend a few minutes checking in with a contract monitoring agency on weekdays. He had no duty to check in on the weekends and he was allowed to travel throughout western Washington without prior court approval. These conditions are not synonymous with house arrest. Moreover, because Dockens was never subject to electronic home monitoring, he was not confined under the statutory definition of “home detention.” Accordingly, Dockens is not equally situated with those on “home detention” and no equal protection violation is implicated. Dockens was not entitled to credit for presentence time he spent in the community on bail with the conditions set out above.
+¶11 Citing People v. Lapaille, 15 Cal. App. 4th 1159, 19 Cal. Rptr. 2d 390 (1993), Dockens contends that a curfew and daily reporting requirements are equivalent to house arrest. But Lapaille is distinguishable and does not further Dockens’s argument. In Lapaille, the court released the defendant on personal recognizance to home detention. Lapaille was prohibited from leaving his residence except to visit his lawyer and make court appearances. He was also allowed to walk his granddaughter to the school bus but could be gone from his residence no longer than 30 minutes. The California court held that Lapaille, like someone on electronic home monitoring, was in custody. Applying the strict scrutiny equal protection test, the California court held that Lapaille was entitled to credit for the time he remained confined to his home on house arrest. In contrast, after Dockens signed in at the monitoring office, he was free to spend his days traveling wherever he chose in western Washington. Dockens was not under house arrest and Lapaille is inapposite.
+¶12 Persons on home detention are entitled to credit for all time served in confinement before sentencing. Swiger, 159 Wn.2d at 227. But to qualify for credit for presentence “home detention” time, the offender must be confined in his private residence under electronic surveillance. Dockens was not under electronic surveillance and, therefore, was not entitled to credit for time served under RCW 9.94A.505(6). The trial court did not err by awarding Dockens only 15 days credit for the time he served in jail before posting bond and obtaining release on conditions. We affirm.
+Hunt, J., and Houghton, J. Pro Tem., concur.
+Laws of 2009, ch. 431, § 7 increased the value element for first degree theft from $1,500 to $5,000.
+Dockens also argues that the trial court’s imposition of a nighttime curfew is equivalent to house arrest. But see U.S. Sentencing Comm’n, Guidelines Manual § 5B1.4 application note 1 (1989) (home detention restricts defendant to residence during all nonworking hours, while curfew restricts defendant to residence only during evening and nighttime hours).
+Former RCW 9.94A.030 was amended effective in 2010. The definition of “home detention” was not substantively altered. See RCW 9.94A.030(28).
+On September 18,2006, Dockens was charged with the task of reporting to the North Sound Day Reporting Center in Port Angeles, Washington. That contract was cancelled on March 28, 2008.
+Former RCW 9.94A.120(13) (1990) was recodified as RCW 9.94A.505(6) in 2001. Laws or 2001, ch. 10, § 6.
