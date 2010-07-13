@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39602-5-II"
 decided: "2010-07-13"
-citations: ["157 Wash. App. 685", "156 Wash. App. 1051"]
+citations: ["157 Wash. App. 685"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Kenneth Michael LaPlant, Appe
 source_url: "https://static.case.law/wash-app/157/cases/0685-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4001923
-cites_cases: ["136 Wn.2d 767", "136 Wn.2d 771", "141 Wn.2d 448", "157 Wn. App. 685", "584 P.2d 382", "6 P.3d 1150", "90 Wn.2d 443", "966 P.2d 883"]
+cites_cases: ["136 Wn.2d 767", "136 Wn.2d 771", "141 Wn.2d 448", "584 P.2d 382", "6 P.3d 1150", "90 Wn.2d 443", "966 P.2d 883"]
 ---
 
 # State v. Laplant
