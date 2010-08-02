@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63094-6-I"
 decided: "2010-08-02"
-citations: ["157 Wash. App. 689", "157 Wash. App. 1017"]
+citations: ["157 Wash. App. 689"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Calvin Elijah Williams, Appel
 source_url: "https://static.case.law/wash-app/157/cases/0689-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4002368
-cites_cases: ["107 Wn. App. 650", "121 Wn.2d 22", "135 Wn.2d 326", "157 Wn. App. 689", "170 Wn.2d 1022", "27 P.3d 1246", "53 Wn. App. 527", "633 P.2d 886", "67 Wn. App. 448", "768 P.2d 530", "836 P.2d 239", "846 P.2d 1365", "957 P.2d 655", "96 Wn.2d 31"]
+cites_cases: ["107 Wn. App. 650", "121 Wn.2d 22", "135 Wn.2d 326", "170 Wn.2d 1022", "27 P.3d 1246", "53 Wn. App. 527", "633 P.2d 886", "67 Wn. App. 448", "768 P.2d 530", "836 P.2d 239", "846 P.2d 1365", "957 P.2d 655", "96 Wn.2d 31"]
 ---
 
 # State v. Williams
