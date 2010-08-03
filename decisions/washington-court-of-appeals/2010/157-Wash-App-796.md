@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28107-8-III"
 decided: "2010-08-03"
-citations: ["157 Wash. App. 796", "157 Wash. App. 1023"]
+citations: ["157 Wash. App. 796"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jonathan M. Carollo, Appellant, v. Paul E. Dahl et al., Respondents."
 source_url: "https://static.case.law/wash-app/157/cases/0796-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4001877
-cites_cases: ["1 P.3d 1124", "103 Wn.2d 768", "106 Wn.2d 269", "107 Wn.2d 72", "108 P.3d 1220", "110 Wn.2d 806", "136 Wn. App. 202", "141 Wn.2d 29", "148 P.3d 1081", "151 Wn.2d 853", "153 Wn.2d 780", "157 Wn. App. 796", "698 P.2d 77", "721 P.2d 950", "727 P.2d 226", "756 P.2d 736", "89 Wn. App. 323", "93 P.3d 108", "949 P.2d 386", "98 Wn. App. 140", "988 P.2d 1034"]
+cites_cases: ["1 P.3d 1124", "103 Wn.2d 768", "106 Wn.2d 269", "107 Wn.2d 72", "108 P.3d 1220", "110 Wn.2d 806", "136 Wn. App. 202", "141 Wn.2d 29", "148 P.3d 1081", "151 Wn.2d 853", "153 Wn.2d 780", "698 P.2d 77", "721 P.2d 950", "727 P.2d 226", "756 P.2d 736", "89 Wn. App. 323", "93 P.3d 108", "949 P.2d 386", "98 Wn. App. 140", "988 P.2d 1034"]
 ---
 
 # Carollo v. Dahl
