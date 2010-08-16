@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63612-0-I; 63882-3-I"
 decided: "2010-08-16"
-citations: ["158 Wash. App. 137", "157 Wash. App. 1034"]
+citations: ["158 Wash. App. 137"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Ronald W. Moore, Appellant, v. L. Billie Hagge, Defendant, The City o
 source_url: "https://static.case.law/wash-app/158/cases/0137-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4007952
-cites_cases: ["103 Wn.2d 768", "109 P.2d 307", "109 P.3d 805", "109 Wn. App. 140", "125 Wn.2d 337", "125 Wn.2d 697", "127 Wn.2d 302", "132 Wn. App. 777", "133 P.3d 944", "133 Wn.2d 954", "135 Wn.2d 658", "136 P.2d 720", "140 Wn. App. 825", "148 Wn. App. 850", "154 Wn.2d 16", "155 P. 395", "158 Wn. App. 137", "166 P.3d 1263", "17 Wn.2d 631", "171 Wn.2d 1004", "180 P.2d 564", "200 P.3d 764", "25 Wn. App. 324", "27 Wn.2d 802", "34 P.3d 835", "43 Wn. App. 569", "492 P.2d 244", "50 Wn. App. 849", "588 P.2d 1346", "6 Wn. App. 274", "606 P.2d 283", "63 Wn. App. 170", "69 Wn. App. 852", "698 P.2d 77", "7 Wn.2d 111", "719 P.2d 569", "751 P.2d 854", "817 P.2d 861", "83 Wn. App. 464", "851 P.2d 716", "883 F.2d 269", "883 P.2d 1383", "887 P.2d 886", "898 P.2d 284", "90 Wash. 59", "91 Wn.2d 345", "921 P.2d 1098", "948 P.2d 1264", "958 P.2d 301"]
+cites_cases: ["103 Wn.2d 768", "109 P.2d 307", "109 P.3d 805", "109 Wn. App. 140", "125 Wn.2d 337", "125 Wn.2d 697", "127 Wn.2d 302", "132 Wn. App. 777", "133 P.3d 944", "133 Wn.2d 954", "135 Wn.2d 658", "136 P.2d 720", "140 Wn. App. 825", "148 Wn. App. 850", "154 Wn.2d 16", "155 P. 395", "166 P.3d 1263", "17 Wn.2d 631", "171 Wn.2d 1004", "180 P.2d 564", "200 P.3d 764", "25 Wn. App. 324", "27 Wn.2d 802", "34 P.3d 835", "43 Wn. App. 569", "492 P.2d 244", "50 Wn. App. 849", "588 P.2d 1346", "6 Wn. App. 274", "606 P.2d 283", "63 Wn. App. 170", "69 Wn. App. 852", "698 P.2d 77", "7 Wn.2d 111", "719 P.2d 569", "751 P.2d 854", "817 P.2d 861", "83 Wn. App. 464", "851 P.2d 716", "883 F.2d 269", "883 P.2d 1383", "887 P.2d 886", "898 P.2d 284", "90 Wash. 59", "91 Wn.2d 345", "921 P.2d 1098", "948 P.2d 1264", "958 P.2d 301"]
 ---
 
 # Moore v. Hagge
