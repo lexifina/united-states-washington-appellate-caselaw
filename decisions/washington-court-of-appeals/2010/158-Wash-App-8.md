@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28185-0-III"
 decided: "2010-08-19"
-citations: ["158 Wash. App. 8", "157 Wash. App. 1039"]
+citations: ["158 Wash. App. 8"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Anthony David Koss, Appellant
 source_url: "https://static.case.law/wash-app/158/cases/0008-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4005120
-cites_cases: ["101 Wn.2d 566", "108 Wn. App. 645", "114 Wn.2d 613", "123 Wn.2d 296", "132 Wn.2d 529", "134 P.3d 221", "136 Wn. App. 486", "147 Wn. App. 97", "150 P.3d 111", "155 P.3d 125", "156 Wn. App. 160", "157 Wn.2d 44", "158 Wn. App. 8", "159 Wn.2d 918", "193 P.3d 1108", "231 P.3d 231", "25 Wn. App. 933", "32 P.3d 292", "410 P.2d 913", "422 U.S. 35", "458 P.2d 17", "46 Wn. App. 537", "50 Wn. App. 412", "611 P.2d 1320", "616 P.2d 628", "618 P.2d 99", "64 Wn. App. 410", "664 P.2d 466", "67 Wn.2d 980", "68 Wn. App. 379", "683 P.2d 173", "731 P.2d 1116", "749 P.2d 702", "76 Wn.2d 449", "790 P.2d 610", "80 Wn. App. 237", "824 P.2d 533", "83 Wn. App. 209", "842 P.2d 1029", "868 P.2d 835", "908 P.2d 374", "921 P.2d 1076", "94 Wn.2d 216", "94 Wn.2d 634", "940 P.2d 546", "99 Wn.2d 501"]
+cites_cases: ["101 Wn.2d 566", "108 Wn. App. 645", "114 Wn.2d 613", "123 Wn.2d 296", "132 Wn.2d 529", "134 P.3d 221", "136 Wn. App. 486", "147 Wn. App. 97", "150 P.3d 111", "155 P.3d 125", "156 Wn. App. 160", "157 Wn.2d 44", "159 Wn.2d 918", "193 P.3d 1108", "231 P.3d 231", "25 Wn. App. 933", "32 P.3d 292", "410 P.2d 913", "422 U.S. 35", "458 P.2d 17", "46 Wn. App. 537", "50 Wn. App. 412", "611 P.2d 1320", "616 P.2d 628", "618 P.2d 99", "64 Wn. App. 410", "664 P.2d 466", "67 Wn.2d 980", "68 Wn. App. 379", "683 P.2d 173", "731 P.2d 1116", "749 P.2d 702", "76 Wn.2d 449", "790 P.2d 610", "80 Wn. App. 237", "824 P.2d 533", "83 Wn. App. 209", "842 P.2d 1029", "868 P.2d 835", "908 P.2d 374", "921 P.2d 1076", "94 Wn.2d 216", "94 Wn.2d 634", "940 P.2d 546", "99 Wn.2d 501"]
 ---
 
 # State v. Koss
