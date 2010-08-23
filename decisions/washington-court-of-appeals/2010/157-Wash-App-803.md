@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63207-8-I"
 decided: "2010-08-23"
-citations: ["157 Wash. App. 803", "157 Wash. App. 1041"]
+citations: ["157 Wash. App. 803"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Dorothy L. Brown, Appellant, v. Barry Edward Brown, Defendant, Beverl
 source_url: "https://static.case.law/wash-app/157/cases/0803-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4001271
-cites_cases: ["105 Wn. App. 80", "105 Wn.2d 778", "106 P.3d 212", "107 Wn. App. 391", "110 Wn. App. 412", "115 Wn.2d 506", "118 Wn.2d 801", "133 Wn. App. 835", "135 Wn. App. 285", "138 P.3d 638", "138 Wn. App. 151", "143 P.3d 630", "146 Wash. 137", "146 Wn.2d 291", "147 Wn. App. 704", "153 Wn.2d 553", "157 Wn. App. 803", "159 P.3d 10", "18 P.3d 1144", "197 P.3d 686", "262 P. 123", "27 P.3d 618", "310 F.3d 1347", "376 P.2d 837", "40 P.3d 1206", "422 U.S. 66", "44 Wn. App. 898", "447 F. Supp. 2d 1158", "45 P.3d 1068", "503 U.S. 347", "519 P.2d 7", "52 Wn. App. 434", "532 U.S. 275", "536 U.S. 273", "61 Wn.2d 1", "719 P.2d 531", "723 P.2d 438", "759 P.2d 1210", "799 P.2d 250", "828 P.2d 549", "83 Wn.2d 491", "84 Wn. App. 511", "928 P.2d 1143", "93 Wn. App. 202", "96 Wn. App. 547", "963 F. Supp. 1", "969 P.2d 486", "984 P.2d 1041"]
+cites_cases: ["105 Wn. App. 80", "105 Wn.2d 778", "106 P.3d 212", "107 Wn. App. 391", "110 Wn. App. 412", "115 Wn.2d 506", "118 Wn.2d 801", "133 Wn. App. 835", "135 Wn. App. 285", "138 P.3d 638", "138 Wn. App. 151", "143 P.3d 630", "146 Wash. 137", "146 Wn.2d 291", "147 Wn. App. 704", "153 Wn.2d 553", "159 P.3d 10", "18 P.3d 1144", "197 P.3d 686", "262 P. 123", "27 P.3d 618", "310 F.3d 1347", "376 P.2d 837", "40 P.3d 1206", "422 U.S. 66", "44 Wn. App. 898", "447 F. Supp. 2d 1158", "45 P.3d 1068", "503 U.S. 347", "519 P.2d 7", "52 Wn. App. 434", "532 U.S. 275", "536 U.S. 273", "61 Wn.2d 1", "719 P.2d 531", "723 P.2d 438", "759 P.2d 1210", "799 P.2d 250", "828 P.2d 549", "83 Wn.2d 491", "84 Wn. App. 511", "928 P.2d 1143", "93 Wn. App. 202", "96 Wn. App. 547", "963 F. Supp. 1", "969 P.2d 486", "984 P.2d 1041"]
 ---
 
 # Brown v. Brown
