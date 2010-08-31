@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28379-8-III"
 decided: "2010-08-31"
-citations: ["158 Wash. App. 23", "157 Wash. App. 1050"]
+citations: ["158 Wash. App. 23"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Terry Pope et al., Petitioners, v. Douglas County Public Utility Dist
 source_url: "https://static.case.law/wash-app/158/cases/0023-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4006933
-cites_cases: ["100 Wn.2d 275", "100 Wn.2d 299", "107 Wn. App. 947", "111 Wn.2d 159", "112 Wn.2d 216", "114 Wn.2d 278", "133 P.3d 458", "134 P.3d 197", "144 Wn.2d 774", "145 Wn. App. 526", "156 Wn.2d 844", "157 Wn.2d 18", "158 Wn. App. 23", "186 P.3d 1140", "29 P.3d 56", "30 P.3d 1261", "669 P.2d 451", "669 P.2d 468", "759 P.2d 447", "770 P.2d 182", "787 P.2d 918"]
+cites_cases: ["100 Wn.2d 275", "100 Wn.2d 299", "107 Wn. App. 947", "111 Wn.2d 159", "112 Wn.2d 216", "114 Wn.2d 278", "133 P.3d 458", "134 P.3d 197", "144 Wn.2d 774", "145 Wn. App. 526", "156 Wn.2d 844", "157 Wn.2d 18", "186 P.3d 1140", "29 P.3d 56", "30 P.3d 1261", "669 P.2d 451", "669 P.2d 468", "759 P.2d 447", "770 P.2d 182", "787 P.2d 918"]
 ---
 
 # Pope v. Douglas County Public Utility District No. 1
