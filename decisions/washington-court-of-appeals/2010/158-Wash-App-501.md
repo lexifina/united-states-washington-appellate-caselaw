@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63458-5-I"
 decided: "2010-09-07"
-citations: ["158 Wash. App. 501", "157 Wash. App. 1052"]
+citations: ["158 Wash. App. 501"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Jason Dwayne Smith, Respondent
 source_url: "https://static.case.law/wash-app/158/cases/0501-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4006242
-cites_cases: ["101 Wn.2d 481", "108 Wn.2d 410", "109 Wn. App. 869", "115 P.3d 281", "130 Wn.2d 1", "14 Wn. App. 348", "142 P.3d 155", "142 Wn. App. 43", "144 Wn.2d 829", "145 Wn. App. 106", "146 Wn.2d 1", "149 Wn. App. 556", "150 Wn. App. 228", "151 Wn.2d 294", "154 P.3d 194", "154 Wn.2d 596", "158 Wn. App. 501", "158 Wn.2d 194", "159 Wn.2d 797", "174 P.3d 129", "192 P.3d 909", "204 P.3d 264", "208 P.3d 5", "21 Wn. App. 366", "31 P.3d 1155", "38 P.3d 1017", "43 P.3d 4", "443 P.2d 843", "51 Wn. App. 760", "541 P.2d 1237", "584 P.2d 992", "620 P.2d 79", "681 P.2d 227", "739 P.2d 690", "74 Wn.2d 231", "756 P.2d 743", "83 Wn. App. 825", "88 P.3d 390", "921 P.2d 1035", "924 P.2d 392", "94 Wn.2d 721"]
+cites_cases: ["101 Wn.2d 481", "108 Wn.2d 410", "109 Wn. App. 869", "115 P.3d 281", "130 Wn.2d 1", "14 Wn. App. 348", "142 P.3d 155", "142 Wn. App. 43", "144 Wn.2d 829", "145 Wn. App. 106", "146 Wn.2d 1", "149 Wn. App. 556", "150 Wn. App. 228", "151 Wn.2d 294", "154 P.3d 194", "154 Wn.2d 596", "158 Wn.2d 194", "159 Wn.2d 797", "174 P.3d 129", "192 P.3d 909", "204 P.3d 264", "208 P.3d 5", "21 Wn. App. 366", "31 P.3d 1155", "38 P.3d 1017", "43 P.3d 4", "443 P.2d 843", "51 Wn. App. 760", "541 P.2d 1237", "584 P.2d 992", "620 P.2d 79", "681 P.2d 227", "739 P.2d 690", "74 Wn.2d 231", "756 P.2d 743", "83 Wn. App. 825", "88 P.3d 390", "921 P.2d 1035", "924 P.2d 392", "94 Wn.2d 721"]
 ---
 
 # State v. Smith
