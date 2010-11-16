@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28596-1-III"
 decided: "2010-11-16"
-citations: ["160 Wash. App. 1", "158 Wash. App. 1043"]
+citations: ["160 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Roscoe Imrie, Respondent, v. Steve Kelley et al., Appellants."]
 source_url: "https://static.case.law/wash-app/160/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4011179
-cites_cases: ["100 Wn.2d 853", "103 Wn.2d 236", "106 Wn. App. 599", "122 Wn. App. 147", "123 P.2d 771", "13 Wn.2d 75", "132 P.3d 789", "132 Wn. App. 546", "132 Wn.2d 103", "141 Wn.2d 304", "148 Wn.2d 564", "149 Wn.2d 873", "160 Wn. App. 1", "162 Wn.2d 340", "172 P.3d 688", "23 P.3d 1128", "279 P.2d 438", "358 P.2d 958", "4 P.3d 130", "46 Wn.2d 163", "57 Wn.2d 624", "62 P.3d 489", "676 P.2d 431", "692 P.2d 175", "73 P.3d 369", "88 Wn. App. 176", "89 P.3d 726", "937 P.2d 154", "945 P.2d 214"]
+cites_cases: ["100 Wn.2d 853", "103 Wn.2d 236", "106 Wn. App. 599", "122 Wn. App. 147", "123 P.2d 771", "13 Wn.2d 75", "132 P.3d 789", "132 Wn. App. 546", "132 Wn.2d 103", "141 Wn.2d 304", "148 Wn.2d 564", "149 Wn.2d 873", "162 Wn.2d 340", "172 P.3d 688", "23 P.3d 1128", "279 P.2d 438", "358 P.2d 958", "4 P.3d 130", "46 Wn.2d 163", "57 Wn.2d 624", "62 P.3d 489", "676 P.2d 431", "692 P.2d 175", "73 P.3d 369", "88 Wn. App. 176", "89 P.3d 726", "937 P.2d 154", "945 P.2d 214"]
 ---
 
 # Imrie v. Kelley
