@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28633-9-III"
 decided: "2010-12-09"
-citations: ["159 Wash. App. 221", "158 Wash. App. 1052"]
+citations: ["159 Wash. App. 221"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Miguel Angel Acevedo, Appella
 source_url: "https://static.case.law/wash-app/159/cases/0221-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4008562
-cites_cases: ["10 P.3d 1101", "102 Wn. App. 949", "114 Wn.2d 828", "118 Wn. App. 199", "137 Wn. App. 227", "143 Wn.2d 658", "150 Wn.2d 489", "152 P.3d 364", "156 P.3d 201", "159 Wn. App. 221", "160 Wn.2d 106", "164 Wn.2d 960", "195 P.3d 506", "23 P.3d 462", "37 Wn. App. 856", "683 P.2d 1125", "76 P.3d 258", "78 P.3d 1001", "791 P.2d 897", "90 Wn. App. 904", "953 P.2d 834", "96 Wn. App. 813", "981 P.2d 25"]
+cites_cases: ["10 P.3d 1101", "102 Wn. App. 949", "114 Wn.2d 828", "118 Wn. App. 199", "137 Wn. App. 227", "143 Wn.2d 658", "150 Wn.2d 489", "152 P.3d 364", "156 P.3d 201", "160 Wn.2d 106", "164 Wn.2d 960", "195 P.3d 506", "23 P.3d 462", "37 Wn. App. 856", "683 P.2d 1125", "76 P.3d 258", "78 P.3d 1001", "791 P.2d 897", "90 Wn. App. 904", "953 P.2d 834", "96 Wn. App. 813", "981 P.2d 25"]
 ---
 
 # State v. Acevedo
