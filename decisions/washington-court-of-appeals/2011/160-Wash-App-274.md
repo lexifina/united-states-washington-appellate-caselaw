@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28350-0-III"
 decided: "2011-01-13"
-citations: ["160 Wash. App. 274", "159 Wash. App. 1025"]
+citations: ["160 Wash. App. 274"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Spokane County et al., Respondents, v. The Eastern Washington Growth 
 source_url: "https://static.case.law/wash-app/160/cases/0274-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4011194
-cites_cases: ["105 Wn. App. 937", "113 Wn. App. 615", "135 Wn.2d 542", "136 Wn.2d 38", "145 Wn. App. 435", "160 Wn. App. 274", "162 Wn.2d 597", "166 Wn.2d 581", "171 Wn.2d 1034", "174 P.3d 25", "187 P.3d 272", "21 P.3d 1165", "210 P.3d 1011", "424 U.S. 319", "53 P.3d 1011", "958 P.2d 962", "959 P.2d 1091", "99 Wn. App. 194", "992 P.2d 534"]
+cites_cases: ["105 Wn. App. 937", "113 Wn. App. 615", "135 Wn.2d 542", "136 Wn.2d 38", "145 Wn. App. 435", "162 Wn.2d 597", "166 Wn.2d 581", "171 Wn.2d 1034", "174 P.3d 25", "187 P.3d 272", "21 P.3d 1165", "210 P.3d 1011", "424 U.S. 319", "53 P.3d 1011", "958 P.2d 962", "959 P.2d 1091", "99 Wn. App. 194", "992 P.2d 534"]
 ---
 
 # Spokane County v. Eastern Washington Growth Management Hearings Board
