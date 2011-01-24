@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64818-7-I"
 decided: "2011-01-24"
-citations: ["160 Wash. App. 722", "159 Wash. App. 1039"]
+citations: ["160 Wash. App. 722"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
