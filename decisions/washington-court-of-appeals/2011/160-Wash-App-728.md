@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64037-2-I"
 decided: "2011-02-22"
-citations: ["160 Wash. App. 728", "160 Wash. App. 1010"]
+citations: ["160 Wash. App. 728"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Harmony at Madrona Park Owners Association, Plaintiff, v. Madison Har
 source_url: "https://static.case.law/wash-app/160/cases/0728-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4010962
-cites_cases: ["101 Wn. App. 575", "102 Wn. App. 697", "105 Wn. App. 447", "108 Wn.2d 558", "109 Wn. App. 131", "114 Wn.2d 842", "118 Wn.2d 801", "133 Wn.2d 509", "142 Wn.2d 654", "143 Wn. App. 345", "149 Wn.2d 135", "15 P.3d 115", "150 Wn. App. 1", "157 Wn. App. 376", "160 Wn. App. 728", "177 P.3d 755", "20 P.3d 958", "206 P.3d 1255", "238 P.3d 505", "34 P.3d 830", "355 P.2d 339", "365 P.2d 331", "45 Wn. App. 502", "5 P.3d 730", "57 Wn.2d 900", "58 Wn.2d 907", "68 P.3d 1061", "728 P.2d 597", "740 P.2d 1379", "792 P.2d 142", "828 P.2d 549", "83 Wn. App. 432", "83 Wn. App. 835", "9 P.3d 898", "922 P.2d 126", "924 P.2d 409", "946 P.2d 760", "97 Wn. App. 1", "970 P.2d 343"]
+cites_cases: ["101 Wn. App. 575", "102 Wn. App. 697", "105 Wn. App. 447", "108 Wn.2d 558", "109 Wn. App. 131", "114 Wn.2d 842", "118 Wn.2d 801", "133 Wn.2d 509", "142 Wn.2d 654", "143 Wn. App. 345", "149 Wn.2d 135", "15 P.3d 115", "150 Wn. App. 1", "157 Wn. App. 376", "177 P.3d 755", "20 P.3d 958", "206 P.3d 1255", "238 P.3d 505", "34 P.3d 830", "355 P.2d 339", "365 P.2d 331", "45 Wn. App. 502", "5 P.3d 730", "57 Wn.2d 900", "58 Wn.2d 907", "68 P.3d 1061", "728 P.2d 597", "740 P.2d 1379", "792 P.2d 142", "828 P.2d 549", "83 Wn. App. 432", "83 Wn. App. 835", "9 P.3d 898", "922 P.2d 126", "924 P.2d 409", "946 P.2d 760", "97 Wn. App. 1", "970 P.2d 343"]
 ---
 
 # Harmony at Madrona Park Owners Ass'n v. Madison Harmony Development, Inc.
