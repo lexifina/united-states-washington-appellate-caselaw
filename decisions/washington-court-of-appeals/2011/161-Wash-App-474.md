@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65251-6-I"
 decided: "2011-02-28"
-citations: ["161 Wash. App. 474", "160 Wash. App. 1016"]
+citations: ["161 Wash. App. 474"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Norcon Builders, LLC, Plaintiff, v. GMP Homes VG, LLC, et al., Defend
 source_url: "https://static.case.law/wash-app/161/cases/0474-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4013118
-cites_cases: ["1 P.3d 1124", "104 Wn. App. 887", "108 Wn.2d 545", "109 P.3d 863", "113 P.3d 463", "115 Wn.2d 364", "118 Wn.2d 801", "119 Wn.2d 357", "121 Wn.2d 726", "122 Wn.2d 738", "126 Wn. App. 710", "133 Wn. App. 479", "136 P.3d 776", "137 P.2d 97", "140 Wn. App. 215", "141 Wn.2d 29", "145 Wn.2d 79", "146 P.3d 1172", "147 Wn.2d 78", "154 Wn.2d 365", "158 Wn. App. 450", "158 Wn.2d 523", "160 P.3d 17", "160 Wn.2d 560", "161 Wn. App. 474", "164 Wn.2d 477", "165 P.3d 57", "17 P.3d 1256", "17 Wn.2d 591", "191 P.3d 1258", "192 Wash. 1", "242 P.3d 897", "33 Wn. App. 190", "43 P.3d 1222", "48 Wn. App. 719", "51 P.3d 793", "653 P.2d 1331", "69 Wn. App. 189", "72 P.2d 311", "741 P.2d 11", "741 P.2d 58", "798 P.2d 799", "828 P.2d 549", "832 P.2d 71", "847 P.2d 960", "853 P.2d 913", "863 P.2d 535", "89 Wn. App. 809", "951 P.2d 291"]
+cites_cases: ["1 P.3d 1124", "104 Wn. App. 887", "108 Wn.2d 545", "109 P.3d 863", "113 P.3d 463", "115 Wn.2d 364", "118 Wn.2d 801", "119 Wn.2d 357", "121 Wn.2d 726", "122 Wn.2d 738", "126 Wn. App. 710", "133 Wn. App. 479", "136 P.3d 776", "137 P.2d 97", "140 Wn. App. 215", "141 Wn.2d 29", "145 Wn.2d 79", "146 P.3d 1172", "147 Wn.2d 78", "154 Wn.2d 365", "158 Wn. App. 450", "158 Wn.2d 523", "160 P.3d 17", "160 Wn.2d 560", "164 Wn.2d 477", "165 P.3d 57", "17 P.3d 1256", "17 Wn.2d 591", "191 P.3d 1258", "192 Wash. 1", "242 P.3d 897", "33 Wn. App. 190", "43 P.3d 1222", "48 Wn. App. 719", "51 P.3d 793", "653 P.2d 1331", "69 Wn. App. 189", "72 P.2d 311", "741 P.2d 11", "741 P.2d 58", "798 P.2d 799", "828 P.2d 549", "832 P.2d 71", "847 P.2d 960", "853 P.2d 913", "863 P.2d 535", "89 Wn. App. 809", "951 P.2d 291"]
 ---
 
 # Norcon Builders, LLC v. GMP Homes VG, LLC
