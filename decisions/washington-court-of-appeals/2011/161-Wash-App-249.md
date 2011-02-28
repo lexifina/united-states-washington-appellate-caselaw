@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63918-8-I"
 decided: "2011-02-28"
-citations: ["161 Wash. App. 249", "160 Wash. App. 1014"]
+citations: ["161 Wash. App. 249"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The Marina Condominium Homeowner’s Association, Respondent, v. The 
 source_url: "https://static.case.law/wash-app/161/cases/0249-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4013235
-cites_cases: ["113 Wn.2d 346", "117 Wn. App. 369", "121 Wn.2d 38", "122 Wn.2d 299", "131 Wn.2d 484", "132 P.3d 115", "144 Wn.2d 306", "145 Wn.2d 674", "146 Wn. App. 231", "146 Wn.2d 370", "153 Wn. App. 846", "156 Wn.2d 677", "161 Wn. App. 249", "167 Wn.2d 570", "189 P.3d 253", "220 P.3d 191", "223 P.3d 1247", "27 P.3d 600", "41 P.3d 1175", "46 P.3d 789", "586 P.2d 870", "71 P.3d 692", "75 P.3d 974", "779 P.2d 697", "846 P.2d 522", "858 P.2d 1054", "91 Wn. App. 697", "91 Wn.2d 48", "933 P.2d 1036", "958 P.2d 1035"]
+cites_cases: ["113 Wn.2d 346", "117 Wn. App. 369", "121 Wn.2d 38", "122 Wn.2d 299", "131 Wn.2d 484", "132 P.3d 115", "144 Wn.2d 306", "145 Wn.2d 674", "146 Wn. App. 231", "146 Wn.2d 370", "153 Wn. App. 846", "156 Wn.2d 677", "167 Wn.2d 570", "189 P.3d 253", "220 P.3d 191", "223 P.3d 1247", "27 P.3d 600", "41 P.3d 1175", "46 P.3d 789", "586 P.2d 870", "71 P.3d 692", "75 P.3d 974", "779 P.2d 697", "846 P.2d 522", "858 P.2d 1054", "91 Wn. App. 697", "91 Wn.2d 48", "933 P.2d 1036", "958 P.2d 1035"]
 ---
 
 # Marina Condominium Homeowner's Ass'n v. Stratford at the Marina, LLC
