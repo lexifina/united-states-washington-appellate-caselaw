@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64363-1-I"
 decided: "2011-03-07"
-citations: ["161 Wash. App. 500", "160 Wash. App. 1023"]
+citations: ["161 Wash. App. 500"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Louis Alexander Diaz et al., Appellants, v. The State of Washington e
 source_url: "https://static.case.law/wash-app/161/cases/0500-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4013014
-cites_cases: ["102 Wn. App. 545", "12 Wn. App. 453", "123 Wn.2d 15", "133 Wn.2d 804", "135 Wn.2d 398", "144 P.3d 1168", "150 Wn.2d 11", "158 Wn.2d 440", "161 Wn. App. 500", "166 Wn.2d 974", "168 Wn.2d 421", "172 Wn.2d 1010", "216 P.3d 374", "228 P.3d 1260", "34 Wn. App. 701", "41 Wn. App. 495", "46 Wn. App. 480", "529 P.2d 1167", "664 P.2d 1274", "704 P.2d 1236", "731 P.2d 510", "74 P.3d 119", "8 P.3d 1067", "864 P.2d 921", "94 Wn. App. 964", "947 P.2d 721", "957 P.2d 632", "966 P.2d 305", "974 P.2d 335"]
+cites_cases: ["102 Wn. App. 545", "12 Wn. App. 453", "123 Wn.2d 15", "133 Wn.2d 804", "135 Wn.2d 398", "144 P.3d 1168", "150 Wn.2d 11", "158 Wn.2d 440", "166 Wn.2d 974", "168 Wn.2d 421", "172 Wn.2d 1010", "216 P.3d 374", "228 P.3d 1260", "34 Wn. App. 701", "41 Wn. App. 495", "46 Wn. App. 480", "529 P.2d 1167", "664 P.2d 1274", "704 P.2d 1236", "731 P.2d 510", "74 P.3d 119", "8 P.3d 1067", "864 P.2d 921", "94 Wn. App. 964", "947 P.2d 721", "957 P.2d 632", "966 P.2d 305", "974 P.2d 335"]
 ---
 
 # Diaz v. State
