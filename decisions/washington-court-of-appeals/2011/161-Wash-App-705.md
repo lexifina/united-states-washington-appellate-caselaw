@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "63111-0-I; 63616-2-I"
 decided: "2011-03-21"
-citations: ["161 Wash. App. 705", "160 Wash. App. 1035"]
+citations: ["161 Wash. App. 705"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Joseph M. Kaiser et al., Appe
 source_url: "https://static.case.law/wash-app/161/cases/0705-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4014235
-cites_cases: ["103 P.3d 773", "105 Wn.2d 778", "106 Wn. App. 104", "106 Wn. App. 231", "106 Wn.2d 1", "110 Wn. App. 412", "114 P.3d 671", "115 P.3d 262", "128 Wn. App. 64", "131 Wn.2d 133", "136 Wn. App. 202", "138 Wn.2d 248", "140 Wn.2d 200", "148 P.3d 1081", "149 Wn.2d 873", "150 Wn. App. 658", "152 Wn.2d 1", "153 Wn.2d 331", "154 Wn.2d 493", "161 Wn. App. 705", "166 Wn.2d 27", "204 P.3d 885", "208 P.3d 583", "22 P.3d 818", "22 Wn. App. 26", "23 P.3d 520", "31 Wn. App. 27", "31 Wn. App. 98", "40 P.3d 1206", "482 P.2d 775", "506 P.2d 20", "544 P.2d 20", "553 P.2d 423", "587 P.2d 606", "639 P.2d 832", "640 P.2d 36", "719 P.2d 531", "721 P.2d 1", "73 P.3d 369", "785 F.2d 1431", "79 Wn.2d 12", "80 Wn. App. 843", "81 Wn.2d 886", "86 Wn.2d 256", "91 Wn. App. 722", "912 P.2d 1035", "93 P.3d 147", "930 P.2d 288", "959 P.2d 1158", "978 P.2d 505", "995 P.2d 63"]
+cites_cases: ["103 P.3d 773", "105 Wn.2d 778", "106 Wn. App. 104", "106 Wn. App. 231", "106 Wn.2d 1", "110 Wn. App. 412", "114 P.3d 671", "115 P.3d 262", "128 Wn. App. 64", "131 Wn.2d 133", "136 Wn. App. 202", "138 Wn.2d 248", "140 Wn.2d 200", "148 P.3d 1081", "149 Wn.2d 873", "150 Wn. App. 658", "152 Wn.2d 1", "153 Wn.2d 331", "154 Wn.2d 493", "166 Wn.2d 27", "204 P.3d 885", "208 P.3d 583", "22 P.3d 818", "22 Wn. App. 26", "23 P.3d 520", "31 Wn. App. 27", "31 Wn. App. 98", "40 P.3d 1206", "482 P.2d 775", "506 P.2d 20", "544 P.2d 20", "553 P.2d 423", "587 P.2d 606", "639 P.2d 832", "640 P.2d 36", "719 P.2d 531", "721 P.2d 1", "73 P.3d 369", "785 F.2d 1431", "79 Wn.2d 12", "80 Wn. App. 843", "81 Wn.2d 886", "86 Wn.2d 256", "91 Wn. App. 722", "912 P.2d 1035", "93 P.3d 147", "930 P.2d 288", "959 P.2d 1158", "978 P.2d 505", "995 P.2d 63"]
 ---
 
 # State v. Kaiser
