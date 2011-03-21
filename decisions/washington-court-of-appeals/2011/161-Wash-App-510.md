@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64291-0-I"
 decided: "2011-03-21"
-citations: ["161 Wash. App. 510", "160 Wash. App. 1035"]
+citations: ["161 Wash. App. 510"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["James A. Bird, Respondent, v. Best Plumbing Group, LLC, Respondent, F
 source_url: "https://static.case.law/wash-app/161/cases/0510-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4014834
-cites_cases: ["106 Wn. App. 231", "109 P.3d 22", "112 Wn.2d 636", "114 Wn. App. 625", "115 Wn.2d 148", "117 Cal. Rptr. 2d 318", "119 F. Supp. 2d 831", "121 Wn. App. 372", "126 Wn. App. 342", "127 Wn.2d 512", "13 P.2d 497", "133 Ill. App. 3d 119", "133 Wn. App. 338", "135 P.3d 978", "137 Wn.2d 44", "140 Wn. App. 215", "146 Wn.2d 730", "149 P. 325", "151 Wn. App. 409", "152 Wn. App. 572", "153 Wn. App. 595", "154 Ariz. 113", "154 Wn. App. 573", "161 Wn. App. 510", "165 P.3d 57", "169 Wash. 704", "172 Wn.2d 1010", "207 Ariz. 19", "213 P.3d 931", "216 P.3d 1110", "224 P.3d 795", "225 P.3d 492", "23 P.3d 520", "27 Cal. 4th 718", "29 Tort & Ins. L.J. 705", "316 N.W.2d 729", "33 Wn. App. 617", "36 Cal. App. 4th 500", "36 P.3d 253", "361 N.J. Super. 539", "41 P.3d 128", "42 Cal. Rptr. 2d 295", "46 Wn. App. 471", "463 N.W.2d 277", "478 N.E.2d 581", "49 P.3d 887", "55 S.W.3d 366", "558 N.W.2d 205", "570 F. Supp. 913", "60 P.3d 601", "60 Wn. App. 504", "617 P.2d 704", "65 Wn. App. 93", "657 P.2d 327", "658 P.2d 1230", "730 P.2d 1345", "771 P.2d 711", "780 P.2d 260", "79 P.3d 599", "795 P.2d 1143", "8 Wash. 452", "803 P.2d 1339", "812 P.2d 487", "827 P.2d 1070", "86 Wash. 43", "86 Wn. App. 22", "88 Ill. Dec. 266", "89 P.3d 265", "901 P.2d 297", "91 Wn. App. 919", "925 S.W.2d 696", "935 P.2d 684", "94 Wn.2d 359", "952 F.2d 1485", "959 P.2d 1130", "961 F. Supp. 1502", "969 P.2d 42", "97 Wn. App. 803", "98 Wn.2d 708", "987 P.2d 642"]
+cites_cases: ["106 Wn. App. 231", "109 P.3d 22", "112 Wn.2d 636", "114 Wn. App. 625", "115 Wn.2d 148", "117 Cal. Rptr. 2d 318", "119 F. Supp. 2d 831", "121 Wn. App. 372", "126 Wn. App. 342", "127 Wn.2d 512", "13 P.2d 497", "133 Ill. App. 3d 119", "133 Wn. App. 338", "135 P.3d 978", "137 Wn.2d 44", "140 Wn. App. 215", "146 Wn.2d 730", "149 P. 325", "151 Wn. App. 409", "152 Wn. App. 572", "153 Wn. App. 595", "154 Ariz. 113", "154 Wn. App. 573", "165 P.3d 57", "169 Wash. 704", "172 Wn.2d 1010", "207 Ariz. 19", "213 P.3d 931", "216 P.3d 1110", "224 P.3d 795", "225 P.3d 492", "23 P.3d 520", "27 Cal. 4th 718", "29 Tort & Ins. L.J. 705", "316 N.W.2d 729", "33 Wn. App. 617", "36 Cal. App. 4th 500", "36 P.3d 253", "361 N.J. Super. 539", "41 P.3d 128", "42 Cal. Rptr. 2d 295", "46 Wn. App. 471", "463 N.W.2d 277", "478 N.E.2d 581", "49 P.3d 887", "55 S.W.3d 366", "558 N.W.2d 205", "570 F. Supp. 913", "60 P.3d 601", "60 Wn. App. 504", "617 P.2d 704", "65 Wn. App. 93", "657 P.2d 327", "658 P.2d 1230", "730 P.2d 1345", "771 P.2d 711", "780 P.2d 260", "79 P.3d 599", "795 P.2d 1143", "8 Wash. 452", "803 P.2d 1339", "812 P.2d 487", "827 P.2d 1070", "86 Wash. 43", "86 Wn. App. 22", "88 Ill. Dec. 266", "89 P.3d 265", "901 P.2d 297", "91 Wn. App. 919", "925 S.W.2d 696", "935 P.2d 684", "94 Wn.2d 359", "952 F.2d 1485", "959 P.2d 1130", "961 F. Supp. 1502", "969 P.2d 42", "97 Wn. App. 803", "98 Wn.2d 708", "987 P.2d 642"]
 ---
 
 # Bird v. Best Plumbing Group, LLC
