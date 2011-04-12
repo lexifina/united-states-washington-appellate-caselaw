@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40938-1-II"
 decided: "2011-04-12"
-citations: ["162 Wash. App. 250", "161 Wash. App. 1007"]
+citations: ["162 Wash. App. 250"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Cowlitz Bank, Respondent, v. Mark Leonard et al., Appellants."]
 source_url: "https://static.case.law/wash-app/162/cases/0250-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4017320
-cites_cases: ["12 U.S.C. § 1823", "162 Wn. App. 250", "378 N.W.2d 59", "61 Wn. App. 403", "810 P.2d 535"]
+cites_cases: ["12 U.S.C. § 1823", "378 N.W.2d 59", "61 Wn. App. 403", "810 P.2d 535"]
 ---
 
 # Cowlitz Bank v. Leonard
