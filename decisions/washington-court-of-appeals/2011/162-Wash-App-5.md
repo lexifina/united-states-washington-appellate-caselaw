@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65021-1-I"
 decided: "2011-04-18"
-citations: ["162 Wash. App. 5", "161 Wash. App. 1011"]
+citations: ["162 Wash. App. 5"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Gretchen Weber, Appellant, v. Budget Truck Rental, LLC, Respondent."]
 source_url: "https://static.case.law/wash-app/162/cases/0005-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4019184
-cites_cases: ["109 P.3d 805", "115 Wn.2d 506", "119 Wash. 547", "154 Wn.2d 16", "162 Wn. App. 5", "167 Wn.2d 531", "172 Wn.2d 1015", "206 P. 6", "222 P.3d 1208", "392 F. Supp. 2d 1116", "45 Wn. App. 700", "63 Mass. App. Ct. 20", "656 P.2d 1030", "726 P.2d 1032", "799 P.2d 250", "822 N.E.2d 743", "922 So. 2d 559", "948 So. 2d 1287", "98 Wn.2d 434"]
+cites_cases: ["109 P.3d 805", "115 Wn.2d 506", "119 Wash. 547", "154 Wn.2d 16", "167 Wn.2d 531", "172 Wn.2d 1015", "206 P. 6", "222 P.3d 1208", "392 F. Supp. 2d 1116", "45 Wn. App. 700", "63 Mass. App. Ct. 20", "656 P.2d 1030", "726 P.2d 1032", "799 P.2d 250", "822 N.E.2d 743", "922 So. 2d 559", "948 So. 2d 1287", "98 Wn.2d 434"]
 ---
 
 # Weber v. Budget Truck Rental, LLC
