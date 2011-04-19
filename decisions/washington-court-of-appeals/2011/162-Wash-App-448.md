@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29165-1-III"
 decided: "2011-04-19"
-citations: ["162 Wash. App. 448", "161 Wash. App. 1014"]
+citations: ["162 Wash. App. 448"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jason Youker, Appellant, v. Douglas County et al., Respondents."]
 source_url: "https://static.case.law/wash-app/162/cases/0448-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4016846
-cites_cases: ["1 P.3d 1148", "103 Wn.2d 144", "104 Wn.2d 293", "108 Wn. App. 388", "112 Wn.2d 216", "117 Mich. 368", "118 Wn. App. 485", "119 Wn.2d 434", "125 P.2d 681", "127 P. 1108", "127 Wn.2d 17", "127 Wn.2d 434", "13 Wn.2d 485", "137 Wn.2d 518", "139 Wn.2d 757", "141 Wn.2d 68", "142 Wn. App. 165", "149 Wn.2d 29", "158 P.3d 595", "160 Wn.2d 454", "162 Wn. App. 448", "173 P.3d 318", "173 Wn.2d 1002", "176 F.3d 138", "23 Wn. App. 913", "246 P.2d 846", "30 P.3d 529", "314 P.2d 414", "33 Wn. App. 424", "357 P.2d 693", "380 P.2d 744", "383 F. Supp. 2d 666", "40 Wn.2d 866", "42 Wn. App. 38", "43 Wash. 471", "46 Wash. 282", "48 Wn. App. 369", "50 Wn.2d 649", "528 U.S. 964", "57 Wn.2d 367", "573 P.2d 1316", "578 P.2d 26", "599 P.2d 23", "61 Wn.2d 761", "65 P.3d 1194", "655 P.2d 254", "664 P.2d 492", "690 P.2d 1163", "705 P.2d 258", "708 P.2d 407", "71 Wash. 155", "738 P.2d 1090", "75 N.W. 933", "76 P.3d 255", "770 P.2d 182", "83 Wn. App. 532", "834 P.2d 609", "86 P. 668", "89 P. 887", "89 Wn.2d 571", "89 Wn.2d 932", "896 P.2d 665", "899 P.2d 1270", "922 P.2d 145", "973 P.2d 465", "99 Wn.2d 1003", "99 Wn.2d 582", "991 P.2d 615"]
+cites_cases: ["1 P.3d 1148", "103 Wn.2d 144", "104 Wn.2d 293", "108 Wn. App. 388", "112 Wn.2d 216", "117 Mich. 368", "118 Wn. App. 485", "119 Wn.2d 434", "125 P.2d 681", "127 P. 1108", "127 Wn.2d 17", "127 Wn.2d 434", "13 Wn.2d 485", "137 Wn.2d 518", "139 Wn.2d 757", "141 Wn.2d 68", "142 Wn. App. 165", "149 Wn.2d 29", "158 P.3d 595", "160 Wn.2d 454", "173 P.3d 318", "173 Wn.2d 1002", "176 F.3d 138", "23 Wn. App. 913", "246 P.2d 846", "30 P.3d 529", "314 P.2d 414", "33 Wn. App. 424", "357 P.2d 693", "380 P.2d 744", "383 F. Supp. 2d 666", "40 Wn.2d 866", "42 Wn. App. 38", "43 Wash. 471", "46 Wash. 282", "48 Wn. App. 369", "50 Wn.2d 649", "528 U.S. 964", "57 Wn.2d 367", "573 P.2d 1316", "578 P.2d 26", "599 P.2d 23", "61 Wn.2d 761", "65 P.3d 1194", "655 P.2d 254", "664 P.2d 492", "690 P.2d 1163", "705 P.2d 258", "708 P.2d 407", "71 Wash. 155", "738 P.2d 1090", "75 N.W. 933", "76 P.3d 255", "770 P.2d 182", "83 Wn. App. 532", "834 P.2d 609", "86 P. 668", "89 P. 887", "89 Wn.2d 571", "89 Wn.2d 932", "896 P.2d 665", "899 P.2d 1270", "922 P.2d 145", "973 P.2d 465", "99 Wn.2d 1003", "99 Wn.2d 582", "991 P.2d 615"]
 ---
 
 # Youker v. Douglas County
