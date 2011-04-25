@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64511-1-I"
 decided: "2011-04-25"
-citations: ["162 Wash. App. 468", "161 Wash. App. 1017"]
+citations: ["162 Wash. App. 468"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Michael Shawn Baker, Appellan
 source_url: "https://static.case.law/wash-app/162/cases/0468-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4018412
-cites_cases: ["105 Wash. 160", "12 Grant, 83", "126 Wn.2d 244", "155 Wn. App. 347", "162 Wn. App. 468", "164 Wn.2d 174", "169 Wn.2d 1023", "173 Wn.2d 1004", "177 P. 683", "189 P.3d 126", "228 P.3d 771", "655 P.2d 697", "83 Wn. App. 98", "893 P.2d 615", "920 P.2d 609", "98 Wn.2d 358"]
+cites_cases: ["105 Wash. 160", "12 Grant, 83", "126 Wn.2d 244", "155 Wn. App. 347", "164 Wn.2d 174", "169 Wn.2d 1023", "173 Wn.2d 1004", "177 P. 683", "189 P.3d 126", "228 P.3d 771", "655 P.2d 697", "83 Wn. App. 98", "893 P.2d 615", "920 P.2d 609", "98 Wn.2d 358"]
 ---
 
 # State v. Baker
