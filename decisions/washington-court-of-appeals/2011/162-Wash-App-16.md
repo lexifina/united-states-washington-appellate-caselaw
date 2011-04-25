@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65111-1-I; 65112-9-I"
 decided: "2011-04-25"
-citations: ["162 Wash. App. 16", "161 Wash. App. 1020"]
+citations: ["162 Wash. App. 16"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["A.G. et al., Respondents, v. Corporation of the Catholic Archbishop o
 source_url: "https://static.case.law/wash-app/162/cases/0016-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4016007
-cites_cases: ["106 F.R.D. 551", "107 Wn.2d 872", "117 Wn.2d 772", "138 P.3d 1053", "149 Wn.2d 647", "157 Wn.2d 416", "162 Wn. App. 16", "172 Wn.2d 1017", "239 S.W.3d 583", "331 F.3d 1122", "467 U.S. 20", "482 P.2d 775", "499 P.2d 869", "71 P.3d 638", "734 P.2d 480", "79 Wn.2d 12", "81 Wn.2d 34", "819 P.2d 370"]
+cites_cases: ["106 F.R.D. 551", "107 Wn.2d 872", "117 Wn.2d 772", "138 P.3d 1053", "149 Wn.2d 647", "157 Wn.2d 416", "172 Wn.2d 1017", "239 S.W.3d 583", "331 F.3d 1122", "467 U.S. 20", "482 P.2d 775", "499 P.2d 869", "71 P.3d 638", "734 P.2d 480", "79 Wn.2d 12", "81 Wn.2d 34", "819 P.2d 370"]
 ---
 
 # A.G. v. Corporation of the Catholic Archbishop
