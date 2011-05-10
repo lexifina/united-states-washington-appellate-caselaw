@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28843-9-III"
 decided: "2011-05-10"
-citations: ["162 Wash. App. 678", "161 Wash. App. 1036"]
+citations: ["162 Wash. App. 678"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Noel Garcia, Respondent."]
 source_url: "https://static.case.law/wash-app/162/cases/0678-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4014678
-cites_cases: ["106 Wn.2d 547", "108 Wn.2d 125", "108 Wn.2d 491", "110 P.3d 717", "117 Wn.2d 156", "122 Wn.2d 502", "125 Wn.2d 717", "127 Wn.2d 141", "129 Wn.2d 635", "132 Wn.2d 834", "142 Wn.2d 631", "145 Wn.2d 400", "15 P.3d 1271", "154 Wn.2d 85", "162 Wn. App. 678", "173 Wn.2d 1008", "38 P.3d 335", "723 P.2d 1111", "73 Wn. App. 789", "736 P.2d 1065", "740 P.2d 835", "815 P.2d 752", "859 P.2d 36", "871 P.2d 642", "888 P.2d 1169", "896 P.2d 1254", "919 P.2d 1228", "940 P.2d 633"]
+cites_cases: ["106 Wn.2d 547", "108 Wn.2d 125", "108 Wn.2d 491", "110 P.3d 717", "117 Wn.2d 156", "122 Wn.2d 502", "125 Wn.2d 717", "127 Wn.2d 141", "129 Wn.2d 635", "132 Wn.2d 834", "142 Wn.2d 631", "145 Wn.2d 400", "15 P.3d 1271", "154 Wn.2d 85", "173 Wn.2d 1008", "38 P.3d 335", "723 P.2d 1111", "73 Wn. App. 789", "736 P.2d 1065", "740 P.2d 835", "815 P.2d 752", "859 P.2d 36", "871 P.2d 642", "888 P.2d 1169", "896 P.2d 1254", "919 P.2d 1228", "940 P.2d 633"]
 ---
 
 # State v. Garcia
