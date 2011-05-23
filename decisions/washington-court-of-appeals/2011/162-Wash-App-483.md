@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65336-9-I"
 decided: "2011-05-23"
-citations: ["162 Wash. App. 483", "162 Wash. App. 1002"]
+citations: ["162 Wash. App. 483"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Kenneth House, Appellant, v. The Estate of Michael L. McCamey et al.,
 source_url: "https://static.case.law/wash-app/162/cases/0483-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4016329
-cites_cases: ["10 Mass. App. Ct. 76", "10 P.3d 504", "102 Wn. App. 907", "113 Wn.2d 479", "122 Wash. 69", "122 Wn. App. 736", "140 Wn. App. 873", "146 Wn.2d 291", "162 Wn. App. 483", "164 Wn.2d 640", "167 P.3d 610", "173 Wn.2d 1005", "192 P.3d 891", "20 N.E.2d 910", "210 P. 22", "270 Md. 248", "299 Ill. App. 531", "311 A.2d 231", "348 P.2d 649", "406 N.E.2d 402", "45 P.3d 1068", "45 Wn. App. 700", "55 Wn.2d 565", "726 P.2d 1032", "780 P.2d 1307", "87 P.3d 774"]
+cites_cases: ["10 Mass. App. Ct. 76", "10 P.3d 504", "102 Wn. App. 907", "113 Wn.2d 479", "122 Wash. 69", "122 Wn. App. 736", "140 Wn. App. 873", "146 Wn.2d 291", "164 Wn.2d 640", "167 P.3d 610", "173 Wn.2d 1005", "192 P.3d 891", "20 N.E.2d 910", "210 P. 22", "270 Md. 248", "299 Ill. App. 531", "311 A.2d 231", "348 P.2d 649", "406 N.E.2d 402", "45 P.3d 1068", "45 Wn. App. 700", "55 Wn.2d 565", "726 P.2d 1032", "780 P.2d 1307", "87 P.3d 774"]
 ---
 
 # House v. Estate of McCamey
