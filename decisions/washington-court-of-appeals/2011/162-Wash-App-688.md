@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "27596-5-III; 28112-4-III"
 decided: "2011-06-07"
-citations: ["162 Wash. App. 688", "162 Wash. App. 1014"]
+citations: ["162 Wash. App. 688"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jeff Zink et al., Appellants, v. The City of Mesa, Respondent."]
 source_url: "https://static.case.law/wash-app/162/cases/0688-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4019003
-cites_cases: ["100 Wn. App. 7", "113 Wn.2d 402", "114 Wn. App. 836", "115 Wn.2d 364", "117 P.3d 1117", "123 Wn. App. 132", "125 Wn.2d 243", "130 P.3d 840", "131 Wn. App. 882", "131 Wn.2d 25", "137 Wn. App. 271", "137 Wn. App. 69", "140 Wn. App. 328", "147 Wn. App. 576", "150 Wn. App. 865", "151 P.3d 243", "151 Wn.2d 439", "152 P.3d 1044", "152 Wn. App. 830", "152 Wn.2d 421", "155 Wn. App. 1", "155 Wn.2d 89", "162 Wn. App. 688", "162 Wn.2d 716", "164 Wn.2d 432", "165 Wn.2d 439", "165 Wn.2d 525", "166 P.3d 738", "166 Wn.2d 747", "167 Wn.2d 341", "168 Wn.2d 444", "169 Wn.2d 1007", "169 Wn.2d 827", "170 Wn.2d 138", "173 Wn.2d 1010", "174 P.3d 60", "191 P.3d 879", "196 P.3d 735", "199 P.3d 393", "200 P.3d 232", "209 P.3d 872", "213 P.3d 596", "217 P.3d 1172", "222 P.3d 808", "229 P.3d 735", "230 P.3d 169", "238 P.3d 503", "240 P.3d 1149", "240 P.3d 120", "25 Wn. App. 520", "60 P.3d 667", "610 P.2d 387", "780 P.2d 838", "798 P.2d 799", "884 P.2d 592", "90 P.3d 26", "929 P.2d 389", "96 P.3d 1012", "96 Wn. App. 757", "98 P.3d 463", "980 P.2d 796", "994 P.2d 857"]
+cites_cases: ["100 Wn. App. 7", "113 Wn.2d 402", "114 Wn. App. 836", "115 Wn.2d 364", "117 P.3d 1117", "123 Wn. App. 132", "125 Wn.2d 243", "130 P.3d 840", "131 Wn. App. 882", "131 Wn.2d 25", "137 Wn. App. 271", "137 Wn. App. 69", "140 Wn. App. 328", "147 Wn. App. 576", "150 Wn. App. 865", "151 P.3d 243", "151 Wn.2d 439", "152 P.3d 1044", "152 Wn. App. 830", "152 Wn.2d 421", "155 Wn. App. 1", "155 Wn.2d 89", "162 Wn.2d 716", "164 Wn.2d 432", "165 Wn.2d 439", "165 Wn.2d 525", "166 P.3d 738", "166 Wn.2d 747", "167 Wn.2d 341", "168 Wn.2d 444", "169 Wn.2d 1007", "169 Wn.2d 827", "170 Wn.2d 138", "173 Wn.2d 1010", "174 P.3d 60", "191 P.3d 879", "196 P.3d 735", "199 P.3d 393", "200 P.3d 232", "209 P.3d 872", "213 P.3d 596", "217 P.3d 1172", "222 P.3d 808", "229 P.3d 735", "230 P.3d 169", "238 P.3d 503", "240 P.3d 1149", "240 P.3d 120", "25 Wn. App. 520", "60 P.3d 667", "610 P.2d 387", "780 P.2d 838", "798 P.2d 799", "884 P.2d 592", "90 P.3d 26", "929 P.2d 389", "96 P.3d 1012", "96 Wn. App. 757", "98 P.3d 463", "980 P.2d 796", "994 P.2d 857"]
 ---
 
 # Zink v. City of Mesa
