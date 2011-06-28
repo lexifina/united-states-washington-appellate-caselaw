@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29191-0-III"
 decided: "2011-06-28"
-citations: ["163 Wash. App. 680", "162 Wash. App. 1035"]
+citations: ["163 Wash. App. 680"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Stevens County, Appellant, v. The Eastern Washington Growth Managemen
 source_url: "https://static.case.law/wash-app/163/cases/0680-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4020611
-cites_cases: ["108 Wn. App. 429", "110 P.3d 1132", "118 Wn. App. 212", "124 Wn.2d 261", "14 P.3d 133", "142 Wn.2d 543", "145 Wn. App. 649", "146 Wn. App. 493", "146 Wn.2d 740", "154 Wn.2d 224", "161 Wn.2d 415", "163 Wn. App. 680", "165 Wn.2d 1030", "166 P.3d 1198", "187 P.3d 786", "192 P.3d 1", "31 P.3d 28", "49 P.3d 867", "75 P.3d 975", "84 Wn. App. 663", "877 P.2d 187", "92 Wn. App. 290", "929 P.2d 510", "94 Wn. App. 7", "966 P.2d 338", "972 P.2d 101"]
+cites_cases: ["108 Wn. App. 429", "110 P.3d 1132", "118 Wn. App. 212", "124 Wn.2d 261", "14 P.3d 133", "142 Wn.2d 543", "145 Wn. App. 649", "146 Wn. App. 493", "146 Wn.2d 740", "154 Wn.2d 224", "161 Wn.2d 415", "165 Wn.2d 1030", "166 P.3d 1198", "187 P.3d 786", "192 P.3d 1", "31 P.3d 28", "49 P.3d 867", "75 P.3d 975", "84 Wn. App. 663", "877 P.2d 187", "92 Wn. App. 290", "929 P.2d 510", "94 Wn. App. 7", "966 P.2d 338", "972 P.2d 101"]
 ---
 
 # Stevens County v. Eastern Washington Growth Management Hearings Board
