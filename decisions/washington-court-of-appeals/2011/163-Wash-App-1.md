@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29440-4-III"
 decided: "2011-07-07"
-citations: ["163 Wash. App. 1", "162 Wash. App. 1039"]
+citations: ["163 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Loren E. Griffith, Appellant, v. The Employment Security Department, 
 source_url: "https://static.case.law/wash-app/163/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4018185
-cites_cases: ["122 Wn.2d 397", "155 Wn. App. 24", "163 Wn. App. 1", "164 Wn.2d 909", "194 P.3d 255", "226 P.3d 263", "858 P.2d 494"]
+cites_cases: ["122 Wn.2d 397", "155 Wn. App. 24", "164 Wn.2d 909", "194 P.3d 255", "226 P.3d 263", "858 P.2d 494"]
 ---
 
 # Griffith v. Employment Security Department
