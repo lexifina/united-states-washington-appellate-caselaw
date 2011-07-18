@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64312-6-I; 65019-0-I"
 decided: "2011-07-18"
-citations: ["164 Wash. App. 1", "162 Wash. App. 1045"]
+citations: ["164 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Sandra Yankee, Individually and as Personal Representative, Responden
 source_url: "https://static.case.law/wash-app/164/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4023008
-cites_cases: ["100 P.2d 1024", "112 Wn.2d 216", "118 Wn.2d 476", "119 P.3d 325", "155 Wn.2d 225", "159 Wn. App. 724", "164 Wn. App. 1", "165 Wn.2d 341", "165 Wn.2d 373", "197 P.3d 127", "198 P.3d 493", "248 P.3d 1052", "3 Wn.2d 423", "477 U.S. 317", "770 P.2d 182", "824 P.2d 483"]
+cites_cases: ["100 P.2d 1024", "112 Wn.2d 216", "118 Wn.2d 476", "119 P.3d 325", "155 Wn.2d 225", "159 Wn. App. 724", "165 Wn.2d 341", "165 Wn.2d 373", "197 P.3d 127", "198 P.3d 493", "248 P.3d 1052", "3 Wn.2d 423", "477 U.S. 317", "770 P.2d 182", "824 P.2d 483"]
 ---
 
 # Yankee v. APV North America, Inc.
