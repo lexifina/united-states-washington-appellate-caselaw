@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "40041-3-II"
 decided: "2011-07-19"
-citations: ["163 Wash. App. 697", "162 Wash. App. 1049"]
+citations: ["163 Wash. App. 697"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Leesa Marie Lynch, Respondent, v. The Department of Licensing, Petiti
 source_url: "https://static.case.law/wash-app/163/cases/0697-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4019193
-cites_cases: ["101 Wn. App. 218", "105 Wn.2d 278", "108 Wn. App. 815", "109 Wn. App. 371", "110 Wn.2d 183", "112 Wn. App. 670", "112 Wn.2d 882", "112 Wn.2d 890", "114 Wn. App. 726", "127 Wn.2d 580", "130 Wn.2d 747", "133 Wn.2d 290", "138 Wn.2d 486", "138 Wn.2d 783", "147 Wn.2d 41", "152 Wn. App. 871", "163 Wn. App. 697", "220 P.3d 211", "3 P.3d 208", "33 P.3d 94", "35 P.3d 1171", "384 U.S. 436", "487 P.2d 1050", "50 P.3d 295", "50 P.3d 627", "56 Wn. App. 677", "59 Wn. App. 703", "60 P.3d 615", "61 Wn. App. 525", "65 Wn. App. 778", "70 Wn. App. 541", "714 P.2d 1183", "751 P.2d 294", "774 P.2d 1183", "774 P.2d 1187", "784 P.2d 1295", "79 Wn.2d 500", "800 P.2d 844", "810 P.2d 1385", "831 P.2d 149", "854 P.2d 665", "902 P.2d 157", "91 Wn. App. 887", "927 P.2d 1129", "944 P.2d 1014", "960 P.2d 475", "980 P.2d 725", "982 P.2d 601"]
+cites_cases: ["101 Wn. App. 218", "105 Wn.2d 278", "108 Wn. App. 815", "109 Wn. App. 371", "110 Wn.2d 183", "112 Wn. App. 670", "112 Wn.2d 882", "112 Wn.2d 890", "114 Wn. App. 726", "127 Wn.2d 580", "130 Wn.2d 747", "133 Wn.2d 290", "138 Wn.2d 486", "138 Wn.2d 783", "147 Wn.2d 41", "152 Wn. App. 871", "220 P.3d 211", "3 P.3d 208", "33 P.3d 94", "35 P.3d 1171", "384 U.S. 436", "487 P.2d 1050", "50 P.3d 295", "50 P.3d 627", "56 Wn. App. 677", "59 Wn. App. 703", "60 P.3d 615", "61 Wn. App. 525", "65 Wn. App. 778", "70 Wn. App. 541", "714 P.2d 1183", "751 P.2d 294", "774 P.2d 1183", "774 P.2d 1187", "784 P.2d 1295", "79 Wn.2d 500", "800 P.2d 844", "810 P.2d 1385", "831 P.2d 149", "854 P.2d 665", "902 P.2d 157", "91 Wn. App. 887", "927 P.2d 1129", "944 P.2d 1014", "960 P.2d 475", "980 P.2d 725", "982 P.2d 601"]
 ---
 
 # Lynch v. Department of Licensing
