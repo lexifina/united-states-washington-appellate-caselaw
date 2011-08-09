@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "38600-3-II"
 decided: "2011-08-09"
-citations: ["165 Wash. App. 704", "163 Wash. App. 75"]
+citations: ["165 Wash. App. 704"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Gary D. Meredith, Appellant."
 source_url: "https://static.case.law/wash-app/165/cases/0704-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4023786
-cites_cases: ["127 Wn.2d 690", "131 S. Ct. 522", "163 Wn.2d 477", "165 Wn. App. 704", "166 Wn.2d 380", "168 Wn.2d 645", "173 Wn.2d 1031", "181 P.3d 831", "200 U.S. 316", "208 P.3d 1107", "229 P.3d 752", "396 U.S. 320", "429 U.S. 252", "447 U.S. 323", "476 U.S. 79", "478 U.S. 255", "499 U.S. 400", "545 U.S. 231", "71 Wn. App. 444", "859 P.2d 60", "903 P.2d 960"]
+cites_cases: ["127 Wn.2d 690", "131 S. Ct. 522", "163 Wn.2d 477", "166 Wn.2d 380", "168 Wn.2d 645", "173 Wn.2d 1031", "181 P.3d 831", "200 U.S. 316", "208 P.3d 1107", "229 P.3d 752", "396 U.S. 320", "429 U.S. 252", "447 U.S. 323", "476 U.S. 79", "478 U.S. 255", "499 U.S. 400", "545 U.S. 231", "71 Wn. App. 444", "859 P.2d 60", "903 P.2d 960"]
 ---
 
 # State v. Meredith
