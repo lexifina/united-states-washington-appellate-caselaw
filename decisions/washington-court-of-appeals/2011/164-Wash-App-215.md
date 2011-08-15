@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66960-5-I"
 decided: "2011-08-15"
-citations: ["164 Wash. App. 215", "163 Wash. App. 1009"]
+citations: ["164 Wash. App. 215"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The Department of Revenue, Appellant, v. Nord Northwest Corporation, 
 source_url: "https://static.case.law/wash-app/164/cases/0215-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4022543
-cites_cases: ["105 Wn.2d 912", "120 Wn.2d 357", "144 Wn. App. 72", "147 Wn.2d 41", "148 Wn.2d 75", "154 P.3d 891", "159 Wn.2d 868", "160 P.3d 17", "160 Wn.2d 560", "161 Wn. App. 17", "164 Wn. App. 215", "164 Wn.2d 909", "170 Wn.2d 43", "173 Wn.2d 1019", "180 P.3d 874", "194 P.3d 255", "239 P.3d 1095", "252 P.3d 382", "306 P.2d 216", "364 P.2d 440", "37 Wn. App. 526", "430 P.2d 965", "49 Wn.2d 707", "50 P.3d 627", "58 Wn.2d 518", "59 P.3d 85", "63 Wn. App. 193", "681 P.2d 263", "71 Wn.2d 820", "719 P.2d 541", "80 Wn. App. 930", "817 P.2d 1380", "841 P.2d 752", "912 P.2d 521", "98 Wn. App. 947", "991 P.2d 634"]
+cites_cases: ["105 Wn.2d 912", "120 Wn.2d 357", "144 Wn. App. 72", "147 Wn.2d 41", "148 Wn.2d 75", "154 P.3d 891", "159 Wn.2d 868", "160 P.3d 17", "160 Wn.2d 560", "161 Wn. App. 17", "164 Wn.2d 909", "170 Wn.2d 43", "173 Wn.2d 1019", "180 P.3d 874", "194 P.3d 255", "239 P.3d 1095", "252 P.3d 382", "306 P.2d 216", "364 P.2d 440", "37 Wn. App. 526", "430 P.2d 965", "49 Wn.2d 707", "50 P.3d 627", "58 Wn.2d 518", "59 P.3d 85", "63 Wn. App. 193", "681 P.2d 263", "71 Wn.2d 820", "719 P.2d 541", "80 Wn. App. 930", "817 P.2d 1380", "841 P.2d 752", "912 P.2d 521", "98 Wn. App. 947", "991 P.2d 634"]
 ---
 
 # Department of Revenue v. Nord Northwest Corp.
