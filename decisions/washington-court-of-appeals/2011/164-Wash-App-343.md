@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66969-9-I"
 decided: "2011-09-12"
-citations: ["164 Wash. App. 343", "163 Wash. App. 947"]
+citations: ["164 Wash. App. 343"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Chris Young, Individually and as Personal Representative, Appellant, 
 source_url: "https://static.case.law/wash-app/164/cases/0343-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4022658
-cites_cases: ["10 Stat. 1132", "119 Wn.2d 1", "121 S. Ct. 2304", "121 Wn.2d 373", "126 Wn.2d 43", "129 S. Ct. 2159", "141 Wn. App. 221", "147 P.3d 1275", "159 Wn.2d 108", "163 U.S. 376", "164 Wn. App. 343", "164 Wn.2d 1019", "169 P.3d 53", "173 L. Ed. 2d 1156", "173 Wn.2d 1020", "18 U.S.C. § 1162", "195 P.3d 89", "25 U.S.C. § 1302", "25 U.S.C. §§ 1321-1326", "276 F.3d 489", "28 U.S.C. § 1360", "42 U.S.C. § 1983", "42 U.S.C. § 1988", "435 U.S. 191", "436 U.S. 49", "439 U.S. 463", "447 U.S. 134", "450 U.S. 544", "491 U.S. 58", "495 U.S. 676", "512 F.2d 1176", "523 U.S. 751", "533 U.S. 353", "548 F.3d 718", "575 F.3d 891", "67 Stat. 588", "829 P.2d 765", "850 P.2d 1332", "869 F.2d 1341", "891 P.2d 26"]
+cites_cases: ["10 Stat. 1132", "119 Wn.2d 1", "121 S. Ct. 2304", "121 Wn.2d 373", "126 Wn.2d 43", "129 S. Ct. 2159", "141 Wn. App. 221", "147 P.3d 1275", "159 Wn.2d 108", "163 U.S. 376", "164 Wn.2d 1019", "169 P.3d 53", "173 L. Ed. 2d 1156", "173 Wn.2d 1020", "18 U.S.C. § 1162", "195 P.3d 89", "25 U.S.C. § 1302", "25 U.S.C. §§ 1321-1326", "276 F.3d 489", "28 U.S.C. § 1360", "42 U.S.C. § 1983", "42 U.S.C. § 1988", "435 U.S. 191", "436 U.S. 49", "439 U.S. 463", "447 U.S. 134", "450 U.S. 544", "491 U.S. 58", "495 U.S. 676", "512 F.2d 1176", "523 U.S. 751", "533 U.S. 353", "548 F.3d 718", "575 F.3d 891", "67 Stat. 588", "829 P.2d 765", "850 P.2d 1332", "869 F.2d 1341", "891 P.2d 26"]
 ---
 
 # Young v. Duenas
