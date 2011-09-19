@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "67169-3-I"
 decided: "2011-09-19"
-citations: ["164 Wash. App. 617", "163 Wash. App. 1035"]
+citations: ["164 Wash. App. 617"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Michael David Crawford, Appel
 source_url: "https://static.case.law/wash-app/164/cases/0617-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4020261
-cites_cases: ["115 P.3d 281", "134 Wn.2d 1026", "146 Wn.2d 861", "154 Wn.2d 596", "164 Wn. App. 617", "169 Wn.2d 254", "172 Wn.2d 236", "234 P.3d 1166", "257 P.3d 616", "50 P.3d 618", "88 Wn. App. 254", "945 P.2d 228"]
+cites_cases: ["115 P.3d 281", "134 Wn.2d 1026", "146 Wn.2d 861", "154 Wn.2d 596", "169 Wn.2d 254", "172 Wn.2d 236", "234 P.3d 1166", "257 P.3d 616", "50 P.3d 618", "88 Wn. App. 254", "945 P.2d 228"]
 ---
 
 # State v. Crawford
