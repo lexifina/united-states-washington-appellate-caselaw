@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28743-2-III"
 decided: "2011-10-13"
-citations: ["165 Wash. App. 235", "164 Wash. App. 1016"]
+citations: ["165 Wash. App. 235"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Cheryl Becker, Appellant, v. Washington State University et al., Resp
 source_url: "https://static.case.law/wash-app/165/cases/0235-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4023614
-cites_cases: ["104 Wn.2d 105", "105 Wn. App. 846", "106 Wn.2d 1", "110 Wn. App. 628", "110 Wn.2d 355", "118 Wn.2d 79", "120 P.3d 579", "124 Wn. App. 71", "124 Wn.2d 158", "127 Wn.2d 302", "129 Wn. App. 774", "136 Wn.2d 26", "137 P.3d 844", "139 Wn. App. 854", "144 Wn.2d 172", "147 F.3d 839", "147 Wn.2d 16", "147 Wn.2d 536", "151 Wn.2d 853", "152 Wn.2d 171", "157 Wn.2d 214", "162 Wn.2d 493", "165 Wn. App. 235", "170 P.3d 37", "172 P.3d 701", "173 Wn.2d 1033", "22 P.3d 804", "23 P.3d 440", "248 F. Supp. 2d 132", "265 F.3d 741", "29 U.S.C. §§ 621-634", "309 P.2d 380", "32 Wn. App. 302", "42 P.3d 418", "42 U.S.C. § 1983", "42 U.S.C. § 6101", "42 U.S.C. § 6104", "435 U.S. 78", "457 U.S. 800", "464 F. Supp. 784", "472 U.S. 511", "475 U.S. 335", "483 U.S. 635", "50 P.3d 638", "50 Wn.2d 87", "523 U.S. 833", "530 U.S. 133", "55 P.3d 619", "555 F.3d 1051", "565 F.2d 200", "567 F.3d 554", "616 P.2d 644", "648 P.2d 94", "661 F.2d 756", "69 Wn. App. 852", "702 P.2d 459", "721 P.2d 1", "753 P.2d 517", "812 F.2d 834", "821 P.2d 34", "851 P.2d 716", "86 Wn. App. 183", "876 P.2d 435", "898 P.2d 284", "93 F. App'x 332", "93 P.3d 108", "937 P.2d 612", "94 P.3d 945", "94 Wn.2d 255", "959 P.2d 1104", "98 P.3d 1222", "99 Wn. App. 107", "992 F.2d 601", "992 P.2d 511"]
+cites_cases: ["104 Wn.2d 105", "105 Wn. App. 846", "106 Wn.2d 1", "110 Wn. App. 628", "110 Wn.2d 355", "118 Wn.2d 79", "120 P.3d 579", "124 Wn. App. 71", "124 Wn.2d 158", "127 Wn.2d 302", "129 Wn. App. 774", "136 Wn.2d 26", "137 P.3d 844", "139 Wn. App. 854", "144 Wn.2d 172", "147 F.3d 839", "147 Wn.2d 16", "147 Wn.2d 536", "151 Wn.2d 853", "152 Wn.2d 171", "157 Wn.2d 214", "162 Wn.2d 493", "170 P.3d 37", "172 P.3d 701", "173 Wn.2d 1033", "22 P.3d 804", "23 P.3d 440", "248 F. Supp. 2d 132", "265 F.3d 741", "29 U.S.C. §§ 621-634", "309 P.2d 380", "32 Wn. App. 302", "42 P.3d 418", "42 U.S.C. § 1983", "42 U.S.C. § 6101", "42 U.S.C. § 6104", "435 U.S. 78", "457 U.S. 800", "464 F. Supp. 784", "472 U.S. 511", "475 U.S. 335", "483 U.S. 635", "50 P.3d 638", "50 Wn.2d 87", "523 U.S. 833", "530 U.S. 133", "55 P.3d 619", "555 F.3d 1051", "565 F.2d 200", "567 F.3d 554", "616 P.2d 644", "648 P.2d 94", "661 F.2d 756", "69 Wn. App. 852", "702 P.2d 459", "721 P.2d 1", "753 P.2d 517", "812 F.2d 834", "821 P.2d 34", "851 P.2d 716", "86 Wn. App. 183", "876 P.2d 435", "898 P.2d 284", "93 F. App'x 332", "93 P.3d 108", "937 P.2d 612", "94 P.3d 945", "94 Wn.2d 255", "959 P.2d 1104", "98 P.3d 1222", "99 Wn. App. 107", "992 F.2d 601", "992 P.2d 511"]
 ---
 
 # Becker v. Washington State University
