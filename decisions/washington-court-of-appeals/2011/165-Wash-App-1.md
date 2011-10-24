@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65924-3-I"
 decided: "2011-10-24"
-citations: ["165 Wash. App. 1", "164 Wash. App. 1025"]
+citations: ["165 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Safeco Insurance Company of Illinois, Appellant, v. Country Mutual In
 source_url: "https://static.case.law/wash-app/165/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4021292
-cites_cases: ["117 Wn.2d 37", "128 Wn.2d 26", "138 Wn.2d 550", "143 Wn. App. 753", "145 Wn.2d 417", "162 Wn.2d 474", "165 Wn. App. 1", "165 Wn.2d 595", "172 P.3d 705", "189 P.3d 777", "200 P.3d 695", "273 F.2d 189", "38 P.3d 322", "401 P.2d 205", "456 P.2d 331", "626 P.2d 505", "65 Cal. App. 4th 1279", "66 Wn.2d 38", "76 Wn.2d 249", "77 Cal. Rptr. 2d 296", "811 P.2d 673", "904 P.2d 731", "95 Wn.2d 464", "980 P.2d 736"]
+cites_cases: ["117 Wn.2d 37", "128 Wn.2d 26", "138 Wn.2d 550", "143 Wn. App. 753", "145 Wn.2d 417", "162 Wn.2d 474", "165 Wn.2d 595", "172 P.3d 705", "189 P.3d 777", "200 P.3d 695", "273 F.2d 189", "38 P.3d 322", "401 P.2d 205", "456 P.2d 331", "626 P.2d 505", "65 Cal. App. 4th 1279", "66 Wn.2d 38", "76 Wn.2d 249", "77 Cal. Rptr. 2d 296", "811 P.2d 673", "904 P.2d 731", "95 Wn.2d 464", "980 P.2d 736"]
 ---
 
 # Safeco Insurance v. Country Mutual Insurance
