@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66019-5-I"
 decided: "2011-10-24"
-citations: ["165 Wash. App. 10", "164 Wash. App. 1025"]
+citations: ["165 Wash. App. 10"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Washington Federal Savings and Loan Association, as Successor by Merg
 source_url: "https://static.case.law/wash-app/165/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4022944
-cites_cases: ["107 Wn. App. 885", "109 Wn.2d 377", "111 P.3d 1258", "112 Wn.2d 193", "115 Wn.2d 609", "115 Wn.2d 657", "118 Wn.2d 801", "12 U.S.C. §§ 2601-2617", "120 Wn.2d 178", "122 Wn.2d 371", "123 Wn.2d 678", "125 Wn.2d 120", "127 Wn. App. 657", "127 Wn.2d 17", "129 Wn.2d 565", "132 Wn.2d 267", "132 Wn.2d 318", "137 Wn.2d 683", "140 Wn. App. 411", "141 Wn. App. 304", "15 U.S.C. §§ 1601", "152 Wn.2d 375", "165 Wn. App. 10", "166 P.3d 770", "170 P.3d 53", "173 Wn.2d 1025", "178 Wash. 24", "28 P.3d 823", "306 P.2d 209", "33 P.2d 661", "340 F.3d 1007", "49 Wn.2d 685", "506 P.2d 20", "64 Wn. App. 710", "745 P.2d 37", "770 P.2d 1027", "801 P.2d 193", "801 P.2d 222", "81 Wn.2d 886", "828 P.2d 1113", "828 P.2d 549", "840 P.2d 851", "858 P.2d 245", "871 P.2d 146", "881 P.2d 1035", "896 P.2d 665", "919 P.2d 594", "937 P.2d 1062", "937 P.2d 1082", "97 P.3d 11", "974 P.2d 836"]
+cites_cases: ["107 Wn. App. 885", "109 Wn.2d 377", "111 P.3d 1258", "112 Wn.2d 193", "115 Wn.2d 609", "115 Wn.2d 657", "118 Wn.2d 801", "12 U.S.C. §§ 2601-2617", "120 Wn.2d 178", "122 Wn.2d 371", "123 Wn.2d 678", "125 Wn.2d 120", "127 Wn. App. 657", "127 Wn.2d 17", "129 Wn.2d 565", "132 Wn.2d 267", "132 Wn.2d 318", "137 Wn.2d 683", "140 Wn. App. 411", "141 Wn. App. 304", "15 U.S.C. §§ 1601", "152 Wn.2d 375", "166 P.3d 770", "170 P.3d 53", "173 Wn.2d 1025", "178 Wash. 24", "28 P.3d 823", "306 P.2d 209", "33 P.2d 661", "340 F.3d 1007", "49 Wn.2d 685", "506 P.2d 20", "64 Wn. App. 710", "745 P.2d 37", "770 P.2d 1027", "801 P.2d 193", "801 P.2d 222", "81 Wn.2d 886", "828 P.2d 1113", "828 P.2d 549", "840 P.2d 851", "858 P.2d 245", "871 P.2d 146", "881 P.2d 1035", "896 P.2d 665", "919 P.2d 594", "937 P.2d 1062", "937 P.2d 1082", "97 P.3d 11", "974 P.2d 836"]
 ---
 
 # Washington Federal Savings & Loan Ass'n v. Alsager
