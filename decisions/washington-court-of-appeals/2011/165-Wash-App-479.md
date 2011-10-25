@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29836-1-III"
 decided: "2011-10-25"
-citations: ["165 Wash. App. 479", "164 Wash. App. 1029"]
+citations: ["165 Wash. App. 479"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Ray Steinbock et al., Appellants, v. Ferry County Public Utility Dist
 source_url: "https://static.case.law/wash-app/165/cases/0479-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4022755
-cites_cases: ["102 Wn.2d 219", "108 Wn.2d 162", "109 Wn.2d 406", "119 Wn.2d 1", "120 Wn.2d 120", "131 Wn.2d 39", "134 Wn.2d 491", "137 Wn. App. 872", "139 Wn.2d 793", "145 Wn. App. 836", "145 Wn.2d 233", "153 P.3d 864", "155 P.3d 952", "159 Wn.2d 674", "165 Wn. App. 479", "166 Wn.2d 489", "170 Wn.2d 380", "170 Wn.2d 442", "187 P.3d 345", "210 P.3d 308", "241 P.3d 1256", "243 P.3d 521", "29 Wn. App. 382", "35 P.3d 1158", "42 U.S.C. § 1983", "436 U.S. 1", "443 U.S. 137", "472 U.S. 115", "490 U.S. 386", "506 U.S. 1028", "525 U.S. 234", "530 P.2d 291", "628 P.2d 506", "685 P.2d 1081", "736 P.2d 249", "745 P.2d 1284", "77 Wn. App. 459", "79 Wn. App. 660", "829 P.2d 765", "839 P.2d 314", "85 Wn.2d 52", "892 P.2d 110", "904 P.2d 784", "929 P.2d 420", "951 P.2d 761", "991 P.2d 1135"]
+cites_cases: ["102 Wn.2d 219", "108 Wn.2d 162", "109 Wn.2d 406", "119 Wn.2d 1", "120 Wn.2d 120", "131 Wn.2d 39", "134 Wn.2d 491", "137 Wn. App. 872", "139 Wn.2d 793", "145 Wn. App. 836", "145 Wn.2d 233", "153 P.3d 864", "155 P.3d 952", "159 Wn.2d 674", "166 Wn.2d 489", "170 Wn.2d 380", "170 Wn.2d 442", "187 P.3d 345", "210 P.3d 308", "241 P.3d 1256", "243 P.3d 521", "29 Wn. App. 382", "35 P.3d 1158", "42 U.S.C. § 1983", "436 U.S. 1", "443 U.S. 137", "472 U.S. 115", "490 U.S. 386", "506 U.S. 1028", "525 U.S. 234", "530 P.2d 291", "628 P.2d 506", "685 P.2d 1081", "736 P.2d 249", "745 P.2d 1284", "77 Wn. App. 459", "79 Wn. App. 660", "829 P.2d 765", "839 P.2d 314", "85 Wn.2d 52", "892 P.2d 110", "904 P.2d 784", "929 P.2d 420", "951 P.2d 761", "991 P.2d 1135"]
 ---
 
 # Steinbock v. Ferry County Public Utility District No. 1
