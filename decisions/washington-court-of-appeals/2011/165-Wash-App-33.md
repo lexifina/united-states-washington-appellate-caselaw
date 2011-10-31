@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "64633-8-I; 65132-3-I"
 decided: "2011-10-31"
-citations: ["165 Wash. App. 33", "164 Wash. App. 1030"]
+citations: ["165 Wash. App. 33"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Estates of Lloyd W. Foster et al. Laurance Foste
 source_url: "https://static.case.law/wash-app/165/cases/0033-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4021212
-cites_cases: ["102 P.3d 796", "105 Wn. App. 813", "113 Wn.2d 1", "116 Wn. App. 476", "117 P3d 1169", "118 Wn.2d 1001", "118 Wn.2d 801", "123 Wn.2d 1012", "129 Wn. App. 73", "131 P.3d 916", "132 Wn. App. 334", "136 Wn.2d 1009", "144 Wn. App. 333", "146 Wn.2d 370", "153 Wn.2d 152", "156 Wn. App. 201", "165 Wn. App. 33", "172 Wn.2d 299", "173 Wn.2d 1032", "183 P.3d 317", "21 P.3d 1157", "22 Wn. App. 26", "232 P.3d 1140", "258 P.3d 20", "45 Wn. App. 631", "46 P.3d 789", "540 U.S. 1149", "587 P.2d 606", "62 Wn. App. 150", "648 P.2d 427", "66 P.3d 670", "663 P.2d 104", "70 Wn. App. 150", "726 P.2d 1007", "775 P.2d 448", "813 P.2d 598", "828 P.2d 549", "855 P.2d 680", "89 Wn. App. 893", "92 Wn.2d 1001", "951 P.2d 311", "97 Wn.2d 652", "99 Wn.2d 394"]
+cites_cases: ["102 P.3d 796", "105 Wn. App. 813", "113 Wn.2d 1", "116 Wn. App. 476", "117 P3d 1169", "118 Wn.2d 1001", "118 Wn.2d 801", "123 Wn.2d 1012", "129 Wn. App. 73", "131 P.3d 916", "132 Wn. App. 334", "136 Wn.2d 1009", "144 Wn. App. 333", "146 Wn.2d 370", "153 Wn.2d 152", "156 Wn. App. 201", "172 Wn.2d 299", "173 Wn.2d 1032", "183 P.3d 317", "21 P.3d 1157", "22 Wn. App. 26", "232 P.3d 1140", "258 P.3d 20", "45 Wn. App. 631", "46 P.3d 789", "540 U.S. 1149", "587 P.2d 606", "62 Wn. App. 150", "648 P.2d 427", "66 P.3d 670", "663 P.2d 104", "70 Wn. App. 150", "726 P.2d 1007", "775 P.2d 448", "813 P.2d 598", "828 P.2d 549", "855 P.2d 680", "89 Wn. App. 893", "92 Wn.2d 1001", "951 P.2d 311", "97 Wn.2d 652", "99 Wn.2d 394"]
 ---
 
 # Foster v. Gilliam
