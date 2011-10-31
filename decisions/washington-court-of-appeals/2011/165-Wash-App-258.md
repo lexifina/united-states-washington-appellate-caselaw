@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66190-6-I"
 decided: "2011-10-31"
-citations: ["165 Wash. App. 258", "164 Wash. App. 1032"]
+citations: ["165 Wash. App. 258"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Silverhawk, LLC, Appellant, v. Keybank National Association, Responde
 source_url: "https://static.case.law/wash-app/165/cases/0258-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4022433
-cites_cases: ["1 P.3d 1124", "104 Wn.2d 1020", "115 Wn.2d 1004", "118 Wn.2d 801", "141 Wn.2d 29", "144 Wn. App. 501", "145 Wn. App. 40", "147 Wn. App. 782", "165 Wn. App. 258", "165 Wn.2d 1017", "182 P.3d 985", "185 P.3d 640", "197 P.3d 710", "322 F.3d 1039", "41 Wn. App. 444", "56 Wn. App. 589", "704 P.2d 1224", "784 P.2d 1284", "789 P.2d 103", "828 P.2d 549"]
+cites_cases: ["1 P.3d 1124", "104 Wn.2d 1020", "115 Wn.2d 1004", "118 Wn.2d 801", "141 Wn.2d 29", "144 Wn. App. 501", "145 Wn. App. 40", "147 Wn. App. 782", "165 Wn.2d 1017", "182 P.3d 985", "185 P.3d 640", "197 P.3d 710", "322 F.3d 1039", "41 Wn. App. 444", "56 Wn. App. 589", "704 P.2d 1224", "784 P.2d 1284", "789 P.2d 103", "828 P.2d 549"]
 ---
 
 # Silverhawk, LLC v. Keybank National Ass'n
