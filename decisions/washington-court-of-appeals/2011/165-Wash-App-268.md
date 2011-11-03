@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28919-2-III"
 decided: "2011-11-03"
-citations: ["165 Wash. App. 268", "164 Wash. App. 1033"]
+citations: ["165 Wash. App. 268"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Custody of T.L. Pamela J. Link, Respondent, v. T
 source_url: "https://static.case.law/wash-app/165/cases/0268-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4023695
-cites_cases: ["105 Wn. App. 326", "108 Wn. App. 602", "109 P.3d 405", "120 Wn. App. 536", "129 P.3d 293", "130 S. Ct. 1577", "131 Wn. App. 717", "136 P.3d 117", "137 Wn.2d 1", "141 Wn. App. 39", "145 Wn.2d 1008", "151 Wn.2d 1017", "151 Wn.2d 664", "152 Wn.2d 1025", "154 Wn.2d 52", "155 P.3d 125", "157 Wn.2d 126", "158 Wn.2d 1026", "159 Wn.2d 918", "165 Wn. App. 268", "167 Wn.2d 91", "168 Wn.2d 335", "168 Wn.2d 528", "169 P.3d 40", "19 P.3d 1109", "217 P.3d 756", "227 P.3d 1284", "228 P.3d 1270", "262 U.S. 390", "28 Wn. App. 637", "31 P.3d 1212", "316 U.S. 535", "321 U.S. 158", "405 U.S. 645", "530 U.S. 57", "550 U.S. 460", "56 Wn. App. 356", "626 P.2d 16", "78 Wn. App. 193", "783 P.2d 615", "85 P.3d 966", "896 P.2d 726", "91 P.3d 875", "969 P.2d 21"]
+cites_cases: ["105 Wn. App. 326", "108 Wn. App. 602", "109 P.3d 405", "120 Wn. App. 536", "129 P.3d 293", "130 S. Ct. 1577", "131 Wn. App. 717", "136 P.3d 117", "137 Wn.2d 1", "141 Wn. App. 39", "145 Wn.2d 1008", "151 Wn.2d 1017", "151 Wn.2d 664", "152 Wn.2d 1025", "154 Wn.2d 52", "155 P.3d 125", "157 Wn.2d 126", "158 Wn.2d 1026", "159 Wn.2d 918", "167 Wn.2d 91", "168 Wn.2d 335", "168 Wn.2d 528", "169 P.3d 40", "19 P.3d 1109", "217 P.3d 756", "227 P.3d 1284", "228 P.3d 1270", "262 U.S. 390", "28 Wn. App. 637", "31 P.3d 1212", "316 U.S. 535", "321 U.S. 158", "405 U.S. 645", "530 U.S. 57", "550 U.S. 460", "56 Wn. App. 356", "626 P.2d 16", "78 Wn. App. 193", "783 P.2d 615", "85 P.3d 966", "896 P.2d 726", "91 P.3d 875", "969 P.2d 21"]
 ---
 
 # Link v. Link
