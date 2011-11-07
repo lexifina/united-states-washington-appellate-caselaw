@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65608-2-I"
 decided: "2011-11-07"
-citations: ["165 Wash. App. 720", "164 Wash. App. 1035"]
+citations: ["165 Wash. App. 720"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Stonewood Design, Inc., Respondent, v. Heritage Homes, Inc., et al., 
 source_url: "https://static.case.law/wash-app/165/cases/0720-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4022200
-cites_cases: ["142 Wn. App. 35", "165 Wn. App. 720", "170 P.3d 592"]
+cites_cases: ["142 Wn. App. 35", "170 P.3d 592"]
 ---
 
 # Stonewood Design, Inc. v. Heritage Homes, Inc.
