@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66312-7-I"
 decided: "2011-11-14"
-citations: ["165 Wash. App. 286", "164 Wash. App. 1042"]
+citations: ["165 Wash. App. 286"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Gloria Briggs et al., Appellants, v. Seattle School District No. 1, R
 source_url: "https://static.case.law/wash-app/165/cases/0286-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4021078
-cites_cases: ["109 Wn. App. 767", "150 Wn.2d 599", "153 Wn. App. 595", "165 Wn. App. 286", "172 Wn.2d 756", "173 Wn.2d 1034", "224 P.3d 795", "261 P3d 145", "37 P.3d 354", "40 Wn. App. 483", "495 P.2d 657", "504 P.2d 302", "53 Wn. App. 832", "698 P.2d 1123", "770 P.2d 1062", "80 P.3d 605", "80 Wn.2d 445", "81 Wn.2d 668"]
+cites_cases: ["109 Wn. App. 767", "150 Wn.2d 599", "153 Wn. App. 595", "172 Wn.2d 756", "173 Wn.2d 1034", "224 P.3d 795", "261 P3d 145", "37 P.3d 354", "40 Wn. App. 483", "495 P.2d 657", "504 P.2d 302", "53 Wn. App. 832", "698 P.2d 1123", "770 P.2d 1062", "80 P.3d 605", "80 Wn.2d 445", "81 Wn.2d 668"]
 ---
 
 # Briggs v. Seattle School District No. 1
