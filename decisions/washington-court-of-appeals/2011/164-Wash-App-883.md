@@ -1,0 +1,43 @@
+---
+court: "Washington Court of Appeals"
+docket: "29554-1-III"
+decided: "2011-11-15"
+citations: ["164 Wash. App. 883"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Korsmo, A.C.J., and Sweeney, J., concur."]
+parties: ["The State of Washington, Respondent, v. Deborah L. Daily, Petitioner."]
+source_url: "https://static.case.law/wash-app/164/cases/0883-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4022366
+cites_cases: ["110 Wn.2d 827", "114 Wn.2d 59", "117 Wn.2d 479", "133 Wn.2d 559", "141 Wn.2d 448", "161 Wn.2d 180", "163 P.3d 782", "165 Wn.2d 428", "173 Wn.2d 1028", "197 P.3d 673", "584 P.2d 382", "6 P.3d 1150", "627 P.2d 1316", "755 P.2d 806", "785 P.2d 808", "816 P.2d 718", "90 Wn.2d 443", "947 P.2d 708", "95 Wn.2d 574", "96 Wn. App. 209", "978 P.2d 1116"]
+---
+
+# State v. Daily
+
+## Majority (Brown, J.)
+
+Brown, J.
+¶1 This court granted discretionary review of Deborah Daily’s driving under the influence (DUI) conviction to determine whether the trial court should have considered the lesser-included offense of physical control of a vehicle while under the influence and the affirmative defense of safely off the roadway. The case facts do not support a conclusion that solely the lesser-included offense was committed. Therefore, the “safely off the road” affirmative defense to the lesser-included offense is inapplicable. Accordingly, we affirm.
+FACTS
+¶2 An eyewitness saw Ms. Daily driving her vehicle erratically for several miles. The witness called 911 at 1:41 p.m. and described her driving as including weaving, crossing the fog line and center line numerous times, and almost colliding with other vehicles head on. Four police officers were dispatched and en route for approximately 10 minutes when, at 1:55 p.m., Ms. Daily pulled into a gas station parking lot and parked her vehicle. When officers arrived at 1:57 p.m., Ms. Daily was found asleep in her car. She admitted to driving the vehicle. She, however, claims she did not know police were pursuing her.
+¶3 Ms. Daily admitted to consuming alcohol the evening prior. Ms. Daily had an alcohol concentration of 0.13 within two hours of driving.
+¶4 The State charged Ms. Daily with DUI. She asked the court to consider the lesser-included offense of physical control of a vehicle, RCW 46.61.504(1), and its statutory defense of safely off the roadway, RCW 46.61.504(2). The court denied her request based on the case facts. Following a stipulated facts bench trial, the court found Ms. Daily guilty as charged. The superior court affirmed. And, this court accepted discretionary review.
+ANALYSIS
+A. Lesser-included Offense
+¶5 The issue is whether the trial court erred in preliminarily ruling Ms. Daily would not be permitted to submit an instruction in her DUI trial for the lesser-included offense of physical control of a vehicle while under the influence. Ms. Daily contends it was legal error not to allow a jury to consider the lesser-included offense. We note at the outset that we do not address the tentative nature of the trial court’s preliminary rulings in view of Ms. Daily’s decision to waive her jury trial and submit to a stipulated facts trial.
+¶6 Review of the district court’s decision on appeal, here and in the superior court, is governed by the standards contained in RALJ 9.1. State v. Ford, 110 Wn.2d 827, 829, 755 P.2d 806 (1988). We review the record before the district court, reviewing factual issues for substantial evidence and legal issues de novo. City of Bellevue v. Jacke, 96 Wn. App. 209, 211, 978 P.2d 1116 (1999).
+¶7 In Washington, “physical control while under the influence is an included offense of DUI.” State v. Huyen Bich Nguyen, 165 Wn.2d 428, 433, 197 P.3d 673 (2008). The issue then is whether the trial court was required to consider the lesser offense in this case.
+¶8 A defendant is entitled to an instruction on a lesser-included offense if the defendant satisfies the two-prong test articulated in State v. Workman, 90 Wn.2d 443, 447-48, 584 P.2d 382 (1978). Under the legal prong of the test, “ ‘each of the elements of the lesser offense must be a necessary element of the offense charged.’ ” State v. Fernandez-Medina, 141 Wn.2d 448, 454, 6 P.3d 1150 (2000) (quoting Workman, 90 Wn.2d at 447-48). Under the factual prong, evidence in the case must support an inference that solely the lesser crime was committed to the exclusion of the charged offense. Id. at 455. When determining whether the evidence at trial was sufficient to support an instruction on a lesser-included offense, we view the evidence in the light most favorable to the party requesting that instruction. Id. at 455-56. An instruction is warranted “ ‘[i]f the evidence would permit a jury to rationally find a defendant guilty of the lesser offense and acquit him of the greater.’ ” Id. at 456 (quoting State v. Warden, 133 Wn.2d 559, 563, 947 P.2d 708 (1997)). The evidence must affirmatively establish the defendant’s theory of the case; it is not enough that the fact finder might simply disbelieve the evidence pointing to guilt. Id. (citing State v. Fowler, 114 Wn.2d 59, 67, 785 P.2d 808 (1990), overruled on other grounds by State v. Blair, 117 Wn.2d 479, 816 P.2d 718 (1991)).
+¶9 Our Supreme Court recognizes that each element of physical control is a necessary element of DUI. See Nguyen, 165 Wn.2d at 435 (“[A]ll of the elements of RCW 46.61.504 (physical control while under the influence) fall within the elements of RCW 46.61.502 (DUI), thus satisfying the legal prong of the Workman test.”). The focus then is whether evidence in the case supports an inference that solely physical control was committed to the exclusion of the DUI. It does not.
+¶10 Ms. Daily admits she was driving the vehicle. Moreover, a witness observed Ms. Daily weaving, crossing the fog line and center line numerous times, and almost hitting other vehicles head on just minutes before officers found her asleep in her car. Unlike in Nguyen where there was no admissible evidence that the defendant was driving the vehicle, driving is clearly established here. The offense of physical control of a vehicle does not require actual driving of the vehicle. RCW 46.61.504. Thus, the evidence does not support an inference that solely physical control was committed and not DUI. Therefore, the Workman test does not require consideration of the lesser-included offense of physical control. The district court properly concluded likewise, and the superior court properly affirmed.
+B. Affirmative Defense
+¶11 The issue is whether Ms. Daily should have been permitted to argue the affirmative defense of safely off the roadway. She contends this defense is available to a DUI charge and because she did not know she was being pursued, the trial court should have allowed her to assert this defense. We note at the outset that in process, the trial court is obliged, like a jury, to first apply the charged offense law (here DUI) to the facts before reaching lesser-included offenses or considering affirmative defenses to any lesser-included offense.
+¶12 The physical control of a vehicle statute partly states, “No person may be convicted under this section if, prior to being pursued by a law enforcement officer, the person has moved the vehicle safely off the roadway.” RCW 46.61.504(2). No such provision is included in the DUI statute.
+¶13 Generally, courts “ ‘cannot read into a statute that which it may believe the legislature has omitted, be it an intentional or an inadvertent omission.’ ” In re Postsentence Review of Leach, 161 Wn.2d 180, 186, 163 P.3d 782 (2007) (quoting Jenkins v. Bellingham Mun. Court, 95 Wn.2d 574, 579, 627 P.2d 1316 (1981)). Our Supreme Court has held, “ ‘Safely off the roadway’ prior to being pursued by a law enforcement officer ... is a complete affirmative defense to a charge of physical control while under the influence.” Nguyen, 165 Wn.2d at 432 (emphasis added).
+¶14 Based on the above, “safely off the roadway” is an affirmative defense to physical control of a vehicle, not to DUI. Thus, the trial court was not required to allow Ms. Daily to assert this defense. Therefore, any discussion regarding whether she knew she was being pursued is immaterial. Accordingly, the trial court correctly denied her request to assert the “safely off the roadway” defense.
+¶15 Affirmed.
+Korsmo, A.C.J., and Sweeney, J., concur.
+Review denied at 173 Wn.2d 1028 (2012).
+The trial court found Ms. Nguyen’s admission that she drove from a nightclub to the spot where her car was parked was inadmissible. Nguyen, 165 Wn.2d at 432 n.2.
