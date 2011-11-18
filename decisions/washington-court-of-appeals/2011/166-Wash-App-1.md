@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "39993-8-II"
 decided: "2011-11-18"
-citations: ["166 Wash. App. 1", "164 Wash. App. 1045"]
+citations: ["166 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Don Hawkins et al., Petitioners, v. Ma Herlouise Caro Diel et al., De
 source_url: "https://static.case.law/wash-app/166/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3684957
-cites_cases: ["101 Wn.2d 1021", "102 Wn. App. 697", "108 Wn.2d 723", "111 Wn.2d 1013", "114 Wn. App. 65", "121 Wn.2d 52", "122 Wn. App. 45", "124 Wn. App. 257", "127 Wn.2d 50", "130 P.3d 892", "131 Wn.2d 612", "132 Wn. App. 212", "134 Wn.2d 24", "136 Wn.2d 122", "141 Wn. App. 580", "141 Wn.2d 169", "146 Wn. App. 662", "149 Wn.2d 521", "165 Wn.2d 1049", "165 Wn.2d 481", "166 Wn. App. 1", "167 Wn.2d 1", "170 P.3d 1189", "191 P.3d 946", "200 P.3d 683", "217 P.3d 286", "29 Wn. App. 532", "36 Wn. App. 762", "4 P.3d 123", "417 P.2d 945", "50 Wn. App. 768", "549 P.2d 491", "553 P.2d 1096", "57 P.3d 639", "629 P.2d 925", "677 P.2d 773", "69 Wn.2d 166", "70 P.3d 126", "71 Wn. App. 120", "71 Wn. App. 912", "742 P.2d 1224", "750 P.2d 1290", "80 Wn. App. 279", "81 Wn. App. 696", "847 P.2d 440", "857 P.2d 1053", "859 P.2d 605", "86 Wn. App. 102", "87 Wn.2d 424", "87 Wn.2d 62", "896 P.2d 673", "9 P.3d 898", "908 P.2d 391", "915 P.2d 1146", "93 P.3d 904", "934 P.2d 669", "936 P.2d 24", "948 P.2d 816", "960 P.2d 424", "98 P.3d 1232"]
+cites_cases: ["101 Wn.2d 1021", "102 Wn. App. 697", "108 Wn.2d 723", "111 Wn.2d 1013", "114 Wn. App. 65", "121 Wn.2d 52", "122 Wn. App. 45", "124 Wn. App. 257", "127 Wn.2d 50", "130 P.3d 892", "131 Wn.2d 612", "132 Wn. App. 212", "134 Wn.2d 24", "136 Wn.2d 122", "141 Wn. App. 580", "141 Wn.2d 169", "146 Wn. App. 662", "149 Wn.2d 521", "165 Wn.2d 1049", "165 Wn.2d 481", "167 Wn.2d 1", "170 P.3d 1189", "191 P.3d 946", "200 P.3d 683", "217 P.3d 286", "29 Wn. App. 532", "36 Wn. App. 762", "4 P.3d 123", "417 P.2d 945", "50 Wn. App. 768", "549 P.2d 491", "553 P.2d 1096", "57 P.3d 639", "629 P.2d 925", "677 P.2d 773", "69 Wn.2d 166", "70 P.3d 126", "71 Wn. App. 120", "71 Wn. App. 912", "742 P.2d 1224", "750 P.2d 1290", "80 Wn. App. 279", "81 Wn. App. 696", "847 P.2d 440", "857 P.2d 1053", "859 P.2d 605", "86 Wn. App. 102", "87 Wn.2d 424", "87 Wn.2d 62", "896 P.2d 673", "9 P.3d 898", "908 P.2d 391", "915 P.2d 1146", "93 P.3d 904", "934 P.2d 669", "936 P.2d 24", "948 P.2d 816", "960 P.2d 424", "98 P.3d 1232"]
 ---
 
 # Hawkins v. Diel
