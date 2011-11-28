@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66636-3-I"
 decided: "2011-11-28"
-citations: ["167 Wash. App. 28", "165 Wash. App. 1004"]
+citations: ["167 Wash. App. 28"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,6 @@ parties: ["Lake Chelan Shores Homeowners Association, Appellant, v. St. Paul Fir
 source_url: "https://static.case.law/wash-app/167/cases/0028-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4025002
-cites_cases: ["167 Wn. App. 28"]
 ---
 
 # Lake Chelan Shores Homeowners Ass'n v. St. Paul Fire & Marine Insurance
