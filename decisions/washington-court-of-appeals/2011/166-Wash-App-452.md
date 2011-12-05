@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66125-6-I"
 decided: "2011-12-05"
-citations: ["166 Wash. App. 452", "165 Wash. App. 1006"]
+citations: ["166 Wash. App. 452"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Patrick A.T. Jones, Appellant, v. The Town of Hunts Point, Respondent
 source_url: "https://static.case.law/wash-app/166/cases/0452-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3683745
-cites_cases: ["106 Wn. App. 461", "115 Wn. App. 417", "118 P.3d 322", "118 Wn.2d 801", "133 Wn.2d 269", "155 Wn.2d 112", "166 Wn. App. 452", "174 Wn.2d 1016", "24 P.3d 1079", "62 P.3d 912", "828 P.2d 549", "88 Wn. App. 764", "92 Wn. App. 816", "943 P.2d 1378", "946 P.2d 1192", "965 P.2d 636"]
+cites_cases: ["106 Wn. App. 461", "115 Wn. App. 417", "118 P.3d 322", "118 Wn.2d 801", "133 Wn.2d 269", "155 Wn.2d 112", "174 Wn.2d 1016", "24 P.3d 1079", "62 P.3d 912", "828 P.2d 549", "88 Wn. App. 764", "92 Wn. App. 816", "943 P.2d 1378", "946 P.2d 1192", "965 P.2d 636"]
 ---
 
 # Jones v. Town of Hunts Point
