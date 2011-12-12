@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65946-4-I"
 decided: "2011-12-12"
-citations: ["166 Wash. App. 33", "165 Wash. App. 1010"]
+citations: ["166 Wash. App. 33"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["West Coast Pizza Company, Inc., Appellant, v. United National Insuran
 source_url: "https://static.case.law/wash-app/166/cases/0033-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3682396
-cites_cases: ["102 Wn.2d 327", "110 P.3d 733", "115 Wn. App. 218", "115 Wn.2d 657", "137 Wn. App. 655", "147 P.2d 310", "154 Wn.2d 165", "155 P.3d 140", "159 Wn. App. 874", "162 Wn. App. 746", "166 Wn. App. 33", "172 Wn.2d 1005", "20 Wn.2d 337", "246 P.3d 856", "254 P.2d 722", "259 P.3d 280", "419 F.2d 1152", "42 Wn.2d 291", "466 P.2d 141", "49 Wn. App. 642", "61 P.3d 1184", "684 P.2d 1297", "71 Wn. App. 194", "745 P.2d 518", "77 Wn.2d 711", "801 P.2d 222", "859 P.2d 619"]
+cites_cases: ["102 Wn.2d 327", "110 P.3d 733", "115 Wn. App. 218", "115 Wn.2d 657", "137 Wn. App. 655", "147 P.2d 310", "154 Wn.2d 165", "155 P.3d 140", "159 Wn. App. 874", "162 Wn. App. 746", "172 Wn.2d 1005", "20 Wn.2d 337", "246 P.3d 856", "254 P.2d 722", "259 P.3d 280", "419 F.2d 1152", "42 Wn.2d 291", "466 P.2d 141", "49 Wn. App. 642", "61 P.3d 1184", "684 P.2d 1297", "71 Wn. App. 194", "745 P.2d 518", "77 Wn.2d 711", "801 P.2d 222", "859 P.2d 619"]
 ---
 
 # West Coast Pizza Co. v. United National Insurance
