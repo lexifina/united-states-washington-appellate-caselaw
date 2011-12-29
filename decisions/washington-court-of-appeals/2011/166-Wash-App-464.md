@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29392-1-III"
 decided: "2011-12-29"
-citations: ["166 Wash. App. 464", "165 Wash. App. 1021"]
+citations: ["166 Wash. App. 464"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Maya Michelle Campbell, Appel
 source_url: "https://static.case.law/wash-app/166/cases/0464-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 3683976
-cites_cases: ["104 Wn.2d 763", "105 Wn.2d 632", "112 Wn.2d 1011", "119 Wn.2d 1007", "123 P.3d 832", "123 Wn.2d 641", "124 Wn.2d 1009", "128 Wn.2d 431", "136 Wn.2d 1030", "137 Wn.2d 208", "138 Wn.2d 343", "139 Wn.2d 486", "156 Wn.2d 1", "166 Wn. App. 464", "167 Wn.2d 620", "174 Wn.2d 1006", "220 P.3d 1226", "37 Wn. App. 889", "436 U.S. 547", "52 Wn. App. 832", "551 U.S. 249", "556 U.S. 332", "64 Wn. App. 641", "683 P.2d 622", "713 P.2d 63", "716 P.2d 295", "72 Wn. App. 733", "764 P.2d 1012", "826 P.2d 698", "866 P.2d 648", "870 P.2d 313", "909 P.2d 293", "91 Wn. App. 195", "955 P.2d 420", "970 P.2d 722", "979 P.2d 833", "987 P.2d 73"]
+cites_cases: ["104 Wn.2d 763", "105 Wn.2d 632", "112 Wn.2d 1011", "119 Wn.2d 1007", "123 P.3d 832", "123 Wn.2d 641", "124 Wn.2d 1009", "128 Wn.2d 431", "136 Wn.2d 1030", "137 Wn.2d 208", "138 Wn.2d 343", "139 Wn.2d 486", "156 Wn.2d 1", "167 Wn.2d 620", "174 Wn.2d 1006", "220 P.3d 1226", "37 Wn. App. 889", "436 U.S. 547", "52 Wn. App. 832", "551 U.S. 249", "556 U.S. 332", "64 Wn. App. 641", "683 P.2d 622", "713 P.2d 63", "716 P.2d 295", "72 Wn. App. 733", "764 P.2d 1012", "826 P.2d 698", "866 P.2d 648", "870 P.2d 313", "909 P.2d 293", "91 Wn. App. 195", "955 P.2d 420", "970 P.2d 722", "979 P.2d 833", "987 P.2d 73"]
 ---
 
 # State v. Campbell
