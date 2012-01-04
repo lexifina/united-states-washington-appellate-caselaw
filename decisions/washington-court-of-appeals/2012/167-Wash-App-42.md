@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41128-8-II"
 decided: "2012-01-04"
-citations: ["167 Wash. App. 42", "165 Wash. App. 1023"]
+citations: ["167 Wash. App. 42"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Robert Nickell et al., Appellants, v. Southview Homeowners Associatio
 source_url: "https://static.case.law/wash-app/167/cases/0042-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4024611
-cites_cases: ["1 P.3d 1124", "10 Wn.2d 672", "100 Wn.2d 766", "100 Wn.2d 853", "102 Wn.2d 170", "106 Wn. App. 390", "106 Wn. App. 599", "107 Wn. App. 391", "108 Wn.2d 1018", "112 Wn.2d 754", "113 Wn.2d 320", "115 Wn.2d 506", "117 P.2d 966", "122 Wn. App. 147", "123 P.2d 771", "128 P.2d 968", "13 Wn.2d 75", "131 S. Ct. 1700", "14 Wn.2d 600", "141 Wn.2d 29", "143 N.W. 935", "145 Wn.2d 1010", "151 Wn.2d 853", "161 Wn.2d 226", "164 P.3d 495", "167 Wn. App. 42", "169 Wn.2d 491", "174 Wn.2d 1018", "178 P.2d 965", "18 Wn. App. 782", "206 P.2d 332", "23 P.3d 1106", "23 P.3d 1128", "238 P.3d 1117", "244 P.2d 273", "27 P.3d 618", "27 Wn.2d 512", "292 P.2d 877", "33 Wn.2d 429", "376 P.2d 528", "40 Wn.2d 469", "437 P.2d 908", "449 P.2d 800", "452 P.2d 258", "46 Wn. App. 409", "461 P.2d 538", "48 Wn.2d 238", "572 P.2d 15", "60 Wn.2d 847", "674 P.2d 176", "676 P.2d 431", "685 P.2d 1074", "731 P.2d 526", "75 Wn.2d 143", "75 Wn.2d 478", "77 Wn.2d 271", "774 P.2d 6", "779 P.2d 263", "799 P.2d 250", "88 Wn. App. 306", "89 P.3d 726", "93 P.3d 108", "94 Neb. 588", "945 P.2d 727"]
+cites_cases: ["1 P.3d 1124", "10 Wn.2d 672", "100 Wn.2d 766", "100 Wn.2d 853", "102 Wn.2d 170", "106 Wn. App. 390", "106 Wn. App. 599", "107 Wn. App. 391", "108 Wn.2d 1018", "112 Wn.2d 754", "113 Wn.2d 320", "115 Wn.2d 506", "117 P.2d 966", "122 Wn. App. 147", "123 P.2d 771", "128 P.2d 968", "13 Wn.2d 75", "131 S. Ct. 1700", "14 Wn.2d 600", "141 Wn.2d 29", "143 N.W. 935", "145 Wn.2d 1010", "151 Wn.2d 853", "161 Wn.2d 226", "164 P.3d 495", "169 Wn.2d 491", "174 Wn.2d 1018", "178 P.2d 965", "18 Wn. App. 782", "206 P.2d 332", "23 P.3d 1106", "23 P.3d 1128", "238 P.3d 1117", "244 P.2d 273", "27 P.3d 618", "27 Wn.2d 512", "292 P.2d 877", "33 Wn.2d 429", "376 P.2d 528", "40 Wn.2d 469", "437 P.2d 908", "449 P.2d 800", "452 P.2d 258", "46 Wn. App. 409", "461 P.2d 538", "48 Wn.2d 238", "572 P.2d 15", "60 Wn.2d 847", "674 P.2d 176", "676 P.2d 431", "685 P.2d 1074", "731 P.2d 526", "75 Wn.2d 143", "75 Wn.2d 478", "77 Wn.2d 271", "774 P.2d 6", "779 P.2d 263", "799 P.2d 250", "88 Wn. App. 306", "89 P.3d 726", "93 P.3d 108", "94 Neb. 588", "945 P.2d 727"]
 ---
 
 # Nickell v. Southview Homeowners Ass'n
