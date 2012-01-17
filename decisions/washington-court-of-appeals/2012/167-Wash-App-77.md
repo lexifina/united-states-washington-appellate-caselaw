@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65936-7-I"
 decided: "2012-01-17"
-citations: ["167 Wash. App. 77", "165 Wash. App. 1028"]
+citations: ["167 Wash. App. 77"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Craig Rice, Appellant, v. Offshore Systems, Inc., Respondent."]
 source_url: "https://static.case.law/wash-app/167/cases/0077-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4026353
-cites_cases: ["110 Wn.2d 355", "114 Wn. App. 611", "124 Wn. App. 71", "127 Wn.2d 302", "135 Wn.2d 658", "144 Wn. App. 731", "144 Wn.2d 172", "149 F.3d 1125", "152 Wn.2d 138", "167 Wn. App. 77", "174 Wn.2d 1016", "182 P.3d 455", "23 P.3d 440", "29 U.S.C. § 621", "360 P.2d 754", "37 Wn. App. 469", "411 U.S. 792", "438 U.S. 567", "450 U.S. 248", "51 Wn. App. 855", "568 P.2d 764", "58 Wn.2d 73", "60 P.3d 106", "666 F. Supp. 1223", "681 P.2d 260", "69 Wn. App. 852", "753 P.2d 517", "756 P.2d 1320", "851 P.2d 716", "88 Wn.2d 887", "898 P.2d 284", "94 P.3d 930", "958 P.2d 301", "98 P.3d 1222", "99 Wn. App. 156", "991 P.2d 674"]
+cites_cases: ["110 Wn.2d 355", "114 Wn. App. 611", "124 Wn. App. 71", "127 Wn.2d 302", "135 Wn.2d 658", "144 Wn. App. 731", "144 Wn.2d 172", "149 F.3d 1125", "152 Wn.2d 138", "174 Wn.2d 1016", "182 P.3d 455", "23 P.3d 440", "29 U.S.C. § 621", "360 P.2d 754", "37 Wn. App. 469", "411 U.S. 792", "438 U.S. 567", "450 U.S. 248", "51 Wn. App. 855", "568 P.2d 764", "58 Wn.2d 73", "60 P.3d 106", "666 F. Supp. 1223", "681 P.2d 260", "69 Wn. App. 852", "753 P.2d 517", "756 P.2d 1320", "851 P.2d 716", "88 Wn.2d 887", "898 P.2d 284", "94 P.3d 930", "958 P.2d 301", "98 P.3d 1222", "99 Wn. App. 156", "991 P.2d 674"]
 ---
 
 # Rice v. Offshore Systems, Inc.
