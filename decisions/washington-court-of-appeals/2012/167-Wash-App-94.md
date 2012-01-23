@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66522-7-I"
 decided: "2012-01-23"
-citations: ["167 Wash. App. 94", "165 Wash. App. 1032"]
+citations: ["167 Wash. App. 94"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Percy Levy, Appellant, v. Snohomish County, Respondent."]
 source_url: "https://static.case.law/wash-app/167/cases/0094-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4026566
-cites_cases: ["151 Wn.2d 439", "160 Wn. App. 706", "163 Wn.2d 236", "167 Wn. App. 94", "172 Wn.2d 702", "178 P.3d 981", "248 P.3d 150", "261 P.3d 119", "90 P.3d 26", "92 Wn. App. 403", "960 P.2d 447"]
+cites_cases: ["151 Wn.2d 439", "160 Wn. App. 706", "163 Wn.2d 236", "172 Wn.2d 702", "178 P.3d 981", "248 P.3d 150", "261 P.3d 119", "90 P.3d 26", "92 Wn. App. 403", "960 P.2d 447"]
 ---
 
 # Levy v. Snohomish County
