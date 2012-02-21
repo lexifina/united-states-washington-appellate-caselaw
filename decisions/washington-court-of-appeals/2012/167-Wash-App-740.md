@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66304-6-I"
 decided: "2012-02-21"
-citations: ["167 Wash. App. 740", "166 Wash. App. 1030"]
+citations: ["167 Wash. App. 740"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["King County Public Hospital District No. 2 et al., Respondents, v. Th
 source_url: "https://static.case.law/wash-app/167/cases/0740-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4025294
-cites_cases: ["112 Wn.2d 353", "125 Wn.2d 805", "137 Wn. App. 174", "145 Wn. App. 131", "145 Wn.2d 483", "148 Wn.2d 887", "15 U.S.C. § 1", "151 P.3d 1095", "152 Wn. App. 401", "164 Wn.2d 95", "167 Wn. App. 740", "175 Wn.2d 1013", "185 P.3d 652", "187 P.3d 243", "216 P.3d 451", "39 P3d 961", "42 U.S.C. § 1983", "64 P.3d 606", "658 P.2d 648", "770 P.2d 1040", "888 P.2d 728", "94 Wn. App. 196", "971 P.2d 591", "98 Wn.2d 690"]
+cites_cases: ["112 Wn.2d 353", "125 Wn.2d 805", "137 Wn. App. 174", "145 Wn. App. 131", "145 Wn.2d 483", "148 Wn.2d 887", "15 U.S.C. § 1", "151 P.3d 1095", "152 Wn. App. 401", "164 Wn.2d 95", "175 Wn.2d 1013", "185 P.3d 652", "187 P.3d 243", "216 P.3d 451", "39 P3d 961", "42 U.S.C. § 1983", "64 P.3d 606", "658 P.2d 648", "770 P.2d 1040", "888 P.2d 728", "94 Wn. App. 196", "971 P.2d 591", "98 Wn.2d 690"]
 ---
 
 # King County Public Hospital District No. 2 v. Department of Health
