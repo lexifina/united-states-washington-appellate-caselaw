@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65618-0-I"
 decided: "2012-02-21"
-citations: ["167 Wash. App. 490", "166 Wash. App. 1028"]
+citations: ["167 Wash. App. 490"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jerry L. Lloyd, Appellant, v. Allstate Insurance Company et al., Resp
 source_url: "https://static.case.law/wash-app/167/cases/0490-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4025581
-cites_cases: ["101 Wn. App. 323", "110 Wn.2d 1027", "120 P.3d 593", "129 Wn. App. 804", "133 P.3d 458", "136 Wn.2d 269", "138 Wn.2d 265", "142 Wn.2d 1017", "144 Wn.2d 774", "156 Wn.2d 844", "157 Wn.2d 1004", "161 Wn.2d 903", "167 Wn. App. 490", "169 P.3d 1", "2 P.3d 1029", "26 Wn. App. 430", "30 P.3d 1261", "50 Wn. App. 242", "613 P.2d 187", "748 P.2d 260", "81 Wn. App. 624", "915 P.2d 1140", "94 Wn.2d 1014", "961 P.2d 933", "979 P.2d 400"]
+cites_cases: ["101 Wn. App. 323", "110 Wn.2d 1027", "120 P.3d 593", "129 Wn. App. 804", "133 P.3d 458", "136 Wn.2d 269", "138 Wn.2d 265", "142 Wn.2d 1017", "144 Wn.2d 774", "156 Wn.2d 844", "157 Wn.2d 1004", "161 Wn.2d 903", "169 P.3d 1", "2 P.3d 1029", "26 Wn. App. 430", "30 P.3d 1261", "50 Wn. App. 242", "613 P.2d 187", "748 P.2d 260", "81 Wn. App. 624", "915 P.2d 1140", "94 Wn.2d 1014", "961 P.2d 933", "979 P.2d 400"]
 ---
 
 # Lloyd v. Allstate Insurance
