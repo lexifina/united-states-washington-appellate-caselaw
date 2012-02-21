@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66156-6-I"
 decided: "2012-02-21"
-citations: ["167 Wash. App. 501", "166 Wash. App. 1029"]
+citations: ["167 Wash. App. 501"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Crystal Lotus Enterprises, Ltd., Appellant, v. The City of Shoreline 
 source_url: "https://static.case.law/wash-app/167/cases/0501-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4025211
-cites_cases: ["104 Wn.2d 677", "105 Wn.2d 499", "123 Wn. App. 701", "128 P.3d 621", "131 Wn. App. 462", "131 Wn.2d 171", "136 Wn.2d 946", "138 Wn.2d 858", "149 P.3d 361", "159 Wn.2d 215", "167 Wn. App. 501", "709 P.2d 782", "716 P.2d 869", "79 Wn. App. 427", "903 P.2d 464", "930 P.2d 307", "96 Wn. App. 118", "968 P.2d 871", "97 Wn. App. 691", "977 P.2d 1265", "98 P.3d 52", "983 P.2d 626", "988 P.2d 972"]
+cites_cases: ["104 Wn.2d 677", "105 Wn.2d 499", "123 Wn. App. 701", "128 P.3d 621", "131 Wn. App. 462", "131 Wn.2d 171", "136 Wn.2d 946", "138 Wn.2d 858", "149 P.3d 361", "159 Wn.2d 215", "709 P.2d 782", "716 P.2d 869", "79 Wn. App. 427", "903 P.2d 464", "930 P.2d 307", "96 Wn. App. 118", "968 P.2d 871", "97 Wn. App. 691", "977 P.2d 1265", "98 P.3d 52", "983 P.2d 626", "988 P.2d 972"]
 ---
 
 # Crystal Lotus Enterprises, Ltd. v. City of Shoreline
