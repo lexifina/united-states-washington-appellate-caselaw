@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41289-6-II"
 decided: "2012-02-29"
-citations: ["168 Wash. App. 250", "166 Wash. App. 1040"]
+citations: ["168 Wash. App. 250"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Dee Ann Stiles et al., Appellants, v. Gerald Kearney, Respondent."]
 source_url: "https://static.case.law/wash-app/168/cases/0250-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4027364
-cites_cases: ["1 P.3d 579", "100 Wn. App. 609", "107 Wn.2d 388", "107 Wn.2d 427", "107 Wn.2d 679", "111 Wn.2d 1007", "118 Wn.2d 1022", "119 Wn. App. 748", "119 Wn.2d 210", "120 Wn.2d 1016", "122 Wn.2d 299", "124 Wn.2d 1015", "124 Wn.2d 193", "125 Wn.2d 1015", "136 Wn. App. 636", "136 Wn.2d 1015", "141 Wn.2d 169", "142 Wn.2d 1010", "151 P.3d 211", "152 Wn.2d 1016", "168 Wn. App. 250", "175 Wn.2d 1016", "383 P.2d 900", "4 P.3d 123", "42 U.S.C. § 1988", "420 P.2d 698", "435 P.2d 678", "457 U.S. 1124", "499 U.S. 432", "51 Wn. App. 285", "62 Wn. App. 473", "62 Wn.2d 561", "635 P.2d 1081", "67 Wn. App. 135", "69 Wn.2d 828", "72 Wn. App. 522", "72 Wn.2d 928", "73 Wn. App. 293", "730 P.2d 45", "730 P.2d 653", "732 P.2d 510", "75 Wn. App. 156", "753 P.2d 530", "80 Wn. App. 877", "81 Wn. App. 696", "815 P.2d 269", "82 P.3d 707", "829 P.2d 1099", "834 P.2d 1058", "858 P.2d 1054", "864 P.2d 996", "869 P.2d 404", "876 P.2d 448", "876 P.2d 953", "88 Wn. App. 925", "90 Wn. App. 533", "912 P.2d 1052", "915 P.2d 1146", "946 P.2d 1235", "954 P.2d 290", "96 Wn.2d 473"]
+cites_cases: ["1 P.3d 579", "100 Wn. App. 609", "107 Wn.2d 388", "107 Wn.2d 427", "107 Wn.2d 679", "111 Wn.2d 1007", "118 Wn.2d 1022", "119 Wn. App. 748", "119 Wn.2d 210", "120 Wn.2d 1016", "122 Wn.2d 299", "124 Wn.2d 1015", "124 Wn.2d 193", "125 Wn.2d 1015", "136 Wn. App. 636", "136 Wn.2d 1015", "141 Wn.2d 169", "142 Wn.2d 1010", "151 P.3d 211", "152 Wn.2d 1016", "175 Wn.2d 1016", "383 P.2d 900", "4 P.3d 123", "42 U.S.C. § 1988", "420 P.2d 698", "435 P.2d 678", "457 U.S. 1124", "499 U.S. 432", "51 Wn. App. 285", "62 Wn. App. 473", "62 Wn.2d 561", "635 P.2d 1081", "67 Wn. App. 135", "69 Wn.2d 828", "72 Wn. App. 522", "72 Wn.2d 928", "73 Wn. App. 293", "730 P.2d 45", "730 P.2d 653", "732 P.2d 510", "75 Wn. App. 156", "753 P.2d 530", "80 Wn. App. 877", "81 Wn. App. 696", "815 P.2d 269", "82 P.3d 707", "829 P.2d 1099", "834 P.2d 1058", "858 P.2d 1054", "864 P.2d 996", "869 P.2d 404", "876 P.2d 448", "876 P.2d 953", "88 Wn. App. 925", "90 Wn. App. 533", "912 P.2d 1052", "915 P.2d 1146", "946 P.2d 1235", "954 P.2d 290", "96 Wn.2d 473"]
 ---
 
 # Stiles v. Kearney
