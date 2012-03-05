@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66168-0-I"
 decided: "2012-03-05"
-citations: ["168 Wash. App. 269", "166 Wash. App. 1044"]
+citations: ["168 Wash. App. 269"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["John Woodford Morrison et al., Appellants, v. The Department of Labor
 source_url: "https://static.case.law/wash-app/168/cases/0269-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4027899
-cites_cases: ["127 Wn.2d 221", "138 Wn.2d 638", "150 Wn.2d 599", "165 Wn. App. 152", "168 Wn. App. 269", "172 Wn.2d 223", "175 Wn.2d 1012", "257 P.3d 648", "267 P.3d 445", "401 U.S. 371", "409 U.S. 434", "410 U.S. 656", "424 U.S. 319", "458 P.2d 154", "470 U.S. 532", "513 P.2d 559", "76 Wn.2d 589", "80 P.3d 605", "897 P.2d 1252", "9 Wn. App. 562", "980 P.2d 1265"]
+cites_cases: ["127 Wn.2d 221", "138 Wn.2d 638", "150 Wn.2d 599", "165 Wn. App. 152", "172 Wn.2d 223", "175 Wn.2d 1012", "257 P.3d 648", "267 P.3d 445", "401 U.S. 371", "409 U.S. 434", "410 U.S. 656", "424 U.S. 319", "458 P.2d 154", "470 U.S. 532", "513 P.2d 559", "76 Wn.2d 589", "80 P.3d 605", "897 P.2d 1252", "9 Wn. App. 562", "980 P.2d 1265"]
 ---
 
 # Morrison v. Department of Labor & Industries
