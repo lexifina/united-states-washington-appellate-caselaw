@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "65537-0-I"
 decided: "2012-03-12"
-citations: ["168 Wash. App. 480", "167 Wash. App. 1004"]
+citations: ["168 Wash. App. 480"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Bao Dinh Dang, Appellant."]
 source_url: "https://static.case.law/wash-app/168/cases/0480-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4029055
-cites_cases: ["111 P.3d 1157", "111 Wn.2d 22", "115 Wn.2d 635", "117 Wn.2d 720", "139 Wn.2d 678", "154 Wn.2d 280", "168 Wn. App. 480", "173 Wn.2d 597", "175 Wn.2d 1023", "269 P.3d 1023", "64 Wn. App. 801", "64 Wn. App. 904", "759 P.2d 366", "802 P.2d 1333", "818 P.2d 1062", "827 P.2d 318", "828 P.2d 594", "990 P.2d 396"]
+cites_cases: ["111 P.3d 1157", "111 Wn.2d 22", "115 Wn.2d 635", "117 Wn.2d 720", "139 Wn.2d 678", "154 Wn.2d 280", "173 Wn.2d 597", "175 Wn.2d 1023", "269 P.3d 1023", "64 Wn. App. 801", "64 Wn. App. 904", "759 P.2d 366", "802 P.2d 1333", "818 P.2d 1062", "827 P.2d 318", "828 P.2d 594", "990 P.2d 396"]
 ---
 
 # State v. Bao Dinh Dang
