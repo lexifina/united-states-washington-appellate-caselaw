@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41563-1-II"
 decided: "2012-03-13"
-citations: ["168 Wash. App. 1", "167 Wash. App. 1013"]
+citations: ["168 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Realm, Inc., Appellant, v. The City of Olympia, Respondent."]
 source_url: "https://static.case.law/wash-app/168/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4026513
-cites_cases: ["1 P.3d 1167", "115 P.3d 262", "124 Wn. App. 29", "128 P.3d 1253", "128 Wn.2d 656", "131 Wn. App. 675", "133 Wn.2d 885", "138 Wn. App. 841", "141 Wn.2d 55", "150 Wn.2d 375", "151 Wn. App. 818", "154 Wn.2d 493", "158 P.3d 1265", "162 Wn.2d 762", "164 Wn.2d 545", "166 Wn.2d 794", "168 Wn. App. 1", "168 Wn.2d 1020", "174 P.3d 54", "175 Wn.2d 1015", "192 P.3d 886", "213 P.3d 910", "214 P.3d 189", "231 P.3d 164", "78 P.3d 161", "911 P.2d 1301", "948 P.2d 381", "98 P.3d 60"]
+cites_cases: ["1 P.3d 1167", "115 P.3d 262", "124 Wn. App. 29", "128 P.3d 1253", "128 Wn.2d 656", "131 Wn. App. 675", "133 Wn.2d 885", "138 Wn. App. 841", "141 Wn.2d 55", "150 Wn.2d 375", "151 Wn. App. 818", "154 Wn.2d 493", "158 P.3d 1265", "162 Wn.2d 762", "164 Wn.2d 545", "166 Wn.2d 794", "168 Wn.2d 1020", "174 P.3d 54", "175 Wn.2d 1015", "192 P.3d 886", "213 P.3d 910", "214 P.3d 189", "231 P.3d 164", "78 P.3d 161", "911 P.2d 1301", "948 P.2d 381", "98 P.3d 60"]
 ---
 
 # Realm, Inc. v. City of Olympia
