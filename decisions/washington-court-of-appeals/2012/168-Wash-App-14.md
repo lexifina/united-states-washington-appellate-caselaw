@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "28937-1-III"
 decided: "2012-03-27"
-citations: ["168 Wash. App. 14", "167 Wash. App. 1024"]
+citations: ["168 Wash. App. 14"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jorge L. Cantu, Respondent, v. The Department of Labor and Industries
 source_url: "https://static.case.law/wash-app/168/cases/0014-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4026418
-cites_cases: ["101 Wn. App. 629", "106 Wn. App. 333", "115 Wn.2d 184", "119 Wn. App. 49", "120 P.3d 564", "124 P.3d 305", "125 Wn.2d 1019", "130 Wn. App. 653", "133 Wn.2d 1022", "138 Wn.2d 1", "140 Wn.2d 250", "141 Wn.2d 169", "142 Wn.2d 1017", "149 Wn.2d 477", "149 Wn.2d 572", "151 Wn. App. 174", "152 Wn. App. 652", "155 Wn.2d 470", "158 Wn.2d 1003", "167 Wn.2d 1015", "168 Wn. App. 14", "168 Wn.2d 1023", "210 P.3d 355", "219 P.3d 711", "24 P.3d 424", "298 P.2d 1117", "4 P.3d 123", "401 P.2d 982", "49 Wn.2d 195", "5 P.3d 16", "66 Wn.2d 263", "69 P.3d 870", "70 P.3d 125", "75 Wn. App. 657", "78 Wn. App. 554", "796 P.2d 416", "80 Wn. App. 326", "81 P.3d 869", "86 Wn. App. 204", "879 P.2d 326", "897 P.2d 431", "908 P.2d 909", "936 P.2d 1163", "977 P.2d 570", "996 P2d 610"]
+cites_cases: ["101 Wn. App. 629", "106 Wn. App. 333", "115 Wn.2d 184", "119 Wn. App. 49", "120 P.3d 564", "124 P.3d 305", "125 Wn.2d 1019", "130 Wn. App. 653", "133 Wn.2d 1022", "138 Wn.2d 1", "140 Wn.2d 250", "141 Wn.2d 169", "142 Wn.2d 1017", "149 Wn.2d 477", "149 Wn.2d 572", "151 Wn. App. 174", "152 Wn. App. 652", "155 Wn.2d 470", "158 Wn.2d 1003", "167 Wn.2d 1015", "168 Wn.2d 1023", "210 P.3d 355", "219 P.3d 711", "24 P.3d 424", "298 P.2d 1117", "4 P.3d 123", "401 P.2d 982", "49 Wn.2d 195", "5 P.3d 16", "66 Wn.2d 263", "69 P.3d 870", "70 P.3d 125", "75 Wn. App. 657", "78 Wn. App. 554", "796 P.2d 416", "80 Wn. App. 326", "81 P.3d 869", "86 Wn. App. 204", "879 P.2d 326", "897 P.2d 431", "908 P.2d 909", "936 P.2d 1163", "977 P.2d 570", "996 P2d 610"]
 ---
 
 # Cantu v. Department of Labor & Industries
