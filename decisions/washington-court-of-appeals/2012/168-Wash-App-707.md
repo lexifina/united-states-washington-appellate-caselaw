@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42744-3-II"
 decided: "2012-03-27"
-citations: ["168 Wash. App. 707", "167 Wash. App. 1024"]
+citations: ["168 Wash. App. 707"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Dependency of M.H."]
 source_url: "https://static.case.law/wash-app/168/cases/0707-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4025977
-cites_cases: ["101 Wn. App. 425", "102 Wn. App. 537", "140 Wn. App. 438", "162 Wn.2d 632", "166 P.3d 776", "168 Wn. App. 707", "174 P.3d 11", "3 P.3d 780", "7 P.3d 878"]
+cites_cases: ["101 Wn. App. 425", "102 Wn. App. 537", "140 Wn. App. 438", "162 Wn.2d 632", "166 P.3d 776", "174 P.3d 11", "3 P.3d 780", "7 P.3d 878"]
 ---
 
 # In re the Dependency of M.H.
