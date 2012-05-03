@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29872-8-III"
 decided: "2012-05-03"
-citations: ["168 Wash. App. 710", "167 Wash. App. 1054"]
+citations: ["168 Wash. App. 710"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Washington Motorsports Limited Partnership, Respondent, v. Spokane Ra
 source_url: "https://static.case.law/wash-app/168/cases/0710-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4027558
-cites_cases: ["119 P.3d 325", "122 Wn.2d 299", "131 Wn.2d 484", "132 R3d 115", "153 Wn. App. 710", "155 Wn.2d 225", "156 Wn. App. 1035", "156 Wn.2d 677", "167 Wn.2d 570", "168 Wn. App. 710", "220 P.3d 191", "225 P.3d 266", "85 Wn. App. 98", "858 P.2d 1054", "931 P.2d 200", "933 P.2d 1036"]
+cites_cases: ["119 P.3d 325", "122 Wn.2d 299", "131 Wn.2d 484", "132 R3d 115", "153 Wn. App. 710", "155 Wn.2d 225", "156 Wn. App. 1035", "156 Wn.2d 677", "167 Wn.2d 570", "220 P.3d 191", "225 P.3d 266", "85 Wn. App. 98", "858 P.2d 1054", "931 P.2d 200", "933 P.2d 1036"]
 ---
 
 # Washington Motorsports Ltd. Partnership v. Spokane Raceway Park, Inc.
