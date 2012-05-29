@@ -1,0 +1,99 @@
+---
+court: "Washington Court of Appeals"
+docket: "66239-2-I"
+decided: "2012-05-29"
+citations: ["168 Wash. App. 489"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Speakman, A.C.J., and Ellington, J., concur."]
+parties: ["The State of Washington, Respondent, v. Florencio Martinez Morales, Appellant."]
+source_url: "https://static.case.law/wash-app/168/cases/0489-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4028425
+cites_cases: ["123 Wn.2d 621", "14 P.3d 713", "141 Wn.2d 139", "142 Wn.2d 471", "143 Wn.2d 267", "144 Wn.2d 472", "146 Wn.2d 1", "148 Wn. App. 533", "149 Wn.2d 444", "150 Wn.2d 540", "169 Wn.2d 304", "19 P.3d 1030", "200 P.3d 251", "237 P.3d 256", "28 P.3d 720", "3 P.3d 741", "43 P.3d 4", "529 P.2d 453", "555 P.2d 1368", "69 P.3d 318", "78 P.3d 1279", "84 Wn.2d 645", "869 P.2d 1034", "87 Wn.2d 626"]
+---
+
+# State v. Morales
+
+## Majority (Cox, J.)
+
+Cox, J.
+¶1 — Florencio Morales appeals his judgment and sentence, claiming that the court incorrectly calculated his offender score. Specifically, he argues that the trial court incorrectly calculated an offender score of 8 for his current conviction of felony driving under the influence (DUI). He maintains that his score should have been 4. We agree, reverse, and remand for resentencing.
+¶2 Federal Way police officers arrested Florencio Morales on December 7, 2009, after he failed to pull over when an officer turned on his car’s overhead lights. According to police, when Morales did stop, he was uncooperative and appeared intoxicated. The police arrested him.
+¶3 The State charged Morales with felony driving under the influence (DUI), attempting to elude a pursuing police vehicle, and driving while license suspended (DWLS). A jury found him guilty of all counts. The court granted Morales’s posttrial motion to dismiss the DWLS count based on insufficient evidence.
+¶4 At sentencing, the parties disputed the offender score for Morales’s current felony DUI conviction. The State argued that his offender score was 8. Morales argued that his offender score was 5. This difference was based on conflicting interpretations of RCW 9.94A.525(2)(d) and (e), which define the rules for calculating offender scores. The court adopted the State’s proposal, calculating an offender score of 8 for the current felony DUI. Based on that score, the court sentenced Morales to 60 months’ confinement for the felony DUI conviction and 17 to 22 months for the attempting to elude conviction, to be served concurrently.
+¶5 Morales appeals. The State has withdrawn its cross appeal of the DWLS dismissal.
+OFFENDER SCORE
+¶6 Morales argues that the trial court misapplied the law by incorrectly calculating his offender score for his felony DUI conviction. He maintains his offender score should be 4, not 8. We agree.
+¶7 A court’s fundamental objective in reading a statute is to ascertain and carry out the legislature’s intent. If a statute’s meaning is plain on its face, then the court must give effect to that plain meaning. Such meaning is derived from all that the legislature has said in the statute and related statutes that disclose legislative intent about the provision in question. A court should not adopt an interpretation that renders any portion of a statute meaningless, and strained meanings and absurd results should be avoided. The meaning of a statute is a question of law that this court reviews de novo.
+¶8 Morales acknowledges that his offender score properly includes a score of 1 for his current conviction of attempting to elude. But he maintains that his three most recent prior DUI convictions are the only additional convictions that should be included in his score. This approach, according to Morales, yields an offender score of 4, not 8.
+¶9 There is no dispute that RCW 9.94A.525, which states rules for calculating offender scores, controls. Subsection (2) of that statute states, in relevant part:
+(d) Except as provided in (e) of this subsection, serious traffic convictions shall not be included in the offender score if, since the last date of release from confinement . . . pursuant to a felony conviction, if any, or entry of judgment and sentence, the offender spent five years in the community without committing any crime that subsequently results in a conviction.
+(e) If the present conviction is felony driving while under the influence of intoxicating liquor or any drug (RCW 46.61.502(6)) or felony physical control of a vehicle while under the influence of intoxicating liquor or any drug (RCW 46.61.504(6)), prior convictions of felony driving while under the influence of intoxicating liquor or any drug, felony physical control of a vehicle while under the influence of intoxicating liquor or any drug, and serious traffic offenses shall be included in the offender score if: (i) The prior convictions were committed within five years since the last date of release from confinement (including full-time residential treatment) or entry of judgment and sentence; or (ii) the prior convictions would be considered “prior offenses within ten years” as defined in RCW 46.61.5055.
+¶10 There is no dispute that Morales’s current felony DUI conviction falls within the provisions of RCW 46.61-.502(6)(a), as the above provisions of subsection (2)(e) state. Likewise, subsection (2)(e) also makes clear that “[t]he prior convictions” that shall be included in the calculation of the offender score are limited to these: “felony driving while under the influence of intoxicating liquor or any drug, felony physical control of a vehicle while under the influence of intoxicating liquor or any drug, and serious traffic offenses . . . .”
+¶11 Here, the judgment and sentence, as reflected in the following excerpt of appendix B to that document, shows that Morales has seven prior convictions from March 1990 through August 2007. All of these prior convictions qualify as “serious traffic offenses” under the statutory definition.
+¶12 Both parties agree that the three April 2001 through August 2007 convictions should be included in Morales’s offender score for the current felony DUI. At issue is whether any of the above four convictions from the 1990s are properly included. The State argues that all seven prior convictions, including those from the 1990s, should be used to calculate his offender score. Morales contends that the 1990s convictions wash out under the provisions of RCW 9.94A.525(2)(e). We agree with Morales.
+¶13 Application of the plain words of subsection (2)(e)(ii) to Morales’s prior convictions makes two things clear. First, Morales’s prior arrests for offenses that occurred within 10 years of his December 7, 2009, arrest for felony DUI shall be included in his offender score. Subsection (2)(e)(ii) provides that prior offenses will be included in an offender score if they “would be considered ‘prior offenses within ten years’ as defined in RCW 46.61.5055.” Under RCW 46.61.5055(4), “[a] person who is convicted of a violation of RCW 46.61.502 [driving under the influence] shall be punished under chapter 9.94A RCW if: (a) [t]he person has four or more prior offenses within ten years.” For purposes of this statute, “within ten years” means that “the arrest for a prior offense occurred within ten years before ... the arrest for the current offense.” Morales’s 2001, 2003, and 2007 arrests for DUI all occurred within 10 years of his December 2009 arrest for the current conviction. Thus, because Morales has three prior arrests for convictions in the past 10 years, these shall be included in his offender score.
+¶14 Second, the plain language of RCW 9.94A.525 indicates that arrests occurring more than 10 years before Morales’s December 2009 arrest shall not be included under subsection (2)(e)(ii). Thus, under this subsection, the prior convictions with disposition dates from March 1990 through April 1992 are not included in Morales’s offender score. The State does not appear to dispute this reading of subsection (2)(e)(ii) in its briefing.
+¶15 Turning to subsection (2)(e)(i), the primary dispute between the parties concerns how to read this subsection and apply it to the prior convictions of Morales. As this section states:
+[P]rior convictions of felony driving while under the influence of intoxicating liquor or any drug, felony physical control of a vehicle while under the influence of intoxicating liquor or any drug, and serious traffic offenses shall be included in the offender score if: (i) The prior convictions were committed within five years since the last date of release from confinement (including full-time residential treatment) or entry of judgment and sentence.
+RCW 9.94A.525(2)(e)(i) (emphasis added).
+¶16 The classes of prior convictions that qualify for scoring are set forth in the first part of the above excerpt. They include “serious traffic offenses” as well as two other classes of offenses. All of Morales’s convictions from March 1990 through April 1992 are serious traffic offenses.
+¶17 The question is how many of these prior convictions were within five years of either “the last date of release from confinement (including full-time residential treatment) or entry of judgment of sentence.” Because there are fewer than five years between disposition dates of any of the 1990s offenses, the key time period is that between Morales’s April 1992 disposition date and the April 2001 DUI conviction.
+¶18 Nine years passed between Morales’s April 1992 disposition date for conviction of physical control of a motor vehicle and his April 2001 DUI conviction. Consequently, there were more than five years between “the last date of release from confinement (including full-time residential treatment) or entry of judgment and sentence.” This gap requires a washout of all of Morales’s convictions from March 1990 through April 1992. Based on this analysis, only his three most recent DUI convictions should be included. Thus, the proper offender score for Morales is 4.
+¶19 The State takes a contrary position. It claims that the trial court properly included Morales’s prior serious traffic offenses from the early 1990s in the offender score, making the score 8. This position is based on the State’s misreading of subsection (2)(e)(i).
+¶20 Morales was convicted of fourth degree domestic violence assault on September 22,1996. The State relies on this 1996 conviction for its argument that Morales’s offender score should be 8. According to the State, Morales’s four serious traffic offenses, each of which had disposition dates from March 1990 through April 1992, were “within five years since the last date of... entry of judgment and sentence” of Morales’s 1996 assault conviction. The State reasons that these prior serious traffic offenses count under this reading of subsection (2)(e)(i).
+¶21 A problem with this reasoning is that it sets up a conflict between subsections. (2)(e)(i) and (ii). The State offers no explanation why, under subsection (2)(e)(ii), prior offenses that occurred more than 10 years before the current DUI offense are not counted, while they should be counted under subsection(2)(e)(i). We will not read a conflict into a statute where there is none.
+¶22 A more basic problem with the State’s analysis is that the use of Morales’s fourth degree assault conviction in his offender score is contrary to the provisions of subsection (2)(e)(i). As we explained earlier in this opinion, the classes of “prior convictions” that qualify for scoring for DUI-related felonies are limited, as set forth in the first part of subsection (2)(e). Under subsection (2)(e), the only relevant prior offenses are “felony driving while under the influence of intoxicating liquor or any drug, felony physical control of a vehicle while under the influence of intoxicating liquor or any drug, and serious traffic offenses ... .” Fourth degree assault is not among this limited classes of prior offenses. Thus, “[t\he prior convictions” to which subsection (2)(e)(i) refers are the specific convictions outlined in the immediately preceding provision of the statute.
+¶23 The effect of the phrase “the prior convictions” in this statute is similar to a discussion of statutory plain language in State v. Roberts. There, the supreme court decided that when the legislature used the term “the crime” in an accomplice liability statute, it referenced the charged offense. The court distinguished the use of the term “the crime” from an accomplice’s knowledge of “a crime,” which would be general knowledge of any crime.
+¶24 Similarly, here, subsection (2)(e)(i) states, “The prior convictions,” indicating that only the specific classes of prior offenses stated immediately before this provision shall be counted in an offender’s score for a DUI-related felony conviction. The State’s argument is based on the premise that either “a conviction” or “a judgment and sentence” is all that is required. We say this because the State relies on fourth degree assault, which is not one of “[t]he prior convictions” listed. We reject this attempt to expand the list of qualifying crimes beyond those that the statute explicitly includes.
+¶25 We also note that subsection (2)(e)(i) specifies that the qualifying priors for scoring purposes are those within five year intervals of “release from confinement (including full-time residential treatment) or entry of judgment and sentence.” Because the qualifying priors are all crimes having to do with use of alcohol or drugs, crimes for which it would make sense to include residential treatment, the emphasized language buttresses our conclusion that qualifying priors are limited. They do not include fourth degree assault.
+¶26 The State argues that Morales’s September 1996 conviction for fourth degree domestic violence assault was within five years of his April 2001 conviction for DUI and thus precludes washout of his earlier convictions from the 1990s. The essence of this argument is that Morales was not “crime free” for this period of time. Thus, according to the State, the earlier convictions from the 1990s should count. We disagree.
+¶27 Though the State argues otherwise, Morales’s conviction for fourth degree domestic violence assault does not prevent the washout of these convictions. As noted above, subsection (2)(e) specifies the type of prior convictions that will be included in an offender score for a felony DUI conviction. Assault is not one of them.
+¶28 Further, unlike subsection (2)(d) of RCW 9.94A.525, subsection (2)(e)(i) does not include a provision requiring that the defendant spend five years in the community “without committing any crime that subsequently results in a conviction.” Morales’s assault conviction does not count for his offender score, nor does it interrupt the time between his 2001 DUI conviction and 1991 physical control conviction. The State’s interpretation, in contrast, would require that Morales be “crime free” for five years and, thus, would make subsection (2)(e)(i) a repetition of (2)(d)’s requirements. As the supreme court has noted, “[W]hen ‘different words are used in the same statute, it is presumed that a different meaning was intended to attach to each word.’ ” Further, “ ‘[sjtatutes must be interpreted and construed so that all the language used is given effect, with no portion rendered meaningless or superfluous.’ ” Thus, (2)(e)(i) and (2)(d) must create different washout requirements to give full effect to all the words in both subsections.
+¶29 The State maintains that its reading of subsection (2)(e)(i) does not require us to look to the more general washout provisions under subsection (2)(d). Nevertheless, it argues that Morales’s prior offenses from the early 1990s do not wash out under subsection (2)(d), either. But subsection (2)(d) states, “Except as provided in (e) of this subsection . . . .” It thus explicitly excludes those crimes that are addressed in subsection (2)(e). Because scoring for this case is controlled by subsection (2)(e), subsection (2)(d) is not relevant to scoring for the current crime of felony DUI.
+¶30 The State also relies on State v. Draxinger, but this case is unpersuasive. There, the defendant had at least four prior DUI-related offenses within 10 years. He argued that subsections (2)(e)(i) and (ii) were inconsistent because his earlier convictions washed out under (e)(i) but were included under (e)(ii). The court held that there was no inconsistency. In fact, it concluded that his crimes did not wash out under either subsection. This holding does not address whether subsection (2)(e)(i) applies to Morales’s prior convictions.
+¶31 To summarize, RCW 9.94A.525(2)(e) is the proper provision to calculate the offender score of Morales. Subsection (2)(e)(ii) of that statute requires that his three most recent prior convictions be included in his offender score. His current conviction of the crime of attempting to elude is scored as 1. Therefore, his correct offender score is 4. The trial court incorrectly calculated the score at 8.
+¶32 The balance of this opinion has no precedential value. Accordingly, pursuant to RCW 2.06.040, it shall not be published.
+Speakman, A.C.J., and Ellington, J., concur.
+Clerk’s Papers at 120.
+Brief of Respondent at 1.
+Dep’t of Ecology v. Campbell & Gwinn, LLC, 146 Wn.2d 1, 9, 43 P.3d 4 (2002) (citing State v. J.M., 144 Wn.2d 472, 480, 28 P.3d 720 (2001)).
+Id. (citing J.M., 144 Wn.2d at 480).
+Id. at 11-12.
+State v. Keller, 143 Wn.2d 267, 277, 19 P.3d 1030 (2001).
+Okeson v. City of Seattle, 150 Wn.2d 540, 548-49, 78 P.3d 1279 (2003).
+Brief of Appellant at 19.
+RCW 46.61.502(6) states:
+“It is a class C felony punishable under chapter 9.94A RCW ... if:
+“(a) The person has four or more prior offenses within ten years as defined in RCW 46.61.5055____”
+RCW 46.61.5055(14)(a)(i) states that a “ ‘prior offense’ means [a] conviction for a violation of RCW 46.61.502 [outlining the crime of driving under the influence].”
+RCW 46.61.502.
+Clerk’s Papers at 125 (Judgment and Sentence (Felony) — Appendix B — Criminal History).
+Under RCW 9.94A.030(44), “serious traffic offense” means “(a) Nonfelony driving while under the influence of intoxicating liquor or any drug (RCW 46.61.502), nonfelony actual physical control while under the influence of intoxicating liquor or any drug (RCW 46.61.504), reckless driving (RCW 46.61.500), or hit-and-run an attended vehicle (RCW 46.52.020(5)) . . . .”
+RCW 9.94A.525.
+RCW 46.61.5055(14)(c).
+Brief of Respondent at 5-8.
+RCW 9.94A.525(2)(e)(i) (emphasis added).
+Clerk’s Papers at 127 (Appendix B to Plea Agreement Prosecutor’s Understanding of Defendant’s Criminal History (Sentencing Reform Act)).
+Waste Mgmt. of Seattle, Inc. v. Utils. & Transp. Comm’n, 123 Wn.2d 621, 630, 869 P.2d 1034 (1994) (“Statutes relating to the same subject ‘are to be read together as constituting a unified whole, to the end that a harmonious total statutory scheme evolves (quoting State v. Wright, 84 Wn.2d 645, 650, 529 P.2d 453 (1974))).
+RCW 9.94A.525.
+Id. (emphasis added).
+142 Wn.2d 471, 14 P.3d 713 (2001).
+Id. at 510-11.
+Id. at 509-10 (emphasis added).
+ROW 9.94A.525 (emphasis added).
+RCW 9.94A.525(2)(e)(i) (emphasis added).
+Id. (emphasis added).
+RCW 9.94A.525(2)(d) (emphasis added).
+Simpson Inv. Co. v. Dep’t of Revenue, 141 Wn.2d 139, 160, 3 P.3d 741 (2000) (quoting State ex rel. Pub. Disclosure Comm’n v. Rains, 87 Wn.2d 626, 634, 555 P.2d 1368 (1976)).
+G-P Gypsum Corp. v. Dep’t of Revenue, 169 Wn.2d 304, 309, 237 P.3d 256 (2010) (internal quotation marks omitted) (quoting State v. J.P., 149 Wn.2d 444, 450, 69 P.3d 318 (2003)).
+Brief of Respondent at 7.
+Id.
+RCW 9.94A.525 (emphasis added).
+148 Wn. App. 533, 200 P.3d 251 (2008).
+Id. at 535.
+Id. at 537.
+Id. at 537 n.5.
+Clerk’s Papers at 125-27.
