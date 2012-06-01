@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41509-7-II; 41744-8-II"
 decided: "2012-06-01"
-citations: ["170 Wash. App. 260", "168 Wash. App. 1026"]
+citations: ["170 Wash. App. 260"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Cost Management Services, Inc., Respondent, v. The City of Lakewood e
 source_url: "https://static.case.law/wash-app/170/cases/0260-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4031418
-cites_cases: ["10 Wn.2d 186", "100 Wn. App. 140", "116 P.2d 507", "118 Wn. App. 383", "119 Wn.2d 1", "127 Wn.2d 1018", "136 Wn.2d 946", "137 Wn.2d 500", "142 Wn.2d 1001", "143 Wn.2d 68", "149 Wn.2d 873", "151 Wn.2d 1027", "164 Wn. App. 755", "17 P.3d 1178", "170 Wn. App. 260", "173 Wn.2d 1035", "176 Wn.2d 1011", "21 Wn. App. 896", "239 P.2d 1055", "265 P.3d 207", "36 Wn. App. 635", "39 Wn.2d 889", "506 U.S. 1028", "518 P.2d 718", "587 P.2d 1071", "617 P.2d 704", "677 P.2d 179", "73 P.3d 369", "76 P.3d 741", "77 Wn. App. 384", "82 Wn. App. 819", "829 P.2d 765", "83 Wn.2d 378", "87 Wn. App. 468", "895 P.2d 405", "920 P.2d 206", "94 Wn.2d 359", "943 P.2d 306", "974 P.2d 316", "995 P.2d 1284"]
+cites_cases: ["10 Wn.2d 186", "100 Wn. App. 140", "116 P.2d 507", "118 Wn. App. 383", "119 Wn.2d 1", "127 Wn.2d 1018", "136 Wn.2d 946", "137 Wn.2d 500", "142 Wn.2d 1001", "143 Wn.2d 68", "149 Wn.2d 873", "151 Wn.2d 1027", "164 Wn. App. 755", "17 P.3d 1178", "173 Wn.2d 1035", "176 Wn.2d 1011", "21 Wn. App. 896", "239 P.2d 1055", "265 P.3d 207", "36 Wn. App. 635", "39 Wn.2d 889", "506 U.S. 1028", "518 P.2d 718", "587 P.2d 1071", "617 P.2d 704", "677 P.2d 179", "73 P.3d 369", "76 P.3d 741", "77 Wn. App. 384", "82 Wn. App. 819", "829 P.2d 765", "83 Wn.2d 378", "87 Wn. App. 468", "895 P.2d 405", "920 P.2d 206", "94 Wn.2d 359", "943 P.2d 306", "974 P.2d 316", "995 P.2d 1284"]
 ---
 
 # Cost Management Services, Inc. v. City of Lakewood
