@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41362-1-II"
 decided: "2012-06-01"
-citations: ["170 Wash. App. 498", "168 Wash. App. 1025"]
+citations: ["170 Wash. App. 498"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Colin Bowers, Appellant, v. Pamela M. Marzano et al., Respondents."]
 source_url: "https://static.case.law/wash-app/170/cases/0498-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4032538
-cites_cases: ["108 Wn. App. 272", "118 P.3d 322", "118 Wn.2d 1029", "122 Wn.2d 1010", "129 Wn.2d 43", "138 Wn.2d 265", "155 Wn.2d 112", "163 Wn.2d 236", "163 Wn.2d 297", "170 Wn. App. 498", "178 P.3d 981", "178 P.3d 995", "31 P.3d 6", "37 Wn. App. 644", "432 P.2d 554", "551 P.2d 748", "554 U.S. 941", "56 Wn. App. 499", "627 P.2d 1312", "63 Wn. App. 272", "681 P.2d 1284", "70 Wn. App. 18", "72 Wn.2d 183", "77 Wn. App. 268", "784 P.2d 554", "818 P.2d 622", "84 Wn. App. 156", "851 P.2d 689", "87 Wn.2d 217", "890 P.2d 535", "914 P.2d 728", "926 P.2d 339", "95 Wn.2d 593", "979 P.2d 400"]
+cites_cases: ["108 Wn. App. 272", "118 P.3d 322", "118 Wn.2d 1029", "122 Wn.2d 1010", "129 Wn.2d 43", "138 Wn.2d 265", "155 Wn.2d 112", "163 Wn.2d 236", "163 Wn.2d 297", "178 P.3d 981", "178 P.3d 995", "31 P.3d 6", "37 Wn. App. 644", "432 P.2d 554", "551 P.2d 748", "554 U.S. 941", "56 Wn. App. 499", "627 P.2d 1312", "63 Wn. App. 272", "681 P.2d 1284", "70 Wn. App. 18", "72 Wn.2d 183", "77 Wn. App. 268", "784 P.2d 554", "818 P.2d 622", "84 Wn. App. 156", "851 P.2d 689", "87 Wn.2d 217", "890 P.2d 535", "914 P.2d 728", "926 P.2d 339", "95 Wn.2d 593", "979 P.2d 400"]
 ---
 
 # Bowers v. Marzano
