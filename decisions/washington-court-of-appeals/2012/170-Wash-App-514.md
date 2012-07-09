@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66842-1-I"
 decided: "2012-07-09"
-citations: ["170 Wash. App. 514", "169 Wash. App. 1010"]
+citations: ["170 Wash. App. 514"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Pilchuck Contractors, Inc., Appellant, v. The Department of Labor and
 source_url: "https://static.case.law/wash-app/170/cases/0514-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4029554
-cites_cases: ["119 P.3d 366", "119 Wn. App. 906", "129 Wn. App. 356", "136 Wn. App. 1", "139 Wn. App. 35", "146 P.3d 1212", "151 Wn. App. 589", "156 P.3d 250", "170 Wn. App. 514", "215 P.3d 951", "583 P.2d 621", "83 P.3d 1012", "90 Wn.2d 384"]
+cites_cases: ["119 P.3d 366", "119 Wn. App. 906", "129 Wn. App. 356", "136 Wn. App. 1", "139 Wn. App. 35", "146 P.3d 1212", "151 Wn. App. 589", "156 P.3d 250", "215 P.3d 951", "583 P.2d 621", "83 P.3d 1012", "90 Wn.2d 384"]
 ---
 
 # Pilchuck Contractors, Inc. v. Department of Labor & Industries
