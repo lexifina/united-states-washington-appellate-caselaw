@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41054-1-II"
 decided: "2012-07-17"
-citations: ["171 Wash. App. 379", "169 Wash. App. 561"]
+citations: ["171 Wash. App. 379"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Marcus K. Edwards, Appellant.
 source_url: "https://static.case.law/wash-app/171/cases/0379-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4071519
-cites_cases: ["102 Wn.2d 87", "110 Wn.2d 403", "110 Wn.2d 682", "115 Wn.2d 60", "115 Wn.2d 794", "119 Wn.2d 192", "132 S. Ct. 1376", "132 S. Ct. 1399", "141 P.3d 54", "141 Wn.2d 448", "143 P.3d 817", "143 Wn.2d 1", "147 P.3d 1288", "147 Wn.2d 330", "150 P.3d 1126", "150 Wn.2d 498", "157 Wn.2d 593", "158 Wn. App. 854", "158 Wn.2d 304", "159 Wn.2d 509", "159 Wn.2d 86", "166 Wn.2d 856", "167 Wn.2d 91", "168 Wn.2d 23", "168 Wn.2d 476", "168 Wn.2d 91", "169 Wn.2d 274", "17 P.3d 591", "171 Wn. App. 379", "171 Wn.2d 1012", "171 Wn.2d 17", "176 Wn.2d 1025", "184 F.3d 1083", "215 P.3d 177", "217 P.3d 756", "225 P.3d 237", "225 P.3d 956", "229 P.3d 704", "236 P.3d 858", "244 P.3d 965", "246 P.3d 1260", "4 Wn. App. 137", "466 U.S. 668", "479 P.2d 946", "48 Wn. App. 353", "533 F.3d 1076", "58 P.3d 889", "584 P.2d 382", "6 P.3d 1150", "604 N.E.2d 1170", "618 P.2d 99", "684 P.2d 683", "739 P.2d 1161", "756 P.2d 105", "757 P.2d 492", "79 P.3d 1144", "794 P.2d 850", "802 P.2d 116", "81 Wn. App. 425", "829 P.2d 1068", "90 Wn.2d 443", "902 P.2d 1337", "914 P.2d 788", "94 Wn.2d 634", "955 S.W.2d 276", "974 F.2d 1099"]
+cites_cases: ["102 Wn.2d 87", "110 Wn.2d 403", "110 Wn.2d 682", "115 Wn.2d 60", "115 Wn.2d 794", "119 Wn.2d 192", "132 S. Ct. 1376", "132 S. Ct. 1399", "141 P.3d 54", "141 Wn.2d 448", "143 P.3d 817", "143 Wn.2d 1", "147 P.3d 1288", "147 Wn.2d 330", "150 P.3d 1126", "150 Wn.2d 498", "157 Wn.2d 593", "158 Wn. App. 854", "158 Wn.2d 304", "159 Wn.2d 509", "159 Wn.2d 86", "166 Wn.2d 856", "167 Wn.2d 91", "168 Wn.2d 23", "168 Wn.2d 476", "168 Wn.2d 91", "169 Wn.2d 274", "17 P.3d 591", "171 Wn.2d 1012", "171 Wn.2d 17", "176 Wn.2d 1025", "184 F.3d 1083", "215 P.3d 177", "217 P.3d 756", "225 P.3d 237", "225 P.3d 956", "229 P.3d 704", "236 P.3d 858", "244 P.3d 965", "246 P.3d 1260", "4 Wn. App. 137", "466 U.S. 668", "479 P.2d 946", "48 Wn. App. 353", "533 F.3d 1076", "58 P.3d 889", "584 P.2d 382", "6 P.3d 1150", "604 N.E.2d 1170", "618 P.2d 99", "684 P.2d 683", "739 P.2d 1161", "756 P.2d 105", "757 P.2d 492", "79 P.3d 1144", "794 P.2d 850", "802 P.2d 116", "81 Wn. App. 425", "829 P.2d 1068", "90 Wn.2d 443", "902 P.2d 1337", "914 P.2d 788", "94 Wn.2d 634", "955 S.W.2d 276", "974 F.2d 1099"]
 ---
 
 # State v. Edwards
