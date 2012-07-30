@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "67552-4-I"
 decided: "2012-07-30"
-citations: ["171 Wash. App. 227", "169 Wash. App. 1035"]
+citations: ["171 Wash. App. 227"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Hugh K. Sisley et al., Appellants, v. Seattle School District No. 1, 
 source_url: "https://static.case.law/wash-app/171/cases/0227-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4071293
-cites_cases: ["1 Wn. App. 250", "108 P.3d 768", "112 Wn.2d 193", "112 Wn.2d 762", "123 Wn.2d 206", "153 Wn.2d 812", "171 Wn. App. 227", "176 Wn.2d 1015", "20 Wn. App. 229", "45 Wn. App. 29", "460 P.2d 307", "54 Mass. App. Ct. 642", "580 P.2d 642", "635 P.2d 1081", "723 P.2d 1195", "767 N.E.2d 603", "770 P.2d 1027", "776 P.2d 98", "837 F.2d 1036", "867 P.2d 610", "87 Wn. App. 579", "943 P.2d 350", "96 Wn.2d 473", "975 S.W.2d 70"]
+cites_cases: ["1 Wn. App. 250", "108 P.3d 768", "112 Wn.2d 193", "112 Wn.2d 762", "123 Wn.2d 206", "153 Wn.2d 812", "176 Wn.2d 1015", "20 Wn. App. 229", "45 Wn. App. 29", "460 P.2d 307", "54 Mass. App. Ct. 642", "580 P.2d 642", "635 P.2d 1081", "723 P.2d 1195", "767 N.E.2d 603", "770 P.2d 1027", "776 P.2d 98", "837 F.2d 1036", "867 P.2d 610", "87 Wn. App. 579", "943 P.2d 350", "96 Wn.2d 473", "975 S.W.2d 70"]
 ---
 
 # Sisley v. Seattle School District No. 1
