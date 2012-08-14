@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42250-6-II"
 decided: "2012-08-14"
-citations: ["171 Wash. App. 655", "170 Wash. App. 1009"]
+citations: ["171 Wash. App. 655"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Heather Courtney, Appellant, v. The Employment Security Department, R
 source_url: "https://static.case.law/wash-app/171/cases/0655-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4069995
-cites_cases: ["102 Wn.2d 385", "108 P.3d 1240", "108 Wn.2d 272", "118 Wn.2d 801", "126 Wn. App. 468", "153 P.3d 839", "154 P.3d 891", "159 Wn.2d 752", "159 Wn.2d 868", "164 Wn.2d 909", "171 Wn. App. 655", "177 Wn.2d 1012", "194 P.3d 255", "275 Md. 69", "28 Wn. App. 399", "338 A.2d 237", "62 Wn. App. 227", "623 P.2d 736", "687 P.2d 195", "737 P.2d 1262", "81 Wn. App. 403", "813 P.2d 1262", "828 P.2d 549", "914 P.2d 750", "95 Wn.2d 1021", "96 Wn. App. 522", "979 P.2d 864"]
+cites_cases: ["102 Wn.2d 385", "108 P.3d 1240", "108 Wn.2d 272", "118 Wn.2d 801", "126 Wn. App. 468", "153 P.3d 839", "154 P.3d 891", "159 Wn.2d 752", "159 Wn.2d 868", "164 Wn.2d 909", "177 Wn.2d 1012", "194 P.3d 255", "275 Md. 69", "28 Wn. App. 399", "338 A.2d 237", "62 Wn. App. 227", "623 P.2d 736", "687 P.2d 195", "737 P.2d 1262", "81 Wn. App. 403", "813 P.2d 1262", "828 P.2d 549", "914 P.2d 750", "95 Wn.2d 1021", "96 Wn. App. 522", "979 P.2d 864"]
 ---
 
 # Courtney v. Employment Security Department
