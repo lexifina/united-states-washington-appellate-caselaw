@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "29727-6-III"
 decided: "2012-08-16"
-citations: ["171 Wash. App. 1", "170 Wash. App. 1010"]
+citations: ["171 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Israel Morfin, Appellant."]
 source_url: "https://static.case.law/wash-app/171/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4070282
-cites_cases: ["114 Wn.2d 613", "121 Wn. App. 747", "123 P.3d 72", "132 Wn.2d 529", "155 Wn.2d 758", "163 Wn.2d 204", "171 Wn. App. 1", "176 Wn.2d 1025", "181 P.3d 1", "33 Wash. 440", "660 P.2d 1117", "74 P. 565", "790 P.2d 610", "90 P.3d 1110", "940 P.2d 546", "99 Wn.2d 166"]
+cites_cases: ["114 Wn.2d 613", "121 Wn. App. 747", "123 P.3d 72", "132 Wn.2d 529", "155 Wn.2d 758", "163 Wn.2d 204", "176 Wn.2d 1025", "181 P.3d 1", "33 Wash. 440", "660 P.2d 1117", "74 P. 565", "790 P.2d 610", "90 P.3d 1110", "940 P.2d 546", "99 Wn.2d 166"]
 ---
 
 # State v. Morfin
