@@ -1,0 +1,74 @@
+---
+court: "Washington Court of Appeals"
+docket: "64754-7-I"
+decided: "2012-08-20"
+citations: ["170 Wash. App. 156"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Grosse and Becker, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Matthew Alan Temple, Appellant."]
+source_url: "https://static.case.law/wash-app/170/cases/0156-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4031548
+cites_cases: ["107 Wn.2d 1", "109 Wn. App. 405", "116 Wn. App. 796", "116 Wn.2d 853", "119 Wn.2d 538", "133 Wn.2d 847", "136 Wn. App. 87", "137 Wn.2d 208", "143 Wn.2d 731", "147 P.3d 649", "15 Wn. App. 716", "153 Wn. App. 197", "161 Wn.2d 808", "167 P.3d 1156", "20 Wn. App. 626", "222 P.3d 107", "24 P.3d 1006", "28 Wn. App. 425", "36 P.3d 1065", "504 P.2d 1148", "552 P.2d 1059", "581 P.2d 182", "61 Wn. App. 888", "616 P.2d 649", "626 P.2d 508", "67 P.3d 1135", "67 Wn. App. 623", "724 F.2d 633", "726 P.2d 445", "8 Wn. App. 148", "809 P.2d 203", "81 Wn. App. 308", "812 P.2d 527", "834 P.2d 611", "838 P.2d 135", "914 P.2d 114", "94 Wn.2d 263", "947 P.2d 1192", "970 P.2d 722"]
+---
+
+# State v. Temple
+
+## Majority (Leach, C. J.)
+
+Leach, C. J.
+¶1 Matthew Temple appeals a conviction of
+violating the Uniform Controlled Substances Act, chapter 69.50 RCW. He makes three challenges to the warrant used to seize crystal methamphetamine and a glass pipe found in his bedroom: (1) a nonexistent court issued the warrant; (2) the issuing judge and police did not follow the proper procedures for issuance, service, and return of a warrant; and (3) the warrant was overbroad. All fail. An existing court issued the warrant with an incorrect caption, Temple shows no prejudice resulting from any procedural errors, and the overbroad portions of the warrant can be severed. We affirm.
+FACTS
+¶2 While investigating a domestic violence assault in which Matthew Temple threatened an ex-girlfriend with an ax, Snoqualmie police officers obtained a warrant to search. Temple’s house for
+[a]ny dangerous weapons, firearms, blade weapons, or tools that appear to be used as a weapon in the commission of the crime(s); specifically a wood handled axe; all ammunition and shell casings, spent or otherwise that may have been used or a result of the crime; [a]ny evidence establishing domain [sic] and control of weapons located, to include damage to the property, by axe, knife or firearm; [e]vidence of examination, by taking video and photographs of the crime scene; canceled mail, rental agreements, utility bills, notices from governmental agencies, and other documents showing dominion and control of the premises; documents, photographs or receipts that show ownership of any firearms.
+When Officer Draveling proceeded to execute the warrant, Temple’s pit bull was locked in Temple’s bedroom. Another resident of the house opened the bedroom door and grabbed the dog and ax. Draveling then entered the room to search for weapons and evidence of Temple’s dominion and control over the ax and room. He observed a small vial of crystallized methamphetamine sitting on a dresser and a glass pipe in an open drawer. Draveling seized this drug evidence.
+¶3 The State charged Temple with violating the Uniform Controlled Substances Act. Temple moved to suppress the drug evidence, arguing that the warrant was invalid. The trial court denied the motion, and a jury convicted Temple. He appeals.
+ANALYSIS
+¶4 Temple bases this appeal entirely upon the trial court’s denial of his motion to suppress the drug evidence. We review the denial of a suppression motion to determine whether substantial evidence supports the challenged findings of fact and whether those findings support the trial court’s conclusions of law. “Substantial evidence” is “ ‘evidence in sufficient quantum to persuade a fair-minded person of the truth of the declared premises.’ ”
+¶5 First, Temple alleges that the warrant was invalid because it was issued by a nonexistent court. Judge Linda Jacke of the East Division of the King County District Court issued the warrant. The caption reads,
+REDMOND DISTRICT COURT KING COUNTY
+STATE OF WASHINGTON ) NO.
+) ss. SEARCH WARRANT
+COUNTY OF KING )
+TO ANY PEACE OFFICER IN THE STATE OF WASHINGTON
+The warrant specifies it should be returned either to the judge or to the clerk of that court. Temple argues that “Redmond District Court” does not exist and lacks authority to issue a search warrant. He notes that the Redmond District Court ceased to exist in 1989 with the establishment of a unified King County District Court. He relies on State v. Canady. There, our Supreme Court held that a pro tempore judge lacked legal authority to issue a warrant when the municipal court department in which he sat never had been properly created by a city ordinance. Seattle Municipal Code 3.33.040 organized the Seattle Municipal Court into multiple departments. Canady’s warrant was issued by a pro tempore judge sitting in Department 4N. Because Seattle did not create Department 4N until 1989, two years after Canady’s arrest, our Supreme Court held that the warrant was invalid.
+¶6 The facts in Canady distinguish that decision from this case. Unlike Canady, the court here was a valid court at the time it issued the challenged warrant. Temple presents no legal authority to support his argument that an error in a warrant’s caption determines the authority of the issuing court, so we must presume that he has found none. Further, although defense counsel did note the caption language briefly at the trial court hearing, he belied his own argument by acknowledging — several times — that the court and the judge did have authority to issue a warrant.
+¶7 Temple next argues that the police violated the warrant procedures established by court rules. He identifies the following errors: (1) the search warrant affidavit, the search warrant, the search warrant return, and the search warrant inventory were not filed with the issuing court; (2) the search warrant return was not accompanied by the inventory of property seized; (3) the police did not provide Temple with a copy of the warrant or a receipt for the property seized; and (4) the search warrant inventory was not made in the presence of any other person and falsely states that it was. He concedes insufficiency of any one of these errors alone to invalidate the warrant, absent a showing of prejudice.
+¶8 However, Temple contends that the cumulative effect of these procedural deficiencies raises constitutional considerations and requires suppression. However, he does not demonstrate how the alleged errors prejudiced him. Indeed, at oral argument, counsel conceded that nothing in Temple’s trial preparation would have changed if these procedures had been followed to the letter. As we noted in State v. Parker, “The rules for the execution and return of a valid search warrant are ministerial in nature. Absent a showing of prejudice to the defendant, procedural noncompliance does not compel invalidation of the warrant or suppression of its fruits.” The courts’ ministerial rules for warrant execution and return do not “flow so directly from the Fourth Amendment’s proscription upon unreasonable searches that failure to abide by them compels exclusion of evidence obtained in execution of a search warrant.” Temple’s constitutional argument fails.
+¶9 Finally, Temple alleges that the warrant itself was not supported by probable cause and that any evidence seized pursuant to it must be suppressed. The Fourth Amendment provides, “[N]o warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.” Specifically, Temple claims that the warrant was overbroad, not based on probable cause, and lacked particularity. “A warrant can be ‘over-broad’ either because it fails to describe with particularity items for which probable cause exists, or because it describes, particularly or otherwise, items for which probable cause does not exist.” “ ‘Whether a warrant meets the particularity requirement of the Fourth Amendment is reviewed de novo.’ ”
+¶10 The State concedes that the warrant’s references to “firearms, shell cases or knives” were overbroad and not based on probable cause. Whether this overbreadth invalidates the warrant depends solely on whether the overbroad parts of the warrant can be severed. As our Supreme Court has noted, “ ‘[I]t would be harsh medicine indeed if a warrant which was issued on probable cause and which did particularly describe certain items were to be invalidated in toto merely because the affiant and magistrate erred in seeking and permitting a search for other items as well.’ ” Therefore, under the severability doctrine, “ ‘infirmity of part of a warrant requires the suppression of evidence seized pursuant to that part of the warrant’ but does not require suppression of anything seized pursuant to valid parts of the warrant.”
+¶11 State v. Maddox sets out five factors for determining whether invalid parts of a warrant can be severed: (1) the warrant must lawfully have authorized entry into the premises; (2) the warrant must include one or more particularly described items for which there is probable cause; (3) the part of the warrant that includes particularly described items supported by probable cause must be significant when compared to the warrant as a whole; (4) the searching officers must have found and seized the disputed items while executing the valid part of the warrant; and (5) the officers must not have conducted a general search, i.e., one in which they “flagrantly disregarded” the warrant’s scope.
+¶12 Temple disputes the last three elements of the Maddox test. He argues that the portion of the warrant supported by probable cause is minimal compared to the warrant as a whole and that the police conducted an improper generalized search because they could not reasonably expect to find a bladed weapon in a small bedside dresser or a small glass vial.
+¶13 The warrant’s grant of authority to search for an ax, evidence establishing dominion and control over the ax, and evidence of dominion and control of the premises was significant when compared to its whole. Its grant of authority to search for any dangerous weapon or firearms, “all ammunition and shell casings,” and evidence of ownership of firearms was not significant when similarly compared.
+¶14 Temple’s characterization of the search as “generalized” ignores the “plain view” exception to the Fourth Amendment’s warrant requirement. Under the plain view doctrine, an officer must (1) have a prior justification for the intrusion, (2) inadvertently discover the incriminating evidence, and (3) immediately recognize the item as contraband. Inadvertent discovery is no longer a requirement to establish the plain view exception under the Fourth Amendment. Once the police were lawfully in the room, the drug evidence was in plain view on a dresser and in an open dresser drawer. Thus, the police could seize it.
+¶15 Temple also claims that the warrant failed to meet the particularity requirement because it failed to identify which means of committing domestic violence assault was being investigated. He relies on State v. Higgins, in which we suppressed evidence seized based on a warrant that authorized the seizure of “ ‘certain evidence of a crime, to-wit: “Assault 2nd DV [domestic voilence]” RCW 9A.36.021/ ” even though the statute sets out seven alternative means for committing assault. We found that such a glaring lack of particularity could authorize police to look for too broad a list of items.
+¶16 Temple correctly notes that the warrant in this case also fails to articulate which of the alternative means of committing second degree assault is at issue, but the similarity with Higgins ends there. The warrant clearly authorizes the police to seize particular types of weapons and other items. Although, as discussed above, the list was overbroad, once the offending provisions are severed, the warrant remains valid as it relates to evidence of dangerous bladed weapons, specifically the ax. The warrant was sufficiently particular to justify entry into Temple’s bedroom to search for the wooden-handled ax or other similar weapons.
+CONCLUSION
+¶17 An existing court issued the challenged warrant. Temple has failed to established prejudice from any ministerial error relating to the warrant. The overbroad parts of the warrant can be severed. We affirm.
+Grosse and Becker, JJ., concur.
+State v. Bliss, 153 Wn. App. 197, 203, 222 P.3d 107 (2009) (citing State v. Mendez, 137 Wn.2d 208, 214, 970 P.2d 722 (1999)).
+State v. Jeannotte, 133 Wn.2d 847, 856, 947 P.2d 1192 (1997) (internal quotation marks omitted) (quoting Olmstead v. Dep’t of Health, 61 Wn. App. 888, 893, 812 P.2d 527 (1991)).
+116 Wn.2d 853, 809 P.2d 203 (1991).
+Canady, 116 Wn.2d at 854.
+Canady, 116 Wn.2d at 854-55.
+Canady, 116 Wn.2d at 858.
+RAP 10.3; Or. Mut. Ins. Co. v. Barton, 109 Wn. App. 405, 418, 36 P.3d 1065 (2001).
+See State v. Kern, 81 Wn. App. 308, 311, 914 P.2d 114 (1996) (“[T]he rales for execution and return of a warrant are essentially ministerial in nature.”); see also State v. Smith, 15 Wn. App. 716, 719, 552 P.2d 1059 (1976) (failure to designate to whom the warrant should be returned is ministerial error); State v. Wraspir, 20 Wn. App. 626, 628, 581 P.2d 182 (1978) (requirement that inventory be taken in presence of another person is purely ministerial); State v. Parker, 28 Wn. App. 425, 426, 626 P.2d 508 (1981) (nonconforming copy of warrant provided to defendant is ministerial); State v. Bowman, 8 Wn. App. 148, 150, 504 P.2d 1148 (1972) (improper service of warrant is ministerial error).
+28 Wn. App. 425, 426-27, 626 P.2d 508 (1981) (citations omitted).
+2 Wayne R. LaFave, Search and Seizure § 4.12, at 717 (3d ed. 1996).
+U.S. Const, amend. IV.
+State v. Maddox, 116 Wn. App. 796, 805, 67 P.3d 1135 (2003) (footnote omitted).
+State v. Reep, 161 Wn.2d 808, 813, 167 P.3d 1156 (2007) (quoting State v. Clark, 143 Wn.2d 731, 753, 24 P.3d 1006 (2001)).
+Br. of Resp’t at 27.
+State v. Perrone, 119 Wn.2d 538, 556, 834 P.2d 611 (1992) (alteration in original) (quoting 2 Wayne R. LaFave, Search and Seizure § 4.6(f) at 258 (2d ed. 1987)).
+Perrone, 119 Wn.2d at 556 (quoting United States v. Fitzgerald, 724 F.2d 633, 637 (8th Cir. 1983)).
+116 Wn. App. 796, 807-09, 67 P.3d 1135 (2003).
+State v. Daugherty, 94 Wn.2d 263, 267, 616 P.2d 649 (1980).
+State v. Kennedy, 107 Wn.2d 1, 13, 726 P.2d 445 (1986).
+Reep, 161 Wn.2d at 816.
+State v. Goodin, 67 Wn. App. 623, 629, 838 P.2d 135 (1992).
+136 Wn. App. 87, 90, 147 P.3d 649 (2006).
+Higgins, 136 Wn. App. at 93.
