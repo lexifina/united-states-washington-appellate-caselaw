@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42158-5-II"
 decided: "2012-09-18"
-citations: ["171 Wash. App. 664", "170 Wash. App. 1039"]
+citations: ["171 Wash. App. 664"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["James L. Brummett, Appellant, v. Washington’s Lottery et al., Respo
 source_url: "https://static.case.law/wash-app/171/cases/0664-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4071209
-cites_cases: ["103 Wn.2d 800", "105 Wn.2d 778", "106 Wn.2d 96", "112 Wn.2d 216", "115 Wn.2d 506", "118 Wn.2d 801", "128 P.3d 621", "131 Wn. App. 462", "135 Wn.2d 820", "138 Wn. App. 151", "138 Wn.2d 248", "144 Wn. App. 709", "155 Wn. App. 339", "159 P.3d 10", "166 Wn. App. 117", "166 Wn.2d 27", "166 Wn.2d 794", "167 Wn.2d 697", "171 Wn. App. 664", "174 Wn.2d 1007", "176 Wn.2d 1022", "189 P.3d 168", "204 P.3d 885", "213 P.3d 910", "222 P.3d 785", "229 P.3d 906", "272 P.3d 876", "37 Wn. App. 560", "545 P.2d 13", "683 P.2d 1103", "699 P.2d 217", "719 P.2d 531", "720 P.2d 805", "77 Wn. App. 33", "770 P.2d 182", "799 P.2d 250", "828 P.2d 549", "86 Wn.2d 293", "888 P.2d 1196", "91 Wn. App. 722", "959 P.2d 1158", "959 P.2d 651", "978 P.2d 505"]
+cites_cases: ["103 Wn.2d 800", "105 Wn.2d 778", "106 Wn.2d 96", "112 Wn.2d 216", "115 Wn.2d 506", "118 Wn.2d 801", "128 P.3d 621", "131 Wn. App. 462", "135 Wn.2d 820", "138 Wn. App. 151", "138 Wn.2d 248", "144 Wn. App. 709", "155 Wn. App. 339", "159 P.3d 10", "166 Wn. App. 117", "166 Wn.2d 27", "166 Wn.2d 794", "167 Wn.2d 697", "174 Wn.2d 1007", "176 Wn.2d 1022", "189 P.3d 168", "204 P.3d 885", "213 P.3d 910", "222 P.3d 785", "229 P.3d 906", "272 P.3d 876", "37 Wn. App. 560", "545 P.2d 13", "683 P.2d 1103", "699 P.2d 217", "719 P.2d 531", "720 P.2d 805", "77 Wn. App. 33", "770 P.2d 182", "799 P.2d 250", "828 P.2d 549", "86 Wn.2d 293", "888 P.2d 1196", "91 Wn. App. 722", "959 P.2d 1158", "959 P.2d 651", "978 P.2d 505"]
 ---
 
 # Brummett v. Washington's Lottery
