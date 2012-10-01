@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68456-6-I"
 decided: "2012-10-01"
-citations: ["174 Wash. App. 229", "170 Wash. App. 1053"]
+citations: ["174 Wash. App. 229"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Steven Andrew Janda, Appellan
 source_url: "https://static.case.law/wash-app/174/cases/0229-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4051908
-cites_cases: ["100 Wn. App. 307", "103 Wn.2d 52", "105 Wn. App. 738", "115 P.3d 281", "120 Wn. App. 327", "125 Wn.2d 570", "139 Wn.2d 107", "143 Wn.2d 267", "154 Wn.2d 596", "156 P.3d 201", "160 Wn.2d 106", "167 Wn.2d 324", "169 Wn.2d 815", "174 Wn. App. 229", "19 P.3d 1030", "2 Wn. App. 802", "20 P.3d 1044", "219 P.3d 642", "239 P.3d 354", "28 Wn. App. 690", "472 P.2d 564", "548 P.2d 310", "558 P.2d 173", "626 P.2d 509", "691 P.2d 163", "75 Wn. App. 795", "84 P.3d 882", "86 Wn.2d 624", "87 Wn.2d 829", "880 P.2d 96", "888 P.2d 1105", "984 P.2d 453", "985 P.2d 365"]
+cites_cases: ["100 Wn. App. 307", "103 Wn.2d 52", "105 Wn. App. 738", "115 P.3d 281", "120 Wn. App. 327", "125 Wn.2d 570", "139 Wn.2d 107", "143 Wn.2d 267", "154 Wn.2d 596", "156 P.3d 201", "160 Wn.2d 106", "167 Wn.2d 324", "169 Wn.2d 815", "19 P.3d 1030", "2 Wn. App. 802", "20 P.3d 1044", "219 P.3d 642", "239 P.3d 354", "28 Wn. App. 690", "472 P.2d 564", "548 P.2d 310", "558 P.2d 173", "626 P.2d 509", "691 P.2d 163", "75 Wn. App. 795", "84 P.3d 882", "86 Wn.2d 624", "87 Wn.2d 829", "880 P.2d 96", "888 P.2d 1105", "984 P.2d 453", "985 P.2d 365"]
 ---
 
 # State v. Janda
