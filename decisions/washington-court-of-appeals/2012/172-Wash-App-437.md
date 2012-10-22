@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66954-1-I"
 decided: "2012-10-22"
-citations: ["172 Wash. App. 437", "171 Wash. App. 1012"]
+citations: ["172 Wash. App. 437"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Estate of Michael J. Fitzgerald. Maria Luisa De 
 source_url: "https://static.case.law/wash-app/172/cases/0437-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4142246
-cites_cases: ["115 Wn. App. 91", "116 P.3d 1033", "117 Wn.2d 772", "119 Wn.2d 167", "128 Wn. App. 543", "136 Wn.2d 888", "144 Wn. App. 333", "146 Wn. App. 929", "151 Wn.2d 106", "161 Wn. App. 420", "166 Wn.2d 974", "172 Wn. App. 437", "172 Wn.2d 1019", "177 Wn.2d 1014", "183 P.3d 317", "193 P.3d 1093", "216 P.3d 374", "250 P.3d 138", "277 P.2d 321", "45 Wn. App. 192", "45 Wn.2d 644", "60 P.3d 1261", "724 P.2d 425", "79 Wn. App. 303", "81 Wn. App. 182", "819 P.2d 370", "829 P.2d 1082", "86 P.3d 132", "901 P.2d 1074", "913 P.2d 828", "969 P.2d 64"]
+cites_cases: ["115 Wn. App. 91", "116 P.3d 1033", "117 Wn.2d 772", "119 Wn.2d 167", "128 Wn. App. 543", "136 Wn.2d 888", "144 Wn. App. 333", "146 Wn. App. 929", "151 Wn.2d 106", "161 Wn. App. 420", "166 Wn.2d 974", "172 Wn.2d 1019", "177 Wn.2d 1014", "183 P.3d 317", "193 P.3d 1093", "216 P.3d 374", "250 P.3d 138", "277 P.2d 321", "45 Wn. App. 192", "45 Wn.2d 644", "60 P.3d 1261", "724 P.2d 425", "79 Wn. App. 303", "81 Wn. App. 182", "819 P.2d 370", "829 P.2d 1082", "86 P.3d 132", "901 P.2d 1074", "913 P.2d 828", "969 P.2d 64"]
 ---
 
 # Fitzgerald v. Mountain-West Resources, Inc.
