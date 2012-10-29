@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "67429-3-I"
 decided: "2012-10-29"
-citations: ["174 Wash. App. 1", "171 Wash. App. 1019"]
+citations: ["174 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Michael Durland et al., Appellants, v. San Juan County et al., Respon
 source_url: "https://static.case.law/wash-app/174/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4053285
-cites_cases: ["108 Wn.2d 369", "118 Wn.2d 801", "120 P.3d 56", "120 Wn. App. 668", "133 Wn.2d 80", "137 Wn.2d 957", "141 Wn.2d 169", "146 Wn.2d 947", "147 Wn. App. 46", "147 Wn.2d 440", "148 Wn.2d 723", "153 P.3d 846", "154 Wn. App. 408", "155 Wn.2d 397", "159 Wn.2d 700", "161 Wn. App. 614", "161 Wn. App. 770", "165 Wn.2d 50", "169 Wn.2d 1014", "173 Wn.2d 296", "174 Wn. App. 1", "194 P.3d 264", "196 P.3d 141", "225 P.3d 448", "255 P.3d 763", "255 P.3d 805", "268 P.3d 892", "36 Wn. App. 762", "38 Wn. App. 630", "4 P.3d 123", "50 Wn. App. 768", "51 P.3d 66", "54 P.3d 1194", "63 P.3d 792", "67 Wn. App. 436", "677 P.2d 773", "689 P.2d 1084", "739 P.2d 668", "750 P.2d 1290", "80 Wn. App. 473", "828 P.2d 549", "836 P.2d 235", "86 P.3d 1169", "910 P.2d 486", "92 Wn. App. 381", "94 Wn. App. 849", "942 P.2d 351", "966 P.2d 928", "973 P.2d 1078", "977 P.2d 554"]
+cites_cases: ["108 Wn.2d 369", "118 Wn.2d 801", "120 P.3d 56", "120 Wn. App. 668", "133 Wn.2d 80", "137 Wn.2d 957", "141 Wn.2d 169", "146 Wn.2d 947", "147 Wn. App. 46", "147 Wn.2d 440", "148 Wn.2d 723", "153 P.3d 846", "154 Wn. App. 408", "155 Wn.2d 397", "159 Wn.2d 700", "161 Wn. App. 614", "161 Wn. App. 770", "165 Wn.2d 50", "169 Wn.2d 1014", "173 Wn.2d 296", "194 P.3d 264", "196 P.3d 141", "225 P.3d 448", "255 P.3d 763", "255 P.3d 805", "268 P.3d 892", "36 Wn. App. 762", "38 Wn. App. 630", "4 P.3d 123", "50 Wn. App. 768", "51 P.3d 66", "54 P.3d 1194", "63 P.3d 792", "67 Wn. App. 436", "677 P.2d 773", "689 P.2d 1084", "739 P.2d 668", "750 P.2d 1290", "80 Wn. App. 473", "828 P.2d 549", "836 P.2d 235", "86 P.3d 1169", "910 P.2d 486", "92 Wn. App. 381", "94 Wn. App. 849", "942 P.2d 351", "966 P.2d 928", "973 P.2d 1078", "977 P.2d 554"]
 ---
 
 # Durland v. San Juan County
