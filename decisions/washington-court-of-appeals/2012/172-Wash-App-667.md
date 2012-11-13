@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "67440-4-I"
 decided: "2012-11-13"
-citations: ["172 Wash. App. 667", "171 Wash. App. 1031"]
+citations: ["172 Wash. App. 667"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["American Express Centurion Bank, Respondent, v. Zaakera R. Stratman, 
 source_url: "https://static.case.law/wash-app/172/cases/0667-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4144388
-cites_cases: ["109 P.3d 489", "109 P.3d 805", "118 Wn.2d 1", "120 Wn.2d 57", "122 Wn.2d 371", "126 Wn. App. 752", "127 Wn.2d 17", "128 P.3d 574", "128 P.3d 633", "129 Wn.2d 601", "131 Wn. App. 616", "135 Wn.2d 658", "139 Wn. App. 723", "146 Wn.2d 291", "148 Wn.2d 788", "15 U.S.C. § 1692", "154 Wn. App. 722", "154 Wn.2d 16", "156 Wn.2d 441", "160 Wn. App. 286", "162 P.3d 1131", "172 Wn. App. 667", "2 Wn. App. 493", "226 P.3d 191", "247 P.3d 778", "25 Wn. App. 552", "349 P.2d 605", "44 Wn. App. 898", "45 P.3d 1068", "468 P.2d 691", "55 Wn.2d 678", "608 P.2d 266", "64 P.3d 22", "723 P.2d 438", "820 P.2d 497", "837 P.2d 618", "858 P.2d 245", "896 P.2d 665", "919 P.2d 1209", "958 P.2d 301", "97 Wn. App. 684", "985 P.2d 952"]
+cites_cases: ["109 P.3d 489", "109 P.3d 805", "118 Wn.2d 1", "120 Wn.2d 57", "122 Wn.2d 371", "126 Wn. App. 752", "127 Wn.2d 17", "128 P.3d 574", "128 P.3d 633", "129 Wn.2d 601", "131 Wn. App. 616", "135 Wn.2d 658", "139 Wn. App. 723", "146 Wn.2d 291", "148 Wn.2d 788", "15 U.S.C. § 1692", "154 Wn. App. 722", "154 Wn.2d 16", "156 Wn.2d 441", "160 Wn. App. 286", "162 P.3d 1131", "2 Wn. App. 493", "226 P.3d 191", "247 P.3d 778", "25 Wn. App. 552", "349 P.2d 605", "44 Wn. App. 898", "45 P.3d 1068", "468 P.2d 691", "55 Wn.2d 678", "608 P.2d 266", "64 P.3d 22", "723 P.2d 438", "820 P.2d 497", "837 P.2d 618", "858 P.2d 245", "896 P.2d 665", "919 P.2d 1209", "958 P.2d 301", "97 Wn. App. 684", "985 P.2d 952"]
 ---
 
 # American Express Centurion Bank v. Stratman
