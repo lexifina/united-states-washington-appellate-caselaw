@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30002-1-III"
 decided: "2012-11-15"
-citations: ["172 Wash. App. 678", "172 Wash. App. 1001"]
+citations: ["172 Wash. App. 678"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Ismael Sanchez, Appellant."]
 source_url: "https://static.case.law/wash-app/172/cases/0678-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4144283
-cites_cases: ["158 P.3d 1169", "160 Wn.2d 727", "167 Wn.2d 273", "172 Wn. App. 678", "178 Wn.2d 1009", "217 P.3d 768", "407 U.S. 514", "87 Wn. App. 39", "940 P.2d 280"]
+cites_cases: ["158 P.3d 1169", "160 Wn.2d 727", "167 Wn.2d 273", "178 Wn.2d 1009", "217 P.3d 768", "407 U.S. 514", "87 Wn. App. 39", "940 P.2d 280"]
 ---
 
 # State v. Sanchez
