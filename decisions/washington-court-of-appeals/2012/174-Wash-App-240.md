@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "66852-8-I"
 decided: "2012-12-03"
-citations: ["174 Wash. App. 240", "172 Wash. App. 1012"]
+citations: ["174 Wash. App. 240"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The City of Seattle, Respondent, v. Robert D. Davis et al., Appellant
 source_url: "https://static.case.law/wash-app/174/cases/0240-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4054389
-cites_cases: ["135 Wn.2d 278", "174 Wn. App. 240", "216 F.3d 807", "24 F.3d 705", "29 F.3d 1495", "373 F. Supp. 2d 1094", "399 P.2d 611", "443 P.2d 833", "475 U.S, 41", "493 U.S. 215", "55 F. Supp. 2d 1131", "58 F.3d 988", "65 Wn.2d 817", "74 Wn.2d 161", "793 F.2d 1053", "84 Wn. App. 296", "87 F. Supp. 2d 800", "932 P.2d 646", "957 P.2d 621"]
+cites_cases: ["135 Wn.2d 278", "216 F.3d 807", "24 F.3d 705", "29 F.3d 1495", "373 F. Supp. 2d 1094", "399 P.2d 611", "443 P.2d 833", "475 U.S, 41", "493 U.S. 215", "55 F. Supp. 2d 1131", "58 F.3d 988", "65 Wn.2d 817", "74 Wn.2d 161", "793 F.2d 1053", "84 Wn. App. 296", "87 F. Supp. 2d 800", "932 P.2d 646", "957 P.2d 621"]
 ---
 
 # City of Seattle v. Davis
