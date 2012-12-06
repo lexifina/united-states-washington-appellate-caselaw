@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30282-2-III"
 decided: "2012-12-06"
-citations: ["173 Wash. App. 253", "172 Wash. App. 1017"]
+citations: ["173 Wash. App. 253"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Gary Lowe, Appellant, v. Carl Rowe, Jr., Respondent."]
 source_url: "https://static.case.law/wash-app/173/cases/0253-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4015316
-cites_cases: ["1 P.3d 1124", "103 P.3d 1230", "108 P.3d 1220", "119 Wn. App. 665", "128 P.3d 627", "131 Wn. App. 630", "141 Wn.2d 29", "147 Wn. App. 251", "151 Wn.2d 853", "153 Wn. App. 710", "153 Wn.2d 416", "153 Wn.2d 780", "157 Wn. App. 803", "162 Wn. App. 385", "164 Wn.2d 545", "171 Wn. App. 333", "173 Wn. App. 253", "177 Wn.2d 1018", "191 P.3d 1285", "192 P.3d 886", "225 P.3d 266", "239 P.3d 602", "254 P.3d 208", "273 P.2d 979", "287 P.3d 21", "38 Gonz. L. Rev. 263", "45 Wn.2d 265", "82 P.3d 1199", "93 P.3d 108", "95 Wn. App. 670", "977 P.2d 29"]
+cites_cases: ["1 P.3d 1124", "103 P.3d 1230", "108 P.3d 1220", "119 Wn. App. 665", "128 P.3d 627", "131 Wn. App. 630", "141 Wn.2d 29", "147 Wn. App. 251", "151 Wn.2d 853", "153 Wn. App. 710", "153 Wn.2d 416", "153 Wn.2d 780", "157 Wn. App. 803", "162 Wn. App. 385", "164 Wn.2d 545", "171 Wn. App. 333", "177 Wn.2d 1018", "191 P.3d 1285", "192 P.3d 886", "225 P.3d 266", "239 P.3d 602", "254 P.3d 208", "273 P.2d 979", "287 P.3d 21", "38 Gonz. L. Rev. 263", "45 Wn.2d 265", "82 P.3d 1199", "93 P.3d 108", "95 Wn. App. 670", "977 P.2d 29"]
 ---
 
 # Lowe v. Rowe
