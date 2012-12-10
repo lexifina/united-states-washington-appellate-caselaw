@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "67693-8-I"
 decided: "2012-12-10"
-citations: ["172 Wash. App. 688", "172 Wash. App. 1020"]
+citations: ["172 Wash. App. 688"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Janette Leding Ochoa, Appellant, v. Progressive Classic Insurance Com
 source_url: "https://static.case.law/wash-app/172/cases/0688-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4144269
-cites_cases: ["104 Wn.2d 518", "107 Wn.2d 721", "117 Wn.2d 37", "127 Wn.2d 409", "139 Wn.2d 443", "142 Wn.2d 801", "143 Wn. App. 753", "144 Wn.2d 869", "148 Wn.2d 35", "151 Wn.2d 303", "152 Wn.2d 463", "16 P.3d 583", "166 Wn.2d 912", "172 Wn. App. 688", "177 Wn.2d 1003", "189 P.3d 777", "215 P.3d 185", "31 P.3d 1164", "59 P.3d 611", "600 P.2d 1272", "63 Wn. App. 278", "707 P.2d 125", "733 P.2d 213", "811 P.2d 673", "818 P.2d 608", "88 P.3d 395", "899 P.2d 787", "92 Wn.2d 748", "98 P.3d 795", "986 P.2d 823"]
+cites_cases: ["104 Wn.2d 518", "107 Wn.2d 721", "117 Wn.2d 37", "127 Wn.2d 409", "139 Wn.2d 443", "142 Wn.2d 801", "143 Wn. App. 753", "144 Wn.2d 869", "148 Wn.2d 35", "151 Wn.2d 303", "152 Wn.2d 463", "16 P.3d 583", "166 Wn.2d 912", "177 Wn.2d 1003", "189 P.3d 777", "215 P.3d 185", "31 P.3d 1164", "59 P.3d 611", "600 P.2d 1272", "63 Wn. App. 278", "707 P.2d 125", "733 P.2d 213", "811 P.2d 673", "818 P.2d 608", "88 P.3d 395", "899 P.2d 787", "92 Wn.2d 748", "98 P.3d 795", "986 P.2d 823"]
 ---
 
 # Ochoa v. Progressive Classic Insurance
