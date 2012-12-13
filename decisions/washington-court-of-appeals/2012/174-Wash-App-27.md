@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30020-0-III; 30021-8-III"
 decided: "2012-12-13"
-citations: ["174 Wash. App. 27", "172 Wash. App. 1025"]
+citations: ["174 Wash. App. 27"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Janice Courchaine et al., Respondents, v. Commonwealth Land Title Ins
 source_url: "https://static.case.law/wash-app/174/cases/0027-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4053528
-cites_cases: ["101 Wn.2d 795", "102 Wn.2d 477", "103 Wn.2d 409", "105 Wn.2d 526", "105 Wn.2d 778", "106 Wn. App. 231", "106 Wn.2d 806", "113 Wn.2d 869", "114 Wn.2d 907", "116 P. 670", "12 Wn. App. 345", "120 Wn.2d 935", "121 Wn.2d 577", "121 Wn.2d 869", "134 Wn.2d 814", "138 Wn. App. 151", "138 Wn.2d 248", "144 Wn. App. 72", "145 Wn. App. 687", "145 Wn.2d 528", "147 Wn.2d 751", "150 Wn.2d 337", "159 P.3d 10", "166 Wn.2d 27", "174 Wn. App. 27", "180 P.3d 874", "186 P.3d 1188", "204 P.3d 885", "23 P.3d 520", "37 Wn. App. 1", "39 P.3d 984", "417 S.W.2d 429", "529 P.2d 883", "58 P.3d 276", "581 P.2d 1349", "588 P.2d 208", "64 Wash. 214", "680 P.2d 409", "684 P.2d 1281", "687 P.2d 1139", "693 P.2d 697", "71 Wn. App. 194", "716 P.2d 840", "719 P.2d 531", "725 P.2d 957", "77 P.3d 1174", "784 P.2d 507", "792 P.2d 520", "845 P.2d 1331", "852 P.2d 308", "854 P.2d 622", "859 P.2d 619", "90 Wn.2d 355", "91 Wn. App. 722", "91 Wn.2d 161", "93 Wn. App. 743", "953 P.2d 462", "959 P.2d 1158", "970 P.2d 361", "978 P.2d 505"]
+cites_cases: ["101 Wn.2d 795", "102 Wn.2d 477", "103 Wn.2d 409", "105 Wn.2d 526", "105 Wn.2d 778", "106 Wn. App. 231", "106 Wn.2d 806", "113 Wn.2d 869", "114 Wn.2d 907", "116 P. 670", "12 Wn. App. 345", "120 Wn.2d 935", "121 Wn.2d 577", "121 Wn.2d 869", "134 Wn.2d 814", "138 Wn. App. 151", "138 Wn.2d 248", "144 Wn. App. 72", "145 Wn. App. 687", "145 Wn.2d 528", "147 Wn.2d 751", "150 Wn.2d 337", "159 P.3d 10", "166 Wn.2d 27", "180 P.3d 874", "186 P.3d 1188", "204 P.3d 885", "23 P.3d 520", "37 Wn. App. 1", "39 P.3d 984", "417 S.W.2d 429", "529 P.2d 883", "58 P.3d 276", "581 P.2d 1349", "588 P.2d 208", "64 Wash. 214", "680 P.2d 409", "684 P.2d 1281", "687 P.2d 1139", "693 P.2d 697", "71 Wn. App. 194", "716 P.2d 840", "719 P.2d 531", "725 P.2d 957", "77 P.3d 1174", "784 P.2d 507", "792 P.2d 520", "845 P.2d 1331", "852 P.2d 308", "854 P.2d 622", "859 P.2d 619", "90 Wn.2d 355", "91 Wn. App. 722", "91 Wn.2d 161", "93 Wn. App. 743", "953 P.2d 462", "959 P.2d 1158", "970 P.2d 361", "978 P.2d 505"]
 ---
 
 # Courchaine v. Commonwealth Land Title Insurance
