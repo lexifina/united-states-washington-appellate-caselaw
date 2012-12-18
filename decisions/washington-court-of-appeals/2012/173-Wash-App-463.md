@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42276-0-II"
 decided: "2012-12-18"
-citations: ["173 Wash. App. 463", "172 Wash. App. 1031"]
+citations: ["173 Wash. App. 463"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["United Financial Casualty Company, Respondent, v. James T. Coleman et
 source_url: "https://static.case.law/wash-app/173/cases/0463-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4015634
-cites_cases: ["105 Wn. App. 846", "106 Wn.2d 73", "115 Wn.2d 657", "116 Wn.2d 563", "122 P.3d 729", "125 P. 156", "128 Wn.2d 656", "130 Wn. App. 234", "140 Wn.2d 568", "157 Wn.2d 1022", "167 Wn.2d 11", "172 Wn.2d 616", "173 Wn. App. 463", "205 P.2d 628", "216 P.3d 1007", "22 P.3d 804", "259 P.3d 256", "321 P.2d 266", "33 Wn.2d 334", "40 Wn. App. 630", "51 Wn.2d 685", "69 Wash. 408", "700 P.2d 338", "720 P.2d 787", "801 P.2d 222", "807 P.2d 356", "84 Wn. App. 687", "911 P.2d 1301", "929 P.2d 1182", "998 P.2d 305"]
+cites_cases: ["105 Wn. App. 846", "106 Wn.2d 73", "115 Wn.2d 657", "116 Wn.2d 563", "122 P.3d 729", "125 P. 156", "128 Wn.2d 656", "130 Wn. App. 234", "140 Wn.2d 568", "157 Wn.2d 1022", "167 Wn.2d 11", "172 Wn.2d 616", "205 P.2d 628", "216 P.3d 1007", "22 P.3d 804", "259 P.3d 256", "321 P.2d 266", "33 Wn.2d 334", "40 Wn. App. 630", "51 Wn.2d 685", "69 Wash. 408", "700 P.2d 338", "720 P.2d 787", "801 P.2d 222", "807 P.2d 356", "84 Wn. App. 687", "911 P.2d 1301", "929 P.2d 1182", "998 P.2d 305"]
 ---
 
 # United Financial Casualty Co. v. Coleman
