@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42757-5-II"
 decided: "2013-02-26"
-citations: ["174 Wash. App. 460", "173 Wash. App. 1028"]
+citations: ["174 Wash. App. 460"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Bobbi Woodward, as Personal Representative, Appellant, v. Hector Lope
 source_url: "https://static.case.law/wash-app/174/cases/0460-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4056851
-cites_cases: ["105 Wn.2d 847", "106 Wn.2d 1", "108 Wn. App. 91", "109 P.3d 805", "110 Wn.2d 355", "115 Wn.2d 506", "115 Wn.2d 609", "117 Wn.2d 619", "118 Wn.2d 451", "139 Wn. App. 152", "150 Wn.2d 821", "154 Wn.2d 16", "159 P.3d 453", "167 Wn.2d 11", "174 Wn. App. 460", "175 Wn.2d 1", "204 P.2d 839", "216 P.3d 1007", "268 P.2d 451", "282 P.3d 1083", "29 P.3d 758", "33 Wn.2d 151", "404 P.2d 770", "41 Wn. App. 183", "41 Wn. App. 861", "44 Wn.2d 502", "541 U.S. 36", "55 Wn. App. 324", "588 P.2d 1346", "644 P.2d 1153", "66 Wn.2d 664", "702 P.2d 1244", "707 P.2d 143", "719 P.2d 98", "721 P.2d 1", "753 P.2d 517", "77 Wn. App. 447", "777 P.2d 562", "799 P.2d 250", "801 P.2d 193", "818 P.2d 1056", "824 P.2d 1207", "83 P.3d 970", "892 P.2d 1095", "91 Wn.2d 345", "95 Wn. App. 431", "97 Wn.2d 360", "975 P2d 1033"]
+cites_cases: ["105 Wn.2d 847", "106 Wn.2d 1", "108 Wn. App. 91", "109 P.3d 805", "110 Wn.2d 355", "115 Wn.2d 506", "115 Wn.2d 609", "117 Wn.2d 619", "118 Wn.2d 451", "139 Wn. App. 152", "150 Wn.2d 821", "154 Wn.2d 16", "159 P.3d 453", "167 Wn.2d 11", "175 Wn.2d 1", "204 P.2d 839", "216 P.3d 1007", "268 P.2d 451", "282 P.3d 1083", "29 P.3d 758", "33 Wn.2d 151", "404 P.2d 770", "41 Wn. App. 183", "41 Wn. App. 861", "44 Wn.2d 502", "541 U.S. 36", "55 Wn. App. 324", "588 P.2d 1346", "644 P.2d 1153", "66 Wn.2d 664", "702 P.2d 1244", "707 P.2d 143", "719 P.2d 98", "721 P.2d 1", "753 P.2d 517", "77 Wn. App. 447", "777 P.2d 562", "799 P.2d 250", "801 P.2d 193", "818 P.2d 1056", "824 P.2d 1207", "83 P.3d 970", "892 P.2d 1095", "91 Wn.2d 345", "95 Wn. App. 431", "97 Wn.2d 360", "975 P2d 1033"]
 ---
 
 # Woodward v. Lopez
