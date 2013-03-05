@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43507-1-II"
 decided: "2013-03-05"
-citations: ["174 Wash. App. 733", "173 Wash. App. 1038"]
+citations: ["174 Wash. App. 733"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Welfare of X.T."]
 source_url: "https://static.case.law/wash-app/174/cases/0733-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4052621
-cites_cases: ["109 Wn. App. 718", "125 P.3d 245", "130 Wn. App. 912", "133 Wn.2d 389", "161 Wn.2d 927", "169 P.3d 452", "174 Wn. App. 733", "227 P.2d 335", "37 P.3d 1227", "45 Wn.2d 654", "506 P.2d 323", "513 P.2d 831", "61 Wn. App. 280", "637 P.2d 961", "76 Wn. App. 87", "8 Wn. App. 337", "810 P.2d 518", "82 Wn.2d 736", "882 P.2d 1180", "945 P.2d 1120", "96 Wn.2d 591"]
+cites_cases: ["109 Wn. App. 718", "125 P.3d 245", "130 Wn. App. 912", "133 Wn.2d 389", "161 Wn.2d 927", "169 P.3d 452", "227 P.2d 335", "37 P.3d 1227", "45 Wn.2d 654", "506 P.2d 323", "513 P.2d 831", "61 Wn. App. 280", "637 P.2d 961", "76 Wn. App. 87", "8 Wn. App. 337", "810 P.2d 518", "82 Wn.2d 736", "882 P.2d 1180", "945 P.2d 1120", "96 Wn.2d 591"]
 ---
 
 # In re the Welfare of X.T.
