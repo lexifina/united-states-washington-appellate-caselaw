@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41832-1-II"
 decided: "2013-03-05"
-citations: ["174 Wash. App. 475", "173 Wash. App. 1036"]
+citations: ["174 Wash. App. 475"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Marie Barnett et al., Respondents, v. Sequim Valley Ranch, LLC, et al
 source_url: "https://static.case.law/wash-app/174/cases/0475-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4052651
-cites_cases: ["102 Wn.2d 219", "106 Wn. App. 666", "109 P.3d 805", "114 Wn. App. 409", "115 Wn.2d 506", "117 Wn.2d 805", "120 Wn. App. 542", "121 Wn.2d 697", "125 P.3d 119", "127 P.3d 713", "128 Wn.2d 931", "129 Wn. App. 632", "129 Wn.2d 1023", "141 Wn.2d 431", "145 Wn.2d 233", "145 Wn.2d 379", "146 Wn.2d 237", "149 Wn.2d 1034", "151 Wn.2d 203", "151 Wn.2d 853", "154 Wn.2d 16", "156 Wn.2d 1036", "156 Wn.2d 168", "165 Wn.2d 200", "172 Wn.2d 524", "174 Wn. App. 475", "178 Wn.2d 1014", "193 P.3d 128", "207 Ct. Cl. 333", "22 P.3d 791", "259 P.3d 244", "31 P.3d 1186", "35 P.3d 1158", "36 P.3d 1014", "44 P.3d 845", "449 U.S. 250", "5 P.3d 1265", "518 F.2d 584", "55 Wn. App. 44", "58 P.3d 292", "58 Wn. App. 824", "65 Haw. 370", "652 P.2d 625", "685 P.2d 1081", "71 Wn. App. 132", "776 P.2d 1347", "795 P.2d 162", "799 P.2d 250", "80 Wn. App. 843", "818 P.2d 1362", "84 Wn. App. 393", "85 P.3d 959", "853 P.2d 908", "856 P.2d 746", "87 P.3d 757", "912 P.2d 1035", "913 P.2d 377", "92 Wn. App. 254", "928 P.2d 1108", "93 P.3d 108", "966 P.2d 327"]
+cites_cases: ["102 Wn.2d 219", "106 Wn. App. 666", "109 P.3d 805", "114 Wn. App. 409", "115 Wn.2d 506", "117 Wn.2d 805", "120 Wn. App. 542", "121 Wn.2d 697", "125 P.3d 119", "127 P.3d 713", "128 Wn.2d 931", "129 Wn. App. 632", "129 Wn.2d 1023", "141 Wn.2d 431", "145 Wn.2d 233", "145 Wn.2d 379", "146 Wn.2d 237", "149 Wn.2d 1034", "151 Wn.2d 203", "151 Wn.2d 853", "154 Wn.2d 16", "156 Wn.2d 1036", "156 Wn.2d 168", "165 Wn.2d 200", "172 Wn.2d 524", "178 Wn.2d 1014", "193 P.3d 128", "207 Ct. Cl. 333", "22 P.3d 791", "259 P.3d 244", "31 P.3d 1186", "35 P.3d 1158", "36 P.3d 1014", "44 P.3d 845", "449 U.S. 250", "5 P.3d 1265", "518 F.2d 584", "55 Wn. App. 44", "58 P.3d 292", "58 Wn. App. 824", "65 Haw. 370", "652 P.2d 625", "685 P.2d 1081", "71 Wn. App. 132", "776 P.2d 1347", "795 P.2d 162", "799 P.2d 250", "80 Wn. App. 843", "818 P.2d 1362", "84 Wn. App. 393", "85 P.3d 959", "853 P.2d 908", "856 P.2d 746", "87 P.3d 757", "912 P.2d 1035", "913 P.2d 377", "92 Wn. App. 254", "928 P.2d 1108", "93 P.3d 108", "966 P.2d 327"]
 ---
 
 # Barnett v. Sequim Valley Ranch, LLC
