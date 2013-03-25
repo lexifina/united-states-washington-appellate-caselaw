@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68138-9-I"
 decided: "2013-03-25"
-citations: ["175 Wash. App. 678", "174 Wash. App. 1024"]
+citations: ["175 Wash. App. 678"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
