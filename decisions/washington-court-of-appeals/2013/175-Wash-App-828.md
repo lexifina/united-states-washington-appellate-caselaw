@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "67821-3-I"
 decided: "2013-04-01"
-citations: ["175 Wash. App. 828", "174 Wash. App. 1028"]
+citations: ["175 Wash. App. 828"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Nichole Poletti, as Executor, Respondent, v. Overlake Hospital Medica
 source_url: "https://static.case.law/wash-app/175/cases/0828-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4191134
-cites_cases: ["107 Wn.2d 196", "113 P.3d 487", "115 Wn.2d 21", "127 Wn. App. 833", "142 P.3d 155", "156 Wn. App. 1012", "158 Wn.2d 194", "173 Wn.2d 353", "173 Wn.2d 59", "175 Wn. App. 828", "264 P.3d 783", "268 P.3d 215", "405 U.S. 504", "728 P.2d 138", "793 P.2d 962", "804 P.2d 1"]
+cites_cases: ["107 Wn.2d 196", "113 P.3d 487", "115 Wn.2d 21", "127 Wn. App. 833", "142 P.3d 155", "156 Wn. App. 1012", "158 Wn.2d 194", "173 Wn.2d 353", "173 Wn.2d 59", "264 P.3d 783", "268 P.3d 215", "405 U.S. 504", "728 P.2d 138", "793 P.2d 962", "804 P.2d 1"]
 ---
 
 # Poletti v. Overlake Hospital Medical Center
