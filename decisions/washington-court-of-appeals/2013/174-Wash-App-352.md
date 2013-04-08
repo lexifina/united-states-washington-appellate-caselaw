@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "67608-3-I"
+decided: "2013-04-08"
+citations: ["174 Wash. App. 352"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Leach, C.J., and Schindler, J., concur."]
+parties: ["BAC Home Loans Servicing, LP, Appellant, v. Michael Fulbright et al., Respondents."]
+source_url: "https://static.case.law/wash-app/174/cases/0352-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4053347
+cites_cases: ["166 Wn. App. 625", "178 Wn.2d 1001", "289 P.3d 645"]
+---
+
+# BAC Home Loans Servicing, LP v. Fulbright
+
+## Majority (Becker, J.)
+
+Becker, J.
+¶1 — This court addressed the priority of a lien for unpaid condominium assessments in Summerhill Village Homeowners Ass’n v. Roughley, 166 Wn. App. 625, 289 P.3d 645 (2012). As we held in Summerhill, the association’s lien arises under RCW 64.34.364(1) “from the time the assessment is due.” The reference to the recording of the condominium declaration in RCW 64.34.364(7) does not determine when the association’s lien arises. If the unit on which the association forecloses a superpriority lien is already subject to a deed of trust, the holder of the deed of trust is not a proper redemptioner because its lien is not “subsequent in time” to the lien on which the property was sold. RCW 6.23.010(l)(b). The trial court properly entered summary judgment rejecting the lender’s attempt to redeem.
+¶2 The condominium in this case is Tanglewood at Klahanie in Issaquah. In 2006, the declaration of condominium was recorded. In 2007, Bank of America recorded a deed of trust on a unit in the Tanglewood condominium. The deed of trust secured the bank’s loan of $277,000 to Jeanne Lewis for purchase of the unit.
+¶3 In May 2008, Lewis became delinquent in paying the monthly condominium assessments due to the Tanglewood homeowners’ association.
+¶4 In 2009, the association began a judicial foreclosure proceeding to collect the delinquent assessments. The lawsuit named Lewis, her marital community, and Bank of America as defendants. The bank was served with the summons and complaint the following week, in early February 2009. The bank did not respond. Lewis also failed to respond. In June 2009, the trial court entered a default judgment, order, and foreclosure decree against all defendants.
+¶5 In May 2010, the King County Sheriff’s Office held a public auction. Michael Fulbright, respondent in this appeal, bought the unit at the auction for a high bid of $14,481.83 — the total of the unpaid assessments, plus $100.00.
+¶6 In June 2010, the sale was confirmed by court order.
+¶7 In April 2011, within the statutory time limit for redemption, Bank of America notified the sheriff’s office of its intent to redeem the unit under the Washington redemption law, chapter 6.23 RCW. The bank intended to redeem the unit from Fulbright by paying him the purchase price he paid at the sheriff’s sale, plus Fulbright’s costs and accrued interest. The sheriff’s office forwarded the notice to Fulbright. Fulbright objected that the bank was not a qualified redemptioner. The bank sent the sheriff’s office a cashier’s check. The sheriff’s office refused to issue a certificate of redemption.
+¶8 In May 2011, the bank sued Fulbright in superior court, seeking a declaratory judgment that it was authorized to redeem the property. Fulbright counterclaimed for an order quieting title in his favor. There were no disputed issues of fact. The trial court denied the bank’s motion for summary judgment and quieted title in Fulbright. The bank then brought this appeal.
+¶9 Bank of America contends the trial court erred in its interpretation of the condominium assessment lien statute, RCW 64.34.364, as it applies to Washington’s redemption statute, RCW 6.23.010.
+¶10 We considered the interaction of these statutes in our recent opinion in Summerhill, a factually similar case. Summerhill, 166 Wn. App. at 628-32. We adhere to that opinion and rely on it in affirming the trial court’s decision in this case. The only difference between this opinion and Summerhill is that here we have the opportunity to amplify our reasons for holding that a condominium association’s superpriority lien for unpaid assessments for common expenses arises after the deed of trust lien on the unit, not before — notwithstanding RCW 64.34.364(7).
+¶11 In Summerhill, the issue of the effect of RCW 64.34.364(7) was raised belatedly in a motion for reconsideration by GMAC Mortgage LLC, the entity in the position that Bank of America occupies in the present case. We issued a substitute opinion in which we briefly addressed the new argument in a footnote. The footnote stated:
+RCW 64.34.364(7) provides that recording of a condominium association declaration “constitutes record notice and perfection of the lien for assessments.” In a motion for reconsideration, GMAC contends this provision means any mortgage loan made after the filing of the declaration is subsequent in time for purposes of RCW 6.23.010(l)(b). We reject this contention. The association’s lien does not arise until the “assessment is due.” RCW 64.34.364(1).
+Summerhill, 166 Wn. App. at 629 n.7.
+¶12 In the present case, Bank of America disputes SummerhilVs holding that an association’s lien for an assessment does not arise until the assessment is due. The bank makes RCW 64.34.364(7) the centerpiece of its argument that an association’s lien arises earlier, when the declaration of condominium is recorded. The bank thus argues that because the Tanglewood declaration of condominium was recorded in 2006 and the bank’s deed of trust was not recorded until 2007, the bank’s deed of trust was “subsequent in time” to the assessment lien and was therefore subject to redemption under RCW 6.23.010.
+¶13 The relevant provisions of the condominium assessment lien statute are as follows:
+Lien for assessments. (1) The association has a lien on a unit for any unpaid assessments levied against a unit from the time the assessment is due.
+(7) Recording of the declaration constitutes record notice and perfection of the lien for assessments. While no further recording of any claim of lien for assessment under this section shall be required to perfect the association’s lien, the association may record a notice of claim of lien for assessments under this section in the real property records of any county in which the condominium is located. Such recording shall not constitute the written notice of delinquency to a mortgagee referred to in subsection (2) of this section.
+RCW 64.34.364.
+¶14 According to the bank, the only function of subsection (1) is to state the time when the right to enforce the already existing lien begins. The bank argues that the lien comes into existence at the time the declaration of condominium is recorded because under subsection (7), the recording of the declaration “constitutes record notice and perfection of the lien for assessments.”
+¶15 The bank fails to explain its assertion that the terms “record notice and perfection” in subsection (7) necessarily signify the time at which a lien comes into being. The bank argues that a lien cannot be “perfected” that does not yet exist, but the bank does not cite authority for this proposition.
+¶16 Subsection (1) speaks directly to timing. “The association has a lien on a unit for any unpaid assessments levied against a unit from the time the assessment is due.” RCW 64.34.364(1) (emphasis added). Stated another way, before “the time the assessment is due,” the association has no lien.
+¶17 The lien expressly belongs to the association. It is described in subsection (1) as “a lien ... for any unpaid assessments levied” against a unit. RCW 64.34.364(1) (emphasis added). An assessment against a unit cannot be “unpaid” until a unit owner’s association has been organized, the association levies assessments against the unit, and the association receives no payment within the allotted time. At the time the declaration of condominium is recorded, none of these events have occurred. Therefore, a lien for unpaid assessments cannot exist at that time.
+¶18 The meaning of subsection (7) is that the recording of the condominium declaration “constitutes record notice and perfection of the lien for assessments” that may arise in the future as provided by subsection (1). Recording of the declaration does not accelerate when an actual lien for any given assessment arises or first exists. Recording of the declaration simply gives notice to the world that assessment liens may arise in the future against units in the condominium.
+¶19 The Tanglewood condominium declaration was recorded in 2006. When Bank of America’s deed of trust against the Lewis unit was recorded in 2007, the recording of the declaration gave the bank notice that a future assessment lien might arise if Lewis became delinquent on her assessments. As it turned out, Lewis did become delinquent in May 2008. From May 2008 onward, the Tangle-wood association had a lien against the Lewis unit. When the association initiated foreclosure proceedings, the bank was made a defendant and received notice. This was the bank’s opportunity to step in and pay off the delinquent assessments in order to avoid having its own lien eliminated. See Summerhill, 166 Wn. App. at 629 & n.6. The bank missed this opportunity.
+¶20 The bank’s deed of trust was recorded before the lien for assessments came into existence, not afterwards. Because its lien was not “subsequent in time” to the association’s lien as required by RCW 6.23.010(2) for the bank to be an authorized redemptioner, the redemption statute does not afford the bank a second chance to protect its lien.
+¶21 Affirmed.
+Leach, C.J., and Schindler, J., concur.
+Review granted at 178 Wn.2d 1001 (2013).
+Although the caption refers to the appellant in this case as BAC Home Loans Servicing LP, the parties’ briefs reflect that this entity has merged into Bank of America and that Bank of America is now the proper appellant.
