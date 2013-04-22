@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69864-8-I"
 decided: "2013-04-22"
-citations: ["175 Wash. App. 1", "174 Wash. App. 1048"]
+citations: ["175 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Miguel Angel Villanueva-Gonza
 source_url: "https://static.case.law/wash-app/175/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4193724
-cites_cases: ["108 P.3d 753", "125 Wn.2d 769", "127 Wn.2d 95", "136 Wn.2d 629", "139 Wn.2d 107", "145 Wn.2d 607", "153 Wn.2d 765", "163 Wn.2d 664", "164 F.3d 1", "168 Wn. App. 30", "168 Wn.2d 72", "175 Wn. App. 1", "179 Wn.2d 1008", "185 P3d 1151", "226 P.3d 773", "275 P.3d 1162", "284 U.S. 299", "334 U.S. App. D.C. 1", "40 P.3d 669", "888 P.2d 155", "896 P.2d 1267", "95 Colum. L. Rev. 1", "965 P.2d 1072", "985 P.2d 365"]
+cites_cases: ["108 P.3d 753", "125 Wn.2d 769", "127 Wn.2d 95", "136 Wn.2d 629", "139 Wn.2d 107", "145 Wn.2d 607", "153 Wn.2d 765", "163 Wn.2d 664", "164 F.3d 1", "168 Wn. App. 30", "168 Wn.2d 72", "179 Wn.2d 1008", "185 P3d 1151", "226 P.3d 773", "275 P.3d 1162", "284 U.S. 299", "334 U.S. App. D.C. 1", "40 P.3d 669", "888 P.2d 155", "896 P.2d 1267", "95 Colum. L. Rev. 1", "965 P.2d 1072", "985 P.2d 365"]
 ---
 
 # State v. Villanueva-Gonzalez
