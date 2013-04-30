@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "41718-9-II"
 decided: "2013-04-30"
-citations: ["175 Wash. App. 9", "174 Wash. App. 1062"]
+citations: ["175 Wash. App. 9"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Roger R. Martin, Respondent, v. The Department of Licensing, Petition
 source_url: "https://static.case.law/wash-app/175/cases/0009-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4192455
-cites_cases: ["109 Wn. App. 371", "114 Wn. App. 726", "119 P.3d 889", "128 P.3d 1241", "129 Wn. App. 556", "131 Wn. App. 255", "138 Wn.2d 783", "147 Wn.2d 41", "150 Wn.2d 821", "150 Wn.2d 881", "163 Wn. App. 697", "169 Wn. App. 304", "175 Wn. App. 9", "262 P.3d 65", "279 P.3d 963", "35 P.3d 1171", "50 P.3d 627", "527 P.2d 1318", "541 U.S. 36", "60 P.3d 615", "605 P.2d 1265", "83 P.3d 970", "83 P.3d 999", "84 Wn.2d 568", "93 Wn.2d 80", "94 Wn. App. 357", "971 P.2d 969", "982 P.2d 601", "99 Wn. App. 414", "994 P.2d 262"]
+cites_cases: ["109 Wn. App. 371", "114 Wn. App. 726", "119 P.3d 889", "128 P.3d 1241", "129 Wn. App. 556", "131 Wn. App. 255", "138 Wn.2d 783", "147 Wn.2d 41", "150 Wn.2d 821", "150 Wn.2d 881", "163 Wn. App. 697", "169 Wn. App. 304", "262 P.3d 65", "279 P.3d 963", "35 P.3d 1171", "50 P.3d 627", "527 P.2d 1318", "541 U.S. 36", "60 P.3d 615", "605 P.2d 1265", "83 P.3d 970", "83 P.3d 999", "84 Wn.2d 568", "93 Wn.2d 80", "94 Wn. App. 357", "971 P.2d 969", "982 P.2d 601", "99 Wn. App. 414", "994 P.2d 262"]
 ---
 
 # Martin v. Department of Licensing
