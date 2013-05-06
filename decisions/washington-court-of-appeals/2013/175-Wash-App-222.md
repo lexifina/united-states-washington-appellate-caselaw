@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68259-8-I"
 decided: "2013-05-06"
-citations: ["175 Wash. App. 222", "174 Wash. App. 1068"]
+citations: ["175 Wash. App. 222"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Berschauer Phillips Construction Company, Appellant, v. Mutual of Enu
 source_url: "https://static.case.law/wash-app/175/cases/0222-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4190896
-cites_cases: ["100 Wn.2d 660", "106 Wn.2d 855", "124 P.2d 950", "13 Wn.2d 263", "137 Wn. App. 296", "150 Wn.2d 791", "153 P.3d 211", "160 Wn. App. 1039", "162 Wn. App. 1029", "162 Wn. App. 596", "162 Wn. App. 90", "165 Pac. 397", "167 Wn. App. 522", "171 Wn.2d 726", "173 Wn.2d 1002", "173 Wn.2d 1003", "175 Wn. App. 222", "181 Wash. 565", "2 Wn. App. 519", "201 Cal. 29", "2011 WL 1107228", "2011 WL 2519849", "253 P.3d 108", "254 P.3d 818", "255 P. 512", "256 P.3d 406", "280 P.3d 1123", "34 Wn. App. 825", "423 P.2d 624", "44 P.2d 184", "468 P.2d 724", "60 Wash. L. Rev. 805", "60 Wn. App. 433", "60 Wn. App. 496", "664 P.2d 527", "674 P.2d 165", "70 Wn.2d 438", "726 P.2d 1", "78 Wn. App. 115", "804 P.2d 1271", "804 P.2d 649", "83 P.3d 419", "897 P.2d 365", "96 Wash. 505"]
+cites_cases: ["100 Wn.2d 660", "106 Wn.2d 855", "124 P.2d 950", "13 Wn.2d 263", "137 Wn. App. 296", "150 Wn.2d 791", "153 P.3d 211", "160 Wn. App. 1039", "162 Wn. App. 1029", "162 Wn. App. 596", "162 Wn. App. 90", "165 Pac. 397", "167 Wn. App. 522", "171 Wn.2d 726", "173 Wn.2d 1002", "173 Wn.2d 1003", "181 Wash. 565", "2 Wn. App. 519", "201 Cal. 29", "2011 WL 1107228", "2011 WL 2519849", "253 P.3d 108", "254 P.3d 818", "255 P. 512", "256 P.3d 406", "280 P.3d 1123", "34 Wn. App. 825", "423 P.2d 624", "44 P.2d 184", "468 P.2d 724", "60 Wash. L. Rev. 805", "60 Wn. App. 433", "60 Wn. App. 496", "664 P.2d 527", "674 P.2d 165", "70 Wn.2d 438", "726 P.2d 1", "78 Wn. App. 115", "804 P.2d 1271", "804 P.2d 649", "83 P.3d 419", "897 P.2d 365", "96 Wash. 505"]
 ---
 
 # Berschauer Phillips Construction Co. v. Mutual of Enumclaw Insurance
