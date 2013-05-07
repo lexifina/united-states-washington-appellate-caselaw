@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30666-6-III"
 decided: "2013-05-07"
-citations: ["175 Wash. App. 233", "174 Wash. App. 1071"]
+citations: ["175 Wash. App. 233"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The City of Yakima, Respondent, v. Julio Mendoza Godoy, Petitioner."]
 source_url: "https://static.case.law/wash-app/175/cases/0233-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4192369
-cites_cases: ["103 Wn.2d 383", "118 Wn.2d 551", "123 P.3d 854", "130 Wn. App. 481", "136 Wn.2d 767", "149 Wn.2d 178", "175 Wn. App. 233", "178 Wn.2d 1019", "36 Wn. App. 439", "66 P.3d 1050", "674 P.2d 690", "693 P.2d 683", "825 P.2d 314", "966 P.2d 883"]
+cites_cases: ["103 Wn.2d 383", "118 Wn.2d 551", "123 P.3d 854", "130 Wn. App. 481", "136 Wn.2d 767", "149 Wn.2d 178", "178 Wn.2d 1019", "36 Wn. App. 439", "66 P.3d 1050", "674 P.2d 690", "693 P.2d 683", "825 P.2d 314", "966 P.2d 883"]
 ---
 
 # City of Yakima v. Godoy
