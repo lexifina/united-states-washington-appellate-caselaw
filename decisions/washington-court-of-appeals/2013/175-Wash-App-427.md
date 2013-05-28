@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68249-1-I"
 decided: "2013-05-28"
-citations: ["175 Wash. App. 427", "175 Wash. App. 1003"]
+citations: ["175 Wash. App. 427"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Reginald Peter Saunders et al., Respondents, v. Vernon I. Meyers et a
 source_url: "https://static.case.law/wash-app/175/cases/0427-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4188635
-cites_cases: ["103 Wn.2d 383", "115 Wn.2d 657", "122 Wn. App. 592", "131 Wn.2d 266", "131 Wn.2d 612", "136 Wn. App. 327", "137 Wn.2d 683", "139 Wn. App. 78", "148 Wn. App. 40", "149 P.3d 402", "152 Wn.2d 299", "154 Wn. App. 129", "160 P.3d 1050", "161 Wn. App. 824", "163 Wn. App. 199", "173 Wn.2d 1031", "175 Wn. App. 427", "203 P.3d 383", "225 P.3d 330", "251 P.3d 917", "258 P.3d 70", "277 P.3d 68", "450 P.2d 470", "693 P.2d 683", "71 Wn. App. 120", "75 Wn.2d 241", "801 P.2d 222", "857 P.2d 1053", "931 P.2d 156", "934 P.2d 669", "94 P.3d 961", "96 P.3d 957", "974 P.2d 836"]
+cites_cases: ["103 Wn.2d 383", "115 Wn.2d 657", "122 Wn. App. 592", "131 Wn.2d 266", "131 Wn.2d 612", "136 Wn. App. 327", "137 Wn.2d 683", "139 Wn. App. 78", "148 Wn. App. 40", "149 P.3d 402", "152 Wn.2d 299", "154 Wn. App. 129", "160 P.3d 1050", "161 Wn. App. 824", "163 Wn. App. 199", "173 Wn.2d 1031", "203 P.3d 383", "225 P.3d 330", "251 P.3d 917", "258 P.3d 70", "277 P.3d 68", "450 P.2d 470", "693 P.2d 683", "71 Wn. App. 120", "75 Wn.2d 241", "801 P.2d 222", "857 P.2d 1053", "931 P.2d 156", "934 P.2d 669", "94 P.3d 961", "96 P.3d 957", "974 P.2d 836"]
 ---
 
 # Saunders v. Meyers
