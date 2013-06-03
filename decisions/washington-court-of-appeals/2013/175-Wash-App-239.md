@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68227-0-I"
 decided: "2013-06-03"
-citations: ["175 Wash. App. 239", "175 Wash. App. 1008"]
+citations: ["175 Wash. App. 239"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Shepler Construction, Inc., Respondent, v. Gary Leonard et al., Appel
 source_url: "https://static.case.law/wash-app/175/cases/0239-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4192326
-cites_cases: ["101 Wn. App. 954", "109 P.3d 830", "110 Wn.2d 99", "111 Wn. App. 306", "119 Wn.2d 401", "119 Wn.2d 780", "126 Wn. App. 856", "132 Wn. App. 1054", "140 Wn. App. 470", "142 Wn. App. 369", "144 Wn.2d 306", "150 Wn.2d 3", "153 Wn. App 1035", "159 Wn. App. 82", "164 P.3d 511", "165 Wn.2d 582", "166 Wn.2d 510", "174 P.3d 1231", "175 Wn. App. 239", "2006 WL 1217216", "2009 WL 5153672", "201 P.3d 309", "210 P.3d 318", "246 P.3d 205", "27 P.3d 600", "44 P.3d 894", "6 P.3d 91", "617 P.2d 704", "751 P.2d 282", "77 Wn. App. 137", "78 P.3d 161", "832 P.2d 78", "836 P.2d 832", "89 Wn. App. 893", "890 P.2d 1071", "94 Wn.2d 359", "951 P.2d 311", "98 Wn. App. 286", "991 P.2d 638"]
+cites_cases: ["101 Wn. App. 954", "109 P.3d 830", "110 Wn.2d 99", "111 Wn. App. 306", "119 Wn.2d 401", "119 Wn.2d 780", "126 Wn. App. 856", "132 Wn. App. 1054", "140 Wn. App. 470", "142 Wn. App. 369", "144 Wn.2d 306", "150 Wn.2d 3", "153 Wn. App 1035", "159 Wn. App. 82", "164 P.3d 511", "165 Wn.2d 582", "166 Wn.2d 510", "174 P.3d 1231", "2006 WL 1217216", "2009 WL 5153672", "201 P.3d 309", "210 P.3d 318", "246 P.3d 205", "27 P.3d 600", "44 P.3d 894", "6 P.3d 91", "617 P.2d 704", "751 P.2d 282", "77 Wn. App. 137", "78 P.3d 161", "832 P.2d 78", "836 P.2d 832", "89 Wn. App. 893", "890 P.2d 1071", "94 Wn.2d 359", "951 P.2d 311", "98 Wn. App. 286", "991 P.2d 638"]
 ---
 
 # Shepler Construction, Inc. v. Leonard
