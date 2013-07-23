@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31042-6-III"
 decided: "2013-07-23"
-citations: ["176 Wash. App. 453", "175 Wash. App. 1054"]
+citations: ["176 Wash. App. 453"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Robin Johnson et al., Appellants, v. Spokane to Sandpoint, LLC, et al
 source_url: "https://static.case.law/wash-app/176/cases/0453-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4270674
-cites_cases: ["106 Wn. App. 506", "109 Wn. App. 334", "11 Wn. App. 72", "110 Wn.2d 845", "113 Wn. App. 442", "118 Wn.2d 476", "119 Wn.2d 484", "124 Wn.2d 121", "128 Wn.2d 840", "146 Wn. App. 16", "176 Wn. App. 453", "187 Wash. 399", "189 P.3d 807", "24 P.3d 413", "30 Wn. App. 571", "32 Cal. Rptr. 33", "35 P.3d 383", "383 P.2d 441", "407 P.2d 798", "45 Wn. App. 847", "484 P.2d 405", "521 P.2d 244", "54 P.3d 161", "56 Wn. App. 80", "60 Cal. 2d 92", "60 P.2d 234", "636 P.2d 492", "67 Wn.2d 322", "71 Wn. App. 657", "728 P.2d 617", "758 P.2d 968", "782 P.2d 574", "79 Wn. App. 732", "79 Wn.2d 198", "824 P.2d 483", "834 P.2d 6", "862 P.2d 592", "875 P.2d 621", "904 P.2d 793", "913 P.2d 779"]
+cites_cases: ["106 Wn. App. 506", "109 Wn. App. 334", "11 Wn. App. 72", "110 Wn.2d 845", "113 Wn. App. 442", "118 Wn.2d 476", "119 Wn.2d 484", "124 Wn.2d 121", "128 Wn.2d 840", "146 Wn. App. 16", "187 Wash. 399", "189 P.3d 807", "24 P.3d 413", "30 Wn. App. 571", "32 Cal. Rptr. 33", "35 P.3d 383", "383 P.2d 441", "407 P.2d 798", "45 Wn. App. 847", "484 P.2d 405", "521 P.2d 244", "54 P.3d 161", "56 Wn. App. 80", "60 Cal. 2d 92", "60 P.2d 234", "636 P.2d 492", "67 Wn.2d 322", "71 Wn. App. 657", "728 P.2d 617", "758 P.2d 968", "782 P.2d 574", "79 Wn. App. 732", "79 Wn.2d 198", "824 P.2d 483", "834 P.2d 6", "862 P.2d 592", "875 P.2d 621", "904 P.2d 793", "913 P.2d 779"]
 ---
 
 # Johnson v. Spokane to Sandpoint, LLC
