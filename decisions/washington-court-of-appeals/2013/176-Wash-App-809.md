@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69252-6-I"
 decided: "2013-08-05"
-citations: ["176 Wash. App. 809", "175 Wash. App. 1069"]
+citations: ["176 Wash. App. 809"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["John H. Thomas, Appellant, v. The Employment Security Department, Res
 source_url: "https://static.case.law/wash-app/176/cases/0809-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4270806
-cites_cases: ["102 Wn.2d 385", "110 Wn. App. 440", "118 Wn.2d 801", "122 Wn.2d 397", "135 Wn. App. 887", "146 P.3d 475", "155 Wn. App. 24", "164 Wn.2d 909", "168 Wn. App. 721", "175 Wn.2d 1028", "176 Wn. App. 809", "194 P.3d 255", "226 P.3d 263", "26 U.S.C. § 3304", "281 P.3d 310", "41 P.3d 510", "484 N.W.2d 432", "52 Wn. App. 401", "687 P.2d 195", "72 Wn. App. 862", "760 P.2d 959", "780 N.W.2d 385", "828 P.2d 549", "858 P.2d 494", "866 P.2d 687", "96 Wn. App. 522", "979 P.2d 864"]
+cites_cases: ["102 Wn.2d 385", "110 Wn. App. 440", "118 Wn.2d 801", "122 Wn.2d 397", "135 Wn. App. 887", "146 P.3d 475", "155 Wn. App. 24", "164 Wn.2d 909", "168 Wn. App. 721", "175 Wn.2d 1028", "194 P.3d 255", "226 P.3d 263", "26 U.S.C. § 3304", "281 P.3d 310", "41 P.3d 510", "484 N.W.2d 432", "52 Wn. App. 401", "687 P.2d 195", "72 Wn. App. 862", "760 P.2d 959", "780 N.W.2d 385", "828 P.2d 549", "858 P.2d 494", "866 P.2d 687", "96 Wn. App. 522", "979 P.2d 864"]
 ---
 
 # Thomas v. Employment Security Department
