@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "67770-5-I"
 decided: "2013-08-05"
-citations: ["177 Wash. App. 1", "175 Wash. App. 1066"]
+citations: ["177 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Marion Rucker et al., Appellants, v. NovaStar Mortgage, Inc., et al.,
 source_url: "https://static.case.law/wash-app/177/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4318789
-cites_cases: ["1 P.3d 1124", "103 Wn.2d 383", "106 Wn.2d 1", "112 Wn.2d 127", "119 P.3d 884", "129 Wn. App. 532", "141 Wn.2d 29", "149 Wn.2d 214", "159 Wn. App. 654", "174 Wn.2d 560", "175 Wn.2d 83", "176 Wn. App. 294", "176 Wn.2d 771", "177 Wn. App. 1", "177 Wn.2d 94", "246 P.3d 835", "276 P.3d 1277", "285 P.3d 34", "295 P.3d 1179", "297 P.3d 677", "308 P.3d 716", "463 P.2d 159", "67 P.3d 1061", "693 P.2d 683", "721 P.2d 1", "769 P.2d 298", "77 Wn.2d 396"]
+cites_cases: ["1 P.3d 1124", "103 Wn.2d 383", "106 Wn.2d 1", "112 Wn.2d 127", "119 P.3d 884", "129 Wn. App. 532", "141 Wn.2d 29", "149 Wn.2d 214", "159 Wn. App. 654", "174 Wn.2d 560", "175 Wn.2d 83", "176 Wn. App. 294", "176 Wn.2d 771", "177 Wn.2d 94", "246 P.3d 835", "276 P.3d 1277", "285 P.3d 34", "295 P.3d 1179", "297 P.3d 677", "308 P.3d 716", "463 P.2d 159", "67 P.3d 1061", "693 P.2d 683", "721 P.2d 1", "769 P.2d 298", "77 Wn.2d 396"]
 ---
 
 # Rucker v. NovaStar Mortgage, Inc.
