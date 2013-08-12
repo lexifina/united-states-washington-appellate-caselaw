@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68749-2-I"
 decided: "2013-08-12"
-citations: ["177 Wash. App. 22", "175 Wash. App. 1073"]
+citations: ["177 Wash. App. 22"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Washington Federal Savings, Appellant, v. Michael P. Klein, as Person
 source_url: "https://static.case.law/wash-app/177/cases/0022-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4319801
-cites_cases: ["103 S. Ct. 2706", "106 Wn.2d 1", "144 Wn. App. 501", "146 Wn.2d 291", "165 Wn.2d 1017", "177 Wn. App. 22", "179 Wn.2d 1019", "182 P.3d 985", "266 Kan. 449", "380 P.2d 870", "45 P.3d 1068", "462 U.S. 791", "485 U.S. 478", "488 U.S. 1005", "62 Wn.2d 50", "635 So. 2d 1389", "721 P.2d 1", "852 F.2d 646"]
+cites_cases: ["103 S. Ct. 2706", "106 Wn.2d 1", "144 Wn. App. 501", "146 Wn.2d 291", "165 Wn.2d 1017", "179 Wn.2d 1019", "182 P.3d 985", "266 Kan. 449", "380 P.2d 870", "45 P.3d 1068", "462 U.S. 791", "485 U.S. 478", "488 U.S. 1005", "62 Wn.2d 50", "635 So. 2d 1389", "721 P.2d 1", "852 F.2d 646"]
 ---
 
 # Washington Federal Savings v. Klein
