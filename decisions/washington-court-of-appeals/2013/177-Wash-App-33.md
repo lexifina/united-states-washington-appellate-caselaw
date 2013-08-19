@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68309-8-I"
 decided: "2013-08-19"
-citations: ["177 Wash. App. 33", "176 Wash. App. 1004"]
+citations: ["177 Wash. App. 33"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["West Consultants, Inc., Appellant, v. Carolyn E. Davis et al., Respon
 source_url: "https://static.case.law/wash-app/177/cases/0033-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4320423
-cites_cases: ["114 Wn.2d 109", "122 Wn.2d 141", "122 Wn.2d 299", "140 Wn.2d 568", "147 Wn. App. 17", "159 Wn. App. 389", "160 Wn.2d 826", "161 P.3d 1016", "164 Wn.2d 372", "171 Wn.2d 1024", "176 Wn.2d 368", "177 Wn. App. 33", "190 P.3d 102", "191 P.3d 845", "245 P.3d 779", "292 P.3d 108", "786 P.2d 265", "858 P.2d 1054", "859 P.2d 1210", "86 Wn. App. 613", "937 P.2d 1158", "998 P.2d 305"]
+cites_cases: ["114 Wn.2d 109", "122 Wn.2d 141", "122 Wn.2d 299", "140 Wn.2d 568", "147 Wn. App. 17", "159 Wn. App. 389", "160 Wn.2d 826", "161 P.3d 1016", "164 Wn.2d 372", "171 Wn.2d 1024", "176 Wn.2d 368", "190 P.3d 102", "191 P.3d 845", "245 P.3d 779", "292 P.3d 108", "786 P.2d 265", "858 P.2d 1054", "859 P.2d 1210", "86 Wn. App. 613", "937 P.2d 1158", "998 P.2d 305"]
 ---
 
 # West Consultants, Inc. v. Davis
