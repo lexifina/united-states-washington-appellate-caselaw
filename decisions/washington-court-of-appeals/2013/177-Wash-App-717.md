@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68267-9-I"
 decided: "2013-09-03"
-citations: ["177 Wash. App. 717", "176 Wash. App. 1014"]
+citations: ["177 Wash. App. 717"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Lewis C. Colley et al., Appellants, v. PeaceHealth, Respondent."]
 source_url: "https://static.case.law/wash-app/177/cases/0717-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4319203
-cites_cases: ["104 Wn.2d 613", "106 Wn.2d 685", "108 P.3d 1273", "113 Wn. App. 807", "126 Wn. App. 510", "144 Wn.2d 91", "149 Wn.2d 1018", "166 Wn.2d 974", "168 Wn. App. 30", "172 Wn. App. 9", "177 Wn. App. 717", "177 Wn.2d 1008", "216 P.3d 374", "26 P.3d 257", "275 P.3d 1162", "292 P.3d 764", "365 P.2d 333", "38 Wn. App. 274", "55 P.3d 661", "58 Wn.2d 879", "62 Wn. App. 544", "686 P.2d 1102", "707 P.2d 685", "724 P.2d 997", "815 P.2d 798"]
+cites_cases: ["104 Wn.2d 613", "106 Wn.2d 685", "108 P.3d 1273", "113 Wn. App. 807", "126 Wn. App. 510", "144 Wn.2d 91", "149 Wn.2d 1018", "166 Wn.2d 974", "168 Wn. App. 30", "172 Wn. App. 9", "177 Wn.2d 1008", "216 P.3d 374", "26 P.3d 257", "275 P.3d 1162", "292 P.3d 764", "365 P.2d 333", "38 Wn. App. 274", "55 P.3d 661", "58 Wn.2d 879", "62 Wn. App. 544", "686 P.2d 1102", "707 P.2d 685", "724 P.2d 997", "815 P.2d 798"]
 ---
 
 # Colley v. PeaceHealth
