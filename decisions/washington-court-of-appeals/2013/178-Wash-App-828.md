@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68029-3-I"
 decided: "2013-09-16"
-citations: ["178 Wash. App. 828", "176 Wash. App. 1022"]
+citations: ["178 Wash. App. 828"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Joel Johnson, Appellant, v. Safeco Insurance Company of America et al
 source_url: "https://static.case.law/wash-app/178/cases/0828-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4347204
-cites_cases: ["102 Wn.2d 571", "109 Wn. App. 405", "110 P.3d 733", "110 Wn.2d 643", "118 Wn.2d 801", "124 P.2d 950", "124 Wn.2d 1", "124 Wn.2d 789", "125 Wn.2d 120", "128 Wn.2d 366", "13 Wn.2d 263", "131 Wn.2d 1", "134 Wn.2d 713", "142 Wn.2d 654", "144 Wn.2d 907", "15 P.3d 115", "153 Wn. App. 339", "154 Wn.2d 165", "157 Wash. 88", "159 Wn. App. 874", "16 A.L.R.3d 774", "178 Wn. App. 828", "180 Wn.2d 1006", "223 P.3d 1180", "246 P.3d 856", "25 Wn. App. 766", "288 P. 262", "32 P.3d 250", "36 P.3d 1065", "37 Wn. App. 554", "38 Wn. App. 580", "44 Wn. App. 121", "54 Wn. App. 492", "57 Wn. App. 886", "609 P.2d 456", "656 P.2d 1030", "68 Wn. App. 224", "681 P.2d 1294", "686 P.2d 1086", "688 P.2d 865", "721 P.2d 972", "74 Wn. App. 858", "757 P.2d 499", "774 P.2d 50", "78 Wn. App. 958", "790 P.2d 1254", "828 P.2d 549", "842 P.2d 504", "859 F.Supp. 1338", "873 P.2d 1185", "876 P.2d 463", "881 P.2d 1020", "881 P.2d 1035", "904 P.2d 767", "907 P.2d 290", "929 P.2d 396", "94 Wn. App. 803", "952 P.2d 157", "973 P.2d 8", "98 Wn.2d 434"]
+cites_cases: ["102 Wn.2d 571", "109 Wn. App. 405", "110 P.3d 733", "110 Wn.2d 643", "118 Wn.2d 801", "124 P.2d 950", "124 Wn.2d 1", "124 Wn.2d 789", "125 Wn.2d 120", "128 Wn.2d 366", "13 Wn.2d 263", "131 Wn.2d 1", "134 Wn.2d 713", "142 Wn.2d 654", "144 Wn.2d 907", "15 P.3d 115", "153 Wn. App. 339", "154 Wn.2d 165", "157 Wash. 88", "159 Wn. App. 874", "16 A.L.R.3d 774", "180 Wn.2d 1006", "223 P.3d 1180", "246 P.3d 856", "25 Wn. App. 766", "288 P. 262", "32 P.3d 250", "36 P.3d 1065", "37 Wn. App. 554", "38 Wn. App. 580", "44 Wn. App. 121", "54 Wn. App. 492", "57 Wn. App. 886", "609 P.2d 456", "656 P.2d 1030", "68 Wn. App. 224", "681 P.2d 1294", "686 P.2d 1086", "688 P.2d 865", "721 P.2d 972", "74 Wn. App. 858", "757 P.2d 499", "774 P.2d 50", "78 Wn. App. 958", "790 P.2d 1254", "828 P.2d 549", "842 P.2d 504", "859 F.Supp. 1338", "873 P.2d 1185", "876 P.2d 463", "881 P.2d 1020", "881 P.2d 1035", "904 P.2d 767", "907 P.2d 290", "929 P.2d 396", "94 Wn. App. 803", "952 P.2d 157", "973 P.2d 8", "98 Wn.2d 434"]
 ---
 
 # Johnson v. Safeco Insurance Co. of America
