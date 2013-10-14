@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68132-0-I"
 decided: "2013-10-14"
-citations: ["178 Wash. App. 646", "177 Wash. App. 1009"]
+citations: ["178 Wash. App. 646"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Nina L. Martin, Individually and as Personal Representative, et al., 
 source_url: "https://static.case.law/wash-app/178/cases/0646-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4348156
-cites_cases: ["101 Wn.2d 68", "102 Wn. App. 443", "103 Wn.2d 221", "103 Wn.2d 258", "109 Wn.2d 107", "115 Wn.2d 339", "117 Wn.2d 325", "118 Wn.2d 737", "118 Wn.2d 753", "122 Wn. App. 736", "128 Wn.2d 366", "133 Wn. App. 681", "138 P.3d 623", "140 Wn.2d 348", "146 Wn.2d 116", "148 Wn.2d 788", "158 Wn. App. 185", "159 Wn. App. 389", "159 Wn. App. 446", "169 Wn.2d 467", "170 Wn. App. 594", "171 Wn.2d 1024", "178 Wn. App. 646", "180 Wn.2d 1009", "230 F.R.D. 548", "238 P.3d 1107", "24 Wn. App. 92", "240 P.3d 1189", "245 P.3d 779", "245 P.3d 789", "287 P.3d 610", "43 P.3d 498", "46 Wn. App. 369", "500 A.2d 1357", "547 P.2d 1221", "585 P.2d 136", "59 Wn. App. 249", "59 Wn. App. 737", "6 P.3d 104", "600 P.2d 602", "64 P.3d 22", "677 P.2d 114", "691 P.2d 575", "692 P.2d 787", "70 Wn. App. 360", "730 P.2d 1369", "744 P.2d 1032", "750 P.2d 254", "76 Wn. App. 308", "76 Wn. App. 412", "796 P.2d 759", "797 P.2d 504", "801 P.2d 259", "815 P.2d 781", "826 P.2d 200", "826 P.2d 690", "85 Wn. App. 15", "853 P.2d 484", "86 Wn.2d 607", "87 P.3d 774", "88 Wn. App. 306", "884 P.2d 936", "886 P.2d 223", "89 Wn. App. 277", "90 S.W.2d 648", "90 Wn.2d 649", "907 P.2d 290", "931 P.2d 163", "94 Wn. App. 504", "945 P.2d 727", "948 P.2d 870", "972 P.2d 570", "997 P.2d 353"]
+cites_cases: ["101 Wn.2d 68", "102 Wn. App. 443", "103 Wn.2d 221", "103 Wn.2d 258", "109 Wn.2d 107", "115 Wn.2d 339", "117 Wn.2d 325", "118 Wn.2d 737", "118 Wn.2d 753", "122 Wn. App. 736", "128 Wn.2d 366", "133 Wn. App. 681", "138 P.3d 623", "140 Wn.2d 348", "146 Wn.2d 116", "148 Wn.2d 788", "158 Wn. App. 185", "159 Wn. App. 389", "159 Wn. App. 446", "169 Wn.2d 467", "170 Wn. App. 594", "171 Wn.2d 1024", "180 Wn.2d 1009", "230 F.R.D. 548", "238 P.3d 1107", "24 Wn. App. 92", "240 P.3d 1189", "245 P.3d 779", "245 P.3d 789", "287 P.3d 610", "43 P.3d 498", "46 Wn. App. 369", "500 A.2d 1357", "547 P.2d 1221", "585 P.2d 136", "59 Wn. App. 249", "59 Wn. App. 737", "6 P.3d 104", "600 P.2d 602", "64 P.3d 22", "677 P.2d 114", "691 P.2d 575", "692 P.2d 787", "70 Wn. App. 360", "730 P.2d 1369", "744 P.2d 1032", "750 P.2d 254", "76 Wn. App. 308", "76 Wn. App. 412", "796 P.2d 759", "797 P.2d 504", "801 P.2d 259", "815 P.2d 781", "826 P.2d 200", "826 P.2d 690", "85 Wn. App. 15", "853 P.2d 484", "86 Wn.2d 607", "87 P.3d 774", "88 Wn. App. 306", "884 P.2d 936", "886 P.2d 223", "89 Wn. App. 277", "90 S.W.2d 648", "90 Wn.2d 649", "907 P.2d 290", "931 P.2d 163", "94 Wn. App. 504", "945 P.2d 727", "948 P.2d 870", "972 P.2d 570", "997 P.2d 353"]
 ---
 
 # Martin v. Dematic
