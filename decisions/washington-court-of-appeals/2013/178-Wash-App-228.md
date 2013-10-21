@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69135-0-I; 69136-8-I"
 decided: "2013-10-21"
-citations: ["178 Wash. App. 228", "177 Wash. App. 1015"]
+citations: ["178 Wash. App. 228"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Sixty-01 Association of Apartment Owners, Respondent, v. Virginia A. 
 source_url: "https://static.case.law/wash-app/178/cases/0228-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4347803
-cites_cases: ["102 Wn.2d 170", "109 Wn. App. 387", "118 Wn.2d 498", "168 Wn. App. 86", "175 Wn.2d 1015", "176 Wn.2d 662", "178 Wn. App. 228", "180 Wn.2d 1001", "285 P.3d 70", "295 P.3d 231", "35 P.3d 1186", "48 Wn. App. 29", "685 P.2d 1074", "737 P.2d 721", "825 P.2d 706"]
+cites_cases: ["102 Wn.2d 170", "109 Wn. App. 387", "118 Wn.2d 498", "168 Wn. App. 86", "175 Wn.2d 1015", "176 Wn.2d 662", "180 Wn.2d 1001", "285 P.3d 70", "295 P.3d 231", "35 P.3d 1186", "48 Wn. App. 29", "685 P.2d 1074", "737 P.2d 721", "825 P.2d 706"]
 ---
 
 # Sixty-01 Ass'n of Apartment Owners v. Parsons
