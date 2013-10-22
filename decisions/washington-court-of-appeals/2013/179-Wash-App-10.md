@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44517-4-II"
 decided: "2013-10-22"
-citations: ["179 Wash. App. 10", "177 Wash. App. 1016"]
+citations: ["179 Wash. App. 10"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Rith Kok, Individually and as Administrator, et al., Appellants, v. T
 source_url: "https://static.case.law/wash-app/179/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4106380
-cites_cases: ["100 Wn. App. 366", "128 P.3d 574", "128 Wn.2d 164", "131 Wn.2d 39", "148 Wn.2d 788", "156 Wn.2d 441", "170 Wn. App. 76", "175 Wn.2d 287", "179 Wn. App. 10", "180 Wn.2d 1016", "20 U.S.C. § 1400", "20 U.S.C. § 1401", "20 U.S.C. § 1412", "28 C.F.R. §35.104", "283 P.3d 583", "29 C.F.R. § 1630.2", "29 U.S.C. § 705", "29 U.S.C. § 794", "290 P.3d 43", "42 U.S.C. § 12132", "42 U.S.C. §12102", "482 P.2d 775", "530 P.2d 254", "64 P.3d 22", "65 Wn. App. 285", "74 Wn. App. 49", "77 Wn. App. 934", "79 Wn.2d 12", "827 P.2d 1108", "834 F. Supp. 2d 528", "84 Wn.2d 975", "861 F.2d 1307", "871 P.2d 1106", "894 P.2d 1366", "905 P.2d 355", "929 P.2d 420", "996 P.2d 637"]
+cites_cases: ["100 Wn. App. 366", "128 P.3d 574", "128 Wn.2d 164", "131 Wn.2d 39", "148 Wn.2d 788", "156 Wn.2d 441", "170 Wn. App. 76", "175 Wn.2d 287", "180 Wn.2d 1016", "20 U.S.C. § 1400", "20 U.S.C. § 1401", "20 U.S.C. § 1412", "28 C.F.R. §35.104", "283 P.3d 583", "29 C.F.R. § 1630.2", "29 U.S.C. § 705", "29 U.S.C. § 794", "290 P.3d 43", "42 U.S.C. § 12132", "42 U.S.C. §12102", "482 P.2d 775", "530 P.2d 254", "64 P.3d 22", "65 Wn. App. 285", "74 Wn. App. 49", "77 Wn. App. 934", "79 Wn.2d 12", "827 P.2d 1108", "834 F. Supp. 2d 528", "84 Wn.2d 975", "861 F.2d 1307", "871 P.2d 1106", "894 P.2d 1366", "905 P.2d 355", "929 P.2d 420", "996 P.2d 637"]
 ---
 
 # Kok v. Tacoma School District No. 10
