@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43522-5-II"
 decided: "2013-10-22"
-citations: ["178 Wash. App. 236", "177 Wash. App. 1016"]
+citations: ["178 Wash. App. 236"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Petitioner, v. Charles Wayne McLean, Respond
 source_url: "https://static.case.law/wash-app/178/cases/0236-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4346251
-cites_cases: ["101 P.3d 1", "107 Wn.2d 1", "110 Wn.2d 827", "116 Wn.2d 509", "127 Wn.2d 322", "129 Wn.2d 61", "134 Wn.2d 1", "138 Wn.2d 343", "142 Wn.2d 853", "144 Wn.2d 753", "145 Wn. App. 646", "147 Wn. App. 867", "151 Wn. App. 694", "152 Wn.2d 647", "16 P.3d 610", "161 Wn. App. 58", "166 Wn.2d 242", "166 Wn.2d 856", "168 Wn.2d 632", "170 Wn.2d 57", "171 Wn.2d 847", "174 Wn.2d 177", "176 Wn.2d 284", "178 Wn. App. 236", "179 Wn.2d 1026", "186 P.3d 1186", "197 P.3d 1198", "207 P.3d 1266", "213 P.3d 945", "215 P3d 177", "229 P.3d 729", "239 P.3d 573", "248 P.3d 1116", "256 P.3d 1161", "275 P.3d 289", "290 P.3d 983", "30 P.3d 1278", "392 U.S. 1", "40 Wn. App. 698", "429 P.2d 873", "466 U.S. 668", "51 Wn. App. 775", "517 U.S. 806", "70 Wn. App. 573", "700 P.2d 323", "71 Wn.2d 512", "726 P.2d 445", "755 P.2d 191", "755 P.2d 806", "806 P.2d 760", "854 P.2d 658", "899 P.2d 1251", "917 P.2d 563", "948 P.2d 1280", "979 P.2d 833"]
+cites_cases: ["101 P.3d 1", "107 Wn.2d 1", "110 Wn.2d 827", "116 Wn.2d 509", "127 Wn.2d 322", "129 Wn.2d 61", "134 Wn.2d 1", "138 Wn.2d 343", "142 Wn.2d 853", "144 Wn.2d 753", "145 Wn. App. 646", "147 Wn. App. 867", "151 Wn. App. 694", "152 Wn.2d 647", "16 P.3d 610", "161 Wn. App. 58", "166 Wn.2d 242", "166 Wn.2d 856", "168 Wn.2d 632", "170 Wn.2d 57", "171 Wn.2d 847", "174 Wn.2d 177", "176 Wn.2d 284", "179 Wn.2d 1026", "186 P.3d 1186", "197 P.3d 1198", "207 P.3d 1266", "213 P.3d 945", "215 P3d 177", "229 P.3d 729", "239 P.3d 573", "248 P.3d 1116", "256 P.3d 1161", "275 P.3d 289", "290 P.3d 983", "30 P.3d 1278", "392 U.S. 1", "40 Wn. App. 698", "429 P.2d 873", "466 U.S. 668", "51 Wn. App. 775", "517 U.S. 806", "70 Wn. App. 573", "700 P.2d 323", "71 Wn.2d 512", "726 P.2d 445", "755 P.2d 191", "755 P.2d 806", "806 P.2d 760", "854 P.2d 658", "899 P.2d 1251", "917 P.2d 563", "948 P.2d 1280", "979 P.2d 833"]
 ---
 
 # State v. McLean
