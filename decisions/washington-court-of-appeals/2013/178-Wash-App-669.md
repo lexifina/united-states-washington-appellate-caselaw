@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43807-1-II"
 decided: "2013-10-29"
-citations: ["178 Wash. App. 669", "177 Wash. App. 1024"]
+citations: ["178 Wash. App. 669"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Michael A. Libera, Appellant, v. The City of Port Angeles et al., Res
 source_url: "https://static.case.law/wash-app/178/cases/0669-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4348991
-cites_cases: ["112 Wn.2d 794", "120 Wn. App. 498", "140 Wn. App. 540", "140 Wn.2d 88", "144 P.3d 276", "158 Wn.2d 342", "166 P.3d 813", "178 Wn. App. 669", "774 P.2d 1158", "84 P.3d 1241", "993 P.2d 259"]
+cites_cases: ["112 Wn.2d 794", "120 Wn. App. 498", "140 Wn. App. 540", "140 Wn.2d 88", "144 P.3d 276", "158 Wn.2d 342", "166 P.3d 813", "774 P.2d 1158", "84 P.3d 1241", "993 P.2d 259"]
 ---
 
 # Libera v. City of Port Angeles
