@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30981-9-III"
 decided: "2013-12-03"
-citations: ["178 Wash. App. 681", "178 Wash. App. 1011"]
+citations: ["178 Wash. App. 681"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Guardianship of D.S."]
 source_url: "https://static.case.law/wash-app/178/cases/0681-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4348585
-cites_cases: ["108 Wn. App. 149", "123 Wn.2d 1", "148 Wn.2d 35", "178 Wn. App. 681", "29 P.3d 1275", "553 P.2d 1339", "59 P.3d 611", "863 P.2d 1344", "87 Wn.2d 470"]
+cites_cases: ["108 Wn. App. 149", "123 Wn.2d 1", "148 Wn.2d 35", "29 P.3d 1275", "553 P.2d 1339", "59 P.3d 611", "863 P.2d 1344", "87 Wn.2d 470"]
 ---
 
 # In re the Guardianship of D.S.
