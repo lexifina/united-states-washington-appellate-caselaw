@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30994-1-III"
 decided: "2013-12-03"
-citations: ["178 Wash. App. 850", "178 Wash. App. 1011"]
+citations: ["178 Wash. App. 850"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Oscar J. Brownfield, Appellant, v. The City of Yakima, Respondent."]
 source_url: "https://static.case.law/wash-app/178/cases/0850-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4347944
-cites_cases: ["1 P.3d 1124", "102 Wn.2d 219", "103 Wn. App. 62", "109 Wn.2d 504", "11 P.3d 833", "110 P.3d 782", "113 Wn. App. 511", "121 Wn.2d 552", "123 Wn.2d 649", "125 P.3d 164", "125 Wn.2d 697", "126 Wn. App. 812", "127 Wn.2d 401", "128 Wn.2d 618", "128 Wn.2d 931", "130 Wn. App. 750", "131 Wn.2d 39", "135 Wn.2d 255", "137 Cal. Rptr. 162", "141 Wn.2d 29", "156 Misc. 2d 308", "159 Wn. App. 18", "160 Wn. App. 765", "162 Wn. App. 476", "168 Wn. App. 162", "170 Wn. App. 614", "173 Wn. App. 174", "176 Wn.2d 1021", "178 Wn. App. 850", "178 Wn.2d 1010", "19 Cal. 3d 165", "211 N.J. 454", "244 P.3d 438", "249 P.3d 1044", "271 P.3d 254", "275 P.3d 1200", "285 P.3d 187", "29 U.S.C. §§ 2601-2654", "293 P.3d 413", "36 Wn. App. 385", "42 U.S.C. § 1983", "42 U.S.C. §§ 12101-12213", "49 Cal. App. 4th 1223", "5 U.S.C. §§ 6381-6387", "518 P.2d 721", "54 P.3d 174", "561 P.2d 252", "57 Cal. Rptr. 2d 303", "591 F.3d 957", "60 Wash. L. Rev. 805", "612 F.3d 1140", "614 N.E.2d 916", "675 P.2d 607", "685 P.2d 1081", "735 P.2d 387", "745 P.2d 858", "79 Wn. App. 732", "811 F.2d 698", "82 Wn. App. 401", "83 Wn.2d 405", "852 P.2d 295", "869 P.2d 1014", "887 P.2d 886", "899 P.2d 1265", "90 Wn. App. 533", "904 P.2d 793", "911 P.2d 1319", "913 P.2d 377", "918 P.2d 186", "929 P.2d 420", "95 Wn. App. 18", "954 P.2d 290", "956 P.2d 312", "97 Wn. App. 226", "97 Wn. App. 435", "974 P.2d 847", "983 P.2d 1144", "983 P.2d 1167"]
+cites_cases: ["1 P.3d 1124", "102 Wn.2d 219", "103 Wn. App. 62", "109 Wn.2d 504", "11 P.3d 833", "110 P.3d 782", "113 Wn. App. 511", "121 Wn.2d 552", "123 Wn.2d 649", "125 P.3d 164", "125 Wn.2d 697", "126 Wn. App. 812", "127 Wn.2d 401", "128 Wn.2d 618", "128 Wn.2d 931", "130 Wn. App. 750", "131 Wn.2d 39", "135 Wn.2d 255", "137 Cal. Rptr. 162", "141 Wn.2d 29", "156 Misc. 2d 308", "159 Wn. App. 18", "160 Wn. App. 765", "162 Wn. App. 476", "168 Wn. App. 162", "170 Wn. App. 614", "173 Wn. App. 174", "176 Wn.2d 1021", "178 Wn.2d 1010", "19 Cal. 3d 165", "211 N.J. 454", "244 P.3d 438", "249 P.3d 1044", "271 P.3d 254", "275 P.3d 1200", "285 P.3d 187", "29 U.S.C. §§ 2601-2654", "293 P.3d 413", "36 Wn. App. 385", "42 U.S.C. § 1983", "42 U.S.C. §§ 12101-12213", "49 Cal. App. 4th 1223", "5 U.S.C. §§ 6381-6387", "518 P.2d 721", "54 P.3d 174", "561 P.2d 252", "57 Cal. Rptr. 2d 303", "591 F.3d 957", "60 Wash. L. Rev. 805", "612 F.3d 1140", "614 N.E.2d 916", "675 P.2d 607", "685 P.2d 1081", "735 P.2d 387", "745 P.2d 858", "79 Wn. App. 732", "811 F.2d 698", "82 Wn. App. 401", "83 Wn.2d 405", "852 P.2d 295", "869 P.2d 1014", "887 P.2d 886", "899 P.2d 1265", "90 Wn. App. 533", "904 P.2d 793", "911 P.2d 1319", "913 P.2d 377", "918 P.2d 186", "929 P.2d 420", "95 Wn. App. 18", "954 P.2d 290", "956 P.2d 312", "97 Wn. App. 226", "97 Wn. App. 435", "974 P.2d 847", "983 P.2d 1144", "983 P.2d 1167"]
 ---
 
 # Brownfield v. City of Yakima
