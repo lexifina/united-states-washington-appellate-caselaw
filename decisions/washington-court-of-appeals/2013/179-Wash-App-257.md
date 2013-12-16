@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69133-3-I"
 decided: "2013-12-16"
-citations: ["179 Wash. App. 257", "178 Wash. App. 1018"]
+citations: ["179 Wash. App. 257"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Mary M. Wright, Respondent, and Kim 
 source_url: "https://static.case.law/wash-app/179/cases/0257-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4107226
-cites_cases: ["101 Wn.2d 168", "103 Wn.2d 470", "103 Wn.2d 807", "105 Wn. App. 545", "112 Wn. App. 333", "131 P.3d 451", "132 Wn.2d 642", "133 Wn.2d 39", "137 Wn.2d 756", "141 Wn. App. 235", "150 Wn. App. 730", "170 P.3d 572", "178 P.2d 725", "178 Wn. App. 133", "178 Wn. App. 143", "179 Wn. App. 257", "18 Wn. App. 549", "180 Wn.2d 1016", "20 P.3d 481", "207 P.3d 478", "27 Wn.2d 456", "313 P.3d 1228", "387 P.2d 964", "396 P.2d 642", "48 P.3d 1018", "571 P.2d 210", "59 Wn. App. 630", "63 Wn. App. 658", "63 Wn.2d 526", "64 Wn. App. 38", "65 Wn. App. 334", "65 Wn.2d 211", "677 P.2d 152", "693 P.2d 97", "699 P.2d 214", "749 P.2d 343", "800 P.2d 394", "816 P.2d 129", "821 P.2d 1227", "822 P.2d 797", "828 P.2d 627", "90 Wn. App. 796", "940 P.2d 1362", "940 P.2d 261", "954 P.2d 330", "97 Wn. App. 708", "976 P.2d 102", "986 P.2d 144"]
+cites_cases: ["101 Wn.2d 168", "103 Wn.2d 470", "103 Wn.2d 807", "105 Wn. App. 545", "112 Wn. App. 333", "131 P.3d 451", "132 Wn.2d 642", "133 Wn.2d 39", "137 Wn.2d 756", "141 Wn. App. 235", "150 Wn. App. 730", "170 P.3d 572", "178 P.2d 725", "178 Wn. App. 133", "178 Wn. App. 143", "18 Wn. App. 549", "180 Wn.2d 1016", "20 P.3d 481", "207 P.3d 478", "27 Wn.2d 456", "313 P.3d 1228", "387 P.2d 964", "396 P.2d 642", "48 P.3d 1018", "571 P.2d 210", "59 Wn. App. 630", "63 Wn. App. 658", "63 Wn.2d 526", "64 Wn. App. 38", "65 Wn. App. 334", "65 Wn.2d 211", "677 P.2d 152", "693 P.2d 97", "699 P.2d 214", "749 P.2d 343", "800 P.2d 394", "816 P.2d 129", "821 P.2d 1227", "822 P.2d 797", "828 P.2d 627", "90 Wn. App. 796", "940 P.2d 1362", "940 P.2d 261", "954 P.2d 330", "97 Wn. App. 708", "976 P.2d 102", "986 P.2d 144"]
 ---
 
 # In re the Marriage of Wright
