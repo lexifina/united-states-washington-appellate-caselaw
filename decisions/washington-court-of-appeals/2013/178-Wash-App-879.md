@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69644-1-I"
 decided: "2013-12-16"
-citations: ["178 Wash. App. 879", "178 Wash. App. 1019"]
+citations: ["178 Wash. App. 879"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Erik D. Ensberg, Appellant, v. Jason D. Nelson et al., Respondents."]
 source_url: "https://static.case.law/wash-app/178/cases/0879-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4346951
-cites_cases: ["105 P. 1039", "106 P. 496", "109 P. 1072", "126 Cal. App. 4th 549", "140 Wn.2d 250", "155 Wn. App. 376", "157 P.2d 598", "172 Wn.2d 272", "178 Wn. App. 879", "180 Wn.2d 1012", "201 P.2d 156", "22 Wn.2d 655", "228 P.3d 780", "23 Cal. Rptr. 3d 894", "256 P.3d 1223", "32 Wn.2d 159", "454 P.2d 212", "56 Wash. 448", "56 Wn. App. 827", "57 Wash. 62", "59 Wash. 346", "75 Wn. App. 248", "75 Wn.2d 816", "786 R2d 285", "877 P.2d 223", "90 Wn. App. 157", "951 P.2d 817", "996 P.2d 610"]
+cites_cases: ["105 P. 1039", "106 P. 496", "109 P. 1072", "126 Cal. App. 4th 549", "140 Wn.2d 250", "155 Wn. App. 376", "157 P.2d 598", "172 Wn.2d 272", "180 Wn.2d 1012", "201 P.2d 156", "22 Wn.2d 655", "228 P.3d 780", "23 Cal. Rptr. 3d 894", "256 P.3d 1223", "32 Wn.2d 159", "454 P.2d 212", "56 Wash. 448", "56 Wn. App. 827", "57 Wash. 62", "59 Wash. 346", "75 Wn. App. 248", "75 Wn.2d 816", "786 R2d 285", "877 P.2d 223", "90 Wn. App. 157", "951 P.2d 817", "996 P.2d 610"]
 ---
 
 # Ensberg v. Nelson
