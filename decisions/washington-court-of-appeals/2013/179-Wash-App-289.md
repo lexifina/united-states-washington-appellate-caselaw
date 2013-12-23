@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69500-2-I"
 decided: "2013-12-23"
-citations: ["179 Wash. App. 289", "178 Wash. App. 1030"]
+citations: ["179 Wash. App. 289"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Canal Station North Condominium Association, Respondent, v. Ballard L
 source_url: "https://static.case.law/wash-app/179/cases/0289-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4103480
-cites_cases: ["129 Wn.2d 439", "147 Wn.2d 16", "148 Wn. App. 400", "157 Wn. App. 588", "159 Wn. App. 82", "162 Wn. App. 596", "165 Wn.2d 582", "167 Wn. App. 221", "167 Wn.2d 781", "173 Wn.2d 451", "179 Wn. App. 289", "200 P.3d 254", "201 P.3d 309", "225 P.3d 213", "238 P.3d 528", "246 P.3d 205", "256 P.3d 406", "268 P.3d 917", "272 P.3d 289", "28 Wn. App. 59", "29 Seattle U. L. Rev. 515", "50 P.3d 638", "54 Wn. App. 388", "621 P.2d 791", "775 P.2d 960", "88 Wn. App. 331", "918 P.2d 497", "944 P.2d 1099"]
+cites_cases: ["129 Wn.2d 439", "147 Wn.2d 16", "148 Wn. App. 400", "157 Wn. App. 588", "159 Wn. App. 82", "162 Wn. App. 596", "165 Wn.2d 582", "167 Wn. App. 221", "167 Wn.2d 781", "173 Wn.2d 451", "200 P.3d 254", "201 P.3d 309", "225 P.3d 213", "238 P.3d 528", "246 P.3d 205", "256 P.3d 406", "268 P.3d 917", "272 P.3d 289", "28 Wn. App. 59", "29 Seattle U. L. Rev. 515", "50 P.3d 638", "54 Wn. App. 388", "621 P.2d 791", "775 P.2d 960", "88 Wn. App. 331", "918 P.2d 497", "944 P.2d 1099"]
 ---
 
 # Canal Station North Condominium Ass'n v. Ballard Leary Phase II, LP
