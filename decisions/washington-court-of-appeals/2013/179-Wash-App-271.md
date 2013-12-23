@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68408-6-I"
 decided: "2013-12-23"
-citations: ["179 Wash. App. 271", "178 Wash. App. 1027"]
+citations: ["179 Wash. App. 271"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Quy Dinh Nguyen, Appellant."]
 source_url: "https://static.case.law/wash-app/179/cases/0271-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4104816
-cites_cases: ["102 Wn.2d 87", "104 S. Ct. 2039", "105 Wn.2d 398", "107 P.3d 90", "129 Wn.2d 61", "132 Wn.2d 529", "137 P.3d 835", "145 P.2d 1014", "153 Wn. App. 569", "153 Wn.2d 689", "157 Wn.2d 188", "172 Wn.2d 783", "179 Wn. App. 271", "181 Wn.2d 1006", "20 Wn.2d 95", "222 P.3d 821", "25 Robinson, 172", "26 Wn. App. 187", "263 P.3d 1233", "287 U.S. 45", "3 Wn. App. 20", "34 Wn. App. 23", "35 Wn. App. 388", "351 P.2d 120", "372 U.S. 335", "391 F.3d 1066", "426 P.2d 988", "466 U.S. 668", "472 P.2d 584", "521 P.2d 699", "524 P.2d 242", "56 Wn.2d 111", "611 P.2d 1365", "658 P.2d 1279", "66 U.S. 648", "667 P.2d 108", "684 P.2d 683", "71 Wn.2d 191", "717 P.2d 722", "80 Wn. App. 802", "83 Wn.2d 594", "84 Wn.2d 90", "88 Wn. App. 977", "911 P.2d 1034", "917 P.2d 563", "940 P.2d 546", "947 P.2d 1235"]
+cites_cases: ["102 Wn.2d 87", "104 S. Ct. 2039", "105 Wn.2d 398", "107 P.3d 90", "129 Wn.2d 61", "132 Wn.2d 529", "137 P.3d 835", "145 P.2d 1014", "153 Wn. App. 569", "153 Wn.2d 689", "157 Wn.2d 188", "172 Wn.2d 783", "181 Wn.2d 1006", "20 Wn.2d 95", "222 P.3d 821", "25 Robinson, 172", "26 Wn. App. 187", "263 P.3d 1233", "287 U.S. 45", "3 Wn. App. 20", "34 Wn. App. 23", "35 Wn. App. 388", "351 P.2d 120", "372 U.S. 335", "391 F.3d 1066", "426 P.2d 988", "466 U.S. 668", "472 P.2d 584", "521 P.2d 699", "524 P.2d 242", "56 Wn.2d 111", "611 P.2d 1365", "658 P.2d 1279", "66 U.S. 648", "667 P.2d 108", "684 P.2d 683", "71 Wn.2d 191", "717 P.2d 722", "80 Wn. App. 802", "83 Wn.2d 594", "84 Wn.2d 90", "88 Wn. App. 977", "911 P.2d 1034", "917 P.2d 563", "940 P.2d 546", "947 P.2d 1235"]
 ---
 
 # State v. Quy Dinh Nguyen
