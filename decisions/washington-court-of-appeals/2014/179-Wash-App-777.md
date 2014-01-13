@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68753-1-I"
 decided: "2014-01-13"
-citations: ["179 Wash. App. 777", "178 Wash. App. 1040"]
+citations: ["179 Wash. App. 777"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["4105 1st Avenue South Investments, LLC, Respondent, v. Green Depot WA
 source_url: "https://static.case.law/wash-app/179/cases/0777-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4102276
-cites_cases: ["105 Wn.2d 39", "115 P.3d 262", "118 Wn.2d 476", "136 Wn. App. 153", "138 Wn. App. 841", "147 P.3d 1305", "154 Wn.2d 493", "158 P.3d 1265", "163 Wn. App. 367", "165 Wn.2d 481", "166 Wn.2d 510", "179 Wn. App. 777", "181 Wn.2d 1004", "200 P.3d 683", "210 P.3d 318", "260 P.3d 900", "416 P.2d 88", "50 Wn. App. 768", "57 Wn. App. 284", "68 Wn.2d 868", "711 P.2d 295", "750 P.2d 1290", "787 P.2d 946", "824 P.2d 483", "97 Wn. App. 776", "98 Wn. App. 780", "986 P.2d 841", "990 P.2d 986"]
+cites_cases: ["105 Wn.2d 39", "115 P.3d 262", "118 Wn.2d 476", "136 Wn. App. 153", "138 Wn. App. 841", "147 P.3d 1305", "154 Wn.2d 493", "158 P.3d 1265", "163 Wn. App. 367", "165 Wn.2d 481", "166 Wn.2d 510", "181 Wn.2d 1004", "200 P.3d 683", "210 P.3d 318", "260 P.3d 900", "416 P.2d 88", "50 Wn. App. 768", "57 Wn. App. 284", "68 Wn.2d 868", "711 P.2d 295", "750 P.2d 1290", "787 P.2d 946", "824 P.2d 483", "97 Wn. App. 776", "98 Wn. App. 780", "986 P.2d 841", "990 P.2d 986"]
 ---
 
 # 4105 1st Avenue South Investments, LLC v. Green Depot WA Pacific Coast, LLC
