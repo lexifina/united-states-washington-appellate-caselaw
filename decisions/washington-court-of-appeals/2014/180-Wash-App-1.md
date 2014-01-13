@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69916-4-I"
 decided: "2014-01-13"
-citations: ["180 Wash. App. 1", "178 Wash. App. 1043"]
+citations: ["180 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Clarence T. McDonald et al., Appellants, v. Cove to Clover, Responden
 source_url: "https://static.case.law/wash-app/180/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4186008
-cites_cases: ["115 Wn.2d 506", "129 Wn.2d 84", "144 Wn.2d 847", "166 Wn.2d 510", "180 Wn. App. 1", "210 P.3d 318", "31 P.3d 684", "799 P.2d 250", "915 P.2d 1089"]
+cites_cases: ["115 Wn.2d 506", "129 Wn.2d 84", "144 Wn.2d 847", "166 Wn.2d 510", "210 P.3d 318", "31 P.3d 684", "799 P.2d 250", "915 P.2d 1089"]
 ---
 
 # McDonald v. Cove to Clover
