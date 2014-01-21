@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69352-2-I"
 decided: "2014-01-21"
-citations: ["180 Wash. App. 8", "179 Wash. App. 1005"]
+citations: ["180 Wash. App. 8"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Daniel J. Watson et al., Respondents, v. Northwest Trustee Services, 
 source_url: "https://static.case.law/wash-app/180/cases/0008-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4186684
-cites_cases: ["131 Wn.2d 104", "150 P.3d 1130", "151 Wn.2d 179", "159 Wn.2d 459", "174 Wn.2d 539", "174 Wn.2d 560", "175 Wn.2d 264", "180 Wn. App. 8", "181 Wn.2d 1007", "2013 U.S. Dist. LEXIS 144013", "2013 WL 5488817", "276 P.3d 1277", "277 P.3d 657", "285 P.3d 854", "511 U.S. 244", "86 P.3d 139", "928 P.2d 1094"]
+cites_cases: ["131 Wn.2d 104", "150 P.3d 1130", "151 Wn.2d 179", "159 Wn.2d 459", "174 Wn.2d 539", "174 Wn.2d 560", "175 Wn.2d 264", "181 Wn.2d 1007", "2013 U.S. Dist. LEXIS 144013", "2013 WL 5488817", "276 P.3d 1277", "277 P.3d 657", "285 P.3d 854", "511 U.S. 244", "86 P.3d 139", "928 P.2d 1094"]
 ---
 
 # Watson v. Northwest Trustee Services, Inc.
