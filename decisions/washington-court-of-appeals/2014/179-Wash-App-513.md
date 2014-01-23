@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31176-7-III"
 decided: "2014-01-23"
-citations: ["179 Wash. App. 513", "179 Wash. App. 1010"]
+citations: ["179 Wash. App. 513"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Anthony J. Predisik et al., Appellants, v. Spokane School District No
 source_url: "https://static.case.law/wash-app/179/cases/0513-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4106779
-cites_cases: ["103 Wn. App. 680", "112 Wn.2d 30", "13 P.3d 1104", "142 P.3d 162", "158 Wn.2d 173", "164 Wn.2d 199", "172 Wn.2d 398", "177 Wn.2d 417", "179 Wn. App. 513", "180 Wn.2d 1021", "189 P.3d 139", "259 P.3d 190", "300 P.3d 376", "580 P.2d 246", "769 P.2d 283", "77 Wn. App. 319", "86 Wn. App. 688", "890 P.2d 544", "90 Wn.2d 123", "937 P.2d 1176"]
+cites_cases: ["103 Wn. App. 680", "112 Wn.2d 30", "13 P.3d 1104", "142 P.3d 162", "158 Wn.2d 173", "164 Wn.2d 199", "172 Wn.2d 398", "177 Wn.2d 417", "180 Wn.2d 1021", "189 P.3d 139", "259 P.3d 190", "300 P.3d 376", "580 P.2d 246", "769 P.2d 283", "77 Wn. App. 319", "86 Wn. App. 688", "890 P.2d 544", "90 Wn.2d 123", "937 P.2d 1176"]
 ---
 
 # Predisik v. Spokane School District No. 81
