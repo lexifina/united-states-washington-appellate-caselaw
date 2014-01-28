@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43514-4-II"
 decided: "2014-01-28"
-citations: ["180 Wash. App. 17", "179 Wash. App. 1014"]
+citations: ["180 Wash. App. 17"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Western Plaza, LLC, Respondent, v. Norma Tison, Appellant."]
 source_url: "https://static.case.law/wash-app/180/cases/0017-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4185685
-cites_cases: ["103 P.3d 773", "104 Wn. App. 176", "120 Wn.2d 573", "125 Wn.2d 337", "134 Wn. App. 210", "135 P.3d 499", "144 Wn.2d 1004", "146 Wn.2d 514", "15 P.3d 672", "153 Wn.2d 331", "160 Wn.2d 1019", "163 Wn. App. 531", "166 Wn.2d 475", "166 Wn.2d 510", "168 Wn.2d 256", "169 Wn.2d 265", "170 Wn.2d 230", "173 Wn.2d 1036", "180 Wn. App. 17", "181 Wn.2d 1022", "209 P.3d 863", "210 P.3d 318", "226 P.3d 131", "236 P.3d 193", "240 P.3d 1162", "260 P.3d 906", "282 P.2d 266", "46 Wn.2d 445", "48 P.3d 261", "53 P.3d 516", "537 U.S. 1191", "562 U.S. 928", "844 P.2d 428", "883 P.2d 1383"]
+cites_cases: ["103 P.3d 773", "104 Wn. App. 176", "120 Wn.2d 573", "125 Wn.2d 337", "134 Wn. App. 210", "135 P.3d 499", "144 Wn.2d 1004", "146 Wn.2d 514", "15 P.3d 672", "153 Wn.2d 331", "160 Wn.2d 1019", "163 Wn. App. 531", "166 Wn.2d 475", "166 Wn.2d 510", "168 Wn.2d 256", "169 Wn.2d 265", "170 Wn.2d 230", "173 Wn.2d 1036", "181 Wn.2d 1022", "209 P.3d 863", "210 P.3d 318", "226 P.3d 131", "236 P.3d 193", "240 P.3d 1162", "260 P.3d 906", "282 P.2d 266", "46 Wn.2d 445", "48 P.3d 261", "53 P.3d 516", "537 U.S. 1191", "562 U.S. 928", "844 P.2d 428", "883 P.2d 1383"]
 ---
 
 # Western Plaza, LLC v. Tison
