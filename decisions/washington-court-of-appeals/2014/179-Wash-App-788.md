@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43689-2-II"
 decided: "2014-01-28"
-citations: ["179 Wash. App. 788", "179 Wash. App. 1014"]
+citations: ["179 Wash. App. 788"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["John Worthington, Appellant, v. WestNET, Respondent."]
 source_url: "https://static.case.law/wash-app/179/cases/0788-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4105756
-cites_cases: ["124 Wn.2d 749", "138 Wn.2d 1015", "16 F.3d 1346", "179 Wn. App. 788", "180 Wn.2d 1021", "440 U.S. 391", "513 U.S. 811", "515 U.S. 1169", "65 F.3d 784", "881 P.2d 216", "95 Wn. App. 149", "974 P.2d 886"]
+cites_cases: ["124 Wn.2d 749", "138 Wn.2d 1015", "16 F.3d 1346", "180 Wn.2d 1021", "440 U.S. 391", "513 U.S. 811", "515 U.S. 1169", "65 F.3d 784", "881 P.2d 216", "95 Wn. App. 149", "974 P.2d 886"]
 ---
 
 # Worthington v. WestNET
