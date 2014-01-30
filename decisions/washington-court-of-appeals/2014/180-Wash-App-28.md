@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31178-3-III"
 decided: "2014-01-30"
-citations: ["180 Wash. App. 28", "179 Wash. App. 1018"]
+citations: ["180 Wash. App. 28"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Allen Martin, Appellant, v. Riverside School District No. 416, Respon
 source_url: "https://static.case.law/wash-app/180/cases/0028-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4188872
-cites_cases: ["103 Wn. App. 680", "112 Wn.2d 30", "13 P.3d 1104", "164 Wn.2d 199", "177 Wn.2d 417", "180 Wn. App. 28", "189 P.3d 139", "300 P.3d 376", "580 P.2d 246", "769 P.2d 283", "86 Wn. App. 688", "90 Wn.2d 123", "937 P.2d 1176"]
+cites_cases: ["103 Wn. App. 680", "112 Wn.2d 30", "13 P.3d 1104", "164 Wn.2d 199", "177 Wn.2d 417", "189 P.3d 139", "300 P.3d 376", "580 P.2d 246", "769 P.2d 283", "86 Wn. App. 688", "90 Wn.2d 123", "937 P.2d 1176"]
 ---
 
 # Martin v. Riverside School District No. 416
