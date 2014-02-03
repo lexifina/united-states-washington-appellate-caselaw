@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69600-9-I"
 decided: "2014-02-03"
-citations: ["180 Wash. App. 37", "179 Wash. App. 1021"]
+citations: ["180 Wash. App. 37"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Wanda Bunch, on Behalf of Herself and Others Similarly Situated, Resp
 source_url: "https://static.case.law/wash-app/180/cases/0037-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4185837
-cites_cases: ["104 Wn. App. 338", "105 Wn.2d 778", "111 Wn. App. 586", "115 Wn.2d 307", "117 Wn.2d 655", "148 Wn.2d 1020", "15 Wn. App. 452", "16 P.3d 45", "162 Wn. App. 596", "166 Wn.2d 27", "173 Wn.2d 1003", "180 Wn. App. 37", "204 P.3d 885", "256 P.3d 406", "49 P.3d 894", "550 P.2d 547", "607 F. Supp. 2d 1226", "633 P.2d 1335", "719 P.2d 531", "796 P.2d 1276", "818 P.2d 1076", "914 F.2d 1364", "96 Wn.2d 77"]
+cites_cases: ["104 Wn. App. 338", "105 Wn.2d 778", "111 Wn. App. 586", "115 Wn.2d 307", "117 Wn.2d 655", "148 Wn.2d 1020", "15 Wn. App. 452", "16 P.3d 45", "162 Wn. App. 596", "166 Wn.2d 27", "173 Wn.2d 1003", "204 P.3d 885", "256 P.3d 406", "49 P.3d 894", "550 P.2d 547", "607 F. Supp. 2d 1226", "633 P.2d 1335", "719 P.2d 531", "796 P.2d 1276", "818 P.2d 1076", "914 F.2d 1364", "96 Wn.2d 77"]
 ---
 
 # Bunch v. Nationwide Mutual Insurance
