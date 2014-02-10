@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "68634-8-I"
 decided: "2014-02-10"
-citations: ["180 Wash. App. 239", "179 Wash. App. 1025"]
+citations: ["180 Wash. App. 239"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Terrie Lewark, as Assignee, Appellant, v. Davis Door Services, Inc., 
 source_url: "https://static.case.law/wash-app/180/cases/0239-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4187812
-cites_cases: ["116 Wn. App. 424", "135 Wn.2d 678", "145 Wn. App. 765", "180 Wn. App. 239", "180 Wn.2d 1026", "189 P.3d 195", "65 P.3d 696", "958 P.2d 273"]
+cites_cases: ["116 Wn. App. 424", "135 Wn.2d 678", "145 Wn. App. 765", "180 Wn.2d 1026", "189 P.3d 195", "65 P.3d 696", "958 P.2d 273"]
 ---
 
 # Lewark v. Davis Door Services, Inc.
