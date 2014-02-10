@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69433-2-I"
 decided: "2014-02-10"
-citations: ["180 Wash. App. 52", "179 Wash. App. 1026"]
+citations: ["180 Wash. App. 52"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Tyler Ainsworth, Respondent, v. Progressive Casualty Insurance Compan
 source_url: "https://static.case.law/wash-app/180/cases/0052-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4189955
-cites_cases: ["100 Wn.2d 26", "104 Wn. App. 783", "108 Wn. App. 198", "114 Wn.2d 1", "115 Wn. App. 218", "117 Wn.2d 37", "119 Wn.2d 724", "120 Wn.2d 727", "124 Wn.2d 107", "124 Wn.2d 277", "126 Wn.2d 50", "128 P.3d 1234", "128 Wn.2d 207", "128 Wn.2d 26", "131 Wn.2d 133", "131 Wn.2d 420", "136 Wn.2d 567", "140 Wn.2d 129", "145 Wn. App. 687", "147 N.H. 366", "150 Wn.2d 765", "156 Wn.2d 475", "159 Wn. App. 939", "161 Wn.2d 129", "164 P.3d 475", "167 Wn. App. 522", "169 Wn.2d 537", "169 Wn.2d 750", "17 P3d 631", "173 Wn.2d 264", "180 Wn. App. 52", "186 P.3d 1188", "2011 U.S. Dist. LEXIS 112536", "2011 WL 4577250", "215 N.J. Super. 552", "238 P.3d 470", "239 P.3d 344", "240 N.J. Super. 122", "247 P.3d 18", "267 P.3d 998", "280 P.3d 1123", "31 P.3d 1", "37 Wn. App. 695", "522 A.2d 479", "549 P.2d 491", "57 Wn. App. 831", "61 P3d 1184", "656 P.2d 1030", "666 P.2d 351", "68 Wn. App. 427", "683 P.2d 215", "784 P.2d 1266", "787 A.2d 874", "790 P.2d 659", "811 P.2d 673", "82 P.3d 660", "837 P.2d 1000", "842 P.2d 1047", "844 P.2d 1006", "86 Wn. App. 239", "87 Wn.2d 62", "874 P.2d 160", "876 P.2d 896", "882 R2d 703", "904 P.2d 731", "905 P.2d 379", "930 P.2d 288", "932 P.2d 1244", "935 P.2d 1377", "964 P.2d 1173", "98 Wn.2d 434", "994 P.2d 833"]
+cites_cases: ["100 Wn.2d 26", "104 Wn. App. 783", "108 Wn. App. 198", "114 Wn.2d 1", "115 Wn. App. 218", "117 Wn.2d 37", "119 Wn.2d 724", "120 Wn.2d 727", "124 Wn.2d 107", "124 Wn.2d 277", "126 Wn.2d 50", "128 P.3d 1234", "128 Wn.2d 207", "128 Wn.2d 26", "131 Wn.2d 133", "131 Wn.2d 420", "136 Wn.2d 567", "140 Wn.2d 129", "145 Wn. App. 687", "147 N.H. 366", "150 Wn.2d 765", "156 Wn.2d 475", "159 Wn. App. 939", "161 Wn.2d 129", "164 P.3d 475", "167 Wn. App. 522", "169 Wn.2d 537", "169 Wn.2d 750", "17 P3d 631", "173 Wn.2d 264", "186 P.3d 1188", "2011 U.S. Dist. LEXIS 112536", "2011 WL 4577250", "215 N.J. Super. 552", "238 P.3d 470", "239 P.3d 344", "240 N.J. Super. 122", "247 P.3d 18", "267 P.3d 998", "280 P.3d 1123", "31 P.3d 1", "37 Wn. App. 695", "522 A.2d 479", "549 P.2d 491", "57 Wn. App. 831", "61 P3d 1184", "656 P.2d 1030", "666 P.2d 351", "68 Wn. App. 427", "683 P.2d 215", "784 P.2d 1266", "787 A.2d 874", "790 P.2d 659", "811 P.2d 673", "82 P.3d 660", "837 P.2d 1000", "842 P.2d 1047", "844 P.2d 1006", "86 Wn. App. 239", "87 Wn.2d 62", "874 P.2d 160", "876 P.2d 896", "882 R2d 703", "904 P.2d 731", "905 P.2d 379", "930 P.2d 288", "932 P.2d 1244", "935 P.2d 1377", "964 P.2d 1173", "98 Wn.2d 434", "994 P.2d 833"]
 ---
 
 # Ainsworth v. Progressive Casualty Insurance
