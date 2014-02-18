@@ -1,0 +1,47 @@
+---
+court: "Washington Court of Appeals"
+docket: "69766-8-I"
+decided: "2014-02-18"
+citations: ["179 Wash. App. 464"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Leach, C.J., and Spearman, J., concur."]
+parties: ["The State of Washington, Respondent, v. Ryan Patrick Moore, Appellant."]
+source_url: "https://static.case.law/wash-app/179/cases/0464-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4107132
+cites_cases: ["1 Wash. Terr. 447", "110 P.3d 188", "123 Wn.2d 114", "124 P.3d 663", "130 Wn. App. 767", "154 Wn.2d 156", "176 Wn. App. 147", "179 Wn.2d 1012", "180 Wn.2d 1019", "2 Wash. Terr. 381", "307 P.3d 823", "316 P.3d 495", "515 U.S. 506", "548 U.S. 212", "7 P. 872", "82 Va. L. Rev. 253", "866 P.2d 631", "90 Wn. App. 693", "958 P.2d 319"]
+---
+
+# State v. Moore
+
+## Majority (Appelwick, J.)
+
+Appelwick, J.
+¶1 The “to convict” instruction informed the jury that, if it found each element proved beyond a reasonable doubt, it had the duty to convict. This instruction does not violate a defendant’s constitutional right to a jury trial. It neither misstates the law nor invades the province of the jury. We affirm.
+DISCUSSION
+¶2 At Ryan Moore’s trial, the to convict instruction informed the jury that
+[i]f you find from the evidence that each of these elements has been proved beyond a reasonable doubt, then it will be your duty to return a verdict of guilty.
+On the other hand, if, after weighing all of the evidence, you have a reasonable doubt as to any one of these elements, then it will be your duty to return a verdict of not guilty.
+(Emphasis added.) Moore argues that the instruction violated his constitutional right to a jury trial.
+¶3 We thought that this issue was resolved. Each division of this court has addressed similar challenges to the same instruction Moore contests here. And, in each case, the court upheld the instruction. See State v. Meggyesy, 90 Wn. App. 693, 706, 958 P.2d 319 (1998) (Division One); State v. Brown, 130 Wn. App. 767, 771, 124 P.3d 663 (2005) (Division Two); State v. Wilson, 176 Wn. App. 147, 151, 307 P.3d 823 (2013) (Division Three), review denied, 179 Wn.2d 1012, 316 P.3d 495 (2014).
+¶4 In Meggyesy, the appellants argued that a proper instruction would have informed the jury that it may convict if the State proved all elements of the crime. 90 Wn. App. at 697. We rejected their argument, holding that the trial court is not required to instruct the jury that it may acquit. Id. at 700. Though much of our analysis focused on the impropriety of such an instruction, we explicitly approved the “duty to convict” language and found that it did not misstate the law or invade the province of the jury. Id. at 700-01. We held that neither the federal nor the state constitution prohibits instructing the jury on its duty to convict. Id. at 698.
+¶5 Brown and Wilson subsequently agreed with Meggyesy, despite the appellants’ attempts to distinguish their challenges. Brown argued that he raised a different issue, because he directly challenged the “duty” language, rather than asking the court to instruct the jury that it “may” convict. 130 Wn. App. at 770-71. The Brown court did not find this distinction meaningful: “The Meggyesy court, although addressing a slightly different argument, held that instructing the jury it had a ‘duty’ to convict if it found the elements were proven beyond a reasonable doubt did not misstate the law.” Id. at 771. Wilson argued that, under Washington law, juries never have a duty to convict and that the instruction violated the Washington Constitution. 176 Wn. App. at 150. The court declined to reconsider the issue, noting that the appellant “raises the same challenge as in Brown and uses the same constitutional arguments set forth in Meggyesy” Id. at 151. On January 7, our Supreme Court denied review in Wilson.
+¶6 Moore does not contest Meggyesy’s holding that an instruction on the jury’s power to acquit would be improper. Instead, he argues — much like Brown and Wilson — that he raises a distinct issue, because he directly challenges the “duty to convict” language. Moore maintains that the law never requires the jury to find a defendant guilty. Accordingly, he contends that the instruction misstated the law and misled the jury about its power to acquit against the evidence.
+¶7 By statute, every juror must swear or affirm to uphold and follow the law:
+When the jury has been selected, an oath or affirmation shall be administered to the jurors [that they] will well, and truly try, the matter in issue between the plaintiff and defendant, and a true verdict give, according to the law and evidence as given them on the trial.
+RCW 4.44.260. Far from misleading the jury, the challenged instruction tracks the juror’s oath. The jury’s duty to uphold the law has existed in Washington since the state was a territory. See Hartigan v. Territory, 1 Wash. Terr. 447, 451 (1874). In Hartigan, the court approved the juror’s oath, stating that it is the jury’s duty to accept the law “ ‘as given by the court.’ ” Id. at 449, 451. The court recognized that, if the jury returned a verdict contrary to law, there was no remedy. Id. at 449. However, it concluded that a juror is “just as much bound by the laws of this territory as any other citizen. He acquires no right to disregard that law simply because he has taken an oath as juryman to aid in its administration.” Id. at 451 (emphasis added).
+¶8 In Leonard v. Territory, 2 Wash. Terr. 381, 399, 7 P. 872 (1885), the territorial court also considered a challenge to a to convict instruction that, in part, told the jury it “may” return a guilty verdict if the prosecution proved its case but “must” acquit in the absence of such proof. However, this particular language was not the subject of the appellant’s challenge and the court did not analyze or endorse this language. See id. at 399-401. The language demonstrates that, in prestatehood, the jury may have been instructed without the duty to convict. See id. at 399. But, this does not mean that the jury lacks a duty to uphold the law. The same opinion affirmed the decision in Hartigan that the jurors have a duty to follow the law as given them in the instructions. Id. at 395. In light of that duty, the language that the jury “may” convict merely parallels its true converse: that the jury may not convict without every element proved beyond a reasonable doubt. This does not erase the jury’s duty to follow the law.
+¶9 The jury has the ability to acquit against the evidence. But, it does not have the right to do so. See Meggyesy, 90 Wn. App. at 700. The court is not obligated to instruct the jury about that ability. Id. And, the court’s lack of remedy against nullification is not because the jury lacks a duty to uphold the law. See Hartigan, 1 Wash. Terr, at 451. The court does not inquire into the jury’s verdict out of respect for our judicial system. See State v. Balisok, 123 Wn.2d 114, 117-18, 866 P.2d 631 (1994) (noting that the policy behind not inquiring is to promote stable and certain verdicts and allow the jury to freely discuss the evidence). This deference does not relieve the jury of its duty to obey the law as given to it and apply that law to the facts before it.
+¶10 Here, the challenged instruction leaves for the jurors the role of evaluating the facts and applying the law as given to them, consistent with their oath. Thus, the instruction permits the jury to draw the ultimate conclusion of guilt or innocence, as the jury is required to do. See United States v. Gaudin, 515 U.S. 506, 514, 115 S. Ct. 2310, 132 L. Ed. 2d 444 (1995).
+¶11 This issue was settled by Meggyesy and affirmed in Brown and Wilson. We reaffirm and uphold the to convict instruction given here: “If you find from the evidence that each of these elements has been proved beyond a reasonable doubt, then it will be your duty to return a verdict of guilty.” (Emphasis added.)
+¶12 This is a correct statement of the law. Jurors have a duty to apply the law given to them. This instruction does not invade the province of the jury nor otherwise violate a defendant’s right to a jury trial. The trial court does not err in giving the instruction when requested.
+¶13 The remainder of this opinion has no precedential value. Therefore, it will be filed for public record in accordance with the rules governing unpublished opinions.
+Leach, C.J., and Spearman, J., concur.
+Review denied at 180 Wn.2d 1019 (2014).
+Moore was convicted of bail jumping. The facts are not significant to this issue and are set out in the unpublished section of this opinion.
+In fact, this case is only one of many recent appeals making this challenge to the same jury instruction.
+Abrogated, on other grounds by State v. Recuenco, 154 Wn.2d 156, 110 P.3d 188 (2005), reversed by Washington v. Recuenco, 548 U.S. 212, 126 S. Ct. 2546, 165 L. Ed. 2d 466 (2006).
+This instruction is also referred to as a jury nullification instruction. See Meggyesy, 90 Wn. App. at 699-700. Jury nullification “occurs when the defendant’s guilt is clear beyond a reasonable doubt, but the jury, based on its own sense of justice or fairness, decides to acquit.” Andrew D. Leipold, Rethinking Jury Nullification, 82 Va. L. Rev. 253, 253 (1996).
+“The jury shall be sworn or affirmed well and truly to try the issue between the State and the defendant, according to the evidence and instructions by the court.” CrR 6.6.
