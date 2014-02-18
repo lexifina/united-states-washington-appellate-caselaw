@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30815-4-III"
 decided: "2014-02-18"
-citations: ["180 Wash. App. 484", "179 Wash. App. 1033"]
+citations: ["180 Wash. App. 484"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Nathen Lee Bennett, Appellant
 source_url: "https://static.case.law/wash-app/180/cases/0484-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4185612
-cites_cases: ["100 Wn. App. 757", "134 S. Ct. 831", "143 Wn.2d 923", "153 Wn. App. 710", "163 Wn.2d 477", "178 Wn.2d 34", "180 Wn. App. 484", "181 P.3d 831", "181 Wn.2d 1005", "225 P.3d 266", "26 P.3d 236", "309 P.3d 326", "343 P.2d 183", "476 U.S. 79", "499 U.S. 400", "500 U.S. 352", "500 U.S. 614", "505 U.S. 42", "511 U.S. 127", "537 U.S. 322", "54 Wn.2d 570", "65 Wn. App. 828", "830 P.2d 357", "998 P.2d 373"]
+cites_cases: ["100 Wn. App. 757", "134 S. Ct. 831", "143 Wn.2d 923", "153 Wn. App. 710", "163 Wn.2d 477", "178 Wn.2d 34", "181 P.3d 831", "181 Wn.2d 1005", "225 P.3d 266", "26 P.3d 236", "309 P.3d 326", "343 P.2d 183", "476 U.S. 79", "499 U.S. 400", "500 U.S. 352", "500 U.S. 614", "505 U.S. 42", "511 U.S. 127", "537 U.S. 322", "54 Wn.2d 570", "65 Wn. App. 828", "830 P.2d 357", "998 P.2d 373"]
 ---
 
 # State v. Bennett
