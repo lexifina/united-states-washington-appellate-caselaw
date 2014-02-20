@@ -1,0 +1,50 @@
+---
+court: "Washington Court of Appeals"
+docket: "43194-7-II"
+decided: "2014-02-20"
+citations: ["179 Wash. App. 559"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Penoyar and Maxa, JJ., concur."]
+parties: ["In the Matter of the Trustee’s Sale of the Real Property of John W. Ball. The Estate of John W. Ball, Appellant, v. JPMorgan Chase Bank, NA, Respondent."]
+source_url: "https://static.case.law/wash-app/179/cases/0559-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4104213
+cites_cases: ["102 Wn. App. 220", "104 Wn. App. 800", "109 Wash. 346", "11 P.2d 253", "120 Wash. 520", "159 Wash. 641", "16 P.3d 687", "161 Wn.2d 544", "167 P.3d 555", "168 Wash. 222", "169 Wn. App. 904", "186 P. 889", "207 P. 1056", "282 P.3d 122", "294 P. 581", "40 Vand. L. Rev. 283", "53 S.E. 978", "6 P.3d 1231", "74 S.C. 42"]
+---
+
+# Ball v. JPMorgan Chase Bank, NA
+
+## Majority (Lee, J.)
+
+Lee, J.
+¶1 John W. Ball’s estate (Estate) appeals the trial court’s summary dismissal of the Estate’s claim that the merger doctrine should preclude a junior lienholder from receiving excess funds from a trustee sale when the same entity also was the senior lienholder and was the successful bidder at the sale. Because the merger doctrine is inapplicable to this case and RCW 61.24.080(3) governs this situation, we affirm the trial court’s ruling.
+FACTS
+¶2 In April 2001, John W. Ball executed a deed of trust (Senior Deed) encumbering his property in favor of Washington Mutual Bank to secure a $52,000 loan. Five years later, Ball took out a $132,000 home equity line of credit, later increased to $154,700, also with Washington Mutual Bank. This credit line was again secured by a deed of trust (Junior Deed) encumbering his property. JPMorgan Chase Bank (Chase) later acquired both deeds of trust in receivership, and Northwest Trustee Services, Inc., succeeded as trustee under both deeds of trust. Ball died intestate on March 18,2009, and Laureen Monette was appointed as the personal representative of his Estate.
+¶3 The Estate later defaulted on the Senior Deed (then securing a debt of approximately $56,000), and Northwest Trustee sold the property by trustee’s sale in September 2011. Home Sales, Inc., a wholly owned subsidiary of Chase, purchased the property for $92,500. After the amount of the Senior Deed was satisfied Northwest Trustee deposited the surplus funds ($35,286.22) into the court registry pursuant to RCW 61.24.080.
+¶4 In November 2011, the Estate moved the trial court to disburse the surplus funds to it, arguing that “[a]ny and all other claims would be subordinate to that of the Estate.” Clerk’s Papers at 31. Chase opposed this motion, arguing that it held a superior interest to the surplus funds by virtue of the Junior Deed, on which the Estate still owed $135,230.65. Chase also moved the trial court by cross motion to disburse the surplus funds to it. The superior court denied the Estate’s motion, granted Chase’s cross motion, and directed that the surplus funds be disbursed to Chase. The Estate appealed, and we stayed the appeal pending our decision in In re Trustee’s Sale of Real Property of Giannusa, 169 Wn. App. 904, 282 P.3d 122 (2012).
+DISCUSSION
+¶5 The Estate argues that the trial court “erred by determining that [Chase] is entitled to surplus funds, as junior lien holder [sic], despite the fact that it was the successful bidder at the trustee sale” thereby merging “its deed of trust [with] its fee title in the property.” Br. of Appellant at 5. Because RCW 61.24.080(3) governs this situation and the merger doctrine is inapplicable to this case, we disagree and affirm the trial court’s ruling.
+¶6 The issues presented in this appeal are purely legal. Therefore, our review is de novo. In re Tr.’s Sale of Real Prop. of Upton, 102 Wn. App. 220, 223, 6 P.3d 1231 (2000). In addition, we review questions of statutory construction de novo. Real Bank, SSB v. Sarich, 161 Wn.2d 544, 547, 167 P.3d 555 (2007).
+A. Deeds of Trust
+¶7 Chapter 61.24 RCW governs deeds of trust in Washington. Beal Bank, 161 Wn.2d at 548. Under this chapter, a deed of trust holder may nonjudicially foreclose at a trustee’s sale when a borrower defaults under the terms of the obligation and the deed of trust contains a power of sale. RCW 61.24.030. At the trustee’s sale, anyone other than the trustee may bid on the property. RCW 61.24.070(1). After covering the sale’s expense, the trustee first applies the proceeds to the obligation foreclosed. RCW 61.24.080(1), (2). Next, the trustee deposits any surplus funds with the superior court clerk, who may disburse those funds only by superior court order. RCW 61.24.080(3).
+¶8 Interests in the surplus funds continue in the same priority order that they attached to the property. Specifically,
+[i]nterests in, or liens or claims of liens against the property eliminated by sale under this section shall attach to the surplus in the order of priority that it had attached to the property. A party seeking disbursement of the surplus funds shall file a motion requesting disbursement in the superior court for the county in which the surplus funds are deposited.
+RCW 61.24.080(3).
+¶9 In Beal Bank, the Washington Supreme Court held that when a senior lienholder nonjudicially forecloses on a deed of trust through a trustee’s sale, the foreclosure eliminates the security of the junior lienholder (i.e., the deed of trust), but “the debts and obligations owed to [a] nonforeclosing junior lienholder are not affected by foreclosure.” Beal Bank, 161 Wn.2d at 548. Thus, the beneficiary of a second deed of trust has a superior interest in the surplus over the borrower. In re Upton, 102 Wn. App. at 224. More recently, in In re Giannusa, we held that
+the deed of trust act plainly allows a purchasing junior lien-holder to recover surplus funds. Under RCW 61.24.080(3), the junior lienholder’s interest, eliminated by the trustee’s sale, attaches to the surplus. The junior lienholder has priority to the surplus over the property owner.
+In re Giannusa, 169 Wn. App. at 910.
+B. Merger Doctrine
+¶10 The Estate argues that the merger doctrine precludes Chase from receiving the surplus funds from the trustee sale because Chase was the successful bidder at the sale. Whether the common law doctrine of merger applies to the disbursement of surplus funds following a trustee’s sale appears to be an issue of first impression in Washington.
+¶11 Merger may occur when the fee interest and a charge, such as a deed of trust or encumbrance, vest in the possession of one person. Anderson v. Starr, 159 Wash. 641, 643, 294 P. 581 (1930). For example, if a person holds a five-year lease on a condominium but purchases the condominium before the end of the leasehold, the merger doctrine would dictate that the leasehold interest merges into the superior (fee) estate. As the Anderson court explained,
+“The doctrine of merger springs from the fact that when the entire equitable and legal estates are united in the same person, there can be no occasion to keep them distinct....
+Equity does not favor the doctrine of merger; and though two or more rights or estates are united in one person, equity will keep them distinct where it appears from the intention of the person, either express or implied, that he wishes them to be so kept... and this person will be presumed to intend that which is most to his advantage.”
+159 Wash, at 644 (quoting 1 Charles Hastings Wiltsie, A Treatise on the Law and Practice of Mortgage Foreclosure § 264 (4th ed. 1927)); Hilmes v. Moon, 168 Wash. 222, 237, 11 P.2d 253 (1932). Thus, for a merger to occur, two distinct estates or property rights must vest in the same person and that person must intend for the interests to unite.
+¶12 The doctrine of merger has been highly disfavored in Washington since at least 1922. Beecher v. Thompson, 120 Wash. 520, 524, 207 P. 1056 (1922) (“ The view generally held is that merger is not favored in the courts of law or equity.’ ” (quoting McCreary v. Coggeshall, 74 S.C. 42, 50, 53 S.E. 978 (1906))). Extensive research reveals a single appellate opinion where a Washington court elected to apply the doctrine in the mortgage context, First State Bank of Binford v. Arneson, 109 Wash. 346, 349-50, 186 P. 889 (1920), and then only because equity called for its application.
+¶13 Here, the merger doctrine is inapplicable because Chase did not hold fee title to the property and the junior security interest secured by the deed of trust at the same time. Once the trustee’s sale occurred, Chase obtained fee ownership in the property upon delivery of the deed. Simultaneously, Chase’s Junior Deed was extinguished. Because the junior security interest ceased to exist the exact moment Chase obtained fee ownership, there was no deed of trust to merge with the fee estate. This precludes any application of the merger doctrine.
+¶14 Because the merger doctrine does not apply, RCW. 61.24.080(3) and Beal Bank control. Chase, in its capacity as the former junior lienholder, has the superior right to the excess funds.
+¶15 Accordingly, we conclude that the trial court properly awarded the surplus funds to Chase and affirm its ruling.
+Penoyar and Maxa, JJ., concur.
+Unlike in the mortgage context, the merger doctrine has been accepted in the context of extinguishing real property encumbrances, such as easements. See, e.g., Radovich v. Nuzhat, 104 Wn. App. 800, 805, 16 P.3d 687 (2001) (“one cannot have an easement in one’s own property”).
+One scholar has persuasively argued that in the context of mortgages, the doctrine should be eliminated altogether as “modern title and finance practices have obviated the need for [it].” Ann M. Burkhart, Freeing Mortgages of Merger, 40 Vand. L. Rev. 283, 285 (1987). Restatement (Third) of Property: Mortgages § 8.5, at 608 (1997), takes this same view: “The doctrine of merger does not apply to mortgages or affect the enforceability of a mortgage obligation.”
