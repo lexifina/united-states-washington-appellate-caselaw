@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69316-6-I"
 decided: "2014-02-24"
-citations: ["180 Wash. App. 83", "179 Wash. App. 1038"]
+citations: ["180 Wash. App. 83"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Drake H. Sisley et al., Appellants, v. Seattle Public Schools, Respon
 source_url: "https://static.case.law/wash-app/180/cases/0083-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4188949
-cites_cases: ["108 P.3d 768", "108 P.3d 787", "112 Wn.2d 193", "112 Wn.2d 762", "12 Wn. App. 215", "126 Wn. App. 34", "153 Wn.2d 812", "156 Wn. App. 787", "171 Wn. App. 227", "180 Wn. App. 83", "180 Wn.2d 1024", "234 P.3d 332", "252 P.2d 253", "286 P.3d 974", "297 P.3d 706", "344 P.2d 705", "41 Wn.2d 859", "45 Wn. App. 29", "529 P.2d 863", "54 Wn.2d 743", "546 P.2d 81", "635 P.2d 1081", "64 Wn. App. 534", "723 P.2d 1195", "770 P.2d 1027", "776 P.2d 98", "826 P.2d 217", "86 Wn.2d 439", "87 Wn. App. 579", "943 P.2d 350", "96 Wn.2d 473"]
+cites_cases: ["108 P.3d 768", "108 P.3d 787", "112 Wn.2d 193", "112 Wn.2d 762", "12 Wn. App. 215", "126 Wn. App. 34", "153 Wn.2d 812", "156 Wn. App. 787", "171 Wn. App. 227", "180 Wn.2d 1024", "234 P.3d 332", "252 P.2d 253", "286 P.3d 974", "297 P.3d 706", "344 P.2d 705", "41 Wn.2d 859", "45 Wn. App. 29", "529 P.2d 863", "54 Wn.2d 743", "546 P.2d 81", "635 P.2d 1081", "64 Wn. App. 534", "723 P.2d 1195", "770 P.2d 1027", "776 P.2d 98", "826 P.2d 217", "86 Wn.2d 439", "87 Wn. App. 579", "943 P.2d 350", "96 Wn.2d 473"]
 ---
 
 # Sisley v. Seattle Public Schools
