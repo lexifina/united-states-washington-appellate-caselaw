@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43810-1-II"
 decided: "2014-02-25"
-citations: ["181 Wash. App. 1", "179 Wash. App. 1039"]
+citations: ["181 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Old City Hall LLC, Appellant, v. Pierce County AIDS Foundation et al.
 source_url: "https://static.case.law/wash-app/181/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4280229
-cites_cases: ["103 Wash. 577", "11 P.2d 958", "117 P.3d 1089", "12 Wn. App. 6", "150 Wn.2d 518", "155 Wn.2d 1", "168 Wash. 330", "169 Wn. App. 173", "175 P. 302", "175 Wn.2d 1024", "176 Wn.2d 404", "176 Wn.2d 909", "177 Wash. 229", "178 Wn.2d 732", "181 Wn. App. 1", "280 P.3d 491", "291 P.3d 253", "295 P.3d 201", "296 P.3d 860", "31 P.2d 506", "310 P.3d 1275", "34 Wn. App. 483", "449 P.2d 104", "461 P.2d 317", "528 P.2d 502", "54 Wn. App. 688", "564 P.2d 1137", "663 P.2d 141", "75 Wn.2d 133", "77 Wn.2d 219", "775 P.2d 474", "79 P.3d 1154", "88 Wn.2d 595"]
+cites_cases: ["103 Wash. 577", "11 P.2d 958", "117 P.3d 1089", "12 Wn. App. 6", "150 Wn.2d 518", "155 Wn.2d 1", "168 Wash. 330", "169 Wn. App. 173", "175 P. 302", "175 Wn.2d 1024", "176 Wn.2d 404", "176 Wn.2d 909", "177 Wash. 229", "178 Wn.2d 732", "280 P.3d 491", "291 P.3d 253", "295 P.3d 201", "296 P.3d 860", "31 P.2d 506", "310 P.3d 1275", "34 Wn. App. 483", "449 P.2d 104", "461 P.2d 317", "528 P.2d 502", "54 Wn. App. 688", "564 P.2d 1137", "663 P.2d 141", "75 Wn.2d 133", "77 Wn.2d 219", "775 P.2d 474", "79 P.3d 1154", "88 Wn.2d 595"]
 ---
 
 # Old City Hall LLC v. Pierce County Aids Foundation
