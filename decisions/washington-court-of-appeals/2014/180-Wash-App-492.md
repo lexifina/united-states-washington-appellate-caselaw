@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "42573-4-II"
 decided: "2014-03-04"
-citations: ["180 Wash. App. 492", "179 Wash. App. 1044"]
+citations: ["180 Wash. App. 492"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Jack Leck II."]
 source_url: "https://static.case.law/wash-app/180/cases/0492-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4187664
-cites_cases: ["100 Wn. App. 336", "100 Wn.2d 832", "101 P.3d 422", "107 Wn.2d 761", "117 Wn.2d 93", "122 Wn.2d 1", "124 Wn. App. 344", "125 P.2d 659", "125 P.3d 111", "128 Wn.2d 164", "13 Wn.2d 542", "132 P.3d 714", "140 Wn.2d 686", "141 Wn. App. 318", "147 Wn.2d 476", "149 Wn. App. 627", "150 P.3d 86", "154 Wn. App. 116", "156 Wn.2d 150", "156 Wn.2d 795", "159 Wn. App. 374", "159 Wn.2d 357", "160 Wn. App. 414", "161 Wn. App. 66", "163 Wn.2d 188", "163 Wn.2d 501", "166 Wn. App. 70", "167 Wn.2d 180", "169 P.3d 852", "170 Wn.2d 302", "172 Wn.2d 1007", "172 Wn.2d 671", "176 Wn. App. 244", "176 Wn.2d 58", "177 P.3d 708", "177 Wn.2d 1001", "178 Wn.2d 532", "180 Wn. App. 492", "181 Wn.2d 1008", "182 P.3d 951", "2 P3d 473", "205 P.3d 134", "217 P.3d 1159", "225 P.3d 1028", "241 P.3d 1234", "246 P.3d 550", "248 P.3d 124", "253 P.3d 394", "260 P.3d 884", "271 P.3d 259", "292 P.3d 715", "309 P.3d 498", "310 P.3d 814", "339 U.S. 306", "424 U.S. 319", "52 Wn. App. 30", "524 P.2d 242", "55 P.3d 597", "676 P.2d 444", "733 P.2d 530", "756 P2d 1332", "812 P.2d 86", "82 Wn. App. 185", "84 Wn.2d 90", "857 P.2d 989", "905 P.2d 355", "917 P.2d 155", "94 L. Ed. 865", "998 P.2d 336"]
+cites_cases: ["100 Wn. App. 336", "100 Wn.2d 832", "101 P.3d 422", "107 Wn.2d 761", "117 Wn.2d 93", "122 Wn.2d 1", "124 Wn. App. 344", "125 P.2d 659", "125 P.3d 111", "128 Wn.2d 164", "13 Wn.2d 542", "132 P.3d 714", "140 Wn.2d 686", "141 Wn. App. 318", "147 Wn.2d 476", "149 Wn. App. 627", "150 P.3d 86", "154 Wn. App. 116", "156 Wn.2d 150", "156 Wn.2d 795", "159 Wn. App. 374", "159 Wn.2d 357", "160 Wn. App. 414", "161 Wn. App. 66", "163 Wn.2d 188", "163 Wn.2d 501", "166 Wn. App. 70", "167 Wn.2d 180", "169 P.3d 852", "170 Wn.2d 302", "172 Wn.2d 1007", "172 Wn.2d 671", "176 Wn. App. 244", "176 Wn.2d 58", "177 P.3d 708", "177 Wn.2d 1001", "178 Wn.2d 532", "181 Wn.2d 1008", "182 P.3d 951", "2 P3d 473", "205 P.3d 134", "217 P.3d 1159", "225 P.3d 1028", "241 P.3d 1234", "246 P.3d 550", "248 P.3d 124", "253 P.3d 394", "260 P.3d 884", "271 P.3d 259", "292 P.3d 715", "309 P.3d 498", "310 P.3d 814", "339 U.S. 306", "424 U.S. 319", "52 Wn. App. 30", "524 P.2d 242", "55 P.3d 597", "676 P.2d 444", "733 P.2d 530", "756 P2d 1332", "812 P.2d 86", "82 Wn. App. 185", "84 Wn.2d 90", "857 P.2d 989", "905 P.2d 355", "917 P.2d 155", "94 L. Ed. 865", "998 P.2d 336"]
 ---
 
 # In re the Detention of Leck
