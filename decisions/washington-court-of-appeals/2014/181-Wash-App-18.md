@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70138-0-I"
 decided: "2014-03-24"
-citations: ["181 Wash. App. 18", "180 Wash. App. 1008"]
+citations: ["181 Wash. App. 18"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Estera Gradinaru, Appellant, v. The Department of Social and Health S
 source_url: "https://static.case.law/wash-app/181/cases/0018-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4280466
-cites_cases: ["110 Wn.2d 90", "140 Wn. App. 293", "151 Wn.2d 439", "162 Wn. App. 370", "165 P.3d 399", "175 Wn.2d 264", "181 Wn. App. 18", "181 Wn.2d 1010", "254 P.3d 919", "285 P.3d 854", "750 P.2d 258", "90 P.3d 26"]
+cites_cases: ["110 Wn.2d 90", "140 Wn. App. 293", "151 Wn.2d 439", "162 Wn. App. 370", "165 P.3d 399", "175 Wn.2d 264", "181 Wn.2d 1010", "254 P.3d 919", "285 P.3d 854", "750 P.2d 258", "90 P.3d 26"]
 ---
 
 # Gradinaru v. Department of Social & Health Services
