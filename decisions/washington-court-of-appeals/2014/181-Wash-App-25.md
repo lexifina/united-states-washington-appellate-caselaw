@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70334-0-I"
 decided: "2014-03-24"
-citations: ["181 Wash. App. 25", "180 Wash. App. 1008"]
+citations: ["181 Wash. App. 25"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Frank Coluccio Construction Company, Inc., Appellant, v. The Departme
 source_url: "https://static.case.law/wash-app/181/cases/0025-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4280793
-cites_cases: ["106 Wn. App. 333", "117 F.3d 691", "117 P.3d 385", "119 P.3d 366", "119 Wn. App. 906", "126 Wn.2d 36", "128 Wn. App. 922", "129 Wn. App. 356", "136 Wn. App. 1", "138 Wn.2d 413", "139 Wn. App. 35", "139 Wn. App. 98", "144 P.3d 1160", "145 Wn. App. 52", "146 P.3d 1212", "148 Wn. App. 920", "156 P.3d 250", "158 Wn.2d 422", "160 Wn. App. 194", "161 P.3d 387", "17 BNA OSHC 1385", "181 Wn. App. 25", "185 P.3d 646", "19 BNA OSHC 1121", "19 BNA OSHC 1131", "19 BNA OSHC 1622", "2000 WL 33217383", "2007 WL 3054874", "201 P.3d 407", "24 P.3d 424", "248 P.3d 1085", "29 C.F.R. § 1926.28", "448 U.S. 607", "537 F.3d 79", "83 P.3d 1012", "891 P.2d 725", "905 F.2d 589", "95 Wn. App. 858", "975 P.2d 567", "980 P.2d 701"]
+cites_cases: ["106 Wn. App. 333", "117 F.3d 691", "117 P.3d 385", "119 P.3d 366", "119 Wn. App. 906", "126 Wn.2d 36", "128 Wn. App. 922", "129 Wn. App. 356", "136 Wn. App. 1", "138 Wn.2d 413", "139 Wn. App. 35", "139 Wn. App. 98", "144 P.3d 1160", "145 Wn. App. 52", "146 P.3d 1212", "148 Wn. App. 920", "156 P.3d 250", "158 Wn.2d 422", "160 Wn. App. 194", "161 P.3d 387", "17 BNA OSHC 1385", "185 P.3d 646", "19 BNA OSHC 1121", "19 BNA OSHC 1131", "19 BNA OSHC 1622", "2000 WL 33217383", "2007 WL 3054874", "201 P.3d 407", "24 P.3d 424", "248 P.3d 1085", "29 C.F.R. § 1926.28", "448 U.S. 607", "537 F.3d 79", "83 P.3d 1012", "891 P.2d 725", "905 F.2d 589", "95 Wn. App. 858", "975 P.2d 567", "980 P.2d 701"]
 ---
 
 # Frank Coluccio Construction Co. v. Department of Labor & Industries
