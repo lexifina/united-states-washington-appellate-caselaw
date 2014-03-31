@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "69003-5-I; 69700-5-I"
 decided: "2014-03-31"
-citations: ["181 Wash. App. 247", "180 Wash. App. 1014"]
+citations: ["181 Wash. App. 247"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Michael T. Pigott, Appellant.
 source_url: "https://static.case.law/wash-app/181/cases/0247-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4280581
-cites_cases: ["125 Wn.2d 24", "130 Wn.2d 244", "140 Wn.2d 1", "147 P.3d 1201", "158 Wn.2d 759", "175 Wash. 146", "181 Wn. App. 247", "188 F. Supp. 2d 549", "194 Wash. 438", "252 Ill. 534", "26 P.2d 1049", "293 F. 1013", "365 F.3d 215", "54 App. D.C. 46", "597 F.3d 263", "672 F. Supp. 2d 723", "78 P.2d 561", "882 P.2d 747", "90 Wn. App. 100", "922 P.2d 1304", "950 P.2d 1024", "96 N.E. 1077", "991 P.2d 1151"]
+cites_cases: ["125 Wn.2d 24", "130 Wn.2d 244", "140 Wn.2d 1", "147 P.3d 1201", "158 Wn.2d 759", "175 Wash. 146", "188 F. Supp. 2d 549", "194 Wash. 438", "252 Ill. 534", "26 P.2d 1049", "293 F. 1013", "365 F.3d 215", "54 App. D.C. 46", "597 F.3d 263", "672 F. Supp. 2d 723", "78 P.2d 561", "882 P.2d 747", "90 Wn. App. 100", "922 P.2d 1304", "950 P.2d 1024", "96 N.E. 1077", "991 P.2d 1151"]
 ---
 
 # State v. Pigott
