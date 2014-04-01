@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44868-8-II"
 decided: "2014-04-01"
-citations: ["181 Wash. App. 45", "180 Wash. App. 1020"]
+citations: ["181 Wash. App. 45"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Welfare of A.B. The Department of Social and Hea
 source_url: "https://static.case.law/wash-app/181/cases/0045-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4281506
-cites_cases: ["106 Wn.2d 212", "108 P.3d 156", "108 Wn. App. 149", "119 Wn.2d 600", "126 Wn. App. 181", "161 Wn.2d 927", "168 Wn.2d 908", "169 P.3d 452", "179 Wn.2d 224", "181 Wn. App. 45", "225 Or. 365", "232 P.3d 1104", "28 Wn. App. 905", "29 P.3d 1275", "315 P.3d 470", "479 U.S. 1050", "507 U.S. 927", "513 P.2d 831", "611 P.2d 1245", "627 P.2d 551", "721 P.2d 918", "82 Wn.2d 736", "836 P.2d 200", "93 Wn.2d 689"]
+cites_cases: ["106 Wn.2d 212", "108 P.3d 156", "108 Wn. App. 149", "119 Wn.2d 600", "126 Wn. App. 181", "161 Wn.2d 927", "168 Wn.2d 908", "169 P.3d 452", "179 Wn.2d 224", "225 Or. 365", "232 P.3d 1104", "28 Wn. App. 905", "29 P.3d 1275", "315 P.3d 470", "479 U.S. 1050", "507 U.S. 927", "513 P.2d 831", "611 P.2d 1245", "627 P.2d 551", "721 P.2d 918", "82 Wn.2d 736", "836 P.2d 200", "93 Wn.2d 689"]
 ---
 
 # Department of Social & Health Services v. E.I.
