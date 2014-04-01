@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43532-2-II"
 decided: "2014-04-01"
-citations: ["181 Wash. App. 272", "180 Wash. App. 1019"]
+citations: ["181 Wash. App. 272"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Donald Wayne Corey, Appellant
 source_url: "https://static.case.law/wash-app/181/cases/0272-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4281326
-cites_cases: ["125 Wn.2d 173", "126 Wn.2d 353", "133 Wn.2d 559", "133 Wn.2d 885", "134 Wn.2d 725", "141 Wn.2d 448", "152 Wn. App. 64", "181 Wn. App. 272", "181 Wn.2d 1008", "214 P.3d 968", "54 Wn. App. 521", "6 P.3d 1150", "63 Wn. App. 252", "774 P.2d 532", "78 Wn. App. 746", "817 P.2d 1390", "883 P.2d 303", "894 P.2d 558", "899 P.2d 16", "947 P.2d 708", "948 P.2d 381", "953 P.2d 450"]
+cites_cases: ["125 Wn.2d 173", "126 Wn.2d 353", "133 Wn.2d 559", "133 Wn.2d 885", "134 Wn.2d 725", "141 Wn.2d 448", "152 Wn. App. 64", "181 Wn.2d 1008", "214 P.3d 968", "54 Wn. App. 521", "6 P.3d 1150", "63 Wn. App. 252", "774 P.2d 532", "78 Wn. App. 746", "817 P.2d 1390", "883 P.2d 303", "894 P.2d 558", "899 P.2d 16", "947 P.2d 708", "948 P.2d 381", "953 P.2d 450"]
 ---
 
 # State v. Corey
