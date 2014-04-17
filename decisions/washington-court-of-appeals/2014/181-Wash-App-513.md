@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30985-1-III"
 decided: "2014-04-17"
-citations: ["181 Wash. App. 513", "180 Wash. App. 1027"]
+citations: ["181 Wash. App. 513"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Guardianship of Kenyon Cornelius."]
 source_url: "https://static.case.law/wash-app/181/cases/0513-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4280444
-cites_cases: ["100 Wn.2d 26", "101 Wn.2d 392", "110 Wn.2d 682", "111 P.3d 879", "111 Wn. App. 351", "112 Wn. App. 384", "116 P.3d 1064", "123 Wn.2d 750", "126 Wn.2d 315", "127 Wn. App. 596", "128 Wn. App. 818", "138 Wn.2d 773", "143 P.3d 571", "146 Wn.2d 878", "147 Wn. App. 641", "151 Wn.2d 664", "158 Wn.2d 208", "161 Wn.2d 927", "164 Wn.2d 432", "168 Wn. App. 269", "169 P.3d 452", "173 Wn.2d 173", "181 Wn. App. 513", "191 P.3d 879", "196 P.3d 753", "1980 OK 140", "265 P.3d 876", "277 P.3d 675", "356 F. Supp. 620", "414 F.3d 783", "42 U.S.C. § 1983", "44 P.3d 924", "48 P.3d 1029", "51 P.3d 776", "533 P.2d 841", "570 P.2d 1035", "611 P.2d 1245", "617 P.2d 886", "621 P.2d 108", "666 P.2d 351", "679 P.2d 916", "74 Wn. App. 356", "746 F.2d 1205", "757 P.2d 492", "767 F.2d 651", "85 Wn.2d 252", "871 P.2d 1050", "873 P.2d 566", "89 Wn.2d 190", "893 P.2d 629", "90 Wn. App. 650", "91 P.3d 875", "93 Wn.2d 689", "94 Wn. App. 935", "94 Wn.2d 757", "953 P.2d 812", "974 P.2d 1261", "982 P.2d 100", "998 F.2d 764"]
+cites_cases: ["100 Wn.2d 26", "101 Wn.2d 392", "110 Wn.2d 682", "111 P.3d 879", "111 Wn. App. 351", "112 Wn. App. 384", "116 P.3d 1064", "123 Wn.2d 750", "126 Wn.2d 315", "127 Wn. App. 596", "128 Wn. App. 818", "138 Wn.2d 773", "143 P.3d 571", "146 Wn.2d 878", "147 Wn. App. 641", "151 Wn.2d 664", "158 Wn.2d 208", "161 Wn.2d 927", "164 Wn.2d 432", "168 Wn. App. 269", "169 P.3d 452", "173 Wn.2d 173", "191 P.3d 879", "196 P.3d 753", "1980 OK 140", "265 P.3d 876", "277 P.3d 675", "356 F. Supp. 620", "414 F.3d 783", "42 U.S.C. § 1983", "44 P.3d 924", "48 P.3d 1029", "51 P.3d 776", "533 P.2d 841", "570 P.2d 1035", "611 P.2d 1245", "617 P.2d 886", "621 P.2d 108", "666 P.2d 351", "679 P.2d 916", "74 Wn. App. 356", "746 F.2d 1205", "757 P.2d 492", "767 F.2d 651", "85 Wn.2d 252", "871 P.2d 1050", "873 P.2d 566", "89 Wn.2d 190", "893 P.2d 629", "90 Wn. App. 650", "91 P.3d 875", "93 Wn.2d 689", "94 Wn. App. 935", "94 Wn.2d 757", "953 P.2d 812", "974 P.2d 1261", "982 P.2d 100", "998 F.2d 764"]
 ---
 
 # In re the Guardianship of Cornelius
