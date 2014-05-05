@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70143-6-I"
 decided: "2014-05-05"
-citations: ["182 Wash. App. 256", "180 Wash. App. 1054"]
+citations: ["182 Wash. App. 256"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Western National Assurance Company, Respondent, v. Shelcon Constructi
 source_url: "https://static.case.law/wash-app/182/cases/0256-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4319547
-cites_cases: ["1 P.3d 1167", "11 Wn. App. 303", "123 Wn. App. 728", "128 Wn.2d 73", "141 Wn.2d 55", "145 Wn. App. 687", "145 Wn.2d 417", "161 Wn.2d 43", "164 P.3d 454", "181 Wn.2d 1024", "182 Wn. App. 256", "186 P.3d 1188", "2006 ND 187", "301 Ga. App. 17", "38 P.3d 322", "522 P.2d 198", "81 Wn. App. 293", "904 P.2d 749", "914 P.2d 119", "967 S.W.2d 74", "97 P.3d 751", "98 Wn. App. 7", "990 P.2d 414"]
+cites_cases: ["1 P.3d 1167", "11 Wn. App. 303", "123 Wn. App. 728", "128 Wn.2d 73", "141 Wn.2d 55", "145 Wn. App. 687", "145 Wn.2d 417", "161 Wn.2d 43", "164 P.3d 454", "181 Wn.2d 1024", "186 P.3d 1188", "2006 ND 187", "301 Ga. App. 17", "38 P.3d 322", "522 P.2d 198", "81 Wn. App. 293", "904 P.2d 749", "914 P.2d 119", "967 S.W.2d 74", "97 P.3d 751", "98 Wn. App. 7", "990 P.2d 414"]
 ---
 
 # Western National Assurance Co. v. Shelcon Construction Group, LLC
