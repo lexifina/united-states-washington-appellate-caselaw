@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30150-8-III; 30766-2-III"
 decided: "2014-05-08"
-citations: ["181 Wash. App. 743", "181 Wash. App. 1005"]
+citations: ["181 Wash. App. 743"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Personal Restraint of Juan Pedro Ramos, Petition
 source_url: "https://static.case.law/wash-app/181/cases/0743-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4281894
-cites_cases: ["122 Wn.2d 772", "127 Wn.2d 322", "133 S. Ct. 1103", "139 Wn.2d 581", "169 F.3d 787", "169 Wn. App. 428", "171 Wn.2d 163", "181 Wn. App. 743", "181 Wn.2d 1029", "249 P.3d 1015", "273 F. App'x 77", "278 F.3d 203", "282 P.3d 98", "341 U.S. 223", "38 Wash. 376", "397 U.S. 759", "466 U.S. 668", "474 U.S. 52", "526 F.3d 800", "559 U.S. 356", "586 F.3d 487", "77 So. 3d 39", "8 U.S.C. § 1101", "8 U.S.C. § 1227", "80 P. 556", "863 P.2d 554", "899 P.2d 1251", "95 L. Ed. 886", "989 P.2d 512"]
+cites_cases: ["122 Wn.2d 772", "127 Wn.2d 322", "133 S. Ct. 1103", "139 Wn.2d 581", "169 F.3d 787", "169 Wn. App. 428", "171 Wn.2d 163", "181 Wn.2d 1029", "249 P.3d 1015", "273 F. App'x 77", "278 F.3d 203", "282 P.3d 98", "341 U.S. 223", "38 Wash. 376", "397 U.S. 759", "466 U.S. 668", "474 U.S. 52", "526 F.3d 800", "559 U.S. 356", "586 F.3d 487", "77 So. 3d 39", "8 U.S.C. § 1101", "8 U.S.C. § 1227", "80 P. 556", "863 P.2d 554", "899 P.2d 1251", "95 L. Ed. 886", "989 P.2d 512"]
 ---
 
 # State v. Ramos
