@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71437-6-I"
 decided: "2014-05-12"
-citations: ["181 Wash. App. 553", "181 Wash. App. 1009"]
+citations: ["181 Wash. App. 553"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Shane Austin Stacy, Appellant
 source_url: "https://static.case.law/wash-app/181/cases/0553-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4279605
-cites_cases: ["102 Wn.2d 188", "103 P.3d 1219", "107 Wn.2d 882", "116 P.3d 454", "116 Wn. App. 851", "116 Wn.2d 51", "120 Wn.2d 913", "123 Wn.2d 296", "124 P.3d 644", "128 Wn. App. 625", "130 Wn.2d 726", "132 Wn.2d 529", "134 Wn. App. 27", "134 Wn.2d 868", "137 Wn.2d 792", "139 P.3d 354", "142 Wn. App. 314", "142 Wn.2d 904", "146 Wn.2d 237", "147 Wn.2d 330", "148 Wn. App. 592", "153 Wn.2d 378", "155 P.3d 125", "156 Wn.2d 102", "159 Wn.2d 918", "16 P.3d 626", "168 Wn.2d 350", "174 P.3d 1205", "174 Wn.2d 96", "175 Wn.2d 725", "176 Wn.2d 1", "176 Wn.2d 58", "181 Wn. App. 553", "181 Wn.2d 1008", "200 P.3d 287", "229 P.3d 669", "271 P.3d 876", "287 P.3d 539", "288 P.3d 1113", "292 P.3d 715", "378 P.2d 444", "435 P.2d 692", "44 P.3d 845", "478 U.S. 1", "564 P.2d 784", "58 P.3d 889", "61 Wn.2d 403", "67 Wn. App. 157", "68 P.3d 290", "685 P.2d 564", "72 Wn.2d 786", "735 P.2d 64", "804 P.2d 577", "834 P.2d 651", "845 P.2d 1325", "868 P.2d 835", "88 Wn.2d 573", "927 P.2d 240", "940 P.2d 546", "952 P.2d 116", "975 P.2d 967"]
+cites_cases: ["102 Wn.2d 188", "103 P.3d 1219", "107 Wn.2d 882", "116 P.3d 454", "116 Wn. App. 851", "116 Wn.2d 51", "120 Wn.2d 913", "123 Wn.2d 296", "124 P.3d 644", "128 Wn. App. 625", "130 Wn.2d 726", "132 Wn.2d 529", "134 Wn. App. 27", "134 Wn.2d 868", "137 Wn.2d 792", "139 P.3d 354", "142 Wn. App. 314", "142 Wn.2d 904", "146 Wn.2d 237", "147 Wn.2d 330", "148 Wn. App. 592", "153 Wn.2d 378", "155 P.3d 125", "156 Wn.2d 102", "159 Wn.2d 918", "16 P.3d 626", "168 Wn.2d 350", "174 P.3d 1205", "174 Wn.2d 96", "175 Wn.2d 725", "176 Wn.2d 1", "176 Wn.2d 58", "181 Wn.2d 1008", "200 P.3d 287", "229 P.3d 669", "271 P.3d 876", "287 P.3d 539", "288 P.3d 1113", "292 P.3d 715", "378 P.2d 444", "435 P.2d 692", "44 P.3d 845", "478 U.S. 1", "564 P.2d 784", "58 P.3d 889", "61 Wn.2d 403", "67 Wn. App. 157", "68 P.3d 290", "685 P.2d 564", "72 Wn.2d 786", "735 P.2d 64", "804 P.2d 577", "834 P.2d 651", "845 P.2d 1325", "868 P.2d 835", "88 Wn.2d 573", "927 P.2d 240", "940 P.2d 546", "952 P.2d 116", "975 P.2d 967"]
 ---
 
 # State v. Stacy
