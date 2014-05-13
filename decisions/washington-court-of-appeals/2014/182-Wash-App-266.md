@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31027-2-III"
 decided: "2014-05-13"
-citations: ["182 Wash. App. 266", "181 Wash. App. 1010"]
+citations: ["182 Wash. App. 266"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Thomas Robert Hudlow, Appella
 source_url: "https://static.case.law/wash-app/182/cases/0266-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4319678
-cites_cases: ["104 Wn.2d 412", "105 Wn. App. 775", "110 Wn. App. 651", "114 N.J. 427", "119 Wn. App. 494", "124 Ga. App. 649", "128 P.3d 631", "131 Wn. App. 611", "133 Wn.2d 389", "134 Wn. App. 853", "135 Wn.2d 97", "137 Wn.2d 378", "14 Wn. App. 408", "142 P.3d 668", "144 Wn.2d 600", "16 Wn. App. 603", "171 Wn.2d 764", "173 Wn.2d 97", "174 Wn.2d 96", "182 Wn. App. 266", "185 S.E.2d 586", "20 P.3d 1062", "254 P.3d 815", "265 P.3d 863", "271 P.3d 876", "30 P.3d 1255", "354 N.W.2d 21", "398 So. 2d 851", "41 P.3d 1204", "443 U.S. 307", "464 F.2d 359", "541 U.S. 36", "542 P.2d 128", "547 U.S. 813", "555 A.2d 575", "559 P.2d 1", "57 Wn. App. 277", "61 Wn. App. 224", "61 Wn. App. 539", "616 P.2d 628", "650 P.2d 217", "705 P.2d 1182", "787 P.2d 949", "81 P.3d 157", "810 P.2d 41", "811 P.2d 687", "88 Wn. App. 572", "90 Wn. App. 250", "916 So. 2d 294", "94 Wn.2d 216", "945 P.2d 1120", "945 P.2d 749", "951 P.2d 823", "954 P.2d 900", "97 Wn.2d 840", "972 P.2d 1250"]
+cites_cases: ["104 Wn.2d 412", "105 Wn. App. 775", "110 Wn. App. 651", "114 N.J. 427", "119 Wn. App. 494", "124 Ga. App. 649", "128 P.3d 631", "131 Wn. App. 611", "133 Wn.2d 389", "134 Wn. App. 853", "135 Wn.2d 97", "137 Wn.2d 378", "14 Wn. App. 408", "142 P.3d 668", "144 Wn.2d 600", "16 Wn. App. 603", "171 Wn.2d 764", "173 Wn.2d 97", "174 Wn.2d 96", "185 S.E.2d 586", "20 P.3d 1062", "254 P.3d 815", "265 P.3d 863", "271 P.3d 876", "30 P.3d 1255", "354 N.W.2d 21", "398 So. 2d 851", "41 P.3d 1204", "443 U.S. 307", "464 F.2d 359", "541 U.S. 36", "542 P.2d 128", "547 U.S. 813", "555 A.2d 575", "559 P.2d 1", "57 Wn. App. 277", "61 Wn. App. 224", "61 Wn. App. 539", "616 P.2d 628", "650 P.2d 217", "705 P.2d 1182", "787 P.2d 949", "81 P.3d 157", "810 P.2d 41", "811 P.2d 687", "88 Wn. App. 572", "90 Wn. App. 250", "916 So. 2d 294", "94 Wn.2d 216", "945 P.2d 1120", "945 P.2d 749", "951 P.2d 823", "954 P.2d 900", "97 Wn.2d 840", "972 P.2d 1250"]
 ---
 
 # State v. Hudlow
