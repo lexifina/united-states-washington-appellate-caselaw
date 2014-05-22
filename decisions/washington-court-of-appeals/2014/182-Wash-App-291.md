@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31522-3-III"
 decided: "2014-05-22"
-citations: ["182 Wash. App. 291", "181 Wash. App. 1013"]
+citations: ["182 Wash. App. 291"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Spokane School District No. 81, Respondent, v. Spokane Education Asso
 source_url: "https://static.case.law/wash-app/182/cases/0291-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4319351
-cites_cases: ["104 Wn.2d 353", "106 Wn.2d 425", "120 P.3d 550", "130 Wn.2d 401", "140 Wn.2d 200", "148 Wn. App. 907", "152 Wn.2d 171", "155 Wn.2d 451", "159 Wn. App. 899", "167 Wn. App. 221", "167 Wn. App. 624", "174 Wn.2d 560", "182 Wn. App. 291", "201 P.3d 396", "247 P.3d 790", "272 P.3d 289", "273 P.3d 1035", "276 P.3d 1277", "289 F.3d 373", "29 U.S.C. § 794", "29 U.S.C. §§ 2601-2654", "29 Wn. App. 150", "31 Wn. App. 77", "32 Wn. App. 422", "363 U.S. 564", "363 U.S. 574", "363 U.S. 593", "38 Wn. App. 715", "521 P.2d 937", "58 Wn. App. 161", "627 P.2d 1330", "638 P.2d 1213", "639 P.2d 821", "647 P.2d 1058", "65 Wn. App. 811", "665 P.2d 1337", "687 P.2d 1154", "705 P.2d 1195", "713 P.2d 1109", "723 P.2d 1093", "791 P.2d 575", "829 P.2d 1152", "83 Wn.2d 698", "84 Wn. App. 723", "924 P.2d 13", "930 P.2d 340", "94 P.3d 945", "96 Wn.2d 785", "99 Wn.2d 878", "995 P.2d 63"]
+cites_cases: ["104 Wn.2d 353", "106 Wn.2d 425", "120 P.3d 550", "130 Wn.2d 401", "140 Wn.2d 200", "148 Wn. App. 907", "152 Wn.2d 171", "155 Wn.2d 451", "159 Wn. App. 899", "167 Wn. App. 221", "167 Wn. App. 624", "174 Wn.2d 560", "201 P.3d 396", "247 P.3d 790", "272 P.3d 289", "273 P.3d 1035", "276 P.3d 1277", "289 F.3d 373", "29 U.S.C. § 794", "29 U.S.C. §§ 2601-2654", "29 Wn. App. 150", "31 Wn. App. 77", "32 Wn. App. 422", "363 U.S. 564", "363 U.S. 574", "363 U.S. 593", "38 Wn. App. 715", "521 P.2d 937", "58 Wn. App. 161", "627 P.2d 1330", "638 P.2d 1213", "639 P.2d 821", "647 P.2d 1058", "65 Wn. App. 811", "665 P.2d 1337", "687 P.2d 1154", "705 P.2d 1195", "713 P.2d 1109", "723 P.2d 1093", "791 P.2d 575", "829 P.2d 1152", "83 Wn.2d 698", "84 Wn. App. 723", "924 P.2d 13", "930 P.2d 340", "94 P.3d 945", "96 Wn.2d 785", "99 Wn.2d 878", "995 P.2d 63"]
 ---
 
 # Spokane School District No. 81 v. Spokane Education Ass'n
