@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70329-3-I"
 decided: "2014-05-27"
-citations: ["182 Wash. App. 315", "181 Wash. App. 1015"]
+citations: ["182 Wash. App. 315"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Curt Casey et al., Respondents, v. Sudden Valley Community Associatio
 source_url: "https://static.case.law/wash-app/182/cases/0315-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4320851
-cites_cases: ["100 Wn.2d 537", "121 P.3d 1166", "144 Wn.2d 889", "147 Wn.2d 476", "148 Wn.2d 723", "149 Wn.2d 178", "155 Wn.2d 612", "160 Wn.2d 944", "162 P.3d 413", "178 Wn. App. 110", "182 Wn. App. 315", "182 Wn.2d 1007", "31 P.3d 1174", "316 P.3d 1070", "38 Santa Clara L. Rev. 1135", "55 P.3d 597", "63 P.3d 792", "66 P.3d 1050", "673 P.2d 179", "76 Wn. App. 267", "883 P.2d 1387"]
+cites_cases: ["100 Wn.2d 537", "121 P.3d 1166", "144 Wn.2d 889", "147 Wn.2d 476", "148 Wn.2d 723", "149 Wn.2d 178", "155 Wn.2d 612", "160 Wn.2d 944", "162 P.3d 413", "178 Wn. App. 110", "182 Wn.2d 1007", "31 P.3d 1174", "316 P.3d 1070", "38 Santa Clara L. Rev. 1135", "55 P.3d 597", "63 P.3d 792", "66 P.3d 1050", "673 P.2d 179", "76 Wn. App. 267", "883 P.2d 1387"]
 ---
 
 # Casey v. Sudden Valley Community Ass'n
