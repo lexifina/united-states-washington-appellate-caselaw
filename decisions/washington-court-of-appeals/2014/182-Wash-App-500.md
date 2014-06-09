@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71643-3-I"
 decided: "2014-06-09"
-citations: ["182 Wash. App. 500", "181 Wash. App. 1026"]
+citations: ["182 Wash. App. 500"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Arthur West, Appellant, v. The Department of Licensing, Respondent."]
 source_url: "https://static.case.law/wash-app/182/cases/0500-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4323682
-cites_cases: ["112 Wn.2d 193", "114 Wn. App. 565", "117 P.3d 1117", "133 Wn.2d 39", "137 Wn.2d 957", "149 Wn.2d 444", "153 P.3d 846", "155 Wn.2d 89", "156 Wn. App. 110", "159 Wn.2d 700", "166 Wn. App. 789", "172 Wn.2d 398", "174 Wn.2d 1010", "181 Wn.2d 1027", "182 Wn. App. 500", "231 P.3d 219", "259 P.3d 190", "271 P.3d 932", "580 P.2d 246", "59 P.3d 109", "69 P.3d 318", "770 P.2d 1027", "82 Wn. App. 236", "88 Wn. App. 306", "90 Wn.2d 123", "917 P.2d 604", "940 P.2d 1362", "945 P.2d 727", "977 P.2d 554", "98 Wn. App. 612", "989 P.2d 1257"]
+cites_cases: ["112 Wn.2d 193", "114 Wn. App. 565", "117 P.3d 1117", "133 Wn.2d 39", "137 Wn.2d 957", "149 Wn.2d 444", "153 P.3d 846", "155 Wn.2d 89", "156 Wn. App. 110", "159 Wn.2d 700", "166 Wn. App. 789", "172 Wn.2d 398", "174 Wn.2d 1010", "181 Wn.2d 1027", "231 P.3d 219", "259 P.3d 190", "271 P.3d 932", "580 P.2d 246", "59 P.3d 109", "69 P.3d 318", "770 P.2d 1027", "82 Wn. App. 236", "88 Wn. App. 306", "90 Wn.2d 123", "917 P.2d 604", "940 P.2d 1362", "945 P.2d 727", "977 P.2d 554", "98 Wn. App. 612", "989 P.2d 1257"]
 ---
 
 # West v. Department of Licensing
