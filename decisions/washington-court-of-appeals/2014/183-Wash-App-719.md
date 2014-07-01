@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30765-4-III"
 decided: "2014-07-01"
-citations: ["183 Wash. App. 719", "182 Wash. App. 1011"]
+citations: ["183 Wash. App. 719"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Melody Lynn Wright, Appellant
 source_url: "https://static.case.law/wash-app/183/cases/0719-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4345702
-cites_cases: ["101 Wn.2d 576", "109 Wn.2d 207", "110 P.3d 219", "113 Wn.2d 810", "115 Wn.2d 434", "116 Wn.2d 189", "119 Wn.2d 192", "125 Wn.2d 378", "125 Wn.2d 407", "126 Wn. App. 803", "133 P.3d 936", "139 Wn.2d 107", "157 Wn.2d 1", "171 Wn.2d 646", "175 Wn. App. 642", "176 Wn.2d 531", "180 Wn. App. 92", "183 Wn. App. 719", "254 P.3d 803", "295 P.3d 219", "309 P.3d 534", "320 P.3d 197", "384 U.S. 436", "41 Wn. App. 121", "42 U.S.C. § 1396", "442 U.S. 114", "475 P.2d 109", "49 Wn. App. 59", "51 Wn. App. 582", "595 P.2d 912", "681 P.2d 237", "702 P.2d 1218", "741 P.2d 78", "743 P.2d 1237", "749 P.2d 160", "754 P.2d 1050", "78 Wn.2d 9", "783 P.2d 1061", "798 P.2d 1146", "802 P.2d 1371", "829 P.2d 1068", "885 P.2d 824", "886 P.2d 123", "9 A. 56", "92 Wn.2d 193", "985 P.2d 365"]
+cites_cases: ["101 Wn.2d 576", "109 Wn.2d 207", "110 P.3d 219", "113 Wn.2d 810", "115 Wn.2d 434", "116 Wn.2d 189", "119 Wn.2d 192", "125 Wn.2d 378", "125 Wn.2d 407", "126 Wn. App. 803", "133 P.3d 936", "139 Wn.2d 107", "157 Wn.2d 1", "171 Wn.2d 646", "175 Wn. App. 642", "176 Wn.2d 531", "180 Wn. App. 92", "254 P.3d 803", "295 P.3d 219", "309 P.3d 534", "320 P.3d 197", "384 U.S. 436", "41 Wn. App. 121", "42 U.S.C. § 1396", "442 U.S. 114", "475 P.2d 109", "49 Wn. App. 59", "51 Wn. App. 582", "595 P.2d 912", "681 P.2d 237", "702 P.2d 1218", "741 P.2d 78", "743 P.2d 1237", "749 P.2d 160", "754 P.2d 1050", "78 Wn.2d 9", "783 P.2d 1061", "798 P.2d 1146", "802 P.2d 1371", "829 P.2d 1068", "885 P.2d 824", "886 P.2d 123", "9 A. 56", "92 Wn.2d 193", "985 P.2d 365"]
 ---
 
 # State v. Wright
