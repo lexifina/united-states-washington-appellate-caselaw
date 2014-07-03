@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31259-3-III"
 decided: "2014-07-03"
-citations: ["184 Wash. App. 215", "182 Wash. App. 1012"]
+citations: ["184 Wash. App. 215"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Bonifacio Alcantar-Maldonado,
 source_url: "https://static.case.law/wash-app/184/cases/0215-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4367316
-cites_cases: ["102 Wn.2d 355", "108 Wn. App. 378", "109 P.3d 870", "110 P.3d 758", "113 Wn.2d 591", "126 Wn. App. 700", "127 Wn. App. 1", "128 P.3d 139", "131 Wn. App. 601", "134 Wn. App. 873", "137 Wn.2d 712", "140 Wn.2d 362", "142 P.3d 1125", "157 Wn. App. 428", "168 Wn. App. 672", "169 Wn. App. 428", "171 Wn.2d 354", "184 Wn. App. 215", "237 P.3d 966", "256 P.3d 277", "278 P.3d 683", "282 P.3d 98", "31 P.3d 1207", "44 Wn. App. 510", "45 Wn. App. 824", "466 U.S. 668", "48 Wn. App. 344", "506 P.2d 321", "520 P.2d 152", "556 So. 2d 489", "567 P.2d 1136", "616 P.2d 628", "626 N.E.2d 984", "64 Wn. App. 410", "687 P.2d 186", "722 P.2d 1349", "727 P.2d 988", "739 P.2d 707", "781 P.2d 1308", "789 P.2d 306", "8 Wn. App. 340", "80 Wn. App. 916", "824 P.2d 533", "83 Wn.2d 541", "88 Wn.2d 899", "89 Ohio App. 3d 595", "912 P.2d 1068", "94 Wn.2d 216", "95 Wn. App. 127", "974 P.2d 879", "976 P.2d 1229", "98 Wn. App. 799", "992 P.2d 1028", "997 P.2d 350", "Fla. Stat. § 322.26", "Ohio Rev. Code Ann. § 4507.16"]
+cites_cases: ["102 Wn.2d 355", "108 Wn. App. 378", "109 P.3d 870", "110 P.3d 758", "113 Wn.2d 591", "126 Wn. App. 700", "127 Wn. App. 1", "128 P.3d 139", "131 Wn. App. 601", "134 Wn. App. 873", "137 Wn.2d 712", "140 Wn.2d 362", "142 P.3d 1125", "157 Wn. App. 428", "168 Wn. App. 672", "169 Wn. App. 428", "171 Wn.2d 354", "237 P.3d 966", "256 P.3d 277", "278 P.3d 683", "282 P.3d 98", "31 P.3d 1207", "44 Wn. App. 510", "45 Wn. App. 824", "466 U.S. 668", "48 Wn. App. 344", "506 P.2d 321", "520 P.2d 152", "556 So. 2d 489", "567 P.2d 1136", "616 P.2d 628", "626 N.E.2d 984", "64 Wn. App. 410", "687 P.2d 186", "722 P.2d 1349", "727 P.2d 988", "739 P.2d 707", "781 P.2d 1308", "789 P.2d 306", "8 Wn. App. 340", "80 Wn. App. 916", "824 P.2d 533", "83 Wn.2d 541", "88 Wn.2d 899", "89 Ohio App. 3d 595", "912 P.2d 1068", "94 Wn.2d 216", "95 Wn. App. 127", "974 P.2d 879", "976 P.2d 1229", "98 Wn. App. 799", "992 P.2d 1028", "997 P.2d 350", "Fla. Stat. § 322.26", "Ohio Rev. Code Ann. § 4507.16"]
 ---
 
 # State v. Alcantar-Maldonado
