@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71060-5-I"
 decided: "2014-07-14"
-citations: ["183 Wash. App. 253", "182 Wash. App. 1022"]
+citations: ["183 Wash. App. 253"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Stephen Mynatt et al., Appellants, v. Gordon Trucking, Inc., Responde
 source_url: "https://static.case.law/wash-app/183/cases/0253-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4343980
-cites_cases: ["116 Wn. App. 706", "122 Wn.2d 801", "153 P.3d 846", "159 Wn.2d 700", "164 Wn. App. 196", "182 Wn.2d 1007", "183 Wn. App. 253", "263 P.3d 1251", "49 U.S.C. § 13101", "548 P.2d 1085", "609 P.2d 1348", "66 P.3d 640", "82 Wn. App. 495", "863 P.2d 64", "87 Wn.2d 6", "919 P.2d 602", "93 Wn.2d 277", "982 F. Supp. 2d 1189"]
+cites_cases: ["116 Wn. App. 706", "122 Wn.2d 801", "153 P.3d 846", "159 Wn.2d 700", "164 Wn. App. 196", "182 Wn.2d 1007", "263 P.3d 1251", "49 U.S.C. § 13101", "548 P.2d 1085", "609 P.2d 1348", "66 P.3d 640", "82 Wn. App. 495", "863 P.2d 64", "87 Wn.2d 6", "919 P.2d 602", "93 Wn.2d 277", "982 F. Supp. 2d 1189"]
 ---
 
 # Mynatt v. Gordon Trucking, Inc.
