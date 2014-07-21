@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70566-1-I"
 decided: "2014-07-21"
-citations: ["183 Wash. App. 503", "182 Wash. App. 1028"]
+citations: ["183 Wash. App. 503"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["In the Matter of the Marriage of Nanako Tsujimoto Raskob, Appellant, 
 source_url: "https://static.case.law/wash-app/183/cases/0503-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4343890
-cites_cases: ["1 Wn. App. 440", "100 Wn. App. 208", "105 P.3d 44", "106 Wn.2d 212", "112 Wn. App. 1", "114 P.3d 671", "118 Wn.2d 801", "122 Wn.2d 604", "125 Wn. App. 813", "128 Wn. App. 64", "132 Wn.2d 529", "133 Wn. App. 903", "138 P.3d 177", "151 Wn.2d 884", "168 Wn. App. 451", "172 Wn. App. 1014", "183 Wn. App. 503", "2012 WL 5992097", "277 P.3d 62", "372 P.2d 193", "462 P.2d 562", "57 P.3d 1166", "60 Wn.2d 122", "65 Wn. App. 703", "70 Wn. App. 541", "721 P.2d 918", "828 P.2d 549", "829 P.2d 1120", "854 P.2d 665", "859 P.2d 1239", "87 Wn. App. 84", "93 P.3d 124", "940 P.2d 546", "940 P.2d 669", "997 P.2d 399"]
+cites_cases: ["1 Wn. App. 440", "100 Wn. App. 208", "105 P.3d 44", "106 Wn.2d 212", "112 Wn. App. 1", "114 P.3d 671", "118 Wn.2d 801", "122 Wn.2d 604", "125 Wn. App. 813", "128 Wn. App. 64", "132 Wn.2d 529", "133 Wn. App. 903", "138 P.3d 177", "151 Wn.2d 884", "168 Wn. App. 451", "172 Wn. App. 1014", "2012 WL 5992097", "277 P.3d 62", "372 P.2d 193", "462 P.2d 562", "57 P.3d 1166", "60 Wn.2d 122", "65 Wn. App. 703", "70 Wn. App. 541", "721 P.2d 918", "828 P.2d 549", "829 P.2d 1120", "854 P.2d 665", "859 P.2d 1239", "87 Wn. App. 84", "93 P.3d 124", "940 P.2d 546", "940 P.2d 669", "997 P.2d 399"]
 ---
 
 # In re the Marriage of Raskob
