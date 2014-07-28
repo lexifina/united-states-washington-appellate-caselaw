@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72037-6-I"
 decided: "2014-07-28"
-citations: ["183 Wash. App. 272", "182 Wash. App. 1041"]
+citations: ["183 Wash. App. 272"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Christopher Noel McDonald, Ap
 source_url: "https://static.case.law/wash-app/183/cases/0272-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4346859
-cites_cases: ["110 P.3d 1162", "117 Wn. App. 531", "124 Wn.2d 741", "127 Wn. App. 231", "133 Wn.2d 455", "147 P.3d 1201", "158 Wn.2d 759", "174 Wn.2d 909", "177 Wn.2d 186", "183 Wn. App. 272", "281 P.3d 305", "298 P.3d 724", "72 P.3d 256", "86 Wn. App. 165", "880 P.2d 1000", "936 P.2d 1148", "947 P.2d 1169"]
+cites_cases: ["110 P.3d 1162", "117 Wn. App. 531", "124 Wn.2d 741", "127 Wn. App. 231", "133 Wn.2d 455", "147 P.3d 1201", "158 Wn.2d 759", "174 Wn.2d 909", "177 Wn.2d 186", "281 P.3d 305", "298 P.3d 724", "72 P.3d 256", "86 Wn. App. 165", "880 P.2d 1000", "936 P.2d 1148", "947 P.2d 1169"]
 ---
 
 # State v. McDonald
