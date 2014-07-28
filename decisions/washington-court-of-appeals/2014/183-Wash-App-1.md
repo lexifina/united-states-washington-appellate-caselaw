@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71965-3-I"
 decided: "2014-07-28"
-citations: ["183 Wash. App. 1", "182 Wash. App. 1039"]
+citations: ["183 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Kane Boyle, Appellant."]
 source_url: "https://static.case.law/wash-app/183/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4346109
-cites_cases: ["105 P.3d 378", "108 Wn. App. 315", "119 Wn.2d 192", "127 P.3d 707", "133 Wn.2d 26", "151 Wn. App. 137", "151 Wn.2d 36", "153 Wn.2d 447", "156 Wn.2d 355", "169 Wn.2d 274", "169 Wn.2d 516", "174 Wn.2d 920", "175 Wn. App. 779", "175 Wn.2d 607", "176 Wn.2d 611", "177 Wn.2d 186", "179 Wn.2d 1021", "180 Wn.2d 156", "183 Wn. App. 1", "184 Wn.2d 1002", "210 P.3d 337", "236 P.3d 858", "243 P.3d 1283", "280 P.3d 1110", "290 P.3d 942", "294 P.3d 679", "298 P.3d 724", "30 P.3d 496", "307 P.3d 771", "322 P.3d 1213", "384 U.S. 436", "443 U.S. 307", "55 Wn. App. 44", "616 P.2d 628", "776 P.2d 1347", "829 P.2d 1068", "84 P.3d 1215", "94 Wn.2d 216", "941 P.2d 1102", "99 Wn. App. 714", "995 P.2d 107"]
+cites_cases: ["105 P.3d 378", "108 Wn. App. 315", "119 Wn.2d 192", "127 P.3d 707", "133 Wn.2d 26", "151 Wn. App. 137", "151 Wn.2d 36", "153 Wn.2d 447", "156 Wn.2d 355", "169 Wn.2d 274", "169 Wn.2d 516", "174 Wn.2d 920", "175 Wn. App. 779", "175 Wn.2d 607", "176 Wn.2d 611", "177 Wn.2d 186", "179 Wn.2d 1021", "180 Wn.2d 156", "184 Wn.2d 1002", "210 P.3d 337", "236 P.3d 858", "243 P.3d 1283", "280 P.3d 1110", "290 P.3d 942", "294 P.3d 679", "298 P.3d 724", "30 P.3d 496", "307 P.3d 771", "322 P.3d 1213", "384 U.S. 436", "443 U.S. 307", "55 Wn. App. 44", "616 P.2d 628", "776 P.2d 1347", "829 P.2d 1068", "84 P.3d 1215", "94 Wn.2d 216", "941 P.2d 1102", "99 Wn. App. 714", "995 P.2d 107"]
 ---
 
 # State v. Boyle
