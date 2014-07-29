@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "43937-9-II"
 decided: "2014-07-29"
-citations: ["183 Wash. App. 736", "182 Wash. App. 1041"]
+citations: ["183 Wash. App. 736"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Roman Mikhailovich Fedorov, A
 source_url: "https://static.case.law/wash-app/183/cases/0736-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4345382
-cites_cases: ["116 Wn.2d 135", "123 Wn.2d 641", "131 S. Ct. 2705", "134 P.3d 205", "134 S. Ct. 2842", "145 Wn.2d 612", "154 Wn. App. 695", "155 P.3d 125", "157 Wn.2d 63", "159 Wn.2d 918", "164 Wn.2d 499", "174 Wn.2d 96", "179 Wn.2d 457", "182 Wn.2d 1021", "183 Wn. App. 736", "192 P.3d 342", "226 P.3d 195", "271 P.3d 876", "315 P.3d 493", "382 P.2d 1019", "41 P.3d 1189", "449 U.S. 977", "53 Wn. App. 352", "541 U.S. 36", "547 U.S. 813", "557 U.S. 305", "60 Wn. App. 485", "610 P.2d 893", "62 Wn.2d 371", "620 P.2d 999", "65 Wn. App. 747", "767 P.2d 143", "803 P.2d 1346", "803 P.2d 305", "829 P.2d 1133", "870 P.2d 313", "93 Wn.2d 436", "94 Wn.2d 858", "99 Wn. App. 291", "994 P.2d 868"]
+cites_cases: ["116 Wn.2d 135", "123 Wn.2d 641", "131 S. Ct. 2705", "134 P.3d 205", "134 S. Ct. 2842", "145 Wn.2d 612", "154 Wn. App. 695", "155 P.3d 125", "157 Wn.2d 63", "159 Wn.2d 918", "164 Wn.2d 499", "174 Wn.2d 96", "179 Wn.2d 457", "182 Wn.2d 1021", "192 P.3d 342", "226 P.3d 195", "271 P.3d 876", "315 P.3d 493", "382 P.2d 1019", "41 P.3d 1189", "449 U.S. 977", "53 Wn. App. 352", "541 U.S. 36", "547 U.S. 813", "557 U.S. 305", "60 Wn. App. 485", "610 P.2d 893", "62 Wn.2d 371", "620 P.2d 999", "65 Wn. App. 747", "767 P.2d 143", "803 P.2d 1346", "803 P.2d 305", "829 P.2d 1133", "870 P.2d 313", "93 Wn.2d 436", "94 Wn.2d 858", "99 Wn. App. 291", "994 P.2d 868"]
 ---
 
 # State v. Fedorov
