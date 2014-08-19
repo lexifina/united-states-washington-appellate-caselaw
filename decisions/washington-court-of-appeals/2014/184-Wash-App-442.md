@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44036-9-II"
 decided: "2014-08-19"
-citations: ["184 Wash. App. 442", "183 Wash. App. 1004"]
+citations: ["184 Wash. App. 442"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Charlotte Ann Button, Appella
 source_url: "https://static.case.law/wash-app/184/cases/0442-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4364125
-cites_cases: ["118 Wn. App. 518", "119 Wn.2d 204", "120 Wn.2d 334", "135 Wn. App. 938", "146 P.3d 1215", "156 P.3d 201", "160 Wn.2d 106", "176 Wn. App. 112", "184 Wn. App. 442", "308 P.3d 763", "53 Wn. App. 527", "60 Wn. App. 837", "70 Wn. App. 142", "768 P.2d 530", "77 P.3d 1188", "809 P.2d 756", "829 P.2d 1096", "841 P.2d 1232", "852 P.2d 1097"]
+cites_cases: ["118 Wn. App. 518", "119 Wn.2d 204", "120 Wn.2d 334", "135 Wn. App. 938", "146 P.3d 1215", "156 P.3d 201", "160 Wn.2d 106", "176 Wn. App. 112", "308 P.3d 763", "53 Wn. App. 527", "60 Wn. App. 837", "70 Wn. App. 142", "768 P.2d 530", "77 P.3d 1188", "809 P.2d 756", "829 P.2d 1096", "841 P.2d 1232", "852 P.2d 1097"]
 ---
 
 # State v. Button
