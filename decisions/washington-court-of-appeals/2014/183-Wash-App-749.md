@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31722-6-III"
 decided: "2014-08-21"
-citations: ["183 Wash. App. 749", "183 Wash. App. 1005"]
+citations: ["183 Wash. App. 749"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Lucas J. Merrill, Defendant, 
 source_url: "https://static.case.law/wash-app/183/cases/0749-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4343791
-cites_cases: ["102 Wn. App. 468", "111 Wn.2d 256", "115 Wn.2d 364", "120 N.M. 151", "123 P.3d 844", "147 Wn.2d 78", "156 Wn.2d 33", "171 Wn. App. 1028", "175 Wn.2d 208", "182 Wn.2d 1013", "183 Wn. App. 749", "2012 WL 5458414", "283 P.3d 1113", "343 P.2d 183", "51 P.3d 793", "513 P.2d 582", "54 Wn.2d 570", "759 P.2d 1196", "798 P2d 799", "8 P.3d 1058", "9 Wn. App. 573"]
+cites_cases: ["102 Wn. App. 468", "111 Wn.2d 256", "115 Wn.2d 364", "120 N.M. 151", "123 P.3d 844", "147 Wn.2d 78", "156 Wn.2d 33", "171 Wn. App. 1028", "175 Wn.2d 208", "182 Wn.2d 1013", "2012 WL 5458414", "283 P.3d 1113", "343 P.2d 183", "51 P.3d 793", "513 P.2d 582", "54 Wn.2d 570", "759 P.2d 1196", "798 P2d 799", "8 P.3d 1058", "9 Wn. App. 573"]
 ---
 
 # State v. Merrill
