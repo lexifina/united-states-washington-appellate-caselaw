@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31331-0-III"
 decided: "2014-09-23"
-citations: ["184 Wash. App. 685", "183 Wash. App. 1034"]
+citations: ["184 Wash. App. 685"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Ferry County, Respondent, v. The Growth Management Hearings Board et 
 source_url: "https://static.case.law/wash-app/184/cases/0685-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4365784
-cites_cases: ["113 Wn. App. 375", "121 Wn. App. 850", "123 P.3d 102", "125 Wn.2d 196", "126 Wn.2d 22", "136 Wn.2d 38", "14 P.3d 133", "142 Wn.2d 543", "146 Wn. App. 493", "155 Wn.2d 824", "155 Wn.2d 837", "16 U. Puget Sound L. Rev. 867", "161 Wn.2d 415", "164 Wn.2d 329", "166 P.3d 1198", "166 Wn. App. 172", "168 Wn. App. 680", "172 Wn.2d 144", "174 Wn.2d 1007", "176 Wn. App. 555", "179 Wn.2d 1015", "180 Wn. App. 333", "184 Wn. App. 685", "190 P.3d 38", "192 P.3d 1", "1997 WL 191457", "2000 WL 268939", "23 Seattle U. L. Rev. 97", "256 P.3d 1193", "274 P.3d 1040", "279 P.3d 434", "309 P.3d 673", "325 P.3d 213", "52 Wn. App. 603", "53 P.3d 1028", "762 P.2d 367", "884 P.2d 910", "891 P.2d 29", "90 P.3d 698", "959 P.2d 1091", "96 Wn. App. 522", "979 P.2d 864"]
+cites_cases: ["113 Wn. App. 375", "121 Wn. App. 850", "123 P.3d 102", "125 Wn.2d 196", "126 Wn.2d 22", "136 Wn.2d 38", "14 P.3d 133", "142 Wn.2d 543", "146 Wn. App. 493", "155 Wn.2d 824", "155 Wn.2d 837", "16 U. Puget Sound L. Rev. 867", "161 Wn.2d 415", "164 Wn.2d 329", "166 P.3d 1198", "166 Wn. App. 172", "168 Wn. App. 680", "172 Wn.2d 144", "174 Wn.2d 1007", "176 Wn. App. 555", "179 Wn.2d 1015", "180 Wn. App. 333", "190 P.3d 38", "192 P.3d 1", "1997 WL 191457", "2000 WL 268939", "23 Seattle U. L. Rev. 97", "256 P.3d 1193", "274 P.3d 1040", "279 P.3d 434", "309 P.3d 673", "325 P.3d 213", "52 Wn. App. 603", "53 P.3d 1028", "762 P.2d 367", "884 P.2d 910", "891 P.2d 29", "90 P.3d 698", "959 P.2d 1091", "96 Wn. App. 522", "979 P.2d 864"]
 ---
 
 # Ferry County v. Growth Management Hearings Board
