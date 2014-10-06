@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70949-6-I"
 decided: "2014-10-06"
-citations: ["185 Wash. App. 1", "183 Wash. App. 1045"]
+citations: ["185 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Claire C. Woodward, Appellant, v. Ava A. Taylor et al., Respondents."
 source_url: "https://static.case.law/wash-app/185/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4361457
-cites_cases: ["114 Wn. App. 823", "124 Wn.2d 205", "18 Wn. App. 668", "183 Wn.2d 1001", "185 Wn. App. 1", "555 P.2d 997", "571 P.2d 589", "58 Wn. App. 138", "61 P.3d 1196", "71 Wash. L. Rev. 871", "791 P.2d 915", "82 Wn. App. 454", "87 Wn.2d 577", "875 P.2d 1213", "918 P.2d 540", "Colo. Rev. Stat. §§ 13-82-101", "Minn. Stat. §§ 541.30", "Mont. Code Ann. §§ 27-2-501", "N.D. Cent. Code §§ 28-01.2-01", "Neb. Rev. Stat. §§ 25-3201", "Or. Rev. Stat. §§ 12.410"]
+cites_cases: ["114 Wn. App. 823", "124 Wn.2d 205", "18 Wn. App. 668", "183 Wn.2d 1001", "555 P.2d 997", "571 P.2d 589", "58 Wn. App. 138", "61 P.3d 1196", "71 Wash. L. Rev. 871", "791 P.2d 915", "82 Wn. App. 454", "87 Wn.2d 577", "875 P.2d 1213", "918 P.2d 540", "Colo. Rev. Stat. §§ 13-82-101", "Minn. Stat. §§ 541.30", "Mont. Code Ann. §§ 27-2-501", "N.D. Cent. Code §§ 28-01.2-01", "Neb. Rev. Stat. §§ 25-3201", "Or. Rev. Stat. §§ 12.410"]
 ---
 
 # Woodward v. Taylor
