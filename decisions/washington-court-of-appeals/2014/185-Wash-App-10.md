@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70727-2-I"
 decided: "2014-10-20"
-citations: ["185 Wash. App. 10", "184 Wash. App. 1009"]
+citations: ["185 Wash. App. 10"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jane Cho, Appellant, v. The City of Seattle, Respondent."]
 source_url: "https://static.case.law/wash-app/185/cases/0010-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4359019
-cites_cases: ["103 Wn.2d 768", "105 Wn.2d 529", "108 P.3d 1220", "109 P.2d 307", "109 Wn. App. 140", "112 Wn.2d 216", "114 P.3d 637", "118 Wn. App. 165", "119 Wn. App. 1", "13 P.3d 1065", "134 Wn.2d 468", "136 P.2d 720", "142 Wn.2d 450", "153 Wn.2d 780", "154 Wn.2d 477", "158 Wn. App. 137", "161 Wn. App. 1", "162 Wn. App. 183", "17 Wn.2d 631", "178 Wn.2d 165", "183 Wn.2d 1007", "185 Wn. App. 10", "241 P.3d 787", "25 Wn. App. 324", "252 P.3d 914", "270 P.3d 599", "309 P.3d 387", "34 P.3d 835", "477 U.S. 317", "606 P.2d 283", "698 P.2d 77", "7 Wn.2d 111", "716 P.2d 842", "73 P.3d 1005", "770 P.2d 182", "83 Wn. App. 464", "84 P.3d 252", "921 P.2d 1098", "94 Wn. App. 372", "951 P.2d 749", "972 P.2d 475"]
+cites_cases: ["103 Wn.2d 768", "105 Wn.2d 529", "108 P.3d 1220", "109 P.2d 307", "109 Wn. App. 140", "112 Wn.2d 216", "114 P.3d 637", "118 Wn. App. 165", "119 Wn. App. 1", "13 P.3d 1065", "134 Wn.2d 468", "136 P.2d 720", "142 Wn.2d 450", "153 Wn.2d 780", "154 Wn.2d 477", "158 Wn. App. 137", "161 Wn. App. 1", "162 Wn. App. 183", "17 Wn.2d 631", "178 Wn.2d 165", "183 Wn.2d 1007", "241 P.3d 787", "25 Wn. App. 324", "252 P.3d 914", "270 P.3d 599", "309 P.3d 387", "34 P.3d 835", "477 U.S. 317", "606 P.2d 283", "698 P.2d 77", "7 Wn.2d 111", "716 P.2d 842", "73 P.3d 1005", "770 P.2d 182", "83 Wn. App. 464", "84 P.3d 252", "921 P.2d 1098", "94 Wn. App. 372", "951 P.2d 749", "972 P.2d 475"]
 ---
 
 # Cho v. City of Seattle
