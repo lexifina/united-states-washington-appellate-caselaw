@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70220-3-I"
 decided: "2014-10-27"
-citations: ["185 Wash. App. 23", "184 Wash. App. 1016"]
+citations: ["185 Wash. App. 23"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Kebede Admasu et al., Appellants, v. The Port of Seattle, Respondent.
 source_url: "https://static.case.law/wash-app/185/cases/0023-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4357728
-cites_cases: ["101 N.J. Eq. 649", "103 Wn. App. 186", "107 Wn. App. 885", "107 Wn.2d 225", "109 Wn.2d 621", "11 P.3d 847", "113 Wn. App. 306", "115 Cal. Rptr. 797", "115 Wn. App. 815", "116 Wn. App. 245", "116 Wn. App. 9", "12 Cal. 3d 447", "128 Wn.2d 40", "131 Wn.2d 640", "136 Wn.2d 946", "138 A. 569", "145 Wn.2d 178", "159 Wn. App. 616", "160 Wn. App. 184", "166 Wn. App. 905", "171 Wn.2d 260", "173 Wn.2d 926", "183 Wn.2d 1009", "185 Wn. App. 23", "204 F.R.D. 662", "246 P.3d 1286", "246 P.3d 822", "259 P.3d 129", "269 P.2d 960", "271 F.3d 1090", "271 P.3d 226", "271 P.3d 959", "28 P.3d 823", "298 Minn. 471", "304 P.2d 705", "31 Wn. App. 286", "348 P.2d 664", "348 P.2d 673", "35 P.3d 351", "350 F.3d 1181", "367 N.W.2d 509", "370 U.S. App. D.C. 280", "391 P.2d 540", "403 P.2d 368", "44 Wn.2d 667", "444 F.3d 625", "49 U.S.C. § 47506", "49 Wash. L. Rev. 423", "49 Wn.2d 528", "521 U.S. 591", "525 P.2d 701", "54 P.3d 665", "548 P.2d 1085", "55 Wn.2d 400", "55 Wn.2d 416", "564 U.S. 338", "61 Wn. App. 163", "63 P.3d 198", "64 P.3d 49", "64 Wn.2d 309", "640 P.2d 1077", "65 P.3d 1", "66 Wn.2d 457", "691 F.2d 931", "7 F.3d 584", "728 P.2d 135", "747 P.2d 1062", "810 P.2d 4", "864 F.2d 463", "87 Wn.2d 6", "905 P.2d 338", "935 P.2d 555", "968 P.2d 871"]
+cites_cases: ["101 N.J. Eq. 649", "103 Wn. App. 186", "107 Wn. App. 885", "107 Wn.2d 225", "109 Wn.2d 621", "11 P.3d 847", "113 Wn. App. 306", "115 Cal. Rptr. 797", "115 Wn. App. 815", "116 Wn. App. 245", "116 Wn. App. 9", "12 Cal. 3d 447", "128 Wn.2d 40", "131 Wn.2d 640", "136 Wn.2d 946", "138 A. 569", "145 Wn.2d 178", "159 Wn. App. 616", "160 Wn. App. 184", "166 Wn. App. 905", "171 Wn.2d 260", "173 Wn.2d 926", "183 Wn.2d 1009", "204 F.R.D. 662", "246 P.3d 1286", "246 P.3d 822", "259 P.3d 129", "269 P.2d 960", "271 F.3d 1090", "271 P.3d 226", "271 P.3d 959", "28 P.3d 823", "298 Minn. 471", "304 P.2d 705", "31 Wn. App. 286", "348 P.2d 664", "348 P.2d 673", "35 P.3d 351", "350 F.3d 1181", "367 N.W.2d 509", "370 U.S. App. D.C. 280", "391 P.2d 540", "403 P.2d 368", "44 Wn.2d 667", "444 F.3d 625", "49 U.S.C. § 47506", "49 Wash. L. Rev. 423", "49 Wn.2d 528", "521 U.S. 591", "525 P.2d 701", "54 P.3d 665", "548 P.2d 1085", "55 Wn.2d 400", "55 Wn.2d 416", "564 U.S. 338", "61 Wn. App. 163", "63 P.3d 198", "64 P.3d 49", "64 Wn.2d 309", "640 P.2d 1077", "65 P.3d 1", "66 Wn.2d 457", "691 F.2d 931", "7 F.3d 584", "728 P.2d 135", "747 P.2d 1062", "810 P.2d 4", "864 F.2d 463", "87 Wn.2d 6", "905 P.2d 338", "935 P.2d 555", "968 P.2d 871"]
 ---
 
 # Admasu v. Port of Seattle
