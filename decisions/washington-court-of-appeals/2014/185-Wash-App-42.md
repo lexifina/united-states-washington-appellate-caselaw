@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71038-9-I"
 decided: "2014-10-27"
-citations: ["185 Wash. App. 42", "184 Wash. App. 1018"]
+citations: ["185 Wash. App. 42"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Michael Gibson et al., Appellants, v. The Employment Security Departm
 source_url: "https://static.case.law/wash-app/185/cases/0042-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4360664
-cites_cases: ["103 Wn. App. 587", "104 Wn. App. 299", "106 Wn. App. 333", "107 Wn.2d 693", "110 Wn. App. 440", "118 Wn.2d 801", "122 Wn.2d 397", "13 P.3d 1076", "135 Wn. App. 887", "142 Wn. App. 899", "146 P.3d 475", "17 P.3d 621", "176 P.3d 560", "185 Wn. App. 42", "24 P.3d 424", "385 P.2d 727", "41 P.3d 510", "63 Wn.2d 150", "658 P.2d 1240", "732 P.2d 974", "81 Wn. App. 148", "81 Wn. App. 403", "828 P.2d 549", "858 P.2d 494", "913 P.2d 413", "914 P.2d 750", "98 Wn.2d 846"]
+cites_cases: ["103 Wn. App. 587", "104 Wn. App. 299", "106 Wn. App. 333", "107 Wn.2d 693", "110 Wn. App. 440", "118 Wn.2d 801", "122 Wn.2d 397", "13 P.3d 1076", "135 Wn. App. 887", "142 Wn. App. 899", "146 P.3d 475", "17 P.3d 621", "176 P.3d 560", "24 P.3d 424", "385 P.2d 727", "41 P.3d 510", "63 Wn.2d 150", "658 P.2d 1240", "732 P.2d 974", "81 Wn. App. 148", "81 Wn. App. 403", "828 P.2d 549", "858 P.2d 494", "913 P.2d 413", "914 P.2d 750", "98 Wn.2d 846"]
 ---
 
 # Gibson v. Employment Security Department
