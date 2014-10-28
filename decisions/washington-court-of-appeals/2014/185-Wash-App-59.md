@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31515-1-III"
 decided: "2014-10-28"
-citations: ["185 Wash. App. 59", "184 Wash. App. 1020"]
+citations: ["185 Wash. App. 59"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["The State of Washington, Respondent, v. Joseph James Goggin, Appellan
 source_url: "https://static.case.law/wash-app/185/cases/0059-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4362539
-cites_cases: ["101 P.3d 1", "103 Wn.2d 165", "104 Wn. App. 25", "106 Wn.2d 54", "116 Wn.2d 531", "119 P.3d 388", "119 Wn.2d 192", "123 Wn.2d 641", "128 P.3d 1251", "129 Wn. App. 499", "131 Wn. App. 651", "132 Wn.2d 229", "133 Wn.2d 701", "133 Wn.2d 718", "134 S. Ct. 2842", "135 Wn.2d 441", "15 P.3d 1041", "150 Wn.2d 821", "152 Wn.2d 647", "157 P.2d 320", "158 P.3d 595", "158 Wn. App. 1", "160 Wn.2d 454", "163 Wn. App. 780", "163 Wn.2d 628", "165 Wn. App. 393", "166 Wn.2d 941", "167 Wn.2d 825", "173 Wn.2d 560", "174 Wn.2d 96", "179 Wn.2d 457", "182 Wn.2d 1027", "185 P.3d 580", "185 Wn. App. 59", "215 P.3d 194", "22 Wn.2d 552", "225 P.3d 892", "240 P.3d 159", "260 P.3d 982", "267 P.3d 511", "269 P.3d 263", "271 P.3d 876", "315 P.3d 493", "328 P.2d 362", "368 F.3d 59", "52 Wn.2d 676", "541 U.S. 36", "547 U.S. 813", "620 P.2d 990", "691 P.2d 197", "720 P.2d 808", "806 P.2d 1220", "829 P.2d 1068", "83 P.3d 970", "870 P.2d 313", "88 Wn. App. 918", "937 P.2d 587", "94 Wn.2d 820", "946 P.2d 1175", "947 P.2d 235", "947 P.2d 265", "957 P.2d 712"]
+cites_cases: ["101 P.3d 1", "103 Wn.2d 165", "104 Wn. App. 25", "106 Wn.2d 54", "116 Wn.2d 531", "119 P.3d 388", "119 Wn.2d 192", "123 Wn.2d 641", "128 P.3d 1251", "129 Wn. App. 499", "131 Wn. App. 651", "132 Wn.2d 229", "133 Wn.2d 701", "133 Wn.2d 718", "134 S. Ct. 2842", "135 Wn.2d 441", "15 P.3d 1041", "150 Wn.2d 821", "152 Wn.2d 647", "157 P.2d 320", "158 P.3d 595", "158 Wn. App. 1", "160 Wn.2d 454", "163 Wn. App. 780", "163 Wn.2d 628", "165 Wn. App. 393", "166 Wn.2d 941", "167 Wn.2d 825", "173 Wn.2d 560", "174 Wn.2d 96", "179 Wn.2d 457", "182 Wn.2d 1027", "185 P.3d 580", "215 P.3d 194", "22 Wn.2d 552", "225 P.3d 892", "240 P.3d 159", "260 P.3d 982", "267 P.3d 511", "269 P.3d 263", "271 P.3d 876", "315 P.3d 493", "328 P.2d 362", "368 F.3d 59", "52 Wn.2d 676", "541 U.S. 36", "547 U.S. 813", "620 P.2d 990", "691 P.2d 197", "720 P.2d 808", "806 P.2d 1220", "829 P.2d 1068", "83 P.3d 970", "870 P.2d 313", "88 Wn. App. 918", "937 P.2d 587", "94 Wn.2d 820", "946 P.2d 1175", "947 P.2d 235", "947 P.2d 265", "957 P.2d 712"]
 ---
 
 # State v. Goggin
