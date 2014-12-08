@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70923-2-I"
 decided: "2014-12-08"
-citations: ["186 Wash. App. 1", "184 Wash. App. 1055"]
+citations: ["186 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Cynthia Dillon, Appellant, v. The Department of Labor and Industries 
 source_url: "https://static.case.law/wash-app/186/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4173198
-cites_cases: ["10 P.3d 423", "102 Wn. App. 414", "104 Wn. App. 93", "118 Wn.2d 801", "122 Wn. App. 798", "126 P.3d 832", "131 Wn. App. 310", "15 P.3d 649", "151 Wn. App. 174", "164 Wn. App. 426", "180 Wn. App. 729", "183 Wn.2d 1021", "186 Wn. App. 1", "1978 WL 182672", "210 P.3d 355", "262 P.3d 837", "324 P.3d 716", "33 Wn. App. 609", "400 P.2d 305", "42 U.S.C. §§ 12101-12213", "462 P.2d 917", "65 Wn.2d 871", "656 P.2d 1109", "77 Wn.2d 355", "828 P.2d 549", "95 P.3d 787", "95 Wn. App. 218", "974 P.2d 909"]
+cites_cases: ["10 P.3d 423", "102 Wn. App. 414", "104 Wn. App. 93", "118 Wn.2d 801", "122 Wn. App. 798", "126 P.3d 832", "131 Wn. App. 310", "15 P.3d 649", "151 Wn. App. 174", "164 Wn. App. 426", "180 Wn. App. 729", "183 Wn.2d 1021", "1978 WL 182672", "210 P.3d 355", "262 P.3d 837", "324 P.3d 716", "33 Wn. App. 609", "400 P.2d 305", "42 U.S.C. §§ 12101-12213", "462 P.2d 917", "65 Wn.2d 871", "656 P.2d 1109", "77 Wn.2d 355", "828 P.2d 549", "95 P.3d 787", "95 Wn. App. 218", "974 P.2d 909"]
 ---
 
 # Dillon v. Department of Labor & Industries
