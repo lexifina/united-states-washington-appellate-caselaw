@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "44655-3-II"
 decided: "2014-12-16"
-citations: ["186 Wash. App. 11", "185 Wash. App. 1002"]
+citations: ["186 Wash. App. 11"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Lonnita Haskins, Appellant, v. Multicare Health System, Respondent."]
 source_url: "https://static.case.law/wash-app/186/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4172447
-cites_cases: ["123 Wn.2d 15", "166 Wn.2d 974", "169 Wn.2d 152", "173 Wn.2d 405", "175 Wn.2d 457", "183 Wn.2d 1020", "186 Wn. App. 11", "216 P.3d 374", "234 P.3d 187", "269 P.3d 207", "285 P.3d 873", "864 P.2d 921"]
+cites_cases: ["123 Wn.2d 15", "166 Wn.2d 974", "169 Wn.2d 152", "173 Wn.2d 405", "175 Wn.2d 457", "183 Wn.2d 1020", "216 P.3d 374", "234 P.3d 187", "269 P.3d 207", "285 P.3d 873", "864 P.2d 921"]
 ---
 
 # Haskins v. Multicare Health System
