@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70738-8-I"
 decided: "2014-12-22"
-citations: ["185 Wash. App. 706", "185 Wash. App. 1007"]
+citations: ["185 Wash. App. 706"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Jeff Kirby et al., Appellants, v. The Employment Security Department,
 source_url: "https://static.case.law/wash-app/185/cases/0706-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4362457
-cites_cases: ["112 P.3d 536", "118 Wn.2d 801", "122 Wn.2d 397", "127 Wn. App. 588", "137 Wn.2d 1036", "155 Wn. App. 24", "163 Wn. App. 1", "164 Wn.2d 909", "183 Wn.2d 1010", "185 Wn. App. 706", "194 P.3d 255", "2013 U.S. Dist. LEXIS 169849", "2013 WL 6235352", "226 P.3d 263", "259 P.3d 1111", "34 U. Ark. Little Rock L. Rev. 551", "34 Wn. App. 1", "52 Wn. App. 603", "53 Wn. App. 238", "64 Wn. App. 311", "655 P.2d 242", "658 P.2d 1274", "762 P.2d 367", "767 P.2d 576", "81 Wn. App. 403", "82 Wn. App. 745", "824 P.2d 505", "828 P.2d 549", "858 P.2d 494", "914 P.2d 750", "919 P.2d 111", "93 Wn. App. 140", "966 P.2d 1282", "98 Wn.2d 370"]
+cites_cases: ["112 P.3d 536", "118 Wn.2d 801", "122 Wn.2d 397", "127 Wn. App. 588", "137 Wn.2d 1036", "155 Wn. App. 24", "163 Wn. App. 1", "164 Wn.2d 909", "183 Wn.2d 1010", "194 P.3d 255", "2013 U.S. Dist. LEXIS 169849", "2013 WL 6235352", "226 P.3d 263", "259 P.3d 1111", "34 U. Ark. Little Rock L. Rev. 551", "34 Wn. App. 1", "52 Wn. App. 603", "53 Wn. App. 238", "64 Wn. App. 311", "655 P.2d 242", "658 P.2d 1274", "762 P.2d 367", "767 P.2d 576", "81 Wn. App. 403", "82 Wn. App. 745", "824 P.2d 505", "828 P.2d 549", "858 P.2d 494", "914 P.2d 750", "919 P.2d 111", "93 Wn. App. 140", "966 P.2d 1282", "98 Wn.2d 370"]
 ---
 
 # Kirby v. Employment Security Department
