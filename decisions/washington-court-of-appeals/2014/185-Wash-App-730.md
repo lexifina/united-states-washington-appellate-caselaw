@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31740-4-III"
 decided: "2014-12-23"
-citations: ["185 Wash. App. 730", "185 Wash. App. 1010"]
+citations: ["185 Wash. App. 730"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Sharon Shepard, Appellant, v. David Holmes et al., Defendants, ERA Su
 source_url: "https://static.case.law/wash-app/185/cases/0730-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4361521
-cites_cases: ["101 Wn. App. 866", "101 Wn. App. 901", "113 Wn.2d 701", "118 Wn.2d 737", "128 Wash. 231", "136 Wn.2d 87", "145 Wn.2d 178", "146 Wn.2d 291", "151 Wn.2d 853", "155 Wn. App. 892", "165 Wn.2d 595", "185 Wn. App. 730", "200 P.3d 695", "222 P. 499", "230 P.3d 646", "35 P.3d 351", "352 P.2d 183", "45 P.3d 1068", "56 Wn.2d 230", "58 Wn. App. 773", "6 P.3d 615", "6 P.3d 63", "71 Wn. App. 194", "72 Wn. App. 278", "782 P.2d 1045", "794 P.2d 1322", "826 P.2d 690", "859 P.2d 619", "86 Wn. App. 63", "862 F. Supp. 2d 1111", "864 P.2d 17", "89 Wn. App. 67", "92 Wn. App. 146", "93 P.3d 108", "935 P.2d 652", "947 P.2d 1252", "960 P.2d 912", "960 P.2d 998"]
+cites_cases: ["101 Wn. App. 866", "101 Wn. App. 901", "113 Wn.2d 701", "118 Wn.2d 737", "128 Wash. 231", "136 Wn.2d 87", "145 Wn.2d 178", "146 Wn.2d 291", "151 Wn.2d 853", "155 Wn. App. 892", "165 Wn.2d 595", "200 P.3d 695", "222 P. 499", "230 P.3d 646", "35 P.3d 351", "352 P.2d 183", "45 P.3d 1068", "56 Wn.2d 230", "58 Wn. App. 773", "6 P.3d 615", "6 P.3d 63", "71 Wn. App. 194", "72 Wn. App. 278", "782 P.2d 1045", "794 P.2d 1322", "826 P.2d 690", "859 P.2d 619", "86 Wn. App. 63", "862 F. Supp. 2d 1111", "864 P.2d 17", "89 Wn. App. 67", "92 Wn. App. 146", "93 P.3d 108", "935 P.2d 652", "947 P.2d 1252", "960 P.2d 912", "960 P.2d 998"]
 ---
 
 # Shepard v. Holmes
