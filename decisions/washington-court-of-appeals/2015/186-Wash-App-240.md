@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72462-2-I"
 decided: "2015-01-26"
-citations: ["186 Wash. App. 240", "185 Wash. App. 1035"]
+citations: ["186 Wash. App. 240"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The Department of Labor and Industries, Respondent, v. The Board of I
 source_url: "https://static.case.law/wash-app/186/cases/0240-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4173314
-cites_cases: ["1 Wn. App. 77", "101 Wn.2d 445", "143 Wn.2d 651", "167 Wn. App. 857", "170 Wn.2d 230", "171 Wn. App. 897", "186 Wn. App. 240", "1988 WL 169418", "1997 WL 316445", "23 P.3d 1086", "240 P.3d 1162", "274 P.3d 1102", "288 P3d 403", "40 Wn. App. 712", "459 P.2d 651", "569 P.2d 1152", "680 P.2d 1051", "700 P.2d 748", "83 Wn. App. 339", "89 Wn.2d 104", "921 P.2d 552", "93 Wn. App. 520", "969 P.2d 498"]
+cites_cases: ["1 Wn. App. 77", "101 Wn.2d 445", "143 Wn.2d 651", "167 Wn. App. 857", "170 Wn.2d 230", "171 Wn. App. 897", "1988 WL 169418", "1997 WL 316445", "23 P.3d 1086", "240 P.3d 1162", "274 P.3d 1102", "288 P3d 403", "40 Wn. App. 712", "459 P.2d 651", "569 P.2d 1152", "680 P.2d 1051", "700 P.2d 748", "83 Wn. App. 339", "89 Wn.2d 104", "921 P.2d 552", "93 Wn. App. 520", "969 P.2d 498"]
 ---
 
 # Department of Labor & Industries v. Board of Industrial Insurance Appeals
