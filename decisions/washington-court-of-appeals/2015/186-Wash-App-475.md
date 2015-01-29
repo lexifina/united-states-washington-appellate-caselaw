@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31757-9-III"
 decided: "2015-01-29"
-citations: ["186 Wash. App. 475", "185 Wash. App. 1039"]
+citations: ["186 Wash. App. 475"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Estate of Margaret Wimberley."]
 source_url: "https://static.case.law/wash-app/186/cases/0475-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4173537
-cites_cases: ["102 P.3d 796", "110 Wn. App. 598", "113 P.3d 463", "123 Wn.2d 160", "138 Wn. App. 485", "141 Wn.2d 169", "152 Wn.2d 1", "153 Wash. 102", "153 Wn.2d 152", "154 Wn.2d 365", "157 P.3d 888", "16 Wn. App. 434", "162 P. 8", "164 Wn. App. 268", "173 Wn. App. 435", "174 Wash. 702", "183 Wn.2d 1023", "186 Or. App. 684", "186 Wn. App. 475", "226 P.2d 192", "26 P.2d 77", "260 Kan. 573", "263 P.3d 613", "279 P. 402", "294 P.3d 789", "335 Or. 443", "345 Ark. 12", "36 P.3d 1123", "37 Wn.2d 748", "4 P.3d 123", "503 P.2d 1127", "521 P.2d 206", "557 P.2d 18", "658 So. 2d 1190", "663 P.2d 104", "7 Wn. App. 945", "70 P.3d 893", "81 Wn. App. 79", "83 Wn.2d 655", "866 P.2d 31", "913 P.2d 393", "93 P.3d 147", "94 Wash. 221", "99 Wn.2d 394"]
+cites_cases: ["102 P.3d 796", "110 Wn. App. 598", "113 P.3d 463", "123 Wn.2d 160", "138 Wn. App. 485", "141 Wn.2d 169", "152 Wn.2d 1", "153 Wash. 102", "153 Wn.2d 152", "154 Wn.2d 365", "157 P.3d 888", "16 Wn. App. 434", "162 P. 8", "164 Wn. App. 268", "173 Wn. App. 435", "174 Wash. 702", "183 Wn.2d 1023", "186 Or. App. 684", "226 P.2d 192", "26 P.2d 77", "260 Kan. 573", "263 P.3d 613", "279 P. 402", "294 P.3d 789", "335 Or. 443", "345 Ark. 12", "36 P.3d 1123", "37 Wn.2d 748", "4 P.3d 123", "503 P.2d 1127", "521 P.2d 206", "557 P.2d 18", "658 So. 2d 1190", "663 P.2d 104", "7 Wn. App. 945", "70 P.3d 893", "81 Wn. App. 79", "83 Wn.2d 655", "866 P.2d 31", "913 P.2d 393", "93 P.3d 147", "94 Wash. 221", "99 Wn.2d 394"]
 ---
 
 # In re the Estate of Wimberley
