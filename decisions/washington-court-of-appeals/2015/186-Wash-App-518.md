@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45033-0-II"
 decided: "2015-02-03"
-citations: ["186 Wash. App. 518", "185 Wash. App. 1044"]
+citations: ["186 Wash. App. 518"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The Department of Labor and Industries, Respondent, v. Lyons Enterpri
 source_url: "https://static.case.law/wash-app/186/cases/0518-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4173913
-cites_cases: ["10 Wn.2d 180", "105 Wn. App. 232", "109 P.3d 484", "109 Wn.2d 467", "110 Wn. App. 714", "113 Wn. App. 700", "116 P.2d 360", "121 Wn. App. 288", "121 Wn.2d 625", "123 Wn.2d 391", "124 P.2d 559", "124 Wn.2d 146", "126 Wn. App. 760", "127 Wn.2d 1007", "13 Wn.2d 164", "133 Wn. App. 403", "136 P.3d 760", "137 Wn.2d 1016", "139 Wn. App. 677", "144 Wn.2d 1005", "148 P.3d 1002", "152 Wn.2d 1034", "154 P.3d 891", "156 Wn.2d 1003", "159 Wn.2d 16", "159 Wn.2d 868", "162 P.3d 450", "167 Wn. App. 389", "183 Wn.2d 1017", "186 Wn. App. 518", "19 P.3d 428", "1982 WL 20480", "1988 WL 169377", "1994 WL 396526", "2003 WL 22696992", "2005 WL 1075898", "2005 WL 2386288", "2013 WL 1558338", "240 Or. 354", "275 P.2d 903", "282 P.2d 265", "290 U.S. 398", "294 P.2d 650", "31 Wn. App. 117", "310 U.S. 32", "349 P.3d 858", "42 P.3d 456", "420 US. 251", "425 P.2d 16", "438 U.S. 234", "45 Wn.2d 497", "46 Wn.2d 475", "461 P.2d 531", "48 Wn.2d 470", "51 Wn. App. 159", "54 P.3d 711", "55 Wn. App. 1", "630 P.2d 441", "639 P.2d 843", "65 Wn. App. 125", "70 Wn.2d 657", "745 P.2d 1295", "752 P.2d 381", "76 Wn. App. 600", "77 Wn.2d 255", "776 P.2d 721", "827 P.2d 1085", "827 P2d 1085", "854 P.2d 23", "869 P.2d 28", "874 P.2d 1374", "88 P.3d 413", "886 P.2d 1147", "92 Wn. App. 576", "95 Wn.2d 739", "968 P.2d 883", "97 Wn.2d 1015"]
+cites_cases: ["10 Wn.2d 180", "105 Wn. App. 232", "109 P.3d 484", "109 Wn.2d 467", "110 Wn. App. 714", "113 Wn. App. 700", "116 P.2d 360", "121 Wn. App. 288", "121 Wn.2d 625", "123 Wn.2d 391", "124 P.2d 559", "124 Wn.2d 146", "126 Wn. App. 760", "127 Wn.2d 1007", "13 Wn.2d 164", "133 Wn. App. 403", "136 P.3d 760", "137 Wn.2d 1016", "139 Wn. App. 677", "144 Wn.2d 1005", "148 P.3d 1002", "152 Wn.2d 1034", "154 P.3d 891", "156 Wn.2d 1003", "159 Wn.2d 16", "159 Wn.2d 868", "162 P.3d 450", "167 Wn. App. 389", "183 Wn.2d 1017", "19 P.3d 428", "1982 WL 20480", "1988 WL 169377", "1994 WL 396526", "2003 WL 22696992", "2005 WL 1075898", "2005 WL 2386288", "2013 WL 1558338", "240 Or. 354", "275 P.2d 903", "282 P.2d 265", "290 U.S. 398", "294 P.2d 650", "31 Wn. App. 117", "310 U.S. 32", "349 P.3d 858", "42 P.3d 456", "420 US. 251", "425 P.2d 16", "438 U.S. 234", "45 Wn.2d 497", "46 Wn.2d 475", "461 P.2d 531", "48 Wn.2d 470", "51 Wn. App. 159", "54 P.3d 711", "55 Wn. App. 1", "630 P.2d 441", "639 P.2d 843", "65 Wn. App. 125", "70 Wn.2d 657", "745 P.2d 1295", "752 P.2d 381", "76 Wn. App. 600", "77 Wn.2d 255", "776 P.2d 721", "827 P.2d 1085", "827 P2d 1085", "854 P.2d 23", "869 P.2d 28", "874 P.2d 1374", "88 P.3d 413", "886 P.2d 1147", "92 Wn. App. 576", "95 Wn.2d 739", "968 P.2d 883", "97 Wn.2d 1015"]
 ---
 
 # Department of Labor & Industries v. Lyons Enterprises, Inc.
