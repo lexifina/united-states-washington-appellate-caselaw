@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31836-2-III"
 decided: "2015-02-12"
-citations: ["187 Wash. App. 37", "185 Wash. App. 1054"]
+citations: ["187 Wash. App. 37"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Edward C. Hvolboll, Appellant, v. The Wolff Company, Defendant, HSC R
 source_url: "https://static.case.law/wash-app/187/cases/0037-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4236890
-cites_cases: ["103 Wn.2d 768", "109 Wn.2d 448", "110 Wn.2d 355", "115 Wn. App. 853", "119 Wn.2d 484", "124 Wn.2d 121", "129 Wn.2d 84", "130 Wn.2d 726", "135 Wn.2d 658", "144 Wn.2d 847", "168 Wn.2d 1", "170 Wn.2d 628", "178 Wn.2d 466", "187 Wn. App. 37", "228 P.3d 1", "244 P.3d 924", "309 P.3d 472", "31 P.3d 684", "529 P.2d 1054", "569 P.2d 1152", "64 P.3d 65", "698 P.2d 77", "746 P.2d 285", "753 P.2d 517", "834 P.2d 6", "84 Wn.2d 866", "875 P.2d 621", "89 Wn.2d 104", "915 P.2d 1089", "92 Wn. App. 297", "92 Wn. App. 709", "927 P.2d 240", "958 P.2d 301", "965 P.2d 1112", "966 P.2d 342"]
+cites_cases: ["103 Wn.2d 768", "109 Wn.2d 448", "110 Wn.2d 355", "115 Wn. App. 853", "119 Wn.2d 484", "124 Wn.2d 121", "129 Wn.2d 84", "130 Wn.2d 726", "135 Wn.2d 658", "144 Wn.2d 847", "168 Wn.2d 1", "170 Wn.2d 628", "178 Wn.2d 466", "228 P.3d 1", "244 P.3d 924", "309 P.3d 472", "31 P.3d 684", "529 P.2d 1054", "569 P.2d 1152", "64 P.3d 65", "698 P.2d 77", "746 P.2d 285", "753 P.2d 517", "834 P.2d 6", "84 Wn.2d 866", "875 P.2d 621", "89 Wn.2d 104", "915 P.2d 1089", "92 Wn. App. 297", "92 Wn. App. 709", "927 P.2d 240", "958 P.2d 301", "965 P.2d 1112", "966 P.2d 342"]
 ---
 
 # Hvolboll v. Wolff Co.
