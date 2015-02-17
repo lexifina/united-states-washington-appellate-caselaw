@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71302-7-I"
 decided: "2015-02-17"
-citations: ["186 Wash. App. 715", "185 Wash. App. 1056"]
+citations: ["186 Wash. App. 715"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["State Farm Fire and Casualty Company, as Subrogee, et al., Respondent
 source_url: "https://static.case.law/wash-app/186/cases/0715-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4174142
-cites_cases: ["113 Wn.2d 645", "119 Wn.2d 334", "137 Wn.2d 319", "138 Wn.2d 783", "139 Wn. App. 743", "143 Wn. App. 797", "144 Wn.2d 306", "15 Wn. App. 757", "152 Wn.2d 107", "152 Wn.2d 299", "162 P.3d 1153", "167 Ill. 2d 288", "171 Wn.2d 726", "180 P.3d 829", "186 Wn. App. 715", "212 Ill. Dec. 581", "254 P.3d 818", "27 P.3d 600", "439 U.S. 322", "472 F.3d 1072", "551 P.2d 1038", "588 P.2d 1346", "657 F. Supp. 548", "657 N.E.2d 926", "70 Wn. App. 796", "782 P.2d 974", "831 P.2d 724", "855 P.2d 1223", "856 F. Supp. 274", "91 Wn.2d 345", "95 P.3d 321", "96 P.3d 957", "971 P.2d 500", "98 Wn. App. 724", "982 P.2d 601", "991 P.2d 1169"]
+cites_cases: ["113 Wn.2d 645", "119 Wn.2d 334", "137 Wn.2d 319", "138 Wn.2d 783", "139 Wn. App. 743", "143 Wn. App. 797", "144 Wn.2d 306", "15 Wn. App. 757", "152 Wn.2d 107", "152 Wn.2d 299", "162 P.3d 1153", "167 Ill. 2d 288", "171 Wn.2d 726", "180 P.3d 829", "212 Ill. Dec. 581", "254 P.3d 818", "27 P.3d 600", "439 U.S. 322", "472 F.3d 1072", "551 P.2d 1038", "588 P.2d 1346", "657 F. Supp. 548", "657 N.E.2d 926", "70 Wn. App. 796", "782 P.2d 974", "831 P.2d 724", "855 P.2d 1223", "856 F. Supp. 274", "91 Wn.2d 345", "95 P.3d 321", "96 P.3d 957", "971 P.2d 500", "98 Wn. App. 724", "982 P.2d 601", "991 P.2d 1169"]
 ---
 
 # State Farm Fire & Casualty Co. v. Ford Motor Co.
