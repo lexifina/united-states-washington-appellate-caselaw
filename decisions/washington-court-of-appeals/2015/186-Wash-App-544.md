@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71147-4-I"
 decided: "2015-02-17"
-citations: ["186 Wash. App. 544", "185 Wash. App. 1056"]
+citations: ["186 Wash. App. 544"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Janet Rae Tibbits, Individually, as Guardian, and as Attorney in Fact
 source_url: "https://static.case.law/wash-app/186/cases/0544-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4173015
-cites_cases: ["118 Wn.2d 195", "138 Wn.2d 265", "151 Wn.2d 359", "151 Wn.2d 853", "167 Wn.2d 861", "169 Wn. App. 588", "174 Wn. App. 615", "174 Wn.2d 920", "178 Wn.2d 732", "186 Wn. App. 544", "225 P.3d 910", "280 P.3d 1110", "283 P.3d 567", "301 P.3d 468", "310 P.3d 1275", "822 P.2d 243", "89 P.3d 217", "93 P.3d 108", "979 P.2d 400"]
+cites_cases: ["118 Wn.2d 195", "138 Wn.2d 265", "151 Wn.2d 359", "151 Wn.2d 853", "167 Wn.2d 861", "169 Wn. App. 588", "174 Wn. App. 615", "174 Wn.2d 920", "178 Wn.2d 732", "225 P.3d 910", "280 P.3d 1110", "283 P.3d 567", "301 P.3d 468", "310 P.3d 1275", "822 P.2d 243", "89 P.3d 217", "93 P.3d 108", "979 P.2d 400"]
 ---
 
 # Tibbits v. Department of Corrections
