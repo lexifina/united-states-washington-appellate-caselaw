@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71441-4-I"
 decided: "2015-02-23"
-citations: ["187 Wash. App. 51", "186 Wash. App. 1003"]
+citations: ["187 Wash. App. 51"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Neil Donner et al., Appellants, v. James M. Blue, as Trustee, et al.,
 source_url: "https://static.case.law/wash-app/187/cases/0051-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4235446
-cites_cases: ["10 Conn. App. 556", "10 P.3d 504", "102 Wn. App. 907", "111 Wn. App. 209", "148 Wn.2d 788", "149 Wn.2d 873", "161 Wn. App. 474", "163 P.2d 822", "174 Wn. App. 702", "178 Ill. App. 347", "187 Wn. App. 51", "219 Pa. Super. 260", "24 Ill. App. 3d 967", "24 Wn.2d 297", "254 P.3d 835", "280 A.2d 608", "283 Conn. 510", "308 P.3d 644", "322 N.E.2d 201", "372 P.2d 193", "41 Wn. App. 343", "43 P.3d 1277", "524 A.2d 667", "527 P.2d 1115", "60 Wn.2d 122", "64 P.3d 22", "66 Wn. App. 715", "704 P.2d 1193", "73 P.3d 369", "74 Conn. App. 286", "812 A.2d 87", "834 P.2d 631", "84 Wn.2d 518", "932 A.2d 382", "97 Idaho 416"]
+cites_cases: ["10 Conn. App. 556", "10 P.3d 504", "102 Wn. App. 907", "111 Wn. App. 209", "148 Wn.2d 788", "149 Wn.2d 873", "161 Wn. App. 474", "163 P.2d 822", "174 Wn. App. 702", "178 Ill. App. 347", "219 Pa. Super. 260", "24 Ill. App. 3d 967", "24 Wn.2d 297", "254 P.3d 835", "280 A.2d 608", "283 Conn. 510", "308 P.3d 644", "322 N.E.2d 201", "372 P.2d 193", "41 Wn. App. 343", "43 P.3d 1277", "524 A.2d 667", "527 P.2d 1115", "60 Wn.2d 122", "64 P.3d 22", "66 Wn. App. 715", "704 P.2d 1193", "73 P.3d 369", "74 Conn. App. 286", "812 A.2d 87", "834 P.2d 631", "84 Wn.2d 518", "932 A.2d 382", "97 Idaho 416"]
 ---
 
 # Donner v. Blue
