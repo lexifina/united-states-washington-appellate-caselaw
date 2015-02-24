@@ -1,0 +1,59 @@
+---
+court: "Washington Court of Appeals"
+docket: "45056-9-II"
+decided: "2015-02-24"
+citations: ["186 Wash. App. 114"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Johanson, C.J., and Maxa, J., concur."]
+parties: ["The State of Washington, Respondent, v. Justin Dewayne McPherson, Appellant."]
+source_url: "https://static.case.law/wash-app/186/cases/0114-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 4174370
+cites_cases: ["104 P.3d 1280", "123 Wn. App. 85", "153 Wn.2d 506", "155 Wn. App. 951", "161 Wn. App. 111", "164 Wn. App. 370", "174 Wn.2d 239", "175 Wn.2d 10", "180 Wn. App. 583", "180 Wn.2d 1029", "181 Wn. App. 316", "181 Wn.2d 1020", "183 Wn.2d 1012", "231 P.3d 212", "249 P.3d 211", "264 P.3d 575", "273 P.3d 980", "282 P.3d 1087", "321 P.3d 1288", "324 P.3d 808", "68 Wn. App. 509", "843 P.2d 551", "96 P.3d 468"]
+---
+
+# State v. McPherson
+
+## Majority (Sutton, J.)
+
+¶1
+Sutton, J.
+Justin Dewayne McPherson appeals his jury trial convictions for second degree burglary, residential burglary, and second degree malicious mischief. He argues that (1) the evidence was insufficient to support the residential burglary conviction because there was no proof that the premises he entered, a jewelry store with an attached apartment, was a “dwelling” and (2) the accomplice liability statute is overbroad because it criminalizes constitutionally protected speech. We hold that under the facts of this case, the question of whether the jewelry store and attached apartment was a “dwelling” is a question of fact for the jury and the evidence supports the jury’s verdict on this element. We also follow our previous rejection of McPherson’s accomplice liability statute argument. Accordingly, we affirm.
+FACTS
+¶2 On the morning of March 20, 2013, someone broke into Frederick William Salewsky’s jewelry store in Centraba by entering the unoccupied store next door and making a hole in the adjoining wall. Frederick’s son Jeremy Salewsky, who worked in the jewelry store and lived in an apartment above the store, was awoken by a noise, went downstairs to investigate, and interrupted the burglary. Jeremy fired a shot toward a person he saw in the store and then saw that person flee through the hole in the wall, but he was unsure if he had shot anyone. Jeremy did not see the intruder’s face. The police later identified McPherson as a suspect after he checked into a Tacoma hospital with a gunshot wound.
+¶3 The State charged McPherson with second degree burglary of the vacant store (count I), residential burglary of the jewelry store and attached apartment with a special allegation that the victim of the burglary was present at the time of the crime (count II), and second degree malicious mischief (count III). At trial, Jeremy testified that he lived in the apartment above the jewelry store, that the only way to access the apartment was by the stairs located inside the store, and that the apartment was separated from the store by a “swinging door” at the bottom of the stairway and a door at the top of the stairs that did not lock or shut securely. 1 Report of Proceedings (RP) at 23-24.
+¶4 Although the State did not specifically charge McPherson as an accomplice, the trial court instructed the jury on accomplice liability using an instruction identical to Washington Pattern Jury Instruction 10.51. 11 Washington Practice: Washington Pattern Jury Instructions: Criminal 10.51, at 217 (3d ed. 2008).
+¶5 The jury found McPherson guilty as charged and found that he had committed the residential burglary while the victim was present in the building or residence. McPherson appeals his convictions.
+ANALYSIS
+¶6 McPherson argues that the evidence was insufficient to support the residential burglary conviction and that the accomplice liability statute is unconstitutionally overbroad. We reject both arguments.
+I. Sufficiency of Evidence
+¶7 McPherson first argues that the evidence was insufficient to prove the residential burglary charge. Specifically, he contends that because the jewelry store was not used for lodging, the structure or building was not a “dwelling” as a matter of law. Br. of Appellant at 5-6. We disagree.
+¶8 “Evidence is sufficient to support a finding of guilt if, after viewing the evidence in the light most favorable to the State, a rational trier of fact could find the essential elements of the crime beyond a reasonable doubt.” State v. Rose, 175 Wn.2d 10, 14, 282 P.3d 1087 (2012). “A claim of insufficient evidence admits the truth of the State’s evidence and all inferences that reasonably can be drawn from that evidence.” State v. Caton, 174 Wn.2d 239, 241, 273 P.3d 980 (2012).
+¶9 Under RCW 9A.52.025(1), “[a] person is guilty of residential burglary if, with intent to commit a crime against a person or property therein, the person enters or remains unlawfully in a dwelling other than a vehicle.” “ ‘Dwelling’ means any building or structure ... , or a portion thereof, which is used or ordinarily used by a person for lodging.” RCW 9A.04.110(7).
+¶10 Washington courts have consistently held as a matter of law that when a building clearly is used for lodging, an unoccupied portion of the building is included in the definition of dwelling. However, this case involves the opposite situation. The jewelry store clearly is not used for lodging, but it includes a portion — the apartment above the store — that is used for lodging. And the burglary occurred only in the jewelry store portion. It is possible that if the portion of the building used for lodging is insignificant in relation to the rest of the building or is physically remote from the main portion of the building, it may not constitute residential burglary. For example, in State v. Neal, Division One of our court suggested that a person who burglarizes the nave of a cathedral would not be guilty of residential burglary simply because someone sleeps in the organ loft. 161 Wn. App. 111, 114, 249 P.3d 211 (2011).
+¶11 But whether a building constitutes a “dwelling” under RCW 9A.52.025(1) cannot always be determined as a matter of law. In State v. McDonald, we held that the issue of whether an unoccupied residence was a dwelling was a question of fact for the jury to decide based on all the relevant evidence. 123 Wn. App. 85, 90-91, 96 P.3d 468 (2004). As in McDonald, here we decline to decide as a matter of law whether the jewelry store with an attached apartment was a dwelling, and instead hold that whether the jewelry store and attached apartment was a “dwelling” is a question of fact for the jury to decide.
+¶12 Because the dwelling issue is a question of fact, we must determine whether there was sufficient evidence for the jury to conclude that the jewelry store was a dwelling. We hold that there was. Jeremy’s apartment was directly above the jewelry store, and the apartment and the jewelry store were within a single structure. The apartment was not secured as a separate unit; it was immediately adjacent to the store and was separated from the store only by a “swinging door” at the bottom of the stairway and a door at the top of the stairs that could not be locked or secured. RP at 24-25. The sole access to the apartment was through the jewelry store, and Jeremy had unlimited access to both the jewelry store and the apartment at any time of day.
+¶13 This evidence was sufficient for the jury to find that the apartment was not separable from the jewelry store, and therefore, there was sufficient evidence to support the jury’s finding that the jewelry store constituted a “dwelling.” Accordingly, McPherson’s sufficiency of the evidence argument fails.
+II. Accomplice Liability Instruction
+¶14 McPherson next argues that the accomplice liability statute, RCW 9A.08.020, is unconstitutionally over-broad because it criminalizes constitutionally protected speech in violation of the First and Fourteenth Amendments. McPherson’s arguments have been rejected in State v. Coleman, 155 Wn. App. 951, 960-61, 231 P.3d 212 (2010), State v. Ferguson, 164 Wn. App. 370, 375-76, 264 P.3d 575 (2011), and State v. Holcomb, 180 Wn. App. 583, 589, 321 P.3d 1288, review denied, 180 Wn.2d 1029 (2014).
+¶15 McPherson argues, however, that we should reject Coleman and Ferguson as wrongly decided because they erroneously rely on cases involving conduct, whereas the act of “aiding” can involve “pure speech.” Br. of Appellant at 13-14; Reply Br. of Appellant at 3-4. This identical argument was rejected in Holcomb. As Division Three noted in rejecting this argument, “[T]he required aid or agreement to aid the other person must be ‘in planning or committing [the crime].’” Holcomb, 180 Wn. App. at 590 (second alteration in original). Thus, “aiding” was limited to acts that also involved conduct, so Ferguson’s and Coleman’s reliance on case law involving conduct was not misplaced. We adhere to the prior decisions and analysis in Coleman, Ferguson, and Holcomb, and McPherson’s challenge to the accomplice liability statute fails.
+¶16 Finding no error, we affirm McPherson’s convictions.
+Johanson, C.J., and Maxa, J., concur.
+Review denied at 183 Wn.2d 1012 (2015).
+Frederick Salewsky owned the entire building, including the vacant portion of the building. The vacant portion of the building and the jewelry store did not have a shared entrance.
+Because the Salewskys share the same last name, we refer to them by their first names to avoid confusion. We intend no disrespect.
+There is nothing in the record about whether the “swinging door” was capable of being locked.
+State v. Moran, 181 Wn. App. 316, 321-23, 324 P.3d 808 (the area under the foundation of a house is a “dwelling” even though the area was not accessible from the inside living quarters), review denied, 181 Wn.2d 1020 (2014); State v. Neal, 161 Wn. App. 111, 113-14, 249 P.3d 211 (2011) (a tool room in an apartment building is a “dwelling” because it was a portion of a building used as lodging); State v. Murbach, 68 Wn. App. 509, 513, 843 P.2d 551 (1993) (an unattached garage with a door leading to a residence was a “dwelling” because it was a portion of a building used as lodging).
+The First Amendment provides in part that “[cjongress shall make no law ... abridging the freedom of speech.” U.S. Const, amend. I. The First Amendment applies to the states through the Fourteenth Amendment. U.S. Const, amend. XIV; Kitsap County v. Mattress Outlet, 153 Wn.2d 506, 511, 104 P.3d 1280 (2005).
+McPherson does not address Holcomb, which was filed after the briefing for this appeal was complete.
+We note that the accomplice liability instruction here included the limiting language that was discussed in Holcomb'.
+A person is guilty of a crime if it is committed by the conduct of another person for which he or she is legally accountable. A person is legally accountable for the conduct of another person when he or she is an accomplice of such other person in the commission of the crime.
+A person is an accomplice in the commission of a crime if, with knowledge that it will promote or facilitate the commission of the crime, he or she either:
+(1) solicits, commands, encourages, or requests another person to commit the crime; or
+(2) aids or agrees to aid another person in planning or committing the crime.
+The word “aid” means all assistance whether given by words, acts, encouragement, support, or presence. A person who is present at the scene and ready to assist by his or her presence is aiding in the commission of the crime. However, more than mere presence and knowledge of the criminal activity of
+another must be shown to establish that a person present is an accomplice.
+A person who is an accomplice in the commission of a crime is guilty of that crime whether present at the scene or not.
+Suppl. Clerk’s Papers at 43 (Instr. 11) (emphasis added).
