@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70957-7-I"
 decided: "2015-03-16"
-citations: ["187 Wash. App. 337", "186 Wash. App. 1027"]
+citations: ["187 Wash. App. 337"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Total Outdoor Corporation, Appellant, v. The City of Seattle Departme
 source_url: "https://static.case.law/wash-app/187/cases/0337-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4237676
-cites_cases: ["119 Ill. App. 3d 299", "119 Wn. App. 886", "132 Cal. App. 4th 1482", "136 Wn.2d 1", "136 Wn.2d 38", "141 Wn.2d 169", "144 Wn.2d 640", "146 Wn. App. 606", "161 Wn. App. 581", "166 Wn. App. 293", "167 Wn.2d 242", "180 Wn.2d 165", "183 Wn. App. 191", "184 Wn.2d 1014", "187 Wn. App. 337", "191 P.3d 928", "2009 UT App 122", "2012 WL 8681672", "203 A.D.2d 626", "218 P.3d 180", "242 P.2d 505", "255 P.3d 739", "269 P.3d 393", "30 P.3d 453", "322 P.3d 1219", "334 P.3d 1143", "34 Cal. Rptr. 3d 490", "4 P.3d 123", "40 Wn.2d 216", "402 P.2d 486", "451 N.W.2d 338", "456 N.E.2d 293", "587 So. 2d 640", "602 P.2d 1177", "63 A.L.R.4th 275", "65 Wn. App. 614", "66 Wn.2d 329", "69 Wn. App. 641", "74 Ill. Dec. 791", "829 P.2d 217", "83 P.3d 433", "84 Wn. App. 663", "849 P.2d 1276", "92 Wn.2d 905", "929 P.2d 510", "959 P.2d 1024", "959 P.2d 1091"]
+cites_cases: ["119 Ill. App. 3d 299", "119 Wn. App. 886", "132 Cal. App. 4th 1482", "136 Wn.2d 1", "136 Wn.2d 38", "141 Wn.2d 169", "144 Wn.2d 640", "146 Wn. App. 606", "161 Wn. App. 581", "166 Wn. App. 293", "167 Wn.2d 242", "180 Wn.2d 165", "183 Wn. App. 191", "184 Wn.2d 1014", "191 P.3d 928", "2009 UT App 122", "2012 WL 8681672", "203 A.D.2d 626", "218 P.3d 180", "242 P.2d 505", "255 P.3d 739", "269 P.3d 393", "30 P.3d 453", "322 P.3d 1219", "334 P.3d 1143", "34 Cal. Rptr. 3d 490", "4 P.3d 123", "40 Wn.2d 216", "402 P.2d 486", "451 N.W.2d 338", "456 N.E.2d 293", "587 So. 2d 640", "602 P.2d 1177", "63 A.L.R.4th 275", "65 Wn. App. 614", "66 Wn.2d 329", "69 Wn. App. 641", "74 Ill. Dec. 791", "829 P.2d 217", "83 P.3d 433", "84 Wn. App. 663", "849 P.2d 1276", "92 Wn.2d 905", "929 P.2d 510", "959 P.2d 1024", "959 P.2d 1091"]
 ---
 
 # Total Outdoor Corp. v. City of Seattle Department of Planning & Development
