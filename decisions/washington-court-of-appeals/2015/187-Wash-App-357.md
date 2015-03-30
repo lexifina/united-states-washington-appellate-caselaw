@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71837-1-I"
 decided: "2015-03-30"
-citations: ["187 Wash. App. 357", "186 Wash. App. 1038"]
+citations: ["187 Wash. App. 357"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Delante Ian Howerton, Appella
 source_url: "https://static.case.law/wash-app/187/cases/0357-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4236194
-cites_cases: ["102 Wn.2d 432", "103 P.3d 743", "107 Wn.2d 1", "111 F. Supp. 2d 439", "117 P.3d 377", "120 S. Ct. 673", "122 Wn. App. 395", "123 Wn.2d 641", "128 Wn. App. 855", "134 S. Ct. 1683", "134 Wn.2d 1", "147 Wn. App. 912", "148 Wn.2d 564", "149 Wn. App. 894", "151 Wn.2d 689", "152 Wn.2d 64", "153 Wn.2d 274", "154 Wn. App. 295", "163 Wn.2d 534", "173 Wn. App. 479", "178 Wn. App. 769", "178 Wn.2d 813", "180 Wn.2d 1020", "182 P.3d 426", "182 Wn. App. 832", "184 Wn.2d 1011", "187 Wn. App. 357", "199 P.3d 445", "205 P.3d 969", "222 F.3d 141", "224 P.3d 852", "232 F.3d 1241", "250 F.3d 130", "294 P.3d 812", "312 P.3d 1", "315 P.3d 1158", "332 P.3d 1034", "378 U.S. 108", "384 U.S. 436", "392 U.S. 1", "393 U.S. 410", "407 U.S. 143", "449 U. S. 411", "45 Wn. App. 769", "462 U.S. 213", "496 U.S. 325", "530 P.2d 243", "534 U.S. 266", "58 Wn. App. 90", "62 P.3d 489", "621 P.2d 1272", "63 Wn. App. 754", "66 Wn. App. 622", "688 P.2d 136", "726 P.2d 445", "727 P.2d 676", "73 Wn. App. 225", "791 P.2d 261", "822 P.2d 784", "834 P.2d 41", "84 Wn.2d 940", "868 P.2d 207", "870 P.2d 313", "92 P.3d 202", "93 P.3d 872", "948 P.2d 1280", "95 P.3d 353", "95 Wn.2d 43"]
+cites_cases: ["102 Wn.2d 432", "103 P.3d 743", "107 Wn.2d 1", "111 F. Supp. 2d 439", "117 P.3d 377", "120 S. Ct. 673", "122 Wn. App. 395", "123 Wn.2d 641", "128 Wn. App. 855", "134 S. Ct. 1683", "134 Wn.2d 1", "147 Wn. App. 912", "148 Wn.2d 564", "149 Wn. App. 894", "151 Wn.2d 689", "152 Wn.2d 64", "153 Wn.2d 274", "154 Wn. App. 295", "163 Wn.2d 534", "173 Wn. App. 479", "178 Wn. App. 769", "178 Wn.2d 813", "180 Wn.2d 1020", "182 P.3d 426", "182 Wn. App. 832", "184 Wn.2d 1011", "199 P.3d 445", "205 P.3d 969", "222 F.3d 141", "224 P.3d 852", "232 F.3d 1241", "250 F.3d 130", "294 P.3d 812", "312 P.3d 1", "315 P.3d 1158", "332 P.3d 1034", "378 U.S. 108", "384 U.S. 436", "392 U.S. 1", "393 U.S. 410", "407 U.S. 143", "449 U. S. 411", "45 Wn. App. 769", "462 U.S. 213", "496 U.S. 325", "530 P.2d 243", "534 U.S. 266", "58 Wn. App. 90", "62 P.3d 489", "621 P.2d 1272", "63 Wn. App. 754", "66 Wn. App. 622", "688 P.2d 136", "726 P.2d 445", "727 P.2d 676", "73 Wn. App. 225", "791 P.2d 261", "822 P.2d 784", "834 P.2d 41", "84 Wn.2d 940", "868 P.2d 207", "870 P.2d 313", "92 P.3d 202", "93 P.3d 872", "948 P.2d 1280", "95 P.3d 353", "95 Wn.2d 43"]
 ---
 
 # State v. Howerton
