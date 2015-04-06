@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72099-6-I"
 decided: "2015-04-06"
-citations: ["187 Wash. App. 378", "186 Wash. App. 1044"]
+citations: ["187 Wash. App. 378"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -10,7 +10,7 @@ parties: ["Eric Sobota, Petitioner, v. Gregory Blair Mahlik, Respondent."]
 source_url: "https://static.case.law/wash-app/187/cases/0378-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4235856
-cites_cases: ["177 Wn.2d 520", "187 Wn. App. 378", "303 P.3d 1042"]
+cites_cases: ["177 Wn.2d 520", "303 P.3d 1042"]
 ---
 
 # Sobota v. Mahlik
