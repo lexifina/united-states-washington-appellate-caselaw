@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45793-8-II"
 decided: "2015-04-14"
-citations: ["188 Wash. App. 641", "187 Wash. App. 1003"]
+citations: ["188 Wash. App. 641"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Nathan M. Cooper, Appellant, v. The Department of Labor and Industrie
 source_url: "https://static.case.law/wash-app/188/cases/0641-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4278867
-cites_cases: ["101 Wn. App. 629", "130 Wn.2d 486", "131 Wn.2d 547", "132 Wn. App. 762", "134 P.3d 234", "18 Wn. App. 674", "188 Wn. App. 641", "200 Wash. 674", "206 P.2d 787", "298 P.2d 1117", "33 Wn.2d 584", "49 Wn.2d 195", "5 P.3d 16", "571 P.2d 229", "71 Wn. App. 120", "74 Wn. App. 566", "857 P.2d 1053", "874 P.2d 876", "925 P.2d 194", "93 Wn. App. 181", "933 P.2d 1025", "94 P.2d 764", "96 Wn. App. 731", "968 P.2d 14", "981 P.2d 878"]
+cites_cases: ["101 Wn. App. 629", "130 Wn.2d 486", "131 Wn.2d 547", "132 Wn. App. 762", "134 P.3d 234", "18 Wn. App. 674", "200 Wash. 674", "206 P.2d 787", "298 P.2d 1117", "33 Wn.2d 584", "49 Wn.2d 195", "5 P.3d 16", "571 P.2d 229", "71 Wn. App. 120", "74 Wn. App. 566", "857 P.2d 1053", "874 P.2d 876", "925 P.2d 194", "93 Wn. App. 181", "933 P.2d 1025", "94 P.2d 764", "96 Wn. App. 731", "968 P.2d 14", "981 P.2d 878"]
 ---
 
 # Cooper v. Department of Labor & Industries
