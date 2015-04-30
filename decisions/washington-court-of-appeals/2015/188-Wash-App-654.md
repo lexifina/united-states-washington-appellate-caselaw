@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31469-3-III"
 decided: "2015-04-30"
-citations: ["188 Wash. App. 654", "187 Wash. App. 1020"]
+citations: ["188 Wash. App. 654"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Dependency of H.S."]
 source_url: "https://static.case.law/wash-app/188/cases/0654-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4279638
-cites_cases: ["102 Wn. App. 142", "114 Wn. App. 299", "122 Wn.2d 619", "135 Wn.2d 255", "149 Wn.2d 647", "150 Wn.2d 409", "168 Wn. App. 621", "188 Wn. App. 654", "279 P.3d 897", "41 Wn. App. 721", "57 P.3d 300", "588 P.2d 725", "6 P.3d 112", "60 Wn. App. 115", "61 Wn. App. 280", "61 Wn. App. 562", "705 P.2d 825", "71 P.3d 638", "78 P.3d 634", "802 P.2d 822", "810 P.2d 518", "811 P.2d 225", "860 P.2d 1256", "866 P.2d 1256", "866 P.2d 390", "91 Wn.2d 223", "956 P.2d 312"]
+cites_cases: ["102 Wn. App. 142", "114 Wn. App. 299", "122 Wn.2d 619", "135 Wn.2d 255", "149 Wn.2d 647", "150 Wn.2d 409", "168 Wn. App. 621", "279 P.3d 897", "41 Wn. App. 721", "57 P.3d 300", "588 P.2d 725", "6 P.3d 112", "60 Wn. App. 115", "61 Wn. App. 280", "61 Wn. App. 562", "705 P.2d 825", "71 P.3d 638", "78 P.3d 634", "802 P.2d 822", "810 P.2d 518", "811 P.2d 225", "860 P.2d 1256", "866 P.2d 1256", "866 P.2d 390", "91 Wn.2d 223", "956 P.2d 312"]
 ---
 
 # In re the Dependency of H.S.
