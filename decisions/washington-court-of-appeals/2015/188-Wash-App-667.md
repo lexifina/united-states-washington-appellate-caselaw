@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32410-9-III"
 decided: "2015-05-05"
-citations: ["188 Wash. App. 667", "187 Wash. App. 1025"]
+citations: ["188 Wash. App. 667"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jessica Pederson, Respondent, v. The Employment Security Department, 
 source_url: "https://static.case.law/wash-app/188/cases/0667-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4280272
-cites_cases: ["101 P.3d 440", "102 Wn.2d 385", "122 Wn.2d 397", "123 Wn.2d 621", "124 Wn. App. 361", "154 P.3d 891", "159 Wn.2d 868", "164 Wn.2d 909", "180 Wn.2d 566", "181 Wn.2d 1014", "182 Wn. App. 157", "184 Wn.2d 1010", "188 Wn. App. 667", "194 P.3d 255", "326 P.3d 713", "328 P.3d 977", "337 P.3d 326", "47 Wn. App. 296", "59 Wn. App. 76", "687 P.2d 195", "71 Wn. App. 23", "734 P.2d 939", "795 P.2d 1184", "82 Wn. App. 30", "856 P.2d 421", "858 P.2d 494", "869 P.2d 1034", "917 P.2d 136"]
+cites_cases: ["101 P.3d 440", "102 Wn.2d 385", "122 Wn.2d 397", "123 Wn.2d 621", "124 Wn. App. 361", "154 P.3d 891", "159 Wn.2d 868", "164 Wn.2d 909", "180 Wn.2d 566", "181 Wn.2d 1014", "182 Wn. App. 157", "184 Wn.2d 1010", "194 P.3d 255", "326 P.3d 713", "328 P.3d 977", "337 P.3d 326", "47 Wn. App. 296", "59 Wn. App. 76", "687 P.2d 195", "71 Wn. App. 23", "734 P.2d 939", "795 P.2d 1184", "82 Wn. App. 30", "856 P.2d 421", "858 P.2d 494", "869 P.2d 1034", "917 P.2d 136"]
 ---
 
 # Pederson v. Employment Security Department
