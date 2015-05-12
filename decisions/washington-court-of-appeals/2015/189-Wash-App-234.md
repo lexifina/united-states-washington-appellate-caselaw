@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45776-8-II"
 decided: "2015-05-12"
-citations: ["189 Wash. App. 234", "187 Wash. App. 1027"]
+citations: ["189 Wash. App. 234"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Maria Krawiec, Appellant, v. Red Dot Corporation et al., Respondents.
 source_url: "https://static.case.law/wash-app/189/cases/0234-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6778363
-cites_cases: ["100 Wn. App. 526", "107 Wn. App. 190", "115 Wn.2d 194", "116 Wn.2d 923", "123 P.3d 858", "128 Wn.2d 594", "130 Wn. App. 489", "137 Wn.2d 533", "150 Wn.2d 310", "170 Wn.2d 495", "173 Wn.2d 608", "184 Wn.2d 1037", "189 Wn. App. 234", "242 P.3d 846", "26 P.3d 977", "268 P.3d 929", "68 Wn. App. 406", "76 P.3d 1183", "796 P.2d 412", "809 P.2d 1377", "842 P.2d 1006", "910 P.2d 1284", "973 P.2d 1049", "997 P.2d 977"]
+cites_cases: ["100 Wn. App. 526", "107 Wn. App. 190", "115 Wn.2d 194", "116 Wn.2d 923", "123 P.3d 858", "128 Wn.2d 594", "130 Wn. App. 489", "137 Wn.2d 533", "150 Wn.2d 310", "170 Wn.2d 495", "173 Wn.2d 608", "184 Wn.2d 1037", "242 P.3d 846", "26 P.3d 977", "268 P.3d 929", "68 Wn. App. 406", "76 P.3d 1183", "796 P.2d 412", "809 P.2d 1377", "842 P.2d 1006", "910 P.2d 1284", "973 P.2d 1049", "997 P.2d 977"]
 ---
 
 # Krawiec v. Red Dot Corp.
