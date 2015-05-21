@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32233-5-III"
 decided: "2015-05-21"
-citations: ["188 Wash. App. 305", "187 Wash. App. 1032"]
+citations: ["188 Wash. App. 305"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Appellant, v. Cody Ray Flores, Respondent."]
 source_url: "https://static.case.law/wash-app/188/cases/0305-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4281327
-cites_cases: ["107 Wn.2d 1", "123 Wn.2d 641", "134 Wn.2d 1", "135 Wn.2d 761", "137 Wn.2d 208", "139 Wn.2d 486", "144 Wash. App. 100", "144 Wn.2d 386", "146 Wn.2d 166", "148 Wn.2d 564", "166 Wn.2d 242", "170 Wn.2d 57", "181 P.3d 37", "184 Wn.2d 1019", "188 Wn. App. 305", "207 P.3d 1266", "239 P.3d 573", "28 P.3d 753", "392 U.S. 1", "43 P.3d 513", "508 U.S. 366", "551 U.S. 249", "62 P.3d 489", "654 P.2d 96", "726 P.2d 445", "870 P.2d 313", "948 P.2d 1280", "958 P.2d 982", "970 P.2d 722", "98 Wn.2d 289", "987 P.2d 73"]
+cites_cases: ["107 Wn.2d 1", "123 Wn.2d 641", "134 Wn.2d 1", "135 Wn.2d 761", "137 Wn.2d 208", "139 Wn.2d 486", "144 Wash. App. 100", "144 Wn.2d 386", "146 Wn.2d 166", "148 Wn.2d 564", "166 Wn.2d 242", "170 Wn.2d 57", "181 P.3d 37", "184 Wn.2d 1019", "207 P.3d 1266", "239 P.3d 573", "28 P.3d 753", "392 U.S. 1", "43 P.3d 513", "508 U.S. 366", "551 U.S. 249", "62 P.3d 489", "654 P.2d 96", "726 P.2d 445", "870 P.2d 313", "948 P.2d 1280", "958 P.2d 982", "970 P.2d 722", "98 Wn.2d 289", "987 P.2d 73"]
 ---
 
 # State v. Flores
