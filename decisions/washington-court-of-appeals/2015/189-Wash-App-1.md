@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72162-3-I"
 decided: "2015-06-01"
-citations: ["189 Wash. App. 1", "187 Wash. App. 1041"]
+citations: ["189 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Lisa Cummings, Appellant, v. The Department of Licensing, Respondent.
 source_url: "https://static.case.law/wash-app/189/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6777420
-cites_cases: ["117 Wn.2d 720", "122 Wn.2d 397", "127 Wn.2d 595", "159 Wn. App. 203", "168 Wn.2d 627", "169 Wn.2d 1", "173 Wn.2d 477", "175 Wn. App. 174", "180 Wn.2d 768", "184 Wn. App. 685", "189 Wn. App. 1", "230 P.3d 162", "232 P.3d 1118", "244 P.3d 1010", "269 P.3d 227", "304 P.3d 491", "329 P.3d 853", "339 P.3d 478", "65 Wn. App. 614", "658 P.2d 648", "663 P.2d 457", "68 Wn. App. 320", "77 Wn. App. 849", "81 Wn. App. 403", "818 P.2d 1062", "829 P.2d 217", "843 P.2d 535", "858 P.2d 494", "894 P.2d 582", "903 P.2d 433", "914 P.2d 750", "94 Wn. App. 7", "972 P.2d 101", "98 Wn.2d 690", "99 Wn.2d 466"]
+cites_cases: ["117 Wn.2d 720", "122 Wn.2d 397", "127 Wn.2d 595", "159 Wn. App. 203", "168 Wn.2d 627", "169 Wn.2d 1", "173 Wn.2d 477", "175 Wn. App. 174", "180 Wn.2d 768", "184 Wn. App. 685", "230 P.3d 162", "232 P.3d 1118", "244 P.3d 1010", "269 P.3d 227", "304 P.3d 491", "329 P.3d 853", "339 P.3d 478", "65 Wn. App. 614", "658 P.2d 648", "663 P.2d 457", "68 Wn. App. 320", "77 Wn. App. 849", "81 Wn. App. 403", "818 P.2d 1062", "829 P.2d 217", "843 P.2d 535", "858 P.2d 494", "894 P.2d 582", "903 P.2d 433", "914 P.2d 750", "94 Wn. App. 7", "972 P.2d 101", "98 Wn.2d 690", "99 Wn.2d 466"]
 ---
 
 # Cummings v. Department of Licensing
