@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71631-0-I"
 decided: "2015-06-22"
-citations: ["189 Wash. App. 30", "188 Wash. App. 1026"]
+citations: ["189 Wash. App. 30"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Thomas M. Gauthier, Appellant
 source_url: "https://static.case.law/wash-app/189/cases/0030-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6777520
-cites_cases: ["108 Wn.2d 734", "114 Wn.2d 613", "120 Wn. App. 425", "125 Wn.2d 24", "127 Wn.2d 322", "129 Wn.2d 61", "132 Wn.2d 529", "132 Wn.2d 668", "134 P.3d 221", "144 Wn.2d 236", "157 Wn.2d 44", "164 Wn.2d 556", "168 Wn.2d 91", "169 Wn.2d 815", "171 Wn.2d 17", "172 Wn.2d 85", "174 Wn. App. 257", "175 Wn.2d 696", "181 Wn.2d 757", "185 Wn.2d 1010", "189 Wn. App. 30", "192 P.3d 345", "225 P.3d 956", "239 P.3d 354", "246 P.3d 1260", "257 P.3d 624", "27 P.3d 184", "286 P.3d 673", "298 P.3d 126", "336 P.3d 1134", "62 Wn. App. 914", "743 P.2d 210", "790 P.2d 610", "816 P.2d 86", "85 P.3d 955", "882 P.2d 747", "899 P.2d 1251", "917 P.2d 563", "940 P.2d 1239", "940 P.2d 546"]
+cites_cases: ["108 Wn.2d 734", "114 Wn.2d 613", "120 Wn. App. 425", "125 Wn.2d 24", "127 Wn.2d 322", "129 Wn.2d 61", "132 Wn.2d 529", "132 Wn.2d 668", "134 P.3d 221", "144 Wn.2d 236", "157 Wn.2d 44", "164 Wn.2d 556", "168 Wn.2d 91", "169 Wn.2d 815", "171 Wn.2d 17", "172 Wn.2d 85", "174 Wn. App. 257", "175 Wn.2d 696", "181 Wn.2d 757", "185 Wn.2d 1010", "192 P.3d 345", "225 P.3d 956", "239 P.3d 354", "246 P.3d 1260", "257 P.3d 624", "27 P.3d 184", "286 P.3d 673", "298 P.3d 126", "336 P.3d 1134", "62 Wn. App. 914", "743 P.2d 210", "790 P.2d 610", "816 P.2d 86", "85 P.3d 955", "882 P.2d 747", "899 P.2d 1251", "917 P.2d 563", "940 P.2d 1239", "940 P.2d 546"]
 ---
 
 # State v. Gauthier
