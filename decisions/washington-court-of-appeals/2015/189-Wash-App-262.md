@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71425-2-I"
 decided: "2015-06-22"
-citations: ["189 Wash. App. 262", "188 Wash. App. 1025"]
+citations: ["189 Wash. App. 262"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Anne K. Block, Appellant, v. The City of Gold Bar, Respondent."]
 source_url: "https://static.case.law/wash-app/189/cases/0262-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6778473
-cites_cases: ["112 Wn.2d 216", "136 Wn.2d 595", "162 Wn.2d 716", "165 Wn.2d 525", "169 Wn.2d 827", "172 Wn.2d 702", "174 P.3d 60", "174 Wn.2d 244", "175 Wn. App. 729", "177 Wn.2d 417", "182 Wn.2d 87", "184 Wn.2d 1037", "189 Wn. App. 262", "199 P.3d 393", "240 P.3d 120", "252 U.S. App. D.C. 381", "261 P.3d 119", "274 P.3d 346", "287 U.S. App. D.C. 126", "309 P.3d 538", "327 P.3d 600", "343 P.3d 335", "770 P.2d 182", "790 F.2d 942", "80 Stat. 250", "920 F.2d 57", "963 P.2d 869"]
+cites_cases: ["112 Wn.2d 216", "136 Wn.2d 595", "162 Wn.2d 716", "165 Wn.2d 525", "169 Wn.2d 827", "172 Wn.2d 702", "174 P.3d 60", "174 Wn.2d 244", "175 Wn. App. 729", "177 Wn.2d 417", "182 Wn.2d 87", "184 Wn.2d 1037", "199 P.3d 393", "240 P.3d 120", "252 U.S. App. D.C. 381", "261 P.3d 119", "274 P.3d 346", "287 U.S. App. D.C. 126", "309 P.3d 538", "327 P.3d 600", "343 P.3d 335", "770 P.2d 182", "790 F.2d 942", "80 Stat. 250", "920 F.2d 57", "963 P.2d 869"]
 ---
 
 # Block v. City of Gold Bar
