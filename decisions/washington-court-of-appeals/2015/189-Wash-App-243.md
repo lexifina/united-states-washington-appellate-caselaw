@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71420-1-I"
 decided: "2015-06-22"
-citations: ["189 Wash. App. 243", "188 Wash. App. 1025"]
+citations: ["189 Wash. App. 243"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Bella Acharya, Respondent, v. Microsoft Corporation, Petitioner."]
 source_url: "https://static.case.law/wash-app/189/cases/0243-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6778411
-cites_cases: ["1 P.3d 1148", "108 Wn. App. 745", "115 Wn.2d 123", "120 Wn.2d 120", "134 S. Ct. 568", "134 Wn. App. 261", "135 Wn. App. 927", "141 P.3d 67", "141 Wn.2d 68", "147 P.3d 610", "160 Wn.2d 826", "161 P.3d 1016", "163 Wn.2d 14", "177 P.3d 1122", "178 Wn.2d 732", "185 Wn.2d 1006", "189 Wn. App. 243", "2012 U.S. Dist. LEXIS 182375", "2012 WL 8499879", "28 U.S.C. § 1404", "310 P.3d 1275", "33 P.3d 91", "330 U.S. 501", "345 Md. 361", "79 Wn. App. 505", "794 P.2d 1272", "839 P.2d 314", "86 Wn. App. 613", "903 P.2d 506", "92 Wn. App. 504", "93 Wn. App. 639", "937 P.2d 1158", "963 P.2d 215", "970 P.2d 332"]
+cites_cases: ["1 P.3d 1148", "108 Wn. App. 745", "115 Wn.2d 123", "120 Wn.2d 120", "134 S. Ct. 568", "134 Wn. App. 261", "135 Wn. App. 927", "141 P.3d 67", "141 Wn.2d 68", "147 P.3d 610", "160 Wn.2d 826", "161 P.3d 1016", "163 Wn.2d 14", "177 P.3d 1122", "178 Wn.2d 732", "185 Wn.2d 1006", "2012 U.S. Dist. LEXIS 182375", "2012 WL 8499879", "28 U.S.C. § 1404", "310 P.3d 1275", "33 P.3d 91", "330 U.S. 501", "345 Md. 361", "79 Wn. App. 505", "794 P.2d 1272", "839 P.2d 314", "86 Wn. App. 613", "903 P.2d 506", "92 Wn. App. 504", "93 Wn. App. 639", "937 P.2d 1158", "963 P.2d 215", "970 P.2d 332"]
 ---
 
 # Acharya v. Microsoft Corp.
