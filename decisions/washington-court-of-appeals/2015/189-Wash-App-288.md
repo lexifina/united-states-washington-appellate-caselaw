@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45928-1-II"
 decided: "2015-06-23"
-citations: ["189 Wash. App. 288", "188 Wash. App. 1029"]
+citations: ["189 Wash. App. 288"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Bruce Butson, Appellant, v. The Department of Labor and Industries, R
 source_url: "https://static.case.law/wash-app/189/cases/0288-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6778531
-cites_cases: ["115 Wn.2d 194", "118 P.3d 392", "123 Wn.2d 1031", "123 Wn.2d 803", "125 Wn.2d 533", "129 Wn. App. 236", "130 Wn.2d 1009", "134 Wn.2d 24", "138 Wn.2d 1", "139 Wn. App. 677", "143 Wn. App. 246", "146 Wn.2d 1", "147 Wn.2d 702", "149 Wn.2d 521", "157 Wn.2d 1002", "162 P.3d 450", "165 Wn.2d 1004", "166 Wn. App. 859", "166 Wn.2d 710", "170 Wn. App. 614", "174 Wn.2d 1015", "176 Wn.2d 1021", "177 P.3d 180", "189 Wn. App. 288", "213 P.3d 591", "271 P.3d 381", "285 P.3d 187", "381 P.2d 605", "43 P.3d 4", "57 P.3d 248", "62 Wn.2d 136", "70 P.3d 126", "71 Wn. App. 501", "74 Wn. App. 632", "796 P.2d 412", "81 Wn. App. 123", "859 P.2d 652", "872 P.2d 507", "875 P.2d 11", "886 P.2d 189", "913 P.2d 402", "948 P.2d 816", "977 P.2d 570"]
+cites_cases: ["115 Wn.2d 194", "118 P.3d 392", "123 Wn.2d 1031", "123 Wn.2d 803", "125 Wn.2d 533", "129 Wn. App. 236", "130 Wn.2d 1009", "134 Wn.2d 24", "138 Wn.2d 1", "139 Wn. App. 677", "143 Wn. App. 246", "146 Wn.2d 1", "147 Wn.2d 702", "149 Wn.2d 521", "157 Wn.2d 1002", "162 P.3d 450", "165 Wn.2d 1004", "166 Wn. App. 859", "166 Wn.2d 710", "170 Wn. App. 614", "174 Wn.2d 1015", "176 Wn.2d 1021", "177 P.3d 180", "213 P.3d 591", "271 P.3d 381", "285 P.3d 187", "381 P.2d 605", "43 P.3d 4", "57 P.3d 248", "62 Wn.2d 136", "70 P.3d 126", "71 Wn. App. 501", "74 Wn. App. 632", "796 P.2d 412", "81 Wn. App. 123", "859 P.2d 652", "872 P.2d 507", "875 P.2d 11", "886 P.2d 189", "913 P.2d 402", "948 P.2d 816", "977 P.2d 570"]
 ---
 
 # Butson v. Department of Labor & Industries
