@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45607-9-II"
 decided: "2015-06-23"
-citations: ["188 Wash. App. 679", "188 Wash. App. 1028"]
+citations: ["188 Wash. App. 679"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. George Thomas Strange, Appell
 source_url: "https://static.case.law/wash-app/188/cases/0679-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 4278895
-cites_cases: ["101 Wn.2d 566", "109 P.3d 849", "117 Wn.2d 829", "126 Wn. App. 670", "127 Wn.2d 322", "127 Wn.2d 628", "129 Wn.2d 61", "137 F.3d 630", "146 Wn. App. 790", "163 Wn.2d 25", "166 Wn.2d 881", "167 Wn.2d 140", "174 Wn.2d 269", "177 P.3d 93", "184 Wn.2d 1016", "188 Wn. App. 679", "192 P.3d 937", "214 P.3d 907", "217 P.3d 321", "274 P.3d 358", "366 U.S. 717", "466 U.S. 668", "683 P.2d 173", "822 P.2d 177", "899 P.2d 1251", "904 P.2d 245", "917 P.2d 563"]
+cites_cases: ["101 Wn.2d 566", "109 P.3d 849", "117 Wn.2d 829", "126 Wn. App. 670", "127 Wn.2d 322", "127 Wn.2d 628", "129 Wn.2d 61", "137 F.3d 630", "146 Wn. App. 790", "163 Wn.2d 25", "166 Wn.2d 881", "167 Wn.2d 140", "174 Wn.2d 269", "177 P.3d 93", "184 Wn.2d 1016", "192 P.3d 937", "214 P.3d 907", "217 P.3d 321", "274 P.3d 358", "366 U.S. 717", "466 U.S. 668", "683 P.2d 173", "822 P.2d 177", "899 P.2d 1251", "904 P.2d 245", "917 P.2d 563"]
 ---
 
 # State v. Strange
