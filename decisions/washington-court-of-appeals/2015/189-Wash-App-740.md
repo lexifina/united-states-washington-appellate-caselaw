@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "31845-1-III"
 decided: "2015-06-25"
-citations: ["189 Wash. App. 740", "188 Wash. App. 1030"]
+citations: ["189 Wash. App. 740"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Clay D. Starbuck, Appellant."
 source_url: "https://static.case.law/wash-app/189/cases/0740-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6779807
-cites_cases: ["107 Wn.2d 59", "123 Wn.2d 1031", "128 Wn.2d 1004", "13 P.2d 1", "134 S. Ct. 170", "150 Wn.2d 821", "158 Wn. App. 576", "163 Wn. App. 820", "164 Wn. App. 81", "168 Wash. 664", "168 Wn. App. 734", "168 Wn.2d 713", "173 Wn.2d 1030", "174 Wash. 528", "176 Wn.2d 1023", "180 Wn.2d 371", "185 Wn.2d 1008", "186 Wn. App. 749", "189 Wn. App. 740", "2 Wash. Terr. 381", "230 P.3d 576", "242 P.3d 52", "25 P.2d 104", "261 P.3d 683", "262 P.3d 100", "285 P.3d 83", "325 P.3d 159", "346 P.3d 838", "443 U.S. 307", "508 U.S. 953", "541 U.S. 36", "547 U.S. 319", "547 U.S. 813", "562 U.S. 344", "616 P.2d 628", "659 P.2d 514", "67 Wn. App. 157", "7 P. 872", "72 Wn. App. 638", "726 P.2d 981", "78 Wn. App. 471", "83 P.3d 970", "834 P.2d 651", "865 P.2d 521", "898 P.2d 854", "94 Wn.2d 216", "988 P.2d 583", "99 Wn.2d 1"]
+cites_cases: ["107 Wn.2d 59", "123 Wn.2d 1031", "128 Wn.2d 1004", "13 P.2d 1", "134 S. Ct. 170", "150 Wn.2d 821", "158 Wn. App. 576", "163 Wn. App. 820", "164 Wn. App. 81", "168 Wash. 664", "168 Wn. App. 734", "168 Wn.2d 713", "173 Wn.2d 1030", "174 Wash. 528", "176 Wn.2d 1023", "180 Wn.2d 371", "185 Wn.2d 1008", "186 Wn. App. 749", "2 Wash. Terr. 381", "230 P.3d 576", "242 P.3d 52", "25 P.2d 104", "261 P.3d 683", "262 P.3d 100", "285 P.3d 83", "325 P.3d 159", "346 P.3d 838", "443 U.S. 307", "508 U.S. 953", "541 U.S. 36", "547 U.S. 319", "547 U.S. 813", "562 U.S. 344", "616 P.2d 628", "659 P.2d 514", "67 Wn. App. 157", "7 P. 872", "72 Wn. App. 638", "726 P.2d 981", "78 Wn. App. 471", "83 P.3d 970", "834 P.2d 651", "865 P.2d 521", "898 P.2d 854", "94 Wn.2d 216", "988 P.2d 583", "99 Wn.2d 1"]
 ---
 
 # State v. Starbuck
