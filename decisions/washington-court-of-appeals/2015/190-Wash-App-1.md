@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72065-1-I"
 decided: "2015-06-29"
-citations: ["190 Wash. App. 1", "188 Wash. App. 1034"]
+citations: ["190 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["William Leahy et al., Appellants, v. Quality Loan Service Corporation
 source_url: "https://static.case.law/wash-app/190/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453857
-cites_cases: ["108 P.3d 1220", "111 Wn.2d 1004", "149 Wn.2d 214", "153 Wn.2d 780", "154 P.3d 882", "174 Wn.2d 560", "177 Wn. App. 22", "177 Wn.2d 94", "179 Wn.2d 1019", "179 Wn.2d 301", "180 Wn. App. 8", "181 Wn.2d 1007", "185 Wn.2d 1011", "190 Wn. App. 1", "276 P.3d 1277", "285 P.3d 34", "297 P.3d 677", "311 P.3d 53", "313 P.3d 1171", "321 P.3d 262", "51 Wn. App. 108", "67 P.3d 1061", "752 P.2d 385"]
+cites_cases: ["108 P.3d 1220", "111 Wn.2d 1004", "149 Wn.2d 214", "153 Wn.2d 780", "154 P.3d 882", "174 Wn.2d 560", "177 Wn. App. 22", "177 Wn.2d 94", "179 Wn.2d 1019", "179 Wn.2d 301", "180 Wn. App. 8", "181 Wn.2d 1007", "185 Wn.2d 1011", "276 P.3d 1277", "285 P.3d 34", "297 P.3d 677", "311 P.3d 53", "313 P.3d 1171", "321 P.3d 262", "51 Wn. App. 108", "67 P.3d 1061", "752 P.2d 385"]
 ---
 
 # Leahy v. Quality Loan Service Corp.
