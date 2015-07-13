@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73278-1-I"
 decided: "2015-07-13"
-citations: ["189 Wash. App. 484", "188 Wash. App. 1050"]
+citations: ["189 Wash. App. 484"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Personal Restraint of Michael James Morris, Peti
 source_url: "https://static.case.law/wash-app/189/cases/0484-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6779234
-cites_cases: ["10 F. Supp. 3d 907", "100 L. Ed. 83", "101 P.3d 1", "122 Wn.2d 1", "123 Wn. App. 771", "130 Wn.2d 244", "139 Wn.2d 341", "140 Wn. App. 266", "142 Wn.2d 710", "147 P.3d 1288", "149 Wn.2d 724", "152 Wn.2d 647", "159 Wn.2d 86", "16 P.3d 1", "161 Wn.2d 1", "162 P.3d 1122", "166 P.3d 726", "173 Wn. App. 1013", "174 Wn.2d 835", "189 Wn. App. 484", "2013 WL 503140", "280 P.3d 1102", "293 F. 1013", "350 U.S. 91", "373 U.S. 83", "425 P.2d 898", "466 U.S. 668", "537 F. Supp. 2d 1343", "54 App. D.C. 46", "70 Wn.2d 941", "72 P.3d 708", "857 P.2d 989", "922 P.2d 1304", "98 P.3d 1258", "986 P.2d 771"]
+cites_cases: ["10 F. Supp. 3d 907", "100 L. Ed. 83", "101 P.3d 1", "122 Wn.2d 1", "123 Wn. App. 771", "130 Wn.2d 244", "139 Wn.2d 341", "140 Wn. App. 266", "142 Wn.2d 710", "147 P.3d 1288", "149 Wn.2d 724", "152 Wn.2d 647", "159 Wn.2d 86", "16 P.3d 1", "161 Wn.2d 1", "162 P.3d 1122", "166 P.3d 726", "173 Wn. App. 1013", "174 Wn.2d 835", "2013 WL 503140", "280 P.3d 1102", "293 F. 1013", "350 U.S. 91", "373 U.S. 83", "425 P.2d 898", "466 U.S. 668", "537 F. Supp. 2d 1343", "54 App. D.C. 46", "70 Wn.2d 941", "72 P.3d 708", "857 P.2d 989", "922 P.2d 1304", "98 P.3d 1258", "986 P.2d 771"]
 ---
 
 # In re the Personal Restraint of Morris
