@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71290-0-I"
 decided: "2015-07-13"
-citations: ["189 Wash. App. 317", "188 Wash. App. 1047"]
+citations: ["189 Wash. App. 317"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of P.K."]
 source_url: "https://static.case.law/wash-app/189/cases/0317-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6778651
-cites_cases: ["107 Wn.2d 196", "118 Wn.2d 801", "125 P.3d 245", "130 Wn. App. 912", "145 Wn.2d 544", "150 Wn.2d 11", "186 Wn.2d 1009", "187 Wn. App. 303", "189 Wn. App. 317", "348 P.3d 1231", "397 P.2d 418", "40 P.3d 656", "65 Wn.2d 366", "728 P.2d 138", "74 P.3d 119", "828 P.2d 549", "91 Wn. App. 146", "955 P.2d 836"]
+cites_cases: ["107 Wn.2d 196", "118 Wn.2d 801", "125 P.3d 245", "130 Wn. App. 912", "145 Wn.2d 544", "150 Wn.2d 11", "186 Wn.2d 1009", "187 Wn. App. 303", "348 P.3d 1231", "397 P.2d 418", "40 P.3d 656", "65 Wn.2d 366", "728 P.2d 138", "74 P.3d 119", "828 P.2d 549", "91 Wn. App. 146", "955 P.2d 836"]
 ---
 
 # In re the Detention of P.K.
