@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45742-3-II; 46562-1-II"
 decided: "2015-07-14"
-citations: ["189 Wash. App. 509", "188 Wash. App. 1051"]
+citations: ["189 Wash. App. 509"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Greg Hoover, Respondent, v. Scott Warner et al., Appellants."]
 source_url: "https://static.case.law/wash-app/189/cases/0509-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 6779281
-cites_cases: ["105 P.3d 378", "113 Wn. App. 359", "136 Wn.2d 946", "138 Wn.2d 858", "14 Wash. 75", "140 Wn.2d 200", "145 Wn.2d 674", "147 Wn.2d 78", "149 Wn.2d 873", "153 Wn.2d 447", "165 Wn. App. 10", "168 Wn.2d 627", "176 Wn. App. 335", "179 Wn.2d 1011", "182 Wn. App. 753", "182 Wn.2d 1008", "185 Wn.2d 1004", "189 Wn. App. 509", "230 P.3d 162", "266 P.3d 905", "308 P.3d 791", "31 Wn. App. 27", "332 P.3d 469", "36 Wn. App. 385", "40 Wn. App. 414", "41 P.3d 1175", "44 P. 113", "44 Wn. App. 707", "51 P.3d 793", "523 P.2d 186", "53 P.3d 1020", "627 P.2d 1312", "638 P.2d 1213", "640 P.2d 36", "675 P.2d 607", "698 P.2d 615", "723 P.2d 22", "73 P.3d 369", "83 Wn.2d 871", "95 Wn.2d 593", "96 Wn.2d 785", "968 P.2d 871", "983 P.2d 626", "993 P.2d 900", "995 P.2d 63"]
+cites_cases: ["105 P.3d 378", "113 Wn. App. 359", "136 Wn.2d 946", "138 Wn.2d 858", "14 Wash. 75", "140 Wn.2d 200", "145 Wn.2d 674", "147 Wn.2d 78", "149 Wn.2d 873", "153 Wn.2d 447", "165 Wn. App. 10", "168 Wn.2d 627", "176 Wn. App. 335", "179 Wn.2d 1011", "182 Wn. App. 753", "182 Wn.2d 1008", "185 Wn.2d 1004", "230 P.3d 162", "266 P.3d 905", "308 P.3d 791", "31 Wn. App. 27", "332 P.3d 469", "36 Wn. App. 385", "40 Wn. App. 414", "41 P.3d 1175", "44 P. 113", "44 Wn. App. 707", "51 P.3d 793", "523 P.2d 186", "53 P.3d 1020", "627 P.2d 1312", "638 P.2d 1213", "640 P.2d 36", "675 P.2d 607", "698 P.2d 615", "723 P.2d 22", "73 P.3d 369", "83 Wn.2d 871", "95 Wn.2d 593", "96 Wn.2d 785", "968 P.2d 871", "983 P.2d 626", "993 P.2d 900", "995 P.2d 63"]
 ---
 
 # Hoover v. Warner
