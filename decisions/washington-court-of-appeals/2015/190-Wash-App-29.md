@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45512-9-II"
 decided: "2015-07-14"
-citations: ["190 Wash. App. 29", "188 Wash. App. 1050"]
+citations: ["190 Wash. App. 29"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Michael Sease."]
 source_url: "https://static.case.law/wash-app/190/cases/0029-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453859
-cites_cases: ["107 Wn.2d 196", "124 P.3d 644", "145 Wn.2d 789", "149 Wn. App. 66", "150 P.3d 86", "152 Wn. App. 442", "156 Wn.2d 102", "159 Wn.2d 357", "166 Wn.2d 1029", "174 Wn.2d 369", "182 Wn.2d 632", "184 Wn.2d 1019", "190 Wn. App. 29", "201 P.3d 1078", "216 P.3d 1089", "275 P.3d 1092", "343 P.3d 731", "42 P.3d 952", "728 P.2d 138"]
+cites_cases: ["107 Wn.2d 196", "124 P.3d 644", "145 Wn.2d 789", "149 Wn. App. 66", "150 P.3d 86", "152 Wn. App. 442", "156 Wn.2d 102", "159 Wn.2d 357", "166 Wn.2d 1029", "174 Wn.2d 369", "182 Wn.2d 632", "184 Wn.2d 1019", "201 P.3d 1078", "216 P.3d 1089", "275 P.3d 1092", "343 P.3d 731", "42 P.3d 952", "728 P.2d 138"]
 ---
 
 # In re the Detention of Sease
