@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46313-0-II"
 decided: "2015-08-04"
-citations: ["190 Wash. App. 51", "189 Wash. App. 1022"]
+citations: ["190 Wash. App. 51"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Marriage of Victor M. Zandi, Respondent, and Dea
 source_url: "https://static.case.law/wash-app/190/cases/0051-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453860
-cites_cases: ["100 Wn. App. 208", "160 Wn.2d 745", "161 P.3d 956", "161 Wn. App. 366", "174 Wn. App. 1", "177 Wn. App. 332", "185 Wn.2d 1002", "190 Wn. App. 51", "255 P.3d 709", "298 P.3d 757", "312 P.3d 669", "997 P.2d 399"]
+cites_cases: ["100 Wn. App. 208", "160 Wn.2d 745", "161 P.3d 956", "161 Wn. App. 366", "174 Wn. App. 1", "177 Wn. App. 332", "185 Wn.2d 1002", "255 P.3d 709", "298 P.3d 757", "312 P.3d 669", "997 P.2d 399"]
 ---
 
 # In re the Marriage of Zandi
