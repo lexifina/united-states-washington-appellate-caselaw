@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72051-1-I"
 decided: "2015-08-10"
-citations: ["190 Wash. App. 58", "189 Wash. App. 1025"]
+citations: ["190 Wash. App. 58"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Alex C. Barkley, Appellant, v. GreenPoint Mortgage Funding, Inc., et 
 source_url: "https://static.case.law/wash-app/190/cases/0058-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453861
-cites_cases: ["103 Wn.2d 383", "105 Wn.2d 778", "116 Wn. App. 291", "122 Wn. App. 395", "131 Wn.2d 133", "133 Wn. App. 156", "135 P.3d 946", "135 Wn.2d 658", "140 Wn.2d 88", "148 Wn.2d 788", "151 Wn. App. 818", "154 P.3d 882", "154 Wn. App. 722", "156 Wn. App. 720", "159 Wn. App. 389", "159 Wn.2d 903", "161 Wn.2d 353", "166 P.3d 667", "174 Wn.2d 560", "175 Wn.2d 83", "176 Wn.2d 771", "181 Wn. App. 484", "181 Wn. App. 788", "181 Wn.2d 1023", "181 Wn.2d 412", "181 Wn.2d 775", "182 Wn.2d 1020", "184 Wn.2d 1036", "190 Wn. App. 58", "214 P.3d 189", "226 P.3d 191", "233 P.3d 914", "245 P.3d 779", "276 P.3d 1277", "285 P.3d 34", "295 P.3d 1179", "321 P.3d 1275", "326 P.3d 768", "334 P.3d 529", "336 P.3d 1142", "51 Wn. App. 108", "64 P.3d 22", "65 P.3d 671", "693 P.2d 683", "719 P.2d 531", "752 P.2d 385", "930 P.2d 288", "95 P.3d 353", "95 Wn. App. 311", "958 P.2d 301", "976 P.2d 643", "993 P.2d 259"]
+cites_cases: ["103 Wn.2d 383", "105 Wn.2d 778", "116 Wn. App. 291", "122 Wn. App. 395", "131 Wn.2d 133", "133 Wn. App. 156", "135 P.3d 946", "135 Wn.2d 658", "140 Wn.2d 88", "148 Wn.2d 788", "151 Wn. App. 818", "154 P.3d 882", "154 Wn. App. 722", "156 Wn. App. 720", "159 Wn. App. 389", "159 Wn.2d 903", "161 Wn.2d 353", "166 P.3d 667", "174 Wn.2d 560", "175 Wn.2d 83", "176 Wn.2d 771", "181 Wn. App. 484", "181 Wn. App. 788", "181 Wn.2d 1023", "181 Wn.2d 412", "181 Wn.2d 775", "182 Wn.2d 1020", "184 Wn.2d 1036", "214 P.3d 189", "226 P.3d 191", "233 P.3d 914", "245 P.3d 779", "276 P.3d 1277", "285 P.3d 34", "295 P.3d 1179", "321 P.3d 1275", "326 P.3d 768", "334 P.3d 529", "336 P.3d 1142", "51 Wn. App. 108", "64 P.3d 22", "65 P.3d 671", "693 P.2d 683", "719 P.2d 531", "752 P.2d 385", "930 P.2d 288", "95 P.3d 353", "95 Wn. App. 311", "958 P.2d 301", "976 P.2d 643", "993 P.2d 259"]
 ---
 
 # Barkley v. GreenPoint Mortgage Funding, Inc.
