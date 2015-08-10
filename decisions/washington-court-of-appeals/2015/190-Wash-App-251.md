@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70851-1-I"
 decided: "2015-08-10"
-citations: ["190 Wash. App. 251", "189 Wash. App. 1024"]
+citations: ["190 Wash. App. 251"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Lynn Dalsing, Plaintiff, Michael Ames, Respondent, v. Pierce County, 
 source_url: "https://static.case.law/wash-app/190/cases/0251-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453868
-cites_cases: ["10 P.3d 408", "102 Wn. App. 66", "103 P.3d 729", "104 Wn. App. 338", "107 Wn. App. 861", "121 Wn. App. 799", "129 Wn.2d 601", "130 Wn.2d 189", "131 Wn.2d 484", "133 Wn.2d 565", "135 Wn.2d 398", "136 Wn.2d 595", "143 Wn. App. 718", "153 Wn. App. 846", "153 Wn.2d 238", "16 P.3d 45", "180 P.3d 805", "190 Wn. App. 251", "197 F.3d 922", "223 P.3d 1247", "28 P.3d 813", "368 F.2d 1003", "372 P.2d 193", "373 U.S. 83", "467 U.S. 20", "502 P.2d 480", "60 Wn.2d 122", "613 P.2d 129", "7 Wn. App. 701", "91 P.3d 117", "919 P.2d 1209", "922 P.2d 83", "93 Wn.2d 777", "933 P.2d 1036", "947 P.2d 712", "957 P.2d 632", "963 P.2d 869"]
+cites_cases: ["10 P.3d 408", "102 Wn. App. 66", "103 P.3d 729", "104 Wn. App. 338", "107 Wn. App. 861", "121 Wn. App. 799", "129 Wn.2d 601", "130 Wn.2d 189", "131 Wn.2d 484", "133 Wn.2d 565", "135 Wn.2d 398", "136 Wn.2d 595", "143 Wn. App. 718", "153 Wn. App. 846", "153 Wn.2d 238", "16 P.3d 45", "180 P.3d 805", "197 F.3d 922", "223 P.3d 1247", "28 P.3d 813", "368 F.2d 1003", "372 P.2d 193", "373 U.S. 83", "467 U.S. 20", "502 P.2d 480", "60 Wn.2d 122", "613 P.2d 129", "7 Wn. App. 701", "91 P.3d 117", "919 P.2d 1209", "922 P.2d 83", "93 Wn.2d 777", "933 P.2d 1036", "947 P.2d 712", "957 P.2d 632", "963 P.2d 869"]
 ---
 
 # Dalsing v. Pierce County
