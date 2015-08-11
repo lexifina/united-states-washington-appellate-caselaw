@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46467-5-II"
 decided: "2015-08-11"
-citations: ["190 Wash. App. 274", "189 Wash. App. 1030"]
+citations: ["190 Wash. App. 274"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Valaree Doehne, Respondent, v. EmpRes Healthcare Management, LLC, et 
 source_url: "https://static.case.law/wash-app/190/cases/0274-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453869
-cites_cases: ["104 Wn.2d 392", "114 Wn.2d 198", "122 Wn. App. 556", "129 Wn.2d 1010", "130 P.3d 840", "131 Wn. App. 882", "136 Wn.2d 595", "147 Wn.2d 476", "151 Wn.2d 439", "153 Wn.2d 1025", "162 Wn.2d 716", "163 Wn. App. 235", "171 Wn.2d 383", "172 Ohio App. 3d 775", "173 Wn. App. 761", "173 Wn.2d 1020", "174 P.3d 60", "175 Wn.2d 641", "176 Wn.2d 686", "178 Wn.2d 1006", "181 Wn.2d 1", "190 Wn. App. 274", "2007-Ohio-4468", "256 P.3d 302", "258 P.3d 78", "283 F.R.D. 362", "285 P.3d 864", "295 P.3d 239", "295 P.3d 305", "330 P.3d 168", "449 U.S. 383", "55 P.3d 597", "58 F.R.D. 425", "706 P.2d 212", "787 P.2d 30", "79 Wn. App. 497", "876 N.E.2d 1300", "90 P.3d 1147", "90 P.3d 26", "903 P.2d 496", "963 P.2d 869"]
+cites_cases: ["104 Wn.2d 392", "114 Wn.2d 198", "122 Wn. App. 556", "129 Wn.2d 1010", "130 P.3d 840", "131 Wn. App. 882", "136 Wn.2d 595", "147 Wn.2d 476", "151 Wn.2d 439", "153 Wn.2d 1025", "162 Wn.2d 716", "163 Wn. App. 235", "171 Wn.2d 383", "172 Ohio App. 3d 775", "173 Wn. App. 761", "173 Wn.2d 1020", "174 P.3d 60", "175 Wn.2d 641", "176 Wn.2d 686", "178 Wn.2d 1006", "181 Wn.2d 1", "2007-Ohio-4468", "256 P.3d 302", "258 P.3d 78", "283 F.R.D. 362", "285 P.3d 864", "295 P.3d 239", "295 P.3d 305", "330 P.3d 168", "449 U.S. 383", "55 P.3d 597", "58 F.R.D. 425", "706 P.2d 212", "787 P.2d 30", "79 Wn. App. 497", "876 N.E.2d 1300", "90 P.3d 1147", "90 P.3d 26", "903 P.2d 496", "963 P.2d 869"]
 ---
 
 # Doehne v. EmpRes Healthcare Management, LLC
