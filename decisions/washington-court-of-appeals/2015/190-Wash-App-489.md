@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71955-6-I"
 decided: "2015-08-24"
-citations: ["190 Wash. App. 489", "189 Wash. App. 1041"]
+citations: ["190 Wash. App. 489"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Paula Terrell, Respondent, v. Gordon Hamilton, Appellant."]
 source_url: "https://static.case.law/wash-app/190/cases/0489-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453882
-cites_cases: ["103 Wn.2d 831", "107 Wn.2d 158", "116 P.3d 381", "117 Wn.2d 242", "128 P.2d 293", "130 Wn.2d 486", "130 Wn.2d 726", "133 Wn.2d 39", "14 Wn.2d 363", "146 Wn.2d 237", "151 Wn.2d 203", "155 Wn.2d 165", "170 Wn.2d 628", "175 Wn.2d 457", "190 Wn. App. 489", "223 Va. 383", "244 P.3d 924", "259 P.2d 393", "261 P.2d 692", "285 P.3d 873", "290 S.E.2d 820", "35 Wn. App. 904", "391 P.2d 964", "410 P.2d 802", "412 P.2d 340", "42 Wn.2d 837", "43 Wn.2d 386", "44 P.3d 845", "478 P.2d 223", "549 P.2d 491", "588 P.2d 734", "62 Wn. App. 426", "64 Wn.2d 350", "67 Wn.2d 903", "670 P.2d 1086", "68 Wn.2d 216", "699 P.2d 1230", "727 P.2d 669", "78 Wn.2d 563", "814 P.2d 1160", "814 P.2d 687", "87 P.3d 757", "87 Wn.2d 62", "91 Wn.2d 155", "925 P.2d 194", "927 P.2d 240", "940 P.2d 1362"]
+cites_cases: ["103 Wn.2d 831", "107 Wn.2d 158", "116 P.3d 381", "117 Wn.2d 242", "128 P.2d 293", "130 Wn.2d 486", "130 Wn.2d 726", "133 Wn.2d 39", "14 Wn.2d 363", "146 Wn.2d 237", "151 Wn.2d 203", "155 Wn.2d 165", "170 Wn.2d 628", "175 Wn.2d 457", "223 Va. 383", "244 P.3d 924", "259 P.2d 393", "261 P.2d 692", "285 P.3d 873", "290 S.E.2d 820", "35 Wn. App. 904", "391 P.2d 964", "410 P.2d 802", "412 P.2d 340", "42 Wn.2d 837", "43 Wn.2d 386", "44 P.3d 845", "478 P.2d 223", "549 P.2d 491", "588 P.2d 734", "62 Wn. App. 426", "64 Wn.2d 350", "67 Wn.2d 903", "670 P.2d 1086", "68 Wn.2d 216", "699 P.2d 1230", "727 P.2d 669", "78 Wn.2d 563", "814 P.2d 1160", "814 P.2d 687", "87 P.3d 757", "87 Wn.2d 62", "91 Wn.2d 155", "925 P.2d 194", "927 P.2d 240", "940 P.2d 1362"]
 ---
 
 # Terrell v. Hamilton
