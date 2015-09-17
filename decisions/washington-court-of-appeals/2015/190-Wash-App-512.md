@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "30411-6-III"
 decided: "2015-09-17"
-citations: ["190 Wash. App. 512", "190 Wash. App. 1007"]
+citations: ["190 Wash. App. 512"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Fabian Arredondo, Appellant."
 source_url: "https://static.case.law/wash-app/190/cases/0512-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453883
-cites_cases: ["100 P.3d 291", "105 Wn. App. 492", "121 Wn.2d 205", "122 P.3d 150", "128 Wn.2d 254", "137 Wn.2d 378", "139 Wn. App. 522", "140 Wn. App. 43", "152 Wn.2d 795", "155 Wn.2d 506", "161 P.3d 461", "165 P.3d 16", "167 Wn.2d 222", "173 Wn. App. 479", "177 Wn.2d 1021", "180 Wn. App. 245", "182 Wn.2d 294", "182 Wn.2d 827", "183 Wn.2d 1013", "185 Wn. App. 171", "185 Wn.2d 1024", "190 Wn. App. 512", "2 Wn. App. 464", "20 P.3d 984", "217 P.3d 310", "294 P.3d 812", "327 P.3d 699", "340 P.3d 840", "341 P.3d 315", "344 P.3d 680", "469 P.2d 980", "63 Wn. App. 336", "635 P.2d 127", "73 Wn. App. 34", "818 P.2d 1369", "848 P.2d 1258", "867 P.2d 648", "906 P.2d 325", "96 Wn.2d 301", "972 P.2d 1250"]
+cites_cases: ["100 P.3d 291", "105 Wn. App. 492", "121 Wn.2d 205", "122 P.3d 150", "128 Wn.2d 254", "137 Wn.2d 378", "139 Wn. App. 522", "140 Wn. App. 43", "152 Wn.2d 795", "155 Wn.2d 506", "161 P.3d 461", "165 P.3d 16", "167 Wn.2d 222", "173 Wn. App. 479", "177 Wn.2d 1021", "180 Wn. App. 245", "182 Wn.2d 294", "182 Wn.2d 827", "183 Wn.2d 1013", "185 Wn. App. 171", "185 Wn.2d 1024", "2 Wn. App. 464", "20 P.3d 984", "217 P.3d 310", "294 P.3d 812", "327 P.3d 699", "340 P.3d 840", "341 P.3d 315", "344 P.3d 680", "469 P.2d 980", "63 Wn. App. 336", "635 P.2d 127", "73 Wn. App. 34", "818 P.2d 1369", "848 P.2d 1258", "867 P.2d 648", "906 P.2d 325", "96 Wn.2d 301", "972 P.2d 1250"]
 ---
 
 # State v. Arredondo
