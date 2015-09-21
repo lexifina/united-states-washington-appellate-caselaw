@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72246-8-I"
 decided: "2015-09-21"
-citations: ["190 Wash. App. 731", "190 Wash. App. 1009"]
+citations: ["190 Wash. App. 731"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Manuel R. Ramirez, Appellant.
 source_url: "https://static.case.law/wash-app/190/cases/0731-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453894
-cites_cases: ["137 Wn.2d 472", "165 Wn.2d 913", "182 Wn.2d 213", "190 Wn. App. 731", "205 P.3d 113", "340 P.3d 223", "973 P.2d 452"]
+cites_cases: ["137 Wn.2d 472", "165 Wn.2d 913", "182 Wn.2d 213", "205 P.3d 113", "340 P.3d 223", "973 P.2d 452"]
 ---
 
 # State v. Ramirez
