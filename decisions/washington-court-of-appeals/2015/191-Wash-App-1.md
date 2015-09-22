@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46233-8-II"
 decided: "2015-09-22"
-citations: ["191 Wash. App. 1", "190 Wash. App. 1013"]
+citations: ["191 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Joshua John Bessey, Appellant
 source_url: "https://static.case.law/wash-app/191/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12460936
-cites_cases: ["166 Wn. App. 378", "171 Wn.2d 342", "182 Wn.2d 519", "191 Wn. App. 1", "254 P.3d 797", "271 P.3d 280", "342 P.3d 308", "92 Wn. App. 555", "96 Wn. App. 336", "964 P.2d 398", "979 P.2d 458"]
+cites_cases: ["166 Wn. App. 378", "171 Wn.2d 342", "182 Wn.2d 519", "254 P.3d 797", "271 P.3d 280", "342 P.3d 308", "92 Wn. App. 555", "96 Wn. App. 336", "964 P.2d 398", "979 P.2d 458"]
 ---
 
 # State v. Bessey
