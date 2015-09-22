@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46256-7-II"
 decided: "2015-09-22"
-citations: ["191 Wash. App. 9", "190 Wash. App. 1014"]
+citations: ["191 Wash. App. 9"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Potelco, Inc., Appellant, v. The Department of Labor and Industries, 
 source_url: "https://static.case.law/wash-app/191/cases/0009-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12460937
-cites_cases: ["109 Wn. App. 471", "115 Wn.2d 171", "117 Wn.2d 720", "118 Wn. App. 341", "119 Wn. App. 906", "122 Wn. App. 402", "132 Wn. App. 274", "135 P.3d 913", "139 Wn. App. 35", "142 Wn. App. 502", "142 Wn. App. 803", "148 Wn. App. 836", "149 Wn. App. 799", "151 Wn. App. 589", "153 P.3d 197", "156 P.3d 250", "156 Wn. App. 9", "157 Wn. App. 600", "157 Wn.2d 90", "16 BNA OSHC 1741", "164 Wn.2d 570", "166 Wn. App. 647", "166 Wn.2d 489", "168 Wn.2d 421", "170 Wn. App. 514", "171 Wn. App. 124", "174 P.3d 1190", "175 P.3d 1149", "175 Wn. App. 718", "176 Wn.2d 1024", "176 Wn.2d 460", "180 Wn.2d 735", "181 Wn. App. 25", "181 Wn.2d 48", "185 Wn.2d 1023", "191 Wn. App. 9", "192 P.3d 306", "1997 WL 593888", "2003 WL 23269365", "202 P.3d 962", "207 P.3d 453", "210 P.3d 308", "215 P.3d 951", "228 P.3d 1260", "230 P.3d 1087", "238 P.3d 74", "272 P.3d 262", "286 P.3d 383", "286 P.3d 695", "29 U.S.C. § 651", "296 P.3d 800", "308 P.3d 686", "328 P.3d 886", "329 P.3d 91", "331 P.3d 1147", "36 P.3d 558", "75 P.3d 1003", "795 P.2d 693", "818 P.2d 1062", "83 P.3d 1012", "97 P.3d 17"]
+cites_cases: ["109 Wn. App. 471", "115 Wn.2d 171", "117 Wn.2d 720", "118 Wn. App. 341", "119 Wn. App. 906", "122 Wn. App. 402", "132 Wn. App. 274", "135 P.3d 913", "139 Wn. App. 35", "142 Wn. App. 502", "142 Wn. App. 803", "148 Wn. App. 836", "149 Wn. App. 799", "151 Wn. App. 589", "153 P.3d 197", "156 P.3d 250", "156 Wn. App. 9", "157 Wn. App. 600", "157 Wn.2d 90", "16 BNA OSHC 1741", "164 Wn.2d 570", "166 Wn. App. 647", "166 Wn.2d 489", "168 Wn.2d 421", "170 Wn. App. 514", "171 Wn. App. 124", "174 P.3d 1190", "175 P.3d 1149", "175 Wn. App. 718", "176 Wn.2d 1024", "176 Wn.2d 460", "180 Wn.2d 735", "181 Wn. App. 25", "181 Wn.2d 48", "185 Wn.2d 1023", "192 P.3d 306", "1997 WL 593888", "2003 WL 23269365", "202 P.3d 962", "207 P.3d 453", "210 P.3d 308", "215 P.3d 951", "228 P.3d 1260", "230 P.3d 1087", "238 P.3d 74", "272 P.3d 262", "286 P.3d 383", "286 P.3d 695", "29 U.S.C. § 651", "296 P.3d 800", "308 P.3d 686", "328 P.3d 886", "329 P.3d 91", "331 P.3d 1147", "36 P.3d 558", "75 P.3d 1003", "795 P.2d 693", "818 P.2d 1062", "83 P.3d 1012", "97 P.3d 17"]
 ---
 
 # Potelco, Inc. v. Department of Labor & Industries
