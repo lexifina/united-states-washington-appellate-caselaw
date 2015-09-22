@@ -1,0 +1,55 @@
+---
+court: "Washington Court of Appeals"
+docket: "46233-8-II"
+decided: "2015-09-22"
+citations: ["191 Wash. App. 1", "190 Wash. App. 1013"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Maxa and Lee, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. Joshua John Bessey, Appellant."]
+source_url: "https://static.case.law/wash-app/191/cases/0001-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12460936
+cites_cases: ["166 Wn. App. 378", "171 Wn.2d 342", "182 Wn.2d 519", "191 Wn. App. 1", "254 P.3d 797", "271 P.3d 280", "342 P.3d 308", "92 Wn. App. 555", "96 Wn. App. 336", "964 P.2d 398", "979 P.2d 458"]
+---
+
+# State v. Bessey
+
+## Majority (Sutton, J.)
+
+Sutton, J.
+¶1 — Joshua J. Bessey appeals the superior court’s order reducing his reimbursement for attorney fees and costs by $5,000 under RCW 9A.16.110 as a sanction for a discovery violation because he did not produce text messages in his possession before trial. We hold that because Bessey was under no obligation to produce the text messages, the trial court abused its discretion. We reverse and remand to the trial court to restore the $5,000 reduction in its order awarding fees and costs. And because Bessey prevails on appeal, under RCW 9A.16.110, we award him reasonable attorney fees and costs on appeal.
+FACTS
+¶2 The State charged Bessey with first degree burglary, second degree assault, fourth degree assault, and interfering with the reporting of a domestic violence offense, as a result of an incident that occurred on May 23, 2013. The State alleged that on May 23, Bessey entered the home of his ex-girlfriend, Kristie Morgan, assaulted her and her boyfriend, and broke her cell phone.
+¶3 The case went to trial, and at the end of the second day of trial, Ms. Morgan testified that she and Bessey had no contact before May 23. Bessey then informed his attorney that he had text messages sent to him by Ms. Morgan a few days before May 23 that would contradict Morgan’s testimony that she had terminated their relationship on April 19 and that he had moved out before May 23. Counsel instructed Bessey to find the text messages and bring them to court the next day. The next morning Bessey brought printouts of a number of text messages that Ms. Morgan had sent him on May 18 and May 19. Counsel gave copies of these printouts to the State.
+¶4 The State moved to exclude the text messages, arguing that Bessey’s failure to provide them until the second day of trial constituted a discovery violation. In response, Bessey’s counsel explained that (1) he did not know of their existence until his client mentioned them the previous evening, (2) since the defense had not been able to interview Ms. Morgan, they had no idea that she would be claiming that she had broken up with the defendant on April 19, well before the alleged incident on May 23, and (3) as a result, the text messages did not even become relevant until Ms. Morgan testified. Thus, Bessey argued, there was no discovery violation and no basis on which to suppress this evidence.
+¶5 The trial court granted the State’s motion and suppressed the text messages, stating,
+I am going to exclude [the text messages]. Trial is not by ambush. This phone was in possession of the Defendant. He had access to these at all times. He could have provided any of these texts to Counsel prior to today’s date. To bring these in now, after State has rested their case, we have discovery, we have deadlines so that we do not have trial by ambush or surprise, and that it is by prejudicial - it is prejudicial to another party to suddenly come up with something after the fact. And so, these text messages will be excluded. They’re marked. They’ll be made a part of the record.
+2A Verbatim Reports of Proceedings (VRP) at 362. The State did not request any monetary sanctions against Bessey for failing to produce the text messages before trial began. The trial continued, and Bessey took the witness stand, testifying that he acted in self-defense.
+¶6 The jury found Bessey not guilty on all counts and returned a special verdict, finding “by a preponderance of the evidence” that Bessey acted in self-defense and that he had not engaged in any criminal conduct substantially related to the events that gave rise to the charges brought against him. Clerk’s Papers (CP) at 74.
+¶7 After being found not guilty by the jury, Bessey moved for an order for reasonable attorney fees and costs under RCW 9A.16.110. The State responded that Bessey’s failure to produce the text messages constituted a discovery violation and Bessey should be sanctioned by reducing his award of attorney fees. The trial court agreed, ruling,
+I don’t fault Mr. Crandall for this; I fault his client because he was the one that had control of that cellphone. He knew what the charges were that he was facing, he knew in what was being alleged here, and it was Mr. Bessey who, just on the last moment, decides to tell his attorney about these listing of text messages that, had they been brought forward, probably would have been a very different, as I say, looking trial. But that’s not to say a trial wouldn’t have gone forward on either different charges or other charges.
+So although I am not going to zero out these fees as some kind of penalty, that I also don’t see that Mr. Bessey should benefit by having all of his attorney’s fees paid when there was fault on his as to the amount of attorney’s fees, and was it reasonable, had he turned over those documents? So I’m going to reduce it somewhat, but not a lot. I’m going to reduce it by $5,000.00 as a penalty for Mr. Bessey, and so the total amount will be $35,206.13.
+2B VRP at 555-56.
+¶8 The trial court awarded Bessey attorney fees and costs of $40,206.13, but then reduced his award by $5,000.00 as a discovery “penalty,” thus bringing Bessey’s total award to $35,206.13. CP at 105-06. Bessey appealed.
+ANALYSIS
+I. RCW9A.16.110
+¶9 The Washington Legislature has exempted persons from facing criminal liability for acting in self-defense when faced with imminent danger. RCW 9A. 16.110(1). Further, if a person who is charged with certain crimes prevails on a self-defense affirmative defense, the person is entitled to reimbursement for legal fees and expenses:
+When a person charged with a crime listed in [RCW 9A.16- . 110( 1)] is found not guilty by reason of self-defense, the state of Washington shall reimburse the defendant for all reasonable costs, including loss of time, legal fees incurred, and other expenses involved in his or her defense. This reimbursement is not an independent cause of action. To award these reasonable costs the trier of fact must find that the defendant’s claim of self-defense was sustained by a preponderance of the evidence. If the trier of fact makes a determination of self-defense, the judge shall determine the amount of the award.
+RCW 9A. 16.110(2).
+¶10 The jury’s special verdict finding that Bessey acted in self-defense entitled him to an award of reasonable attorney fees and costs under RCW 9A. 16.110(2). As a result, the trial court awarded him reasonable attorney fees and costs.
+II. Alleged Discovery Violation
+¶11 Bessey argues that the court erred by reducing his attorney fee award for the purported discovery violation of failing to produce the text messages. We agree.
+¶12 We review the imposition of discovery sanctions for an abuse of discretion. Blair v. TA-Seattle E. No. 176, 171 Wn.2d 342, 348, 254 P.3d 797 (2011). A trial court abuses its discretion when it exercises it on untenable grounds or for untenable reasons. State v. Lawrence, 166 Wn. App. 378, 385, 271 P.3d 280 (2012). A trial court abuses its discretion only when no reasonable person would take the position adopted by the trial court. Pub. Util. Dist. No. 1 of Okanogan County v. State, 182 Wn.2d 519, 531, 342 P.3d 308 (2015).
+¶13 CrR 4.7, which governs discovery in criminal proceedings, provides a reciprocal list of the prosecutor’s and defendant’s obligations. CrR 4.7(b)(1) provides the defendant’s obligations as follows:
+Except as is otherwise provided as to matters not subject to disclosure and protective orders, the defendant shall disclose to the prosecuting attorney the following material and information within the defendant’s control no later than the omnibus hearing: the names and addresses of persons whom the defendant intends to call as witnesses at the hearing or trial, together with any written or recorded statements and the substance of any oral statements of such witness.
+This rule does not obligate a defendant to produce documentary evidence of his or her own accord for purposes of impeaching a state witness. CrR 4.7(b)(2)(x) allows the prosecutor to inspect documentary evidence in the defendant’s possession, but only “on motion.”
+¶14 Here, the State did not make any specific oral or written discovery requests for any of the information on Bessey’s cell phone. And the prosecutor did not file a motion under CrR 4.7(b)(2) to inspect Bessey’s evidence. Therefore, Bessey had no obligation to provide printouts of the text messages to the State. In fact, Bessey went beyond his discovery obligations by voluntarily providing the State with the printouts.
+¶15 We hold that the trial court abused its discretion in reducing Bessey’s attorney fee award by $5,000 for a purported discovery violation. We reverse the trial court’s order, remand, and order the court to restore the $5,000.
+III. Attorney Fees and Costs on Appeal
+¶16 Bessey also requests reasonable costs and attorney fees on appeal under RCW 9A. 16.110(2). Under RCW 9A. 16.110(2), an acquitted criminal defendant is entitled to reimbursement for attorney fees reasonably incurred in connection with his criminal defense and reasonably incurred upon prevailing in his appeal. State v. Lee, 96 Wn. App. 336, 346, 979 P.2d 458 (1999); State v. Jones, 92 Wn. App. 555, 565, 964 P.2d 398 (1998). Because we hold that the trial court abused its discretion, Bessey prevails in his appeal and we award him reasonable attorney fees and costs on appeal.
+CONCLUSION
+¶17 We hold that because Bessey did not violate a discovery rule or court order, the trial court abused its discretion in sanctioning Bessey for failing to produce text messages during trial and in reducing Bessey’s reimbursement by $5,000. We reverse and remand to the trial court to restore Bessey’s $5,000 reduction in its order awarding fees and costs. And because Bessey prevails on appeal, we award Bessey his reasonable attorney fees and costs on appeal.
+Maxa and Lee, JJ., concur.
+Bessey also argues that he did not know that the text messages were relevant because he was unaware that Ms. Morgan would claim at trial that she had no contact with him for the two weeks prior to May 23. But even if Bessey would have known that the text messages were relevant, he was under no obligation to produce them absent a formal written request from the prosecutor or a court order. CrR 4.7(b)(2).
