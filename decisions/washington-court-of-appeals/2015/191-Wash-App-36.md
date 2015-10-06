@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "32675-6-III"
 decided: "2015-10-06"
-citations: ["191 Wash. App. 36", "190 Wash. App. 1029"]
+citations: ["191 Wash. App. 36"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jose Ramos, Appellant, v. The Department of Labor and Industries, Res
 source_url: "https://static.case.law/wash-app/191/cases/0036-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12460938
-cites_cases: ["110 Wn. App. 475", "133 Wn. App. 903", "138 P.3d 177", "152 Wn. App. 652", "167 Wn. App. 758", "171 Wn. App. 124", "176 Wn. App. 335", "176 Wn.2d 1024", "179 Wn. App. 601", "180 Wn.2d 1023", "191 Wn. App. 36", "206 P.2d 787", "219 P.3d 711", "275 P.3d 339", "286 P.3d 695", "308 P.3d 791", "319 P.3d 847", "33 Wn.2d 584", "40 P.3d 1221"]
+cites_cases: ["110 Wn. App. 475", "133 Wn. App. 903", "138 P.3d 177", "152 Wn. App. 652", "167 Wn. App. 758", "171 Wn. App. 124", "176 Wn. App. 335", "176 Wn.2d 1024", "179 Wn. App. 601", "180 Wn.2d 1023", "206 P.2d 787", "219 P.3d 711", "275 P.3d 339", "286 P.3d 695", "308 P.3d 791", "319 P.3d 847", "33 Wn.2d 584", "40 P.3d 1221"]
 ---
 
 # Ramos v. Department of Labor & Industries
