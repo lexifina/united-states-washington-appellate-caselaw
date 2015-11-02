@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "70518-1-I"
 decided: "2015-11-02"
-citations: ["191 Wash. App. 305", "190 Wash. App. 1047"]
+citations: ["191 Wash. App. 305"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Say Sulin Keodara, Appellant.
 source_url: "https://static.case.law/wash-app/191/cases/0305-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12460952
-cites_cases: ["116 U.S. 616", "116 Wn. App. 796", "119 Wn.2d 538", "120 P.3d 610", "120 Wn. App. 872", "128 Wn.2d 262", "129 Wn. App. 482", "132 S. Ct. 2455", "132 Wn.2d 668", "134 S. Ct. 2473", "136 Wn. App. 87", "138 Wn.2d 133", "147 P.3d 649", "148 Wn.2d 122", "152 Wn.2d 499", "161 Wn.2d 808", "167 P.3d 1156", "168 Wn.2d 713", "170 Wn. App. 13", "176 Wn.2d 1022", "177 Wn. App. 414", "179 Wn.2d 1024", "185 Wn.2d 1028", "191 Wn. App. 305", "230 P.3d 576", "282 P.3d 152", "297 P.3d 708", "311 P.3d 1266", "320 P.3d 719", "542 P.2d 115", "59 P.3d 74", "66 Wn. App. 409", "67 P.3d 1135", "72 Wn. App. 783", "720 F.3d 436", "770 F.2d 1508", "832 P.2d 127", "834 P.2d 611", "86 P.3d 1224", "86 Wn.2d 91", "866 P.2d 65", "906 P.2d 925", "92 Wn. App. 307", "940 P.2d 1239", "942 F.2d 1001", "966 P.2d 915", "977 P.2d 582", "98 P.3d 1199"]
+cites_cases: ["116 U.S. 616", "116 Wn. App. 796", "119 Wn.2d 538", "120 P.3d 610", "120 Wn. App. 872", "128 Wn.2d 262", "129 Wn. App. 482", "132 S. Ct. 2455", "132 Wn.2d 668", "134 S. Ct. 2473", "136 Wn. App. 87", "138 Wn.2d 133", "147 P.3d 649", "148 Wn.2d 122", "152 Wn.2d 499", "161 Wn.2d 808", "167 P.3d 1156", "168 Wn.2d 713", "170 Wn. App. 13", "176 Wn.2d 1022", "177 Wn. App. 414", "179 Wn.2d 1024", "185 Wn.2d 1028", "230 P.3d 576", "282 P.3d 152", "297 P.3d 708", "311 P.3d 1266", "320 P.3d 719", "542 P.2d 115", "59 P.3d 74", "66 Wn. App. 409", "67 P.3d 1135", "72 Wn. App. 783", "720 F.3d 436", "770 F.2d 1508", "832 P.2d 127", "834 P.2d 611", "86 P.3d 1224", "86 Wn.2d 91", "866 P.2d 65", "906 P.2d 925", "92 Wn. App. 307", "940 P.2d 1239", "942 F.2d 1001", "966 P.2d 915", "977 P.2d 582", "98 P.3d 1199"]
 ---
 
 # State v. Keodara
