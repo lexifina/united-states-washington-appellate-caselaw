@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46955-3-II"
 decided: "2015-11-10"
-citations: ["191 Wash. App. 635", "191 Wash. App. 1012"]
+citations: ["191 Wash. App. 635"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Kathryn A. Landon, Appellant, v. The Home Depot, Respondent."]
 source_url: "https://static.case.law/wash-app/191/cases/0635-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12460966
-cites_cases: ["125 Wn.2d 533", "146 Wn.2d 740", "150 Wn.2d 310", "167 Wn. App. 60", "168 Wn.2d 664", "171 Wn. App. 477", "176 Wn.2d 1026", "185 Wn.2d 1030", "191 Wn. App. 635", "230 P.3d 583", "277 P.3d 1", "288 P.3d 630", "3 Wn. App. 977", "478 P.2d 761", "49 P.3d 867", "75 Wn. App. 657", "76 P.3d 1183", "879 P.2d 326", "886 P.2d 189", "99 Wn. App. 127", "990 P.2d 429"]
+cites_cases: ["125 Wn.2d 533", "146 Wn.2d 740", "150 Wn.2d 310", "167 Wn. App. 60", "168 Wn.2d 664", "171 Wn. App. 477", "176 Wn.2d 1026", "185 Wn.2d 1030", "230 P.3d 583", "277 P.3d 1", "288 P.3d 630", "3 Wn. App. 977", "478 P.2d 761", "49 P.3d 867", "75 Wn. App. 657", "76 P.3d 1183", "879 P.2d 326", "886 P.2d 189", "99 Wn. App. 127", "990 P.2d 429"]
 ---
 
 # Landon v. Home Depot
