@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72517-3-I"
 decided: "2015-11-30"
-citations: ["192 Wash. App. 256", "191 Wash. App. 1030"]
+citations: ["192 Wash. App. 256"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Peggi Northwick, Respondent, v. Andrew Long, Petitioner."]
 source_url: "https://static.case.law/wash-app/192/cases/0256-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12456060
-cites_cases: ["102 Wn. App. 60", "106 Wn.2d 500", "107 Wn.2d 196", "122 Wn.2d 109", "123 Wn.2d 678", "129 Wn.2d 601", "135 Wn.2d 658", "139 Wn. App. 54", "155 Wn. App. 744", "157 Wn. App. 408", "161 P.3d 380", "161 Wn. App. 420", "167 Wn.2d 398", "181 Wn.2d 838", "184 Wn.2d 358", "192 Wn. App. 256", "219 P.3d 666", "230 P.3d 599", "236 P.3d 986", "250 P.3d 138", "336 P.3d 1155", "35 Wn. App. 466", "357 P.3d 1080", "613 P.2d 1139", "637 P.2d 961", "64 Wn. App. 410", "667 P.2d 638", "7 P.3d 818", "723 P.2d 1103", "728 P.2d 138", "76 Wn. App. 207", "824 P.2d 533", "85 Wn. App. 539", "857 P.2d 270", "871 P.2d 146", "88 Wn. App. 565", "883 P.2d 936", "919 P.2d 1209", "93 Wn.2d 823", "933 P.2d 439", "945 P.2d 745", "958 P.2d 301", "96 Wn.2d 591", "97 Wn. App. 684", "985 P.2d 952"]
+cites_cases: ["102 Wn. App. 60", "106 Wn.2d 500", "107 Wn.2d 196", "122 Wn.2d 109", "123 Wn.2d 678", "129 Wn.2d 601", "135 Wn.2d 658", "139 Wn. App. 54", "155 Wn. App. 744", "157 Wn. App. 408", "161 P.3d 380", "161 Wn. App. 420", "167 Wn.2d 398", "181 Wn.2d 838", "184 Wn.2d 358", "219 P.3d 666", "230 P.3d 599", "236 P.3d 986", "250 P.3d 138", "336 P.3d 1155", "35 Wn. App. 466", "357 P.3d 1080", "613 P.2d 1139", "637 P.2d 961", "64 Wn. App. 410", "667 P.2d 638", "7 P.3d 818", "723 P.2d 1103", "728 P.2d 138", "76 Wn. App. 207", "824 P.2d 533", "85 Wn. App. 539", "857 P.2d 270", "871 P.2d 146", "88 Wn. App. 565", "883 P.2d 936", "919 P.2d 1209", "93 Wn.2d 823", "933 P.2d 439", "945 P.2d 745", "958 P.2d 301", "96 Wn.2d 591", "97 Wn. App. 684", "985 P.2d 952"]
 ---
 
 # Northwick v. Long
