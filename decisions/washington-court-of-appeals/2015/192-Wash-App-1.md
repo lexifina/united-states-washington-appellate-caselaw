@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33163-6-III"
 decided: "2015-12-01"
-citations: ["192 Wash. App. 1", "191 Wash. App. 1034"]
+citations: ["192 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Steven P. Kozol, Appellant, v. The Department of Corrections, Respond
 source_url: "https://static.case.law/wash-app/192/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12456047
-cites_cases: ["120 Wn.2d 68", "123 Wn. App. 132", "164 Wn. App. 597", "167 Wn.2d 341", "168 Wn. App. 162", "172 Wn.2d 702", "174 Wn.2d 244", "185 Wn.2d 1034", "192 Wn. App. 1", "217 P.3d 1172", "261 P.3d 119", "274 P.3d 346", "275 P.3d 1200", "277 P.3d 670", "482 P.2d 775", "79 Wn.2d 12", "838 P.2d 111", "96 P.3d 1012"]
+cites_cases: ["120 Wn.2d 68", "123 Wn. App. 132", "164 Wn. App. 597", "167 Wn.2d 341", "168 Wn. App. 162", "172 Wn.2d 702", "174 Wn.2d 244", "185 Wn.2d 1034", "217 P.3d 1172", "261 P.3d 119", "274 P.3d 346", "275 P.3d 1200", "277 P.3d 670", "482 P.2d 775", "79 Wn.2d 12", "838 P.2d 111", "96 P.3d 1012"]
 ---
 
 # Kozol v. Department of Corrections
