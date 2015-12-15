@@ -1,0 +1,57 @@
+---
+court: "Washington Court of Appeals"
+docket: "46145-5-II; 46155-2-II; 46345-8-II"
+decided: "2015-12-15"
+citations: ["191 Wash. App. 787"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Worswick and Sutton, JJ., concur."]
+parties: ["The State of Washington, Respondent, v. John Richard Ring, Appellant."]
+source_url: "https://static.case.law/wash-app/191/cases/0787-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12460974
+cites_cases: ["109 Wn. App. 648", "117 Wn.2d 55", "132 Wash. 149", "178 Wn.2d 153", "180 Wn.2d 295", "186 Wn. App. 359", "231 P. 782", "307 P.3d 712", "325 P.3d 135", "344 P.3d 738", "36 P.3d 1119", "71 Wn. App. 868", "72 Wn. App. 237", "810 P.2d 1358", "815 P.2d 1362", "863 P.2d 113", "864 P.2d 406"]
+---
+
+# State v. Ring
+
+## Majority (Maxa, J.)
+
+Maxa, J.
+¶1 — John Ring appeals his convictions for three counts of forgery, one count of possession of a controlled substance, three counts of first degree possession of stolen property, one count of first degree trafficking in stolen property, and three counts of bail jumping. In the published portion of this opinion, we hold that the information charging Ring with forgery was not deficient in failing to allege the “legal efficacy” of the forged documents because legal efficacy is not an essential element of the crime. Therefore, we affirm Ring*s three forgery convictions. In the unpublished portion of this opinion, we reverse and dismiss the remaining challenged convictions. Accordingly, we affirm in part, reverse in part, and remand for resentencing.
+FACTS
+¶2 In September 2012, the Mason County Sheriff’s Office began investigating Ring after receiving a complaint that he was attempting to sell a stolen 1968 GMC truck on Craigslist. Eventually, officers obtained a search warrant to search Ring’s property.
+¶3 When searching Ring’s property, deputies found papers depicting an abandoned vehicle report with a notary sale and process stamp, a number of affidavits of lost title and release of interest forms, the vehicle certificate of title for the 1968 GMC truck, and numerous other miscellaneous vehicle titles and documents. These documents were very similar to purportedly forged documents that Ring had submitted to the Department of Licensing.
+¶4 The State charged Ring with three counts of forgery. The information recited the statutory elements of forgery, but did not allege that the documents Ring allegedly forged had any legal efficacy if genuine. Ring did not challenge the information in the trial court.
+¶5 A jury convicted Ring on all three forgery counts. He appeals his convictions.
+ANALYSIS
+¶6 Ring argues that the “legal efficacy” of the forged documents is an essential element of forgery, and that the information for his forgery charges was insufficient because it did not include a legal efficacy element. We disagree that legal efficacy of the forged documents is an essential element of the crime of forgery and hold that the information here was sufficient.
+A. Legal Principles
+¶7 In criminal cases, accused persons have a constitutional right under the Sixth Amendment to the United States Constitution and article I, section 22 of the Washington Constitution to know the charges that have been brought against them. The State provides formal notice of the charges in the information or charging document. CrR 2.1(a)(1) (“[T]he information shall be a plain, concise and definite written statement of the essential facts constituting the offense charged.”).
+¶8 A charging document is constitutionally sufficient if it includes all the “essential elements” of a crime. State v. Johnson, 180 Wn.2d 295, 300, 325 P.3d 135 (2014). The purpose of this essential elements rule is to give notice to the accused of the charges and to allow him or her to prepare a defense. Id. An essential element of an offense is an element that is necessary to establish the illegality of the behavior charged. Id. Essential elements include only those facts that must be proved beyond a reasonable doubt to convict a defendant of the charged crime. State v. Zillyette, 178 Wn.2d 153, 158, 307 P.3d 712 (2013). “If the State fails to allege every essential element, then the information is insufficient and the charge must be dismissed without prejudice.” Johnson, 180 Wn.2d at 300-01.
+¶9 The law distinguishes between essential elements of a crime and the definitions of essential elements. See id. at 302. The Supreme Court in Johnson expressly held that definitions of essential elements are not required to be included in the information. Id.
+¶10 We review the constitutional sufficiency of a charging document de novo. Id. at 300. Where, as here, a defendant challenges the sufficiency of a charging document for the first time on appeal, “we construe the document liberally and will find it sufficient if the necessary elements appear in any form, or by fair construction may be found, on the document’s face.” State v. Satterthwaite, 186 Wn. App. 359, 362, 344 P.3d 738 (2015). But if the charging document cannot be construed to give notice of or to contain in some manner the essential elements of an offense, it is insufficient and even the most liberal reading cannot cure it. Id. at 362-63.
+B. Legal Efficacy Requirement
+¶11 RCW 9A.60.020U) provides,
+A person is guilty of forgery if, with intent to injure or defraud:
+(a) He or she falsely makes, completes, or alters a written instrument or;
+(b) He or she possesses, utters, offers, disposes of, or puts off as true a written instrument which he or she knows to be forged.
+(Emphasis added.) Under this statute, the existence of a written instrument clearly is an essential element of the crime of forgery. See State v. Esquivel, 71 Wn. App. 868, 870, 863 P.2d 113 (1993).
+¶12 RCW 9A.60.010(7) defines “written instrument” as
+(a) Any paper, document, or other instrument containing written or printed matter or its equivalent; or (b) any access device, token, stamp, seal, badge, trademark, or other evidence or symbol of value, right, privilege, or identification.
+Under this definition, forgery requires the falsification of a paper, document, or “other instrument.” RCW 9A.60.010(7). However, neither RCW 9A.60.020d) nor RCW 9A.60.010(7) defines “instrument.” Therefore, Washington courts have looked to the common law for the definition. State v. Scoby, 117 Wn.2d 55, 57, 810 P.2d 1358, 815 P.2d 1362 (1991); see RCW 9A.04.060 (stating that the common law governing the commission of crimes supplements Washington penal statutes to the extent that the common law is not inconsistent with Washington’s constitution or statutes).
+¶13 Under the common law, an instrument is something that, if genuine, would have legal effect or be the foundation of legal liability. Scoby, 117 Wn.2d at 57-58. As a result, a “written instrument” as used in RCW 9A.60.020 is a writing that has “legal efficacy.” State v. Richards, 109 Wn. App. 648, 654, 36 P.3d 1119 (2001). Based on this definition, a writing can support a forgery charge only if the writing would have legal efficacy if genuine. State v. Smith, 72 Wn. App. 237, 243, 864 P.2d 406 (1993).
+¶14 The rule of legal efficacy was part of Washington forgery law under former chapter 9.44 RCW from 1909 until 1975. Id. at 239. This court in Smith held that the legislature intended to continue the legal efficacy rule under the current forgery statutes, which were enacted in 1975. Id. at 240-43.
+C. Legal Efficacy as an Essential Element of Forgery
+¶15 Here, the information that charged Ring with three counts of forgery stated that he committed forgery when he “with intent to injure or defraud, did falsely make, complete or alter a written instrument, and/or did possess, utter, offer, dispose of, or put off as true a written instrument which he knew to be forged . . . ; contrary to RCW 9A.60.020(1).” Clerk’s Papers (CP) (No. 46145-5-II) at 68, 69. The information did not allege that the documents Ring allegedly forged had any legal efficacy if genuine. Therefore, the information was insufficient if legal efficacy is an essential element of forgery.
+¶16 Ring’s argument that the legal efficacy of the forged document is an essential element of forgery primarily is based on State v. Kuluris, 132 Wash. 149, 231 P. 782 (1925). In that case, the Supreme Court determined that an information charging second degree forgery was constitutionally insufficient because the information failed to allege that the forged document had legal efficacy. Id. at 150-52. The court based its holding on the rule that to constitute a forgery, a writing must, if genuine, have efficacy as affecting some legal right. Id. at 151.
+¶17 Kuluris supports Ring’s argument that the information here was insufficient because it did not allege facts sufficient to show that the documents at issue would have legal efficacy if genuine. And Kuluris has not been expressly overruled and was cited with approval (although not in an essential elements context) in Smith. 72 Wn. App. at 239-40.
+¶18 However, the Supreme Court in Johnson more recently has distinguished between an essential element of a crime and a definition of an essential element when evaluating the sufficiency of an information. 180 Wn.2d at 300-02. The court held that an information did not need to include definitions of essential elements of a crime. Id. at 302. The court explained that a definition is a term that defines and limits an essential element’s scope, not a term that is necessary to establish the illegality of the behavior charged. See id. at 302.
+¶19 The language of RCW 9A.60.020 demonstrates that legal efficacy is not an essential element of the crime of forgery. RCW 9A.60.020 requires the existence of a written instrument, and that is the essential element. The Supreme Court in Scoby made it clear that legal efficacy is part of the common law definition of “instrument.” 117 Wn.2d at 57-58; see also Richards, 109 Wn. App. at 654. As a result, under Johnson the information charging Ring with forgery was not required to allege the legal efficacy of the forged documents.
+¶20 We are faced with a conflict between a 1925 case specifically addressing the sufficiency of an information charging forgery and a 2014 case holding that definitions of essential elements of a crime do not need to be included in the information. We hold that Kuluris is inconsistent with Johnson, and therefore that Johnson abrogated Kuluris in the forgery context.
+¶21 We hold that a document’s legal efficacy requirement is a common law definition of “instrument” in RCW 9A.60.020 and was not required to be included in the information charging Ring with three counts of forgery. Accordingly, we hold that the information charging Ring with forgery was sufficient.
+¶22 We affirm Ring’s three forgery convictions, reverse his remaining challenged convictions in the unpublished portion of this opinion, and remand for resentencing.
+¶23 A majority of the panel having determined that only the foregoing portion of this opinion will be printed in the Washington Appellate Reports and that the remainder shall be filed for public record in accordance with RCW 2.06.040, it is so ordered.
+Worswick and Sutton, JJ., concur.
+Ring also was convicted of several other offenses, but does not challenge those convictions on appeal.
