@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72644-7-I"
 decided: "2015-12-21"
-citations: ["192 Wash. App. 299", "191 Wash. App. 1049"]
+citations: ["192 Wash. App. 299"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["EagleView Technologies, Inc., Respondent, v. Yuri Pikover et al., App
 source_url: "https://static.case.law/wash-app/192/cases/0299-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12456062
-cites_cases: ["119 Wn. App. 748", "133 Wn.2d 39", "143 P.3d 776", "146 Wn. App. 267", "158 Wn.2d 384", "164 Wn.2d 95", "166 Wn.2d 974", "169 Wn.2d 199", "180 Wn.2d 389", "181 Wn.2d 127", "185 Wn.2d 1038", "187 P.3d 243", "191 P.3d 900", "192 Wn. App. 299", "2 Wn. App. 228", "216 P.3d 374", "237 P.3d 241", "251 P.2d 607", "31 Wn. App. 432", "325 P.3d 904", "331 P.3d 40", "41 Wn.2d 672", "413 A.2d 137", "440 P.2d 478", "457 A.2d 701", "467 P.2d 321", "643 P.2d 450", "701 A.2d 357", "73 Wn.2d 759", "731 A.2d 790", "737 A.2d 513", "765 P.2d 207", "82 P.3d 707", "94 Or. App. 195", "940 P.2d 1362", "97 Wn. App. 708", "971 A.2d 893", "986 P.2d 144"]
+cites_cases: ["119 Wn. App. 748", "133 Wn.2d 39", "143 P.3d 776", "146 Wn. App. 267", "158 Wn.2d 384", "164 Wn.2d 95", "166 Wn.2d 974", "169 Wn.2d 199", "180 Wn.2d 389", "181 Wn.2d 127", "185 Wn.2d 1038", "187 P.3d 243", "191 P.3d 900", "2 Wn. App. 228", "216 P.3d 374", "237 P.3d 241", "251 P.2d 607", "31 Wn. App. 432", "325 P.3d 904", "331 P.3d 40", "41 Wn.2d 672", "413 A.2d 137", "440 P.2d 478", "457 A.2d 701", "467 P.2d 321", "643 P.2d 450", "701 A.2d 357", "73 Wn.2d 759", "731 A.2d 790", "737 A.2d 513", "765 P.2d 207", "82 P.3d 707", "94 Or. App. 195", "940 P.2d 1362", "97 Wn. App. 708", "971 A.2d 893", "986 P.2d 144"]
 ---
 
 # EagleView Technologies, Inc. v. Pikover
