@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45613-3-II"
 decided: "2015-12-22"
-citations: ["192 Wash. App. 721", "191 Wash. App. 1050"]
+citations: ["192 Wash. App. 721"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Adam P. Thomas, Appellant."]
 source_url: "https://static.case.law/wash-app/192/cases/0721-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12456087
-cites_cases: ["105 Wn.2d 120", "119 Wn.2d 284", "121 P.3d 91", "155 Wn.2d 609", "162 Wn.2d 422", "168 Wn. App. 529", "173 P.3d 245", "185 Wn.2d 1027", "192 Wn. App. 721", "277 P.3d 74", "57 Wn. App. 765", "713 P.2d 71", "73 Wn. App. 851", "790 P.2d 217", "830 P.2d 641", "872 P.2d 43"]
+cites_cases: ["105 Wn.2d 120", "119 Wn.2d 284", "121 P.3d 91", "155 Wn.2d 609", "162 Wn.2d 422", "168 Wn. App. 529", "173 P.3d 245", "185 Wn.2d 1027", "277 P.3d 74", "57 Wn. App. 765", "713 P.2d 71", "73 Wn. App. 851", "790 P.2d 217", "830 P.2d 641", "872 P.2d 43"]
 ---
 
 # State v. Thomas
