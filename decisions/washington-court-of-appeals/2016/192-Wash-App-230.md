@@ -1,0 +1,57 @@
+---
+court: "Washington Court of Appeals"
+docket: "45507-2-II"
+decided: "2016-01-12"
+citations: ["192 Wash. App. 230"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Johanson, C.J., and Bjorgen, J., concur."]
+parties: ["The State of Washington, Respondent, v. Michael R. Gradt, Petitioner."]
+source_url: "https://static.case.law/wash-app/192/cases/0230-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12456058
+cites_cases: ["101 Wn. App. 607", "152 Wn. App. 856", "152 Wn.2d 220", "163 Wn. App. 153", "191 Wn. App. 858", "193 Wash. 494", "218 P.3d 249", "257 P.3d 693", "365 P.3d 756", "5 P.3d 741", "76 P.2d 316", "95 P.3d 1225"]
+---
+
+# State v. Gradt
+
+## Majority (Maxa, J.)
+
+[As amended by order of the Court of Appeals February 11, 2016.]
+Maxa, J.
+¶ 1 Michael Gradt was convicted of possession of 40 grams or less of marijuana. He challenges the district court’s failure to dismiss his charges after voters passed Initiative 502 (1-502), which decriminalized the possession of small quantities of marijuana. Laws of 2013, ch. 3. Gradt argues that 1-502 should be applied to marijuana possession charges pending at the time it became effective despite RCW 10.01.040, the general saving statute, which requires criminal charges to be prosecuted based on the law in effect at the time of the crime. We hold that the saving statute has no effect because 1-502 expressed an intent to dismiss all pending prosecutions of marijuana possession. Accordingly, we reverse and dismiss Gradt’s conviction with prejudice.
+FACTS
+¶2 On September 15, 2012, Gradt received a citation for possession of 40 grams or less of marijuana in violation of RCW 69.50.4014. At the time, Gradt was 61 years old.
+¶3 On November 6, 2012, Washington voters passed 1-502, which decriminalized possession of small amounts of marijuana for individuals over 21 years of age. 1-502, § 20(3); Laws of 2013, ch. 3, § 20(3). Under the Washington Constitution, 1-502 became effective 30 days later, on December 6, 2012. Const, art. II, § 1(d).
+¶4 On January 16, 2013, Gradt filed a motion to dismiss his pending prosecution in light of 1-502. The district court denied his motion. Based on stipulated facts, the district court subsequently found Gradt guilty of possessing 40 grams or less of marijuana.
+¶5 Gradt appealed to the superior court. The superior court affirmed Gradt’s conviction, ruling that 1-502 does not apply retroactively. Gradt filed a motion for discretionary review, which we granted.
+ANALYSIS
+A. RCW 10.01.040 - General Saving Statute
+¶6 Under the common law, all pending criminal charges must be prosecuted based on the law in effect at the time of trial. See State v. Brewster, 152 Wn. App. 856, 859, 218 P.3d 249 (2009). In derogation of the common law, RCW 10.01.040 “saves” offenses already committed from the effects of amendment or repeal and requires that crimes be prosecuted under the law in effect at the time of the offense, unless an intent to affect pending litigation was expressed in the amending or repealing act. Id,.
+¶7 RCW 10.01.040 states,
+No offense committed . . . previous to the time when any statutory provision shall be repealed . . . shall be affected by such repeal, unless a contrary intention is expressly declared in the repealing act, and no prosecution for any offense . . . pending at the time any statutory provision shall be repealed . . . shall be affected by such repeal, but the same shall proceed in all respects, as if such provision had not been repealed, unless a contrary intention is expressly declared in the repealing act. Whenever any criminal or penal statute shall be amended or repealed, all offenses committed ... while it was in force shall be punished or enforced as if it were in force, notwithstanding such amendment or repeal, unless a contrary intention is expressly declared in the amendatory or repealing act, and every such amendatory or repealing statute shall be so construed as to save all criminal and penal proceedings . . . pending at the time of its enactment, unless a contrary intention is expressly declared therein.
+(Emphasis added.) This general saving clause “ ‘is deemed a part of every repealing statute as if expressly inserted therein, and hence renders unnecessary the incorporation of an individual saving clause in each statute which amends or repeals an existing penal statute.’ ” State v. Ross, 152 Wn.2d 220, 237, 95 P.3d 1225 (2004) (quoting State v. Hanlen, 193 Wash. 494, 497, 76 P.2d 316 (1938)).
+¶8 We strictly construe RCW 10.01.040 because it is in derogation of the common law. State v. Kane, 101 Wn. App. 607, 612, 5 P.3d 741 (2000). We apply the statute narrowly and must broadly interpret the exception that is stated four times in RCW 10.01.040 - “unless a contrary intention is expressly declared.” Id. Therefore, an intention to affect pending litigation need not be declared in explicit terms in the repealing act. Id. The Supreme Court held in Ross:
+To avoid application of the savings clause, we have not required that the legislature explicitly state its intent that amendments repealing portions of criminal and penal statutes apply retroactively to pending prosecutions for crimes committed before the amendments’ effective date. Instead, “such intent need only be expressed in words that fairly convey that intention.”
+152 Wn.2d at 238 (internal quotation marks omitted) (quoting Kane, 101 Wn. App. at 612).
+B. Intention to Apply 1-502 to Pending Charges
+¶9 Under Ross, RCW 10.01.040 requires that crimes be prosecuted under the law in effect at the time they were committed unless a contrary intention is fairly conveyed in the repealing act. Id. at 237-38. Gradt argues that RCW 10.01.040 is inapplicable because 1-502 conveys an intention to apply its repeal of the crime of possession of small quantities of marijuana to pending charges for that crime. We agree.
+¶10 Prior to the passage of 1-502, former RCW 69.50-.4014 (2003) criminalized the possession of 40 grams or less of marijuana as a misdemeanor. Subsection 20(3) of 1-502 proposed an amendment to former RCW 69.50.4013 providing that “[t]he possession, by a person twenty-one years of age or older, of useable marijuana or marijuana-infused products in amounts that do not exceed those set forth in section 15(3) of this act is not a violation of this section, this chapter, or any other provision of Washington state law.”
+¶11 Section 1 of 1-502, which is entitled “Intent,” states:
+The people intend to stop treating adult marijuana use as a crime and try a new approach that:
+(1) Allows law enforcement resources to be focused on violent and property crimes;
+(2) Generates new state and local tax revenue for education, health care, research, and substance abuse prevention; and
+(3) Takes marijuana out of the hands of illegal drug organizations and brings it under a tightly regulated, state-licensed system similar to that for controlling hard alcohol.
+Laws of 2013, ch. 3. Gradt focuses on the first phrase: “The people intend to stop treating adult marijuana use as a crime and try a new approach.”
+¶12 Standing alone, the first phrase of section 1 is ambiguous whether I-502’s decriminalization provision applies to charges for possession of small amounts of marijuana pending when the initiative took effect. It is unclear whether the people intended to “stop treating adult marijuana use as a crime and try a new approach” for possession of small amounts of marijuana occurring after the effective date of 1-502 or whether the people intended to immediately end all prosecutions for possession of small amounts of marijuana, even when that possession occurred before the effective date.
+¶ 13 The State argues that “intend to stop” and “try a new approach” necessarily look to the future rather than to the past, and therefore that the people intended to decriminalize possession of small amounts of marijuana occurring only after I-502’s effective date. However, Gradt’s interpretation is equally reasonable: that the people intended to stop treating marijuana use as a crime immediately following I-502’s effective date, and that prosecuting possession of small amounts of marijuana - even possession that occurred before I-502’s effective date - would constitute treating marijuana use as a crime.
+¶14 The first stated purpose in section 1 of 1-502 supports Gradt’s interpretation. The people decided to decriminalize possession of small amounts of marijuana in part to allow “law enforcement resources to be focused on violent and property crimes.” 1-502, § 1(1), Laws of 2013, ch. 3, § 1(1). However, if the State continued to prosecute possession of small amounts of marijuana occurring before I-502’s effective date, law enforcement resources would continue to be diverted from violent and property crimes long after I-502’s effective date. For example, the State has continued to devote resources to this case more than three years after the initiative passed.
+¶15 As stated above, we must strictly construe RCW 10.01.040. Kane, 101 Wn. App. at 612. Further, we must broadly interpret the “unless a contrary intention is expressly declared” exception to RCW 10.01.040 and apply that exception if the language at issue fairly conveys that intention. Ross, 152 Wn.2d at 238. We view these principles of interpretation as requiring us to apply the exception when, as here, the repealing act is ambiguous.
+¶16 Because the intent language of 1-502 can be reasonably interpreted as applying to charges pending when the initiative took effect, we hold that the language of section 1 of 1-502 fairly conveys an intention to apply the initiative’s decriminalization of marijuana possession to charges for possession of small amounts of marijuana that were pending on I-502’s effective date. In addition, the stated purpose of refocusing law enforcement resources signals that any ambiguity should be resolved in this manner. Therefore, we hold that RCW 10.01.040 is inapplicable to 1-502. Division Three of this court recently reached the same result in State v. Rose, 191 Wn. App. 858, 860-61, 365 P.3d 756 (2015).
+¶17 Here, Gradt was charged with possession of a small amount of marijuana before enactment of 1-502, but his conviction occurred after its effective date. Because RCW 10.01.040 is inapplicable to 1-502, the State could not lawfully prosecute Gradt for possession of a small amount of marijuana after the initiative’s effective date. Accordingly, we reverse and dismiss Gradt’s conviction with prejudice.
+Johanson, C.J., and Bjorgen, J., concur.
+Reconsideration denied February 10, 2016.
+Gradt also argues that (1) RCW 10.01.040 does not apply to marijuana possession charges because 1-502 was passed by the people, not the legislature, and (2) 1-502 must be applied retroactively because it is a remedial provision. Because we reverse on other grounds, we do not address these issues.
+Gradt also was charged with and found guilty based on stipulated facts of possession of drug paraphernalia in violation of RCW 69.50.412. Gradt does not challenge this conviction on appeal.
+The saving statute only applies to substantive changes in the law. State v. Calhoun, 163 Wn. App. 153, 162, 257 P.3d 693 (2011). Here there is no question that I-502’s amendments to Washington’s criminal code were substantive.
