@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "74161-6-I"
 decided: "2016-01-19"
-citations: ["192 Wash. App. 728", "192 Wash. App. 1020"]
+citations: ["192 Wash. App. 728"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The City of Puyallup, Petitioner, v. William E. Spenser, Sr., Respond
 source_url: "https://static.case.law/wash-app/192/cases/0728-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12456088
-cites_cases: ["115 Wn.2d 708", "174 Wn.2d 741", "192 Wn. App. 728", "278 P.3d 653", "647 P.2d 6", "801 P.2d 948", "97 Wn.2d 493"]
+cites_cases: ["115 Wn.2d 708", "174 Wn.2d 741", "278 P.3d 653", "647 P.2d 6", "801 P.2d 948", "97 Wn.2d 493"]
 ---
 
 # City of Puyallup v. Spenser
