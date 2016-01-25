@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73207-2-I"
 decided: "2016-01-25"
-citations: ["193 Wash. App. 1", "192 Wash. App. 1026"]
+citations: ["193 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Parentage of T.W.J. et al. Andrea Anthony, Respo
 source_url: "https://static.case.law/wash-app/193/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12449881
-cites_cases: ["121 Wn.2d 113", "169 Wn.2d 664", "193 Wn. App. 1", "239 P.3d 557", "372 P.2d 193", "482 P.2d 775", "60 Wn.2d 122", "79 Wn.2d 12", "847 P.2d 428", "97 Wn. App. 708", "986 P.2d 144"]
+cites_cases: ["121 Wn.2d 113", "169 Wn.2d 664", "239 P.3d 557", "372 P.2d 193", "482 P.2d 775", "60 Wn.2d 122", "79 Wn.2d 12", "847 P.2d 428", "97 Wn. App. 708", "986 P.2d 144"]
 ---
 
 # Anthony v. Johnson
