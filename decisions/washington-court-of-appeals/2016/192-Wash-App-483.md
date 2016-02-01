@@ -1,0 +1,71 @@
+---
+court: "Washington Court of Appeals"
+docket: "74132-2-I"
+decided: "2016-02-01"
+citations: ["192 Wash. App. 483"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Spearman, C.J., and Lau, J., concur."]
+parties: ["John A. Urbick, Appellant, v. The Spencer Law Firm, LLC, et al., Respondents."]
+source_url: "https://static.case.law/wash-app/192/cases/0483-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12456071
+cites_cases: ["108 P.3d 147", "126 Wn. App. 222", "134 Wn. App. 95", "138 P.3d 1103", "160 P.3d 13", "160 Wn.2d 535", "164 Wn.2d 529", "179 F.3d 197", "183 Wn. App. 522", "192 P.3d 352", "2015 WL 9461609", "260 F.3d 909", "270 F.3d 778", "291 F.3d 1282", "324 B.R. 918", "333 P.3d 556", "337 F.3d 314", "348 F.3d 1289", "412 F.3d 598", "453 F.3d 446", "465 F. Supp. 2d 879", "532 U.S. 742", "733 F.3d 267", "989 F.2d 570"]
+---
+
+# Urbick v. Spencer Law Firm, LLC
+
+## Majority (Leach, J.)
+
+[As amended by order of the Court of Appeals February 3, 2016.]
+Leach, J.
+¶1 Courts apply the equitable doctrine of judicial estoppel to protect the integrity of the judicial process by precluding a party from gaining an advantage by asserting one position in a court proceeding and later seeking an advantage by taking a clearly inconsistent position. Here, the appellant-debtor knew all of the facts that gave rise to his potential claim of legal malpractice at the time he filed for bankruptcy, yet he failed to disclose it until almost three years after receiving a discharge from the bankruptcy court. While judicial estoppel generally does not apply to the bankruptcy trustee, here no one asked the trial court to substitute the bankruptcy trustee as the real party in interest. The trial court did not abuse its discretion by applying the doctrine of judicial estoppel to bar this legal malpractice claim. We affirm the trial court.
+FACTS
+¶2 On January 8, 2013, John Urbick filed a complaint against the Spencer Law Firm for professional negligence and violations of the Consumer Protection Act, chapter 19.86 RCW. He claimed Spencer failed to provide adequate representation in connection with his financial difficulties, particularly his delinquencies in a loan with Prime Pacific Bank for an auto repair shop he purchased in 2007. Urbick pledged various rental properties to secure this loan. In May 2009, motivated by Prime Pacific’s threat to lock him out of the auto repair shop, Urbick hired the Spencer Law Firm to help with his financial problems. Shortly after hiring Spencer, Urbick learned that John Spencer went to Alaska for several months. John Spencer’s associate met with Urbick. Urbick’s complaint alleges that the associate lacked the experience and skill needed to handle his financial problems.
+¶3 On December 7, 2009, Prime Pacific Bank sent Ur-bick a notice of foreclosure. Urbick’s loan with Prime Pacific was $35,926 in arrears with costs totaling an additional $9,000. In January 2010, John Spencer told Urbick that he wanted to refer him to another attorney.
+¶4 About three months later, on April 13, 2010, Urbick, represented by a different law firm, filed bankruptcy. Urbick did not list his potential claim against Spencer on his asset schedules or otherwise disclose it in his bankruptcy pleadings. In May 2010, Urbick amended his bankruptcy schedules but again did not include this potential claim. Urbick received a bankruptcy discharge on July 27, 2010.
+¶5 In November 2012, Urbick reopened his bankruptcy to list the possible claim. Urbick filed amendments to his bankruptcy schedules on December 13, 2012. In January 2013, he filed suit against Spencer in superior court.
+¶6 Urbick’s complaint “reserve [d] the right to substitute the Trustee in Bankruptcy as the real party in interest, as that issue has yet to be determined.” On July 30,2014, an ex parte order in the bankruptcy case authorized the then trustee, Kathryn Ellis, to employ Urbick’s counsel.
+¶7 On August 29, 2014, Spencer filed a motion for summary judgment dismissal. Urbick did not move to substitute or join the trustee as a real party in interest. Nor did the trustee ever move to intervene. The trial court determined that judicial estoppel barred Urbick from bringing this action and dismissed his complaint.
+¶8 Urbick moved for reconsideration and submitted the bankruptcy trustee’s declaration. It described her as the real party in interest who should be substituted as the plaintiff. Neither Urbick nor the trustee filed any motion to substitute the trustee. The trial court denied the motion for reconsideration. Urbick appeals.
+ANALYSIS
+¶9 This court reviews summary judgment orders de novo, affirming only if the record shows no genuine issues of material fact exist, viewing that record in the light most favorable to the nonmoving party. But this court reviews a trial court’s decision applying the judicial estoppel doctrine for abuse of discretion. A trial court abuses its discretion when it bases its decision on untenable or unreasonable grounds.
+¶10 Judicial estoppel is an equitable doctrine intended to protect the integrity of the judicial process by preventing a party from gaining an advantage by asserting one position in a court proceeding and later seeking an advantage by taking a clearly inconsistent position.
+¶ 11 On summary judgment, a party can ask the trial court to bar claims based on an inconsistent position taken in an earlier proceeding under the doctrine of judicial estoppel. The failure to disclose a cause of action in a bankruptcy schedule constitutes an inconsistent prior position if the debtor later seeks recovery from that cause of action. Schedules, amendments, and the meeting of the creditors all provide the debtor an opportunity to disclose assets and liabilities. A debtor makes the statements in these pleadings and at this meeting under penalty of perjury. If the court grants a discharge based on them, the court accepts them as the debtor’s position for purposes of judicial estoppel.
+¶12 To defeat summary judgment, the nonmoving party must present evidence raising an issue of fact about one of the factors guiding a court’s application of judicial estoppel or show that the trial court abused its discretion when applying the doctrine.
+¶13 In Arkison v. Ethan Allen, Inc., our Supreme Court set forth three fundamental factors to guide a court’s application of judicial estoppel:
+(1) whether “a party’s later position” is “clearly inconsistent with its earlier position”; (2) whether “judicial acceptance of an inconsistent position in a later proceeding would create the perception that either the first or the second court was misled”; and (3) “whether the party seeking to assert an inconsistent position would derive an unfair advantage or impose an unfair detriment on the opposing party if not estopped.”
+Washington courts have consistently held that a debtor’s failure to disclose a potential claim or other asset in a bankruptcy proceeding bars the debtor from later asserting the claim or seeking recovery of the asset after discharge. Even when a debtor lists a claim but asserts that it has no value, the doctrine bars the debtor from bringing a later suit to recover that claim.
+¶14 “A bankruptcy debtor has an affirmative duty under the bankruptcy code ‘to disclose all assets, including contingent and unliquidated claims.’ ” The debtor obtains an unfair advantage by obtaining a discharge without giving the creditors a fair opportunity to lay claim to the hidden assets. The doctrine protects the integrity of the bankruptcy courts and prevents parties from hiding causes of actions during bankruptcy proceedings, obtaining a “valuable benefit in the discharge of. . . debts,” and then asserting a claim in a different forum to win. Courts apply judicial estoppel at their own discretion, determining on a case-by-case basis if applying the doctrine is appropriate.
+¶15 Urbick argues that judicial estoppel should not bar his claim both because he amended his bankruptcy schedules and the trustee employed his counsel to pursue Urbick’s claim. He further contends that he is the appropriate party in the action because he would be entitled to any surplus over and above what he owed his creditors.
+¶16 Urbick cites several cases from other jurisdictions to support his position that his reopening of the bankruptcy case overcomes judicial estoppel. But none of those cases help him. In Jaeger v. Clear Wing Productions, Inc., the federal district court found genuine issues of material fact existed on whether Jaeger’s failure to disclose was calculated or inadvertent. But, as this court noted in Cunningham v. Reliable Concrete Pumping, Inc., failure to list an asset is “ ‘ “inadvertent” only when, in general, the debtor either lacks knowledge of the undisclosed claims or has no motive for their concealment.’ ” Here, Urbick knew all the facts supporting the undisclosed claim.
+¶17 Nor does Old Republic Insurance Co. v. Farmer support Urbick’s position. Unlike here, the claim in Old Republic was not an asset of the bankruptcy estate because it did not arise until after plan confirmation in a chapter 13 bankruptcy proceeding.
+¶18 Judicial estoppel usually does not apply when the bankruptcy trustee has been substituted as the real party in interest. In this circumstance, the claim belongs to the trustee, and therefore the “debtor has no interest left to pursue once the bankruptcy trustee has been substituted.” Thus, no party has asserted an inconsistent position because the debtor has no position in the latter lawsuit.
+¶19 Urbick asserts that the trustee’s declarations sufficiently established her as the real party in interest. But neither Urbick nor the trustee ever filed a motion to make the trustee the real party in interest. Although the debtor’s complaint alluded to the trustee as a possible intervenor, no one ever did anything to accomplish that. In fact, quite the opposite occurred. Urbick obtained an ex parte order to reopen the bankruptcy case in November of 2012. Eight months later, the parties filed a confirmation of joinder in which they represented to the court that no additional parties would be joined.
+¶20 A year later, Urbick obtained an ex parte order authorizing an appointment of special counsel for the trustee. That order authorized the trustee to employ Urbick’s counsel “as special counsel for the Trustee with respect to the prosecution of the debtor’s malpractice claims.”
+¶21 In opposition to the summary judgment proceeding, Urbick submitted a declaration of Kathryn Ellis, dated October 14, 2014. In that declaration, Ellis stated that neither she nor any creditor objected to the amended schedules that included “a potential malpractice action against former attorney.” The declaration also stated that Urbick would receive any surplus proceeds left after payment of all costs of administration and creditor claims. Ellis also stated that the claim might result in an amount in excess of the creditor claims and costs. Yet again, no motion to substitute the trustee as real party in interest occurred. Indeed, at oral argument, Urbick’s counsel admitted that the trustee was not yet a party.
+¶22 Only after the court dismissed the lawsuit did Urbick submit the second declaration of Ellis supporting his motion for reconsideration. In that second declaration, Ellis stated that she was the real party in interest and should be substituted as the plaintiff. Yet no motion was ever filed. The trial court denied the motion for reconsideration without argument or response from the defendant.
+CONCLUSION
+¶23 Here, because Urbick benefited from the asserted inconsistent claims accepted by the bankruptcy court, the trial court did not abuse its discretion in determining that judicial estoppel barred his claim. We affirm.
+Spearman, C.J., and Lau, J., concur.
+Cunningham v. Reliable Concrete Pumping, Inc., 126 Wn. App. 222, 226-27, 108 P.3d 147 (2005).
+Arkison v. Ethan Allen, Inc., 160 Wn.2d 535, 538, 160 P.3d 13 (2007); Harris v. Fortin, 183 Wn. App. 522, 526-27, 333 P.3d 556 (2014).
+Harris, 183 Wn. App. at 527.
+Arkison, 160 Wn.2d at 538.
+Bartley-Williams v. Kendall, 134 Wn. App. 95, 98-99, 138 P.3d 1103 (2006).
+Hamilton v. State Farm Fire & Cas. Co., 270 F.3d 778, 784 (9th Cir. 2001).
+160 Wn.2d 535, 538-39, 160 P.3d 13 (2007) (internal quotation marks omitted) (quoting New Hampshire v. Maine, 532 U.S. 742, 750-51, 121 S. Ct. 1808, 149 L. Ed. 2d 968 (2001)).
+Harris, 183 Wn. App. at 529-30.
+Arkison, 160 Wn.2d at 539 n.1 (internal quotation marks omitted) (quoting Cunningham, 126 Wn. App. at 229-30).
+Ah Quin v. County of Kauai Dep’t of Transp., 733 F.3d 267, 271 (9th Cir. 2013).
+In re Coastal Plains, Inc., 179 F.3d 197, 208 (5th Cir. 1999).
+Cannon-Stokes v. Potter, 453 F.3d 446, 447-48 (7th Cir. 2006) (citing six appellate courts holding “that a debtor in bankruptcy who denies owning an asset, including a chose in action or other legal claim, cannot realize on that concealed asset after the bankruptcy ends. See Payless Wholesale Distributors, Inc. v. Alberto Culver (P.R.) Inc., 989 F.2d 570 (1st Cir.1993); Krystal Cadillac-Oldsmobile GMC Truck, Inc. v. General Motors Corp., 337 F.3d 314 (3d Cir.2003); Jethroe v. Omnova Solutions, Inc., 412 F.3d 598 (5th Cir.2005); United States ex rel. Gebert v. Transport Administrative Services, 260 F.3d 909, 917-19 (8th Cir.2001); Hamilton v. State Farm Fire & Casualty Co., 270 F.3d 778 (9th Cir.2001); Barger v. Cartersville, 348 F.3d 1289, 1293-97 (11th Cir.2003)’’).
+Arp v. Riley, No. 72613-7-I, 2015 WL 9461609, at *5, 2015 Wash. App. LEXIS 3069, at *16-17 (Wash. Ct. App. Dec. 28, 2015).
+465 F. Supp. 2d 879, 882 (S.D. Ill. 2006).
+126 Wn. App. 222, 234, 108 P.3d 147 (2005) (internal quotation marks omitted) (quoting Burnes v. Pemco Aeroplex, Inc., 291 F.3d 1282, 1287 (11th Cir. 2002)).
+324 B.R. 918, 922 (M.D. Ga. 2005).
+Miller v. Campbell, 164 Wn.2d 529, 542, 192 P.3d 352 (2008).
+Miller, 164 Wn.2d at 542.
+Miller, 164 Wn.2d at 542.
+Pierce County Superior Court Local Civil Rule 19(b) provides that no additional parties may be joined and no additional claims or defenses may be raised after the date designated in the case schedule.
