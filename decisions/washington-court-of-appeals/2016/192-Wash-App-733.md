@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "74134-9-I"
 decided: "2016-02-08"
-citations: ["192 Wash. App. 733", "192 Wash. App. 1034"]
+citations: ["192 Wash. App. 733"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Burnice Renee Thompson, Appel
 source_url: "https://static.case.law/wash-app/192/cases/0733-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12456089
-cites_cases: ["100 P.3d 291", "108 P.3d 753", "111 Wn. App. 892", "125 Wn.2d 769", "127 Wn.2d 95", "135 Wn. App. 54", "141 P.3d 54", "143 P.3d 612", "150 Wn.2d 41", "152 Wn.2d 795", "153 Wn.2d 765", "157 Wn.2d 593", "164 Wn.2d 798", "173 Wn. App. 805", "183 Wn. App. 719", "185 Wn.2d 1041", "192 Wn. App. 733", "194 P.3d 212", "284 U.S. 299", "294 P.3d 862", "334 P.3d 22", "445 U.S. 684", "46 P.3d 840", "662 P.2d 853", "75 P.3d 488", "83 Wn. App. 803", "888 P.2d 155", "896 P.2d 1267", "924 P.2d 384", "99 Wn.2d 413"]
+cites_cases: ["100 P.3d 291", "108 P.3d 753", "111 Wn. App. 892", "125 Wn.2d 769", "127 Wn.2d 95", "135 Wn. App. 54", "141 P.3d 54", "143 P.3d 612", "150 Wn.2d 41", "152 Wn.2d 795", "153 Wn.2d 765", "157 Wn.2d 593", "164 Wn.2d 798", "173 Wn. App. 805", "183 Wn. App. 719", "185 Wn.2d 1041", "194 P.3d 212", "284 U.S. 299", "294 P.3d 862", "334 P.3d 22", "445 U.S. 684", "46 P.3d 840", "662 P.2d 853", "75 P.3d 488", "83 Wn. App. 803", "888 P.2d 155", "896 P.2d 1267", "924 P.2d 384", "99 Wn.2d 413"]
 ---
 
 # State v. Thompson
