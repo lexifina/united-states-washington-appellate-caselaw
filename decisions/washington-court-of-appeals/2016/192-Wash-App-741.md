@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46717-8-II"
 decided: "2016-02-09"
-citations: ["192 Wash. App. 741", "192 Wash. App. 1037"]
+citations: ["192 Wash. App. 741"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Raul Benicio Castillo-Lopez, 
 source_url: "https://static.case.law/wash-app/192/cases/0741-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12456090
-cites_cases: ["115 Wn.2d 294", "149 Wn.2d 647", "151 Wn.2d 265", "168 Wn.2d 350", "184 Wn.2d 656", "185 Wn.2d 1038", "192 Wn. App. 741", "229 P.3d 669", "361 P.3d 734", "376 U.S. 575", "548 U.S. 140", "71 P.3d 638", "79 Wn. App. 786", "797 P.2d 1141", "87 P.3d 1169", "905 P.2d 922"]
+cites_cases: ["115 Wn.2d 294", "149 Wn.2d 647", "151 Wn.2d 265", "168 Wn.2d 350", "184 Wn.2d 656", "185 Wn.2d 1038", "229 P.3d 669", "361 P.3d 734", "376 U.S. 575", "548 U.S. 140", "71 P.3d 638", "79 Wn. App. 786", "797 P.2d 1141", "87 P.3d 1169", "905 P.2d 922"]
 ---
 
 # State v. Castillo-Lopez
