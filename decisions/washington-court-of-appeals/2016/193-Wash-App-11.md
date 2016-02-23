@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46875-1-II"
 decided: "2016-02-23"
-citations: ["193 Wash. App. 11", "192 Wash. App. 1047"]
+citations: ["193 Wash. App. 11"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["John A. Hively, Appellant, v. The Port of Skamania County, Respondent
 source_url: "https://static.case.law/wash-app/193/cases/0011-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12449882
-cites_cases: ["103 Wn. App. 910", "14 P.3d 871", "175 Wn.2d 279", "179 Wn.2d 684", "181 Wn. App. 109", "182 Wn.2d 335", "183 Wn.2d 388", "186 Wn.2d 1004", "193 Wn. App. 11", "285 P.3d 860", "317 P.3d 987", "325 P.3d 327", "340 P.3d 846", "353 P.3d 204"]
+cites_cases: ["103 Wn. App. 910", "14 P.3d 871", "175 Wn.2d 279", "179 Wn.2d 684", "181 Wn. App. 109", "182 Wn.2d 335", "183 Wn.2d 388", "186 Wn.2d 1004", "285 P.3d 860", "317 P.3d 987", "325 P.3d 327", "340 P.3d 846", "353 P.3d 204"]
 ---
 
 # Hively v. Port of Skamania County
