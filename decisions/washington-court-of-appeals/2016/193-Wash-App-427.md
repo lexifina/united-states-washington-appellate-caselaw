@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46104-8-II"
 decided: "2016-02-23"
-citations: ["193 Wash. App. 427", "192 Wash. App. 1046"]
+citations: ["193 Wash. App. 427"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Parenting and Support of C.T. Andre Louis Young,
 source_url: "https://static.case.law/wash-app/193/cases/0427-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12449905
-cites_cases: ["105 Wn. App. 178", "106 Wn. App. 343", "109 P.3d 15", "112 Wn. App. 486", "122 P.3d 922", "123 Wn.2d 197", "126 Wn. App. 599", "126 Wn.2d 36", "130 Wn. App. 301", "133 Wn.2d 39", "133 Wn.2d 804", "149 Wn.2d 647", "152 Wn. App. 674", "153 Wn. App. 803", "179 Wn.2d 322", "181 Wn.2d 102", "19 P.3d 1081", "193 Wn. App. 427", "216 P.3d 1106", "22 P.3d 1280", "225 P.3d 280", "23 Wn. App. 904", "27 Wn. App. 449", "28 Wn. App. 187", "314 P.3d 380", "330 P.3d 182", "339 U.S. 306", "34 Wn. App. 344", "49 P.3d 154", "573 P.2d 1302", "588 P.2d 738", "598 P.2d 788", "618 P.2d 533", "622 P.2d 1288", "63 Wn. App. 658", "66 Wn. App. 735", "661 P.2d 155", "71 P.3d 638", "82 Wn. App. 471", "821 P.2d 1227", "834 P.2d 64", "86 Wn. App. 405", "867 P.2d 605", "89 Wn.2d 539", "891 P.2d 725", "91 Wn.2d 288", "918 P.2d 543", "936 P.2d 1175", "94 L. Ed. 865", "940 P.2d 1362", "947 P.2d 721", "99 Wn. App. 118", "992 P.2d 1019"]
+cites_cases: ["105 Wn. App. 178", "106 Wn. App. 343", "109 P.3d 15", "112 Wn. App. 486", "122 P.3d 922", "123 Wn.2d 197", "126 Wn. App. 599", "126 Wn.2d 36", "130 Wn. App. 301", "133 Wn.2d 39", "133 Wn.2d 804", "149 Wn.2d 647", "152 Wn. App. 674", "153 Wn. App. 803", "179 Wn.2d 322", "181 Wn.2d 102", "19 P.3d 1081", "216 P.3d 1106", "22 P.3d 1280", "225 P.3d 280", "23 Wn. App. 904", "27 Wn. App. 449", "28 Wn. App. 187", "314 P.3d 380", "330 P.3d 182", "339 U.S. 306", "34 Wn. App. 344", "49 P.3d 154", "573 P.2d 1302", "588 P.2d 738", "598 P.2d 788", "618 P.2d 533", "622 P.2d 1288", "63 Wn. App. 658", "66 Wn. App. 735", "661 P.2d 155", "71 P.3d 638", "82 Wn. App. 471", "821 P.2d 1227", "834 P.2d 64", "86 Wn. App. 405", "867 P.2d 605", "89 Wn.2d 539", "891 P.2d 725", "91 Wn.2d 288", "918 P.2d 543", "936 P.2d 1175", "94 L. Ed. 865", "940 P.2d 1362", "947 P.2d 721", "99 Wn. App. 118", "992 P.2d 1019"]
 ---
 
 # Young v. Thomas
