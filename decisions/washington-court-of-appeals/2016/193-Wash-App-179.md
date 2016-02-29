@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71912-2-I"
 decided: "2016-02-29"
-citations: ["193 Wash. App. 179", "192 Wash. App. 1049"]
+citations: ["193 Wash. App. 179"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Travis Lee Lile, Appellant."]
 source_url: "https://static.case.law/wash-app/193/cases/0179-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12449894
-cites_cases: ["10 P.3d 358", "10 P.3d 390", "102 Wn.2d 561", "103 Wn.2d 280", "112 Wn.2d 819", "113 Wn.2d 701", "115 Wn.2d 609", "118 P. 40", "118 Wn.2d 801", "119 P.3d 806", "122 Wn.2d 590", "123 Wn.2d 794", "132 Wn.2d 1", "134 P.2d 718", "141 Wn.2d 731", "141 Wn.2d 910", "150 Wn.2d 821", "155 Wn.2d 335", "161 Wn. App. 634", "17 Wn.2d 8", "172 Wn.2d 120", "172 Wn.2d 438", "180 Wn.2d 423", "186 Wn.2d 1016", "193 Wn. App. 179", "242 P.2d 1038", "251 P.3d 253", "258 P.3d 43", "258 P.3d 9", "28 Wn. App. 33", "285 P.2d 887", "326 P.3d 125", "391 P.2d 191", "40 Wn.2d 238", "438 P.2d 200", "446 P.2d 329", "45 Wn. App. 916", "458 P.2d 17", "46 Wn.2d 822", "50 Wn. App. 16", "620 F.2d 559", "621 P.2d 784", "64 Wn.2d 273", "65 Wash. 313", "689 P.2d 32", "692 P.2d 799", "70 Wn. App. 778", "729 P.2d 56", "73 Wn.2d 255", "74 Wn.2d 700", "746 P.2d 1231", "76 Wn.2d 449", "774 P.2d 1177", "782 P.2d 1045", "801 P.2d 193", "828 P.2d 549", "83 P.3d 970", "856 P.2d 403", "859 P.2d 1231", "872 P.2d 502", "89 Wn. App. 857", "935 P.2d 1294", "950 P.2d 1004", "96 Wn. App. 678", "980 P.2d 235"]
+cites_cases: ["10 P.3d 358", "10 P.3d 390", "102 Wn.2d 561", "103 Wn.2d 280", "112 Wn.2d 819", "113 Wn.2d 701", "115 Wn.2d 609", "118 P. 40", "118 Wn.2d 801", "119 P.3d 806", "122 Wn.2d 590", "123 Wn.2d 794", "132 Wn.2d 1", "134 P.2d 718", "141 Wn.2d 731", "141 Wn.2d 910", "150 Wn.2d 821", "155 Wn.2d 335", "161 Wn. App. 634", "17 Wn.2d 8", "172 Wn.2d 120", "172 Wn.2d 438", "180 Wn.2d 423", "186 Wn.2d 1016", "242 P.2d 1038", "251 P.3d 253", "258 P.3d 43", "258 P.3d 9", "28 Wn. App. 33", "285 P.2d 887", "326 P.3d 125", "391 P.2d 191", "40 Wn.2d 238", "438 P.2d 200", "446 P.2d 329", "45 Wn. App. 916", "458 P.2d 17", "46 Wn.2d 822", "50 Wn. App. 16", "620 F.2d 559", "621 P.2d 784", "64 Wn.2d 273", "65 Wash. 313", "689 P.2d 32", "692 P.2d 799", "70 Wn. App. 778", "729 P.2d 56", "73 Wn.2d 255", "74 Wn.2d 700", "746 P.2d 1231", "76 Wn.2d 449", "774 P.2d 1177", "782 P.2d 1045", "801 P.2d 193", "828 P.2d 549", "83 P.3d 970", "856 P.2d 403", "859 P.2d 1231", "872 P.2d 502", "89 Wn. App. 857", "935 P.2d 1294", "950 P.2d 1004", "96 Wn. App. 678", "980 P.2d 235"]
 ---
 
 # State v. Lile
