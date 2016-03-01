@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "46557-4-II"
 decided: "2016-03-01"
-citations: ["193 Wash. App. 215", "192 Wash. App. 1055"]
+citations: ["193 Wash. App. 215"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Kevin S. Robinson, Appellant.
 source_url: "https://static.case.law/wash-app/193/cases/0215-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12449895
-cites_cases: ["110 P.3d 827", "126 Wn.2d 244", "127 Wn. App. 119", "128 Wn.2d 492", "144 Wn. App. 860", "153 Wn. App. 471", "174 Wn.2d 539", "184 P.3d 666", "193 Wn. App. 215", "228 P.3d 24", "277 P.3d 657", "893 P.2d 615", "909 P.2d 1294"]
+cites_cases: ["110 P.3d 827", "126 Wn.2d 244", "127 Wn. App. 119", "128 Wn.2d 492", "144 Wn. App. 860", "153 Wn. App. 471", "174 Wn.2d 539", "184 P.3d 666", "228 P.3d 24", "277 P.3d 657", "893 P.2d 615", "909 P.2d 1294"]
 ---
 
 # State v. Robinson
