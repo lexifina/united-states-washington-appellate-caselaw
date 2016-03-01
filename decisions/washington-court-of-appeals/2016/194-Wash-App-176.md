@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "45923-0-II"
 decided: "2016-03-01"
-citations: ["194 Wash. App. 176", "192 Wash. App. 1055"]
+citations: ["194 Wash. App. 176"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Harold Bircumshaw, Appellant, v. The Washington State Health Care Aut
 source_url: "https://static.case.law/wash-app/194/cases/0176-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12451632
-cites_cases: ["127 P.3d 713", "129 Wn. App. 632", "147 Wn. App. 704", "171 Wn. App. 82", "173 Wn. App. 912", "174 Wn.2d 619", "181 Wn. App. 369", "181 Wn.2d 1010", "182 Wn.2d 342", "183 Wn. App. 706", "185 Wn. App. 775", "189 Wn. App. 127", "194 Wn. App. 176", "197 P.3d 686", "278 P.3d 173", "286 P.3d 85", "295 P.3d 1210", "325 P.3d 434", "334 P.3d 116", "340 P.3d 849", "342 P.3d 1190", "356 P.3d 753", "4 Wn. App. 179", "42 C.F.R. § 447.45", "471 P.2d 90", "480 P.2d 216", "517 U.S. 559", "52 Wn. App. 603", "538 U.S. 408", "762 P.2d 367", "78 Wn.2d 216", "97 Wn. App. 370", "984 P.2d 1047"]
+cites_cases: ["127 P.3d 713", "129 Wn. App. 632", "147 Wn. App. 704", "171 Wn. App. 82", "173 Wn. App. 912", "174 Wn.2d 619", "181 Wn. App. 369", "181 Wn.2d 1010", "182 Wn.2d 342", "183 Wn. App. 706", "185 Wn. App. 775", "189 Wn. App. 127", "197 P.3d 686", "278 P.3d 173", "286 P.3d 85", "295 P.3d 1210", "325 P.3d 434", "334 P.3d 116", "340 P.3d 849", "342 P.3d 1190", "356 P.3d 753", "4 Wn. App. 179", "42 C.F.R. § 447.45", "471 P.2d 90", "480 P.2d 216", "517 U.S. 559", "52 Wn. App. 603", "538 U.S. 408", "762 P.2d 367", "78 Wn.2d 216", "97 Wn. App. 370", "984 P.2d 1047"]
 ---
 
 # Bircumshaw v. Washington State Health Care Authority
