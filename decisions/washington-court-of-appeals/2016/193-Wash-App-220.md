@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71995-5-I"
 decided: "2016-03-07"
-citations: ["193 Wash. App. 220", "192 Wash. App. 1059"]
+citations: ["193 Wash. App. 220"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Chettie McAfee, Appellant, v. Select Portfolio Servicing, Inc., et al
 source_url: "https://static.case.law/wash-app/193/cases/0220-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12449896
-cites_cases: ["103 Wn.2d 383", "105 Wn.2d 778", "116 Wn.2d 563", "12 U.S.C. § 5201", "144 Wn. App. 709", "154 P.3d 882", "159 Wn.2d 903", "162 Wn.2d 493", "165 Wn.2d 595", "172 P.3d 701", "174 Wn.2d 157", "174 Wn.2d 560", "175 Wn.2d 83", "176 Wn. App. 294", "176 Wn. App. 475", "180 Wn.2d 954", "184 Wn.2d 509", "185 Wn. App. 730", "189 P.3d 168", "192 Wn. App. 166", "193 Wn. App. 220", "200 P.3d 695", "2014 IL App (1st) 122824", "2014 U.S. Dist. LEXIS 28336", "2014 U.S. Dist. LEXIS 71692", "2014 WL 2199627", "2014 WL 841527", "273 P.3d 965", "276 P.3d 1277", "285 P.3d 34", "308 P.3d 716", "309 P.3d 636", "331 P.3d 29", "345 P.3d 786", "359 P.3d 771", "367 P.3d 600", "379 Ill. Dec. 191", "51 Wn. App. 108", "565 P.2d 1173", "6 N.E.3d 268", "673 F.3d 547", "677 F.3d 1113", "693 P.2d 683", "719 P.2d 531", "728 F.3d 878", "752 P.2d 385", "807 P.2d 356", "88 Wn.2d 735"]
+cites_cases: ["103 Wn.2d 383", "105 Wn.2d 778", "116 Wn.2d 563", "12 U.S.C. § 5201", "144 Wn. App. 709", "154 P.3d 882", "159 Wn.2d 903", "162 Wn.2d 493", "165 Wn.2d 595", "172 P.3d 701", "174 Wn.2d 157", "174 Wn.2d 560", "175 Wn.2d 83", "176 Wn. App. 294", "176 Wn. App. 475", "180 Wn.2d 954", "184 Wn.2d 509", "185 Wn. App. 730", "189 P.3d 168", "192 Wn. App. 166", "200 P.3d 695", "2014 IL App (1st) 122824", "2014 U.S. Dist. LEXIS 28336", "2014 U.S. Dist. LEXIS 71692", "2014 WL 2199627", "2014 WL 841527", "273 P.3d 965", "276 P.3d 1277", "285 P.3d 34", "308 P.3d 716", "309 P.3d 636", "331 P.3d 29", "345 P.3d 786", "359 P.3d 771", "367 P.3d 600", "379 Ill. Dec. 191", "51 Wn. App. 108", "565 P.2d 1173", "6 N.E.3d 268", "673 F.3d 547", "677 F.3d 1113", "693 P.2d 683", "719 P.2d 531", "728 F.3d 878", "752 P.2d 385", "807 P.2d 356", "88 Wn.2d 735"]
 ---
 
 # McAfee v. Select Portfolio Servicing, Inc.
