@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72809-1-I"
 decided: "2016-03-14"
-citations: ["193 Wash. App. 653", "192 Wash. App. 1073"]
+citations: ["193 Wash. App. 653"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Daniel P. Thompson et al., Appellants, v. The City of Mercer Island, 
 source_url: "https://static.case.law/wash-app/193/cases/0653-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12449917
-cites_cases: ["139 Wn.2d 1012", "146 Wn.2d 904", "164 Wn.2d 529", "166 Wn. App. 452", "173 Wn.2d 325", "174 Wn.2d 1016", "184 Wn.2d 1014", "186 Wn.2d 1013", "187 Wn. App. 853", "192 P.3d 352", "193 Wn. App. 653", "267 P.3d 973", "272 P.3d 853", "351 P.3d 875", "52 P.3d 1", "84 Wn. App. 222", "86 Wn. App. 266", "86 Wn. App. 290", "92 Wn. App. 816", "928 P.2d 1111", "936 P.2d 42", "936 P.2d 432", "965 P.2d 636", "97 Wn. App. 11", "985 P.2d 391"]
+cites_cases: ["139 Wn.2d 1012", "146 Wn.2d 904", "164 Wn.2d 529", "166 Wn. App. 452", "173 Wn.2d 325", "174 Wn.2d 1016", "184 Wn.2d 1014", "186 Wn.2d 1013", "187 Wn. App. 853", "192 P.3d 352", "267 P.3d 973", "272 P.3d 853", "351 P.3d 875", "52 P.3d 1", "84 Wn. App. 222", "86 Wn. App. 266", "86 Wn. App. 290", "92 Wn. App. 816", "928 P.2d 1111", "936 P.2d 42", "936 P.2d 432", "965 P.2d 636", "97 Wn. App. 11", "985 P.2d 391"]
 ---
 
 # Thompson v. City of Mercer Island
