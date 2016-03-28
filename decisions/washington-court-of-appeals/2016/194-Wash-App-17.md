@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73663-9-I"
 decided: "2016-03-28"
-citations: ["194 Wash. App. 17", "193 Wash. App. 1010"]
+citations: ["194 Wash. App. 17"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Morpho Detection, Inc., Respondent, v. The Department of Revenue, App
 source_url: "https://static.case.law/wash-app/194/cases/0017-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12451624
-cites_cases: ["116 Wash. 387", "118 Wn.2d 801", "119 Wn. App. 481", "127 Wn.2d 759", "127 Wn.2d 774", "132 Wn.2d 301", "134 Wn.2d 523", "146 P.3d 893", "146 Wn.2d 947", "151 Wn.2d 512", "152 Wn.2d 421", "158 Wn.2d 661", "166 Wn.2d 572", "169 Wn.2d 516", "169 Wn.2d 571", "170 Wn.2d 838", "172 Wn.2d 487", "186 Wn.2d 1010", "194 Wn. App. 17", "199 P. 749", "210 P.3d 1007", "238 P.3d 487", "243 P.3d 1283", "246 P.3d 788", "259 P.3d 234", "4 L. Ed. 579", "405 U.S. App. D.C. 181", "51 P.3d 66", "717 F.3d 975", "82 P.3d 664", "828 P.2d 549", "903 P.2d 443", "903 P.2d 953", "91 P.3d 864", "93 Wn. App. 189", "937 P.2d 602", "951 P.2d 770", "963 P.2d 934", "98 P.3d 463"]
+cites_cases: ["116 Wash. 387", "118 Wn.2d 801", "119 Wn. App. 481", "127 Wn.2d 759", "127 Wn.2d 774", "132 Wn.2d 301", "134 Wn.2d 523", "146 P.3d 893", "146 Wn.2d 947", "151 Wn.2d 512", "152 Wn.2d 421", "158 Wn.2d 661", "166 Wn.2d 572", "169 Wn.2d 516", "169 Wn.2d 571", "170 Wn.2d 838", "172 Wn.2d 487", "186 Wn.2d 1010", "199 P. 749", "210 P.3d 1007", "238 P.3d 487", "243 P.3d 1283", "246 P.3d 788", "259 P.3d 234", "4 L. Ed. 579", "405 U.S. App. D.C. 181", "51 P.3d 66", "717 F.3d 975", "82 P.3d 664", "828 P.2d 549", "903 P.2d 443", "903 P.2d 953", "91 P.3d 864", "93 Wn. App. 189", "937 P.2d 602", "951 P.2d 770", "963 P.2d 934", "98 P.3d 463"]
 ---
 
 # Morpho Detection, Inc. v. Department of Revenue
