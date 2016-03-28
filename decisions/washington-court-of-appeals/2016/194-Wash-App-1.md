@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73208-1-I"
 decided: "2016-03-28"
-citations: ["194 Wash. App. 1", "193 Wash. App. 1009"]
+citations: ["194 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Kenneth Emerson et al., Appellants, v. Island County, Respondent."]
 source_url: "https://static.case.law/wash-app/194/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12451623
-cites_cases: ["106 Wn.2d 1", "112 Wn. App. 200", "115 Wn.2d 506", "128 Wn.2d 656", "13 P.3d 183", "132 Wn.2d 214", "134 Wn.2d 947", "135 Wn.2d 658", "136 Wn. App. 869", "142 Wn.2d 347", "152 P.3d 1034", "167 Wn. App. 728", "186 Wn.2d 1004", "194 Wn. App. 1", "274 P.3d 1070", "42 F.3d 1257", "42 U.S.C. § 1983", "48 P.3d 997", "540 F.3d 1082", "61 Wn. App. 163", "721 P.2d 1", "799 P.2d 250", "810 P.2d 4", "911 P.2d 1301", "937 P.2d 186", "954 P.2d 250", "958 P.2d 301"]
+cites_cases: ["106 Wn.2d 1", "112 Wn. App. 200", "115 Wn.2d 506", "128 Wn.2d 656", "13 P.3d 183", "132 Wn.2d 214", "134 Wn.2d 947", "135 Wn.2d 658", "136 Wn. App. 869", "142 Wn.2d 347", "152 P.3d 1034", "167 Wn. App. 728", "186 Wn.2d 1004", "274 P.3d 1070", "42 F.3d 1257", "42 U.S.C. § 1983", "48 P.3d 997", "540 F.3d 1082", "61 Wn. App. 163", "721 P.2d 1", "799 P.2d 250", "810 P.2d 4", "911 P.2d 1301", "937 P.2d 186", "954 P.2d 250", "958 P.2d 301"]
 ---
 
 # Emerson v. Island County
