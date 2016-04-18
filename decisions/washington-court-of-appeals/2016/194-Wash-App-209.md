@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "71947-5-I"
 decided: "2016-04-18"
-citations: ["194 Wash. App. 209", "193 Wash. App. 1022"]
+citations: ["194 Wash. App. 209"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Kary L. Caldwell, Respondent, v. The City of Hoquiam, Appellant."]
 source_url: "https://static.case.law/wash-app/194/cases/0209-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12451633
-cites_cases: ["111 Wn.2d 182", "115 Wn.2d 506", "117 Wn.2d 382", "123 Wn. App. 701", "136 Wn. App. 899", "151 P.3d 219", "152 P.3d 1020", "159 Wn.2d 652", "175 Wn.2d 871", "178 Wn.2d 165", "181 Wn.2d 117", "181 Wn.2d 775", "182 Wn.2d 827", "184 Wn.2d 428", "186 Wn.2d 1015", "194 Wn. App. 209", "288 P.3d 328", "309 P.3d 387", "330 P.3d 190", "336 P.3d 1142", "344 P.3d 680", "359 P.3d 753", "759 P.2d 1188", "799 P.2d 250", "816 P.2d 18", "98 P.3d 52"]
+cites_cases: ["111 Wn.2d 182", "115 Wn.2d 506", "117 Wn.2d 382", "123 Wn. App. 701", "136 Wn. App. 899", "151 P.3d 219", "152 P.3d 1020", "159 Wn.2d 652", "175 Wn.2d 871", "178 Wn.2d 165", "181 Wn.2d 117", "181 Wn.2d 775", "182 Wn.2d 827", "184 Wn.2d 428", "186 Wn.2d 1015", "288 P.3d 328", "309 P.3d 387", "330 P.3d 190", "336 P.3d 1142", "344 P.3d 680", "359 P.3d 753", "759 P.2d 1188", "799 P.2d 250", "816 P.2d 18", "98 P.3d 52"]
 ---
 
 # Caldwell v. City of Hoquiam
