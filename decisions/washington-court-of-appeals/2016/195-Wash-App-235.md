@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72801-6-I; 72802-4-I"
 decided: "2016-05-31"
-citations: ["195 Wash. App. 235", "194 Wash. App. 1015"]
+citations: ["195 Wash. App. 235"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Michan Rhodes et al., Appellants, v. Emily Sharp Rains et al., Respon
 source_url: "https://static.case.law/wash-app/195/cases/0235-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12454223
-cites_cases: ["103 Wn. App. 542", "103 Wn.2d 52", "105 Wn.2d 778", "13 P.3d 240", "143 Wn.2d 1024", "162 Wn.2d 59", "166 Wn.2d 27", "170 P.3d 10", "190 Wn. App. 945", "195 Wn. App. 235", "204 P.3d 885", "361 P.3d 217", "691 P.2d 163", "719 P.2d 531", "77 Wn. App. 33", "888 P.2d 1196"]
+cites_cases: ["103 Wn. App. 542", "103 Wn.2d 52", "105 Wn.2d 778", "13 P.3d 240", "143 Wn.2d 1024", "162 Wn.2d 59", "166 Wn.2d 27", "170 P.3d 10", "190 Wn. App. 945", "204 P.3d 885", "361 P.3d 217", "691 P.2d 163", "719 P.2d 531", "77 Wn. App. 33", "888 P.2d 1196"]
 ---
 
 # Rhodes v. Rains
