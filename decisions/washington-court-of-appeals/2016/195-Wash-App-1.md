@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73148-3-I"
 decided: "2016-06-06"
-citations: ["195 Wash. App. 1", "194 Wash. App. 1020"]
+citations: ["195 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Jose Jaimes, Appellant, v. NDTS Construction, Inc., et al., Defendant
 source_url: "https://static.case.law/wash-app/195/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12454207
-cites_cases: ["101 Wn. App. 634", "131 Wn.2d 439", "142 Wn.2d 1020", "195 Wn. App. 1", "384 P.2d 852", "5 P.3d 38", "523 U.S. 1102", "588 P.2d 1174", "62 Wn.2d 800", "91 Wn.2d 550", "945 P.2d 1119"]
+cites_cases: ["101 Wn. App. 634", "131 Wn.2d 439", "142 Wn.2d 1020", "384 P.2d 852", "5 P.3d 38", "523 U.S. 1102", "588 P.2d 1174", "62 Wn.2d 800", "91 Wn.2d 550", "945 P.2d 1119"]
 ---
 
 # Jaimes v. NDTS Construction, Inc.
