@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73125-4-I"
 decided: "2016-06-27"
-citations: ["195 Wash. App. 482", "194 Wash. App. 1042"]
+citations: ["195 Wash. App. 482"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Thomas Clark et al., Respondents, v. Andelle Teng et al., Appellants.
 source_url: "https://static.case.law/wash-app/195/cases/0482-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12454239
-cites_cases: ["105 Wn. App. 508", "145 P.3d 1196", "158 Wn.2d 483", "17 Wn. App. 214", "174 Wn.2d 207", "178 Wn. App. 702", "181 Wn.2d 1027", "182 Wn. App. 500", "187 Wn.2d 1016", "195 Wn. App. 482", "20 P.3d 447", "21 Wn. App. 370", "274 P.3d 336", "315 P.3d 1143", "331 P.3d 72", "339 P.3d 634", "39 Wn. App. 828", "415 P.2d 640", "416 N.E.2d 268", "48 Ill. Dec. 237", "562 P.2d 1276", "585 P.2d 183", "60 Wn. App. 635", "64 Wn. App. 823", "68 Wn.2d 771", "696 P.2d 28", "806 P.2d 766", "827 P.2d 1052", "83 Ill. 2d 545"]
+cites_cases: ["105 Wn. App. 508", "145 P.3d 1196", "158 Wn.2d 483", "17 Wn. App. 214", "174 Wn.2d 207", "178 Wn. App. 702", "181 Wn.2d 1027", "182 Wn. App. 500", "187 Wn.2d 1016", "20 P.3d 447", "21 Wn. App. 370", "274 P.3d 336", "315 P.3d 1143", "331 P.3d 72", "339 P.3d 634", "39 Wn. App. 828", "415 P.2d 640", "416 N.E.2d 268", "48 Ill. Dec. 237", "562 P.2d 1276", "585 P.2d 183", "60 Wn. App. 635", "64 Wn. App. 823", "68 Wn.2d 771", "696 P.2d 28", "806 P.2d 766", "827 P.2d 1052", "83 Ill. 2d 545"]
 ---
 
 # Clark v. Teng
