@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "33176-8-III; 33630-1-III"
 decided: "2016-07-07"
-citations: ["195 Wash. App. 644", "194 Wash. App. 1052"]
+citations: ["195 Wash. App. 644"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Washington Federal, National Association, Respondent, v. Azure Chelan
 source_url: "https://static.case.law/wash-app/195/cases/0644-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12454247
-cites_cases: ["105 Wn. App. 90", "106 Wn.2d 1", "110 Wn.2d 355", "111 P.3d 866", "127 Wn. App. 309", "128 P.3d 81", "133 Wn. App. 557", "137 P.3d 61", "152 Cal. App. 2d 200", "152 Wn.2d 528", "154 P.3d 882", "156 P.3d 201", "156 Wn.2d 367", "157 Wn. App. 443", "157 Wn. App. 777", "159 Wn.2d 903", "160 Wn.2d 106", "161 Wn.2d 544", "164 Wn.2d 310", "166 Wn.2d 572", "167 P.3d 555", "175 Wn. App. 545", "179 Wn.2d 828", "18 N.Y.S.3d 577", "18 P.3d 621", "181 Wn.2d 127", "19 Wn. App. 334", "190 P.3d 28", "195 Wash. 288", "195 Wn. App. 644", "2015 NY Slip Op 50917", "21 Wn. App. 450", "210 P.3d 1007", "23 Wn. App. 35", "236 P.3d 991", "239 P.3d 1109", "307 P.3d 744", "313 P.2d 19", "318 P.3d 266", "331 P.3d 40", "46 Wn. App. 708", "48 Misc.3d 1201", "51 Wash. 591", "545 P.2d 546", "575 P.2d 746", "585 P.2d 830", "593 P.2d 179", "721 P.2d 1", "735 P.2d 675", "753 P.2d 517", "80 P.2d 856", "86 Wn.2d 401", "98 P.3d 1190", "99 P. 736"]
+cites_cases: ["105 Wn. App. 90", "106 Wn.2d 1", "110 Wn.2d 355", "111 P.3d 866", "127 Wn. App. 309", "128 P.3d 81", "133 Wn. App. 557", "137 P.3d 61", "152 Cal. App. 2d 200", "152 Wn.2d 528", "154 P.3d 882", "156 P.3d 201", "156 Wn.2d 367", "157 Wn. App. 443", "157 Wn. App. 777", "159 Wn.2d 903", "160 Wn.2d 106", "161 Wn.2d 544", "164 Wn.2d 310", "166 Wn.2d 572", "167 P.3d 555", "175 Wn. App. 545", "179 Wn.2d 828", "18 N.Y.S.3d 577", "18 P.3d 621", "181 Wn.2d 127", "19 Wn. App. 334", "190 P.3d 28", "195 Wash. 288", "2015 NY Slip Op 50917", "21 Wn. App. 450", "210 P.3d 1007", "23 Wn. App. 35", "236 P.3d 991", "239 P.3d 1109", "307 P.3d 744", "313 P.2d 19", "318 P.3d 266", "331 P.3d 40", "46 Wn. App. 708", "48 Misc.3d 1201", "51 Wash. 591", "545 P.2d 546", "575 P.2d 746", "585 P.2d 830", "593 P.2d 179", "721 P.2d 1", "735 P.2d 675", "753 P.2d 517", "80 P.2d 856", "86 Wn.2d 401", "98 P.3d 1190", "99 P. 736"]
 ---
 
 # Washington Federal, National Ass'n v. Azure Chelan LLC
