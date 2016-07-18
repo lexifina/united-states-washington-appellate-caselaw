@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73147-5-I"
 decided: "2016-07-18"
-citations: ["195 Wash. App. 96", "195 Wash. App. 1005"]
+citations: ["195 Wash. App. 96"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["James Hopkins, Jr., Appellant, v. Seattle Public School District No. 
 source_url: "https://static.case.law/wash-app/195/cases/0096-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12454212
-cites_cases: ["100 Wn.2d 355", "119 P.3d 825", "124 P.3d 283", "132 Wn.2d 54", "155 Wn.2d 306", "156 Wn.2d 62", "170 Wn.2d 628", "174 Wn.2d 851", "178 Wn.2d 732", "179 Wn. App. 10", "182 Wn.2d 794", "183 Wn.2d 550", "186 Wn.2d 1029", "195 Wn. App. 96", "201 P.2d 697", "244 P.3d 924", "255 P.2d 360", "281 P.3d 289", "310 P.3d 1275", "317 P.3d 481", "32 Wn.2d 353", "346 P.3d 708", "353 P.3d 213", "419 P.2d 141", "42 Wn.2d 316", "65 Wn. App. 285", "669 P.2d 1244", "69 Wn.2d 497", "74 Wn. App. 49", "827 P.2d 1108", "871 P.2d 1106", "935 P.2d 1321"]
+cites_cases: ["100 Wn.2d 355", "119 P.3d 825", "124 P.3d 283", "132 Wn.2d 54", "155 Wn.2d 306", "156 Wn.2d 62", "170 Wn.2d 628", "174 Wn.2d 851", "178 Wn.2d 732", "179 Wn. App. 10", "182 Wn.2d 794", "183 Wn.2d 550", "186 Wn.2d 1029", "201 P.2d 697", "244 P.3d 924", "255 P.2d 360", "281 P.3d 289", "310 P.3d 1275", "317 P.3d 481", "32 Wn.2d 353", "346 P.3d 708", "353 P.3d 213", "419 P.2d 141", "42 Wn.2d 316", "65 Wn. App. 285", "669 P.2d 1244", "69 Wn.2d 497", "74 Wn. App. 49", "827 P.2d 1108", "871 P.2d 1106", "935 P.2d 1321"]
 ---
 
 # Hopkins v. Seattle Public School District No. 1
