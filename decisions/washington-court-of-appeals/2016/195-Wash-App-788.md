@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73966-2-I"
 decided: "2016-07-25"
-citations: ["195 Wash. App. 788", "195 Wash. App. 1016"]
+citations: ["195 Wash. App. 788"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Irwin Naturals, Appellant, v. The Department of Revenue, Respondent."
 source_url: "https://static.case.law/wash-app/195/cases/0788-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12454256
-cites_cases: ["105 Wn.2d 318", "151 Wn. App. 451", "170 Wn.2d 838", "178 Wn. App. 756", "184 Wn.2d 1026", "187 Wn. App. 427", "187 Wn.2d 1017", "195 Wn. App. 788", "215 P.3d 968", "231 P.2d 325", "246 P.3d 788", "303 U.S. 177", "315 P.3d 604", "322 U.S. 327", "340 U.S. 534", "347 U.S. 340", "348 P.3d 1273", "362 U.S. 207", "364 P.3d 120", "377 U.S. 436", "38 Wn.2d 663", "386 U.S. 753", "405 Ill. 314", "430 U.S. 274", "430 U.S. 551", "483 U.S. 232", "504 U.S. 298", "715 P.2d 123", "90 N.E.2d 737", "95 L. Ed. 517", "98 L. Ed. 744", "Cal. Rev. & Tax Code § 6203"]
+cites_cases: ["105 Wn.2d 318", "151 Wn. App. 451", "170 Wn.2d 838", "178 Wn. App. 756", "184 Wn.2d 1026", "187 Wn. App. 427", "187 Wn.2d 1017", "215 P.3d 968", "231 P.2d 325", "246 P.3d 788", "303 U.S. 177", "315 P.3d 604", "322 U.S. 327", "340 U.S. 534", "347 U.S. 340", "348 P.3d 1273", "362 U.S. 207", "364 P.3d 120", "377 U.S. 436", "38 Wn.2d 663", "386 U.S. 753", "405 Ill. 314", "430 U.S. 274", "430 U.S. 551", "483 U.S. 232", "504 U.S. 298", "715 P.2d 123", "90 N.E.2d 737", "95 L. Ed. 517", "98 L. Ed. 744", "Cal. Rev. & Tax Code § 6203"]
 ---
 
 # Irwin Naturals v. Department of Revenue
