@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73424-5-I"
 decided: "2016-08-08"
-citations: ["196 Wash. App. 1", "195 Wash. App. 1033"]
+citations: ["196 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Porter Law Center, LLC, et al., Appellants, v. The Department of Fina
 source_url: "https://static.case.law/wash-app/196/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12461556
-cites_cases: ["103 Wn.2d 52", "107 Wn.2d 388", "122 Wn.2d 397", "125 Wn.2d 129", "133 Wn. App. 723", "137 P.3d 78", "145 Wn.2d 483", "147 Wn. App. 807", "148 Wn.2d 887", "151 Wn.2d 568", "162 Wn.2d 210", "165 Wn.2d 706", "167 Wn. App. 740", "170 Wn.2d 43", "173 P.3d 885", "177 Wn.2d 804", "180 Wn.2d 566", "182 Wn.2d 342", "183 Wn.2d 1004", "183 Wn.2d 237", "184 Wn. App. 685", "184 Wn.2d 1013", "184 Wn.2d 509", "185 Wn. App. 426", "187 Wn. App. 748", "196 Wn. App. 1", "199 P.3d 417", "206 P.3d 310", "239 P.3d 1095", "275 P.3d 1141", "306 P.3d 920", "326 P.3d 713", "339 P.3d 478", "340 P.3d 849", "341 P.3d 291", "350 P.3d 647", "350 P.3d 681", "359 P.3d 771", "39 P.3d 961", "635 P.2d 730", "64 P.3d 606", "691 P.2d 163", "730 P.2d 45", "81 Wn. App. 403", "858 P.2d 494", "882 P.2d 173", "90 P.3d 659", "914 P.2d 750", "96 Wn.2d 443"]
+cites_cases: ["103 Wn.2d 52", "107 Wn.2d 388", "122 Wn.2d 397", "125 Wn.2d 129", "133 Wn. App. 723", "137 P.3d 78", "145 Wn.2d 483", "147 Wn. App. 807", "148 Wn.2d 887", "151 Wn.2d 568", "162 Wn.2d 210", "165 Wn.2d 706", "167 Wn. App. 740", "170 Wn.2d 43", "173 P.3d 885", "177 Wn.2d 804", "180 Wn.2d 566", "182 Wn.2d 342", "183 Wn.2d 1004", "183 Wn.2d 237", "184 Wn. App. 685", "184 Wn.2d 1013", "184 Wn.2d 509", "185 Wn. App. 426", "187 Wn. App. 748", "199 P.3d 417", "206 P.3d 310", "239 P.3d 1095", "275 P.3d 1141", "306 P.3d 920", "326 P.3d 713", "339 P.3d 478", "340 P.3d 849", "341 P.3d 291", "350 P.3d 647", "350 P.3d 681", "359 P.3d 771", "39 P.3d 961", "635 P.2d 730", "64 P.3d 606", "691 P.2d 163", "730 P.2d 45", "81 Wn. App. 403", "858 P.2d 494", "882 P.2d 173", "90 P.3d 659", "914 P.2d 750", "96 Wn.2d 443"]
 ---
 
 # Porter Law Center, LLC v. Department of Financial Institutions
