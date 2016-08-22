@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "72869-5-I"
 decided: "2016-08-22"
-citations: ["196 Wash. App. 191", "195 Wash. App. 1048"]
+citations: ["196 Wash. App. 191"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Donald Canfield, Appellant, v. Michelle Clark, Respondent."]
 source_url: "https://static.case.law/wash-app/196/cases/0191-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12461566
-cites_cases: ["100 Wn.2d 355", "107 Wn.2d 524", "134 Wn.2d 1013", "185 Wn. App. 505", "187 Wn.2d 1023", "196 Wn. App. 191", "265 P.2d 1051", "341 P.3d 363", "44 Wn.2d 183", "484 U.S. 815", "490 P.2d 101", "546 P.2d 81", "669 P.2d 1244", "730 P.2d 1299", "79 Wn.2d 816", "83 Wn. App. 125", "86 Wn.2d 439", "87 Wn. App. 579", "88 Wn. App. 398", "920 P.2d 619", "943 P.2d 350", "945 P.2d 208"]
+cites_cases: ["100 Wn.2d 355", "107 Wn.2d 524", "134 Wn.2d 1013", "185 Wn. App. 505", "187 Wn.2d 1023", "265 P.2d 1051", "341 P.3d 363", "44 Wn.2d 183", "484 U.S. 815", "490 P.2d 101", "546 P.2d 81", "669 P.2d 1244", "730 P.2d 1299", "79 Wn.2d 816", "83 Wn. App. 125", "86 Wn.2d 439", "87 Wn. App. 579", "88 Wn. App. 398", "920 P.2d 619", "943 P.2d 350", "945 P.2d 208"]
 ---
 
 # Canfield v. Clark
