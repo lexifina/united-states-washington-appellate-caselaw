@@ -1,0 +1,80 @@
+---
+court: "Washington Court of Appeals"
+docket: "73548-9-I; 73549-7-I; 73648-5-I; 73649-3-I"
+decided: "2016-09-06"
+citations: ["195 Wash. App. 763"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Verellen, C.J., and Appelwick, J., concur."]
+parties: ["Ocwen Loan Servicing, LLC, Appellant, v. Michael E. Bauman et al., Respondents."]
+source_url: "https://static.case.law/wash-app/195/cases/0763-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12454254
+cites_cases: ["105 Wn.2d 248", "112 Wn.2d 47", "117 Wash. 238", "117 Wash. 244", "160 P.3d 17", "160 Wn.2d 560", "181 Wn.2d 360", "181 Wn.2d 775", "186 Wn. App. 281", "200 P. 1092", "204 P. 180", "333 P.3d 395", "336 P.3d 1142", "345 P.3d 20", "446 P.2d 200", "645 P.2d 1088", "713 P.2d 728", "74 Wn.2d 585", "767 P.2d 1382", "97 Wn.2d 419"]
+---
+
+# Ocwen Loan Servicing, LLC v. Bauman
+
+## Majority (Leach, J.)
+
+[As amended by order of the Court of Appeals October 20, 2016.]
+Leach, J.
+¶1 Ocwen Loan Servicing LLC appeals two related cases that we consolidated. In each, the trial court dismissed, on summary judgment, Ocwen’s declaratory judgment action seeking to establish a right to redeem a property foreclosed on by the Cross Valley Water District. Michael and Rocio Bauman bought both at public auction. Based on a legal error in each order of sale, the trial court decided that equitable grounds existed to grant a redemption right but also concluded that Ocwen did not have standing to redeem either property. The Baumans cross appeal, contending that the trial court erred when it created an equitable right to redeem the properties.
+¶2 Because a statute grants postforeclosure rights to redeem, the trial court erred when it concluded that Ocwen had a longer equitable right to redeem the properties. The relevant statute provides only a one-year right to redeem, and Ocwen did not try to redeem during this time. Thus, for a different reason, the trial court did not err by dismissing Ocwen’s lawsuits on summary judgment. Because we resolve the case on this basis, we do not reach the other issues raised by Ocwen. We affirm.
+FACTS
+¶3 Patricia and Bruno Bonvicini and James L. Turner each borrowed money to buy property. On June 20,2008, the Bonvicinis purchased property located at 23030 105th Avenue SE in Woodinville. They financed their purchase with a loan from Evergreen Moneysource, secured by a deed of trust in favor of Mortgage Electronic Registration Systems Inc. (MERS). On November 9, 2009, Turner purchased property located at 6602 63rd Street SE in Snohomish, financing his purchase with a loan from Golf Savings Bank, secured by a deed of trust also in favor of MERS.
+¶4 Both the Bonvicinis and Turner failed to pay their water service charges. Cross Valley Water District filed lawsuits against the Bonvicinis and Turner to foreclose the water district’s statutory hen for delinquent water service charges. The trial court entered a judgment and order of sale for each property. It ordered each sold “to the highest and best bidder for cash as provided by RCW 84.64.080 and RCW 57.20.135.” Each judgment also stated that the property was subject to a two-year postsale right of redemption under RCW 35.50.270, a statute that governs foreclosures to collect local improvement assessments.
+¶5 On March 13, 2012, the Baumans purchased both properties at public auction. The water district delivered a quitclaim deed to the Baumans for each property “subject to the right of redemption within two years from the date of the sale pursuant to RCW 35.50.270.”
+¶6 Ocwen claims the right to enforce the deed of trust encumbering each property. It notified the Baumans of its intent to redeem the Bonvicini property on March 25, 2013, and of its intent to redeem the Turner property on May 8, 2013. And on March 11, 2014, Ocwen filed two lawsuits against the Baumans, claiming a right to redeem the properties under the Bonvicini and Turner deeds of trust.
+¶7 The Baumans moved for summary judgment after discovery. They contended that the trial court entering the foreclosure judgment had erroneously included the postsale redemption right under RCW 35.50.270 and that Ocwen lacked standing to redeem either property.
+¶8 The trial court decided that RCW 35.50.270 applied only to foreclosures to recoup local improvement assessments; it did not apply to these properties. But it concluded that because the trial court issued an order describing a right to redemption under the statute, it would be inequitable to deny that right. But the trial court also concluded that Ocwen lacked standing to exercise any redemption right for either property because it did not show that it had a qualifying interest by the relevant date, March 13, 2014. It dismissed both cases.
+¶9 Ocwen moved for reconsideration in both cases and supported the request with new evidence. The Baumans opposed each motion and asked that the trial court not consider the evidence Ocwen offered because it was available to Ocwen when it filed its response to the summary judgment motions. The trial court agreed and denied Ocwen’s motions for reconsideration. Ocwen appeals, and the Baumans cross appeal.
+STANDARD OF REVIEW
+¶10 This court reviews summary judgment rulings de novo, viewing all the facts and inferences in favor of the nonmoving party and finding summary judgment proper only if no genuine issue of material fact exists. This court reviews a trial court’s order granting equitable relief de novo as a question of law. We review statutory interpretation de novo.
+DISCUSSION
+¶11 We first address the Baumans’ cross appeal and consider whether the court erred when it created an equitable right to redeem the properties.
+¶12 At oral argument Ocwen, for the first time, contended that we should not consider this issue because the Baumans’ claim is an impermissible collateral attack on the two foreclosure judgments in the water district foreclosure lawsuits. Ocwen did not make this argument in its briefing filed with this court. Consistent with the general practice of Washington appellate courts, we decline to review this contention raised for the first time at oral argument.
+¶13 The trial court concluded that each order of sale and each deed conveying a property to the Baumans should not have described a redemption right under RCW 35.50.270 because that statute does not apply to a foreclosure to collect a water district’s service charges. But the trial court also decided that since the “[property was sold subject to the two year period of redemption,” under principles of equity, “language regarding redemption is binding on the Baumans.”
+¶14 The Baumans claim that a trial court cannot create an equitable redemption right when a statute provides a redemption right. The Baumans rely primarily on Schroeder v. City of Raymond. In that case, the Supreme Court held that when an owner of municipal bonds brought a foreclosure action under a statute permitting the lawsuit, “the court had no power to grant other than the statutory relief, hence the language of the decree which goes beyond what the statute directs is of no force or effect.” The Schroeder court based its conclusion on the fact that the foreclosure was “a purely statutory proceeding brought under the statute and controlled thereby.” Any language in the court decree going beyond the statutory relief had no force or effect.
+¶15 More recent cases have applied equitable principles to temper the rule that a redemption right must be exercised in strict compliance with the statute creating the right. In GESA Federal Credit Union v. Mutual Life Insurance Co. of New York, our Supreme Court considered whether a purchaser’s failure to file a statement of paid taxes, as required by a redemption statute, barred the purchaser from recovering those payments from a subsequent redemptioner. Because the redemptioner had received actual notice from the purchaser, the court applied the equitable principle of substantial compliance to excuse the failure to file. The court distinguished redemption statute provisions creating a substantive right from those establishing the procedure to perfect that right. It found the filing requirement to be a procedural step subject to a substantial compliance rule.
+¶16 Fidelity Mutual Savings Bank v. Mark illustrates the importance of the distinction between provisions creating substantive rights and those describing perfection procedures. The court refused to apply equitable principles to provide a redemption right to a judgment debtor’s assignee whose assignment did not comply with Washington’s real property statutes and thus did not convey the judgment debtor’s title. Without title, the assignee was not “a successor in interest” granted a statutory right to redeem. The court noted the harshness of its decision to deny equitable relief but characterized the requested relief as the granting of a substantive right and stated, “The rights established by the Legislature must remain exclusive if they are to remain reliable.” Thus, the trial court did not have the authority to create a redemption right.
+¶17 Next we consider whether Ocwen had a statutory right to redeem the properties. We interpret statutes to give effect to the legislative intent, looking first to the statute’s plain meaning and, where statutory language is unambiguous, giving effect to that plain language.
+¶18 Cross Valley filed its foreclosure lawsuits under RCW 57.08.081(4). This statute provides that in a water district foreclosure lawsuit the laws “shall control as in other civil actions.” This means that we look to the statutes providing for the sale of real property to satisfy a judgment to decide if Ocwen has redemption rights. Chapter 6.21 RCW contains the statutory provisions for a real property execution sale. RCW 6.21.080 applies to the sales in this case and provides for redemption rights as granted in chapter 6.23 RCW:
+A sale of a real property estate of less than a leasehold of two years unexpired term and a sale of a vendor’s interest in real property being sold under a real estate contract shall be absolute. In all other cases, real property shall be sold subject to redemption, as provided in chapter 6.23 RCW.
+(Emphasis added.) And RCW 6.23.010 grants qualifying parties, including successors in interest, redemption rights:
+(1) Real property sold subject to redemption, as provided in RCW 6.21.080, or any part thereof separately sold, may be redeemed by the following persons, or their successors in interest:
+(a) The judgment debtor, in the whole or any part of the property separately sold.
+(b) A creditor having a lien by judgment, decree, deed of trust, or mortgage, on any portion of the property, or any portion of any part thereof, separately sold, subsequent in priority to that on which the property was sold. The persons mentioned in this subsection are termed redemptioners.
+(2) As used in this chapter, the terms “judgment debtor,” “redemptioner,” and “purchaser” refer also to their respective successors in interest.
+Qualifying parties must redeem within one year after the foreclosure sale: “Unless redemption rights have been precluded pursuant to RCW 61.12.093 et seq., the judgment debtor or any redemptioner may redeem the property from the purchaser at any time ... within one year after the date of the sale.”
+¶19 Thus, Ocwen had one year to redeem each property. Because it took no step to redeem within this time, its redemption rights expired. The trial court did not err by dismissing Ocwen’s declaratory judgment lawsuits.
+¶20 The Baumans contend that Ocwen had no redemption rights. They correctly note that each order of sale authorized the water district’s treasurer to sell each property as provided in RCW 84.64.080 and RCW 57.20.135. They claim that the water district has two options to foreclose its statutory lien: (1) the civil lawsuit authorized by RCW 57.08.081(4) and (2) a sale by its treasurer in the same manner as a property tax foreclosure sale authorized by chapter 84.64 RCW.
+¶21 The Baumans begin their analysis with RCW 57.08.005(22). This statute authorizes a water district to exercise any powers “granted to cities and counties with respect to the acquisition, construction, maintenance, operation of, and fixing rates and charges for waterworks and systems of sewerage and drainage.” Former RCW 36.94.150 (1997) grants a county a lien for unpaid water service charges and provides for foreclosure of that lien “in the same manner as the foreclosure of real property tax liens.” Thus, a water district can use this alternate tax foreclosure process. In this tax foreclosure process, only minors and persons adjudicated legally incompetent have redemption rights. Thus, Ocwen had no redemption rights.
+¶22 The Baumans’ argument does not persuade us. RCW 57.08.005(22) does not expressly grant any lien or foreclosure rights. We see no reason to imply a grant by this statute of lien and foreclosure rights with different procedures when another statute, RCW 57.08.081(4), expressly addresses the subject. To do so would violate the general rule that a specific statute controls over a general statute. Additionally, the exercise of these implied powers could produce harsh results for which the Baumans have shown no legislative intent.
+¶23 We conclude that the specific language of RCW 57.08.081(4) authorizing water districts to “bring suit in foreclosure by civil action” provides Cross Valley’s only statutory authority to foreclose on the properties.
+CONCLUSION
+¶24 Because a trial court may not provide equitable rights expanding a statutory grant of the substantive right to redeem property, the trial court erred when it concluded that Ocwen had an equitable right to redeem the properties within two years. Ocwen had only the one-year statutory redemption right granted by RCW 6.23.020(l)(b). Because Ocwen did not attempt to redeem the properties within one year, the trial court properly dismissed Ocwen’s declaratory judgment lawsuits. While this was not the basis for the trial court’s decision, we may sustain the trial court on any basis the record supports. We affirm.
+Verellen, C.J., and Appelwick, J., concur.
+Reconsideration denied October 20, 2016.
+Lyons v. U.S. Bank Nat'l Ass’n, 181 Wn.2d 775, 783, 336 P.3d 1142 (2014).
+Bank of Am., NA v. Prestance Corp., 160 Wn.2d 560, 564, 160 P.3d 17 (2007).
+P.H.T.S., LLC v. Vantage Capital, LLC, 186 Wn. App. 281, 287, 345 P.3d 20 (2015).
+See RAP 2.5(a); Anderson v. Dassault, 181 Wn.2d 360, 373, 333 P.3d 395 (2014) (citing RAP 12.1).
+117 Wash. 238, 200 P. 1092 (1921), adhered to on reh’g, 117 Wash. 244, 204 P. 180 (1922).
+Schroeder, 117 Wash, at 243.
+Schroeder, 117 Wash, at 242.
+Schroeder, 117 Wash, at 243.
+Fid. Mut. Sav. Bank v. Mark, 112 Wn.2d 47, 54, 767 P.2d 1382 (1989).
+105 Wn.2d 248, 251, 713 P.2d 728 (1986).
+GESA Fed. Credit Union, 105 Wn.2d at 254-55.
+112 Wn.2d 47, 767 P.2d 1382 (1989).
+Mark, 112 Wn.2d at 53.
+Mark, 112 Wn.2d at 55.
+P.H.T.S., 186 Wn. App. at 290.
+The district may, at any time after the connection charges or rates and charges for services supplied or available and penalties are delinquent for a period of sixty days, bring suit in foreclosure by civil action in the superior court of the county in which the real property is located. The court may allow, in addition to the costs and disbursements provided by statute, attorneys’ fees, title search and report costs, and expenses as it adjudges reasonable. The action shall be in rem, and may be brought in the name of the district against an individual or against all of those who are delinquent in one action. The laws and rules of the court shall control as in other civil actions.
+RCW 57.08.081(4).
+RCW 6.23.020(l)(b).
+Former RCW 84.64.070 (2002).
+Johnson v. Cent. Valley Sch. Dist. No. 356, 97 Wn.2d 419, 428, 645 P.2d 1088 (1982).
+Nw. Collectors, Inc. v. Enders, 74 Wn.2d 585, 595, 446 P.2d 200 (1968).
