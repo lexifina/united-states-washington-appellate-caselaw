@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48045-0-II"
 decided: "2016-09-20"
-citations: ["197 Wash. App. 239", "196 Wash. App. 1003"]
+citations: ["197 Wash. App. 239"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Loretta Lesure, Appellant, v. Farmers Insurance Company of Washington
 source_url: "https://static.case.law/wash-app/197/cases/0239-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453156
-cites_cases: ["110 P.3d 733", "112 Wn.2d 621", "119 Wn.2d 724", "125 Wn.2d 164", "131 Wn.2d 1018", "134 Wn.2d 413", "142 Wn.2d 654", "15 P.3d 115", "154 Wn.2d 165", "160 Wn. App. 365", "161 Wn.2d 43", "164 P.3d 454", "169 Wn.2d 687", "17 Cal. App. 4th 1112", "174 Wn.2d 501", "188 Wn.2d 1001", "197 Wn. App. 239", "2015 WL 4094350", "21 Cal. Rptr. 2d 871", "238 P.3d 1163", "248 P.3d 111", "276 P.3d 300", "773 P.2d 413", "79 Wn. App. 323", "837 P.2d 1000", "84 Wn. App. 245", "883 P.2d 308", "901 P.2d 317", "928 P.2d 1127", "951 P.2d 250"]
+cites_cases: ["110 P.3d 733", "112 Wn.2d 621", "119 Wn.2d 724", "125 Wn.2d 164", "131 Wn.2d 1018", "134 Wn.2d 413", "142 Wn.2d 654", "15 P.3d 115", "154 Wn.2d 165", "160 Wn. App. 365", "161 Wn.2d 43", "164 P.3d 454", "169 Wn.2d 687", "17 Cal. App. 4th 1112", "174 Wn.2d 501", "188 Wn.2d 1001", "2015 WL 4094350", "21 Cal. Rptr. 2d 871", "238 P.3d 1163", "248 P.3d 111", "276 P.3d 300", "773 P.2d 413", "79 Wn. App. 323", "837 P.2d 1000", "84 Wn. App. 245", "883 P.2d 308", "901 P.2d 317", "928 P.2d 1127", "951 P.2d 250"]
 ---
 
 # Lesure v. Farmers Insurance Co.
