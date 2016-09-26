@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73827-5-I"
 decided: "2016-09-26"
-citations: ["196 Wash. App. 398", "196 Wash. App. 1009"]
+citations: ["196 Wash. App. 398"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["D. Ryan Patrick et al., Appellants, v. Wells Fargo Bank, NA, et al., 
 source_url: "https://static.case.law/wash-app/196/cases/0398-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12461578
-cites_cases: ["1 P.3d 1124", "105 Wn.2d 778", "112 Wn.2d 127", "128 Wn.2d 164", "141 Wn.2d 29", "146 Wn. App. 157", "149 Wn.2d 214", "162 Wn. App. 250", "162 Wn.2d 59", "166 Wn.2d 27", "170 P.3d 10", "171 Wn.2d 260", "174 Wn.2d 560", "175 Wn.2d 83", "176 Wn.2d 771", "177 Wn.2d 94", "179 Wn.2d 301", "181 Wn.2d 412", "181 Wn.2d 775", "184 Wn.2d 1036", "187 Wn.2d 1022", "189 P.3d 233", "190 Wn. App. 58", "196 Wn. App. 398", "2009 U.S. Dist. LEXIS 104096", "2009 WL 3757380", "204 P.3d 885", "254 P.3d 194", "259 P.3d 129", "276 P.3d 1277", "285 P.3d 34", "295 P.3d 1179", "297 P.3d 677", "313 P.3d 1171", "334 P.3d 529", "336 P.3d 1142", "358 P.3d 1204", "67 P.3d 1061", "673 F.3d 547", "70 Wn. App. 18", "719 P.2d 531", "769 P.2d 298", "81 Wn. App. 148", "851 P.2d 689", "905 P.2d 355", "913 P.2d 413"]
+cites_cases: ["1 P.3d 1124", "105 Wn.2d 778", "112 Wn.2d 127", "128 Wn.2d 164", "141 Wn.2d 29", "146 Wn. App. 157", "149 Wn.2d 214", "162 Wn. App. 250", "162 Wn.2d 59", "166 Wn.2d 27", "170 P.3d 10", "171 Wn.2d 260", "174 Wn.2d 560", "175 Wn.2d 83", "176 Wn.2d 771", "177 Wn.2d 94", "179 Wn.2d 301", "181 Wn.2d 412", "181 Wn.2d 775", "184 Wn.2d 1036", "187 Wn.2d 1022", "189 P.3d 233", "190 Wn. App. 58", "2009 U.S. Dist. LEXIS 104096", "2009 WL 3757380", "204 P.3d 885", "254 P.3d 194", "259 P.3d 129", "276 P.3d 1277", "285 P.3d 34", "295 P.3d 1179", "297 P.3d 677", "313 P.3d 1171", "334 P.3d 529", "336 P.3d 1142", "358 P.3d 1204", "67 P.3d 1061", "673 F.3d 547", "70 Wn. App. 18", "719 P.2d 531", "769 P.2d 298", "81 Wn. App. 148", "851 P.2d 689", "905 P.2d 355", "913 P.2d 413"]
 ---
 
 # Patrick v. Wells Fargo Bank, NA
