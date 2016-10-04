@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47328-3-II"
 decided: "2016-10-04"
-citations: ["196 Wash. App. 592", "196 Wash. App. 1022"]
+citations: ["196 Wash. App. 592"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Troy Belcher."]
 source_url: "https://static.case.law/wash-app/196/cases/0592-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12461591
-cites_cases: ["104 Wn.2d 412", "106 Wn. App. 1", "122 Wn.2d 1", "123 Wn. App. 841", "132 P.3d 714", "132 Wn.2d 484", "133 P.3d 936", "135 S. Ct. 139", "138 Wn.2d 70", "145 Wn. App. 728", "147 P.3d 982", "149 Wn. App. 66", "149 Wn.2d 724", "154 Wn. App. 116", "155 P.3d 125", "156 Wn.2d 795", "157 Wn.2d 1", "158 Wn.2d 712", "159 Wn. App. 374", "159 Wn.2d 918", "163 Wn.2d 501", "163 Wn.2d 534", "164 Wn. App. 377", "167 Wn.2d 180", "170 Wn.2d 302", "173 Wn. App. 1021", "174 Wn. App. 553", "174 Wn.2d 369", "179 Wn.2d 534", "180 Wn.2d 312", "181 Wn.2d 102", "182 P.3d 426", "182 P.3d 951", "185 Wn.2d 79", "187 P.3d 803", "187 Wn.2d 1031", "196 Wn. App. 592", "20 P.3d 1022", "201 P.3d 1078", "2013 WL 634536", "217 P.3d 1159", "225 P.3d 1028", "241 P.3d 1234", "246 P.3d 550", "263 P.3d 1276", "275 P.3d 1092", "28 Cardozo L. Rev. 623", "299 P.3d 663", "315 P.3d 1090", "330 P.3d 182", "330 P.3d 774", "368 P.3d 162", "425 P.2d 902", "441 U.S. 418", "481 U.S. 739", "504 U.S. 71", "521 U.S. 346", "534 U.S. 407", "543 U.S. 551", "560 U.S. 48", "567 U.S. 460", "618 P.2d 99", "70 Wn.2d 947", "705 P.2d 1182", "72 P.3d 708", "857 P.2d 989", "939 P.2d 691", "94 Wn.2d 634", "95 L. Ed. 2d 697", "980 P.2d 1204", "99 P.3d 418"]
+cites_cases: ["104 Wn.2d 412", "106 Wn. App. 1", "122 Wn.2d 1", "123 Wn. App. 841", "132 P.3d 714", "132 Wn.2d 484", "133 P.3d 936", "135 S. Ct. 139", "138 Wn.2d 70", "145 Wn. App. 728", "147 P.3d 982", "149 Wn. App. 66", "149 Wn.2d 724", "154 Wn. App. 116", "155 P.3d 125", "156 Wn.2d 795", "157 Wn.2d 1", "158 Wn.2d 712", "159 Wn. App. 374", "159 Wn.2d 918", "163 Wn.2d 501", "163 Wn.2d 534", "164 Wn. App. 377", "167 Wn.2d 180", "170 Wn.2d 302", "173 Wn. App. 1021", "174 Wn. App. 553", "174 Wn.2d 369", "179 Wn.2d 534", "180 Wn.2d 312", "181 Wn.2d 102", "182 P.3d 426", "182 P.3d 951", "185 Wn.2d 79", "187 P.3d 803", "187 Wn.2d 1031", "20 P.3d 1022", "201 P.3d 1078", "2013 WL 634536", "217 P.3d 1159", "225 P.3d 1028", "241 P.3d 1234", "246 P.3d 550", "263 P.3d 1276", "275 P.3d 1092", "28 Cardozo L. Rev. 623", "299 P.3d 663", "315 P.3d 1090", "330 P.3d 182", "330 P.3d 774", "368 P.3d 162", "425 P.2d 902", "441 U.S. 418", "481 U.S. 739", "504 U.S. 71", "521 U.S. 346", "534 U.S. 407", "543 U.S. 551", "560 U.S. 48", "567 U.S. 460", "618 P.2d 99", "70 Wn.2d 947", "705 P.2d 1182", "72 P.3d 708", "857 P.2d 989", "939 P.2d 691", "94 Wn.2d 634", "95 L. Ed. 2d 697", "980 P.2d 1204", "99 P.3d 418"]
 ---
 
 # In re the Detention of Belcher
