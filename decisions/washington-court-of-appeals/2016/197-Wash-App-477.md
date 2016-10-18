@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47013-6-II"
 decided: "2016-10-18"
-citations: ["197 Wash. App. 477", "196 Wash. App. 1032"]
+citations: ["197 Wash. App. 477"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Estate of Donald C. Muller. Kriss Muller, Respon
 source_url: "https://static.case.law/wash-app/197/cases/0477-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453168
-cites_cases: ["133 Wn. App. 130", "135 P.3d 530", "142 Wn. App. 899", "145 Wn. App. 249", "167 Wn. App. 221", "167 Wn. App. 758", "167 Wn. App. 789", "173 Wn. App. 366", "176 P.3d 560", "177 Wn. App. 559", "185 Wn.2d 1", "187 P.3d 758", "197 Wn. App. 477", "272 P.3d 289", "274 P.3d 1075", "275 P.3d 339", "293 P.3d 1275", "312 P.3d 711", "367 P.3d 580"]
+cites_cases: ["133 Wn. App. 130", "135 P.3d 530", "142 Wn. App. 899", "145 Wn. App. 249", "167 Wn. App. 221", "167 Wn. App. 758", "167 Wn. App. 789", "173 Wn. App. 366", "176 P.3d 560", "177 Wn. App. 559", "185 Wn.2d 1", "187 P.3d 758", "272 P.3d 289", "274 P.3d 1075", "275 P.3d 339", "293 P.3d 1275", "312 P.3d 711", "367 P.3d 580"]
 ---
 
 # Muller v. Petersen
