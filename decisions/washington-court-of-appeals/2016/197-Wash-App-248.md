@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "74844-1-I"
 decided: "2016-11-14"
-citations: ["197 Wash. App. 248", "196 Wash. App. 1059"]
+citations: ["197 Wash. App. 248"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Darrell de Tienne et al., Appellants, v. The Shorelines Hearings Boar
 source_url: "https://static.case.law/wash-app/197/cases/0248-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12453157
-cites_cases: ["11 P.3d 726", "125 Wn.2d 196", "127 Wn.2d 595", "131 P.3d 326", "132 Wn. App. 239", "133 Wn. App. 503", "137 P.3d 31", "142 Wn.2d 68", "149 Wn. App. 444", "151 Wn.2d 568", "153 Wn. App. 57", "162 Wn.2d 210", "172 Wn.2d 144", "173 P.3d 885", "182 Wn. App. 241", "182 Wn.2d 55", "182 Wn.2d 574", "183 Wn.2d 1004", "185 Wn. App. 426", "197 Wn. App. 248", "2007 WL 1201596", "2008 WL 5510444", "2012 WL 3577481", "2013 WL 5676901", "204 P.3d 928", "218 P.3d 211", "256 P.3d 1193", "327 P.3d 1309", "340 P.3d 191", "341 P.3d 291", "344 P.3d 199", "552 P.2d 1038", "592 P.2d 1108", "613 P.2d 115", "87 Wn.2d 280", "884 P.2d 910", "90 P.3d 659", "903 P.2d 433", "91 Wn.2d 721", "93 Wn.2d 742"]
+cites_cases: ["11 P.3d 726", "125 Wn.2d 196", "127 Wn.2d 595", "131 P.3d 326", "132 Wn. App. 239", "133 Wn. App. 503", "137 P.3d 31", "142 Wn.2d 68", "149 Wn. App. 444", "151 Wn.2d 568", "153 Wn. App. 57", "162 Wn.2d 210", "172 Wn.2d 144", "173 P.3d 885", "182 Wn. App. 241", "182 Wn.2d 55", "182 Wn.2d 574", "183 Wn.2d 1004", "185 Wn. App. 426", "2007 WL 1201596", "2008 WL 5510444", "2012 WL 3577481", "2013 WL 5676901", "204 P.3d 928", "218 P.3d 211", "256 P.3d 1193", "327 P.3d 1309", "340 P.3d 191", "341 P.3d 291", "344 P.3d 199", "552 P.2d 1038", "592 P.2d 1108", "613 P.2d 115", "87 Wn.2d 280", "884 P.2d 910", "90 P.3d 659", "903 P.2d 433", "91 Wn.2d 721", "93 Wn.2d 742"]
 ---
 
 # de Tienne v. Shorelines Hearings Board
