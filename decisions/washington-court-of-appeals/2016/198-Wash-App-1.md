@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "73206-4-I"
 decided: "2016-12-27"
-citations: ["198 Wash. App. 1", "197 Wash. App. 1020"]
+citations: ["198 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Ayanna Brown, Individually and as Personal Representative, et al., Ap
 source_url: "https://static.case.law/wash-app/198/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12462327
-cites_cases: ["101 Wn.2d 226", "103 Wn.2d 344", "112 Wn.2d 193", "118 Wn.2d 195", "118 Wn.2d 737", "118 Wn.2d 753", "119 P.3d 825", "119 Wn.2d 91", "138 Wn.2d 265", "150 Wn. App. 345", "155 Wn.2d 306", "161 Wn. App. 265", "161 Wn. App. 474", "170 Wn.2d 810", "172 Wn.2d 702", "186 Wn.2d 573", "186 Wn.2d 716", "198 Wn. App. 1", "208 P.3d 566", "246 P.3d 182", "254 P.3d 835", "256 P.3d 368", "261 P.3d 119", "380 P.3d 468", "381 P.3d 32", "39 Wn. App. 188", "677 P.2d 166", "692 P.2d 867", "693 P.2d 687", "770 P.2d 1027", "822 P.2d 243", "826 P.2d 200", "826 P.2d 690", "829 P.2d 746", "979 P.2d 400"]
+cites_cases: ["101 Wn.2d 226", "103 Wn.2d 344", "112 Wn.2d 193", "118 Wn.2d 195", "118 Wn.2d 737", "118 Wn.2d 753", "119 P.3d 825", "119 Wn.2d 91", "138 Wn.2d 265", "150 Wn. App. 345", "155 Wn.2d 306", "161 Wn. App. 265", "161 Wn. App. 474", "170 Wn.2d 810", "172 Wn.2d 702", "186 Wn.2d 573", "186 Wn.2d 716", "208 P.3d 566", "246 P.3d 182", "254 P.3d 835", "256 P.3d 368", "261 P.3d 119", "380 P.3d 468", "381 P.3d 32", "39 Wn. App. 188", "677 P.2d 166", "692 P.2d 867", "693 P.2d 687", "770 P.2d 1027", "822 P.2d 243", "826 P.2d 200", "826 P.2d 690", "829 P.2d 746", "979 P.2d 400"]
 ---
 
 # Brown v. Department of Corrections
