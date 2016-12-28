@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48194-4-II"
 decided: "2016-12-28"
-citations: ["198 Wash. App. 190", "197 Wash. App. 1025"]
+citations: ["198 Wash. App. 190"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Parenting and Support of L.H. et al. Maresa Hard
 source_url: "https://static.case.law/wash-app/198/cases/0190-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12462340
-cites_cases: ["106 P.3d 768", "126 Wn. App. 1", "133 Wn.2d 39", "136 Wn.2d 800", "175 Wn.2d 23", "198 Wn. App. 190", "283 P.3d 546", "940 P.2d 1362", "966 P.2d 1247"]
+cites_cases: ["106 P.3d 768", "126 Wn. App. 1", "133 Wn.2d 39", "136 Wn.2d 800", "175 Wn.2d 23", "283 P.3d 546", "940 P.2d 1362", "966 P.2d 1247"]
 ---
 
 # Harden v. Hester
