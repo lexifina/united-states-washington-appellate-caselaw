@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47402-6-II"
 decided: "2016-12-28"
-citations: ["198 Wash. App. 16", "197 Wash. App. 1024"]
+citations: ["198 Wash. App. 16"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Parker Estates Homeowners Association, Appellant, v. William Pattison
 source_url: "https://static.case.law/wash-app/198/cases/0016-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12462328
-cites_cases: ["112 P.3d 544", "113 Wn. App. 306", "117 P.3d 1141", "118 Wn. App. 117", "118 Wn.2d 801", "127 Wn. App. 614", "128 Ariz. 318", "128 Wn. App. 794", "163 Wn. App. 449", "166 Wn. App. 1", "171 Wn. App. 1027", "184 Wn. App. 593", "186 Wn.2d 1018", "193 Wn. App. 314", "198 Wn. App. 16", "2012 WL 5397988", "266 P.3d 881", "269 P.3d 1049", "316 P.2d 473", "337 P.3d 1131", "353 P.2d 950", "376 P.3d 1127", "383 P.3d 1023", "51 Wn.2d 108", "54 P.3d 665", "56 Wn.2d 465", "62 Wn. App. 408", "73 Wn. App. 1", "75 P.3d 583", "80 Wn. App. 41", "814 P.2d 243", "828 P.2d 549", "866 P.2d 695", "906 P.2d 962", "95 Wn. App. 339", "979 P.2d 854"]
+cites_cases: ["112 P.3d 544", "113 Wn. App. 306", "117 P.3d 1141", "118 Wn. App. 117", "118 Wn.2d 801", "127 Wn. App. 614", "128 Ariz. 318", "128 Wn. App. 794", "163 Wn. App. 449", "166 Wn. App. 1", "171 Wn. App. 1027", "184 Wn. App. 593", "186 Wn.2d 1018", "193 Wn. App. 314", "2012 WL 5397988", "266 P.3d 881", "269 P.3d 1049", "316 P.2d 473", "337 P.3d 1131", "353 P.2d 950", "376 P.3d 1127", "383 P.3d 1023", "51 Wn.2d 108", "54 P.3d 665", "56 Wn.2d 465", "62 Wn. App. 408", "73 Wn. App. 1", "75 P.3d 583", "80 Wn. App. 41", "814 P.2d 243", "828 P.2d 549", "866 P.2d 695", "906 P.2d 962", "95 Wn. App. 339", "979 P.2d 854"]
 ---
 
 # Parker Estates Homeowners Ass'n v. Pattison
