@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "47414-0-II"
 decided: "2017-01-18"
-citations: ["198 Wash. App. 196", "197 Wash. App. 1039"]
+citations: ["198 Wash. App. 196"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["In the Matter of the Detention of Rick A. Monroe."]
 source_url: "https://static.case.law/wash-app/198/cases/0196-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12462341
-cites_cases: ["101 Wn. App. 544", "114 P.3d 658", "128 Wn. App. 21", "132 P.3d 714", "144 Wn. App. 609", "147 Wn.2d 620", "150 P.3d 86", "156 Wn.2d 795", "158 Wn. App. 158", "159 Wn.2d 357", "167 Wn.2d 113", "168 Wn.2d 382", "176 Wn. App. 821", "184 P.3d 651", "184 Wn.2d 340", "198 Wn. App. 196", "216 P.3d 1015", "229 P.3d 678", "241 P.3d 800", "315 P.3d 532", "358 P.3d 394", "4 P.3d 174", "466 U.S. 668", "553 P.2d 1328", "56 P.3d 550", "87 Wn.2d 374"]
+cites_cases: ["101 Wn. App. 544", "114 P.3d 658", "128 Wn. App. 21", "132 P.3d 714", "144 Wn. App. 609", "147 Wn.2d 620", "150 P.3d 86", "156 Wn.2d 795", "158 Wn. App. 158", "159 Wn.2d 357", "167 Wn.2d 113", "168 Wn.2d 382", "176 Wn. App. 821", "184 P.3d 651", "184 Wn.2d 340", "216 P.3d 1015", "229 P.3d 678", "241 P.3d 800", "315 P.3d 532", "358 P.3d 394", "4 P.3d 174", "466 U.S. 668", "553 P.2d 1328", "56 P.3d 550", "87 Wn.2d 374"]
 ---
 
 # In re the Detention of Monroe
