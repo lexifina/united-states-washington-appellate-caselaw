@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "76038-6-I"
 decided: "2017-01-23"
-citations: ["198 Wash. App. 34", "197 Wash. App. 1047"]
+citations: ["198 Wash. App. 34"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Hollis Blockman, Appellant."]
 source_url: "https://static.case.law/wash-app/198/cases/0034-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12462329
-cites_cases: ["109 Wn.2d 222", "113 Wn. App. 954", "136 Wn.2d 103", "166 Wn.2d 242", "180 Wn.2d 664", "185 Wn.2d 1034", "188 Wn.2d 1014", "192 Wn. App. 380", "198 Wn. App. 34", "207 P.3d 1266", "248 F.3d 506", "294 U.S. App. D.C. 393", "327 P.3d 660", "364 F.3d 578", "367 P.3d 612", "392 U.S. 1", "463 U.S. 1032", "466 U.S. 668", "494 U.S. 325", "534 U.S. 981", "543 U.S. 955", "55 P.3d 691", "743 P.2d 816", "88 Wn. App. 905", "946 P.2d 1229", "959 F.2d 991", "960 P.2d 927"]
+cites_cases: ["109 Wn.2d 222", "113 Wn. App. 954", "136 Wn.2d 103", "166 Wn.2d 242", "180 Wn.2d 664", "185 Wn.2d 1034", "188 Wn.2d 1014", "192 Wn. App. 380", "207 P.3d 1266", "248 F.3d 506", "294 U.S. App. D.C. 393", "327 P.3d 660", "364 F.3d 578", "367 P.3d 612", "392 U.S. 1", "463 U.S. 1032", "466 U.S. 668", "494 U.S. 325", "534 U.S. 981", "543 U.S. 955", "55 P.3d 691", "743 P.2d 816", "88 Wn. App. 905", "946 P.2d 1229", "959 F.2d 991", "960 P.2d 927"]
 ---
 
 # State v. Blockman
