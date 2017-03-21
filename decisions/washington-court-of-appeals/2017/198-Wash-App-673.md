@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48187-1-II"
 decided: "2017-03-21"
-citations: ["198 Wash. App. 673", "198 Wash. App. 1020"]
+citations: ["198 Wash. App. 673"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["The State of Washington, Respondent, v. Erik G. Petterson, Appellant.
 source_url: "https://static.case.law/wash-app/198/cases/0673-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12462366
-cites_cases: ["104 Wn.2d 844", "110 P.3d 764", "113 Wn.2d 83", "122 Wn.2d 738", "126 Wn. App. 891", "145 Wn. App. 678", "147 P.3d 991", "149 Wn.2d 444", "159 Wn.2d 65", "164 Wn. App. 76", "169 Wn.2d 782", "172 Wn.2d 236", "172 Wn.2d 831", "176 Wn. App. 96", "180 Wn. App. 308", "186 P.3d 1182", "189 Wn.2d 1001", "198 Wn. App. 673", "239 P.3d 1059", "257 P.3d 616", "261 P.3d 680", "263 P.3d 585", "308 P.3d 755", "320 P.3d 723", "69 P.3d 318", "710 P.2d 196", "776 P.2d 132", "863 P.2d 535"]
+cites_cases: ["104 Wn.2d 844", "110 P.3d 764", "113 Wn.2d 83", "122 Wn.2d 738", "126 Wn. App. 891", "145 Wn. App. 678", "147 P.3d 991", "149 Wn.2d 444", "159 Wn.2d 65", "164 Wn. App. 76", "169 Wn.2d 782", "172 Wn.2d 236", "172 Wn.2d 831", "176 Wn. App. 96", "180 Wn. App. 308", "186 P.3d 1182", "189 Wn.2d 1001", "239 P.3d 1059", "257 P.3d 616", "261 P.3d 680", "263 P.3d 585", "308 P.3d 755", "320 P.3d 723", "69 P.3d 318", "710 P.2d 196", "776 P.2d 132", "863 P.2d 535"]
 ---
 
 # State v. Petterson
