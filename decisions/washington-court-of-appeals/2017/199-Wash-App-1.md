@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48443-9-II"
 decided: "2017-03-28"
-citations: ["199 Wash. App. 1", "198 Wash. App. 1027"]
+citations: ["199 Wash. App. 1"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["Margaret M. House, Appellant, v. The Department of Labor and Industri
 source_url: "https://static.case.law/wash-app/199/cases/0001-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12452471
-cites_cases: ["139 Wn. App. 677", "142 Wn. App. 655", "142 Wn.2d 801", "151 Wn. App. 174", "153 P.3d 839", "159 Wn.2d 752", "16 P.3d 583", "161 Wn. App. 286", "162 P.3d 450", "167 Wn.2d 1015", "169 Wn.2d 81", "175 P.3d 1117", "199 Wn. App. 1", "210 P.3d 355", "233 P.3d 853", "253 P.3d 430", "57 Wn. App. 751", "790 P.2d 201"]
+cites_cases: ["139 Wn. App. 677", "142 Wn. App. 655", "142 Wn.2d 801", "151 Wn. App. 174", "153 P.3d 839", "159 Wn.2d 752", "16 P.3d 583", "161 Wn. App. 286", "162 P.3d 450", "167 Wn.2d 1015", "169 Wn.2d 81", "175 P.3d 1117", "210 P.3d 355", "233 P.3d 853", "253 P.3d 430", "57 Wn. App. 751", "790 P.2d 201"]
 ---
 
 # House v. Department of Labor & Industries
