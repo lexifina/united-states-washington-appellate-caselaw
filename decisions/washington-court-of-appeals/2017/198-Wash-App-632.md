@@ -1,0 +1,37 @@
+---
+court: "Washington Court of Appeals"
+docket: "34173-9-III"
+decided: "2017-04-11"
+citations: ["198 Wash. App. 632"]
+reporter: "wash-app"
+precedential_status: "published"
+precedential_note: "printed in a reporter; CAP records no other status"
+judges: ["Lawrence-Berrey, A.C.J., and Siddoway, J., concur."]
+parties: ["The State of Washington, Respondent, v. Patrick Gale Wilson, Appellant."]
+source_url: "https://static.case.law/wash-app/198/cases/0632-01.json"
+source: "Caselaw Access Project (Harvard Law School Library), CC0"
+cap_id: 12462363
+cites_cases: ["131 Wn.2d 230", "146 Wn. App. 24", "152 Wn. App. 514", "182 Wn.2d 827", "189 P.3d 811", "195 Wn. App. 849", "216 P.3d 1097", "344 P.3d 680", "381 P.3d 1223", "930 P.2d 1213", "98 Wn. App. 342", "989 P.2d 583"]
+---
+
+# State v. Wilson
+
+## Majority (Pennell, J.)
+
+Pennell, J.
+¶1 Patrick Wilson filed a motion under RCW 10.01.160(4), seeking remission of the legal financial obligations (LFOs) imposed on him for a prior conviction. The superior court denied the motion, reasoning the proper time for filing it is after Mr. Wilson is released from prison. While we disagree with the superior court’s contention that Mr. Wilson must wait until release from prison to petition for remission, we nevertheless affirm.
+¶2 Washington law allows that a petition to remit LFOs be made at any time. That means incarcerated persons are not barred from seeking relief. However, a claim for remission based on the defendant’s economic circumstances is not ripe until the State initiates collection. Mandatory deductions by the Department of Corrections do not constitute collection. Because Mr. Wilson did not allege a justiciable claim for remission, the superior court correctly denied his motion.
+FACTS
+¶3 In November 2011, Mr. Wilson was convicted of first degree rape of a child. He received an indeterminate sentence of 136 months to life as well as $15,548.50 in LFOs. Mr. Wilson’s judgment and sentence orders him to pay up to $50.00 per month from any income earned while in the custody of the Department of Corrections.
+¶4 In January 2016, while still incarcerated, Mr. Wilson filed a motion to remit his LFOs under RCW 10.01.160(4). He alleged payment of LFOs created a financial hardship on both him and his family. The superior court denied Mr. Wilson’s motion, ruling the proper time for Mr. Wilson to petition to remit his LFOs is after he is released from prison. Mr. Wilson appeals.
+ANALYSIS
+¶5 Under RCW 10.01.160(4), a defendant who has been ordered to pay LFOs and who is not in contumacious default may petition for remission of costs “at any time.” The statute empowers trial judges to remit all or part of the amounts due if it appears payment “will impose manifest hardship on the defendant or the defendant’s immediate family.” RCW 10.01.160(4). Because a petition for remission can be renewed at any time, a superior court’s order denying a petition is not a final order subject to a right of appeal. State v. Smits, 152 Wn. App. 514, 523-24, 216 P.3d 1097 (2009). Nevertheless, discretionary review remains possible. State v. Shirts, 195 Wn. App. 849, 381 P.3d 1223 (2016).
+¶6 Mr. Wilson has not filed a motion for discretionary review of the superior court’s order. However, the ends of justice and conservation of judicial resources would best be served by addressing Mr. Wilson’s claims on the merits at this time, rather than requiring him to file a new motion for remission and then seek discretionary review. See RAP 1.2(c) (“The appellate court may waive or alter the provisions of any of these rules in order to serve the ends of justice.”). We therefore construe Mr. Wilson’s appeal as one requesting discretionary relief and grant review sua sponte.
+¶7 Historically, our courts have considered remission requests solely on the basis of a petitioner’s claim of economic hardship. Because an individual’s economic circumstances can change, the Washington Supreme Court has directed us that the time to consider an individual’s economic circumstances is when the State seeks collection of outstanding LFOs and sanctions for nonpayment. State v. Blank, 131 Wn.2d 230, 241-42, 930 P.2d 1213 (1997). Mandatory deductions from an inmate’s wages by the Department of Corrections are not considered a collection action. State v. Crook, 146 Wn. App. 24, 27-28, 189 P.3d 811 (2008). Thus, remission petitions have not historically been considered ripe for review until an inmate is out of custody and the State initiates collection. State v. Mahone, 98 Wn. App. 342, 348, 989 P.2d 583 (1999). Only then can an individual be considered an aggrieved party with a right to protest the superior court’s refusal to consider a petition for remission.
+¶8 The long-standing assumptions about LFOs were called into question in State v. Blazina, 182 Wn.2d 827, 344 P.3d 680 (2015). Blazina addressed a trial judge’s initial decision of whether to impose LFOs. The court rejected the argument that a challenge to LFOs cannot be made until the State initiates enforcement. Id. at 832 n.l.Blazina took a broad view of the hardships created by LFOs. The court recognized that the mere existence of an LFO order can impair an individual’s efforts at rehabilitation and community reentry. Id. at 837.
+¶9 Recognizing this aspect of Blazina, Division Two of our court considered Blazina’s impact on petitions for remission of LFOs by incarcerated persons in Shirts. Given the broad impact of LFOs recognized in Blazina, Shirts held that the rule from Mahone, limiting the right to consideration of a petition for remission to individuals who have been economically harmed by enforcement, cannot be reconciled with Blazina. Thus, Shirts held Mahone is no longer good law after Blazina. Shirts, 195 Wn. App. at 856-57.
+¶10 We agree with Division Two’s analysis in Shirts. RCW 10.01.160(4) provides that a petition for remission can be made “at any time.” Accordingly, superior courts have no authority to deny a remission petition simply because an individual is in custody. As recognized in Shirts, incarcerated persons can suffer noneconomic harms, such as increased security classification or restricted access to transitional classes or programming, as a result of LFO orders. Shirts, 195 Wn. App. at 852. Superior courts should therefore consider petitions filed by inmates and determine whether the court’s imposition of LFOs has created a manifest hardship.
+¶11 Based on our agreement with Shirts, the superior court erred when it denied Mr. Wilson’s motion for remission solely on the basis of his status as an incarcerated person. Nevertheless, that does not mean Mr. Wilson is entitled to relief. Unlike Mr. Shirts, Mr. Wilson has not alleged that the court’s LFO order has caused him any noneconomic hardships. We remain bound by the rule in Blank that a manifest hardship analysis is not ripe for review until after the State initiates collection. Furthermore, we maintain our rule in Crook that garnishment of inmate wages by the Department of Corrections does not constitute collection. Shirts did not rule otherwise.
+CONCLUSION
+¶12 While Mr. Wilson is not barred from seeking remission of his LFOs prior to release from custody, he has not asserted a basis for relief that would warrant consideration on the merits. The superior court’s order denying Mr. Wilson’s motion to remit LFOs is therefore affirmed.
+Lawrence-Berrey, A.C.J., and Siddoway, J., concur.
