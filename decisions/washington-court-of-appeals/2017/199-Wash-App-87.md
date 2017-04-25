@@ -2,7 +2,7 @@
 court: "Washington Court of Appeals"
 docket: "48432-3-II"
 decided: "2017-04-25"
-citations: ["199 Wash. App. 87", "198 Wash. App. 1056"]
+citations: ["199 Wash. App. 87"]
 reporter: "wash-app"
 precedential_status: "published"
 precedential_note: "printed in a reporter; CAP records no other status"
@@ -11,7 +11,7 @@ parties: ["River Stone Holdings NW, LLC, Respondent, v. Alice M. Lopez et al., A
 source_url: "https://static.case.law/wash-app/199/cases/0087-01.json"
 source: "Caselaw Access Project (Harvard Law School Library), CC0"
 cap_id: 12452478
-cites_cases: ["111 Wn. App. 617", "131 P. 190", "149 Wn.2d 214", "167 Wn. App. 789", "174 Wn.2d 560", "176 Wn. App. 475", "179 Wn.2d 301", "181 Wn.2d 412", "184 Wn.2d 509", "187 Wn. App. 105", "188 Wn. App. 376", "196 Wn. App. 688", "199 Wn. App. 87", "274 P.3d 1075", "276 P.3d 1277", "309 P.3d 636", "313 P.3d 1171", "334 P.3d 529", "347 P.3d 947", "353 P.3d 644", "359 P.3d 771", "385 P.3d 188", "45 P.3d 627", "55 Wn. App. 143", "67 P.3d 1061", "73 Wash. 10", "776 P.2d 996", "92 Wn. App. 523", "963 P.2d 944"]
+cites_cases: ["111 Wn. App. 617", "131 P. 190", "149 Wn.2d 214", "167 Wn. App. 789", "174 Wn.2d 560", "176 Wn. App. 475", "179 Wn.2d 301", "181 Wn.2d 412", "184 Wn.2d 509", "187 Wn. App. 105", "188 Wn. App. 376", "196 Wn. App. 688", "274 P.3d 1075", "276 P.3d 1277", "309 P.3d 636", "313 P.3d 1171", "334 P.3d 529", "347 P.3d 947", "353 P.3d 644", "359 P.3d 771", "385 P.3d 188", "45 P.3d 627", "55 Wn. App. 143", "67 P.3d 1061", "73 Wash. 10", "776 P.2d 996", "92 Wn. App. 523", "963 P.2d 944"]
 ---
 
 # River Stone Holdings NW, LLC v. Lopez
